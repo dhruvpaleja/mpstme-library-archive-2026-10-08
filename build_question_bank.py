@@ -52,10 +52,12 @@ XLSX_PREVIEW_ROWS = 25           # larger ones (data sets) give up to this many 
                                  # the column headings and sample values
 IMAGE_REGION_SHARE = 0.06        # a picture covering this much of a text-layer page is OCR'd ...
 IMAGE_TEXT_TOKENS = 15           # ... and its text kept when it has this many words/numbers
+CHART_LINE_SHARE = 0.6           # ... unless this share of its lines is a lone short token (a chart's axis ticks)
 IMAGE_TEXT_CONFIDENCE = 60       # at this mean confidence (diagrams and photos read far below both)
 TURNED_TEXT_CHARS = 200         # turned text of at least this many characters (and TURNED_TEXT_SHARE of the
 TURNED_TEXT_SHARE = 0.3          # page) is laid out in its own direction; less stays inline (vertical headings)
 MIN_PAGE_IMAGE = 400            # pixels: smaller images in a truncated PDF are logos, not page scans
+TURNED_MIN_TOKENS = 25           # a turned reading must say at least this much to be kept
 TRIAL_DPI = 100                  # quick read of a weak page turned a quarter: a sideways table reads at
 TRIAL_CONFIDENCE = 38            # 40-50 mean confidence with hundreds of tokens even at this resolution,
 TRIAL_TOKENS = 50                # handwriting or a blank page at 20-35 with a few dozen
@@ -270,9 +272,10 @@ def ocr_tokens(text):
 def turned_reading_better(old_confidence, old_tokens, new_text, new_confidence):
     """Orientation detection is unreliable on handwriting (it often calls an upright handwritten page upside
     down), so a turned reading replaces the original only when it is confidently read and clearly better: a
-    sideways printed page jumps from near-noise to 70-95 mean confidence once turned."""
+    sideways printed page jumps from near-noise to 70-95 mean confidence once turned. A turned reading with
+    almost nothing in it (a phone photo's camera watermark) gains nothing and is not kept."""
     return (new_confidence or 0) >= LOW_OCR_CONFIDENCE and (new_confidence or 0) >= (old_confidence or 0) + 10 \
-        and ocr_tokens(new_text) >= old_tokens
+        and ocr_tokens(new_text) >= max(old_tokens, TURNED_MIN_TOKENS)
 
 
 def turned_reading(page, pymupdf, dpi, png, confidence, tokens):
@@ -466,6 +469,16 @@ def image_regions(page, pymupdf):
     return sorted(regions, key=lambda r: (round(r.y0), r.x0))
 
 
+def reads_as_text(text, confidence):
+    """Is a picture's OCR worth keeping? Prose, worked solutions and tables are; a chart (its axis ticks read as
+    one short number per line) or a near-empty diagram is not."""
+    if (confidence or 0) < IMAGE_TEXT_CONFIDENCE or ocr_tokens(text) < IMAGE_TEXT_TOKENS:
+        return False
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    lone = sum(1 for line in lines if len(line.split()) == 1 and len(line) <= 8)     # "25", "0.5", "1S)"
+    return lone < CHART_LINE_SHARE * len(lines)
+
+
 def image_text(page, pymupdf):
     """{'images_text': ..., 'images_ocr_confidence': ...} for the large pictures on a text-layer page whose OCR
     reads as text (a diagram or photo reads as a few low-confidence fragments and is left out); else {}."""
@@ -473,7 +486,7 @@ def image_text(page, pymupdf):
     for box in image_regions(page, pymupdf):
         dpi = max(72, min(OCR_DPI, int(MAX_OCR_PIXELS * 72 / max(box.width, box.height))))
         text, confidence = ocr_png(page.get_pixmap(clip=box, dpi=dpi, colorspace=pymupdf.csGRAY).tobytes('png'))
-        if ocr_tokens(text) >= IMAGE_TEXT_TOKENS and (confidence or 0) >= IMAGE_TEXT_CONFIDENCE:
+        if reads_as_text(text, confidence):
             pieces.append((tidy(text), confidence))
     if not pieces:
         return {}
@@ -510,8 +523,7 @@ def docx_images(data):
                     reading = ocr_page(page, pymupdf)
             except (RuntimeError, ValueError):
                 continue
-            if ocr_tokens(reading['text']) >= IMAGE_TEXT_TOKENS and \
-                    (reading['ocr_confidence'] or 0) >= IMAGE_TEXT_CONFIDENCE:
+            if reads_as_text(reading['text'], reading['ocr_confidence']):
                 pages.append({'page': len(pages) + 2, **reading, 'image': PurePosixPath(path).name})
     return pages
 
