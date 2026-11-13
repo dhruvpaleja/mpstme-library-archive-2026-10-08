@@ -52,7 +52,11 @@ RAW_MEMBERS_FILE = HERE / 'question_bank' / 'raw_zip_members.json'   # papers ke
 RAW_PAPERS_FILE = HERE / 'question_bank' / 'raw_zip_papers.jsonl'    # their SHA-256 and size, read from the ZIPs
 IN_ZIP = ' :: '                                     # "<zip path> :: <member>" names a file inside a ZIP
 TREE_NAME = 'PYQs_By_Subject'
-KIND_ORDER = {'Question paper': 0, 'Answer key': 1, 'Dataset': 2, 'ZIP of papers': 3}   # listing order
+KIND_ORDER = {'Question paper': 0, 'Answer key': 1, 'Dataset': 2, 'ZIP of papers': 3, 'Syllabus': 4}   # listing order
+SYLLABUS_ROOT = '04_Syllabi_Archive/'
+EXAM_FILE = re.compile(          # exam papers by file name: '_Final_Exam_', 'Re_Rexam', 'Fianl_Exam', '_Final_2021-22',
+    r'(?i)(?:final|fianl|re|end[\s_\-]*sem(?:ester)?)[\s_\-]*r?exam|^(?:QP|ANS)_|question[\s_\-]*paper'   # 'Sem8_Final',
+    r'|(?:^|[_\s\-])(?:final|fianl)(?:[_\s\-]*(?:\d{2}(?:\d{2})?(?:-\d{2,4})?)|[_\s\-]*$)')        # 'Final0001'
 CSV_FIELDS = ['subject', 'academic_year', 'exam', 'kind', 'semester', 'programme', 'source', 'bytes', 'sha256',
               'path', 'filed_as', 'note']
 
@@ -476,6 +480,10 @@ def question_paper_path(location):
     parts = [p for p in location.split('/') if p]
     if len(parts) >= 3 and parts[0] == 'QUESTIONS PAPERS':
         return QP_ROOT + 'Legacy/' + '/'.join(parts[1:])
+    if len(parts) >= 4 and parts[0] == 'SYLLABUS' and EXAM_FILE.search(parts[-1]):
+        # The portal's syllabus section also holds exam papers ('..._Year_2022-23__Final_Exam_x.pdf') under
+        # <programme>/<year of study>/<branch>/<semester>/<subject>/: file them like the legacy papers.
+        return QP_ROOT + 'Legacy/' + '/'.join(parts[1:])
     if len(parts) >= 6 and re.fullmatch(r'(?:19|20)\d\d', parts[0]):
         # <year>/Semester <n>/<exam>/<programme - code>/<subject>/<file>; some ZIPs nest a second
         # <exam>/<programme>/<subject> inside the first, so the programme is the last folder with a code.
@@ -692,6 +700,14 @@ def classify(manifest_files, aliases=None, overrides=None, raw_rows=()):
             record['subject'] = resolve(fix['subject'])
             printed = fix.get('printed') or fix['subject']
             record['note'] = f'filed under "{record["filed_as"]}" but the paper is headed "{printed}"'
+    # A file the portal also lists among the syllabi (the same bytes in 04_Syllabi_Archive/) is a syllabus that
+    # was filed with the question papers: it is kept here but not read as a paper.
+    syllabi = {r['sha256'] for r in manifest_files if r['path'].startswith(SYLLABUS_ROOT)}
+    for record in records:
+        if record['sha256'] in syllabi and record['kind'] == 'Question paper':
+            record['kind'] = 'Syllabus'
+            record['note'] = ((record['note'] + '; ') if record['note'] else '') + \
+                'a syllabus filed with the question papers (the same file is in 04_Syllabi_Archive/)'
     return records
 
 # ============================================================================ manifest and index I/O

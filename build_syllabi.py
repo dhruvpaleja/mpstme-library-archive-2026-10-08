@@ -51,14 +51,21 @@ CONNECTOR_END = re.compile(r'(?i)(\band|\bof|\bfor|\bin|\bto|\bwith|&|-|,)$')
 BATCH = re.compile(r'(?i)batch\s*\(?\s*((?:19|20)\d\d)\s*(?:-|to)\s*((?:19|20)\d\d)')
 SCHEME = re.compile(r'(?i)tea\w*\s*sche\w*|course structure')
 LOW_QUALITY = 60                                                       # mean OCR confidence
+EXAM_KINDS = ('Exam paper', 'Answer key', 'Exam data set')
 ELECTIVE_TAG = re.compile(r'(?i)\s*[(\[][^()\[\]]*\b(?:elective|basket)\b[^()\[\]]*[)\]]')
 ELECTIVE_PREFIX = re.compile(
-    r'(?i)^\(?\s*(?:(?:open|department(?:al)?|dept\.?|professional|programme|program|institute|interdisciplinary)\s*)?'
+    r'(?i)^\(?\s*(?:(?:open|department(?:al)?|dept\.?|professional|programme|program|institute|interdisciplinary|core)\s*)?'
     r'elective\b(?:\s*course)?\s*[-–:]?\s*(?:[IVXL]{1,4}\b|\d{1,2}\b)?\s*\)?\s*[-–:]?\s*')
 TRAILING_JUNK = re.compile(       # OCR specks after a title: "Fluid Mechanics ha", "Radar SS", "Design . OM", "#"
     r'(?:\s+(?:[^\w\s()]+|[a-z]{1,2}|[A-Z][a-z]|(?!AI|ML|IT|OS|UI|UX|II|IV|VI|IX|XI|VR|AR|PM|HR|GD)[A-Z]{2}|'
     r'[ABD-HJ-QS-UWYZ]))+$')
 EMBEDDED_CODE = re.compile(r'(?i)\s+(?:(?:module|course|subject)\s*)?(?:code)?\s*[:\-–]\s*[A-Z0-9]*\d[A-Z0-9]*$')
+CODE_MARKER = re.compile(        # everything from a "Code:" (OCR: "Codg", "“|Code") or "Time:" marker on is not the name
+    r'(?i)[\s|“”"+_~(\-–:;]*\b(?:(?:module|course|subject)\s*)?cod[eg]\b|\s+time\s*:')
+CODE_TOKENS = re.compile(r"(?:[\s,;|_]+(?=[A-Za-z0-9'’{}|°]{6,})[A-Za-z'’]*\d[A-Za-z0-9'’{}|°]*)+[\s_~|]*$")  # "BTC101002, BTMA01002"
+CATEGORY_TAG = re.compile(r'(?i)^\(\s*(?:BSC|ESC|HSC|HSMC|PCC|PEC|OEC|BS|ES|HS|MC)\s*\)\s*[-–:]?\s*')
+ELECTIVE_LABEL = re.compile(r'(?i)^\(?\s*(?:(?:professional|open|department(?:al)?|core|programme|program)\s*)?'
+                            r'elective(?:\s*course)?\s*[-–:]?\s*(?:[IVX]{1,4}|\d{1,2})?\s*\)?$')
 GENERIC = re.compile(r'(?i)^(?:module|course|subject|code|name|title|elective|open elective|syllabus)s?$')
 OCR_NUMERAL = [(re.compile(r'(?<=[a-z])[\s\-–]+(?:lll|Ill|111|IlI)(?:\s+\d)?$'), ' III'),
                (re.compile(r'(?<=[a-z])[\s\-–]+(?:ll|Il|lI|11)(?:\s+\d)?$'), ' II'),
@@ -87,7 +94,8 @@ def location_facts(location):
     branch = branch_name(branch)
     batch = next((f'{m.group(1)}-{m.group(2)}' for m in map(BATCH.search, folders) if m), '')
     semester = org.semester_label(folders[::-1][:2]) or semester_from_name(name)
-    kind = 'Teaching scheme' if any(SCHEME.search(p) for p in folders + [name]) else 'Syllabus'
+    kind = ('Exam paper' if org.EXAM_FILE.search(name) else             # the portal filed some papers here
+            'Teaching scheme' if any(SCHEME.search(p) for p in folders + [name]) else 'Syllabus')
     return {'programme': programme, 'branch': branch, 'branch_as_filed': filed, 'year_of_study': year_of_study, 'batch': batch,
             'semester': semester, 'academic_year': org.academic_year(name), 'kind': kind}
 
@@ -156,9 +164,17 @@ def syllabus_documents(manifest_files):
 
 
 def clean_course_name(name):
-    """The course itself, without elective labels and with OCR-misread numerals fixed:
-    'Department Elective I - Product Design' -> 'Product Design', 'Engineering Drawing-l' -> 'Engineering Drawing I'."""
-    text = EMBEDDED_CODE.sub('', name).strip()
+    """The course itself, without codes, elective labels and category tags, and with OCR-misread numerals fixed:
+    'Department Elective I - Product Design' -> 'Product Design', 'Engineering Drawing-l' -> 'Engineering Drawing I',
+    'Cloud Computing Code: 702IT0C026 702IT0C026' -> 'Cloud Computing', '(BSC) - Polymers in Engineering' ->
+    'Polymers in Engineering', 'IV (Pavement Design and Construction)' -> 'Pavement Design and Construction'."""
+    text = CODE_MARKER.split(name)[0]
+    text = CODE_TOKENS.sub('', EMBEDDED_CODE.sub('', text)).strip()
+    text = CATEGORY_TAG.sub('', text).strip()
+    text = re.sub(r'[{}]', '', text)
+    wrapped = re.fullmatch(r'(?:[IVX1l]{1,4}\s*)?\(([^()]{3,})\)[\W_]*', text)       # "1V (Name)", "(Name) _"
+    if wrapped:
+        text = wrapped.group(1).strip()
     text = ELECTIVE_TAG.sub('', text).strip()
     text = re.sub(r'(?i)\s*\(\s*elective[^()]*$|\s+elective\s*[-–]?\s*(?:[IVX]{1,4}|\d)?$', '', text).strip()
     text = ELECTIVE_PREFIX.sub('', text).strip() or text
@@ -168,19 +184,26 @@ def clean_course_name(name):
         text = TRAILING_JUNK.sub('', text).strip(' .:;-–|,&«»')
     for pattern, numeral in OCR_NUMERAL:
         text = pattern.sub(numeral, text)
-    text = re.sub(r'\s+', ' ', text).strip(' .:;-–|,&')
+    text = re.sub(r'\s+', ' ', text).strip(' .:;-–|,&_~')
     return text if len(re.findall(r'[A-Za-z]', text)) >= 3 else name
 
 
 def is_course_name(name):
-    return len(re.findall(r'[A-Za-z]', name)) >= 3 and not GENERIC.match(name.strip())
+    """Not a label ("Elective", "(Professional Elective Course-3)"), a sentence picked up from the course text, or
+    OCR noise ("A Advanced d v a n d Pm-nno+- Computer ...")."""
+    words = name.split()
+    return (len(re.findall(r'[A-Za-z]', name)) >= 3 and not GENERIC.match(name.strip())
+            and not ELECTIVE_LABEL.match(name.strip()) and len(words) <= 10
+            and sum(len(w) == 1 and w.isalpha() and w not in 'AI&' for w in words) <= max(1, len(words) // 5))
 
 
 def course_name(match, lines, index):
     name = re.sub(r'\s+', ' ', match.group('name')).strip(' .:;-–|')
     name = re.split(r'\s{2,}|\s+(?:semester|sem|program(?:me)?|credits?|year)\s*[:\-–]', name, flags=re.I)[0]
+    coded = CODE_MARKER.split(name)
+    name = coded[0].strip(' .:;-–|')                                    # "X and Code: COA" (two codes defeat COURSE_LINE)
     following = next((l.strip() for l in lines[index + 1:index + 3] if l.strip()), '')
-    if (following and (match.group('code') or CONNECTOR_END.search(name)) and CONTINUATION.match(following)
+    if (following and (match.group('code') or len(coded) > 1 or CONNECTOR_END.search(name)) and CONTINUATION.match(following)
             and len(following.split()) <= 5 and not NOT_A_NAME.match(following)):
         name = f'{name} {following}'                                    # title wrapped under the code column
     return name.strip(' .:;-–|,&')
@@ -293,6 +316,12 @@ def sort_key(doc):
 def write_outputs(docs, texts, rows, aliases):
     matcher = SubjectMatcher(rows, aliases)
     folders = org.subject_folders({r['subject'] for r in rows})
+    paper_subject = {r['sha256']: r['subject'] for r in sorted(rows, key=lambda r: r['path'])[::-1]}
+    filed_as = {'Question paper': 'Exam paper', 'ZIP of papers': 'Exam paper', 'Answer key': 'Answer key',
+                'Dataset': 'Exam data set'}
+    for r in rows:                      # the same file filed as a paper elsewhere: whatever its name, it is one
+        if r['kind'] in filed_as and r['sha256'] in docs:
+            docs[r['sha256']]['kind'] = filed_as[r['kind']]
     if OUT.exists():
         for child in OUT.iterdir():
             if child != TEXT_CACHE:
@@ -308,6 +337,8 @@ def write_outputs(docs, texts, rows, aliases):
         record = texts.get(doc['sha256'])
         pages, method, confidence, quality = doc_summary(record)
         doc.update(pages=len(pages), method=method, ocr_confidence=confidence, text_quality=quality)
+        doc['damage'] = (record or {}).get('damage')
+        doc['pages_turned_upright'] = sum(1 for p in pages if p.get('rotated')) or None
         doc['courses'] = []
         if doc['kind'] == 'Syllabus' and pages:
             for printed, code, semester, first, last, text in split_courses(pages):
@@ -328,7 +359,9 @@ def write_outputs(docs, texts, rows, aliases):
         doc_lines.append({k: doc[k] for k in ('sha256', 'locations', 'programme', 'branch', 'branch_as_filed',
                                                'year_of_study', 'batch',
                                                'semester', 'academic_year', 'kind', 'pages', 'method',
-                                               'ocr_confidence', 'text_quality', 'courses', 'bytes')})
+                                               'ocr_confidence', 'text_quality', 'pages_turned_upright', 'damage',
+                                               'courses', 'bytes')
+                          if doc[k] is not None or k not in ('pages_turned_upright', 'damage')})
     unmatched = course_groups([c['course'] for c in course_records if not c['subject']], matcher)
     for course in course_records:
         course['course_group'] = course['subject'] or unmatched[course['course']]
@@ -397,9 +430,12 @@ def write_outputs(docs, texts, rows, aliases):
             branches[shown[key]].append((doc, pages))
         lines = [f'# {programme} syllabi', '',
                  f"{len(entries)} documents ({sum(d['kind'] == 'Teaching scheme' for d, _ in entries)} teaching "
-                 'schemes). [`courses.jsonl`](courses.jsonl) has every course section found in them, with its text. '
+                 f"schemes, {sum(d['kind'] in EXAM_KINDS for d, _ in entries)} exam papers and answer keys filed with "
+                 "the syllabi). "
+                 '[`courses.jsonl`](courses.jsonl) has every course section found in them, with its text. '
                  'Each branch file lists its documents; syllabus documents link to their courses (filed by subject), '
-                 'and teaching schemes and other documents are given in full.', '']
+                 'exam papers link to their subject in the question bank, and teaching schemes and other documents '
+                 'are given in full.', '']
         for branch in sorted(branches, key=org.caseless):
             name = org.safe_name(org.folder_name(branch) + '.md')
             lines += [f'## {branch}', '', f'Details and text: [`{name}`]({quote(name)})', '',
@@ -419,8 +455,18 @@ def write_outputs(docs, texts, rows, aliases):
                          f" · {doc['pages']} pages · text from {doc['method']}"
                          + (f", mean OCR confidence {doc['ocr_confidence']}" if doc['ocr_confidence'] is not None else ''),
                          f"- Source: `{doc['locations'][0]}`" + (f" (+{len(doc['locations']) - 1} identical copies)"
-                                                                 if len(doc['locations']) > 1 else ''), '']
-                if courses:
+                                                                 if len(doc['locations']) > 1 else '')]
+                body += [f"- Damaged file: {doc['damage']}"] if doc['damage'] else []
+                body += [f"- {doc['pages_turned_upright']} page{'s' if doc['pages_turned_upright'] != 1 else ''} "
+                         f"scanned sideways or upside down, turned upright before OCR"] if doc['pages_turned_upright'] else []
+                body += ['']
+                if doc['kind'] in EXAM_KINDS and doc['sha256'] in paper_subject:
+                    subject = paper_subject[doc['sha256']]
+                    body += [f"{'An answer key' if doc['kind'] == 'Answer key' else 'An exam paper'} the portal filed "
+                             f"with the syllabi. Its text{'' if doc['kind'] == 'Answer key' else ' and questions'} are in the "
+                             f"question bank: [{org.md_cell(subject)}](../../subjects/{quote(folders[subject])}/README.md).",
+                             '']
+                elif courses:
                     groups_here = list(dict.fromkeys(c['course_group'] for c in course_records
                                                      if c['sha256'] == doc['sha256']))
                     body += ['Courses (full text in each course file):', '']
@@ -437,8 +483,10 @@ def write_outputs(docs, texts, rows, aliases):
     matched = sum(1 for c in course_records if c['subject'])
     lines = [
         '# Syllabi and teaching schemes', '',
-        f"All **{stats['documents']:,}** syllabus documents in the archive ({stats['kind:Teaching scheme']:,} teaching "
-        f"schemes, {stats['pages']:,} pages) read into text, from `04_Syllabi_Archive/`, "
+        f"All **{stats['documents']:,}** documents in the archive's syllabus sections ({stats['kind:Syllabus']:,} "
+        f"syllabi, {stats['kind:Teaching scheme']:,} teaching schemes, and {sum(stats['kind:' + k] for k in EXAM_KINDS):,} "
+        f"exam papers and answer keys "
+        f"the portal filed there; {stats['pages']:,} pages) read into text, from `04_Syllabi_Archive/`, "
         '`01_Current_Electives_2026-27/` and syllabi kept only inside the portal\'s ZIP downloads. Syllabus documents '
         f"were split into **{len(course_records):,} course sections**; {matched:,} belong to a subject that has past "
         'papers and are also in that subject\'s folder as `syllabus.md`, next to its question papers.', '',
@@ -448,7 +496,10 @@ def write_outputs(docs, texts, rows, aliases):
         f"- Text quality: {stats['quality:ok']:,} documents read cleanly, {stats['quality:low']:,} are poor scans "
         f"(mean OCR confidence below {LOW_QUALITY}), {stats['quality:unreadable']:,} gave no text.",
         '- Teaching schemes are mostly scanned tables; their OCR text is kept in full in the branch files '
-        '(`<Programme>/<Branch>.md`) but is not split into courses.', '',
+        '(`<Programme>/<Branch>.md`) but is not split into courses.',
+        '- Exam papers and answer keys found among the syllabi (file names such as `..._Final_Exam_...`, or the same '
+        'file filed as a paper elsewhere) are not split into courses: each is in the question bank under its subject '
+        '(`subjects/`), and its branch-file entry links there.', '',
         '## Programmes', '', '| Programme | Documents | Branches |', '| --- | ---: | --- |']
     for programme in sorted(by_programme, key=org.caseless):
         entries = by_programme[programme]
