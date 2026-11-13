@@ -923,7 +923,9 @@ def build_subject(subject, papers, folder, texts, stats):
                              'only partly readable. Restore the original file to read it.')
             ticks = fence(text)
             target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
-            if first['kind'] == 'Question paper':
+            # Papers inside a ZIP are question papers too, unless their file name marks them as answers.
+            if first['kind'] == 'Question paper' or (
+                    first['kind'] == 'ZIP of papers' and not re.search(r'(?i)\b(ans|answers?|solutions?|key)\b', label)):
                 parsed = [q for q in parse_questions(text) if q['text']]
                 stats['question_papers_read'] += 1
                 stats['question_papers_split'] += len({q['question'] for q in parsed}) >= 3

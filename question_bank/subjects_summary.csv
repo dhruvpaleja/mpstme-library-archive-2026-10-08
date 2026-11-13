@@ -7,7 +7,7 @@ Advance Chemistry II,subjects/Advance Chemistry II,Chemical,6,157,2005-06,2009-1
 Advance Computing Application,subjects/Advance Computing Application,Chemical,2,31,2007-08,2008-09
 Advance Data Structure for Analytics,subjects/Advance Data Structure for Analytics,Data Science,20,155,2022-23,2025-26
 Advance Database Techniques,subjects/Advance Database Techniques,Computer Applications (MCA),6,82,2008-09,2013-14
-Advance DSP,subjects/Advance DSP,Electronics and Telecommunication; Electronics,12,131,2010-11,2016-17
+Advance DSP,subjects/Advance DSP,Electronics and Telecommunication; Electronics,12,174,2010-11,2016-17
 Advance Manufacturing Processes,subjects/Advance Manufacturing Processes,Mechanical,3,32,2022-23,2023-24
 Advance Mathematics,subjects/Advance Mathematics,Civil; Information Technology,8,78,2010-11,2014-15
 Advance Mathematics I,subjects/Advance Mathematics I,Electronics and Telecommunication; Computer Engineering; Mechanical,13,120,2010-11,2014-15
@@ -26,16 +26,16 @@ Advanced Data Structures,subjects/Advanced Data Structures,Information Technolog
 Advanced Database Management Systems,subjects/Advanced Database Management Systems,Information Technology; Computer Engineering; Computer Applications (MCA); Data Science; Computer Science; AI and Machine Learning,70,709,2013-14,2025-26
 Advanced Databases,subjects/Advanced Databases,Computer Engineering,1,11,2017-18,2017-18
 Advanced Design of Concrete Structures,subjects/Advanced Design of Concrete Structures,Civil,10,57,2013-14,2018-19
-Advanced Digital Communication,subjects/Advanced Digital Communication,Electronics and Telecommunication; Electronics,19,182,2007-08,2016-17
+Advanced Digital Communication,subjects/Advanced Digital Communication,Electronics and Telecommunication; Electronics,19,311,2007-08,2016-17
 Advanced Economics,subjects/Advanced Economics,Information Technology; Manufacturing,1,4,2007-08,2007-08
 Advanced Embedded Systems,subjects/Advanced Embedded Systems,Industrial Automation,3,36,2014-15,2016-17
 Advanced Geotechnical Engineering,subjects/Advanced Geotechnical Engineering,Civil,4,54,2021-22,2023-24
 Advanced Image Processing,subjects/Advanced Image Processing,Computer Engineering; Electronics and Telecommunication,23,380,2007-08,2018-19
 Advanced Java,subjects/Advanced Java,Computer Applications (MCA),35,440,2008-09,2025-26
 Advanced Mathematics II,subjects/Advanced Mathematics II,Chemical; Civil; Information Technology; Computer Engineering; Mechanical,6,50,2010-11,2012-13
-Advanced Medical Electronics,subjects/Advanced Medical Electronics,Electronics,4,42,2010-11,2012-13
+Advanced Medical Electronics,subjects/Advanced Medical Electronics,Electronics,4,63,2010-11,2012-13
 Advanced Microcontrollers,subjects/Advanced Microcontrollers,Electronics and Telecommunication; Industrial Automation; Electronics,14,187,2013-14,2018-19
-Advanced Microwave Engineering,subjects/Advanced Microwave Engineering,Electronics and Telecommunication,13,101,2007-08,2016-17
+Advanced Microwave Engineering,subjects/Advanced Microwave Engineering,Electronics and Telecommunication,13,143,2007-08,2016-17
 Advanced Modeling for Business Analytics,subjects/Advanced Modeling for Business Analytics,Data Science,6,85,2022-23,2025-26
 Advanced Project Management,subjects/Advanced Project Management,Common (all branches); Artificial Intelligence; Computer Engineering; Data Science; Information Technology; Mechanical,10,50,2013-14,2025-26
 "Advanced Social, Text and Media Analytics","subjects/Advanced Social, Text and Media Analytics",Computer Science and Business Systems,15,148,2022-23,2025-26
@@ -78,7 +78,7 @@ Android Application Development,subjects/Android Application Development,Data Sc
 Android Operating System,subjects/Android Operating System,Data Science,1,11,2018-19,2018-19
 Antenna and Wave Propagation,subjects/Antenna and Wave Propagation,Electronics and Telecommunication; Electronics,17,296,2013-14,2018-19
 Antenna System Design,subjects/Antenna System Design,Electronics and Telecommunication,4,91,2013-14,2015-16
-Antenna Theory and Design,subjects/Antenna Theory and Design,Electronics and Telecommunication,1,0,2007-08,2007-08
+Antenna Theory and Design,subjects/Antenna Theory and Design,Electronics and Telecommunication,1,8,2007-08,2007-08
 Application Architecture and Deployment,subjects/Application Architecture and Deployment,Data Science; Artificial Intelligence,9,84,2024-25,2025-26
 Application of Power Electronics in Power Systems,subjects/Application of Power Electronics in Power Systems,Electrical,3,40,2018-19,2019-20
 Application Security Testing,subjects/Application Security Testing,Cyber Security,9,173,2022-23,2025-26
@@ -95,7 +95,7 @@ Applied Mathematics III,subjects/Applied Mathematics III,Common (all branches); 
 Applied Mathematics IV,subjects/Applied Mathematics IV,Data Science; Information Technology,2,19,2012-13,2019-20
 Applied Physics I,subjects/Applied Physics I,Common (all branches); Computer Engineering; Computer Science; Information Technology; Mechanical,57,718,2004-05,2025-26
 Applied Physics II,subjects/Applied Physics II,Common (all branches); Computer Engineering; Computer Science; Information Technology; Mechanical,41,523,2004-05,2025-26
-Applied Satellite Communication,subjects/Applied Satellite Communication,Electronics and Telecommunication,12,95,2006-07,2016-17
+Applied Satellite Communication,subjects/Applied Satellite Communication,Electronics and Telecommunication,12,202,2006-07,2016-17
 Applied Statistics,subjects/Applied Statistics,Artificial Intelligence,1,15,2024-25,2024-25
 Applied Statistics and Time Series Forecasting,subjects/Applied Statistics and Time Series Forecasting,Artificial Intelligence,2,30,2024-25,2025-26
 Applied Thermodynamics,subjects/Applied Thermodynamics,Mechanical,33,423,2011-12,2025-26
@@ -140,7 +140,7 @@ Bio Chemical Engineering,subjects/Bio Chemical Engineering,Chemical,1,12,2012-13
 Biology for Engineers,subjects/Biology for Engineers,Chemical,2,21,2021-22,2021-22
 Biomechanics,subjects/Biomechanics,Mechanical,5,37,2023-24,2025-26
 Biomedical Instrumentation,subjects/Biomedical Instrumentation,Mechatronics,7,71,2023-24,2025-26
-Biometrics,subjects/Biometrics,Computer Engineering; AI and Data Science; Artificial Intelligence; Data Science; Information Technology,28,344,2010-11,2025-26
+Biometrics,subjects/Biometrics,Computer Engineering; AI and Data Science; Artificial Intelligence; Data Science; Information Technology,28,357,2010-11,2025-26
 Biometrics Applications,subjects/Biometrics Applications,Computer Engineering,1,16,2012-13,2012-13
 Block Chain,subjects/Block Chain,Data Science,1,7,2022-23,2022-23
 Blockchain Security and Forensics,subjects/Blockchain Security and Forensics,Cyber Security,5,40,2022-23,2025-26
@@ -229,7 +229,7 @@ Computer Communication Networks,subjects/Computer Communication Networks,Electro
 Computer Fundamental,subjects/Computer Fundamental,Common (all branches),10,223,2004-05,2009-10
 Computer Graphics,subjects/Computer Graphics,Computer Engineering; Data Science; Information Technology,38,404,2013-14,2025-26
 Computer Networking,subjects/Computer Networking,Computer Applications (MCA); Computer Engineering,7,113,2008-09,2013-14
-Computer Networking and Design Principles,subjects/Computer Networking and Design Principles,Computer Engineering; Information Technology,7,111,2011-12,2015-16
+Computer Networking and Design Principles,subjects/Computer Networking and Design Principles,Computer Engineering; Information Technology,7,132,2011-12,2015-16
 Computer Networks,subjects/Computer Networks,Information Technology; Computer Engineering; Computer Applications (MCA); Artificial Intelligence; Electronics and Telecommunication; Computer Science and Business Systems; Data Science; Cyber Security; AI and Data Science; Computer Science; AI and Machine Learning; Common (all branches),162,2170,2010-11,2025-26
 Computer Organization and Architecture,subjects/Computer Organization and Architecture,Computer Engineering; Information Technology; Computer Applications (MCA); Computer Science and Business Systems; Cyber Security; AI and Machine Learning; Data Science; Common (all branches); Electronics,127,1621,2007-08,2025-26
 Computer Organization and Machine Learning,subjects/Computer Organization and Machine Learning,Artificial Intelligence; Information Technology,1,0,2022-23,2022-23
@@ -239,7 +239,7 @@ Computer Programming II,subjects/Computer Programming II,Common (all branches); 
 Computer Programming III,subjects/Computer Programming III,Computer Engineering,13,179,2015-16,2018-19
 Computer Simulation and Modeling,subjects/Computer Simulation and Modeling,Information Technology; Electronics and Telecommunication,33,405,2006-07,2019-20
 Computer System Architecture,subjects/Computer System Architecture,Computer Science; Information Technology; Computer Engineering,10,85,2025-26,2025-26
-Computer Vision,subjects/Computer Vision,Artificial Intelligence; Data Science; Computer Engineering; AI and Data Science; AI and Machine Learning; Electronics and Telecommunication; Common (all branches); Information Technology,55,884,2011-12,2025-26
+Computer Vision,subjects/Computer Vision,Artificial Intelligence; Data Science; Computer Engineering; AI and Data Science; AI and Machine Learning; Electronics and Telecommunication; Common (all branches); Information Technology,55,897,2011-12,2025-26
 Computer Vision and Applications,subjects/Computer Vision and Applications,Data Science,10,219,2022-23,2025-26
 Concrete Technology,subjects/Concrete Technology,Civil,54,903,2012-13,2025-26
 Constitution of India,subjects/Constitution of India,Chemical; Information Technology; Manufacturing; Common (all branches),4,27,2008-09,2009-10
@@ -310,7 +310,7 @@ Data Science III,subjects/Data Science III,Data Science,2,77,2018-19,2019-20
 Data Structures,subjects/Data Structures,Computer Engineering; Information Technology; Computer Science,34,427,2013-14,2025-26
 Data Structures and Algorithms,subjects/Data Structures and Algorithms,Information Technology; Data Science; Computer Engineering; Artificial Intelligence; Computer Applications (MCA); Common (all branches); Mechatronics; Electronics and Telecommunication; Computer Science and Business Systems; Cyber Security; AI and Data Science; AI and Machine Learning; Computer Science,200,1857,2005-06,2025-26
 Data Warehouse Design,subjects/Data Warehouse Design,Information Technology,1,12,2013-14,2013-14
-Data Warehousing and Mining,subjects/Data Warehousing and Mining,Information Technology; Computer Engineering; Computer Applications (MCA); Cyber Security,93,1077,2006-07,2025-26
+Data Warehousing and Mining,subjects/Data Warehousing and Mining,Information Technology; Computer Engineering; Computer Applications (MCA); Cyber Security,93,1098,2006-07,2025-26
 Data Warehousing Mining and Business Intelligence,subjects/Data Warehousing Mining and Business Intelligence,Information Technology,7,86,2007-08,2012-13
 Data Wrangling,subjects/Data Wrangling,Data Science; AI and Data Science; Artificial Intelligence; AI and Machine Learning,31,298,2022-23,2025-26
 Data Wrangling Data Gathering and Cleaning ETL Process,subjects/Data Wrangling Data Gathering and Cleaning ETL Process,Data Science,1,5,2022-23,2022-23
@@ -364,7 +364,7 @@ Discrete Structures,subjects/Discrete Structures,Computer Engineering,24,526,201
 Discrete Time Signal Processing,subjects/Discrete Time Signal Processing,Electronics and Telecommunication,28,326,2017-18,2025-26
 Distributed Computing,subjects/Distributed Computing,Information Technology; Computer Engineering; Computer Applications (MCA); Computer Science; AI and Machine Learning; Cyber Security; Artificial Intelligence,103,1302,2006-07,2025-26
 Distributed Data Processing,subjects/Distributed Data Processing,Artificial Intelligence,5,42,2024-25,2025-26
-Distributed System,subjects/Distributed System,Computer Engineering; Information Technology,23,255,2006-07,2018-19
+Distributed System,subjects/Distributed System,Computer Engineering; Information Technology,23,268,2006-07,2018-19
 Docks and Harbour Engineering,subjects/Docks and Harbour Engineering,Civil,5,60,2023-24,2025-26
 Drone Technology,subjects/Drone Technology,Data Science; Computer Engineering; Common (all branches); Information Technology; Artificial Intelligence; Computer Science; Cyber Security; AI and Machine Learning; Electronics and Telecommunication; Mechanical; Mechatronics,50,364,2022-23,2025-26
 Dynamic System Modeling and Analysis,subjects/Dynamic System Modeling and Analysis,Mechatronics; Mechanical,5,60,2017-18,2021-22
@@ -412,7 +412,7 @@ Elements of Mechanical Engineering,subjects/Elements of Mechanical Engineering,M
 Elements of Project Management,subjects/Elements of Project Management,Common (all branches); Computer Engineering; Computer Science; Data Science; Electronics and Telecommunication; Information Technology; Mechanical; AI and Machine Learning; Artificial Intelligence; Cyber Security,46,358,2021-22,2025-26
 Embedded Processors and Real-Time Systems,subjects/Embedded Processors and Real-Time Systems,Electronics and Telecommunication,5,47,2025-26,2025-26
 Embedded System Design,subjects/Embedded System Design,Electronics and Telecommunication; Electronics,13,184,2013-14,2025-26
-Embedded Systems,subjects/Embedded Systems,Information Technology; Electronics and Telecommunication; Mechatronics; Electronics; Computer Engineering,38,395,2011-12,2025-26
+Embedded Systems,subjects/Embedded Systems,Information Technology; Electronics and Telecommunication; Mechatronics; Electronics; Computer Engineering,38,405,2011-12,2025-26
 Emerging Technologies in Key Industry Sectors,subjects/Emerging Technologies in Key Industry Sectors,Common (all branches),1,10,2017-18,2017-18
 Emerging Trends in Technology,subjects/Emerging Trends in Technology,Common (all branches),2,20,2017-18,2017-18
 Energy Economics Politics and Management,subjects/Energy Economics Politics and Management,Chemical,1,9,2022-23,2022-23
@@ -522,7 +522,7 @@ Fundamentals of Operating Systems,subjects/Fundamentals of Operating Systems,Inf
 Fundamentals of Physics,subjects/Fundamentals of Physics,Common (all branches),1,24,2019-20,2019-20
 Fundamentals of Structural Analysis,subjects/Fundamentals of Structural Analysis,Mechanical,1,9,2017-18,2017-18
 Fundamentals of Web Technology,subjects/Fundamentals of Web Technology,Computer Engineering,20,322,2013-14,2019-20
-Fuzzy Logic and Neural Networks,subjects/Fuzzy Logic and Neural Networks,Electronics and Telecommunication; Computer Engineering; Information Technology,12,146,2006-07,2018-19
+Fuzzy Logic and Neural Networks,subjects/Fuzzy Logic and Neural Networks,Electronics and Telecommunication; Computer Engineering; Information Technology,12,157,2006-07,2018-19
 Game Design,subjects/Game Design,Common (all branches); Computer Applications (MCA),9,92,2022-23,2024-25
 Gender Communication,subjects/Gender Communication,Electronics and Telecommunication; Data Science; Common (all branches); Artificial Intelligence; Computer Engineering; Mechatronics; Civil; Cyber Security; Information Technology; Mechanical; Computer Science and Business Systems,23,164,2022-23,2025-26
 Generative Adversarial Networks,subjects/Generative Adversarial Networks,Data Science,6,53,2024-25,2025-26
@@ -567,7 +567,7 @@ Hydrology,subjects/Hydrology,Civil,3,44,2011-12,2011-12
 I C Engines,subjects/I C Engines,Mechanical,26,469,2011-12,2021-22
 Image and Signal Processing,subjects/Image and Signal Processing,Data Science,1,9,2019-20,2019-20
 Image and Video Processing,subjects/Image and Video Processing,Computer Engineering; Electronics and Telecommunication; Computer Science; Data Science,39,536,2017-18,2025-26
-Image Processing,subjects/Image Processing,Computer Engineering; Electronics and Telecommunication; Information Technology; Computer Applications (MCA); Electronics,55,895,2006-07,2025-26
+Image Processing,subjects/Image Processing,Computer Engineering; Electronics and Telecommunication; Information Technology; Computer Applications (MCA); Electronics,55,947,2006-07,2025-26
 Image Processing and Pattern Recognition,subjects/Image Processing and Pattern Recognition,Computer Science and Business Systems,1,15,2022-23,2022-23
 Indian Financial System,subjects/Indian Financial System,Common (all branches); Computer Engineering; Information Technology; Mechanical,16,100,2018-19,2025-26
 Indian Knowledge System,subjects/Indian Knowledge System,Mechanical; Common (all branches); Artificial Intelligence; Civil; Computer Engineering; Cyber Security; Data Science; Information Technology; Mechatronics,8,66,2024-25,2025-26
@@ -671,7 +671,7 @@ IoT and Applications,subjects/IoT and Applications,Computer Engineering; Data Sc
 IoT for Smart Cities,subjects/IoT for Smart Cities,Artificial Intelligence,1,5,2023-24,2023-24
 IoT Security,subjects/IoT Security,Electronics and Telecommunication,5,52,2023-24,2025-26
 IoT System Architecture,subjects/IoT System Architecture,Electronics and Telecommunication,3,29,2022-23,2023-24
-IP Traffic Engineering,subjects/IP Traffic Engineering,Information Technology,2,9,2010-11,2012-13
+IP Traffic Engineering,subjects/IP Traffic Engineering,Information Technology,2,29,2010-11,2012-13
 Irrigation Engineering,subjects/Irrigation Engineering,Civil,28,412,2013-14,2021-22
 IT Project Management,subjects/IT Project Management,Computer Science and Business Systems,8,64,2023-24,2025-26
 IT Workshop,subjects/IT Workshop,Computer Science and Business Systems,2,25,2023-24,2024-25
@@ -751,7 +751,7 @@ Mechanical Measurements and Instrumentation,subjects/Mechanical Measurements and
 Mechanical Measurements and Metrology,subjects/Mechanical Measurements and Metrology,Mechanical,40,464,2013-14,2025-26
 Mechanics of Materials,subjects/Mechanics of Materials,Mechatronics,10,140,2021-22,2025-26
 Mechatronic Systems Design,subjects/Mechatronic Systems Design,Mechatronics; Industrial Automation; Mechanical,9,104,2014-15,2025-26
-Mechatronics,subjects/Mechatronics,Electronics; Mechanical,9,106,2011-12,2018-19
+Mechatronics,subjects/Mechatronics,Electronics; Mechanical,9,120,2011-12,2018-19
 Mechatronics and Controls,subjects/Mechatronics and Controls,Mechanical,29,444,2013-14,2019-20
 Media Marketing,subjects/Media Marketing,Common (all branches),6,54,2011-12,2014-15
 Media Planning,subjects/Media Planning,Common (all branches); Chemical; Mechanical; Computer Engineering; Information Technology; Artificial Intelligence; Electronics and Telecommunication,27,148,2015-16,2025-26
@@ -771,11 +771,11 @@ Microprocessors and Interfacing,subjects/Microprocessors and Interfacing,Mechatr
 Microservices and Architecture,subjects/Microservices and Architecture,Computer Engineering; Computer Applications (MCA); Computer Science and Business Systems,28,319,2023-24,2025-26
 Microservices Software Architecture,subjects/Microservices Software Architecture,Computer Applications (MCA),1,15,2022-23,2022-23
 Microwave and Antenna Theory,subjects/Microwave and Antenna Theory,Electronics and Telecommunication,16,152,2021-22,2025-26
-Microwave Integrated Circuits,subjects/Microwave Integrated Circuits,Electronics and Telecommunication; Electronics,11,35,2006-07,2012-13
+Microwave Integrated Circuits,subjects/Microwave Integrated Circuits,Electronics and Telecommunication; Electronics,11,136,2006-07,2012-13
 MLOps,subjects/MLOps,Data Science,6,78,2023-24,2025-26
 Mobile and Ad Hoc Networks,subjects/Mobile and Ad Hoc Networks,Electronics and Telecommunication,3,40,2023-24,2025-26
 Mobile Computing,subjects/Mobile Computing,Computer Engineering; Information Technology; Computer Applications (MCA); Electronics and Telecommunication; Computer Science and Business Systems,56,643,2011-12,2024-25
-Mobile Computing and Wireless Networking,subjects/Mobile Computing and Wireless Networking,Computer Engineering; Information Technology,10,129,2006-07,2013-14
+Mobile Computing and Wireless Networking,subjects/Mobile Computing and Wireless Networking,Computer Engineering; Information Technology,10,147,2006-07,2013-14
 Mobile Device Security and Forensics,subjects/Mobile Device Security and Forensics,Cyber Security; Computer Engineering,12,133,2022-23,2025-26
 Mobile Game Development,subjects/Mobile Game Development,Information Technology,2,15,2021-22,2021-22
 Modelling and Simulation,subjects/Modelling and Simulation,Common (all branches); Mechatronics; Artificial Intelligence; Computer Engineering; Cyber Security; Information Technology,35,375,2015-16,2025-26
@@ -783,7 +783,7 @@ Modern Construction Equipment and Techniques,subjects/Modern Construction Equipm
 Modern Construction Techniques,subjects/Modern Construction Techniques,Real Estate and Construction Management,4,29,2015-16,2018-19
 Modern Control Systems,subjects/Modern Control Systems,Mechatronics,4,25,2022-23,2024-25
 Modern Day Robotics and Its Industrial Applications,subjects/Modern Day Robotics and Its Industrial Applications,Computer Science and Business Systems,4,34,2023-24,2025-26
-Modern Digital Signal Processing,subjects/Modern Digital Signal Processing,Electronics and Telecommunication,4,0,2006-07,2009-10
+Modern Digital Signal Processing,subjects/Modern Digital Signal Processing,Electronics and Telecommunication,4,59,2006-07,2009-10
 Modern Web Applications,subjects/Modern Web Applications,Computer Science and Business Systems,3,20,2021-22,2024-25
 Multimedia,subjects/Multimedia,Computer Applications (MCA),10,146,2009-10,2013-14
 Multimedia and Animation,subjects/Multimedia and Animation,Computer Engineering; Data Science; Information Technology,6,56,2023-24,2024-25
@@ -827,8 +827,8 @@ Operations and Supply Chain Management,subjects/Operations and Supply Chain Mana
 Operations Management,subjects/Operations Management,Common (all branches); Information Technology; Chemical; Manufacturing; Computer Engineering; Artificial Intelligence; Data Science; Electronics and Telecommunication; Computer Applications (MCA),54,620,2007-08,2025-26
 Operations Research,subjects/Operations Research,Computer Applications (MCA); Computer Engineering; Mechanical; Information Technology; Chemical; Computer Science and Business Systems; Mechatronics; Data Science; Civil; Common (all branches),101,1415,2006-07,2025-26
 Operations Strategy,subjects/Operations Strategy,Common (all branches); Computer Engineering; Data Science; Information Technology; Mechanical,19,130,2010-11,2025-26
-Optical Communication and Networks,subjects/Optical Communication and Networks,Electronics and Telecommunication,4,0,2006-07,2009-10
-Optical Fiber Communication,subjects/Optical Fiber Communication,Electronics and Telecommunication; Electronics,35,423,2006-07,2022-23
+Optical Communication and Networks,subjects/Optical Communication and Networks,Electronics and Telecommunication,4,71,2006-07,2009-10
+Optical Fiber Communication,subjects/Optical Fiber Communication,Electronics and Telecommunication; Electronics,35,460,2006-07,2022-23
 Optical Fiber Communication and Network,subjects/Optical Fiber Communication and Network,Electronics and Telecommunication; Electronics,7,112,2011-12,2016-17
 Optimization for Decision Making,subjects/Optimization for Decision Making,Common (all branches),5,64,2021-22,2022-23
 Optimization Methods,subjects/Optimization Methods,Data Science,24,303,2022-23,2025-26
@@ -837,9 +837,9 @@ Organic Process Technologies,subjects/Organic Process Technologies,Chemical,1,3,
 Organisation Design and Development,subjects/Organisation Design and Development,Common (all branches),2,10,2016-17,2017-18
 Organizational Behaviour,subjects/Organizational Behaviour,Common (all branches); Information Technology; Computer Applications (MCA); Chemical; Manufacturing; Data Science; Electronics and Telecommunication; Artificial Intelligence; Computer Engineering; Mechanical,80,606,2007-08,2025-26
 Parallel Computing,subjects/Parallel Computing,Information Technology; Computer Engineering,22,314,2011-12,2018-19
-Parallel Processing,subjects/Parallel Processing,Computer Engineering; Information Technology; Computer Applications (MCA),13,176,2006-07,2013-14
+Parallel Processing,subjects/Parallel Processing,Computer Engineering; Information Technology; Computer Applications (MCA),13,190,2006-07,2013-14
 Pattern and Anomaly Detection,subjects/Pattern and Anomaly Detection,Computer Engineering; Electronics and Telecommunication; Information Technology,2,11,2023-24,2023-24
-Pattern Recognition,subjects/Pattern Recognition,Information Technology,3,22,2010-11,2012-13
+Pattern Recognition,subjects/Pattern Recognition,Information Technology,3,34,2010-11,2012-13
 Pavement Design and Construction,subjects/Pavement Design and Construction,Civil,13,197,2013-14,2025-26
 Pavement Management System,subjects/Pavement Management System,Civil,3,41,2021-22,2022-23
 Pavement Subgrade and Materials,subjects/Pavement Subgrade and Materials,Civil,3,35,2013-14,2019-20
@@ -936,7 +936,7 @@ Quantum and Statistical Physics,subjects/Quantum and Statistical Physics,Compute
 Quantum Computing and Technologies,subjects/Quantum Computing and Technologies,Computer Engineering; Information Technology; Common (all branches); Cyber Security; Mechanical; Civil; Data Science; Artificial Intelligence,24,280,2022-23,2025-26
 Quantum Physics,subjects/Quantum Physics,Data Science; Computer Engineering; Information Technology; Computer Science and Business Systems; Electronics and Telecommunication; Cyber Security; Computer Science; Mechatronics; Common (all branches),46,507,2025-26,2025-26
 R R Studio SPSS and Tableau Programming,subjects/R R Studio SPSS and Tableau Programming,Data Science,7,80,2015-16,2023-24
-Radar Engineering,subjects/Radar Engineering,Electronics and Telecommunication,1,0,2009-10,2009-10
+Radar Engineering,subjects/Radar Engineering,Electronics and Telecommunication,1,12,2009-10,2009-10
 Radiating Systems and Wave Propagation,subjects/Radiating Systems and Wave Propagation,Electronics and Telecommunication,6,104,2017-18,2019-20
 Random Processes and Estimation Techniques,subjects/Random Processes and Estimation Techniques,Artificial Intelligence; AI and Machine Learning; AI and Data Science; Data Science,23,279,2022-23,2025-26
 Rapid Prototyping and Tooling,subjects/Rapid Prototyping and Tooling,Mechanical,1,15,2014-15,2014-15
@@ -990,12 +990,12 @@ Smart Manufacturing and Internet of Things,subjects/Smart Manufacturing and Inte
 Smart System Communication,subjects/Smart System Communication,Mechatronics,5,55,2023-24,2025-26
 Social Media and Web Analytics,subjects/Social Media and Web Analytics,Mechanical; Artificial Intelligence; Computer Engineering; Data Science; Information Technology,10,40,2025-26,2025-26
 Soft Computing,subjects/Soft Computing,Computer Engineering,15,202,2014-15,2022-23
-Software Architecture,subjects/Software Architecture,Information Technology; Computer Engineering,20,189,2006-07,2017-18
+Software Architecture,subjects/Software Architecture,Information Technology; Computer Engineering,20,210,2006-07,2017-18
 Software Architecture and Project Management,subjects/Software Architecture and Project Management,Computer Engineering,2,24,2006-07,2008-09
 Software Design with UML,subjects/Software Design with UML,Computer Science and Business Systems,8,83,2021-22,2025-26
 Software Engineering,subjects/Software Engineering,Computer Engineering; Information Technology; Computer Applications (MCA); Cyber Security; Computer Science and Business Systems; Data Science; Artificial Intelligence; Computer Science,127,1458,2005-06,2025-26
 Software Engineering I,subjects/Software Engineering I,Electronics and Telecommunication; Information Technology,6,73,2005-06,2008-09
-Software Engineering Methodology,subjects/Software Engineering Methodology,Information Technology; Computer Engineering,14,120,2007-08,2012-13
+Software Engineering Methodology,subjects/Software Engineering Methodology,Information Technology; Computer Engineering,14,201,2007-08,2012-13
 Software Project Management,subjects/Software Project Management,Information Technology; Computer Engineering,17,231,2013-14,2023-24
 Software Quality Assurance,subjects/Software Quality Assurance,Computer Engineering; Information Technology,32,277,2011-12,2025-26
 Software Quality Assurance and Testing,subjects/Software Quality Assurance and Testing,Computer Engineering; Information Technology,18,196,2012-13,2022-23
@@ -1038,7 +1038,7 @@ Sustainable Business Management Practices,subjects/Sustainable Business Manageme
 Sustainable Development,subjects/Sustainable Development,Real Estate and Construction Management,5,47,2016-17,2018-19
 Sustainable Energy Technologies,subjects/Sustainable Energy Technologies,Common (all branches); Computer Engineering; Artificial Intelligence; Information Technology; Data Science; AI and Data Science; Cyber Security; Electronics and Telecommunication; Mechatronics; Civil; Mechanical,53,706,2021-22,2025-26
 Switchgear and Protection,subjects/Switchgear and Protection,Electrical,4,71,2017-18,2018-19
-System and Network Security,subjects/System and Network Security,Computer Engineering; Information Technology,11,153,2010-11,2016-17
+System and Network Security,subjects/System and Network Security,Computer Engineering; Information Technology,11,180,2010-11,2016-17
 System Approach to Organization Design,subjects/System Approach to Organization Design,Common (all branches),4,31,2012-13,2014-15
 System Programming,subjects/System Programming,Computer Engineering,26,328,2013-14,2023-24
 System Security,subjects/System Security,Computer Engineering,26,337,2011-12,2024-25
@@ -1050,7 +1050,7 @@ Technology and Innovation for Marketing,subjects/Technology and Innovation for M
 Technology Forecasting Assessment and Evaluation,subjects/Technology Forecasting Assessment and Evaluation,Common (all branches),8,49,2008-09,2014-15
 Technology Management,subjects/Technology Management,Common (all branches),1,18,2018-19,2018-19
 Telecom and Computer Networks,subjects/Telecom and Computer Networks,Electronics and Telecommunication,7,94,2006-07,2009-10
-Telecom Network Management,subjects/Telecom Network Management,Electronics and Telecommunication,3,13,2006-07,2012-13
+Telecom Network Management,subjects/Telecom Network Management,Electronics and Telecommunication,3,39,2006-07,2012-13
 Testing Commissioning,subjects/Testing Commissioning,Electrical,3,29,2018-19,2019-20
 Testing Commissioning and Maintenance,subjects/Testing Commissioning and Maintenance,Electrical,1,9,2019-20,2019-20
 Testing Commissioning and Maintenance of Electrical Equipment,subjects/Testing Commissioning and Maintenance of Electrical Equipment,Electrical,1,10,2018-19,2018-19
@@ -1094,7 +1094,7 @@ Virtual Instrumentation,subjects/Virtual Instrumentation,Mechatronics,2,44,2017-
 Virtual Reality and Augmented Reality,subjects/Virtual Reality and Augmented Reality,Common (all branches),7,65,2022-23,2025-26
 Virtualization and Cloud Computing,subjects/Virtualization and Cloud Computing,Data Science,15,139,2022-23,2025-26
 Visual Analytics,subjects/Visual Analytics,Information Technology,2,39,2023-24,2023-24
-VLSI Design,subjects/VLSI Design,Electronics and Telecommunication; Electronics,11,14,2007-08,2012-13
+VLSI Design,subjects/VLSI Design,Electronics and Telecommunication; Electronics,11,65,2007-08,2012-13
 VLSI Design and Technology,subjects/VLSI Design and Technology,Electronics; Electronics and Telecommunication,13,166,2013-14,2016-17
 Vulnerability Assessment and Penetration Testing,subjects/Vulnerability Assessment and Penetration Testing,Cyber Security,3,14,2023-24,2024-25
 Waste Management,subjects/Waste Management,Common (all branches); Artificial Intelligence; Data Science; Electronics and Telecommunication; Civil; Computer Engineering; Information Technology,18,142,2022-23,2025-26
@@ -1109,12 +1109,12 @@ Web Programming II,subjects/Web Programming II,Computer Applications (MCA),8,92,
 Web Technologies,subjects/Web Technologies,Computer Applications (MCA),3,18,2023-24,2024-25
 Web Technology and Application,subjects/Web Technology and Application,Information Technology,4,62,2010-11,2011-12
 Wind Turbine Technology,subjects/Wind Turbine Technology,Mechanical,5,40,2025-26,2025-26
-Wireless and Mobile Communication System,subjects/Wireless and Mobile Communication System,Electronics and Telecommunication,5,0,2006-07,2011-12
+Wireless and Mobile Communication System,subjects/Wireless and Mobile Communication System,Electronics and Telecommunication,5,82,2006-07,2011-12
 Wireless Communication,subjects/Wireless Communication,Electronics and Telecommunication; Information Technology; Mechanical; Computer Engineering,19,212,2010-11,2025-26
 Wireless Communication and Networks,subjects/Wireless Communication and Networks,Electronics and Telecommunication,6,103,2013-14,2016-17
 Wireless Communication I,subjects/Wireless Communication I,Information Technology,12,198,2006-07,2013-14
 Wireless Communication II,subjects/Wireless Communication II,Computer Engineering; Information Technology,3,46,2010-11,2011-12
-Wireless Communication Systems,subjects/Wireless Communication Systems,Electronics and Telecommunication,4,24,2010-11,2012-13
+Wireless Communication Systems,subjects/Wireless Communication Systems,Electronics and Telecommunication,4,56,2010-11,2012-13
 Wireless Communication Technology,subjects/Wireless Communication Technology,Electronics and Telecommunication; Electronics,42,563,2013-14,2025-26
 Wireless Networking,subjects/Wireless Networking,Information Technology,23,312,2013-14,2019-20
 Wireless Security,subjects/Wireless Security,Electronics and Telecommunication,1,7,2023-24,2023-24

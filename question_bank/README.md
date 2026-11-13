@@ -15,8 +15,8 @@ Every past question paper in the archive as text, organised by subject and depar
 ## Coverage
 
 - 1,123 subjects in 23 departments.
-- 16,168 question papers and 3,043 answer keys read: 38,089 pages from the PDF text layer and 39,291 scanned pages by OCR.
-- 231,019 questions and sub-questions extracted; 171,488 with marks. 14,772 papers (91%) split into 3 or more questions; the rest are kept as full text in papers.md.
+- 16,620 question papers and 3,043 answer keys read: 38,089 pages from the PDF text layer and 39,291 scanned pages by OCR.
+- 232,201 questions and sub-questions extracted; 172,201 with marks. 14,845 papers (89%) split into 3 or more questions; the rest are kept as full text in papers.md.
 - 130 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
 - Files with no readable text (corrupt PDFs, spreadsheet data sets): 18.
 

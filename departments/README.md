@@ -17,10 +17,10 @@ Subjects grouped by the department (branch) whose programmes set the papers. A s
 | [Cyber Security](Cyber%20Security/README.md) | 87 | 449 | 4667 |
 | [Data Science](Data%20Science/README.md) | 252 | 1786 | 18075 |
 | [Electrical](Electrical/README.md) | 39 | 138 | 1973 |
-| [Electronics](Electronics/README.md) | 36 | 154 | 1912 |
-| [Electronics and Telecommunication](Electronics%20and%20Telecommunication/README.md) | 234 | 1982 | 24306 |
+| [Electronics](Electronics/README.md) | 36 | 154 | 1987 |
+| [Electronics and Telecommunication](Electronics%20and%20Telecommunication/README.md) | 234 | 1982 | 25128 |
 | [Industrial Automation](Industrial%20Automation/README.md) | 10 | 30 | 395 |
-| [Information Technology](Information%20Technology/README.md) | 279 | 2551 | 28512 |
+| [Information Technology](Information%20Technology/README.md) | 279 | 2551 | 28797 |
 | [Manufacturing](Manufacturing/README.md) | 32 | 215 | 2497 |
 | [Mechanical](Mechanical/README.md) | 227 | 2175 | 26556 |
 | [Mechatronics](Mechatronics/README.md) | 127 | 802 | 9874 |
