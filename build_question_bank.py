@@ -1413,8 +1413,13 @@ def build_subject(subject, papers, folder, texts, stats):
                 stats['low_quality_' + ('answer_keys' if first['kind'] == 'Answer key' else 'papers')] += 1
                 lines.append('- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is '
                              'only partly readable. Restore the original file to read it.')
-            ticks = fence(text)
-            target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
+            if first['kind'] == 'Not a paper':                  # see subject_overrides.json
+                doc['text_status'] = first.get('note') or 'not a paper'
+                target.append('\n'.join(lines + [f"- Not shown: {doc['text_status']}. Its OCR text is kept in "
+                                                  '`question_bank/extracted_text/`.', '']))
+            else:
+                ticks = fence(text)
+                target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
             # Papers inside a ZIP are question papers too, unless their file name marks them as answers.
             if first['kind'] == 'Question paper' or (
                     first['kind'] == 'ZIP of papers' and not re.search(r'(?i)\b(ans|answers?|solutions?|key)\b', label)):

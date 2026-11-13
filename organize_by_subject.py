@@ -467,7 +467,8 @@ def load_aliases(path=ALIASES_FILE):
 
 
 def load_overrides(path=OVERRIDES_FILE):
-    """Paper-level corrections: original path -> {"subject": ..., "printed": subject printed on the paper}."""
+    """Paper-level corrections: original path -> {"subject": ..., "printed": subject printed on the paper}, or
+    {"kind": ..., "note": ...} for a file that is not what its name says."""
     if not path.exists():
         return {}
     data = json.loads(path.read_text(encoding='utf-8'))
@@ -693,16 +694,31 @@ def classify(manifest_files, aliases=None, overrides=None, raw_rows=()):
         })
     # subject_overrides.json: papers whose own header names a different subject. Identical copies of the
     # same file elsewhere follow the same correction.
+    # An override can also say what a file really is ("kind" and "note"): e.g. screenshots filed as a paper.
     by_sha = {r['sha256']: overrides[r['path']] for r in records if r['path'] in overrides}
     for record in records:
         fix = by_sha.get(record['sha256'])
-        if fix:
+        if fix and fix.get('subject'):
             record['subject'] = resolve(fix['subject'])
             printed = fix.get('printed') or fix['subject']
             record['note'] = f'filed under "{record["filed_as"]}" but the paper is headed "{printed}"'
+        if fix and fix.get('kind'):
+            record['kind'] = fix['kind']
+            record['note'] = ((record['note'] + '; ') if record['note'] else '') + fix.get('note', '')
     # A file the portal also lists among the syllabi (the same bytes in 04_Syllabi_Archive/) is a syllabus that
-    # was filed with the question papers: it is kept here but not read as a paper.
-    syllabi = {r['sha256'] for r in manifest_files if r['path'].startswith(SYLLABUS_ROOT)}
+    # was filed with the question papers: it is kept here but not read as a paper. Unless some copy of it, here,
+    # there or inside a raw ZIP, is named as an exam paper: the syllabus section holds papers too.
+    names = defaultdict(set)
+    for r in manifest_files:
+        names[r['sha256']].add(r['path'].rsplit('/', 1)[-1])
+    if RAW_PAPERS_FILE.exists():
+        with RAW_PAPERS_FILE.open(encoding='utf-8') as stream:
+            for line in stream:
+                member = json.loads(line)
+                if member.get('sha256'):
+                    names[member['sha256']].add(member['member'].rsplit('/', 1)[-1])
+    syllabi = {r['sha256'] for r in manifest_files if r['path'].startswith(SYLLABUS_ROOT)
+               and not any(EXAM_FILE.search(n) for n in names[r['sha256']])}
     for record in records:
         if record['sha256'] in syllabi and record['kind'] == 'Question paper':
             record['kind'] = 'Syllabus'
