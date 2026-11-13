@@ -1,0 +1,3 @@
+__pycache__/
+# Downloaded by organize_by_subject.py / restore_library.py when no --manifest is given
+full-library-manifest.json

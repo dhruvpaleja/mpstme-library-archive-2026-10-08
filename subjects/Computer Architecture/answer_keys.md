@@ -1,0 +1,1881 @@
+# Computer Architecture: answer keys
+
+Answer keys and model answers published on the portal, newest first.
+
+## 2025-26 · Final-Exam · Sem 3 · Answer key · paper dc03edf7cd4a
+
+- Departments: Artificial Intelligence
+- Programmes: BTech AI 7012
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AI_7012/Computer Architecture/ANS_Computer Architecture(702AI0C025)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
+- Text: text (16 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/MBA Tech (AI)
+Year: II/Semester III(Exam Year: 2025-2026)
+Subject: Computer Architecture
+Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q1 is compulsory
+5. Out of remaining attempt any 4 questions
+6. In all 5 questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1. Answer Briefly:   [20 M]
+a.   Summarize the key components and their roles in a Computer Architecture.   [05M]
+Ans. Computer architecture comprises the following key components:
+Input Unit: Accepts data and instructions from external devices for processing.
+Output Unit: Displays or outputs the processed information to the user or storage device.
+Memory Unit: Stores data, instructions, and intermediate results. Divided into primary (RAM, ROM) and
+secondary storage.
+Arithmetic Logic Unit (ALU): Performs arithmetic operations (addition, subtraction, etc.) and logical operations
+(comparison, decision-making).
+Control Unit (CU): Directs the flow of data and coordinates all hardware operations using control signals.
+Registers: Small, high-speed storage units within CPU for temporary data holding.
+System Bus: Communication pathway that connects CPU, memory, and I/O devices (Address, Data, and Control
+buses).
+Together, these components ensure efficient data processing and control flow within the system.
+b.   Examine the key elements of cache design and analyze the working of any three elements that influence
+system efficiency.   [05M]
+Ans. Key Elements of Cache Design:
+Cache Size: Determines how much data can be stored for quick access.
+Block Size: Defines the unit of data transfer between cache and main memory.
+Mapping Function: Determines how memory blocks are placed in cache (Direct, Associative, or Set-Associative).
+Replacement Policy: Decides which cache block to replace (LRU, FIFO, Random).
+Write Policy: Controls how data is written back (Write-through or Write-back).
+Three Elements Influencing Efficiency:
+Cache Size: Larger cache reduces miss rate but increases cost and access time.
+Mapping Function: Associative mapping improves hit rate but is more complex.
+Replacement Policy: LRU ensures frequently used data stays longer, improving performance.
+Optimizing these factors enhances data access speed and system efficiency.
+********** 1 **********
+--- page 2 ---
+c.   Assess the different elements of an instruction format and evaluate how each contributes to the
+efficiency and clarity of instruction execution.   [05M]
+Ans. Ans:
+Elements of Instruction Format:
+Operation Code (Opcode): Specifies the operation to be performed.
+Address Fields: Indicate the memory locations or registers involved.
+Mode Field: Defines the addressing mode used (immediate, direct, indirect, etc.).
+Register Fields: Identify the source and destination registers.
+Opcode Length: Affects instruction decoding speed.
+Contribution to Efficiency:
+Compact opcode allows faster decoding.
+Effective address specification ensures flexible data access.
+Clear format structure enhances instruction interpretation and pipelining.
+A well-designed instruction format ensures faster execution and reduces complexity in CPU control logic.
+d.   Explain the concept of a programmed I/O system and demonstrate its operation, highlighting its
+advantages and disadvantages in practical use.   [05M]
+Ans:
+Concept:
+Programmed I/O (PIO) is a data transfer method where the CPU is directly responsible for controlling and
+transferring data between I/O devices and memory.
+Operation: CPU issues I/O command to device.
+CPU waits and continuously checks (polls) the device status.
+When ready, CPU transfers data to/from I/O device.
+Advantages: Simple and easy to implement.
+No additional hardware like controllers required.
+Disadvantages:
+CPU remains busy during transfer, wasting processing time.
+Inefficient for high-speed or large-volume data transfers.
+Suitable for simple, low-speed I/O operations where CPU utilization is not critical.
+Q2.
+a.   Compare and evaluate hardware and software interrupts in terms of their operation, priority handling,
+and impact on system performance.   [10M]
+Ans:
+Aspect Hardware Interrupts Software Interrupts: Definition Generated by external hardware devices to get
+CPU attention. Generated internally by executing special instructions in a program.
+Source Keyboard, mouse, timers, I/O devices. Instructions like INT in x86 architecture or system calls.
+Operation   Triggered asynchronously, independent of CPU instructions. Triggered synchronously during
+program execution.
+Priority Handling   Multiple levels of priority (maskable/non-maskable) handled by interrupt controller.
+Priority determined by software design or system call order.
+Latency Very low; immediate response to external events.   Slightly higher latency; depends on instruction
+execution.
+Impact on Performance   Improves real-time responsiveness but may cause overhead if too frequent.
+Allows controlled service requests but adds instruction-level overhead. Example   Disk ready signal, keyboard
+input interrupt.   Divide-by-zero trap, OS service call interrupt.
+********** 2 **********
+--- page 3 ---
+Control Transfer   Handled by hardware interrupt vector table. Controlled by software-defined interrupt
+handlers.
+Evaluation:
+Hardware interrupts ensure quick device response, essential for real-time systems.
+Software interrupts simplify system call implementation and debugging.
+Balanced use of both provides efficient system operation, optimizing responsiveness and control. In conclusion,
+hardware interrupts enhance external responsiveness, while software interrupts provide controlled, flexible
+execution flow.
+b.   Apply the concept of computer operations to analyse how the four basic functions (input, processing,
+storage, and output) work together in performing a computing task.
+[10M]
+Ans:
+The four fundamental computer operations form an integrated cycle that enables a computing task to be
+executed efficiently.
+Input:
+Devices such as keyboard, scanner, or sensors capture raw data.
+Data is converted into binary form and transferred to memory for processing.
+Example: User enters numbers for calculation.
+Processing:
+The CPU (ALU + Control Unit) executes instructions on input data.
+ALU performs arithmetic and logical operations; CU directs data flow and instruction sequencing.
+Example: CPU adds the input numbers.
+Storage:
+Primary storage (RAM) holds data and intermediate results temporarily.
+Secondary storage (HDD/SSD) stores programs and output data permanently.
+Example: The sum result is stored in memory for later use.
+Output:
+Processed information is converted into human-readable form.
+Devices such as monitors, printers, or actuators display or act on results.
+Example: Displaying the sum on the screen.
+Interrelationship:
+Input feeds data → Processing manipulates data → Storage retains intermediate/final results → Output
+communicates results.
+All steps are synchronized by the control unit, ensuring correct timing and execution flow.
+Q3.
+Solve the following:   [10M]
+Convert the given decimal equivalent number to IEEE 754 32-bits floating point notation: (134.25)_10.
+Explain the single precision and double precision IEEE 754 data format.   [05M]
+Ans: Step 1 — Binary representation
+Integer part:
+=128+6⇒ binary 10000110.
+Fractional part:
+********** 3 **********
+--- page 4 ---
+Step 2 — Normalize
+Step 3 — Biased exponent (single precision bias = 127)
+Step 4 — Mantissa (fraction) bits
+Take fractional bits after the leading 1: 000011001 then pad with zeros to 23 bits:
+Mantissa = 00001100100000000000000 (23 bits)
+Step 5 — Sign bit
+Number is positive → sign = 0.
+Final 32-bit IEEE-754 (single precision):
+sign | exponent | mantissa (23 bits)
+0 10000110 00001100100000000000000
+Written as a 32-bit string:
+01000011000001100100000000000000
+Convert the given IEEE 754 format into decimal number: 01011001110111100000000000000000. Show
+proper steps.   [05M]
+Explain the concept of direct mapping. Draw the hardware implementation of direct mapping scheme.
+The system contains 512 GB primary memory and cache memory of 32MB with block size 64 KB. Find the PA bit
+split? Tag directory size. If the block number is 32, which line will this block be mapped to in the cache. Also
+calculate the same for block number 45. Will this give rise to hit or miss? If miss, which type of miss, is it.
+(Assume the cache is full)   [10M]
+Given:
+Given:
+• Primary memory (physical) = 512 GB
+• Cache = 32 MB
+• Block (line) size = 64 KB
+Step A — Express sizes as powers of two
+• 512 GB = 512 × 230 bytes = 29 ⋅230 = 239bytes.
+⇒ Physical address space = 239bytes → 39 physical address (PA) bits.
+• Cache size = 32 MB = 32 × 220 = 225bytes.
+• Block size = 64 KB = 64 × 210 = 216bytes.
+Step B — Compute offset, index, tag bits
+•   Offset bits = log₂(block size) = 16 bits. (byte offset within block)
+• Number of cache lines = cache size / block size = 225/216 = 29→ 512 lines.
+• Index bits = log₂(number of lines) = 9 bits.
+• Tag bits = PA bits − index − offset = 39 −9 −16 = 14bits.
+So the PA bit split is:
+| Tag (14 bits) | Index (9 bits) | Offset (16 bits) |
+********** 4 **********
+--- page 5 ---
+Step C — Tag directory size
+Two reasonable interpretations:
+1. Tags only (no valid bits):
+o Tag storage = number_of_lines × tag_bits = 512 × 14 = 7168bits = 7168/8 = 896bytes.
+2. Tags + 1 valid bit per line (typical):
+o Bits per line = 14 (tag) + 1 (valid) = 15 bits.
+o Total = 512 × 15 = 7680bits = 7680/8 = 960bytes.
+(If more metadata per line is stored, add those bit fields accordingly.)
+Step D — Map given block numbers
+Assume block numbers are main-memory block numbers (block 0,1,2,...). In direct mapping:
+cache line = (block number) 𝑚𝑜𝑑 (number of cache lines)
+Number of lines = 512.
+• For block number 32: line = 32 𝑚𝑜𝑑 512 = 32.
+• For block number 45: line = 45 𝑚𝑜𝑑 512 = 45.
+Step E — Hit or miss? What type of miss? (cache is full)
+• Whether an access is a hit depends on whether that block is already resident in the cache and the
+stored tag at that line matches the block’s tag.
+• With only the information given, we cannot deterministically say “hit” or “miss”. You must know
+the cache contents / access history.
+Explain typical cases:
+•   If that exact block was never loaded before (first access) → compulsory (cold) miss.
+•   If the line (e.g., line 32) currently contains a different block (different tag) → accessing block 32
+will miss, and because direct mapping allows only one block per line, this is a conflict miss
+(replacement of an already resident block in that line). In a full cache with many other blocks
+present, new blocks mapping to lines occupied by other blocks usually cause conflict misses.
+•   If the line already holds the same block (tag matches) → hit.
+Specific to this question:
+• Blocks 32 and 45 map to different lines (32 and 45), so they don’t conflict with each other.
+•   If both lines currently contain other blocks, accessing either will cause a miss; because the cache is
+full and the line must evict an existing block, this miss is best described as a conflict miss (unless it’s
+the very first time the block is ever referenced — then it’s a compulsory miss).
+Q4.
+Explain and demonstrate the pipeline concept in computer systems, and illustrate how pipelined
+processors improve instruction throughput.   [10M]
+********** 5 **********
+--- page 6 ---
+What is pipelining?
+Pipelining is a technique where the processing of multiple instructions is overlapped by dividing instruction
+execution into several stages and executing different instructions in different stages simultaneously —
+analogous to an assembly line.
+Typical 5-stage instruction pipeline (classic RISC):
+1. IF — Instruction Fetch
+2. ID — Instruction Decode & Register fetch
+3. EX — Execute / ALU operation
+4. MEM — Memory access (load/store)
+5. WB — Write back result to register
+How it works (conceptual):
+• While instruction I1 is in EX stage, instruction I2 can be in ID, I3 in IF, etc.
+•   After the pipeline is filled, ideally one instruction completes every clock cycle (throughput = 1
+instruction/cycle), compared to the non-pipelined case where one instruction needs all k stages
+sequentially before the next starts.
+Timing example (5-stage pipeline, 5 instructions):
+Non-pipelined (k=5 stages):
+• Each instruction takes 5 cycles; 5 instructions take 5 × 5 = 25 cycles.
+Pipelined:
+•   Pipeline fill cost = k cycles (5) + (number of instructions − 1) cycles to complete = k + (n − 1) = 5
++ (5 − 1) = 9 cycles.
+Throughput / speedup:
+•   Ideal speedup ≈ k (number of stages), for large n and no pipeline overhead.
+• Using the numbers above: speedup = non-pipelined cycles / pipelined cycles = 25/9 ≈ 2.78. As n
+grows, this approaches 5.
+Pipeline hazards (real-world effects that reduce ideal speedup):
+1. Structural hazards: hardware resource conflicts (e.g., single memory port used by IF and MEM).
+2. Data hazards: instruction depends on result of prior instruction (RAW — read after write).
+Solutions: forwarding (bypassing), stall (pipeline bubble), compiler scheduling.
+3. Control hazards: caused by branches and jumps (unknown next instruction). Solutions: branch
+prediction, branch delay slots, flush on misprediction.
+Example showing effect of a data hazard and forwarding:
+•   Instruction sequence: I1: ADD R1,R2,R3 then I2: SUB R4,R1,R5. Without forwarding, I2 must
+stall until I1 completes WB; with forwarding, result from I1.EX/MEM can be forwarded to I2.EX
+and stall avoided (maybe one cycle saved).
+Why pipelining improves instruction throughput:
+********** 6 **********
+--- page 7 ---
+• Overlap of independent stage work across instructions leads to higher instruction-per-cycle (IPC)
+throughput.
+• With good hazard mitigation (forwarding, prediction), pipeline utilization is high and average
+throughput approaches one completed instruction per cycle.
+Draw the flowchart of Booth’s Algorithm and solve (-39)_10×(-32)_10. Using Booth’s algorithm. [10M]
+Choose n = 8 bits (sufficient for operands; product will be 16 bits).
+• Decimal product: (−39) × (−32) = 1248.
+Step 0 — Represent M and Q in 8-bit two’s complement
+•   39₁₀ = 00100111
+• −39 → invert + 1 → 11011001 (M = 11011001)
+•   32₁₀ = 00100000
+• −32 → invert + 1 → 11100000 (Q = 11100000)
+Initialize:
+• A = 00000000 (8 bits)
+• Q = 11100000
+• Q−1 = 0
+• n = 8
+We will show the state before action in each cycle, the action, and the state after shift.
+Before   After shift After shift After shift
+Cycle   Q   Q−1   Action (based on Q0 Q−1)
+(A)   (A)   (Q)   Q−1
+0   00000000 11100000 0   Q0=0, Q−1=0 → No op   00000000   01110000   0
+1   00000000 01110000 0   0,0 → No op   00000000   00111000   0
+2   00000000 00111000 0   0,0 → No op   00000000   00011100   0
+3   00000000 00011100 0   0,0 → No op   00000000   00001110   0
+4   00000000 00001110 0   0,0 → No op   00000000   00000111   0
+Q0=1, Q−1=0 → A = A − M
+5   00000000 00000111 0   00010011   10000011   1
+(i.e., A = A + (−M))
+6   00010011 10000011 1   Q0=1, Q−1=1 → No op   00001001   11000001   1
+7   00001001 11000001 1   Q0=1, Q−1=1 → No op   00000100   11100000   1
+Q5.
+a.   Explain the concept of addressing modes, and illustrate in detail the base-plus-index addressing mode
+and register relative addressing mode with proper examples.
+[10M]
+Concept of Addressing Modes:
+********** 7 **********
+--- page 8 ---
+Addressing modes define the method of specifying the operand (data or address) used in an instruction.
+They determine where the operand is located — in a register, memory, or within the instruction itself.
+→ Purpose:
+• To provide flexibility in data access.
+• To support efficient coding of loops, arrays, and subroutines.
+• To optimize instruction size and execution speed.
+Common Types of Addressing Modes:
+1. Immediate: Operand given directly in instruction.
+→ Example: MOV R1, #25
+2. Direct: Address of operand given directly.
+→ Example: MOV R1, [2500H]
+3. Indirect: Instruction specifies register containing operand’s address.
+→ Example: MOV R1, [R2]
+4. Register: Operand located in a CPU register.
+→ Example: ADD R1, R2
+5. Indexed / Base-relative / Relative: Address calculated using base or index register plus
+displacement.
+1⃣ Base-Plus-Index Addressing Mode:
+Concept:
+Effective Address (EA) = Base Register + Index Register + Displacement (optional)
+Used in array and table access where the base points to start of data, and index gives offset.
+Example:
+Suppose
+• Base Register (BX) = 3000H
+• Index Register (SI) = 0020H
+•   Instruction: MOV AX, [BX + SI]
+Then,
+EA = 3000H + 0020H = 3020H
+→ Content of memory 3020H is moved to AX.
+Application:
+Accessing elements in arrays or records (e.g., A[i] = A[0] + i * element_size).
+Advantage:
+• Enables efficient addressing of structured data.
+• Reduces code size in loops.
+********** 8 **********
+--- page 9 ---
+2️⃣ Register-Relative Addressing Mode:
+Concept:
+Effective Address (EA) = Register Content + Constant Offset (Displacement)
+The register holds a base address (often frame pointer or stack pointer).
+Useful in accessing local variables or function parameters in stack frames.
+Example:
+Let R1 = 2000H, displacement = 0010H
+Instruction: MOV R2, 10(R1)
+→ EA = 2000H + 0010H = 2010H
+→ Content of memory 2010H is moved to R2.
+Application:
+• Used in accessing local data in subroutines.
+•   Efficient for stack-based architectures.
+b.   Illustrate the memory hierarchy in a computer system and apply this concept to explain why such a
+hierarchy is essential for efficient data access and processing.   [10M]
+Concept:
+The memory hierarchy in a computer system is an arrangement of memory components based on:
+• Access speed
+• Cost per bit
+• Storage capacity
+The hierarchy ensures that the CPU gets data quickly, while the system remains cost-efficient.
+Typical Memory Hierarchy (Top → Bottom):
+Access
+Level   Type of Memory   Capacity Cost/bit   Purpose
+Time
+L1 Cache   On-chip SRAM   1–2 ns   Few KB High   Fastest data access for CPU
+On-chip/near CPU   Reduce main memory
+L2/L3 Cache   5–20 ns   MBs   High
+SRAM   latency
+Main Memory   DRAM   50–100 ns GBs   Medium Holds active programs/data
+Secondary
+SSD/HDD   ms   TBs   Low   Permanent data storage
+Memory
+Very
+Tertiary Memory Optical/Tape   seconds   PBs   Backup/Archival
+low
+Diagram (Memory Hierarchy Pyramid):
+********** 9 **********
+--- page 10 ---
+CPU Registers
+│
+Cache (L1, L2, L3)
+│
+Main Memory (RAM)
+│
+Secondary Storage (HDD/SSD)
+│
+Tertiary / Cloud Storage
+Principle of Locality (Reason for Hierarchy):
+1. Temporal Locality: Recently used data/instructions are likely to be used again soon.
+→ Cache stores recent data for reuse.
+2. Spatial Locality: Nearby memory locations are likely to be accessed soon.
+→ Blocks of contiguous data are fetched together.
+These two properties ensure that most memory requests are satisfied from faster, smaller memory levels
+(cache), reducing average access time.
+Why Hierarchy is Essential:
+1. Improves Performance:
+o Cache provides data at nanosecond speeds, reducing CPU idle time.
+2. Balances Cost and Capacity:
+o Large, fast memory is costly; hierarchy provides cost-effective compromise.
+3. Supports Scalability:
+o Different levels handle different workloads efficiently.
+4. Reduces Memory Bottleneck:
+o Prevents the CPU from waiting for slow main memory or disk data.
+5. Enhances Throughput:
+o Multi-level design ensures continuous data supply to CPU pipeline.
+Example Application:
+• When CPU executes a program:
+o Frequently used instructions reside in cache.
+o Active data in main memory.
+o   Files and OS data in secondary memory.
+o Old backups in tertiary storage.
+→ Average access time = weighted sum of hit/miss delays across levels, much less than raw
+DRAM latency.
+Q6.
+a.   Examine the concept of a GPU and analyse its functions and applications. Discuss how GPUs
+work alongside CPUs to enhance system performance.
+[10M]
+********** 10 **********
+--- page 11 ---
+Concept of GPU:
+A Graphics Processing Unit (GPU) is a specialized electronic circuit designed to perform rapid
+mathematical computations, especially for image rendering and parallel data processing.
+Originally designed for graphics, modern GPUs are now used for general-purpose computing (GPGPU)
+in AI, ML, and data-intensive applications.
+Basic Architecture:
+• GPU consists of hundreds or thousands of smaller cores optimized for parallel execution.
+• Unlike CPU, which focuses on serial task execution, GPU handles many tasks simultaneously.
+Diagram – CPU vs GPU Architecture:
+CPU: Few powerful cores → [Core][Core][Core][Core]
+GPU: Many simple cores → [[][][][][][][][][][][][][][][][]]
+Functions of GPU:
+1. Graphics Rendering:
+o   Rasterization, shading, and texture mapping for visual output.
+2. Parallel Processing:
+o Handles matrix, vector, and floating-point operations simultaneously.
+3. Data Computation:
+o Performs large-scale computations in AI/ML models.
+4. Offloading Workload:
+o Takes over repetitive, data-parallel tasks from CPU.
+5. Acceleration:
+o Enhances speed for gaming, simulations, and scientific computing.
+Working of GPU with CPU (Heterogeneous Computing):
+Component   Role
+CPU (Central Processing Unit) Acts as system controller — manages logic, I/O, and task sequencing.
+GPU (Graphics Processing Unit) Executes heavy parallel computations and graphic-related tasks.
+Workflow:
+1. CPU sends data and control instructions to GPU.
+2. GPU performs large-scale computations in parallel.
+3. Results are sent back to CPU for further sequential or logical operations.
+Example:
+In gaming –
+CPU handles game logic, physics, and user input;
+GPU renders visuals, textures, and lighting.
+********** 11 **********
+--- page 12 ---
+Applications of GPUs:
+Domain   Applications
+Graphics   3D rendering, animation, visual effects
+AI & Machine Learning Training deep neural networks (CUDA, TensorFlow)
+Scientific Research   Climate modeling, molecular simulation
+Cryptocurrency   Mining via parallel hash computation
+Data Analytics   Large-scale data visualization, real-time processing
+Advantages:
+• High parallelism → improved throughput
+• Lower latency for heavy data tasks
+•   Accelerated ML & simulation performance
+•   Better power efficiency for parallel tasks
+b.   Apply the concept of Flynn’s classification to explain the different types of computer architectures,
+and illustrate each type with a diagram.   [10M]
+Concept:
+Michael J. Flynn (1966) proposed a taxonomy based on the number of instruction streams and data
+streams processed simultaneously by a computer.
+Notation   Meaning
+I – Instruction Stream Sequence of instructions executed by control unit
+D – Data Stream   Data on which instructions operate
+Flynn’s Classification:
+1⃣ SISD (Single Instruction Single Data)
+• One instruction operates on one data element at a time.
+•   Typical of traditional uniprocessor systems.
+Diagram:
+Instruction Stream → Processor → Data Stream
+Example:
+Conventional single-core CPU (e.g., early Intel processors)
+Features:
+********** 12 **********
+--- page 13 ---
+•   Sequential execution
+• Simple architecture
+• Limited performance for large data
+2️⃣ SIMD (Single Instruction Multiple Data)
+• One instruction operates simultaneously on multiple data elements.
+• Achieved via vector or array processors.
+Diagram:
+Instruction Stream → [Processing Elements] → Multiple Data Streams
+Example:
+GPUs, vector processors (e.g., NVIDIA CUDA, AVX)
+Features:
+•   Excellent for parallel data (e.g., image, matrix processing)
+• Reduces instruction overhead
+3⃣ MISD (Multiple Instruction Single Data)
+•   Multiple instructions operate on same data stream.
+• Rare in practice; used in fault-tolerant systems (e.g., multiple redundant pipelines performing same
+data check).
+Diagram:
+Multiple Instruction Streams → Processor Array → Single Data Stream
+Example:
+Spacecraft control systems (redundancy-based computing)
+4️⃣ MIMD (Multiple Instruction Multiple Data)
+•   Different processors execute different instructions on different data.
+• Most modern multiprocessor or multicore systems follow this model.
+Diagram:
+[Instruction1 → Data1]
+[Instruction2 → Data2]
+Example:
+Multicore CPUs, distributed computing, clusters.
+********** 13 **********
+--- page 14 ---
+Features:
+• High flexibility
+• Supports parallel and concurrent execution
+• Used in servers, supercomputers, AI models
+Summary Table:
+Architecture Instruction Stream Data Stream   Example   Usage
+SISD   1   1   Single-core CPU   Simple, sequential tasks
+SIMD   1   Many   GPU, Vector Processor Image, matrix, array processing
+MISD   Many   1   Fault-tolerant systems   Reliability-critical tasks
+MIMD   Many   Many   Multicore CPU, Cluster Parallel/distributed computing
+Q7.
+a.   Examine the concept of DMA and analyze its functions in transferring data between memory and I/O
+devices without burdening the CPU.   [10M]
+Direct Memory Access (DMA) is a technique that allows an I/O device to transfer data to/from main
+memory without continuous CPU intervention. A DMA controller (DMAC) or bus-mastering I/O device
+takes control of the bus, performs the transfer, and notifies the CPU (usually by an interrupt) when the
+transfer completes.
+Main components
+• DMA Controller (DMAC): hardware unit that manages transfer addresses, counts, and control
+signals.
+• Source & Destination: memory and I/O device addresses or device buffers.
+• System Bus: used for reading/writing memory during transfer.
+• CPU: sets up DMA (source, destination, byte count, direction) and is interrupted on completion or
+error.
+• Handshaking Signals: device–DMAC signals to synchronize transfer (e.g., REQ/ACK).
+How a DMA transfer works (sequence)
+1. CPU setup: CPU programs DMAC with source address, destination address, transfer size, and
+mode.
+2. DMAC requests bus: DMAC asserts bus request (BR) to gain control; CPU responds with bus grant
+(BG).
+3. Transfer: DMAC performs reads/writes between memory and device—bytes/words moved directly.
+o Modes: Burst (block) mode (transfer many words without releasing bus), Cycle-stealing
+(take bus for short cycles between CPU accesses), Transparent (transfer only when CPU is
+idle).
+4. Completion: DMAC updates count, address registers; when done raises interrupt to CPU (or sets
+status flag).
+5. CPU post-processing: CPU handles completion, possibly re-enables caches or processes data.
+********** 14 **********
+--- page 15 ---
+Functions & benefits
+• Offloads CPU: CPU is free to execute other tasks during transfer (CPU sets up only).
+• Higher throughput: DMAC can move large blocks efficiently (burst mode).
+• Lower CPU overhead: Few interrupts (usually one per block) instead of one per byte/word.
+•   Efficient for high-speed I/O: Disk controllers, NICs, audio/video streams, and GPUs often use
+DMA.
+Performance analysis & trade-offs
+•   Positive effects
+o Reduced CPU utilization for I/O — improves overall system throughput.
+o Faster bulk transfers compared to programmed I/O (PIO) where CPU moves each word.
+• Costs / limitations
+o Bus contention: DMA and CPU share the same bus — DMA can delay CPU memory
+accesses (cycle-stealing or bus hold during burst).
+o Cache coherency issues: If CPU cache contains data for memory region modified by DMA,
+stale data can occur. Requires cache flush/invalidate protocols or hardware coherency.
+o Complexity: DMA controller increases hardware complexity; OS must manage buffers,
+alignment, and permissions.
+o Interrupt latency: Although fewer, completion interrupts still add overhead and may need
+servicing.
+o Security/safety: DMAC can access physical memory — requires protection to prevent rogue
+transfers.
+Types / modes (brief)
+• Burst (block) mode: DMAC transfers full block while owning bus → highest throughput but
+longest CPU stall.
+•   Cycle-stealing mode: DMAC “steals” single bus cycles intermittently → lower throughput but less
+CPU blocking.
+• Transparent mode: DMAC transfers only while CPU not using bus → minimal interference but
+unpredictable latency.
+• Scatter-Gather DMA: DMAC follows a list of memory segments (descriptors) enabling non-
+contiguous transfers with one setup.
+Practical considerations
+• OS involvement: allocate physically contiguous or scatter-gather buffers, map virtual→physical
+addresses, handle interrupts, and ensure cache coherency.
+•   Typical use-cases: disk controllers, NICs, audio/video capture/playback, high-speed sensor data,
+GPU transfers.
+********** 15 **********
+--- page 16 ---
+b.   Explain the concept of page table implemented in virtual address mapping. If virtual memory
+size 16GB, Physical memory size is 128MB and Page size is 16KB. What will be the physical
+address bit, page offset bit size, virtual page bit, physical page bits and virtual address bits.
+[10M]
+Concept: Page table & virtual-to-physical address translation (brief)
+•   Virtual address: presented by process → split into (virtual page number, page offset).
+• Page table: per-process structure mapping each virtual page to a physical frame (or marked
+invalid/not present). Entry typically stores frame number (physical page number), valid bit,
+protection bits, and other status (dirty, referenced).
+•   Translation: Physical address = (frame number << offset_bits) | offset. TLB (Translation Lookaside
+Buffer) caches recent mappings for speed.
+Given values
+•   Virtual memory size = 16 GB
+•   Physical memory size = 128 MB
+• Page size = 16 KB
+We assume sizes are powers of 2 (standard).
+Stepwise calculations
+1. Page size = 16 KB = 16 × 210 = 24 × 210 = 214bytes
+→ Page offset bits = 14
+2. Virtual memory size = 16 GB = 16 × 230 = 24 × 230 = 234bytes
+→ Virtual address bits = log₂(2️³⁴) = 34️ bits
+3. Physical memory size = 128 MB = 128 × 220 = 27 × 220 = 227bytes
+→ Physical address bits = 27 bits
+4. Virtual page number bits = Virtual address bits − offset bits = 34️ − 14 = 20 bits
+→ Number of virtual pages = 220 = 1,048,576
+5. Physical page (frame) number bits = Physical address bits − offset bits = 2️7 − 14️ = 13 bits
+→ Number of physical frames = 213 = 8192
+********** 16 **********
+````
+
+## 2025-26 · Final-Exam · Sem 3 · Answer key · paper a572dca15928
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_AI_7051/Computer Architecture/ANS_Computer Architecture(702AI0C025)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
+- Text: text (16 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/MBA Tech (AI)
+Year: II/Semester III(Exam Year: 2025-2026)
+Subject: Computer Architecture
+Date: 08 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q1 is compulsory
+5. Out of remaining attempt any 4 questions
+6. In all 5 questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1. Answer Briefly:   [20 M]
+a.   Summarize the key components and their roles in a Computer Architecture.   [05M]
+Ans. Computer architecture comprises the following key components:
+Input Unit: Accepts data and instructions from external devices for processing.
+Output Unit: Displays or outputs the processed information to the user or storage device.
+Memory Unit: Stores data, instructions, and intermediate results. Divided into primary (RAM, ROM) and
+secondary storage.
+Arithmetic Logic Unit (ALU): Performs arithmetic operations (addition, subtraction, etc.) and logical operations
+(comparison, decision-making).
+Control Unit (CU): Directs the flow of data and coordinates all hardware operations using control signals.
+Registers: Small, high-speed storage units within CPU for temporary data holding.
+System Bus: Communication pathway that connects CPU, memory, and I/O devices (Address, Data, and Control
+buses).
+Together, these components ensure efficient data processing and control flow within the system.
+b.   Examine the key elements of cache design and analyze the working of any three elements that influence
+system efficiency.   [05M]
+Ans. Key Elements of Cache Design:
+Cache Size: Determines how much data can be stored for quick access.
+Block Size: Defines the unit of data transfer between cache and main memory.
+Mapping Function: Determines how memory blocks are placed in cache (Direct, Associative, or Set-Associative).
+Replacement Policy: Decides which cache block to replace (LRU, FIFO, Random).
+Write Policy: Controls how data is written back (Write-through or Write-back).
+Three Elements Influencing Efficiency:
+Cache Size: Larger cache reduces miss rate but increases cost and access time.
+Mapping Function: Associative mapping improves hit rate but is more complex.
+Replacement Policy: LRU ensures frequently used data stays longer, improving performance.
+Optimizing these factors enhances data access speed and system efficiency.
+********** 1 **********
+--- page 2 ---
+c.   Assess the different elements of an instruction format and evaluate how each contributes to the
+efficiency and clarity of instruction execution.   [05M]
+Ans. Ans:
+Elements of Instruction Format:
+Operation Code (Opcode): Specifies the operation to be performed.
+Address Fields: Indicate the memory locations or registers involved.
+Mode Field: Defines the addressing mode used (immediate, direct, indirect, etc.).
+Register Fields: Identify the source and destination registers.
+Opcode Length: Affects instruction decoding speed.
+Contribution to Efficiency:
+Compact opcode allows faster decoding.
+Effective address specification ensures flexible data access.
+Clear format structure enhances instruction interpretation and pipelining.
+A well-designed instruction format ensures faster execution and reduces complexity in CPU control logic.
+d.   Explain the concept of a programmed I/O system and demonstrate its operation, highlighting its
+advantages and disadvantages in practical use.   [05M]
+Ans:
+Concept:
+Programmed I/O (PIO) is a data transfer method where the CPU is directly responsible for controlling and
+transferring data between I/O devices and memory.
+Operation: CPU issues I/O command to device.
+CPU waits and continuously checks (polls) the device status.
+When ready, CPU transfers data to/from I/O device.
+Advantages: Simple and easy to implement.
+No additional hardware like controllers required.
+Disadvantages:
+CPU remains busy during transfer, wasting processing time.
+Inefficient for high-speed or large-volume data transfers.
+Suitable for simple, low-speed I/O operations where CPU utilization is not critical.
+Q2.
+a.   Compare and evaluate hardware and software interrupts in terms of their operation, priority handling,
+and impact on system performance.   [10M]
+Ans:
+Aspect Hardware Interrupts Software Interrupts: Definition Generated by external hardware devices to get
+CPU attention. Generated internally by executing special instructions in a program.
+Source Keyboard, mouse, timers, I/O devices. Instructions like INT in x86 architecture or system calls.
+Operation   Triggered asynchronously, independent of CPU instructions. Triggered synchronously during
+program execution.
+Priority Handling   Multiple levels of priority (maskable/non-maskable) handled by interrupt controller.
+Priority determined by software design or system call order.
+Latency Very low; immediate response to external events.   Slightly higher latency; depends on instruction
+execution.
+Impact on Performance   Improves real-time responsiveness but may cause overhead if too frequent.
+Allows controlled service requests but adds instruction-level overhead. Example   Disk ready signal, keyboard
+input interrupt.   Divide-by-zero trap, OS service call interrupt.
+********** 2 **********
+--- page 3 ---
+Control Transfer   Handled by hardware interrupt vector table. Controlled by software-defined interrupt
+handlers.
+Evaluation:
+Hardware interrupts ensure quick device response, essential for real-time systems.
+Software interrupts simplify system call implementation and debugging.
+Balanced use of both provides efficient system operation, optimizing responsiveness and control. In conclusion,
+hardware interrupts enhance external responsiveness, while software interrupts provide controlled, flexible
+execution flow.
+b.   Apply the concept of computer operations to analyse how the four basic functions (input, processing,
+storage, and output) work together in performing a computing task.
+[10M]
+Ans:
+The four fundamental computer operations form an integrated cycle that enables a computing task to be
+executed efficiently.
+Input:
+Devices such as keyboard, scanner, or sensors capture raw data.
+Data is converted into binary form and transferred to memory for processing.
+Example: User enters numbers for calculation.
+Processing:
+The CPU (ALU + Control Unit) executes instructions on input data.
+ALU performs arithmetic and logical operations; CU directs data flow and instruction sequencing.
+Example: CPU adds the input numbers.
+Storage:
+Primary storage (RAM) holds data and intermediate results temporarily.
+Secondary storage (HDD/SSD) stores programs and output data permanently.
+Example: The sum result is stored in memory for later use.
+Output:
+Processed information is converted into human-readable form.
+Devices such as monitors, printers, or actuators display or act on results.
+Example: Displaying the sum on the screen.
+Interrelationship:
+Input feeds data → Processing manipulates data → Storage retains intermediate/final results → Output
+communicates results.
+All steps are synchronized by the control unit, ensuring correct timing and execution flow.
+Q3.
+Solve the following:   [10M]
+Convert the given decimal equivalent number to IEEE 754 32-bits floating point notation: (134.25)_10.
+Explain the single precision and double precision IEEE 754 data format.   [05M]
+Ans: Step 1 — Binary representation
+Integer part:
+=128+6⇒ binary 10000110.
+Fractional part:
+********** 3 **********
+--- page 4 ---
+Step 2 — Normalize
+Step 3 — Biased exponent (single precision bias = 127)
+Step 4 — Mantissa (fraction) bits
+Take fractional bits after the leading 1: 000011001 then pad with zeros to 23 bits:
+Mantissa = 00001100100000000000000 (23 bits)
+Step 5 — Sign bit
+Number is positive → sign = 0.
+Final 32-bit IEEE-754 (single precision):
+sign | exponent | mantissa (23 bits)
+0 10000110 00001100100000000000000
+Written as a 32-bit string:
+01000011000001100100000000000000
+Convert the given IEEE 754 format into decimal number: 01011001110111100000000000000000. Show
+proper steps.   [05M]
+Explain the concept of direct mapping. Draw the hardware implementation of direct mapping scheme.
+The system contains 512 GB primary memory and cache memory of 32MB with block size 64 KB. Find the PA bit
+split? Tag directory size. If the block number is 32, which line will this block be mapped to in the cache. Also
+calculate the same for block number 45. Will this give rise to hit or miss? If miss, which type of miss, is it.
+(Assume the cache is full)   [10M]
+Given:
+Given:
+• Primary memory (physical) = 512 GB
+• Cache = 32 MB
+• Block (line) size = 64 KB
+Step A — Express sizes as powers of two
+• 512 GB = 512 × 230 bytes = 29 ⋅230 = 239bytes.
+⇒ Physical address space = 239bytes → 39 physical address (PA) bits.
+• Cache size = 32 MB = 32 × 220 = 225bytes.
+• Block size = 64 KB = 64 × 210 = 216bytes.
+Step B — Compute offset, index, tag bits
+•   Offset bits = log₂(block size) = 16 bits. (byte offset within block)
+• Number of cache lines = cache size / block size = 225/216 = 29→ 512 lines.
+• Index bits = log₂(number of lines) = 9 bits.
+• Tag bits = PA bits − index − offset = 39 −9 −16 = 14bits.
+So the PA bit split is:
+| Tag (14 bits) | Index (9 bits) | Offset (16 bits) |
+********** 4 **********
+--- page 5 ---
+Step C — Tag directory size
+Two reasonable interpretations:
+1. Tags only (no valid bits):
+o Tag storage = number_of_lines × tag_bits = 512 × 14 = 7168bits = 7168/8 = 896bytes.
+2. Tags + 1 valid bit per line (typical):
+o Bits per line = 14 (tag) + 1 (valid) = 15 bits.
+o Total = 512 × 15 = 7680bits = 7680/8 = 960bytes.
+(If more metadata per line is stored, add those bit fields accordingly.)
+Step D — Map given block numbers
+Assume block numbers are main-memory block numbers (block 0,1,2,...). In direct mapping:
+cache line = (block number) 𝑚𝑜𝑑 (number of cache lines)
+Number of lines = 512.
+• For block number 32: line = 32 𝑚𝑜𝑑 512 = 32.
+• For block number 45: line = 45 𝑚𝑜𝑑 512 = 45.
+Step E — Hit or miss? What type of miss? (cache is full)
+• Whether an access is a hit depends on whether that block is already resident in the cache and the
+stored tag at that line matches the block’s tag.
+• With only the information given, we cannot deterministically say “hit” or “miss”. You must know
+the cache contents / access history.
+Explain typical cases:
+•   If that exact block was never loaded before (first access) → compulsory (cold) miss.
+•   If the line (e.g., line 32) currently contains a different block (different tag) → accessing block 32
+will miss, and because direct mapping allows only one block per line, this is a conflict miss
+(replacement of an already resident block in that line). In a full cache with many other blocks
+present, new blocks mapping to lines occupied by other blocks usually cause conflict misses.
+•   If the line already holds the same block (tag matches) → hit.
+Specific to this question:
+• Blocks 32 and 45 map to different lines (32 and 45), so they don’t conflict with each other.
+•   If both lines currently contain other blocks, accessing either will cause a miss; because the cache is
+full and the line must evict an existing block, this miss is best described as a conflict miss (unless it’s
+the very first time the block is ever referenced — then it’s a compulsory miss).
+Q4.
+Explain and demonstrate the pipeline concept in computer systems, and illustrate how pipelined
+processors improve instruction throughput.   [10M]
+********** 5 **********
+--- page 6 ---
+What is pipelining?
+Pipelining is a technique where the processing of multiple instructions is overlapped by dividing instruction
+execution into several stages and executing different instructions in different stages simultaneously —
+analogous to an assembly line.
+Typical 5-stage instruction pipeline (classic RISC):
+1. IF — Instruction Fetch
+2. ID — Instruction Decode & Register fetch
+3. EX — Execute / ALU operation
+4. MEM — Memory access (load/store)
+5. WB — Write back result to register
+How it works (conceptual):
+• While instruction I1 is in EX stage, instruction I2 can be in ID, I3 in IF, etc.
+•   After the pipeline is filled, ideally one instruction completes every clock cycle (throughput = 1
+instruction/cycle), compared to the non-pipelined case where one instruction needs all k stages
+sequentially before the next starts.
+Timing example (5-stage pipeline, 5 instructions):
+Non-pipelined (k=5 stages):
+• Each instruction takes 5 cycles; 5 instructions take 5 × 5 = 25 cycles.
+Pipelined:
+•   Pipeline fill cost = k cycles (5) + (number of instructions − 1) cycles to complete = k + (n − 1) = 5
++ (5 − 1) = 9 cycles.
+Throughput / speedup:
+•   Ideal speedup ≈ k (number of stages), for large n and no pipeline overhead.
+• Using the numbers above: speedup = non-pipelined cycles / pipelined cycles = 25/9 ≈ 2.78. As n
+grows, this approaches 5.
+Pipeline hazards (real-world effects that reduce ideal speedup):
+1. Structural hazards: hardware resource conflicts (e.g., single memory port used by IF and MEM).
+2. Data hazards: instruction depends on result of prior instruction (RAW — read after write).
+Solutions: forwarding (bypassing), stall (pipeline bubble), compiler scheduling.
+3. Control hazards: caused by branches and jumps (unknown next instruction). Solutions: branch
+prediction, branch delay slots, flush on misprediction.
+Example showing effect of a data hazard and forwarding:
+•   Instruction sequence: I1: ADD R1,R2,R3 then I2: SUB R4,R1,R5. Without forwarding, I2 must
+stall until I1 completes WB; with forwarding, result from I1.EX/MEM can be forwarded to I2.EX
+and stall avoided (maybe one cycle saved).
+Why pipelining improves instruction throughput:
+********** 6 **********
+--- page 7 ---
+• Overlap of independent stage work across instructions leads to higher instruction-per-cycle (IPC)
+throughput.
+• With good hazard mitigation (forwarding, prediction), pipeline utilization is high and average
+throughput approaches one completed instruction per cycle.
+Draw the flowchart of Booth’s Algorithm and solve (-39)_10×(-32)_10. Using Booth’s algorithm. [10M]
+Choose n = 8 bits (sufficient for operands; product will be 16 bits).
+• Decimal product: (−39) × (−32) = 1248.
+Step 0 — Represent M and Q in 8-bit two’s complement
+•   39₁₀ = 00100111
+• −39 → invert + 1 → 11011001 (M = 11011001)
+•   32₁₀ = 00100000
+• −32 → invert + 1 → 11100000 (Q = 11100000)
+Initialize:
+• A = 00000000 (8 bits)
+• Q = 11100000
+• Q−1 = 0
+• n = 8
+We will show the state before action in each cycle, the action, and the state after shift.
+Before   After shift After shift After shift
+Cycle   Q   Q−1   Action (based on Q0 Q−1)
+(A)   (A)   (Q)   Q−1
+0   00000000 11100000 0   Q0=0, Q−1=0 → No op   00000000   01110000   0
+1   00000000 01110000 0   0,0 → No op   00000000   00111000   0
+2   00000000 00111000 0   0,0 → No op   00000000   00011100   0
+3   00000000 00011100 0   0,0 → No op   00000000   00001110   0
+4   00000000 00001110 0   0,0 → No op   00000000   00000111   0
+Q0=1, Q−1=0 → A = A − M
+5   00000000 00000111 0   00010011   10000011   1
+(i.e., A = A + (−M))
+6   00010011 10000011 1   Q0=1, Q−1=1 → No op   00001001   11000001   1
+7   00001001 11000001 1   Q0=1, Q−1=1 → No op   00000100   11100000   1
+Q5.
+a.   Explain the concept of addressing modes, and illustrate in detail the base-plus-index addressing mode
+and register relative addressing mode with proper examples.
+[10M]
+Concept of Addressing Modes:
+********** 7 **********
+--- page 8 ---
+Addressing modes define the method of specifying the operand (data or address) used in an instruction.
+They determine where the operand is located — in a register, memory, or within the instruction itself.
+→ Purpose:
+• To provide flexibility in data access.
+• To support efficient coding of loops, arrays, and subroutines.
+• To optimize instruction size and execution speed.
+Common Types of Addressing Modes:
+1. Immediate: Operand given directly in instruction.
+→ Example: MOV R1, #25
+2. Direct: Address of operand given directly.
+→ Example: MOV R1, [2500H]
+3. Indirect: Instruction specifies register containing operand’s address.
+→ Example: MOV R1, [R2]
+4. Register: Operand located in a CPU register.
+→ Example: ADD R1, R2
+5. Indexed / Base-relative / Relative: Address calculated using base or index register plus
+displacement.
+1⃣ Base-Plus-Index Addressing Mode:
+Concept:
+Effective Address (EA) = Base Register + Index Register + Displacement (optional)
+Used in array and table access where the base points to start of data, and index gives offset.
+Example:
+Suppose
+• Base Register (BX) = 3000H
+• Index Register (SI) = 0020H
+•   Instruction: MOV AX, [BX + SI]
+Then,
+EA = 3000H + 0020H = 3020H
+→ Content of memory 3020H is moved to AX.
+Application:
+Accessing elements in arrays or records (e.g., A[i] = A[0] + i * element_size).
+Advantage:
+• Enables efficient addressing of structured data.
+• Reduces code size in loops.
+********** 8 **********
+--- page 9 ---
+2️⃣ Register-Relative Addressing Mode:
+Concept:
+Effective Address (EA) = Register Content + Constant Offset (Displacement)
+The register holds a base address (often frame pointer or stack pointer).
+Useful in accessing local variables or function parameters in stack frames.
+Example:
+Let R1 = 2000H, displacement = 0010H
+Instruction: MOV R2, 10(R1)
+→ EA = 2000H + 0010H = 2010H
+→ Content of memory 2010H is moved to R2.
+Application:
+• Used in accessing local data in subroutines.
+•   Efficient for stack-based architectures.
+b.   Illustrate the memory hierarchy in a computer system and apply this concept to explain why such a
+hierarchy is essential for efficient data access and processing.   [10M]
+Concept:
+The memory hierarchy in a computer system is an arrangement of memory components based on:
+• Access speed
+• Cost per bit
+• Storage capacity
+The hierarchy ensures that the CPU gets data quickly, while the system remains cost-efficient.
+Typical Memory Hierarchy (Top → Bottom):
+Access
+Level   Type of Memory   Capacity Cost/bit   Purpose
+Time
+L1 Cache   On-chip SRAM   1–2 ns   Few KB High   Fastest data access for CPU
+On-chip/near CPU   Reduce main memory
+L2/L3 Cache   5–20 ns   MBs   High
+SRAM   latency
+Main Memory   DRAM   50–100 ns GBs   Medium Holds active programs/data
+Secondary
+SSD/HDD   ms   TBs   Low   Permanent data storage
+Memory
+Very
+Tertiary Memory Optical/Tape   seconds   PBs   Backup/Archival
+low
+Diagram (Memory Hierarchy Pyramid):
+********** 9 **********
+--- page 10 ---
+CPU Registers
+│
+Cache (L1, L2, L3)
+│
+Main Memory (RAM)
+│
+Secondary Storage (HDD/SSD)
+│
+Tertiary / Cloud Storage
+Principle of Locality (Reason for Hierarchy):
+1. Temporal Locality: Recently used data/instructions are likely to be used again soon.
+→ Cache stores recent data for reuse.
+2. Spatial Locality: Nearby memory locations are likely to be accessed soon.
+→ Blocks of contiguous data are fetched together.
+These two properties ensure that most memory requests are satisfied from faster, smaller memory levels
+(cache), reducing average access time.
+Why Hierarchy is Essential:
+1. Improves Performance:
+o Cache provides data at nanosecond speeds, reducing CPU idle time.
+2. Balances Cost and Capacity:
+o Large, fast memory is costly; hierarchy provides cost-effective compromise.
+3. Supports Scalability:
+o Different levels handle different workloads efficiently.
+4. Reduces Memory Bottleneck:
+o Prevents the CPU from waiting for slow main memory or disk data.
+5. Enhances Throughput:
+o Multi-level design ensures continuous data supply to CPU pipeline.
+Example Application:
+• When CPU executes a program:
+o Frequently used instructions reside in cache.
+o Active data in main memory.
+o   Files and OS data in secondary memory.
+o Old backups in tertiary storage.
+→ Average access time = weighted sum of hit/miss delays across levels, much less than raw
+DRAM latency.
+Q6.
+a.   Examine the concept of a GPU and analyse its functions and applications. Discuss how GPUs
+work alongside CPUs to enhance system performance.
+[10M]
+********** 10 **********
+--- page 11 ---
+Concept of GPU:
+A Graphics Processing Unit (GPU) is a specialized electronic circuit designed to perform rapid
+mathematical computations, especially for image rendering and parallel data processing.
+Originally designed for graphics, modern GPUs are now used for general-purpose computing (GPGPU)
+in AI, ML, and data-intensive applications.
+Basic Architecture:
+• GPU consists of hundreds or thousands of smaller cores optimized for parallel execution.
+• Unlike CPU, which focuses on serial task execution, GPU handles many tasks simultaneously.
+Diagram – CPU vs GPU Architecture:
+CPU: Few powerful cores → [Core][Core][Core][Core]
+GPU: Many simple cores → [[][][][][][][][][][][][][][][][]]
+Functions of GPU:
+1. Graphics Rendering:
+o   Rasterization, shading, and texture mapping for visual output.
+2. Parallel Processing:
+o Handles matrix, vector, and floating-point operations simultaneously.
+3. Data Computation:
+o Performs large-scale computations in AI/ML models.
+4. Offloading Workload:
+o Takes over repetitive, data-parallel tasks from CPU.
+5. Acceleration:
+o Enhances speed for gaming, simulations, and scientific computing.
+Working of GPU with CPU (Heterogeneous Computing):
+Component   Role
+CPU (Central Processing Unit) Acts as system controller — manages logic, I/O, and task sequencing.
+GPU (Graphics Processing Unit) Executes heavy parallel computations and graphic-related tasks.
+Workflow:
+1. CPU sends data and control instructions to GPU.
+2. GPU performs large-scale computations in parallel.
+3. Results are sent back to CPU for further sequential or logical operations.
+Example:
+In gaming –
+CPU handles game logic, physics, and user input;
+GPU renders visuals, textures, and lighting.
+********** 11 **********
+--- page 12 ---
+Applications of GPUs:
+Domain   Applications
+Graphics   3D rendering, animation, visual effects
+AI & Machine Learning Training deep neural networks (CUDA, TensorFlow)
+Scientific Research   Climate modeling, molecular simulation
+Cryptocurrency   Mining via parallel hash computation
+Data Analytics   Large-scale data visualization, real-time processing
+Advantages:
+• High parallelism → improved throughput
+• Lower latency for heavy data tasks
+•   Accelerated ML & simulation performance
+•   Better power efficiency for parallel tasks
+b.   Apply the concept of Flynn’s classification to explain the different types of computer architectures,
+and illustrate each type with a diagram.   [10M]
+Concept:
+Michael J. Flynn (1966) proposed a taxonomy based on the number of instruction streams and data
+streams processed simultaneously by a computer.
+Notation   Meaning
+I – Instruction Stream Sequence of instructions executed by control unit
+D – Data Stream   Data on which instructions operate
+Flynn’s Classification:
+1⃣ SISD (Single Instruction Single Data)
+• One instruction operates on one data element at a time.
+•   Typical of traditional uniprocessor systems.
+Diagram:
+Instruction Stream → Processor → Data Stream
+Example:
+Conventional single-core CPU (e.g., early Intel processors)
+Features:
+********** 12 **********
+--- page 13 ---
+•   Sequential execution
+• Simple architecture
+• Limited performance for large data
+2️⃣ SIMD (Single Instruction Multiple Data)
+• One instruction operates simultaneously on multiple data elements.
+• Achieved via vector or array processors.
+Diagram:
+Instruction Stream → [Processing Elements] → Multiple Data Streams
+Example:
+GPUs, vector processors (e.g., NVIDIA CUDA, AVX)
+Features:
+•   Excellent for parallel data (e.g., image, matrix processing)
+• Reduces instruction overhead
+3⃣ MISD (Multiple Instruction Single Data)
+•   Multiple instructions operate on same data stream.
+• Rare in practice; used in fault-tolerant systems (e.g., multiple redundant pipelines performing same
+data check).
+Diagram:
+Multiple Instruction Streams → Processor Array → Single Data Stream
+Example:
+Spacecraft control systems (redundancy-based computing)
+4️⃣ MIMD (Multiple Instruction Multiple Data)
+•   Different processors execute different instructions on different data.
+• Most modern multiprocessor or multicore systems follow this model.
+Diagram:
+[Instruction1 → Data1]
+[Instruction2 → Data2]
+Example:
+Multicore CPUs, distributed computing, clusters.
+********** 13 **********
+--- page 14 ---
+Features:
+• High flexibility
+• Supports parallel and concurrent execution
+• Used in servers, supercomputers, AI models
+Summary Table:
+Architecture Instruction Stream Data Stream   Example   Usage
+SISD   1   1   Single-core CPU   Simple, sequential tasks
+SIMD   1   Many   GPU, Vector Processor Image, matrix, array processing
+MISD   Many   1   Fault-tolerant systems   Reliability-critical tasks
+MIMD   Many   Many   Multicore CPU, Cluster Parallel/distributed computing
+Q7.
+a.   Examine the concept of DMA and analyze its functions in transferring data between memory and I/O
+devices without burdening the CPU.   [10M]
+Direct Memory Access (DMA) is a technique that allows an I/O device to transfer data to/from main
+memory without continuous CPU intervention. A DMA controller (DMAC) or bus-mastering I/O device
+takes control of the bus, performs the transfer, and notifies the CPU (usually by an interrupt) when the
+transfer completes.
+Main components
+• DMA Controller (DMAC): hardware unit that manages transfer addresses, counts, and control
+signals.
+• Source & Destination: memory and I/O device addresses or device buffers.
+• System Bus: used for reading/writing memory during transfer.
+• CPU: sets up DMA (source, destination, byte count, direction) and is interrupted on completion or
+error.
+• Handshaking Signals: device–DMAC signals to synchronize transfer (e.g., REQ/ACK).
+How a DMA transfer works (sequence)
+1. CPU setup: CPU programs DMAC with source address, destination address, transfer size, and
+mode.
+2. DMAC requests bus: DMAC asserts bus request (BR) to gain control; CPU responds with bus grant
+(BG).
+3. Transfer: DMAC performs reads/writes between memory and device—bytes/words moved directly.
+o Modes: Burst (block) mode (transfer many words without releasing bus), Cycle-stealing
+(take bus for short cycles between CPU accesses), Transparent (transfer only when CPU is
+idle).
+4. Completion: DMAC updates count, address registers; when done raises interrupt to CPU (or sets
+status flag).
+5. CPU post-processing: CPU handles completion, possibly re-enables caches or processes data.
+********** 14 **********
+--- page 15 ---
+Functions & benefits
+• Offloads CPU: CPU is free to execute other tasks during transfer (CPU sets up only).
+• Higher throughput: DMAC can move large blocks efficiently (burst mode).
+• Lower CPU overhead: Few interrupts (usually one per block) instead of one per byte/word.
+•   Efficient for high-speed I/O: Disk controllers, NICs, audio/video streams, and GPUs often use
+DMA.
+Performance analysis & trade-offs
+•   Positive effects
+o Reduced CPU utilization for I/O — improves overall system throughput.
+o Faster bulk transfers compared to programmed I/O (PIO) where CPU moves each word.
+• Costs / limitations
+o Bus contention: DMA and CPU share the same bus — DMA can delay CPU memory
+accesses (cycle-stealing or bus hold during burst).
+o Cache coherency issues: If CPU cache contains data for memory region modified by DMA,
+stale data can occur. Requires cache flush/invalidate protocols or hardware coherency.
+o Complexity: DMA controller increases hardware complexity; OS must manage buffers,
+alignment, and permissions.
+o Interrupt latency: Although fewer, completion interrupts still add overhead and may need
+servicing.
+o Security/safety: DMAC can access physical memory — requires protection to prevent rogue
+transfers.
+Types / modes (brief)
+• Burst (block) mode: DMAC transfers full block while owning bus → highest throughput but
+longest CPU stall.
+•   Cycle-stealing mode: DMAC “steals” single bus cycles intermittently → lower throughput but less
+CPU blocking.
+• Transparent mode: DMAC transfers only while CPU not using bus → minimal interference but
+unpredictable latency.
+• Scatter-Gather DMA: DMAC follows a list of memory segments (descriptors) enabling non-
+contiguous transfers with one setup.
+Practical considerations
+• OS involvement: allocate physically contiguous or scatter-gather buffers, map virtual→physical
+addresses, handle interrupts, and ensure cache coherency.
+•   Typical use-cases: disk controllers, NICs, audio/video capture/playback, high-speed sensor data,
+GPU transfers.
+********** 15 **********
+--- page 16 ---
+b.   Explain the concept of page table implemented in virtual address mapping. If virtual memory
+size 16GB, Physical memory size is 128MB and Page size is 16KB. What will be the physical
+address bit, page offset bit size, virtual page bit, physical page bits and virtual address bits.
+[10M]
+Concept: Page table & virtual-to-physical address translation (brief)
+•   Virtual address: presented by process → split into (virtual page number, page offset).
+• Page table: per-process structure mapping each virtual page to a physical frame (or marked
+invalid/not present). Entry typically stores frame number (physical page number), valid bit,
+protection bits, and other status (dirty, referenced).
+•   Translation: Physical address = (frame number << offset_bits) | offset. TLB (Translation Lookaside
+Buffer) caches recent mappings for speed.
+Given values
+•   Virtual memory size = 16 GB
+•   Physical memory size = 128 MB
+• Page size = 16 KB
+We assume sizes are powers of 2 (standard).
+Stepwise calculations
+1. Page size = 16 KB = 16 × 210 = 24 × 210 = 214bytes
+→ Page offset bits = 14
+2. Virtual memory size = 16 GB = 16 × 230 = 24 × 230 = 234bytes
+→ Virtual address bits = log₂(2️³⁴) = 34️ bits
+3. Physical memory size = 128 MB = 128 × 220 = 27 × 220 = 227bytes
+→ Physical address bits = 27 bits
+4. Virtual page number bits = Virtual address bits − offset bits = 34️ − 14 = 20 bits
+→ Number of virtual pages = 220 = 1,048,576
+5. Physical page (frame) number bits = Physical address bits − offset bits = 2️7 − 14️ = 13 bits
+→ Number of physical frames = 213 = 8192
+********** 16 **********
+````
+
+## 2025-26 · Re-Exam · Sem 3 · Answer key · paper ac138a73d56a
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_AI_7051/Computer Architecture/ANS_Computer Architecture(702AI0C025)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
+- Text: text (16 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/MBA Tech (AI)
+Year: II/Sem 3 Re-exam(Exam Year: 2025-2026)
+Subject: Computer Architecture
+Date: 09 Feb 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q1 is compulsory
+5. Out of remaining attempt any 4 questions
+6. In all 5 questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1. Answer Briefly: [20 M]
+a. Define the term multicore computer structure. Describe how a multicore computer structure enhances
+system performance compared to a single-core processor.   [05M]
+•   Definition: A multicore computer structure consists of a single processor chip containing two or
+more independent cores, each capable of executing instructions simultaneously.
+• Enhancement of Performance:
+•   Multiple cores allow parallel execution of tasks, improving throughput.
+• Reduces bottlenecks caused by single-core processing.
+•   Better multitasking and energy efficiency compared to a single-core processor.
+b. Analyze the concept of virtual memory and differentiate it from physical memory in terms of functionality
+and performance.   [05M]
+• Concept: Virtual memory is a memory management technique where secondary storage (like
+a hard disk) is used to extend the apparent size of main memory (RAM).
+• Difference from Physical Memory:
+Physical Memory
+Feature   Virtual Memory
+(RAM)
+Storage
+Hard disk / secondary storage   Main memory (RAM)
+Location
+Capacity   Larger than physical memory   Limited
+Access
+Slower due to disk access   Faster
+Speed
+Provides illusion of more memory   Stores active data &
+Function
+than physically available   instructions
+********** 1 **********
+--- page 2 ---
+c. Evaluate the importance of assembler directives in program execution and justify their role in controlling
+the assembly process.   [05M]
+• Evaluation: Assembler directives are commands that guide the assembler but do not
+generate machine code.
+• Role in Assembly:
+i. Control program layout (e.g., segment allocation).
+ii. Define constants, storage space, and macros.
+iii. Improve readability and maintainability of programs.
+•   Justification: They help programmers manage resources efficiently and structure
+programs properly, making assembly easier and less error-prone.
+d. Define what a machine instruction is, and classify the types of machine instructions based on the operations
+they perform, illustrating each type with examples.   [05M]
+•   Definition: A machine instruction is a binary-coded command that the CPU can execute
+directly.
+•   Classification by Operation Type:
+1. Data Transfer Instructions – Move data between memory, registers, or I/O (e.g.,
+MOV).
+2. Arithmetic Instructions – Perform arithmetic operations (e.g., ADD, SUB).
+3. Logical Instructions – Perform logical operations (e.g., AND, OR).
+4. Control Instructions – Alter the sequence of execution (e.g., JMP, CALL).
+5. Input/Output Instructions – Manage data exchange with I/O devices (e.g., IN, OUT).
+• Example:
+1. MOV A, B → Transfers data from register B to register A.
+2. ADD A, 5 → Adds 5 to the content of register A.
+Q2.
+a. Assess the effectiveness of different types of computer buses in enhancing system performance and justify
+their roles in efficient data transfer.   [10M]
+• Definition: A computer bus is a communication pathway that transfers data, addresses, and control
+signals between different components of a computer.
+• Types of Buses & Effectiveness:
+1. Data Bus: Transfers actual data between CPU, memory, and I/O devices.
+o Wider buses (e.g., 32-bit vs 16-bit) increase data transfer rate, enhancing performance.
+2. Address Bus: Transfers memory or I/O addresses from CPU to memory/I/O.
+o Determines maximum addressable memory; a wider bus allows faster access to more
+memory locations.
+3. Control Bus: Transfers control signals like read/write, interrupt requests.
+o Ensures proper synchronization between devices and CPU.
+********** 2 **********
+--- page 3 ---
+• Assessment:
+• Buses improve system performance by allowing faster data exchange and reducing CPU idle
+time.
+•   Justification: Efficient bus design is critical for high-speed communication, supporting
+multitasking and data-intensive operations.
+b. Illustrate the IAS (Princeton) computer model proposed by Von Neumann’s group and demonstrate the role
+of each component in the system architecture.   [10M]
+o Components & Roles:
+• Memory Unit: Stores both data and instructions.
+• Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations.
+• Control Unit: Fetches instructions from memory and controls the sequence of execution.
+• Input/Output (I/O) Unit: Manages communication with external devices.
+• Registers: Temporary storage for instructions, data, and addresses (e.g., Program Counter,
+Accumulator).
+• Bus System: Connects CPU, memory, and I/O for data transfer.
+• Demonstration of Roles:
+o The control unit fetches instructions → ALU executes → memory stores results → I/O unit
+interacts with the outside world.
+o All components are connected via the bus, ensuring smooth and coordinated operation.
+********** 3 **********
+--- page 4 ---
+Q3
+a. Solve the following:   [10M]
+i.   Convert the given decimal equivalent number to IEEE 754 32-bits floating point notation:
+(534.125)10. Explain the single precision and double precision IEEE 754 data format.   [05M]
+ii.   Convert the given IEEE 754 format into decimal number: 11001001110100100000000000000000.
+Show proper steps.   [05M]
+•   Integer part: 534
+534₁₀ → Binary:
+534 ÷ 2 = 267 remainder 0
+267 ÷ 2 = 133 remainder 1
+133 ÷ 2 = 66 remainder 1
+66 ÷ 2 = 33 remainder 0
+33 ÷ 2 = 16 remainder 1
+16 ÷ 2 = 8 remainder 0
+8 ÷ 2 = 4 remainder 0
+4 ÷ 2 = 2 remainder 0
+2 ÷ 2 = 1 remainder 0
+1 ÷ 2 = 0 remainder 1
+Write remainders in reverse order:
+534₁₀ = 1000010110₂
+•   Fractional part: 0.125
+Multiply by 2 and record the integer part:
+0.125 × 2 = 0.25 → 0
+0.25 × 2 = 0.5 → 0
+0.5 × 2 = 1.0 → 1
+So fractional part = 0.001₂
+Full binary number = 1000010110.001₂
+Step 2: Normalize binary number
+Move decimal point to after first '1':
+1000010110.001₂ = 1.000010110001 × 2⁹
+Step 3: Find exponent and mantissa
+• Exponent (biased) = actual exponent + bias (127 for 32-bit)
+= 9 + 127 = 136 = 10001000₂
+• Mantissa (23 bits) = bits after decimal point in normalized form
+= 00001011000100000000000
+Step 4: Assemble IEEE 754 32-bit format
+• Sign bit = 0 (positive number)
+• Exponent = 10001000
+********** 4 **********
+--- page 5 ---
+• Mantissa = 00001011000100000000000
+Final IEEE 754 representation:
+0 10001000 00001011000100000000000
+In hex:
+• Sign + Exponent + Mantissa = 0x 4 4 58 00 00
+2. Explain Single Precision and Double Precision IEEE 754 Data Format
+Format   Total bits Sign bits Exponent bits Mantissa (Fraction) bits Exponent bias
+Single Precision 32   1   8   23   127
+Double Precision 64   1   11   52   1023
+• Single Precision:
+o 1 bit for sign
+o 8 bits for exponent
+o 23 bits for mantissa
+o Range approx ±1.18×10⁻³⁸ to ±3.4×10³⁸
+• Double Precision:
+o 1 bit for sign
+o 11 bits for exponent
+o 52 bits for mantissa
+o Higher precision and larger range approx ±2.23×10⁻³⁰⁸ to ±1.8×10³⁰⁸
+3. Convert IEEE 754 32-bit number to decimal:
+11001001110100100000000000000000
+Step 1: Split into fields
+• Sign bit: 1 (negative)
+• Exponent bits (next 8 bits): 10010011
+• Mantissa bits (last 23 bits): 10100100000000000000000
+Step 2: Decode exponent
+Exponent binary = 10010011 = 147 decimal
+Exponent (actual) = 147 - 127 = 20
+Step 3: Decode mantissa
+Mantissa = 1 + (fraction bits converted to decimal)
+Fraction bits = 10100100000000000000000
+Calculate mantissa fraction:
+= 1 + (1×2⁻¹ + 0×2⁻² + 1×2⁻³ + 0×2⁻⁴ + 0×2⁻⁵ + 1×2⁻⁶)
+= 1 + (0.5 + 0 + 0.125 + 0 + 0 + 0.015625)
+= 1 + 0.640625
+= 1.640625
+********** 5 **********
+--- page 6 ---
+Step 4: Calculate final value
+Value = (-1)^sign × mantissa × 2^exponent
+= (-1)^1 × 1.640625 × 2²⁰
+= -1 × 1.640625 × 1,048,576
+= -1,720,320 (approx)
+b. Explain the concept of set associate mapping. What are the advantages of this mapping scheme?
+A computer system has a byte addressable memory system. The system contains 512 GB primary
+memory and cache memory of 32MB with block size 64 KB. Find the PA bit split? Tag directory
+size. Consider the system implementing 16-way Set Associate memory mapping. If the block
+number is 32 to which set will this block be mapped to in the cache. Also calculate the same for
+block number 45. Will this give rise to hit or miss? If miss which type of miss, is it. (Assume the
+cache is empty)
+Step 1: Convert decimal number to binary
+4. Set Associative Mapping Explanation
+• Concept:
+Set associative mapping divides the cache into multiple sets, each containing a fixed number of
+lines (ways). A block maps to exactly one set, but can be placed in any line within that set.
+• Advantages:
+o Reduces conflict misses compared to direct mapping.
+o Requires less hardware than fully associative caches.
+o Offers a good trade-off between hit rate and complexity.
+5. Cache Memory Problem
+Given:
+• Byte-addressable memory
+• Primary memory = 512 GB
+• Cache memory = 32 MB
+• Block size = 64 KB
+• Mapping = 16-way set associative
+Step 1: Calculate number of blocks in main memory
+512 GB = 512 × 2³⁰ bytes = 2⁴⁹ bytes
+Block size = 64 KB = 2¹⁶ bytes
+Number of blocks = 2⁴⁹ / 2¹⁶ = 2³³ blocks
+Step 2: Calculate number of blocks in cache
+Cache size = 32 MB = 2²⁵ bytes
+Number of blocks in cache = 2²⁵ / 2¹⁶ = 2⁹ = 512 blocks
+********** 6 **********
+--- page 7 ---
+Step 3: Calculate number of sets
+Since it's 16-way associative:
+Number of sets = Number of blocks in cache / ways
+= 512 / 16 = 32 sets
+Step 4: Calculate PA bit split (Physical Address split)
+Physical address bits = log₂(512 GB) = 49 bits
+• Block offset bits = log₂(block size) = 16 bits
+• Number of sets = 32 → set index bits = log₂(32) = 5 bits
+• Tag bits = total - (block offset + set index)
+= 49 - (16 + 5) = 28 bits
+Step 5: Tag Directory Size
+Each block has a tag of 28 bits.
+Number of blocks in cache = 512
+Tag directory size = 28 bits × 512 = 14,336 bits = 1,792 bytes (~1.75 KB)
+Step 6: Block to Set Mapping
+Set index = (Block number) mod (Number of sets)
+• For block number 32:
+32 mod 32 = 0 → maps to set 0
+• For block number 45:
+45 mod 32 = 13 → maps to set 13
+Step 7: Hit or Miss?
+Assuming cache is empty initially, both block 32 and block 45 will miss because they are not in cache
+yet.
+• Type of miss: Compulsory (Cold) Miss
+Q4.
+a. Illustrate and compare the RISC and CISC architectures, highlighting how each affects instruction
+execution and processor performance.   [10M]
+RISC (Reduced Instruction Set Computer)
+•   Characteristics:
+o Simple instructions, each typically executed in one clock cycle.
+o Fixed-length instructions.
+o Load/store architecture: only load and store instructions access memory; all other
+instructions operate on registers.
+o Large number of general-purpose registers.
+o Emphasizes software to do complex tasks using simple instructions.
+o Few addressing modes.
+********** 7 **********
+--- page 8 ---
+o Pipelines easily due to uniform instruction length and simple operations.
+•   Effects on Instruction Execution and Processor Performance:
+o Fast instruction execution due to simplicity.
+o Efficient pipelining and parallelism.
+o Higher number of instructions required for complex tasks.
+o Compiler plays a bigger role in optimizing code.
+o Less complex hardware → cheaper and consumes less power.
+2. CISC (Complex Instruction Set Computer)
+•   Characteristics:
+o Complex instructions that can execute several low-level operations.
+o Variable-length instructions.
+o Instructions can directly manipulate memory (not just registers).
+o Fewer general-purpose registers.
+o Multiple addressing modes.
+o Microprogramming often used internally.
+•   Effects on Instruction Execution and Processor Performance:
+o Complex instructions may take multiple cycles to execute.
+o Can reduce the number of instructions per program.
+o Harder to pipeline due to variable-length instructions and complex operations.
+o More complex hardware → higher cost and power consumption.
+o Easier for programmers due to powerful instructions.
+Comparison Table
+Feature   RISC   CISC
+Instruction Set   Simple, fixed length   Complex, variable length
+Instruction Execution   Usually single clock cycle   Multiple clock cycles
+Memory Access   Load/store only   Direct memory access in instructions
+Number of Instructions More instructions per program   Fewer instructions per program
+Registers   Large number of general-purpose Fewer registers
+Hardware Complexity Simple   Complex
+Pipelining   Easier to pipeline   Difficult due to complexity
+Compiler Role   More optimization required   Less compiler optimization needed
+Power Consumption   Lower   Higher
+Example Architectures ARM, MIPS, SPARC   Intel x86, VAX
+b. Explain the significance of Booth’s Algorithm and solve (59)10 × (−61)10. Using Booth’s algorithm.
+[10M]
+Significance of Booth’s Algorithm
+•   Efficient algorithm for multiplying signed binary numbers.
+• Handles both positive and negative multipliers.
+• Reduces the number of addition/subtraction operations by encoding runs of 1s.
+• Works by examining pairs of bits to decide whether to add, subtract, or do nothing.
+• Useful in computer arithmetic for fast signed multiplication.
+********** 8 **********
+--- page 9 ---
+Steps to Multiply (59)₁₀ × (-61)₁₀ Using Booth’s Algorithm
+Step 1: Convert to Binary
+• 59 in binary (7 bits is enough):
+59₁₀ = 0111011₂
+• -61 in binary (7 bits signed 2’s complement):
+61₁₀ = 0111101₂
+To get -61, take 2’s complement:
+•   Flip bits: 1000010₂
+• Add 1: 1000011₂
+So -61 = 1000011₂
+Step 2: Setup
+• Multiplicand (M) = 59 = 0111011
+•   Multiplier (Q) = -61 = 1000011
+• Q₋₁ = 0 (extra bit initialized to 0)
+• Accumulator (A) = 0 (initialized to zero)
+Step 3: Number of bits = 7, repeat for 7 cycles
+Initialize:
+A = 0000000
+Q = 1000011
+Q₋₁ = 0
+M = 0111011
+Step 4: Booth’s Algorithm Rules (based on Q₀ and Q₋₁)
+•   If Q₀ Q₋₁ = 01 → A = A + M
+•   If Q₀ Q₋₁ = 10 → A = A - M
+•   If Q₀ Q₋₁ = 00 or 11 → No arithmetic operation
+Then arithmetic right shift (A,Q,Q₋₁)
+Cycle-by-cycle
+Cycle   A   Q   Q₋₁   Operation
+Init 0000000   1000011 0
+1   0000000   1000011 0 Q₀Q₋₁ = 1 1 → No operation
+Shift   A=0000000 Q=1100001 Q₋₁=1
+2   0000000   1100001 1 Q₀Q₋₁=1 1 → No operation
+Shift   A=0000000 Q=1110000 Q₋₁=1
+3   0000000   1110000 1 Q₀Q₋₁=0 1 → A = A + M
+A+M = 0000000 + 0111011 = 0111011
+Shift   A=0011101 Q=0111000 Q₋₁=0
+4   0011101   0111000 0 Q₀Q₋₁=0 0 → No operation
+********** 9 **********
+--- page 10 ---
+Cycle   A   Q   Q₋₁   Operation
+Shift   A=0001110 Q=1011100 Q₋₁=0
+5   0001110   1011100 0 Q₀Q₋₁=0 0 → No operation
+Shift   A=0000111 Q=0101110 Q₋₁=0
+6   0000111   0101110 0 Q₀Q₋₁=0 0 → No operation
+Shift   A=0000011 Q=1010111 Q₋₁=0
+7   0000011   1010111 0 Q₀Q₋₁=1 0 → A = A - M
+A - M = 0000011 - 0111011 = 1001000 (2’s complement)
+Shift   A=1100100 Q=1101011 Q₋₁=1
+Step 5: Final result
+Concatenate A and Q:
+A = 1100100
+Q = 1101011
+Result = 11001001101011 (14 bits)
+Since multiplying 7-bit numbers, 14 bits for result is correct.
+Step 6: Convert result to decimal
+The binary number is in 2’s complement (because multiplier is negative).
+• 11001001101011₂
+Convert to decimal:
+• Check sign bit (leftmost bit) → 1 means negative number.
+• Find 2’s complement to get magnitude:
+Flip bits: 00110110010100
+Add 1: 00110110010101₂ = 3541 decimal
+So result = -3541 decimal
+Step 7: Verify actual product
+59 × (-61) = -3599 (Check the calculation!)
+Oops! There’s a discrepancy. This is likely due to using 7-bit numbers which limits range (-64 to +63).
+Correction: Use 8-bit representation to avoid overflow:
+• 59 = 00111011
+• -61 = 11000011 (8-bit 2’s complement)
+Repeat the process for 8 cycles with 8-bit registers.
+Q5
+a. Describe what an addressing mode is, and explain in detail the direct addressing mode and register indirect
+addressing mode with suitable examples.   [10M]
+********** 10 **********
+--- page 11 ---
+What is an Addressing Mode?
+•   Definition:
+An addressing mode specifies how the operand of an instruction is chosen or accessed. It defines
+the method used to calculate the effective address of the data required by the instruction.
+• Purpose:
+Addressing modes provide flexibility and efficiency in accessing data and instructions stored in
+memory or registers.
+Common Addressing Modes:
+• Immediate: Operand is part of the instruction.
+•   Direct: Operand’s memory address is directly specified in the instruction.
+•   Indirect: The instruction specifies a register or memory location that contains the address of the
+operand.
+• Register: Operand is in a register.
+• Indexed: Effective address = base address + index register content.
+1. Direct Addressing Mode
+• Description:
+The instruction contains the direct address of the operand in memory. The CPU fetches data
+directly from this memory location.
+• How it works:
+If the instruction contains an address field, that field points directly to the memory location of
+the operand.
+• Example:
+Instruction: LOAD R1, 2000
+• The operand is stored at memory location 2000.
+• The CPU reads the content of memory location 2000 and loads it into register R1.
+• Advantages:
+o Simple and fast access to operands in memory.
+• Disadvantages:
+o Limited range of address field size (depends on instruction format).
+o Not flexible for complex data structures.
+2. Register Indirect Addressing Mode
+• Description:
+The instruction specifies a register which contains the address of the operand in memory, rather
+than the operand's actual address.
+• How it works:
+The register holds the memory address where the actual data is stored.
+• Example:
+Instruction: LOAD R1, (R2)
+• R2 contains the address of the operand.
+• CPU uses the value in R2 as a pointer to the memory location.
+• Operand is fetched from the memory address pointed to by R2 into R1.
+• Advantages:
+********** 11 **********
+--- page 12 ---
+o Flexible for accessing dynamic data structures like linked lists.
+o Can easily access arrays or pointer-based data.
+• Disadvantages:
+o Extra memory access may be required (fetch address first, then data).
+b. Identify the key characteristics of memory systems and demonstrate how each characteristic affects overall
+system performance.
+Key Characteristics of Memory Systems and their Effect on Performance
+Characteristic   Description   Effect on System Performance
+Time taken to read/write data from/to   Lower access time → faster data retrieval →
+Access Time
+memory   improved CPU efficiency.
+Minimum time between two successive   Determines maximum throughput; shorter cycle
+Cycle Time
+memory operations   time improves performance.
+Rate at which data is transferred   Higher transfer rate reduces wait time for large
+Transfer Rate
+between memory and processor   data.
+Larger capacity allows storage of more
+Capacity   Total storage size of the memory
+data/programs, reducing I/O bottlenecks.
+Influences design decisions balancing cost and
+Cost per Bit   Cost of storing a single bit of information
+performance.
+Whether data is retained when power is Non-volatile memory retains data without power,
+Volatility
+off (volatile vs non-volatile)   useful for storage.
+Physical   Organization as chips, modules, or multi- Affects scalability and speed; multi-level caches
+Organization   level hierarchy   improve speed.
+Multiple levels (registers, cache, main   Reduces average access time by keeping
+Hierarchy
+memory, secondary storage)   frequently used data closer to CPU.
+How Each Affects Performance
+• Access Time: Faster memory access decreases CPU stalls and speeds program execution.
+• Cycle Time: Shorter cycle time means memory can handle more operations per second,
+increasing throughput.
+• Transfer Rate: Important for bulk data transfers (e.g., DMA), minimizing data bottlenecks.
+• Capacity: Larger memory reduces need for swapping, improving performance for large
+applications.
+• Cost: Balances performance and affordability; high-performance memory is costlier.
+•   Volatility: Volatile memory is faster but needs power; non-volatile memory is slower but
+persists data.
+• Hierarchy: Memory hierarchy improves overall speed by exploiting locality (temporal and
+spatial).
+• Physical Organization: Modular design enables parallelism and scalability.
+Q6
+a. Analyse the role of an I/O processor in a computer system and explain its functions in managing
+input/output operations efficiently.   [10M]
+********** 12 **********
+--- page 13 ---
+What is an I/O Processor?
+• An I/O Processor (IOP) is a specialized processor dedicated to managing input/output
+operations independently from the CPU.
+•   It offloads the I/O processing tasks from the main CPU to improve overall system efficiency.
+Role and Functions of I/O Processor:
+1. Offloading I/O Work:
+o Handles all the I/O operations such as data transfer between memory and I/O devices.
+o Frees the CPU to execute other tasks, increasing CPU availability and system throughput.
+2. Efficient I/O Management:
+o Manages multiple I/O devices simultaneously.
+o Uses techniques like DMA (Direct Memory Access) for fast data transfer without CPU
+intervention.
+3. Command Execution:
+o Receives I/O commands from the CPU and executes them.
+o Can initiate, control, and monitor I/O operations autonomously.
+4. Error Detection and Handling:
+o Detects errors during data transfer.
+o Performs retries or notifies CPU about failures.
+5. Buffering and Caching:
+o Uses buffers to accommodate speed mismatches between CPU, memory, and I/O devices.
+o Ensures smooth data flow and avoids CPU stalls.
+6. Interrupt Handling:
+o Generates interrupts to inform the CPU about completion or errors in I/O operations.
+o Helps in asynchronous communication between devices and CPU.
+Benefits of I/O Processor:
+• Improves system performance by parallelizing I/O with CPU operations.
+• Reduces CPU overhead for I/O tasks.
+• Enables complex I/O operations without burdening the main processor.
+b. Explain the concept of superscalar architecture and demonstrate its advantages and disadvantages with
+examples of its impact on processor performance.   [10M]
+What is Superscalar Architecture?
+• A superscalar processor can issue and execute more than one instruction per clock cycle by
+employing multiple execution units.
+•   It dynamically identifies independent instructions and dispatches them in parallel to different
+execution units.
+Key Features:
+• Multiple pipelines (integer ALUs, FPUs, load/store units).
+•   Instruction-level parallelism (ILP) exploited at runtime.
+********** 13 **********
+--- page 14 ---
+•   Out-of-order execution to optimize resource usage.
+Advantages of Superscalar Architecture:
+1. Improved Performance:
+o Executes multiple instructions simultaneously, increasing instructions per cycle (IPC).
+o Utilizes CPU resources more efficiently.
+2. Better Utilization of Resources:
+o Multiple execution units allow parallel processing of instructions.
+o Reduces idle times of functional units.
+3. Scalability:
+o Adding more execution units can further enhance performance.
+o Modern CPUs use superscalar pipelines extensively.
+4. Transparency to Programmer:
+o Hardware handles parallelism; no need for special programming.
+Disadvantages of Superscalar Architecture:
+1. Complex Hardware Design:
+o Requires complex instruction scheduling, dependency checking, and hazard handling.
+o More silicon area and power consumption.
+2. Diminishing Returns:
+o Limited by instruction dependencies and available ILP.
+o Performance gain plateaus as instruction parallelism saturates.
+3. Increased Complexity in Pipeline Control:
+o Handling out-of-order execution and branch prediction increases design complexity.
+4. Higher Cost:
+o More expensive to design and manufacture.
+Impact on Processor Performance: Example
+•   Intel Pentium Pro and later processors are superscalar.
+• They can execute 2-4 instructions per cycle, compared to scalar processors that execute one
+instruction per cycle, resulting in significant performance improvements for parallelizable code.
+Q7
+a. Analyse the drawbacks of programmed I/O and interrupt-driven I/O, and examine how DMA (Direct
+Memory Access) addresses these limitations to improve system efficiency.   [10M]
+Programmed I/O (polling) — drawbacks
+• CPU busy-waiting: the CPU repeatedly polls the device status registers until the device is ready.
+This wastes CPU cycles that could do useful work.
+• Poor CPU utilization for slow devices: if device transfer rate ≪ CPU speed, the CPU spends a
+large fraction of time polling.
+• Poor scalability: with multiple devices the polling overhead grows (either frequent polling of many
+devices or long poll intervals that increase latency).
+********** 14 **********
+--- page 15 ---
+• I/O granularity inefficiency: fine-grained transfers (byte/word at a time) cause many CPU
+instructions per transferred byte.
+Interrupt-driven I/O — drawbacks
+• Reduced polling waste but high context-switch overhead: each I/O completion triggers an
+interrupt; handling each interrupt involves saving/restoring CPU context, kernel entry/exit, and
+device driver code — expensive if interrupts are frequent (e.g., per byte).
+• Interrupt storms: high-speed devices can generate interrupts faster than the CPU can handle,
+causing overhead or lost data unless coalescing is used.
+• Interrupt latency and jitter: interrupts preempt current work — real-time tasks may suffer; priority
+inversion is possible.
+•   Per-transfer overhead: even though CPU is not busy-waiting, per-transfer CPU involvement is
+high for many small transfers.
+• Complexity: driver must handle concurrency, interrupt priorities, and reentrancy.
+How DMA (Direct Memory Access) addresses these limitations
+• Offloads bulk data movement from CPU: a DMA controller performs transfers directly between
+device and memory after the CPU sets it up (source, destination, size, direction). CPU only issues
+setup and optionally handles completion interrupt — large reduction in per-byte CPU instruction
+counts.
+• Frees CPU for computation: while DMA transfers occur, the CPU can run other tasks — much
+better CPU utilization.
+•   Efficient for high-throughput devices: block/burst transfers done by DMA avoid interrupt storms
+and the overhead of per-byte interrupts.
+• Lower interrupt rate: DMA typically interrupts only at transfer completion or on error, rather than
+per byte/word.
+• Multiple transfer modes: e.g., cycle-stealing (DMA takes bus cycles intermittently) or burst mode
+(DMA transfers contiguous block in bus bursts), allowing flexible tradeoffs between latency and
+throughput.
+New issues DMA introduces (tradeoffs / considerations)
+• Bus arbitration and contention: DMA and CPU share the memory bus — DMA can steal cycles or
+monopolize the bus temporarily.
+• Cache coherency: DMA writes to memory bypass CPU caches; the OS/driver must flush/invalidate
+caches or use cache-coherent DMA hardware.
+• Complexity & security: DMA can access physical memory directly — requires IOMMU/driver
+protections to avoid unauthorized access.
+• Limited to physical addresses: DMA works with physical memory addresses, so OS must provide
+contiguous or I/O-mapped buffers or use scatter-gather lists.
+b. Explain the terms with respect to virtual memory: page frame, demand paging, page fault. If virtual memory
+size 32GB, Physical memory size is 512MB and Page size is 16KB. What will be the physical address bit,
+page offset bit size, virtual page bit, physical page bits and virtual address bits.   [10M]
+Definitions (brief)
+• Page frame: a fixed-size block of physical memory (frame) that can hold one page from virtual
+memory. Physical memory is divided into page frames.
+• Demand paging: a virtual memory scheme where pages are loaded into physical memory only
+when they are first referenced (page brought in on demand), rather than preloading all pages.
+********** 15 **********
+--- page 16 ---
+• Page fault: an exception raised when a process accesses a virtual page not currently resident in
+physical memory; the OS handles it by loading the required page from secondary storage
+(swap/pagefile) into a free frame (or evicting another page), then resumes the process.
+Given
+•   Virtual memory size =32 GB= 32\ \text{GB}=32 GB
+•   Physical memory size =512 MB= 512\ \text{MB}=512 MB
+• Page size =16 KB= 16\ \text{KB}=16 KB
+We compute address and page-related bit widths step by step.
+Step 1 — page offset bits
+Page size = 16 KB = 16×102416 \times 102416×1024 bytes = 16×210=24×210=21416 \times 2^{10} =
+2^{4} \times 2^{10} = 2^{14}16×210=24×210=214 bytes.
+So page offset bits = log⁡2(214)=14\log_2(2^{14}) = 14log2(214)=14 bits.
+Step 2 — virtual address bits
+Virtual memory size = 32 GB = 32×230=25×230=23532 \times 2^{30} = 2^{5} \times 2^{30} =
+2^{35}32×230=25×230=235 bytes.
+So virtual address bits = log⁡2(235)=35\log_2(2^{35}) = 35log2(235)=35 bits.
+Step 3 — physical address bits
+Physical memory size = 512 MB = 512×220=29×220=229512 \times 2^{20} = 2^{9} \times 2^{20} =
+2^{29}512×220=29×220=229 bytes.
+So physical address bits = log⁡2(229)=29\log_2(2^{29}) = 29log2(229)=29 bits.
+Step 4 — virtual page number bits (VPN)
+Virtual page bits = virtual address bits − offset bits = 35−14=2135 - 14 = 2135−14=21 bits.
+So there are 221=2,097,1522^{21} = 2{,}097{,}152221=2,097,152 virtual pages.
+Step 5 — physical page/frame bits (PPN)
+Physical page/frame bits = physical address bits − offset bits = 29−14=1529 - 14 = 1529−14=15 bits.
+So there are 215=32,7682^{15} = 32{,}768215=32,768 physical page frames. (Check:
+512 MB/16 KB=32768512\ \text{MB} / 16\ \text{KB} = 32768512 MB/16 KB=32768).
+Final answers (concise)
+• Page offset bits: 14 bits
+• Virtual address bits: 35 bits
+• Physical address bits: 29 bits
+• Virtual page (VPN) bits: 21 bits
+• Physical page/frame (PPN) bits: 15 bits
+(Extra numeric checks: Virtual pages = 221=2,097,1522^{21}=2{,}097{,}152221=2,097,152. Physical
+frames = 215=32,7682^{15}=32{,}768215=32,768.)
+********** 16 **********
+````

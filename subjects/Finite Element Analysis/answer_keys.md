@@ -1,0 +1,1225 @@
+# Finite Element Analysis: answer keys
+
+Answer keys and model answers published on the portal, newest first.
+
+## 2025-26 · Final-Exam · Sem 7 · Answer key · paper a36aa04f46d0
+
+- Departments: Mechanical
+- Programmes: BTech Mechanical 7003, Integrated Mechanical 7031
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Finite Element Analysis/ANS_Finite Element Analysis(702ME0C022)_2025-2026.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
+- Text: mixed (13 pages), mean OCR confidence 72.1
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (Mech)/B. Tech (MECH)
+Year: IV / VI/Semester VII/Semester XI(Exam Year: 2025-2026)
+Subject: Finite Element Analysis
+Date: 04 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 13 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions.
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+a   In the finite element method (FEM), discretization is the process of breaking down a
+large, complex object or continuous system into a collection of smaller, manageable, and
+discrete parts called "finite elements". This process is also known as "meshing".
+The physical object or domain is infinitely complex, with an infinite number of variables,
+such as stress, strain, or temperature. Because a computer cannot solve a problem with
+an infinite number of degrees of freedom, discretization is a necessary step to convert the
+problem into a solvable system with a finite number of unknowns.
+Key components of discretization
+Finite elements: The smaller, discrete pieces that make up the whole object. The shape   4
+of these elements (e.g., triangles, quadrilaterals, tetrahedrons, or hexahedrons) depends
+on the nature of the problem and the geometry being modeled.
+Nodes: The discrete points that connect the finite elements. The solution to the problem,
+such as displacement or temperature, is calculated at these nodes.
+Mesh: The entire collection of interconnected elements and nodes is called the mesh.
+Mesh quality, density, and configuration are crucial for obtaining an accurate and
+efficient solution.
+Note:- Each part carry 1 Marks for proper explanation
+********** 1 **********
+--- page 2 ---
+b
+3
+Explanation 03 Marks
+c
+4
+Explanation 02 Marks Diagram 02 Marks
+d A constant-strain triangle (CST) is the simplest two-dimensional finite element used for
+the analysis of planar objects in finite element method (FEM). It is a three-noded element
+with one node at each vertex of the triangle. The CST is defined by its core assumption
+that the strain throughout the element is constant.   3
+Discretization into triangles: In FEM, a complex structure is divided into a mesh of
+smaller, simpler shapes. The CST uses a mesh of three-node triangles, which are
+particularly effective for modeling irregular or complex boundaries.
+********** 2 **********
+--- page 3 ---
+Properties of the CST
+Three nodes: One at each corner of the triangle.
+Two degrees of freedom per node: Each node can move in the x and y directions, giving
+a total of six degrees of freedom for the element.
+Constant strain and stress: Due to the linear displacement field, both the strain and stress
+are constant across the entire element.
+Displacement compatibility: The linear displacement approximation ensures that
+displacements along the edges shared by two adjacent elements are compatible. This is
+important for ensuring the overall integrity of the model.
+Explanation 03 Marks
+e
+Explanation 02 Marks Diagram 01 Marks
+3
+f   In the context of Finite Element Analysis (FEA), conduction is the numerical simulation
+3
+of heat transfer within a solid body. Instead of relying on analytical solutions to complex
+********** 3 **********
+--- page 4 ---
+partial differential equations (PDEs), FEA breaks down the continuous physical domain
+into discrete "finite elements". A heat conduction analysis uses these elements to model
+and solve for the temperature distribution and heat flow within a component or assembly.
+The simulation relies on the governing heat conduction equation, which is applied to each
+element. This allows FEA software to solve problems with complex geometries, various
+material properties, and a range of boundary conditions that are otherwise unsolvable
+analytically.
+Explanation 02 Marks Terminologies 01 Marks
+Q2   [20]
+a
+02 Marks
+02 Marks   10
+03 Marks
+********** 4 **********
+--- page 5 ---
+Fix = (—200)(0.005) = —1.0 KN
+
+Fay = (400)(0.003) — (200)(0.01) = 0
+
+Fay = (—200)(0.005) + (400)(0.01) — (2000.015) = 0
+Fax = (—200)(0.01) + (400)(0,015) — (2000.02) = 0
+Fs, = (—200)(0.015) + (2000.02) = 1.0 KN
+
+FIC DI EH ar
+
+03 Marks
+
+02 Marks
+
+10
+--- page 6 ---
+Q3
+
+02 Marks
+
+02 Marks
+
+02 Marks
+
+02 Marks
+
+[20]
+
+FEC 6 FC IG Ir
+--- page 7 ---
+0.707 -0.707 0 0 0 0
+0707 +0.707 0 0 0 0
+
+inl= 0 01000
+0 00 0} 0 00100 03
+KE} = 210° ° 1o ol 0 ooo1d0
+_ 0 00 0 02 Marks 0 oo00L
+o 10 1
+. 10 -10 0 0 0 14)
+ro ure lo 24 10 10 0 14)
+Y= 210°) ; ‘ : Kr) = 10° 10 2.707 0.707 2 0 15
+00 ool 02 Marks HIT] = 10) 40 0707 0707 0 oO
+~ 0 0 2.0 0 2.0 oO.
+05 05 05 05 [14 14 0 0 0 20)
+5 «| 05 05 05 05
+HOT= Ltd x 10 05°05 05 05 Applying the bound di
+. .: .5 .. pplying t! undary conditions
+| | 02 Marks
+02 Marks | 05 95 05 05! v= Wy =u3=v3=0
+Assembling the stiffness matrices
+r 0707 0.707 -0707 -0707 0 0) {Fix= | _ { 1000000 ° [i= 0|
+0707 2707 0.707 0707 0 2, | F2y= 2000) | 0 707106.75}|v, J
+«| 0.707 0.707 2.707 0707 20 0 , 7
+[kK] = 10' =u, =0 o-2=-1414 psi
+0.707 0.707 0.707 0.707 0 0
+0 0 2.0 0-20 0 v2 = — 0.00283 in. a3=0
+L 0 2.0 i) 0 0 2.0, (
+2=0
+02 Marks 02 Marks |*?
+r Method of Refinement
+In the r method of refinement, the nodes are rearranged or relocated without changing the
+number of elements or the polynomial degree of their field quantities, i.e., displacements.
+Figure 7-7(e) illustrates a possible r refinement of the original coarse mesh shown in
+Figure 7-7(a). Notice in this r refinement that we have refined the mesh closer to the loads
+with resulting coarseness in the mesh away from the end loads.
+P
+t
+5
+P
+(ec) A possible r refinement
+Explanation 03 Marks Diagram 02 Marks
+Q4 [20]
+
+FIC 7 IC OHH
+--- page 8 ---
+{-10416.667| 8 04 0 |[0|
+| 3750 f = (210 10")(2x 104) 04 1.8 05 {4} 02 Marks
+| 6666.67 | Lo 05 14 Slo)
+
+— 10416.667 = (210 x 10°) (2 x 10*) [0.8¢, + 0.4%)
+A k 3750 = (210 x 10) (2 x 10) [0.4¢) + 1.8g) + 0.503]
+02 Marks 6666.67 = (210 x 10”) (2 x 104) [0.5¢2 + os}
+
+Multiplying — 2 x (2) and adding it to (1) we have
+
+12500 N 22500 N 10000 N ~ 10416.667 = 4.2 x 10" [0.86 + 0.46]
+_ —7500 = 4.2 x 10" [- 0.86, — 3.66-
+h rt la 2~36e-0 (3 Marks
+3 x v = 17916.667 = 4.2 x 10" [-3.20- os]
+10416.667 N-m 3750 N-m 6666.67 N-m Adding (3) to (4) we have
+— 17916.667 = 4.2 x 10" [-3.26— 63] 15
+y= O=y2=Vv .
+1 2= V3 . 0066.66 *! 02 Marks
+4 2) = 11250= 4.2 x 107 (2.76)
+al= ES ty = Gaoon0
+= Fi 02 Marks =
+Substituting into (4) we have
+2 03 ~ 17916.667 = 4.2 x 107 [- 3.2 (9.92 x 10°) ds]
+4 2)
+[eosl= El |Z F = |0, =1.091 x 10 * rad| 02 Mark:
+arkKs
+2 4| 02 Marks Substituting in (1)
+
+=~ 10416.667 = 4.2 x 10” [0.8 + (wo + C8) +0.49.92 x 10)
+
+= |o, =~ 3.596 «107 rad
+
+{Fo} = [K] (d}
+
+We now describe some of the approximations generally inherent in finite element solutions.
+
+Equilibrium of nodal forces and moments is satisfied. This is true because the global equa-
+tion {F} = [K]{d} is a nodal equilibrium equation whose solution for {@} is such that the
+sums of all forces and moments applied to each node are zero. Equilibrium of the whole
+structure is also satisfied because the structure reactions are included in the global forces
+and hence in the nodal equilibrium equations. Numerous example problems, particularly
+involving truss and frame analysis in Chapter 3 and 5, respectively, have illustrated the
+equilibrium of nodes and of total structures.
+
+Equilibrium within an element is not always satisfied. However, for the constant-strain bar
+of Chapter 3 and the constant-strain triangle of Chapter 6, element equilibrium is satisfied.
+Also the cubic displacement function is shown to satisfy the basic beam equilibrium differ- 5
+ential equation in Chapter 4 and hence to satisfy element force and moment equilibrium.
+However, elements such as the linear-strain triangle of Chapter 8, the axisymmetric ele-
+ment of Chapter 9, and the rectangular element of Chapter 10 usually only approximately
+satisfy the element equilibrium equations.
+
+Equilibrium is not usually satisfied across interelement boundaries. A differential element
+including parts of two adjacent finite elements is usually not in equilibrium (Figure 7-11).
+For line elements, such as used for truss and frame analysis, interelement equilibrium is
+satisfied, as shown in example problems in Chapters 3 through 5. However, for two- and
+three-dimensional elements, interelement equilibrium is not usually satisfied. For instance,
+the results of Example 6.2 indicate that the normal stress along the diagonal edge between
+
+FIC QF EH 1
+--- page 9 ---
+the two elements is different in the two elements. Also, the coarseness of the mesh causes
+this lack of interelement equilibrium to be even more pronounced. The normal and shear
+stresses at a free edge usually are not zero even though theory predicts them to be. Again,
+Example 6.2 illustrates this, with free-edge stresses oy and Ty, not equal to zero. However,
+as more elements are used (refined mesh) the oy and Ty stresses on the stress-free edges
+will approach zero.
+
+4. Continuity is satisfied within an element as long as the element displacement field is
+continuous. Hence, individual elements do not tear apart.
+
+5. In the formulation of the element equations, continuity is invoked at the nodes. Hence,
+elements remain connected at their common nodes. Similarly, the structure remains con-
+nected to its support nodes because boundary conditions are invoked at these nodes.
+
+6. Continuity may or may not be satisfied along interelement boundaries. For line elements
+such as bars and beams, interelement boundaries are merely nodes. Therefore, the
+preceding statement 5 applies for these line elements. The constant-strain triangle and
+the rectangular element of Chapter 6 remain straight-sided when deformed. Therefore,
+interelement continuity exists for these elements; that is, these plane elements deform
+
+mee S000 Ib
+al 10 in.
+2)
+“
+4 5000 Ib
+20 in.
+Example 6.2
+@,, = M01 psi
+
+G, = 301 psi
+__ | Fy =-24 ps
+
+—— Ty = 24 psi = 280 psi
+4 ae .
+io, = 1005 psi @ _ =e , = 995 psi 0, = 440 psi
+_—T = ® - a, = 1005 psi Oa = 196 psi
+
+L-7 ; a, = 995 psi
+= — Ty = P97 pai
+Ey =—2.4 psi oe =-12 psi
+Hy == BSE a ty =-24 psi
+Gg, =—1.2 psi
+
+Stresses on a differential
+element common to both finite
+elements, illustrating viclation
+of equilibirium
+
+Stress along the diagonal between elements,
+showing normal and shear stresses,
+
+og, and ¢,,. Note: o, and 7,, are not
+
+equal in magnitude but are opposite in
+
+sign for the two elements, and so
+interelement equilibirium is not satisfied
+
+along common lines without openings, overlaps, or discontinuities. Incompatible ele-
+ments, those that allow gaps or overlaps between elements, can be acceptable and even
+desirable. Incompatible element formulations, in some cases, have been shown to converge
+more rapidly to the exact solution [1]. (For more on this special topic, consult References
+[7] and [8].}
+
+Explanation 03 Marks Diagram 02 Marks
+
+Q5
+
+[20]
+
+FIC QF OH ar
+--- page 10 ---
+Element (1)
+
+L = 40? + 30? = 50 ft = 600 in.
+
+XX 30-0
+cos = a Ls = 79° | 02 Marks
+nb yom 40-0 -o8 Element (2)
+Le 50 L® = 50 ft = 600 in.
+E 121 61
+= = 50000, — =0.0167, — =5.0 = 230-0 __ in 9= 4079 -
+L cL L cos #= =-0.6 sin d= 30 =08 04 Marks
+361 479 4 361 479 4 361 479 4 -361 479 4 J
+4m 64 3-49 -641 3 49 641-3 49 -64l -3 15
+3 2000 4 3 1000, : |
+fk} = 50000 | Oy _ 4 3 200 4 3 1000 |
+361-479 4 361 479 4 UPA 50000) ss up LAD
+479 641 3 479 O41 3) 4 Marks 4799 6413-479 641 3
+4 3 1000 4 —3 2000, 4 3 100 4 3 2000)
+Fy, = 10000 722 0 8 | {u,
+Fy, =0 = 50000} 0 1282 O |i
+| | 05 Marks
+M,=0 0 0 4000] | a
+Solving simultaneously, we obtain
+t= 0.0278 in., v2 = 0, ¢2 =— 0.555 x 10“ rad
+
+02 Marks
+
+02 Marks
+
+01 Marks
+
+FOI 7 QF ICR Ir
+--- page 11 ---
+Q6 [20]
+(-05 0 05 0 0 0),
+l= 0 -l 0 0 OL
+1 In.
+{-1 -o5 0 o5 1 0}
+(32x10" 8x108 0 05 Marks
+[l= 8x10 32x10" 0g
+‘Ine
+1 "
+(0 0 12x10" |
+u, = 0.0 in. vy, = 0.0025 in. 10
+uz= 0.0012 in. v2 = 0.0 in. Stress evaluation
+u3= 0.0 in. v3 = 0.0025 in. fo, )
+fu) (9, |= [DI[BI{d}
+7 02 Marks ity) 03 Marks
+td}= |” | Displacement matrix (o,\   {192x10*)
+Vy | x} |
+>| o, |= 48x10?
+| Wy | | yi : lin2
+\v, } ty} (-LS x 10 |
+02 Marks
+02 Marks
+10
+
+02 Marks
+
+02 Marks
+
+02 Marks
+
+FRI ICR 7 FI OH
+--- page 12 ---
+Q7   [20]
+a
+10
+Explanation of above difference with respect to 10 different points. Each carry 01 marks
+b
+02 Marks
+10
+02 Marks
+02 Marks
+********** 12 **********
+--- page 13 ---
+I 6
+Ni = <128 — 4(5) — 12] = =
+fi a! ( (2)] B
+
+Nj = ais +5 -—3(2)]= = 02 Marks
+
+1 2
+Nm = —[-21 + 39 + 4(2)] = =
+‘m a! (S) + 4(2)] B
+
+“herefore, using Eq. (13.6.3), we obtain
+
+Soi Ni 651) |© 30
+fo; } = Qt} Nj “a 5} = 425} Bu/h | 02 Marks
+fom Nm | x-x0-5 ~ |2 10
+
+y= Yo2
+
+FIR ICR 7] QI HO
+````
+
+## 2025-26 · Re-Exam · Sem 8 · Answer key · paper a0a6b85f448c
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Finite Element Analysis/ANS_Finite Element Analysis(702ME0C022)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
+- Text: mixed (11 pages), mean OCR confidence 70.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (MECHANICAL ENGINEERING)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Finite Element Analysis
+Date: 12 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 11 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions.
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   [20]
+a   Step 1 Discretize and Select the Element Types
+Step 2 Select a Displacement Function
+Step 3 Define the Strain/Displacement and Stress/Strain Relationships
+Step 4 Derive the Element Stiffness Matrix and Equations
+Step 5 Assemble the Element Equations to Obtain the Global or Total Equations and
+Introduce Boundary Conditions   4
+Step 6 Solve for the Unknown Degrees of Freedom (or Generalized
+Displacements)
+Step 7 Solve for the Element Strains and Stresses
+Step 8 Interpret the Results
+(Note:- 1. Explain the above points. 2. Two points carry 1 mark)
+b
+3
+c   4
+********** 1 **********
+--- page 2 ---
+In some beams an internal hinge may be present. In general, this internal hinge causes a
+discontinuity in the slope or rotation of the deflection curve at the hinge. Consider the beam
+shown with two elements and a nodal hinge at node 2 separating the two elements as shown
+in Figure 4~33(a). In general, 6S) for element | is not equal to #Y? for element 2, as shown in
+Figures 4—33(b) and (c). At hinge nodes, rotations are said to be double valued. To model the
+hinge, we consider the hinge to be placed on either the right end of element | or on the left end
+of element 2 but not on both elements at node 2. Examples 4.10 and 4.11 will illustrate how to
+solve beam problems with nodal hinges.
+
+Also, the bending moment is zero at the hinge. We could construct other types of connec-
+tions that release other generalized end forces; that is, connections can be designed to make
+the shear force or axial force zero at the connection. These special conditions can be treated by
+starting with the generalized unreleased beam stiffness matrix [Eq. (4.1.14)] and eliminating
+the known zero force or moment. This yields a modified stiffness matrix with the desired force
+or moment equal to zero and the corresponding displacement or slope eliminated.
+
+® ao
+1[ 6) ]3
+L 2 L
+(a)
+y ¢> # 0, in general ¢, #0, in general
+m,,| b m,=0 m, =0
+
+t
+
+Fiys 1 Fay V2 Sip Y2 Say ¥3
+Explanation 02 Marks
+Diagram 01 Marks
+
+“TR. @ Hinge “~~ @ Bama
+1L_} cd x . DI 3—rr
+yi L 2 Hinge WA L
+
+Plane stress is defined to be a state of stress in which the normal stress and the shear stresses
+directed perpendicular to the plane are assumed to be zero. For instance, in Figures =="
+gual ahi), the plates in the x—y plane shown subjected to surface tractions T (pressure acting
+on the surface edge or face of a member in units of force/area) in the plane are under a state
+of plane stress; that is, the normal stress oz and the shear stresses Tz and Tyz are assumed to
+be zero. Generally, members that are thin (those with a small z dimension compared to the
+in-plane x and y dimensions) and whose loads act only in the x — y plane can be considered to
+be under plane stress.
+
+y y
+
+| © 1 —
+
+| iz + =
+
+i
+,~ [6 [ -------f
+
+(a) (b)
+Plane strain is defined to be a state of strain in which the strain normal to the x — y plane e,
+and the shear strains yxz and yy, are assumed to be zero. The assumptions of plane strain are
+realistic for long bodies (say, in the z direction) with constant cross-sectional area subjected to
+loads that act only in the x and/or y directions and do not vary in the z direction. Some plane
+
+strain examples are shown in Figure sain CS ee aS eErery
+
+FIC 2 I HH ar
+--- page 3 ---
+Explanation 02 Marks
+Diagram 01 Marks
+e
+3
+Explanation 02 Marks
+Diagram 01 Marks
+f
+3
+Explanation 02 Marks
+Terminologies 01 Marks
+********** 3 **********
+--- page 4 ---
+Q2
+
+[20]
+
+Element 1-2
+
+3 1
+= 05 = m-- ws > w=3m
+2 3
+
+=> 15000 =5 x es wet us]
+
+«| | 1
+[ka] =5 x 10° | |
+L~1 1) Substituting (1) in (2)
+Element 2-3 (2x 15000) =-m4+3m
+- 5x 10°
+2 3 Marks = 0.00075 in.
+
+> u3= 3 (0.00075
+Element 1-2
+
+)
+
+= us = 0.00225 in.
+
+1 1 0
+6 3-1 [Fil sys) 1 Tf © | _, fix = 150001 10
+Global [KJ=5x10")-1 3 3 lf! °° La 1}l0.00075! ~~ f,, =150001b
+Lo -4 4) 7, 3 Marks
+4 [fax 6 0.00075 fry =~ 15000 Ib
+{F} = [K] {d} and u, =0 inf 75x! | o.022sf oP sont
+[Fir=? ] f 1-1 O}fu,=0) fo)
+1 Fox =0 f 1°} 1 + | U> ' Fis= 5x 10° [1 -1 0] 0.00075}
+| F;, = 15000) }o = Lily | (0.00225)
+‘ ; SO = Fi= ~150001b 1 Marks
+10
+
+FIC 7) IC HOH
+--- page 5 ---
+02 Marks
+
+02 Marks
+
+02 Marks
+
+04 Marks
+--- page 6 ---
+Q3 [20]
+(k]= 1A [BY [D] [8]
+A= 1 bh=1@Q)=2in2
+B= yj-Yn=0-1=-1
+B= Ym—Yi=1-ClI)=2
+Bu= Yi-yj=-1-0=-1
+W= Xm—xXj=0-2=-2
+= Xi—%m=0-0=0 02 Marks
+,{ 1 025 0 } 1020 1 0 10
+30x10 025 1 Xs, 9 200 0 2
+a 0.25! 9 0 0.375] Oy 102 2 1|
+fo]
+|poota| {19200 psi) 02 Marks
+|=} 4800 psi |
+00 |--15000 psi}
+{0.0025 |
+04 Marks
+AK, — m(lin.)°[20 Brw/(h-ft-°F)](1 ft?)
+L 10 in. 9
+- (144 in?)
+ii “ts| “fe A 2] + Jamrenas
+= 0.5236 Btw/(h-F) Soe
+02 Marks
+[k!] = 0.5236 rl Btu/(h-*F) 7
+- -1 1 [k2)] = [kO] = [kD]
+7} = 17 = 7) <0 |_02 Marks
+oo yy =raalt and using Eq. (13.4.29)
+i) = wr + Hal q 1
+, _ lin.) Jo 10
+_ 1-1 20 lin. )]O 0 = [10 Btu/(h-ft*-°F)]r - | }
+a6] | 1] + wo mun-n?-rin( [° | (13.437) (san) 1
+0
+_ | 05236 0.5236 o = 2.1823"! Btum
+~ [ose eed © | 02 Marks tt}
+02 Marks
+05236 05236 0 0 0 4 i ! ° ° ° ° n] |!
+0.5236 1.0472 -05236 0 0 nl lo 0 10472 -05236 0 0 h 52.36
+0 —0.5236 1.0472 -0.5236 0 bh= {0 0 —0.5236 1.0472 —0.5236 0 br=) 0
+0 0 ~~ -05236 1.0472 -0.5236]|t| fo 0 0 0.5236 1.0472 —0.5236 |] 0
+0 0 0 ~~ -0.5236   o7ais|fts} [718 0 0 0 -0.5236 0.7418 | |'5 2.182
+tf) =85.93°R tf =T7L87°F ty =S57.B1°F ty = 43.75°F
+02 Marks
+Q4 [20]
+
+DR ROR RK
+
+GR
+--- page 7 ---
+a
+10
+List of software 03 Marks
+Advantages 06 Marks
+Dis-advantages 03 Marks
+b
+02 Marks   02 Marks
+02 Marks   02 Marks 10
+02 Marks
+Q5
+********** 7 **********
+--- page 8 ---
+a
+02 Marks   03 Marks
+15
+03
+03 Marks
+02
+02
+b The aspect ratio is defined as the ratio of the longest dimension to the shortest
+dimension of a quadrilateral element. In many cases, as the aspect ratio increases,
+the inaccuracy of the solution increases. To illustrate this point, Figure shows five
+5
+different finite element models used to analyze a beam subjected to bending. Figure
+is a plot of the resulting error in the displacement at point A of the beam versus the
+aspect ratio.
+********** 8 **********
+--- page 9 ---
+ye
+
+L 24 in. —| eB A 40,000-
+Tt toad
+
+Joad distribution
+i 48 in. 1
+4 Z
+6in. x 1 in.
+elements (typical) clements (typical)
+Z
+(3) AR=24 (4) AR=6
+, Y
+4.8 in. x Lin Bin, x 2 in
+1 _clements (typical) clements (typical)
+(Q) AR=36 (2) AR=15
+2.4 in. x Bin,
+T]___clements (typical)
+(1) AR= 11
+(b)
+Explanation 03 Marks
+Diagram 02 Marks
+Q6 [20]
+vo d2 V3 3
+a ‘%%-% Y 1 1-10
+2 12-12 12 Q ca » a — BEL 1 1-10
+yo - | 2 we -2 8/_p| 2% 2% [kK] = —— 1-1 10
+8 [-2 -2 2 -2 -%-% %-% I 02 Marks
+% 1-% 2 o 0 00
+0? Marks ne
+%%% 0 0 0 0
+2% 1 0 o oO 0
+v3 3 V4 ba %%%*%3 0 0 0
+12 6 -12 6 [kl = EI] 3 1% 5-3 0 0 0
+1k] EI 6 4 -6 2 0-3-3 15 6 -12 6
+~W _ _ _ o o 0 6 4 -6 2
+! 12 6 12 6 0 0 0 -12 -6 12 -6
+6 2 -6 4 0 0 0 6 2-6 4
+0? Marks 03 Marks 15
+5 -3 0|}%2 0
+El)-3 15 6}4 v3} = —5 KN 02 Marks
+0 6 4Allds —0.833 KN-m
+wl _ —wi2
+where by work equivalence Ky - —5 KN and M3 = ~ =
+sq? 02 Marks
+= —0.833 KN-m
+Substituting numerical values for E and / into Eq. (4.6.28), and solving simultaneous,
+we obtain
+02 Marks
+
+v3 = —2.126 x 10-5 m, $2 = —1.276 x 10-5 rad, 3 = 2.693 x 10-5 rad (4.6.29)
+
+FIC QF OH ar
+--- page 10 ---
+Use of Symmetry
+
+The appropriate use of symmetry* will often expedite the modeling of a problem. Use of sym-
+metry allows us to consider a reduced problem instead of the actual problem. Thus, we can use
+a finer subdivision of elements with less labor and computer costs. For another discussion on
+the use of symmetry, see Reference [3].
+
+Ee hrouch ae illustrate the use of reflective or mirror symmetry in modeling a
+soil mass subjected to foundation loading, a uniaxially loaded member with a fillet, and a plate
+with a hole subjected to internal pressure, respectively. Note that at the plane of symmetry the
+displacement in the direction perpendicular to the plane must be equal to zero. This is modeled
+by the rollers at nodes 2-6 in Figure jj, where the plane of symmetry is the vertical plane
+
+assing through nodes 1-6, perpendicular to the plane of the model. In Figures 7-4(a) and
+i. there are two planes of symmetry. Thus, we need model only one-fourth of the actual
+members, as shown in iY and fig. Therefore, rollers are used at nodes along
+both the vertical and horizontal planes of symmetry.
+As previously indicated in Chapter 3, in vibration and buckling problems, symmetry must
+be used with caution since symmetry in geometry does not imply symmetry in all vibration
+or buckling modes.
+
+> 5
+= [=
+— =
+(a) Plate with hole under plane stress
+y
+|___—- Axis of symmetry
+x
+Explanation 03 Marks
+Diagram 02 Marks
+Q7 [20]
+% O Mm bb 02
+gy| 12 12 12 12
+[k= ZF 2 6 12 8 By superposition
+L128 12 16 2 z 2] r — .
+- ' | +; 2 0 OO
+Assume the hinge as a + right end part of element (2)
+VO) ¥3 05 y 1 00
+fa 1-10) YF ¥ T 3 ~=0
+2, _ 3EL) 15
+Ke = 3B) =| J
+(41-110
+| | 02 3 3 15 6 2
+Lo 0 0 oF |
+V3 93 Ve 4 | 0 6 4 6
+| 2 6 12 6 | | O12 6 7 (6
+[K?}= oo 4 6 2) L v6 2 6 ¥)
+12-6 12 6 | Applying the boundary conditions
+L6 2 6 4)) 02 We @= m= m= a=0 03
+
+FRR ICR 7 OI HOH
+--- page 11 ---
+5 3 |! 0
+= EI\-3 15 6)%3f=! —10kN
+1.67 KN-m,
+
+0 6 alls 9 3500 :
+3 — v3 + 15v3- —— -9v3=
+> b= a 02 5 EI
+1667 = 2, __ 12500
+oye -
+613 +40= —— 5 El
+m+ 4o=
+4.252 1075 m
+= = [=887 15] —ae
+@y =~ 2.551 10% ra
+EI(— 36) + 15v; + 63) = — 10000 02 25 2
+Substituting (2) and (1) in (3) 3 = 5.386 x 107° rad
+
+02 Marks
+
+02 Marks
+
+01 Marks
+
+FRI ICR 7 FI OH
+````
+
+## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 9ce8fa54fef1
+
+- Departments: Mechanical
+- Programmes: BTech Mechanical 7003
+- Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_Mechanical_7003/Finite Element Analysis/ANS_Finite Element Analysis(702ME0C022)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Feb 2026
+- Text: mixed (12 pages), mean OCR confidence 75.3
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (Mech)/B. Tech (MECH)
+Year: IV/Sem 7 Re-exam(Exam Year: 2025-2026)
+Subject: Finite Element Analysis
+Date: 11 Feb 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 12 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions.
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   [20]
+a   Step 1 Discretize and Select the Element Types
+Step 2 Select a Displacement Function
+Step 3 Define the Strain/Displacement and Stress/Strain Relationships
+Step 4 Derive the Element Stiffness Matrix and Equations
+Step 5 Assemble the Element Equations to Obtain the Global or Total Equations and
+Introduce Boundary Conditions   4
+Step 6 Solve for the Unknown Degrees of Freedom (or Generalized
+Displacements)
+Step 7 Solve for the Element Strains and Stresses
+Step 8 Interpret the Results
+(Note:- 1. Explain the above points. 2. Two points carry 1 mark)
+********** 1 **********
+--- page 2 ---
+[|
+ly |
+(a) o= = Lc -s c¢ si 1 Marks
+
+lv, |
+
+v2 v2
+=> S=>> E=30% 10° psi, L = 60 in.
+
+oo Mat) BME BB)
+60 2 2 2
+2 Marks
+
+= c= 10600 psi
+
+In some beams an internal hinge may be present. In general, this internal hinge causes a
+discontinuity in the slope or rotation of the deflection curve at the hinge. Consider the beam
+shown with two elements and a nodal hinge at node 2 separating the two elements as shown
+in Figure 4~33(a). In general, 6S? for element | is not equal to #Y? for element 2, as shown in
+Figures 4—33(b) and (c). At hinge nodes, rotations are said to be double valued. To model the
+hinge, we consider the hinge to be placed on either the right end of element | or on the left end
+of element 2 but not on both elements at node 2. Examples 4.10 and 4.11 will illustrate how to
+solve beam problems with nodal hinges.
+
+Also, the bending moment is zero at the hinge. We could construct other types of connec-
+tions that release other generalized end forces; that is, connections can be designed to make
+the shear force or axial force zero at the connection. These special conditions can be treated by
+starting with the generalized unreleased beam stiffness matrix [Eq. (4.1.14)] and eliminating
+the known zero force or moment. This yields a modified stiffness matrix with the desired force
+or moment equal to zero and the corresponding displacement or slope eliminated.
+
+@ vino
+1[ o) ]3
+L 2 L
+(a)
+y ¢> #0, in general ¢, #9, in general
+m,,| ¢; m,=0 m, =0
+
+t
+
+Say Says ¥2 fiys¥2 Say ¥3
+
+“TR. @ Hinge “~~ @ Bama
+IL} ee x . DI 3—rr
+yi L 2 Hinge WA L 1)
+
+Explanation 02 Marks
+Diagram 01 Marks
+
+FIC 2 I HH ar
+--- page 3 ---
+Plane stress is defined to be a state of stress in which the normal stress and the shear stresses
+directed perpendicular to the plane are assumed to be zero. For instance, in Figures =="
+gual ahi), the plates in the x—y plane shown subjected to surface tractions T (pressure acting
+on the surface edge or face of a member in units of force/area) in the plane are under a state
+of plane stress; that is, the normal stress oz and the shear stresses Tz and Tyz are assumed to
+be zero. Generally, members that are thin (those with a small z dimension compared to the
+in-plane x and y dimensions) and whose loads act only in the x — y plane can be considered to
+be under plane stress.
+
+y y
+| O—-+e-:   =Fr—-: in
+LST Ali
+(a) ()
+
+Plane strain is defined to be a state of strain in which the strain normal to the x — y plane e;
+and the shear strains yxz and yy, are assumed to be zero. The assumptions of plane strain are
+realistic for long bodies (say, in the z direction) with constant cross-sectional area subjected to
+loads that act only in the x and/or y directions and do not vary in the z direction. Some plane
+
+strain examples are shown in Figure ig) (Sees ey
+
+Explanation 02 Marks
+Diagram 01 Marks
+
+fh Method of Refinement
+
+In the A method of refinement, we use the particular element based on the shape functions
+for that element (for example, linear functions for the bar, quadratic for the beam, bilinear
+for the CST). We then start with a baseline mesh to provide a baseline solution for error
+estimation and to provide guidance for mesh revision. We then add elements of the same
+kind to refine or make smaller elements in the model. Sometimes a uniform refinement
+is done where the original element size [Figure HMMM is perhaps divided in two in both
+directions as shown in Figure WE. More often, the refinement is a nonuniform h refine-
+ment as shown in Figure FF (perhaps even a local refinement used to capture some
+physical phenomenon, such as a shock wave or a thin boundary layer in fluids) [19]. The
+mesh refinement is continued until the results from one mesh compare closely to those of
+the previously refined mesh. It is also possible that part of the mesh can be enlarged instead
+of refined. For instance, in regions where the stresses do not change or change slowly, larger
+elements may be quite acceptable. The h-type mesh refinement strategy had its beginnings
+in [20, 21, 22, 23]. Many commercial computer codes, such as [12], are based on the fh
+refinement.
+
+FC QI a iar
+--- page 4 ---
+Explanation 02 Marks
+Diagram 01 Marks
+f
+3
+Explanation 02 Marks
+Terminologies 01 Marks
+Q2   [20]
+a
+3 Marks
+10
+3 Marks
+3
+1 Marks
+b
+10
+********** 4 **********
+--- page 5 ---
+02 Marks
+
+02 Marks
+
+02 Marks
+
+04 Marks
+--- page 6 ---
+Q3   [20]
+a
+02 Marks   03 Marks
+15
+03
+03 Marks
+02
+02
+b The aspect ratio is defined as the ratio of the longest dimension to the shortest dimension
+of a quadrilateral element. In many cases, as the aspect ratio increases, the inaccuracy of
+the solution increases. To illustrate this point, Figure shows five different finite element   5
+models used to analyze a beam subjected to bending. Figure is a plot of the resulting error
+in the displacement at point A of the beam versus the aspect ratio.
+********** 6 **********
+--- page 7 ---
+yo
+
+L -——— 24 in. ——+| eB a 40,0004
+TL os
+
+Bin, Be uu
+
+4 load distribution
+i 48 in |
+E = 30 x 10° psi
+p=03
+= 10 in.
+@
+Z Z
+elements (typical) otements (typical)
+(5) AR=24 (4) AR=6
+y 7
+{elements (typical) clements (typical)
+(3) AR=36 (2) AR=1L5
+2.4 in. x Bin,
+elements (typical)
+()) ARe Ll
+(b)
+Explanation 03 Marks
+Diagram 02 Marks
+Q4 [20]
+v2 d2 V3 3
+yb: v2 be ‘% %-% % 1 1-1 0
+2 2 2 2
+2 2 -12 12 =
+po - | 2 6 -2 Bly % 2% 1 (ko = SEL bor-ro
+8 |-12 -12 12 -12 -%-% % -% r -1 -l 10 02 Marks
+2 8-12 16 5 7 “ 0 0 00
+%o'% 2
+02 Marks vo di v2 bo v3 bs Me
+‘% % % 0 0 0 0
+% 2 1 0 0 0 0
+V3 3 Va a %%%% 3 0 0 0
+12 6 -12 6 Id-o}% 1 % 5 -3 0 0 0
+Ko] = = 6 4 -6 2 0 0 -3 -3 15 6 -12 6
+Pi-2-6 2-6 Poe eS
+6 2 -6 4 0000 62-6 4
+15
+02 Marks 03 Marks
+5 -3 0||¢2 0
+EI|-3 15 6}5 v3 = —5 kN 02 Marks
+0 6 4ilé; —0.833 KN-m
+where by work equivalence Ky = = = — = —5 kN and M; = — =
+51)? “ “ 02 Marks
+—— = —0.833 kN-m
+Substituting numerical values for E and / into Eq. (4.6.28), and solving simultaneous,
+we obtain
+02 Marks
+
+v3 = —2.126 x 10-5 m, $2 = —1.276 x 10-5 rad, 3 = 2.693 x 10-5 rad (4.6.29)
+
+FIC 7 IC OHH
+--- page 8 ---
+Use of Symmetry
+
+The appropriate use of symmetry* will often expedite the modeling of a problem. Use of sym-
+metry allows us to consider a reduced problem instead of the actual problem. Thus, we can use
+a finer subdivision of elements with less labor and computer costs. For another discussion on
+the use of symmetry, see Reference [3].
+
+Ee hrouch ae illustrate the use of reflective or mirror symmetry in modeling a
+soil mass subjected to foundation loading, a uniaxially loaded member with a fillet, and a plate
+with a hole subjected to internal pressure, respectively. Note that at the plane of symmetry the
+displacement in the direction perpendicular to the plane must be equal to zero. This is modeled
+by the rollers at nodes 2-6 in Figure jj, where the plane of symmetry is the vertical plane
+
+assing through nodes 1-6, perpendicular to the plane of the model. In Figures 7-4(a) and
+i. there are two planes of symmetry. Thus, we need model only one-fourth of the actual
+members, as shown in iY and fig. Therefore, rollers are used at nodes along
+both the vertical and horizontal planes of symmetry.
+As previously indicated in Chapter 3, in vibration and buckling problems, symmetry must
+be used with caution since symmetry in geometry does not imply symmetry in all vibration
+or buckling modes.
+
+, 5
+(a) Plate with hole under plane stress
+y
+|__—-Axis of symmetry
+Explanation 03 Marks
+Diagram 02 Marks
+Q5 [20]
+a 02
+Pal 1212-12 _
+Ks 12 16 12 By superposition
+22 2 y v3 0; My Oy
+Liz 8 912 r . |
+Assume the hinge as a + right end part of element (2)
+th Ma ts | + 100
+fi 1-10) FF ¥ 7 3 ~0 15
+> _ 3EL
+x2 = SEL) =| J
+[KM}= oS 1 0 t= | Bos 3.0
+- 1-110
+| | 02 B 3 15 6 -|2
+Lo 0 00 |
+% 03 M4 Oy | o 6 4 f
+[12 6 -12 6 | | 0 2 6 *P
+3, _ El |
+[|= wo 4 6 2) L v6 2 6 ¥)
+12-6 12 -6 Applying the boundary conditions
+Lo 2 6 4! 02 v= === =0 03
+
+FIC QF EH 1
+--- page 9 ---
+5 3 |! 0
+= FI) 3 15 6)" =! —10kN
+0 6 4il%s 1.67 kN-m 9 1
+3 02 — =¥3 + 15v3- —— -9v3=
+= a= on 5 EI
+1667 = 2, __ 12500
+oye -
+6v3 +4¢= 5 EI
+w+ 4es=
+=~ 4.252x 1075 m
+— 416.75 Bee
+=> a= [— 1.505]
+
+EI(— 36) + 15v3 +604) = — 10000
+Substituting (2) and (1) in (3)
+
+Q6
+
+02
+
+y= ~ 2.551 10% rad
+
+|, = 5.386 x 10° rad
+
+02
+
+02 Marks
+5
+02 Marks
+01 Marks
+[20]
+
+FEI QF IG Ir
+--- page 10 ---
+{k]= 1A [BY [D] [B]
+A= + bh=+Q2)=2in2
+
+B= yj-Ym= 0-1 =-1
+B= Ym—Yi=1-CI)=2
+Bn= Yi-Yj=-1-O0=-1
+N= Xm—-4j= 0-2 =-2
+
+W= Xi— Xm = 0-0=0 02 Marks
+
+Mm = Xj-Xj=2-O=2 {o.) - . - 10
+oO, 1 0.25 oO 1020 1 0
+[B, 0 By 0 By Oo} | g,| = 20x10" g5 1 0 x0 200 0 2
+BI=+ 0% 0 7 0 %m ize) © 8, 0 0 0375 2) > 102 2-1)
+fry ol o.o012| | 19200psi] 02 Marks
+Since it is plane stress [D]= |v 1 0 | Q2Marks |? | | ‘000 pal
+(dw) 1-v] 00 | -
+joo + 0.0025 |
+04 Marks
+AK _ m(lin.)°[20 Btu/(h-ft-°P)]( ft?)
+Lo 10 in. } =
+144 in-)
+(Gia wen ii “te | “if Se 2] + SJawrimas
+= 0.5236 Btu/(h-"F “lL Sos
+on) 02 Marks
+( 1 -l
+bya o
+[ke] = asare| | |p F) [k2)] = [kO] = [kD]
+{fF} = {f} = fF} =0 02 Marks
+1-0) oa? ql iy) =arealt and using Eq. (13.4.29)
+~ 01 2 10
+1-1 - lin. Pfo 0 = [10 Buuth-t?-"F)ir Lin. J {rh
+a6] | 1] + women Pin( a) [° | (13.437) T2in/it) |1
+0.5236 —0.5236 ° =2 i
+-| sme On | Ba | O02 Marks 2a Buh
+02 Marks
+0.5236 05236 0 0 0 Fi F : 0 0 0 0 h 100
+05236 1.0472 -05236 0 0 nl fo ° 10472 0.5236 0 ° h 52.36
+0 —05236 1.0472 -0.5236 0 bh =40 0 —0.5236 1.0472 -0.5236 0 br=) 0
+0 0 05236 1.0472 -0.5236||t| fo er) 0.5236 1.0472 —0.5236 | ts 0
+0 0 0 05236 o7ais|fts} |? 18 0 0 0 -05236 0.7418 | [5 2.182
+fy = 85.93°F 4 =TL8TR ty =S781°F ft =43.75°F
+02 Marks
+Q7 [20]
+i. Autodesk Simulation Multiphysics [46]
+2. Abaqus [47]
+3. ANSYS [48]
+4. COSMOS/M [49]
+5. GT-STRUDL [50] 10
+
+6. LS-DYNA [39]
+7. MARC [51]
+8. MSC/NASTRAN [52]
+
+FRR ICR 7 OI HOH
+--- page 11 ---
+Advantages of FEM
+Disadvantages of FEM
+• Computational cost: For complex problems with a fine mesh, FEM can be very
+computationally expensive, requiring significant time, memory, and processing
+power.
+• Approximation errors: The solution derived from FEM is an approximation, not
+an exact result. The accuracy depends heavily on the quality of the mesh and the
+assumptions made during setup. Understanding and managing these errors
+requires considerable expertise.
+• Expertise required: Proper execution and interpretation of an FEA require a solid
+understanding of engineering and mathematics. A novice user can easily generate
+inaccurate or misleading results by making poor judgments in modeling,
+meshing, or applying boundary conditions.
+• Input data complexity: Setting up a model requires a large amount of input data
+for mesh connectivity, material properties, and boundary conditions, increasing
+the potential for input errors.
+• Not universally superior: For some problems, such as certain fluid dynamics
+applications, other numerical methods like the Finite Volume Method (FVM)
+may be more computationally efficient.
+• Challenges with discontinuities: FEM can struggle to accurately model problems
+with sharp discontinuities, such as cracks propagating through a material, and
+may require specialized techniques like the Extended Finite Element Method
+(XFEM)
+List of software 03 Marks
+Advantages 04 Marks
+Dis-advantages 03 Marks
+********** 11 **********
+--- page 12 ---
+aj = XjYm — Xmyj = 1(4) — 6(0) = 28 1
+@j =XmYi — XiYm = 63) — (4) = 6 Ni= 8 — 4x — ly]
+3(0) — 73) = -21 i
+
+am =
+
+1
+Nj =—[6+x—-3y
+i= 7 yl
+
+Na = ee + 3x + 4y]
+
+02 Marks 02 Marks
+Equation (13.6.7) for N;, Nj, and Nm evaluated at x = 5 and y = 2 are
+
+Ym =X) —% = 71-3=4 n; = Los - 46) - 12 = &
+
+13 13
+; 1 5
+lox Yi 13 3 Nj = le +5—3Q1=5
+
+
+1 Xm Y, 1 6 Nm = —[-21 +35) +42)1=—= | Q2 Marks
+“oe 02 Marks 18 B 10
+
+1 6
+N; = [28 — 4(5) — 12)] = =
+i a! ( (2)] B
+
+1 5
+Nj = le +5 -321= 5
+1 2
+Nm = —[-21+3 4(2)] = =
+‘im ial + 3H) + 4(2)] B
+“herefore, using Eq. (13.6.3), we obtain
+Soi Ni 6 30
+foj } =Q°ts Nj oo 5} = 425} Btu/h
+fom Na}xnw-s [2] [10 02 Marks
+y~Yo=2
+
+FRR ICR] DA KH
+````

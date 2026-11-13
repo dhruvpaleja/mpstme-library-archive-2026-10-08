@@ -1,0 +1,5073 @@
+# Strategic Management: question papers in full
+
+60 unique papers · 2008-09 to 2025-26 · Information Technology, Common (all branches), Chemical, Manufacturing, Computer Engineering, Mechanical, Electronics and Telecommunication, Artificial Intelligence, Data Science
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 10 · paper e7e9a956f9ad
+
+- Departments: Chemical
+- Programmes: MBATech (CHEMICAL ENGINEERING) - 7045
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper d2f6a89af602
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper 3a4a70c81a48
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech_AI_7051/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper 02fa52a5d54a
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech_Computer_7047/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper f74129193ea5
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech_DS_7052/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper ac65e96c4c15
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2025/Sem_10/Final-Exam/MBATech_IT_7041/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 07 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What are ‘Strategic Objectives’ and ‘Financial Objectives’?
+[2]
+BL – 1,2
+CO- 1;   B
+What is Strategic Group Maps?   [2]
+BL- 1, 2
+CO- 2;   C
+What are the two key factors that distinguish competitive strategies?   [2]
+BL- 1, 2
+CO- 2;   D   What is a firm’s organizational structure? Name the different types of
+BL- 1, 2   Organizational Structures   [2]
+CO- 2;   E
+What is a best practice in operations management?   [2]
+BL- 1, 2
+Section II
+********** 1 **********
+--- page 2 ---
+Q1   A health-tech startup offering affordable online doctor consultations for
+CO- 1;   semi-urban and rural markets wants to draft its Vision and Mission
+BL- 2, 3,4   statements.
+a. Apply your understanding of Vision and Mission statements to:
+Explain the key Do’s and Don’ts the startup team should follow while [10]
+framing Vision Statement.
+(5 Marks )
+b. Draft one Vision statement and two Mission statements for the startup.
+(5 Marks )
+Q2   Case: ‘Beyond Meat’ and the Plant-Based Meat Industry
+CO- 1;   ‘Beyond Meat’ was an early mover, but now major grocery chains have
+introduced "Private Label" plant-based burgers. These store brands are
+BL- 2, 3,4   weakly differentiated from Beyond Meat and are sold at a much lower
+price. Additionally, the manufacturing of these products is becoming
+standardized, making it easy for new food processors to enter the market.
+a. Analyze the threat of new entrants in the plant-based meat sector?
+[10]
+(5 Marks)
+b. Explain why industry rivalry is "Stronger” in the plant-based meat
+sector?
+(5 Marks)
+Q3   a. Explain how the Value Net Framework extends a traditional Porter’s
+CO-1;   Five Forces analysis of the fast-food industry.
+BL- 2, 3,4   (5 Marks)
+b. "Precision-Pro" (PP) is a mid-sized manufacturing company that
+[10]
+produces high-end robotic arms for automotive assembly lines.
+Recently, the company has seen a surge in orders despite charging a
+15% premium over competitors. You are an internal consultant tasked
+with mapping PP’s internal value chain to identify the sources of this
+competitive advantage.
+Construct a complete Value Chain Analysis for Precision-Pro?
+(5 Marks)
+********** 2 **********
+--- page 3 ---
+Q4   a. A firm is planning vertical integration. Consider an industry example
+and evaluate its benefits and risks.
+CO- 2;
+(5 Marks)
+BL- 2, 3,4
+[10]
+b. A firm is considering entering a new market. Should it be a first mover
+or fast follower? Justify your answer evaluating various market conditions.
+(5 Marks)
+Q5   a. Reliance Industries Limited is considering entering the renewable
+CO- 2;   energy sector due to global sustainability trends. The sector offers high
+BL- 2, 3,4   growth potential but requires significant capital investment and faces
+regulatory and competitive challenges. The company believes it can
+leverage its financial strength, project execution capabilities, and supply
+chain expertise. Using the concept of building shareholder value, explain
+[10]
+the three tests it should apply before diversifying into this new industry.
+(5 Marks)
+b. Explain the advantages and disadvantages of decentralized decision-
+making in the context of strategy execution.
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+CO- 2;   execution.
+[10]
+BL- 2, 3,4
+b. Differentiate between Business Process Reengineering and Continuous
+Improvement.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 10 · paper f7d322a640e8
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_10/Re-Exam/MBATech_Computer_7047/Strategic Management/QP_Strategic Management(703TG0C014)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 Jul 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (IT)/MBA Tech (Mech)
+Year: V/Sem 10 Re-exam(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 03 Jul 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+Section I
+Answer briefly:
+CO -1;   A   What is a Vision Statement? How is it different from a Mission
+[2]
+BL – 1,2   Statement?
+CO- 1;   B   What is a value chain and why is it important?
+[2]
+BL- 1, 2
+CO- 2;   C   Define Outsourcing? When a firm should go for outsourcing?
+[2]
+BL- 1, 2
+CO- 2;   D   Explain the concept of better performance through synergy with an
+[2]
+BL- 1, 2   example of your choice.
+CO- 2;   E   What is Total Quality Management (TQM)?
+[2]
+BL- 1, 2
+Section II
+Q1   a. A budget airline focuses on low fares, no-frills service, and high
+CO- 1;   aircraft utilization. Analyse, how this reflects a clear ‘Customer Value   [10]
+Proposition’ and leads to ‘competitive advantage’.
+********** 1 **********
+--- page 2 ---
+BL- 2,   (5 Marks)
+3,4   b. A company introduces eco-friendly packaging while competitors
+continue with traditional methods. Analyse, whether this can create a
+‘sustainable competitive advantage’.
+(5 Marks)
+Q2   The commercial aircraft industry for large jets is defined by a global
+CO- 1;   duopoly between Boeing and Airbus. Entering this industry requires
+BL- 2, 3,4   astronomical Capital Requirements for R&D and specialized
+manufacturing facilities. Furthermore, incumbents benefit from a steep
+Learning and Experience Curve, allowing them to produce planes more
+efficiently than any newcomer.Airlines like Delta and United are "Large
+Volume Buyers," often placing multi-billion dollar orders. However,
+because specialized pilot training and maintenance are tied to specific
+aircraft models, these airlines face significant Switching Costs.   [10]
+Currently, the two manufacturers have "Order Backlogs" stretching over
+eight years, meaning a buyer cannot easily take their business elsewhere
+if they need planes delivered within the decade.
+a. Evaluate the Bargaining Power of Buyers in this industry.
+(5 Marks)
+b. Analyse the factors affecting Threat of New Entry in the Commercial
+aircraft manufacturing Industry.
+(5 Marks)
+Q3   a. If an Electric Vehicle (EV) company only used Porter’s Five Forces
+CO-1;   and ignored the Value Net, what critical external factor would they   [10]
+BL- 2, 3,4   likely fail to account for in their strategy?   (5 Marks)
+********** 2 **********
+--- page 3 ---
+b. Using the term "Dynamic Capabilities" analyze how a firm’s resource
+base can become obsolete over time. Using either Netflix or Amazon as
+an illustration, explain how the firm employs these dynamic
+capabilities?
+(5 Marks)
+Q4   a. What are the Key factors that distinguish one generic strategy from
+CO- 2;   another? Explain the basic competitive advantages of all five generic
+BL- 2, 3,4   strategies?
+(5 Marks)
+[10]
+b. Discuss the conditions under which a joint venture is created, what
+are the strategic issues involved, and the benefits and draw backs of
+joint ventures?
+(5 Marks)
+Q5   a. A global manufacturing firm expanded rapidly into multiple
+CO- 2;   industries including electronics, chemicals, and logistics. However,
+BL- 2, 3,4   many of these acquisitions have failed to deliver expected synergies.
+Some units operate in declining markets, while others lack competitive
+strength. The firm is also facing pressure due to rising interest costs on
+borrowed funds. Leadership is evaluating a major overhaul of its   [10]
+portfolio. Identify the reasons for corporate restructuring.
+(5 Marks)
+b.Explain the following terms: 1. Spinoff 2. Cash hog business 3.
+Parenting advantage 4. Transaction costs 5. Acquisition Premium
+(5 Marks)
+Q6   a. Explain the role of process management tools in improving strategy
+[10]
+execution.
+********** 3 **********
+--- page 4 ---
+CO- 2;   (5 Marks)
+BL- 2, 3,4   b. Differentiate between Business Process Reengineering and
+Continuous Improvement.
+(5 Marks)
+********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 10 · paper 1000a395c072
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management, Sem-X, Batch 2025-26, Re Exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 Jul 2026
+- Text: ocr (4 pages), mean OCR confidence 88.1
+
+````text
+MPSTME
+
+LIBRARY
+SVKMs NMIMS
+
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: MBA Tech (AD/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA .
+Tech (IT)/MBA Tech (Mech) vse
+Year: V/Sem 10 Re-exam(Exam Year: 2025-2026)
+Subject: Strategic Management
+Date: 03 Jul 2026
+
+Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+|. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section IT - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+
+Section [ ]
+
+Answer briefly:
+
+CO -1; A What is a Vision Statement? How is it different from a Mission
+[2]
+BL - 1,2 Statement?
+CO- 1; B What is a value chain and why is it important?
+[2]
+BL- 1, 2
+CO- 2; Cc Define Outsourcing? When a firm should go for outsourcing?
+: [2]
+BL- 1, 2
+CO- 2; D Explain the concept of better performance through synergy with an
+[2]
+BL- I, 2 example of your choice.
+CO- 2; E What is Total Quality Management (TQM)?
+[2]
+BL- 1, 2 ,
+Section II
+QI a. A budget airline focuses on low fares, no-frills service, and high
+CO- |; aircraft utilization. Analyse, how this reflects a clear ‘Customer Value [10]
+Proposition’ and leads to ‘competitive advantage’.
+
+FOCI 7 RR RK
+--- page 2 ---
+poe
+
+BL- 2,
+
+3,4
+
+(5 Marks)
+b. A company introduces eco-friendly packaging while competitors
+continue with traditional methods. Analyse, whether this can create a
+
+“sustainable competitive advantage’.
+
+(5 Marks)
+
+Q2
+CO- 1;
+
+BL- 2, 3,4
+
+The commercial aircraft industry for large jets is defined by a global
+duopoly between Boeing and Airbus. Entering this industry requires
+astronomical Capital Requirements for R&D and specialized
+manufacturing facilities. Furthermore, incumbents benefit from a steep
+Learning and Experience Curve, allowing them to produce planes more
+efficiently than any newcomer. Airlines like Delta and United are "Large
+Volume Buyers," often placing multi-billion dollar orders. However,
+because specialized pilot training and maintenance are tied to specific
+aircraft models, these airlines face significant Switching Costs.
+Currently, the two manufacturers have "Order Backlogs" stretching over
+eight years, meaning a buyer cannot easily take their business elsewhere
+if they need planes delivered within the decade.
+a. Evaluate the Bargaining Power of Buyers in this industry.
+
+(5 Marks)
+p. Analyse the factors affecting Threat of New Entry in the Commercial
+aircraft manufacturing Industry.
+
+(5 Marks)
+
+[10]
+
+Ps
+
+Q3 v
+CO-1;
+
+BL- 2, 3,4
+
+a. If an Electric Vehicle (EV) company only used Porter’s Five Forces
+and ignored the Value Net, what critical external factor would they
+
+likely fail to account for fn their strategy? (S Marks)
+
+[10]
+
+FOR DR ik
+--- page 3 ---
+b. Using the term "Dynamic Capabilities" analyze how a firm’s resource
+base can become obsolete over time. Using either Netflix or Amazon as
+an illustration, explain how the firm employs these dynamic ~
+
+capabilities?
+
+(5 Marks)
+
+Q4
+CO- 2;
+
+BL- 2, 3,4
+
+a. What are the Key factors that distinguish one generic strategy from
+another? Explain the basic competitive advantages of all five generic
+strategies?
+
+(5 Marks)
+b. Discuss the conditions under which a joint venture is created, what
+are the strategic issues involved, and the benefits and draw backs of
+joint ventures?
+
+(5 Marks)
+
+[10]
+
+Q5
+CO- 2;
+
+BL- 2, 3,4
+
+a. A global manufacturing firm expanded rapidly into multiple
+industries including electronics, chemicals, and logistics. However,
+many of these acquisitions have failed to deliver expected synergies.
+Some units operate in declining markets, while others lack competitive
+strength. The firm is also facing pressure due to rising interest costs on
+borrowed funds. Leadership is evaluating a major overhaul of its
+portfolio. Identify the reasons for corporate restructuring.
+o (5 Marks)
+b.Explain the following terms: 1. Spinoff 2. Cash hog business 3.
+Parenting advantage 4. Transaction costs 5. Acquisition Premium
+
+(5S Marks)
+
+[10]
+
+Q6
+
+A ~ ¥ * ° yi
+a. Explain the role of process management tools in improving strateg
+
+execution.
+
+[10]
+
+FOO 2 FO dk
+--- page 4 ---
+b. Differentiate between Business Process Reengineering agd
+
+Continuous Improvement.
+
+(5 Marks)
+
+(5 Marks)
+
+CO- 2;
+BL- 2, 3,4
+iad
+gf
+
+FOI dK
+````
+
+## 2024-25 · Final-Exam · Sem 10 · paper 0dda388c68aa
+
+- Departments: Chemical
+- Programmes: MBATech (CHEMICAL ENGINEERING) - 7045
+- Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Semester X(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 29 Apr 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.
+What is Benchmarking? What are the sources of Benchmarking?   (2.5
+CO-1 BL-1
+Marks)
+What is the VRIN framework, and how does it help assess a company's
+B.   (2.5
+competitive advantage?
+CO-1 BL-1   Marks)
+What is outsourcing, and under what circumstances should a firm
+C.   (2.5
+choose to outsource?
+CO-2 BL-2   Marks)
+D.
+Identify three techniques for winning sustained, energetic commitment   (2.5
+CO-2 BL-2
+of employees to the strategy execution process.   Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Discuss the key components of a business model, and how do they
+Q 1a.
+relate to a firm’s strategy? (5 marks)
+CO-1 BL-3
+Q 1b.   Caselet: Expanding Horizons at NewAI Inc.
+[10]
+CO-1 BL-4
+NewAI Inc., a fast-growing AI solutions company, has recently entered
+the European market. The management team is keen on setting clear
+objectives to drive growth and align employee efforts. Initially, they set
+a goal: "Increase market presence in Europe." However, after a
+********** 1 **********
+--- page 2 ---
+strategic review, they realized the objective lacked clarity and did not
+provide a clear path for execution.
+To refine their approach, they redefined their objective as:
+“Achieve a 15% market share in the European AI sector by the end of
+the next fiscal year, through targeted partnerships, localized marketing
+campaigns, and a dedicated sales team.”
+Answer the below Question using the above Case of Expanding
+Horizons at NewAI Inc.
+What are the key characteristics of a well-stated objective for
+successful strategy execution? (5 Marks)
+What are a company's core values? How do core values influence its
+business strategy and operations? Illustrate your answer with a
+Q 2a.
+relevant example? (5 marks)
+CO-2 BL-3
+[10]
+Analyze the Value Net model for an automobile company of your
+choice. Identify key industry participants in the Value Net. How can the
+Q2 b
+company leverage the Value Net model to enhance its competitive
+CO-2 BL-4
+advantage and strategic positioning? (5 marks)
+Illustrate a representative company value chain. How can value chain
+Q 3a.   analysis help a company to enhance its competitive advantage? (5
+CO-2 BL-3   marks)
+[10]
+Analyze the competitive pressures associated with the Rivalry among
+Q 3b.   competitors & Threat of New Entry in the Telecom Industry in India (5
+CO-2 BL-4   marks)
+Southwest Airlines has achieved considerable cost savings by
+reconfiguring the traditional value chain of commercial airlines, define
+Q 4a.
+cost driver, Elaborate the keys cost drivers to bring down company
+CO-2 BL-2
+costs? (5 marks)
+[10]
+Q 4b.   When a focused low-cost or focused differentiation strategy is
+CO-2 BL-4   attractive? What are the various risks of a focused low-cost or focused
+differentiation strategy? (5 marks)
+********** 2 **********
+--- page 3 ---
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   What are vertically integrated firm? explain Vertical integration   [10]
+CO-2 BL-3   strategy, types of vertical integration and benefits of vertical
+integration? (5 marks)
+A global beverage giant, AquaPure, initially specialized in bottled water.
+To expand its business, it diversified into the skincare industry,
+leveraging the growing demand for organic beauty products. Despite
+having no direct link between beverages and skincare, AquaPure utilized
+its strong brand image, financial resources, and distribution expertise to
+Q 6a.   enter this new market. This move reduced dependence on a single
+CO-2 BL-4   industry, spread business risks, and tapped into a high-growth sector. By
+investing in unrelated diversification, AquaPure ensured long-term [10]
+sustainability and profitability.
+Why do firms engage in unrelated diversification? Discuss with
+reference to the case above along with other examples? (5 marks)
+Q 6b.
+How Policies and Procedures Facilitate Good Strategy Execution? (5
+CO-2 BL-4
+marks)
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 10 · paper 9bd429a41bb6
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Semester X(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 29 Apr 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.
+What is Benchmarking? What are the sources of Benchmarking?   (2.5
+CO-1 BL-1
+Marks)
+What is the VRIN framework, and how does it help assess a company's
+B.   (2.5
+competitive advantage?
+CO-1 BL-1   Marks)
+What is outsourcing, and under what circumstances should a firm
+C.   (2.5
+choose to outsource?
+CO-2 BL-2   Marks)
+D.
+Identify three techniques for winning sustained, energetic commitment   (2.5
+CO-2 BL-2
+of employees to the strategy execution process.   Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Discuss the key components of a business model, and how do they
+Q 1a.
+relate to a firm’s strategy? (5 marks)
+CO-1 BL-3
+Q 1b.   Caselet: Expanding Horizons at NewAI Inc.
+[10]
+CO-1 BL-4
+NewAI Inc., a fast-growing AI solutions company, has recently entered
+the European market. The management team is keen on setting clear
+objectives to drive growth and align employee efforts. Initially, they set
+a goal: "Increase market presence in Europe." However, after a
+********** 1 **********
+--- page 2 ---
+strategic review, they realized the objective lacked clarity and did not
+provide a clear path for execution.
+To refine their approach, they redefined their objective as:
+“Achieve a 15% market share in the European AI sector by the end of
+the next fiscal year, through targeted partnerships, localized marketing
+campaigns, and a dedicated sales team.”
+Answer the below Question using the above Case of Expanding
+Horizons at NewAI Inc.
+What are the key characteristics of a well-stated objective for
+successful strategy execution? (5 Marks)
+What are a company's core values? How do core values influence its
+business strategy and operations? Illustrate your answer with a
+Q 2a.
+relevant example? (5 marks)
+CO-2 BL-3
+[10]
+Analyze the Value Net model for an automobile company of your
+choice. Identify key industry participants in the Value Net. How can the
+Q2 b
+company leverage the Value Net model to enhance its competitive
+CO-2 BL-4
+advantage and strategic positioning? (5 marks)
+Illustrate a representative company value chain. How can value chain
+Q 3a.   analysis help a company to enhance its competitive advantage? (5
+CO-2 BL-3   marks)
+[10]
+Analyze the competitive pressures associated with the Rivalry among
+Q 3b.   competitors & Threat of New Entry in the Telecom Industry in India (5
+CO-2 BL-4   marks)
+Southwest Airlines has achieved considerable cost savings by
+reconfiguring the traditional value chain of commercial airlines, define
+Q 4a.
+cost driver, Elaborate the keys cost drivers to bring down company
+CO-2 BL-2
+costs? (5 marks)
+[10]
+Q 4b.   When a focused low-cost or focused differentiation strategy is
+CO-2 BL-4   attractive? What are the various risks of a focused low-cost or focused
+differentiation strategy? (5 marks)
+********** 2 **********
+--- page 3 ---
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   What are vertically integrated firm? explain Vertical integration   [10]
+CO-2 BL-3   strategy, types of vertical integration and benefits of vertical
+integration? (5 marks)
+A global beverage giant, AquaPure, initially specialized in bottled water.
+To expand its business, it diversified into the skincare industry,
+leveraging the growing demand for organic beauty products. Despite
+having no direct link between beverages and skincare, AquaPure utilized
+its strong brand image, financial resources, and distribution expertise to
+Q 6a.   enter this new market. This move reduced dependence on a single
+CO-2 BL-4   industry, spread business risks, and tapped into a high-growth sector. By
+investing in unrelated diversification, AquaPure ensured long-term [10]
+sustainability and profitability.
+Why do firms engage in unrelated diversification? Discuss with
+reference to the case above along with other examples? (5 marks)
+Q 6b.
+How Policies and Procedures Facilitate Good Strategy Execution? (5
+CO-2 BL-4
+marks)
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 10 · paper 34680799fb3a
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Semester X(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 29 Apr 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.
+What is Benchmarking? What are the sources of Benchmarking?   (2.5
+CO-1 BL-1
+Marks)
+What is the VRIN framework, and how does it help assess a company's
+B.   (2.5
+competitive advantage?
+CO-1 BL-1   Marks)
+What is outsourcing, and under what circumstances should a firm
+C.   (2.5
+choose to outsource?
+CO-2 BL-2   Marks)
+D.
+Identify three techniques for winning sustained, energetic commitment   (2.5
+CO-2 BL-2
+of employees to the strategy execution process.   Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Discuss the key components of a business model, and how do they
+Q 1a.
+relate to a firm’s strategy? (5 marks)
+CO-1 BL-3
+Q 1b.   Caselet: Expanding Horizons at NewAI Inc.
+[10]
+CO-1 BL-4
+NewAI Inc., a fast-growing AI solutions company, has recently entered
+the European market. The management team is keen on setting clear
+objectives to drive growth and align employee efforts. Initially, they set
+a goal: "Increase market presence in Europe." However, after a
+********** 1 **********
+--- page 2 ---
+strategic review, they realized the objective lacked clarity and did not
+provide a clear path for execution.
+To refine their approach, they redefined their objective as:
+“Achieve a 15% market share in the European AI sector by the end of
+the next fiscal year, through targeted partnerships, localized marketing
+campaigns, and a dedicated sales team.”
+Answer the below Question using the above Case of Expanding
+Horizons at NewAI Inc.
+What are the key characteristics of a well-stated objective for
+successful strategy execution? (5 Marks)
+What are a company's core values? How do core values influence its
+business strategy and operations? Illustrate your answer with a
+Q 2a.
+relevant example? (5 marks)
+CO-2 BL-3
+[10]
+Analyze the Value Net model for an automobile company of your
+choice. Identify key industry participants in the Value Net. How can the
+Q2 b
+company leverage the Value Net model to enhance its competitive
+CO-2 BL-4
+advantage and strategic positioning? (5 marks)
+Illustrate a representative company value chain. How can value chain
+Q 3a.   analysis help a company to enhance its competitive advantage? (5
+CO-2 BL-3   marks)
+[10]
+Analyze the competitive pressures associated with the Rivalry among
+Q 3b.   competitors & Threat of New Entry in the Telecom Industry in India (5
+CO-2 BL-4   marks)
+Southwest Airlines has achieved considerable cost savings by
+reconfiguring the traditional value chain of commercial airlines, define
+Q 4a.
+cost driver, Elaborate the keys cost drivers to bring down company
+CO-2 BL-2
+costs? (5 marks)
+[10]
+Q 4b.   When a focused low-cost or focused differentiation strategy is
+CO-2 BL-4   attractive? What are the various risks of a focused low-cost or focused
+differentiation strategy? (5 marks)
+********** 2 **********
+--- page 3 ---
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   What are vertically integrated firm? explain Vertical integration   [10]
+CO-2 BL-3   strategy, types of vertical integration and benefits of vertical
+integration? (5 marks)
+A global beverage giant, AquaPure, initially specialized in bottled water.
+To expand its business, it diversified into the skincare industry,
+leveraging the growing demand for organic beauty products. Despite
+having no direct link between beverages and skincare, AquaPure utilized
+its strong brand image, financial resources, and distribution expertise to
+Q 6a.   enter this new market. This move reduced dependence on a single
+CO-2 BL-4   industry, spread business risks, and tapped into a high-growth sector. By
+investing in unrelated diversification, AquaPure ensured long-term [10]
+sustainability and profitability.
+Why do firms engage in unrelated diversification? Discuss with
+reference to the case above along with other examples? (5 marks)
+Q 6b.
+How Policies and Procedures Facilitate Good Strategy Execution? (5
+CO-2 BL-4
+marks)
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 10 · paper 04897c8cecc5
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech_Computer_7047/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Semester X(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 29 Apr 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.
+What is Benchmarking? What are the sources of Benchmarking?   (2.5
+CO-1 BL-1
+Marks)
+What is the VRIN framework, and how does it help assess a company's
+B.   (2.5
+competitive advantage?
+CO-1 BL-1   Marks)
+What is outsourcing, and under what circumstances should a firm
+C.   (2.5
+choose to outsource?
+CO-2 BL-2   Marks)
+D.
+Identify three techniques for winning sustained, energetic commitment   (2.5
+CO-2 BL-2
+of employees to the strategy execution process.   Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Discuss the key components of a business model, and how do they
+Q 1a.
+relate to a firm’s strategy? (5 marks)
+CO-1 BL-3
+Q 1b.   Caselet: Expanding Horizons at NewAI Inc.
+[10]
+CO-1 BL-4
+NewAI Inc., a fast-growing AI solutions company, has recently entered
+the European market. The management team is keen on setting clear
+objectives to drive growth and align employee efforts. Initially, they set
+a goal: "Increase market presence in Europe." However, after a
+********** 1 **********
+--- page 2 ---
+strategic review, they realized the objective lacked clarity and did not
+provide a clear path for execution.
+To refine their approach, they redefined their objective as:
+“Achieve a 15% market share in the European AI sector by the end of
+the next fiscal year, through targeted partnerships, localized marketing
+campaigns, and a dedicated sales team.”
+Answer the below Question using the above Case of Expanding
+Horizons at NewAI Inc.
+What are the key characteristics of a well-stated objective for
+successful strategy execution? (5 Marks)
+What are a company's core values? How do core values influence its
+business strategy and operations? Illustrate your answer with a
+Q 2a.
+relevant example? (5 marks)
+CO-2 BL-3
+[10]
+Analyze the Value Net model for an automobile company of your
+choice. Identify key industry participants in the Value Net. How can the
+Q2 b
+company leverage the Value Net model to enhance its competitive
+CO-2 BL-4
+advantage and strategic positioning? (5 marks)
+Illustrate a representative company value chain. How can value chain
+Q 3a.   analysis help a company to enhance its competitive advantage? (5
+CO-2 BL-3   marks)
+[10]
+Analyze the competitive pressures associated with the Rivalry among
+Q 3b.   competitors & Threat of New Entry in the Telecom Industry in India (5
+CO-2 BL-4   marks)
+Southwest Airlines has achieved considerable cost savings by
+reconfiguring the traditional value chain of commercial airlines, define
+Q 4a.
+cost driver, Elaborate the keys cost drivers to bring down company
+CO-2 BL-2
+costs? (5 marks)
+[10]
+Q 4b.   When a focused low-cost or focused differentiation strategy is
+CO-2 BL-4   attractive? What are the various risks of a focused low-cost or focused
+differentiation strategy? (5 marks)
+********** 2 **********
+--- page 3 ---
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   What are vertically integrated firm? explain Vertical integration   [10]
+CO-2 BL-3   strategy, types of vertical integration and benefits of vertical
+integration? (5 marks)
+A global beverage giant, AquaPure, initially specialized in bottled water.
+To expand its business, it diversified into the skincare industry,
+leveraging the growing demand for organic beauty products. Despite
+having no direct link between beverages and skincare, AquaPure utilized
+its strong brand image, financial resources, and distribution expertise to
+Q 6a.   enter this new market. This move reduced dependence on a single
+CO-2 BL-4   industry, spread business risks, and tapped into a high-growth sector. By
+investing in unrelated diversification, AquaPure ensured long-term [10]
+sustainability and profitability.
+Why do firms engage in unrelated diversification? Discuss with
+reference to the case above along with other examples? (5 marks)
+Q 6b.
+How Policies and Procedures Facilitate Good Strategy Execution? (5
+CO-2 BL-4
+marks)
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 10 · paper 4fb9cba929c2
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech_IT_7041/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 29 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Semester X(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 29 Apr 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.
+What is Benchmarking? What are the sources of Benchmarking?   (2.5
+CO-1 BL-1
+Marks)
+What is the VRIN framework, and how does it help assess a company's
+B.   (2.5
+competitive advantage?
+CO-1 BL-1   Marks)
+What is outsourcing, and under what circumstances should a firm
+C.   (2.5
+choose to outsource?
+CO-2 BL-2   Marks)
+D.
+Identify three techniques for winning sustained, energetic commitment   (2.5
+CO-2 BL-2
+of employees to the strategy execution process.   Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Discuss the key components of a business model, and how do they
+Q 1a.
+relate to a firm’s strategy? (5 marks)
+CO-1 BL-3
+Q 1b.   Caselet: Expanding Horizons at NewAI Inc.
+[10]
+CO-1 BL-4
+NewAI Inc., a fast-growing AI solutions company, has recently entered
+the European market. The management team is keen on setting clear
+objectives to drive growth and align employee efforts. Initially, they set
+a goal: "Increase market presence in Europe." However, after a
+********** 1 **********
+--- page 2 ---
+strategic review, they realized the objective lacked clarity and did not
+provide a clear path for execution.
+To refine their approach, they redefined their objective as:
+“Achieve a 15% market share in the European AI sector by the end of
+the next fiscal year, through targeted partnerships, localized marketing
+campaigns, and a dedicated sales team.”
+Answer the below Question using the above Case of Expanding
+Horizons at NewAI Inc.
+What are the key characteristics of a well-stated objective for
+successful strategy execution? (5 Marks)
+What are a company's core values? How do core values influence its
+business strategy and operations? Illustrate your answer with a
+Q 2a.
+relevant example? (5 marks)
+CO-2 BL-3
+[10]
+Analyze the Value Net model for an automobile company of your
+choice. Identify key industry participants in the Value Net. How can the
+Q2 b
+company leverage the Value Net model to enhance its competitive
+CO-2 BL-4
+advantage and strategic positioning? (5 marks)
+Illustrate a representative company value chain. How can value chain
+Q 3a.   analysis help a company to enhance its competitive advantage? (5
+CO-2 BL-3   marks)
+[10]
+Analyze the competitive pressures associated with the Rivalry among
+Q 3b.   competitors & Threat of New Entry in the Telecom Industry in India (5
+CO-2 BL-4   marks)
+Southwest Airlines has achieved considerable cost savings by
+reconfiguring the traditional value chain of commercial airlines, define
+Q 4a.
+cost driver, Elaborate the keys cost drivers to bring down company
+CO-2 BL-2
+costs? (5 marks)
+[10]
+Q 4b.   When a focused low-cost or focused differentiation strategy is
+CO-2 BL-4   attractive? What are the various risks of a focused low-cost or focused
+differentiation strategy? (5 marks)
+********** 2 **********
+--- page 3 ---
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   What are vertically integrated firm? explain Vertical integration   [10]
+CO-2 BL-3   strategy, types of vertical integration and benefits of vertical
+integration? (5 marks)
+A global beverage giant, AquaPure, initially specialized in bottled water.
+To expand its business, it diversified into the skincare industry,
+leveraging the growing demand for organic beauty products. Despite
+having no direct link between beverages and skincare, AquaPure utilized
+its strong brand image, financial resources, and distribution expertise to
+Q 6a.   enter this new market. This move reduced dependence on a single
+CO-2 BL-4   industry, spread business risks, and tapped into a high-growth sector. By
+investing in unrelated diversification, AquaPure ensured long-term [10]
+sustainability and profitability.
+Why do firms engage in unrelated diversification? Discuss with
+reference to the case above along with other examples? (5 marks)
+Q 6b.
+How Policies and Procedures Facilitate Good Strategy Execution? (5
+CO-2 BL-4
+marks)
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 10 · paper ba6c1f03b5f3
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2024/Sem_10/Re-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Sem 10 Re-exam(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 02 Jul 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.   What is a Balanced Scorecard? What are the four dimensions of a
+(2.5
+CO-1 BL-1   Balanced Scorecard?
+Marks)
+B.   What do you mean by an organizational capability?   (2.5
+CO-1 BL-1   Marks)
+What is a Strategic Alliance? What are the benefits of strategic alliances
+C.   (2.5
+and partnerships?
+CO-2 BL-2   Marks)
+D.
+Describe the tools used for managing continuous improvement.   (2.5
+CO-2 BL-1
+Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Using a suitable example of a company of your choice explain what is
+strategy, and why is it important for a company’s success? How does a
+Q 1a.
+company’s strategy evolve over time, and what factors contribute to
+CO-1 BL-3
+its evolution? (5 marks)
+[10]
+Q 1b.   What is a strategic vision, and why is it important for a company’s
+CO-1 BL-4   long-term success? Why is it essential to communicate a company’s
+********** 1 **********
+--- page 2 ---
+strategic vision effectively to internal and external stakeholders? ( 5
+Marks)
+What are the Characteristics of Well-Stated Objectives? Why does
+Setting stretch objectives promotes better overall performance (5
+Q 2a.
+marks)
+CO-2 BL-3
+[10]
+Analyze the industry’s competitive forces for aircraft manufacturing
+Q2 b   Industry or Telecom Industry using the Porter’s Five Forces Model? (5
+CO-2 BL-4   marks)
+Illustrate and apply Value Chain Analysis in the automobile
+Q 3a.
+manufacturing industry? (5 marks)
+CO-2 BL-3
+[10]
+Explain the difference between tangible and intangible resources.
+Q 3b.
+Provide examples? (5 marks)
+CO-2 BL-4
+When a differentiation strategy works best? what are potential pitfalls
+Q 4a.
+to avoid in pursuing differentiation strategy? (5 marks)
+CO-2 BL-2
+[10]
+Q 4b.   What are value drivers? Elaborate the key value drivers to create
+CO-2 BL-4   differentiation for the firm? (5 marks)
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   A leading electronics company, TechNova, initially specialized in
+CO-2 BL-3   smartphones. To leverage its expertise, it diversified into smartwatches
+and tablets, utilizing existing R&D, distribution channels, and brand
+reputation. This move reduced dependency on a single product line,
+enhanced market share, and improved customer retention. TechNova   [10]
+also capitalized on shared technology and supply chain efficiencies,
+reducing costs and increasing profitability. The diversification aligned
+with consumer demand for interconnected devices, ensuring synergy
+across products.
+Discuss why firms like TechNova engage in related diversification?
+Analyze this strategy using examples from other industries. (5 marks)
+Marico Ltd., a leading Indian consumer goods company, is known for
+Q 6a.
+its diverse portfolio of health, wellness, and personal care products. Its   [10]
+CO-2 BL-4
+strategic growth over the years has helped Marico solidify its
+********** 2 **********
+--- page 3 ---
+leadership in its core segments while also expanding into new areas,
+allowing it to create a balanced and diversified business portfolio.
+Marico’s acquired Nihar, a strong competitor in the hair oil segment,
+allowed Marico to expand its market share in the hair care category.
+Nihar’s customer base and product offering were complementary to
+Marico’s flagship brand, Parachute. Further Marico’s acquired Set Wet
+and Zatak, brands operate in the male grooming segment from Reckitt
+Benckiser. By entering the male grooming market, Marico diversified
+its product offerings while leveraging its existing retail and distribution
+strengths. The move allowed Marico to expand its consumer base,
+particularly targeting young, urban men. Through this merger, Marico
+grew its presence in the fast-growing personal care segment while
+maintaining synergy with its existing operations. Marico’s entry into
+the food sector through the acquisition of Garden Namkeens was a
+notable move. This acquisition allowed Marico to enter into a
+completely new industry and minimize the risks associated with
+depending solely on its health and personal care portfolio.
+Justify the type of diversification approach applied by Marico (5
+marks)
+Q 6b.   Sparkfly, a mid-sized manufacturing company, has been facing several
+CO-2 BL-4   challenges affecting its overall efficiency and market position. The
+company has been struggling with declining customer retention and
+satisfaction due to inconsistent service quality and delayed responses.
+Financially, profitability has been fluctuating, with rising operational
+costs and inefficiencies in cost management impacting growth.
+Internally, high employee turnover and declining productivity indicate
+dissatisfaction and a lack of motivation within the workforce.
+Additionally, operational inefficiencies, such as frequent production
+delays and quality control issues, have disrupted supply chain
+performance. The company’s relationships with suppliers and business
+partners have also suffered due to inconsistent order fulfillment and
+communication gaps, leading to strained collaborations. Despite growth
+opportunities, these challenges have hindered Sparkfly Ltd.’s ability to
+sustain its competitive advantage.
+How can organizations identify and utilize Key Strategic Performance
+Indicators to improve overall efficiency and decision-making?
+(5 marks)
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 10 · paper 5f3573e815ac
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_10/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Sem 10 Re-exam(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 02 Jul 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.   What is a Balanced Scorecard? What are the four dimensions of a
+(2.5
+CO-1 BL-1   Balanced Scorecard?
+Marks)
+B.   What do you mean by an organizational capability?   (2.5
+CO-1 BL-1   Marks)
+What is a Strategic Alliance? What are the benefits of strategic alliances
+C.   (2.5
+and partnerships?
+CO-2 BL-2   Marks)
+D.
+Describe the tools used for managing continuous improvement.   (2.5
+CO-2 BL-1
+Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Using a suitable example of a company of your choice explain what is
+strategy, and why is it important for a company’s success? How does a
+Q 1a.
+company’s strategy evolve over time, and what factors contribute to
+CO-1 BL-3
+its evolution? (5 marks)
+[10]
+Q 1b.   What is a strategic vision, and why is it important for a company’s
+CO-1 BL-4   long-term success? Why is it essential to communicate a company’s
+********** 1 **********
+--- page 2 ---
+strategic vision effectively to internal and external stakeholders? ( 5
+Marks)
+What are the Characteristics of Well-Stated Objectives? Why does
+Setting stretch objectives promotes better overall performance (5
+Q 2a.
+marks)
+CO-2 BL-3
+[10]
+Analyze the industry’s competitive forces for aircraft manufacturing
+Q2 b   Industry or Telecom Industry using the Porter’s Five Forces Model? (5
+CO-2 BL-4   marks)
+Illustrate and apply Value Chain Analysis in the automobile
+Q 3a.
+manufacturing industry? (5 marks)
+CO-2 BL-3
+[10]
+Explain the difference between tangible and intangible resources.
+Q 3b.
+Provide examples? (5 marks)
+CO-2 BL-4
+When a differentiation strategy works best? what are potential pitfalls
+Q 4a.
+to avoid in pursuing differentiation strategy? (5 marks)
+CO-2 BL-2
+[10]
+Q 4b.   What are value drivers? Elaborate the key value drivers to create
+CO-2 BL-4   differentiation for the firm? (5 marks)
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   A leading electronics company, TechNova, initially specialized in
+CO-2 BL-3   smartphones. To leverage its expertise, it diversified into smartwatches
+and tablets, utilizing existing R&D, distribution channels, and brand
+reputation. This move reduced dependency on a single product line,
+enhanced market share, and improved customer retention. TechNova   [10]
+also capitalized on shared technology and supply chain efficiencies,
+reducing costs and increasing profitability. The diversification aligned
+with consumer demand for interconnected devices, ensuring synergy
+across products.
+Discuss why firms like TechNova engage in related diversification?
+Analyze this strategy using examples from other industries. (5 marks)
+Marico Ltd., a leading Indian consumer goods company, is known for
+Q 6a.
+its diverse portfolio of health, wellness, and personal care products. Its   [10]
+CO-2 BL-4
+strategic growth over the years has helped Marico solidify its
+********** 2 **********
+--- page 3 ---
+leadership in its core segments while also expanding into new areas,
+allowing it to create a balanced and diversified business portfolio.
+Marico’s acquired Nihar, a strong competitor in the hair oil segment,
+allowed Marico to expand its market share in the hair care category.
+Nihar’s customer base and product offering were complementary to
+Marico’s flagship brand, Parachute. Further Marico’s acquired Set Wet
+and Zatak, brands operate in the male grooming segment from Reckitt
+Benckiser. By entering the male grooming market, Marico diversified
+its product offerings while leveraging its existing retail and distribution
+strengths. The move allowed Marico to expand its consumer base,
+particularly targeting young, urban men. Through this merger, Marico
+grew its presence in the fast-growing personal care segment while
+maintaining synergy with its existing operations. Marico’s entry into
+the food sector through the acquisition of Garden Namkeens was a
+notable move. This acquisition allowed Marico to enter into a
+completely new industry and minimize the risks associated with
+depending solely on its health and personal care portfolio.
+Justify the type of diversification approach applied by Marico (5
+marks)
+Q 6b.   Sparkfly, a mid-sized manufacturing company, has been facing several
+CO-2 BL-4   challenges affecting its overall efficiency and market position. The
+company has been struggling with declining customer retention and
+satisfaction due to inconsistent service quality and delayed responses.
+Financially, profitability has been fluctuating, with rising operational
+costs and inefficiencies in cost management impacting growth.
+Internally, high employee turnover and declining productivity indicate
+dissatisfaction and a lack of motivation within the workforce.
+Additionally, operational inefficiencies, such as frequent production
+delays and quality control issues, have disrupted supply chain
+performance. The company’s relationships with suppliers and business
+partners have also suffered due to inconsistent order fulfillment and
+communication gaps, leading to strained collaborations. Despite growth
+opportunities, these challenges have hindered Sparkfly Ltd.’s ability to
+sustain its competitive advantage.
+How can organizations identify and utilize Key Strategic Performance
+Indicators to improve overall efficiency and decision-making?
+(5 marks)
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 10 · paper 83d3f301cdcc
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_10/Re-Exam/MBATech_Computer_7047/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Sem 10 Re-exam(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 02 Jul 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.   What is a Balanced Scorecard? What are the four dimensions of a
+(2.5
+CO-1 BL-1   Balanced Scorecard?
+Marks)
+B.   What do you mean by an organizational capability?   (2.5
+CO-1 BL-1   Marks)
+What is a Strategic Alliance? What are the benefits of strategic alliances
+C.   (2.5
+and partnerships?
+CO-2 BL-2   Marks)
+D.
+Describe the tools used for managing continuous improvement.   (2.5
+CO-2 BL-1
+Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Using a suitable example of a company of your choice explain what is
+strategy, and why is it important for a company’s success? How does a
+Q 1a.
+company’s strategy evolve over time, and what factors contribute to
+CO-1 BL-3
+its evolution? (5 marks)
+[10]
+Q 1b.   What is a strategic vision, and why is it important for a company’s
+CO-1 BL-4   long-term success? Why is it essential to communicate a company’s
+********** 1 **********
+--- page 2 ---
+strategic vision effectively to internal and external stakeholders? ( 5
+Marks)
+What are the Characteristics of Well-Stated Objectives? Why does
+Setting stretch objectives promotes better overall performance (5
+Q 2a.
+marks)
+CO-2 BL-3
+[10]
+Analyze the industry’s competitive forces for aircraft manufacturing
+Q2 b   Industry or Telecom Industry using the Porter’s Five Forces Model? (5
+CO-2 BL-4   marks)
+Illustrate and apply Value Chain Analysis in the automobile
+Q 3a.
+manufacturing industry? (5 marks)
+CO-2 BL-3
+[10]
+Explain the difference between tangible and intangible resources.
+Q 3b.
+Provide examples? (5 marks)
+CO-2 BL-4
+When a differentiation strategy works best? what are potential pitfalls
+Q 4a.
+to avoid in pursuing differentiation strategy? (5 marks)
+CO-2 BL-2
+[10]
+Q 4b.   What are value drivers? Elaborate the key value drivers to create
+CO-2 BL-4   differentiation for the firm? (5 marks)
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   A leading electronics company, TechNova, initially specialized in
+CO-2 BL-3   smartphones. To leverage its expertise, it diversified into smartwatches
+and tablets, utilizing existing R&D, distribution channels, and brand
+reputation. This move reduced dependency on a single product line,
+enhanced market share, and improved customer retention. TechNova   [10]
+also capitalized on shared technology and supply chain efficiencies,
+reducing costs and increasing profitability. The diversification aligned
+with consumer demand for interconnected devices, ensuring synergy
+across products.
+Discuss why firms like TechNova engage in related diversification?
+Analyze this strategy using examples from other industries. (5 marks)
+Marico Ltd., a leading Indian consumer goods company, is known for
+Q 6a.
+its diverse portfolio of health, wellness, and personal care products. Its   [10]
+CO-2 BL-4
+strategic growth over the years has helped Marico solidify its
+********** 2 **********
+--- page 3 ---
+leadership in its core segments while also expanding into new areas,
+allowing it to create a balanced and diversified business portfolio.
+Marico’s acquired Nihar, a strong competitor in the hair oil segment,
+allowed Marico to expand its market share in the hair care category.
+Nihar’s customer base and product offering were complementary to
+Marico’s flagship brand, Parachute. Further Marico’s acquired Set Wet
+and Zatak, brands operate in the male grooming segment from Reckitt
+Benckiser. By entering the male grooming market, Marico diversified
+its product offerings while leveraging its existing retail and distribution
+strengths. The move allowed Marico to expand its consumer base,
+particularly targeting young, urban men. Through this merger, Marico
+grew its presence in the fast-growing personal care segment while
+maintaining synergy with its existing operations. Marico’s entry into
+the food sector through the acquisition of Garden Namkeens was a
+notable move. This acquisition allowed Marico to enter into a
+completely new industry and minimize the risks associated with
+depending solely on its health and personal care portfolio.
+Justify the type of diversification approach applied by Marico (5
+marks)
+Q 6b.   Sparkfly, a mid-sized manufacturing company, has been facing several
+CO-2 BL-4   challenges affecting its overall efficiency and market position. The
+company has been struggling with declining customer retention and
+satisfaction due to inconsistent service quality and delayed responses.
+Financially, profitability has been fluctuating, with rising operational
+costs and inefficiencies in cost management impacting growth.
+Internally, high employee turnover and declining productivity indicate
+dissatisfaction and a lack of motivation within the workforce.
+Additionally, operational inefficiencies, such as frequent production
+delays and quality control issues, have disrupted supply chain
+performance. The company’s relationships with suppliers and business
+partners have also suffered due to inconsistent order fulfillment and
+communication gaps, leading to strained collaborations. Despite growth
+opportunities, these challenges have hindered Sparkfly Ltd.’s ability to
+sustain its competitive advantage.
+How can organizations identify and utilize Key Strategic Performance
+Indicators to improve overall efficiency and decision-making?
+(5 marks)
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 10 · paper 6f9c00c98314
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_10/Re-Exam/MBATech_IT_7041/Strategic Management/QP_Strategic Management(703TG0C014)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (EXTC)/MBA. Tech
+(IT)/MBA. Tech (Mech)
+Year: V/Sem 10 Re-exam(Exam Year: 2024-2025)
+Subject: Strategic Management
+Date: 02 Jul 2025   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Section I is compulsory
+5. Section II - Answer any 4 Questions out of 6
+6. Assume Suitable data if necessary.
+[10]
+I. (Section I : Answer briefly)
+A.   What is a Balanced Scorecard? What are the four dimensions of a
+(2.5
+CO-1 BL-1   Balanced Scorecard?
+Marks)
+B.   What do you mean by an organizational capability?   (2.5
+CO-1 BL-1   Marks)
+What is a Strategic Alliance? What are the benefits of strategic alliances
+C.   (2.5
+and partnerships?
+CO-2 BL-2   Marks)
+D.
+Describe the tools used for managing continuous improvement.   (2.5
+CO-2 BL-1
+Marks)
+[40]
+II. (Section II: Answer the following Questions (Attempt Any 4)
+Using a suitable example of a company of your choice explain what is
+strategy, and why is it important for a company’s success? How does a
+Q 1a.
+company’s strategy evolve over time, and what factors contribute to
+CO-1 BL-3
+its evolution? (5 marks)
+[10]
+Q 1b.   What is a strategic vision, and why is it important for a company’s
+CO-1 BL-4   long-term success? Why is it essential to communicate a company’s
+********** 1 **********
+--- page 2 ---
+strategic vision effectively to internal and external stakeholders? ( 5
+Marks)
+What are the Characteristics of Well-Stated Objectives? Why does
+Setting stretch objectives promotes better overall performance (5
+Q 2a.
+marks)
+CO-2 BL-3
+[10]
+Analyze the industry’s competitive forces for aircraft manufacturing
+Q2 b   Industry or Telecom Industry using the Porter’s Five Forces Model? (5
+CO-2 BL-4   marks)
+Illustrate and apply Value Chain Analysis in the automobile
+Q 3a.
+manufacturing industry? (5 marks)
+CO-2 BL-3
+[10]
+Explain the difference between tangible and intangible resources.
+Q 3b.
+Provide examples? (5 marks)
+CO-2 BL-4
+When a differentiation strategy works best? what are potential pitfalls
+Q 4a.
+to avoid in pursuing differentiation strategy? (5 marks)
+CO-2 BL-2
+[10]
+Q 4b.   What are value drivers? Elaborate the key value drivers to create
+CO-2 BL-4   differentiation for the firm? (5 marks)
+Q 5a.   Define Blue Ocean Market Space and Blue Ocean Market Strategy with
+CO-2 BL-3   Example? (5 marks)
+Q 5b.   A leading electronics company, TechNova, initially specialized in
+CO-2 BL-3   smartphones. To leverage its expertise, it diversified into smartwatches
+and tablets, utilizing existing R&D, distribution channels, and brand
+reputation. This move reduced dependency on a single product line,
+enhanced market share, and improved customer retention. TechNova   [10]
+also capitalized on shared technology and supply chain efficiencies,
+reducing costs and increasing profitability. The diversification aligned
+with consumer demand for interconnected devices, ensuring synergy
+across products.
+Discuss why firms like TechNova engage in related diversification?
+Analyze this strategy using examples from other industries. (5 marks)
+Marico Ltd., a leading Indian consumer goods company, is known for
+Q 6a.
+its diverse portfolio of health, wellness, and personal care products. Its   [10]
+CO-2 BL-4
+strategic growth over the years has helped Marico solidify its
+********** 2 **********
+--- page 3 ---
+leadership in its core segments while also expanding into new areas,
+allowing it to create a balanced and diversified business portfolio.
+Marico’s acquired Nihar, a strong competitor in the hair oil segment,
+allowed Marico to expand its market share in the hair care category.
+Nihar’s customer base and product offering were complementary to
+Marico’s flagship brand, Parachute. Further Marico’s acquired Set Wet
+and Zatak, brands operate in the male grooming segment from Reckitt
+Benckiser. By entering the male grooming market, Marico diversified
+its product offerings while leveraging its existing retail and distribution
+strengths. The move allowed Marico to expand its consumer base,
+particularly targeting young, urban men. Through this merger, Marico
+grew its presence in the fast-growing personal care segment while
+maintaining synergy with its existing operations. Marico’s entry into
+the food sector through the acquisition of Garden Namkeens was a
+notable move. This acquisition allowed Marico to enter into a
+completely new industry and minimize the risks associated with
+depending solely on its health and personal care portfolio.
+Justify the type of diversification approach applied by Marico (5
+marks)
+Q 6b.   Sparkfly, a mid-sized manufacturing company, has been facing several
+CO-2 BL-4   challenges affecting its overall efficiency and market position. The
+company has been struggling with declining customer retention and
+satisfaction due to inconsistent service quality and delayed responses.
+Financially, profitability has been fluctuating, with rising operational
+costs and inefficiencies in cost management impacting growth.
+Internally, high employee turnover and declining productivity indicate
+dissatisfaction and a lack of motivation within the workforce.
+Additionally, operational inefficiencies, such as frequent production
+delays and quality control issues, have disrupted supply chain
+performance. The company’s relationships with suppliers and business
+partners have also suffered due to inconsistent order fulfillment and
+communication gaps, leading to strained collaborations. Despite growth
+opportunities, these challenges have hindered Sparkfly Ltd.’s ability to
+sustain its competitive advantage.
+How can organizations identify and utilize Key Strategic Performance
+Indicators to improve overall efficiency and decision-making?
+(5 marks)
+********** 3 **********
+````
+
+## 2023-24 · Re-Exam · Sem 10 · paper 435ca9133bc4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management , Re-exam 2023-2024.pdf`
+- Printed on paper: duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+fo Lise Suen Ve i BELONG
+SVKM’S NMIMS [2 Sf owese \
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& enclbenind?*
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024 }
+
+Program/s: MBA Tech __ Year: V_ Semester: X_
+Stream/s ; All ;
+
+Subject: Strategic Management_ Time: 2 hrs (lerovamto 12 nem)
+Date:_26/ € /2024 * No. of Pages:_2_
+
+Marks: _50_
+
+|
+}
+
+Re-Examination | |
+
+aah
+mea
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Write Short notes on: [10]
+CO- 1; SO- ;
+BL- Os The 3 tests of a winning strategy [2.5]
+Understan
+CO- 1; SO- ; soe
+BL- b. Importance of setting stretch objectives [2.5]
+Understan
+CO- 1; SO-; 7
+BL- & Competitive Pressures Stemming from Supplier Bargaining Power [2.5]
+Understan
+CO- 1; SO-;
+BL- d. Complementors and the Value Net [2.5]
+Understan
+
+A) Should a company's strategy be tightly connected to its quest for
+
+| Q2 competitive advantage? Why or why not? What difference does it make
+
+whether a company has a sustainable competitive advantage or not? Discuss.
+CO-1; SO-; [5] [10]
+BL- B) Explain your understanding of an ideal Mission Statement of a company,
+Understand and how to develop it.
+
+[5]
+
+Assess the Key Success Factors of 2-wheeler industry by first understanding
+Q3 the success factors and then addressing the key issues involved in assessing
+
+the key success factors. ; [10]
+CO-3; SO-; *
+BL- Evaluate
+
+10F2
+--- page 2 ---
+Categorize each of the following resources into Tangible assets / Intangible”
+
+assets / Organizational Capability: }
+[0.5 x,20=10]
+
+Wal-Mart’s purchasing and in-bound logistics; “ie
+
+Apple’s reputation;
+
+Toyota’s Cash reserves;
+
+Disney’s Theme Parks;
+
+Googles Product Innovation Process;
+
+Tata’s Brand name;
+
+DLF’s land reserves in NCR region;
+
+Coca-Cola’s Coke formula;
+
+Q4
+
+Biocon’s capability in solid state fermentation; [10]
+CO-2; SO-; FedEx’s plane fleet;
+BL- Analyze Hampton Inn’s reservation system;
+Google’s culture;
+Disney’s synergy with Pixar & ESPN;
+Google’s Campus Headquarters;
+Asian Paint’s cash reserves;
+Jio’s reputation as the low cost provider of internet data;
+lIT’s global reputation;
+Aravinda Eye hospital’s ability to conduct eye surgeries at very low costs;
+IPL’s PR value;
+Coke’s global distribution co-ordination.
+Q5 A) Identify the market conditions and circumstances that can make a Low cost
+provider strategy attractive.
+cael is} | [10]
+B) What are the pitfalls in pursuing a differentiation strategy? Discuss.
+Understand
+[5]
+Q6 A firm in manufacturing sector is wishing to Strengthen its Market Position via
+€0-2: S0-; Its Scope of Operations. Analyze the opportunities available to them. [10]
+BL- Analyze
+A) Explain the Difference Between Business Process Reengineering and
+Q7 Continuous Improvement.
+CO-1; SO-; . {5}
+BL B) The Ultimate Justification for Diversifying is to Build Shareholder Value. in | [10]
+Understand this context, how would you test whether the Diversification Will Add Long-
+
+Term Value for Shareholders? Explain.
+
+[5]
+
+2 OF 2
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 48c9142c924d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management_48c9142c92.pdf`
+- Printed on paper: duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
+Program/s: MBA Tech_ Year: V_ Semester: _xX_
+
+Stream/s; All
+
+Subject: Strategic Management_ Time: 2 hrs 2:00pm tp 4:00pm
+Date:_28 / Tune / 2023 No. of Pages:__ 2 __
+Marks: __50
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi .
+
+Answer briefly: [10]
+CO1-; SO-; a. | Importance of communicating the strategic Vision [2.5]
+BL- Understand
+COl- ; SO- ; b. | Benchmarking and Best-Practice Implementation [2.5]
+BL- Understand
+CO1-; SO-; c. | Advantages and disadvantages of pursuing a Low-cost strategy [2.5]
+BL- Understand
+CO1-; SO- ; d. | Benefits of strategic alliances [2.5]
+
+BL- Understand
+
+A) Explain why a company's strategy cannot be completely planned out in advance
+
+~ and why crafting a company's strategy cannot be a one-time, once-and-for-all
+Q managerial exercise. (5] | [10]
+CO-1; SO-;
+BL- Understand B) You have been given the task of assessing the merit of a strategy. How would you
+judge if the Strategy is a Winner? (5]
+
+You have been hired as an expert on Strategic planning of a company in
+manufacturing sector. Design a plan for the following:
+
+Q3 A: Objective setting (3] [10]
+CO-3; SO-; BL- B: type of objectives, including Stretch Objectives [4]
+Create C: Balanced score card [3]
+
+1of2
+--- page 2 ---
+A) Analyse various aspects of Macro-Environmental forces on Energy Industry. in
+India, elaborating the role of macro-environmental forces around a business.” [5]
+
+Q4
+CO-2; SO-; B) Airline Industry is considered to be low-profit industry as per Porter’s five-force [10]
+:BL- Analyse analysis. Analyse each of the five forces for the Airline Industry in support of this
+argument. {5]
+A) Simply making lists of a company’s strengths, weaknesses, opportunities, and
+threats is not enough; the payoff from SWOT analysis comes from the conclusions
+about a company’s situation and the implications for strategy improvement that
+Q5 flow from the four lists. Explain this statement. {5]
+CO-1; SO-; [10]
+BL- Understand B) Easy to copy differentiating features cannot produce sustainable competitive
+advantage. Identify the market circumstances under which Differentiation strategy
+can work best. {5]
+Q6 A) Create a value chain analysis of Automobile Industry. ‘ (5]
+A: CO-3; SO-;
+BL- Create B) In Telecom, many value chain activities are outsourced. Evaluate the big risks of [10]
+B: CO-2; SO-; outsourcing value chain activities in Telecom? [5]
+BL- Analyse
+A: Enumerate the strategic fit opportunities during diversification into related
+Q7 businesses. Explain with Industry example. (5]
+CO-1; SO-; [10]
+BL- Understand B: Explain how Policies and Procedures Facilitate Good Strategy Execution. [5]
+
+2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 8d382801d4e8
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management_8d382801d4.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+| SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E!
+Academic Year: 2022-2023 i
+Program/s: MBA Tech__ Year: V Semester: X_
+Stream/s; All|
+
+Subject: Strategic Management__ Time: 2 _hrs(_2_to_4 pm)
+Date:_03_/ May / 2023 No. of Pages:_2__
+Marks: 50
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+7» 1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on-a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [10]
+or SOs Ja. The Five Generic Competitive Strategies 25
+Understand
+CO-1; SO-
+BL, S05 be Types of Company resources 2.5
+Understand
+rom 8 & Risks of Outsourcing value chain activities 2.5
+Understand
+-1; SO-; 6a . oo. .
+am wo a d. Building shareholder value via Unrelated Diversification 2.5
+Understand
+A) “At the core of every sound strategy is the company’s Business Model”.
+Q2 Discuss the statement, identifying what constitutes a viable business model. [5]
+50%; [10]
+ti ia B) What do you understand by “Strategy”? How do you build a sustainable
+Understand competitive advantage? Explain with an industry example. [5]
+3 A) Explain why A well thought-out, forcefully communicated strategic vision pays
+Q off in several respects. [5]
+A: CO-1; SO-;
+ree B) Critically analyse the Vision Statements of the following companies, bringing [10]
+out effective elements and shortcomings. [5]
+B: CO-2; SO-;
+BL- Analyse
+
+1 of 2
+--- page 2 ---
+Mastercard:
+“A world beyond cash”
+
+BASF
+We are “The Chemical Company” successfully operating in all major markets.
+e Our customers view BASF as their partner of choice
+e Our innovative products, intelligent solutions and services make us
+the most competent worldwide supplier in the chemical industry
+e We generate a high return on assets
+e We strive for sustainable development
+e We welcome change as an opportunity
+e We, the employees of BASF, together ensure our success
+
+Q4 A) Evaluate the factors affecting the threat of entry of a newcomer, using
+A: CO-2; SO-; Automobile industry as a case. (5]
+BL- Apply [10]
+B: CO-1; SO-; B) What is the main purpose of creating strategic group maps? Discuss typical
+BL- variables used in creating group maps. [5]
+Understand
+Propose a plan to check competitive power of resources and capabilities of your
+Q5 college in the context of test of strategic resources and capabilities through VRIN 110)
+a ne tests. (listing of resources and capabilities and testing)
+06 Jio has recently entered the telecom industry using offensive strategy. List the
+principal offensive strategy options available to a company, and analyse how Jio [10]
+ne fore has utilised some of these strategies effectively.
+: A) What are the approaches to diversifying existing business? Explain with
+Q7r—— | relevant industry examples. - : 5) |
+CO-1; SO-; [10]
+BL- . . . ;
+b B) Explain 3 tools for promoting operating excellence with examples. [5]
+Understand
+
+2 of 2
+````
+
+## 2021-22 · Final-Exam · Sem 10 · paper 1669334e1409
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management , Sem X , A.Y. 2021-22 Final exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 27 April 2022
+- Text: ocr (2 pages), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS SO Hn
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: MBA Tech (All Stream) Year: V Semester: X
+Subject: Strategic Mariagement
+Marks: 70 -
+Date: 27 April 2022 Time: 10.30 am to’'12.30 pm
+7 : Durations: 2 (Hrs)
+; No. of Pages: _92—
+} Final Examination
+e Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+1
+z Answer briefly: [14]
+1;80-; | a Describe and differentiate between Resources and Capabilities of a company. a
+Understand
+CO:2;SO-; | b. A 7 : F ; :
+BL- Explain the concept of Six-Sigma in the context of continuous improvement. 3.5
+Understand
+CO: 2 SO-; c. 3 : : — .
+BL- Explain strategic Offensive Principles and give an example of the same. 3.5
+Understand
+CO: 2 SO- ; d. . een s :
+BL- What is the Process of Identifying and Incorporating Best Practices? 3.5
+Remember
+ll [4]
+CO-1 SO-; A. Explain why a company's strategy cannot be completely planned out in advance
+BL- Analyse and why crafting a company's strategy cannot be a one-time, once-and-for-all 7)
+managerial exercise.
+7 CO-2 SO- B. In the context of setting balanced scorecard, what are the different kinds of dl
+BL-Apply objectives, and how are they get balanced while setting them ?
+Q3 [14]
+@oxIsos A. What are typical barrier to entry for a business in an Industry? Evaluate relevant (7]
+
+BL-Analyze barrier to entry in cab-aggregator Industry in India where Ola and Uber are
+already present.
+--- page 2 ---
+B. An Auto-maker is advised to either (a) expand into foreign markets with existing
+Ss a portfolio (b) reposition to move to a different strategic group belonging to luxury | (7
+eieveluate car segment. Discuss each move with regards to resources, capabilities, and
+value-chain.
+
+Q4 (14)
+
+CO-1 SO-; A. « ‘ wae A
+
+BL- Explain VRIN testing for a company to test competitive power of its resources [7]
+
+Remember and capabilities.
+
+604 56s B. __| Airlines industry is considered to be low-profit industry as per Porter’s five-force
+
+BL-Evaluate analysis. Evaluate each of the five forces for the Indian Airlines industry in {7]
+support of this argument.
+
+Qs [14]
+
+CO-i SO-; A. Identify and briefly explain using an example what is meant by a first mover
+
+BL- 17]
+
+Understand advantage.
+
+CO-2 SO-; B. Determine the market conditions and circumstances that can make a low-cost
+
+BL-Apply . . [7]
+provider strategy attractive.
+
+Q6 [14]
+
+As Explain the concepts of Business Process Reengineering and Total Quality
+
+CO-1 SO-; Management, and highlight the main difference between the two. Give a specific a
+
+BL-Apply instance of a business situation where each should be deployed.
+
+CO-2 S0-: B. When should a company consider diversification and what does crafting a
+
+BL-Analyze diversification strategy entail? Illustrate the same with a suitable example. (7)
+
+2 of 2
+````
+
+## 2018-19 · Final-Exam · Sem 10 · paper 6e3c9a136bf7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic_Mgmt...Final_18-19_.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 17 April 2019
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program MBA Tech (All Streams) Year: V Semester: X
+| AcademicY ear: 2018-2019 ‘
+Subject: Strategic Management Marks: 60
+Date : 17 April 2019 : Time:10.00 am to 12.00 noon
+
+Duration: 2 (hrs)
+No. of Pages: _ 62—
+
+Final Examination (2018-19) /
+
+Instructions: Candidates should read carefully the instructions printed on the dgeyti
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry 12 equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+‘
+1. Assume you have been tasked to revamp a rival supermarket’s value chain activities to better
+compete with D-Mart. In what order of expected payoff should you attempt to revamp its
+
+value chain activities?
+
+2. For a Business of your choice from (BookMyShow, Swiggy, D-Mart, Uber, Local Kirana
+Shop), do a SWOT analysis. PI describe the business as you have understood briefly before
+* SWOT. Highlight those Strengths and Opportunities that you think are Core Competencies
+and “Must Pursue” respectively.
+
+3. Under what sorts of circumstances are mergers with or acquisitions of other companies a better
+solution than entering into partnerships or alliances with these companies? How do mergers and/or
+acquisitions contribute to enhancing a company’s position?
+
+4. Define and briefly explain (any 2) what is meant by the following terms:
+¢ strategic vision
+
+e — strategic objective
+
+e balanced scorecard
+
+e strategic plan
+
+Page 1 of 2
+--- page 2 ---
+5. Identify and briefly describe the four most frequently used strategic approaches to achieving a
+sustainable competitive advantage. Provide examples.
+
+6. Whena low-cost provider strategy works best? What are pitfalls to avoid in pursuing low-
+cost provider strategy?
+
+4
+
+7. Plstudy the chart below which gives competitive strength assessment of three companies
+and answers the questions below the table.
+
+Competitive Strength Assessment
+
+(Rati : ety weak; 10 = very strong)
+ABC Co. Rival 1 Rival 2
+Key Success Factor / : Importance Strength Weighted Strength Weighted Strength Weighted |
+Strength Measure Weight Rating Score Rating Score Rating Score
+Quality/product performance 0.10 8 0.80 5 0.50 1 0.10
+Reputation/image 0.10 8 0.80 7 0.70 1 0.10
+Manufacturing capability 0.10 2 0.20 10 4.00 5 0.50
+Technological skills 0.05 10 0.50 1 0.05 a 0.15
+Dealer network / distribution 0.05 9 0.45 4 0.20 3 0.25
+capability .
+New product innovation 0.05 9 0,45 4 0.20 s 0.25
+capability
+Financial resources ONO, § 0.50 10 1.00 3 0.30
+Relative cost position 0.30 5 1.50 10 3.00 1 0.30
+Customer service capabilities 0.15 5 0.75 7 1.05 1 0.15
+Sum of importance weighis 1.00
+Overall weighted competitive 5.95 7.70 2.10
+strength rating
+
+(a) ABC would like to acquire Rival 2. What could be the rationale behind such a move? Give no
+more than 3 crisp reasons which are most appealing to you.
+
+(b) Rival 1 has enough financial muscles to acquire any of ABC or Rival2. Which one you propose
+they acquire and why?
+
+(c) Rival 2 knows it will be a target for take-over by ABC as well as Rival 1. Who do you think
+Rival 2 is more comfortable to go with and why?
+
+(d) Create a SWOT chart for Rival 2. Make suitable assumptions if required.
+
+———
+
+Page 2 of 2
+````
+
+## 2015-16 · Final-Exam · Sem 8 · paper fd90dd4cc8fc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic MAnagement Batch 2015-16 Final0001.pdf` (+1 identical copies)
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23/04/2016
+- Text: ocr (3 pages), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Programme: MBA Tech (All Streams) Year: IV
+
+Academic Year: 2015-16
+Subject: Strategic Management Marks: 60
+
+Time: 2.00 pm - 4.00 pm
+Date: 23/04/2016 ; . Durations: 2 (hrs)
+Final Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1. With respect to the Case Study of Subhiksha (enclosed herewith)
+What were the strategic options with Subhiksha for its growth?
+Draw a strategic plan for the survival of Subhiksha keeping in view the prevailing internal and
+external environment. What are the assumptions? (12 marks)
+
+Q.2. What are the components to be identified and emphasized while crafting a company’s strategy?
+Discuss with suitable examples. (12 marks)
+
+Q.3. Discuss briefly the significance of linking company values with the mission and vision statements,
+using suitable examples. (12 marks)
+
+Q.4. Explain with suitable examples, the significance of evolving strategies to develop the representative
+company value chain, thereby improving the competitive advantage. (12 marks)
+
+Q.5. Briefly explain Porter’s five forces model of competition. Explain with suitable examples the factors
+affecting bargaining power of suppliers. (12 marks)
+
+Q.6. How can companies use cross-border tactics to defend against the strategic moves of strong
+international rivals. Explain with suitable examples. (12 marks)
+
+Q.7. Blue ocean strategy is a special kind of offensive strategy used by firms. Discuss with suitable
+examples. (12 marks)
+
+4 /3
+--- page 2 ---
+a ner EEmree
+
+Subhiksha-—A Role Model Falls From Pedestal
+
+n as Subbu), an lIM-Ahmedabad alumni, began his entre-
+haTrading Services (STS) -a retail chain inThiruvanmiyoor,
+near Chennai in 1997. Subhiksha—an early entrant in retail and meant to attract ‘aam aadmi'
+was based on the premise that consumers prefer buying groceries from stores closer to home
+and at a reasonable price. Therefore, Subhiksha’s stores were set up having space 1000 sq. ft
+across the city unlike a 40000 sq. ft big store at one location in Chennai. Subhiksha’s model of
+deep discount retailing was unique and truly Indian-—'why pay more when you can get it for less
+
+at Subhiksha!”
+Started as avalue focused retailer at atime when organized retailing was only for the elite,
+primarily inTamil Nadu. Then, it looked
+
+STS grew rapidly and had 150 stores by September 2006,
+at other parts of India which had a significant literate population, and also had a considerable
+consumption market. By September 2008, Subhiksha had over 1,600 stores across the country.
+
+The turnover grew exponentially from 2330 crore for FY06 to %833 crore for FYO7 to %2,305 crore
+for FY08. It targeted 2,300 stores and %4,300 crore turnover in 2009.
+
+As the economy suffered slowdown in 2008, the company too suffered. Subhiksha’s trade
+cycle had collapsed by October 2008. The company was unable to pay salaries to 15,000 employ-
+ees, vendor bills, as well as rentals for stores. Banks refused to lend money. Tata Teleservices,
+the telecom service provider to STS, cut all fixed line and corporate mobile phone connections
+as bills remained unpaid. The stores were vandalized by employees and other creditors since
+there were no security guards (who were not paid their salaries). The founder said that “the
+properties have become vulnerable targets, but we are taking all steps to protect our assets. It
+is really sad that we have been unable to prevent this so far’ The perpetrators could be “dis-
+gruntled vendors, employees, or anti-social elements taking advantage of the situation”, he
+said, adding “in some cases even owners of the real estate the company uses have broken locks
+
+and taken away assets”.
+
+R Subramanian (popularly know!
+preneurial career through Subhiks
+
+Looking for Cash or Buyers
+Cash-strapped due to the collapse of equity market and tightening of credit, STS shut down 130
+stores in Gujarat alone. Subhiksha stores, which had investors such as Wipro’s Azim Premji and
+ICIC] Prudential Mutual fund, was rapidly sinking and wore a deserted look with empty shelves.
+Having net worth of t250 crore and liabilities of %750 crore, the company needed %300 crore
+infusions to re-start Its operations. Subbu was talking with financial stakeholders, including
+lenders and investors, to inject liquidity into its operations. Subhiksha—which qualified fora
+candidate of Corporate Debt Restructuring (CDR)—was searching a strategic buyer and/or a
+financial investor. Feelers were sent to almost all large players operating in retail for a possible
+buyout. Subramanian was open to all options, including a partial investment, a new investor
+
+with substantial stake, or a complete buyout.
+
+Slowdown Affects Most Retail Operators
+The heat of financial crunch did not spare other major retail players including Spencer's,
+Mega Store, and Big Bazaar. The RPG Group, which owned the Spencer's Retail, had quit its
+operations in Ahmedabad in November 2008 and also announced to shut nearly 56 stores across
+the country. Pantaloon Retail, which housed the Future Group's main formats such as Big
+Bazaar, Pantaloons, Food Bazaar, and Central, slowed down its expansion plans to conserve
+cash. The target of a total space of 14.69 million sq, ft by financial year 2009 and 30 million sq, ft
+
+by financial year 2011 was delayed till FY13.
+
+af
+--- page 3 ---
+Meltdown was also experienced at Reliance Retail (RR)—another major retail chain, having
+840-odd stores including around 750 value stores who also revamped its plans. As part of the
+restructuring initiative, RR planned relocating some stores, shutting down inefficient stores
+and re-launching some others under different formats, Reliance Retail charted out cost-cutting
+plans across all areas including logistics, store operations, head office operations, new stores
+construction etc. and decided to freeze other plans including cash-and-carry till the liquidity
+crisis eases. Foodland Fresh, a Mumbai-based retail chain, closed 39 of its 42 stores across the
+city in February 2009. UK online and catalogue retailer, Argos which has Shoppers Stop and
+HyperCiTY as its franchisees, closed its operations in India in January 2009, Marks & Spencer
+reduced their prices as indian consumers were not willing to pay hefty prices on its premium
+brands.
+
+For retailers the competition was intense and the environment was challenging as there
+were numerous players in the industry. Competition would be more vigorous with the foray of
+major foreign retail players like Wal-Mart and Tesco. Their entry would pose new challenges and
+threats before domestic players. To survive in the long run, it would be wise for retail chains
+
+to carve the strategy cautiously, move prudently, and plan to match cash inflows with cash
+outflows,
+
+..but Some Others Were Growing
+
+Modern retail still accounts for less than 5% of the total retail channel in India. The so-called
+mom & pop stores continue to show growth and profitability that is again, by and large, in
+line with the growth in consumer spending. The consumer spending basket has been showing
+a consistent shift in components over the last 20 years or so. Hence, while some organized
+retailers may be facing certain growth or profitability challenges, there are others including
+Trent (Westside, Landmark, Others), Fabindia, Shoppers Stop, Reebok, Esprit, Tommy Hiifiger,
+Tanishq, Croma, The Mobile Store, Guardian Pharmacy, Bharti Retail, Metro Cash & Carry, Café
+Coffee Day, McDonald's, and others continue to grow steadily and, in most cases, profitably.
+
+S/S
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper 943c742fe070
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23/04/2016
+- Text: ocr (1 page), mean OCR confidence 95.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+— Academic Year: 2015-16
+Batch: 2014-15.
+Subject: Strategic Management Marks: 60
+Time: 2.00 pm - 4.00 pm
+Date: 23/04/2016 Durations: 2 (hrs)
+
+Re-Examination
+
+All questions carry equal marks of 12.
+Answer any 5 questions
+Answer should be explained and discussed with examples.
+
+1. Porter’s Model helps with the structural analysis of the environment. How does this
+model work?
+
+2. Explain the strategic option that takes the organization away from its existing
+products and markets showing its main advantages and disadvantages and the
+appropriate methods for its implementation?
+
+3. What is the meaning of the term "balanced scorecard"? What are the merits of using a
+balanced scorecard in judging a company's performance?
+
+4. Discuss the meaning of each of the following levels of strategy and indicate what
+level of management tends to take the lead responsibility for crafting the strategy at
+each of the four levels.
+
+a) corporate strategy
+
+b) business strategy
+
+c) functional area strategy
+d) operating strategy
+
+5. DoaSWOT Analysis for any Industry of your choice. . Make your
+assumptions.
+
+6. Draw a typical company value chain and briefly explain why the proficiency with
+which a firm performs the activities comprising its value chain matters.
+
+7. What is the role of budgets and resource allocation in successfully implementing and
+executing strategy? Why does a company's budget need to be closely linked to the
+needs of good strategy execution?
+````
+
+## 2015-16 · Re-Exam · Sem 8 · paper dfe519458dbf
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management Batch 2014-15 Re Exam_dfe519458d.pdf`
+- Printed on paper: exam date: 11 July 2016
+- Text: ocr (1 page), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch: 2014-15
+Subject: Strategic Management
+
++
+Date: 11 July 2016
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. '
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Ql. What is Situation Analysis in Strategic Management and develop one for an industry of your
+choice?
+
+Q2. What are the features of strategy formulation and steps in Strategy Formulation process.
+Give an example. :
+
+Q3. What are Policy, Procedures, Process and Programmes? Develop the same for an firm of
+your choice.
+
+Q4. What are Strategies for creating a business plan? Develop one for a company:
+
+QS. What are MNCs, TNCs, Global and International companies and give examples of each and
+describe how are they different?
+
+Q6. What are Types of Strategic Alliances and Business Decisions and giving examples
+describe them?
+
+Q7. Giving examples, describe Models of Leadership Styles and its Roles.
+````
+
+## 2014-15 · Final-Exam · Sem 8 · paper 46342834ed79
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management Batch 2014-15 Final Exam.pdf`
+- Printed on paper: exam date: 17/04/2015
+- Text: ocr (1 page), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VIII
+
+(“aa
+
+Academic Year: 2014-15
+
+Subject: Strategic Management
+
+Date: 17/04/2015 Time: 2.0
+
+Durations
+
+Final-Examination bes rat - ~
+
+All questions carry equal marks of 12.
+Answer any 5 questions
+
+Answer should be explained and discussed with examples.
+
+1. Porter’s Model helps with the structural analysis of the environment. How does this
+model work?
+
+2. What are the general strategic objectives of merger and acquisition strategies?
+
+3. What is the meaning of the term "balanced scorecard"? What are the merits of using a
+balanced scorecard in judging a company's performance?
+
+4. When is a global strategy "superior" to a multidomestic strategy? Or when is MD
+strategy superior to global Strategy? When would use Transnational Strategy?
+
+5. Which is the better approach to diversification—a strategy of related diversification or
+a strategy of unrelated diversification? Explain and support your answer.
+
+6. What is the role of budgets and resource allocation in successfully implementing and
+executing strategy? Why does a company's budget need to be closely linked to the
+needs of good strategy execution?
+
+7. Elaborate on hierarchy of strategic intent. Why vision & mission statements are
+important for organisations?
+
+a LIDrPARY Ss
+Yest OF.
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper a823591c1f4f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management Batch (2014-15) Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 01/07/2015
+- Text: ocr (1 page), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: IV Semester: VIII
+Academic Year: 2014-15
+
+Batch: 2014-15
+
+Subject : Strategic Management Marks: 60 , i r
+Time : 10.00) Kio 12.00 noonJ,
+Date : 01/07/2015 Durations: 2 SF a, ae :
+Ml hes at)
+
+Re-Examination
+All questions carry equal marks of 12.
+Answer any 5 questions
+
+Answer should explained and discussed with examples.
+
+1. What type of competitive advantage does a best-cost provider strategy aim at
+achieving? Explain what a company has to do to achieve this advantage.
+
+2. What are the general strategic objectives of merger and acquisition strategies?
+
+3. What are the roles of a company's CEO in leading the effort to operate the
+company's business in an ethically principled fashion?
+
+4. What do you understand by ““Turnround”. Explain it’s characteristics. How will
+you go about arresting downward slide of the organisation?
+
+5. What are the advantages and benefits of using an industry attractive-business
+strength matrix to evaluate a diversified company's lineup of businesses?
+
+6. Which is the better approach to diversification—a strategy of related
+diversification or a strategy of unrelated diversification? Explain and support your
+answer.
+
+7. What are the merits of strategic alliances and collaborative partnerships for
+companies racing to seize opportunities in an industry of the future? Under what
+circumstances do they make sense? How do they contribute to competitive
+advantage?
+
+j
+````
+
+## 2013-14 · Final-Exam · Sem 8 · paper 933b408a8309
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management 2013-14 Final.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/04/2014
+- Text: ocr (1 page), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS ER Nags
+MOKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE ‘
+
+Programme:MBA Tech (ALL STREAMS) Year: IV $Semestirs viv 3!
+s
+Academic Year:2013-14 <*
+
+; S hin aes" .
+Subject : Strategic Management
+
+Marks: 50
+
+_ Time : 10.30 am to 12.30 pm
+Durations 2 (hrs)
+
+Atle rp aw pee ro Final Examination
+
+Q.1 Elaborate strategit management process to be adopted in an organization?
+
+Date : 19/04/2014
+
+(10 Marks)
+
+Q2. Elaborate on Porter’s five generic strategies?
+(10 Marks)
+
+Q. 3 Discuss the impact of latest developments in the macro environment (using PESTEL
+
+analysis), which have a bearing on the performance of any corporation.
+(10 Marks)
+
+Q.4 As a Director of Organic foods operating in India you are expected to address shareholders
+on the issues of Building Shareholder Value and also provide the Ultimate Justification for
+Diversification adopted by Organic foods Into Unrelated Business segments .Explain your
+answer making necessary assumptions as why is the company should pursue the strategy of
+unrelated diversification.
+
+(10 Marks)
+
+Q.5 Ina crises situation, what is the best leadership style and why?
+
+(10 Marks)
+
+Q6. Assume you are in charge of developing the strategy for an international company selling
+products in 50 different countries around the world. One of the issues you face is whether to
+employ a multidomestic strategy, a global strategy, or a transnational strategy.
+
+‘If your company's product is mobile phones, do you think it would make better strategic
+sense to employ a multidomestic strategy, a global strategy, or a transnational strategy?
+Why?
+
+(10 Marks)
+
+a
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper a934f9051f53
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/STRATEGIC MANAGEMENT/Strategic Management 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 02/07/2014
+- Text: ocr (1 page), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL Stream) Year: [V
+
+Semester: VIH
+
+Academic Year: 2013-14
+Batch:2013-2014
+Subject : Strategic Management Marks:
+
+Date :02/07/2014
+Re-Examination
+
+NB. Peter? cay ac
+
+Q1 ABC foods - a chain of food stores operating in India wants to pursue the strategy of
+unrelated diversification. You are a consultant hired by organic foods. Your job is to explain the
+drawbacks of Unrelated Diversification that the Founder members of ABC foods want to take
+
+up.
+; (10 Marks)
+Q.2 Explain the following concepts in Porter’s five forces model:-
+a. Supplier bargaining power can create competitive pressures
+b. Buyer bargaining power can create competitive pressures
+(10 Marks)
+
+Q. 3 Elaborate on the following concepts (Any two)
+
+a. Business model vs. business strategy
+
+b. Company’s vision vs. company’s mission
+
+c. Corporate level strategy vs. business level strategy
+
+d. Driving factors of an industry
+
+(10 Marks)
+
+Q.4 Amy incorporation has been doing well in the field of electronics and tele -communications
+in India. It has been in business from 2005. However they would like to expand their operations
+globally. As a strategic consultant to Amy incorporation, you are expected to explain to your
+client about the complexities of Competing Across National Borders and highlight the factors
+that makes Strategy Making process more Complex, in the global context.
+
+(10 Marks)
+Q.5 Explain the strategic implementation process at different levels of organizational hierarchy.
+, (10 Marks)
+
+Q. 6 Write Short Notes on
+a. Core competencies
+
+b. Competitive advantage
+(10 Marks)
+````
+
+## 2012-13 · Exam not stated · Trim 12 · paper 67b0c6d57fe1
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT 2012-13.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/4/2013
+- Text: text (2 pages)
+
+````text
+\
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management L
+Programme: MBA (Tech) -ALL STREAMS   Year: IV Trimester:
+Academic Year : 2012-2013
+Subject:   STRATEGIC MANAGEMENT   Marks:   50   ,I
+Time:   11.00am To 1.00pm
+Date:   26/4/2013   Duration:   2   hrs.
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory
+2. Out of the remainiqg, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+Q. 1 Write short notes on any two of the following:
+(a) Six Sigma
+(b) Strategic Fit
+1 (c) Ethical ~niverialisrn Vs. Relativism
+Q.2 Briefly explain the areas in which organizations can increase the probability of alliances
+success. Also explain the potential risks associated with alliances.   (10)
+?
+Q.3 Compare and contrast SWOT matrix and TOWS matrix. Which is considered a more
+powerful tool in strategy formulation and Why?   (10)
+9.4 "Sucsess in achieving a low cost edge over rivals comes fiom out managing rivals in
+performing value chain activities cost-effectively arid eiimiazting .or clxbing non-essential value
+chain activities". Critically evaluate the concept of value chain analysis as a method used to
+achieve a low cost competitive advantage.   (10)
+Q. 5 Why do companies expand into foreign markets? What are the factors that need to be taken
+into consideration while shaping strategic choices in foreign markets?   (10)
+--- page 2 ---
+Q. 6 How would you structure the work .effort to promote a successful strategy implementation?
+(10)
+Q. 7 Why is it important to create a strong fit between a firm's strategy and culture? How would
+you establish a strong culture fit in multinational and global companies?   (10)
+````
+
+## 2012-13 · Exam not stated · Trim 12 · paper a6ae5e26a165
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT BATCH 2011-12.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/04/2013
+- Text: text (1 page)
+
+````text
+SVKlVI's NMIMS
+Mukesh Pate1 School of Technolorn Management 8s Enpii
+Programme: MBA (TechjALL STREAMS   Year: IV
+Academic Year :2012-2013
+i 1   Batch: Subject:   STRATEGIC MANAGEMENT   Marks:   50
+Time:   11.00 am To 1.00 pm
+Date:   26/04/2013   Duration:   2 hrs.
+Re - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory
+2. Out of the remaining, attempt any 3 questions.
+3. In all 4 questions to be attempted.
+4. Answer to each question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+Q. 1 Write short notes on any four:
+(a) First mover
+Bb) Related diversification
+(c) Strategic Alliance
+(d) Ethical Standards
+(e) Intended and Emergent Strategy
+Q. 2 Discuss the process of Strategic Management.   (10)
+Q. 3 Describe the role of product differentiation and how it helps firms take advantage of
+opportunities in fragmented industries, in emerging industries, in mature industries and in
+declining industries?   (10)
+Q. 4 biscuss the tools for instituting best practices and promoting continuous improvement in an
+organization?   (10)
+Q. 5 Discuss the forces for driving industry's competition as per Porter's Model?   (10)
+````
+
+## 2012-13 · Re-Exam · Trim 12 · paper 4a2f128f484e
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT XII MBA TECH 2012-13 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/06/2013
+- Text: text (1 page)
+
+````text
+..
+I
+Programme:
+Batch:   2012-2013
+Subject:   Strategic Management   Marks:   50
+Time:   10.00 am To 12.00 noon
+Date:   26/06/2013   Duration: 2 hrs.
+Re - Examination
+Instructions:
+Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book which is provided for their use.
+All questions carry equal marks
+Answer in all Five questions -All Questions Carry Equal Marks
+1. Take a company of your Choice. Explain the Vision, Mission and Objectives.
+2. Discuss the Core Competency frame work in developing the Corporate Strategy. How
+the competencies should be leveraged in an organization.
+.   3. Take a Company of your choice and do PESTLE Analysis.
+4. Michael bet'sFive forces model. Where this is being used. Explain this with an
+lustration.'
+5. Five Generic Strategies. Explain the Michael porter's model on Generic strategies.
+6. Value Chain Analysis. Take an industty of your choice and explain this concept.
+7. Strategy implementation phase involves managing fie internal organization well. Do
+you agree. Discuss.
+````
+
+## 2011-12 · Exam not stated · Trim 12 · paper c7b14d1be1db
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT 2011-20120001.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/04/2012
+- Text: ocr (1 page), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+Academic Year : 2011-2012
+
+ae NMIN* Unversity \
+
+Subject: Strategic Management Marks: 50 Mumbai - 56,
+Time: 2.00 p “at 4.00-BHARY
+Date: 26/04/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+Attempt all questions. Answer to each question to be started on a fresh page.
+
+1. Evaluate Indian Railways in terms of the McKinsey 7S Framework, citing specific
+examples. (10 marks)
+
+} 2. How have following companies exemplified the Blue Ocean strategy? Explain, citing
+examples.
+a) Apple
+b) Sony (10 marks)
+
+3, How has Maruti reconfigured its Value Chain for sustainable competitive advantage?
+
+! Explain in the context Swift? (20 marks)
+
+“
+
+4. How has HP mastered the Ghemawat model? Give specific instances. (10 marks)
+````
+
+## 2011-12 · Re-Exam · Trim 12 · paper b2b0da945660
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/06/2012
+- Text: ocr (2 pages), mean OCR confidence 94.7
+
+````text
+J
+
+Programme: MBA Tech - ALL STREAMS Year: IV Trimester: XII
+
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engine
+
+Academic Year : 2011-2012
+
+Batch: 2011-12
+Subject: Strategic Management Marks: 50
+
+Time: 1.30 pm To 3.30 pm
+Date: 26/06/2012 Duration: 2 hrs.
+
+4
+
+\
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+Attempt all questions. Answer to each question to be started on a fresh page.
+
+Case Study
+
+Arvind Mills is trying to do in shirts what Cavincare’s Chik did for shampoos. Make the product
+ubiquitous and affordable. You may soon get to pick up a shirt bit from a pan shop, or a petrol
+pump, across the thousands of villages, which lie at the bottom of the growing Indian pyramid.
+The world’s third largest maker of denim fabrics and supplier to Levi Strauss and Calvin Klein,
+plans to expand its retail reach in India as the global markets get tough with slowing consumer
+spending and currency fluctuations, said a senior company official. It plans to make its shirt bits
+available in thousands of shops across the country. The fact that rural incomes have been rising
+is prompting a change in the thinking of Arvind which has been mostly cities and export oriented
+so far. There would be more shops in the country which may sell Arvind’s shirts.
+“With the increase in disposable incomes and awareness about branded items, rural India is fast
+becgniing a lucrative market,” says Kulin Lalbhai, chief manager of group’s retail arm and the
+younger son of CMD Sanjay Lalbhai. Arvind Mills will set up a distribution network across the
+country with at least 1,000 — 1,500 points of sale per state including non-textile shops like
+kirana (grocery) and petrol pumps, he says. Indian textile companies are turning to the domestic
+market as exporting gets tougher with intense competition from rival Chinese, Sri Lanka and
+Bangladeshi producers who could keep their costs low. Also, the ever-changing tastes of western
+consumers and slowing demand makes it critical for textile companies to look out for an newer
+markets. It is not only making the product available, but that it should be affordable in the rural
+
+A}
+--- page 2 ---
+areas where many still can’t afford decent shirts. “The range of the shirting would be affordable,
+ranging from Rs 300 to Rs 800,” says Mr Lalbhai. “The company can now offer much more
+variety to the retailers at a much lower risk, like in the case of shampoo sachets, which radically
+reduced. the price to the consumer and increased the ease of distribution.” As a step towards
+achieving this goal of a likely retail expansion it has already started selling shirt bits instead of
+multi-metre long rolls which once dominated the shelves of any textile retail outlet in the
+country. It is also pushing for more retail outlets in cities which sell products of many
+manufacturers, which are known as shop-in-shop format. “We are planning to increase our
+presence in shop-in-shop format outlets by more than double from currently 500 to 1200 by
+April 2010,” Mr Lalbhai says. Mr Lalbhai’s idea may be great, but it may not be as easy to come
+out successful in a retail venture as many found out in the last few years.
+“Even though the size of the rural market is growing due to increased disposable income with
+farmers, for such types of network, setting up a logistic supply chain till remotest area would be
+a very difficult task,” says RK Dalmiya, president, Century Textiles and Industries. But for
+companies struggling in their traditional markets, it doesn’t hurt to explore new ones.
+“Companies should also keep in the mind that preferences and choice in rural market will be
+different than urban market. “It makes sense for rural penetration for Arvind Mills,” said senior
+retail analyst Indrajeet Kelkar from the broking firm Dolat Capital. “Brand house retail has
+already planned this out and they have started the rural market penetration with their S-Kumar’s
+brand.”
+
+Questions
+
+1) Conduct a TOWS analysis for Arvind Mills, and plot it on the PESTLE grid, for the Indian
+market. (20 marks)
+
+2) Analyze the Indian apparel retail industry from Arvind’s competitor Madura Garments’
+\ pesspective, in terms of the GE McKinsey Business Screen. ~
+
+(15 marks)
+
+3) How would you use the ADL Matrix to evaluate the leading apparel players?
+(15 marks)
+
+Of
+
+=~ =
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 3d02fc1e3517
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/STRAGIC MANAGEMENT 2011.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/04/2011
+- Text: ocr (4 pages), mean OCR confidence 95.9
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XII
+
+Academic Year : 2010-2011
+
+Subject: Strategic Management Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 19/04/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+Attempt all questions. Answer to each question to be started on a fresh page.
+
+Case Stud:
+
+India boasted of foreign tourist arrivals of 5.3 million in 2008. This is estimated to triple in next
+20 years. Though the worldwide international tourist arrival rate grew by a mere 1.9% in 2009
+due to the global recession and a world-wide drop in tourism figures, India recorded significant
+growth. The outbound market grew by 8.8% and domestic market grew by 6.9% and foreign
+tourist arrivals by 5.6%. India is experiencing social and economic upheaval with escalating
+income levels and travel shifting from being luxury to a right. There has been an increase in
+low-cost carriers, upgraded airports, people going from group tours to Free Individual Travelers
+(FIT), and a younger profile of travelers. This has resulted in an increased demand for hotel
+rooms.
+
+There is under-serviced demand in the hospitality industry in India. With 100,000 branded
+rooms, India does not stand on par with Manhattan that has 120,000 rooms (Hong Kong has
+62,000). The paucity of rooms is heightened by the fact that India’s hospitality pyramid is
+reversed, implying maximum rooms in the top tier or luxury, tapering down to limited and non-
+branded economy and budget accommodation.
+
+Hospitality companies have envisaged demand across strata. Branded hotels are springing up as
+much in the metros as they are in cities like Nashik, Agra, Vishakhapatnam, and Kozhikode.
+
+Mi
+--- page 2 ---
+Story of Brands in Indian Hospitality Scene
+
+Canada-based Four Seasons was in talks with local hospitality players — the Oberoi group and
+the Leela — since last 15 years. Four Seasons finally decided to come in with a local developer
+and opened its first property in Mumbai last year. It is in various stages of discussions for
+properties in Bangalore, Hyderabad and Gurgaon, and is also looking at resort opportunities in
+Kerala and Rajasthan.
+
+Marriott, with 3000 hotels in 70 countries, has been present in India since 1999 and plans to
+increase that to 40 hotels by 2013. Marriott had six hotels till end 2009, and will have 16 by end
+2010 and 40 by 2013. Marriott has identified India as a key market and is ready with budgets,
+growth strategy, key personnel and a sales office.
+
+Amari, Thailand’s largest domestic hotel company is reviewing projects in Delhi and Mumbai
+for an initial entry. The 16-hotel company is stepping out of Thailand to go to 51 hotels by 2018
+across six key-markets: the Middle East, China, Vietnam, Indonesia, Australia, and India. India
+would have their maximum attention.
+
+Anantara, the resort brand, having decided to move out of Thailand, is targeting the Middle East,
+China, East Africa and India. It is looking to create circuits — spiritual, wellness, and cultural —
+in India. It has signed an agreement with Wadhwan Developers to open a beach résort in Kerala,
+a cultural site in Tamil Nadu, and a destination spa in the north. Its plans in the next five years
+include selecting eight more resorts and creating a circuit. Management is studying locations,
+developers and attending hospitality conferences to understand and rightly tackle the Indian
+market.
+
+Accor, the hospitality leader in Europe, declared that the Indian sub-continent is at the fore-front
+of its expansion plans. Currently operating five hotels, the company is expanding its network to
+50 hotels, with 10,000 rooms in 15 cities by 2012, at an investment of Rs. 636 crore. Accor has
+developed an extension strategy, created relevant JVs and investment commitments to be a
+leading international hotel operator by 2012.
+
+With a view that the Indian market matures there will be a further segmentation and in turn
+opportunity for specialists, boutique operators are also entering the fray. Luxury boutique hotels,
+Alila, opened their tenth property in Asia at Goa. Their India plan is to open 15 exclusive
+hotels over eight years, and the next three properties come up in Bangalore, followed by
+Kozhikode and the backwaters of Kochi.
+
+Africa’s best-known Safari operator, &Beyond has come in believing India’s potential as a safari
+destination. The world’s leader in luxury adventure travel and safaris has set up shop in the
+jungles of India, where they operate a wilderness safari circuit of four lodges in Madhya Pradesh.
+Gary Lotter, COO of &Beyond, says, “India is a natural extension to Africa, because of the wide
+
+ly
+--- page 3 ---
+diversity of India’s amazing wildlife.” Along with catering to the local market, & Beyond’s
+primary focus has been to lure the international adventure traveler to India.
+
+The 100-year Taj brand has long witnessed the entry of international brands and maintained a
+leadership position. Taj has the first-mover advantage in most cities and better locations.
+However, it is anticipating stiff competition ahead, created new brand categories. It is also on a
+major expansion drive — aspiring to have 20,000 rooms in 25 destinations by the end of this year.
+Raymond Bickson, MD, Taj group, says, “For years, the entry barriers were so high that
+homegrown brands grew unabated. But now, over 37 brands are set to enter India. As many as
+100,000 rooms are under development.”
+
+The top three domestic players in the hotel business are the 100-hotel Taj, ITC Hotels (with 101
+properties), and ETH (with 28 properties). Others include the Lalit, and the Leela, in the luxury
+category, while Ista, Park Hotels, Sarovar Group, Pride Hotels, Royal Orchid and Lemon Tree in
+various other categories.
+
+Brands have realized two things — one, there is room to grow beyond the infrastructure and red
+tape problems; and two, the great Indian economy is not a bubble.
+
+Future Growth
+
+e With more than half of the population in the country is under 25, hotels see a prospect of
+long-term loyalty — across two generations. If a chain manages to entice youngsters, the
+growth story runs into generations, around 40 to 50 years of growth ahead.
+
+e Immediate returns are promised by high occupancy levels of 68% on an average.
+
+e Menon, area VP, Marriott International, says the success of a chain is directly proportional to
+the faith it can evoke in the investment community. Being a pure management company,
+Marriott has the advantage of experience. Their feasibility department studies the location
+and its possibilities and, based on the findings, they then identify the brand that suits the
+location. It is then that a management agreement is drawn up and the architectural and
+design teams take over.
+
+e Four Seasons has three guiding lights — right market, right product, and the right capital
+partner.
+
+e Asian hotel brands realize their edge over western counterparts in establishing themselves in
+the Indian hospitality business. They have cultural similarities, and have a basic
+understanding of the service levels that the Indian consumers want.
+--- page 4 ---
+Pricing Strategy
+
+If luxury was to be considered 100, budget should be priced 20% of that amount, economy 40%,
+midscale between 40% and 60%, upscale 60%, and upper upscale 80%.
+
+Domestic tourism has metamorphosed from people staying with family to opting for hotels.
+However, people’s capacity to pay is not much. Hence, the opportunity lies in growing the
+market and not scaling down the luxury user. High fixed costs are not to be passed down to the
+customer.
+
+Questions
+
+1) Conduct a TOWS analysis for a foreign hotel chain wanting to enter the Indian market, and
+plot it on the PESTLE grid. (20 marks)
+
+2) Analyze a leading Indian hotel chain in terms of the GE McKinsey Business Screen.
+(15 marks)
+
+3) How would you use the ADL Matrix to evaluate the leading Indian hotel chains?
+(15 marks)
+
+Vs
+````
+
+## 2010-11 · Exam not stated · Trim 12 · paper 79102b0bc17b
+
+- Departments: Information Technology, Manufacturing
+- Programmes: MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM XII/Strategic Management/STRATEGIC MANAGEMENT BATCH 2010-2011.pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 27/06/2011
+- Text: ocr (1 page), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & E:
+
+Programme: MBA TECH - (All Streams) Year: IV Trimester:
+Academic Year : 2010-2011 %, y,
+Batch: 2010-2011 SS tans
+Subject: Strategic Management Marks: 50 ———
+Time: 1.30 pm To 3.30 pm
+Date: 27/06/2011 Duration: 2 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+the cover of the Answer Book, which is provided for their use.
+
+Attempt all questions. Answer to each question to be started on a fresh page.
+
+1. Evaluate any company of your choice in terms of the McKinsey 7S Framework, citing
+specific examples. (10 marks)
+
+2. How have following companies exemplified the Blue Ocean strategy? Explain, citing
+examples.
+
+a) Dupont
+
+b) 3M (10 marks)
+
+3. How has Tata Motors reconfigured its Value Chain for sustainable competitive
+advantage? Explain in the context of Nano? (20 marks)
+
+4. How has Maruti mastered Porter’s 6 Forces model? Give specific instances. (10 marks)
+
+x
+
+V
+````
+
+## 2009-10 · Exam not stated · Trim 12 · paper 2ee6ef0f93a8
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/2009-2010(182).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (6 pages), mean OCR confidence 70.3
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVK M S NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+4" year MBA (Tech) : XII Trimester (Atk StreaarD
+
+Academic Year ::::_ 2009-2010
+~~ Final Poe am:
+
+SUB_::::STRATEGIC__MANAGEMENT
+Total Marks : 50 _ Time : 2 Hours ( 2 po-4t fun)
+Instructions : Date; 24 /4 / lo
+
+1.
+2.
+3.
+
+Answer any FOUR questions.
+All Questions carry equal marks.
+Answers should be precise, pertinent and to the point.
+
+. a) What strategies & framework will you follow for expansion to
+
+Global Business ? How to achieve success & reduce risk in
+International Market ?
+b) What are different forms & means of Diversification ?
+
+a) What is Market Life Cycle Model (G E Model ) & its significance in
+Strategic Planning ? What is difference between GE & BCG Models?
+b) How do Companies achieve & maintain Competitive Advantage ?
+
+a) What is McKinsey Framework for Strategy Implementation ?
+b) What is role of Leadership & Culture ? How do you manage
+internal Organisation for Strategy Implementation ?
+
+Consider that you are Manager , Corporate Planning of a FMCG
+Company (either Dabur India or Marico Ltd). Discuss in point form,
+step by step approach, to devise & implement Strategic Plan for long ,
+medium & short terms.
+
+Refer to enclosed Case Study on “ Dubbawalas—feeding Mumbai”
+
+and answer the following ::
+
+a) What strategies they follow to source Manpower; to achieve six
+Sigma Quality, to build clientele & achieve competitive
+collaboration?
+
+b) What is the learning on Logistics & Organisation Structure from
+this Business Model ?
+--- page 2 ---
+’ é 2§PSS2 S222 gegggee 24 geB
+go 22Sa nu ee gas Bak
+° SEs 2 Se Ua
+S SEES bags e8§Sses FS PBa
+bl oe BZigeed See gs ae)
+| a x eee i eegeg SSbee ss BS 828
+2 geegrssegke Gaeeses sf f32
+= + Ss 7 oO
+: Eegeeeeyies fathess ge 28%
+= Setee28e.e 2BESS 88 2
+= =oag = so =
+S Heo. 38288538 Be828s- 88 Sam
+: Sgghueeiity Fiasocpeesuses
+- SQeoe £. 3
+& 2 SBeeEER RSS eek sons eee es eS s
+3 see ee ees ages ego g siege ass
+oS = oe SE an i
+S BeSSsseseere, Se tees gssz 2228
+x oa & se 8e8 CepeEGELBL g
+s oe les es B2S8ESRREo8 Ss
+ge fe) cas e8e22ReF8 Fs 5g gt gab ea es
+s O genset bb8 53925 ESco@8ussosts
+e Beate hs eg Pose sae CRC RI gE PH
+s s ; 2 & ;
+25 Sse yslzetgeesksssFsee sass
+= & 2 So 8 s3a = Es
+on o Sein 2 3B 230 £3
+£0 a2c gee %, fo} 20 o
+5°5 ABLERES SERS SBEGHRBSQ FS BE
+--- page 3 ---
+c awere
+6 2.
+Sin 8938
+8 B Eo
+°
+
+‘
+I Ss 2.
+a ee
+<9 $ ag & 5
+e4 Seen o 32
+Be eer
+5 3 Bfkegz8a
+a & Tae
+oe 5 erie:
+co 2ge8e& FA
+ee pg
+g ge aess
+AB EERE
+£2 ”A ES aaa ee
+re wegsgees .
+eS A
+a BEE wo
+aq Beegees |
+ne Cpe ese S
+eagagy
+io} ° sees
+ga Beggee8 :
+iz esshebe
+i RESEES 3 S
+we “SER a
+BB Z bed |
+= gS, 08
+Sm ge =
+z 2898285
+S4 waeeees :
+33 seEEERE |
+ke Sais
+Bs |
+8 _ |
+g gs
+SERBS g3
+Se Ese a 6. !
+eRe es3gg
+egere ee
+= io}
+e285 285
+Ba25288
+5° aa
+& gearras
+5 3 |
+ep @s2a-e z
+Ref Eo g
+See zee oO
+a ao
+zoeee® 5
+aoe Re
+-BE9
+Sa e588 z
+cecece 2
+S8ebss
+eae one g
+gBe a& 6
+22588 S
+SELLERS 5 .
+g8ea &
+ag as & - .
+BEES g
+e82g8 g
+a8ees 3
+EREaS
+R ie
+page?
+SRESs F
+--- page 4 ---
+SVKM’S NMIMS (DEEMED TO BE UNIVERSITY), ~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+ENGINEERING ly
+MBA (TECH) - 4™ YEAR -Trim XII (2009-10) |, *
+SUBJECT: FINANCIAL MANAGEMENT (Att Streams )
+FINAL-TRIMESTER XII EXAMINATION”
+
+DATE: 3°/4/t0 TOTAL MARKS: 50
+TIME:   2HOURS (2 pm- 4 gun)
+INSTRUCTIONS: Candidate should read carefully the instructions printed on
+the question paper and on cover of Answer book, which is provided for their use
+NOTE: (1) Total No. of questions - 7
+(2) Part A 3 questions compulsory, Part B - answer 2 out of 4.
+(3) Total Questions to be answered 5
+(4) Working will form part of answer
+
+PART A — Compulsory Questions
+Q.1 (1Mark each total 5 Marks)
+i. IRR method will not be good for considering the project
+
+a. When the project being considered is independent
+b. When the cash flows are conventional
+c. When the project is being financed by own funds and borrowings
+d. In all the above situations
+
+ii. Under MM approach, all of the following are assumed except
+a. that there are no corporate or personal income taxes
+b. the dividend payout ratio is 100%
+c. the operating earnings ofa firm grow at a decreasing rate
+d. there are no bankruptcy cost
+
+iii. If the interest on long term debt is 18% p.a. and the tax rate of the firm is 35%,
+
+the effective cost of debt will be
+
+a. 10.70%
+b. 11.70%
+c. 12.85%
+d. 12.70%
+
+iv. Risk free discount rate means
+a. Cost of capital applicable to the project
+b. Weighted average cost of capital
+c. Discount rate used as base rate for adjustment of project related risk
+d. None of the above
+v. Commercial paper
+a. Isa transferable instrument
+b. Nota transferable instrument
+c. Can be transferred with the consent of the issuer
+d. Can be transferred with the approval of RBI
+
+P.T.0-
+Page | of 3
+--- page 5 ---
+on “hoe
+
+Q.2 Firm X has following base data
+
+Number of shares 10,00,000
+Price per share Rs. 20
+
+Market value of shares Rs. 2,00,00,000
+Operating income Rs. 40,00,000
+
+i, Mr. S CEO of the firm believes that the shareholders of the firm
+will be benefited in case the firm has debt equity ratio of 1:1
+
+ii. Therefore Mr. S proposes to issue 15% non convertible debenture
+of Rs.1,00,00,000 and use the proceeds to repurchase 5,00,000
+shares and reduce the share capital to 1,00,00,000
+
+iii. Mr. S would like to check the results at operating income levels of
+Rs.20,00,000 and Rs.60,00,000 also
+iv. The finance manager of the firm differs from Mr. S and opines that
+
+a. When share holders have the option to borrow on their
+own account why the firm need borrow
+
+b. If investor put his own money of Rs.20, borrows Rs.20
+himself and invests Rs.40 in 2 shares of unlevered firm
+“x?
+
+c. The return on his own investment will be same as that of
+what he will get from his investment in 1 share of levered
+firm
+
+Vv. calculate the following for all 3 levels of operating income
+
+a. equity earning of unlevered firm X
+
+b. earning per share of unlevered firm X
+
+c. return on equity of unlevered firm X
+
+d. prepare base data for levered firm X at operating income
+level of 40,00,000
+
+e. equity earning of levered firm X
+
+f. earning per share of levered firm X
+
+g. return on equity of levered firm X
+
+h. what are your conclusions with reasons? Do you agree
+with CEO
+
+i. prepare earning per share and return on equity for the
+investor, who resorts to personal leverage, for all 3 levels
+of operating income
+
+j. what are your conclusions with reasons? Do you agree
+with Finance manager
+
+(15 Marks)
+
+P. Te:
+
+Page 2 of 3
+--- page 6 ---
+-— 23-
+
+Q3 M's A Ltd. has provide following information
+
+i. Net operating income Rs. 40 million
+ii. Interest on debt Rs. 10 million
+iii. Cost of equity 18%
+iv. Cost of debt 12%
+v. Work out
+
+a. Market value of debt
+b. Market value of equity
+c. Average cost of capital
+vi. Assume further that A Ltd.
+a. Takes additional debt of Rs. 100 million
+b. Uses the additional debt to finance a project which earns
+additional operating income of Rs, 20 million
+c. There are no taxes
+vii. work out following by using Net Operating Income (NOI) approach
+taking into account additional details of point (vi) also
+a. Equity earnings
+b. Market value of debt
+c. Market value of equity
+d. Average cost of capital
+(10 Marks)
+
+PART B -— Answer Any Two questions out of Four (All questions 10 marks each)
+
+Q.4 Why firms pay dividends? What is the importance of payout ratio, stability and
+retained earnings in the payment of dividends? Explain difference between
+dividend payment and share buyback method.
+
+Q.5 Discuss time value of money, Present value and Future Value concepts.
+Explain with examples.
+
+Q.6 What are the assumptions and limitations of MM approach? How arbitrage
+method works in proposition I of MM approach? Give example also.
+
+Q.7 Short Notes (Attempt any 4 short notes)
+1. Opportunity cost (deal also an example)
+2. Gorden’s Growth model of dividend policy
+3. Maximizing value of firm
+4. Trade-off theory
+5. Traditional approach in Capital structure
+
+Page 3 of 3
+````
+
+## 2009-10 · Exam not stated · Trim 12 · paper 1662e843fc6d
+
+- Departments: Manufacturing
+- Programmes: MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM XII/strategic management/2009-2010(224).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 74.6
+
+````text
+SVK M’ S NMIMS (
+
+Mukesh Patel School Of Technology Management & Engineering
+4" year MBA (Tech) : XII Trimester (Atk Stream
+Academic Year ::::_ 2009-2010
+
+— Final Coe Onn’
+
+SUB_::::STRATEGIC _MANAGEMENT
+Total Marks : 50 _ Time : 2 Hours (2 por 4 fron)
+Instructions : Date: 29/4 / lo
+1. Answer any FOUR questions.
+2. All Questions carry equal marks.
+3. Answers should be precise, pertinent and to the point.
+
+I. a) What strategies & framework will you follow for expansion to
+Global Business ? How to achieve success & reduce risk in
+International Market ?
+
+b) What are different forms & means of Diversification ?
+
+2. a) What is Market Life Cycle Model (G E Model ) & its significance in
+Strategic Planning ? What is difference between GE & BCG Models?
+b) How do Companies achieve & maintain Competitive Advantage ?
+
+3. a) What is McKinsey Framework for Strategy Implementation ?
+b) What is role of Leadership & Culture ? How do you manage
+internal Organisation for Strategy Implementation ?
+
+4. Consider that you are Manager , Corporate Planning of a FMCG
+Company (either Dabur India or Marico Ltd). Discuss in point form,
+step by step approach, to devise & implement Strategic Plan for long ,
+medium & short terms.
+
+5. Refer to enclosed Case Study on “ Dubbawalas—feeding Mumbai”
+and answer the following ::
+
+a) What strategies they follow to source Manpower; to achieve six
+Sigma Quality, to build clientele & achieve competitive
+collaboration?
+
+b) What is the learning on Logistics & Organisation Structure from
+this Business Model ?
+--- page 2 ---
+ai see
+822 geez
+gis Eo>
+e832 s28
+238 epg
+fas Sa
+Es g
+ae? eset
+Bee Sgéis
+33sec oS -y
+53 oo =
+g8 28
+@
+Ags wm 232
+ge wa 35
+S&S O.n 8
+Bae :
+S ns
+a2 gee
+ges Ze
+2338 3o8
+Dey
+aa % Way
+8 Es & wages
+283 4
+eds 2e¢
+s62 OM 483
+22a aad
+ws geo
+ats] °] >
+23s¢ 382
+Ss Q ES
+2868 Ans
+e4 S8at 2s
+Sas 2886 22
+Seg VS 2S 4s
+
+oo. oo
+
+oan 5 E g
+[V8 e ~poe 2556
+ege ¢ED §
+
+2 a esses softy
+ey S8Ss 48
+
+. ty
+& 88
+3 Se
+a Bs
+ad Cun
+3 ag
+“6
+> BS
+
+3 Pegs
+iz
+2 gé
+id ov
+Ps 23
+2 58
+
+S
+S
+& 4 $3
+: 53
+2 os
+e Oo 83
+ES
+
+9O%8 ouncsc =
+2é2 BaSS5 3
+2Ssetdse BE ons
+Seeeekese. 8
+
+gus2ee .
+Sesstsszi ie
+
+HZeQsszylssgszs
+gee28E es ee
+--- page 3 ---
+q& ( €
+
+I Case 10 | The Dabbawalas-Feeding Mumbai
+CaSe | p exhibit 1
+
+Here, the markings for the collection: point
+The Dabbawalas— re:.VP for Vile Parle, C for Cooper
+Feeding Mumbai*
+
+jospital. Destination markings are 10
+(Nariman Point), 9 is the dabbawala
+‘handling the destination area, M is Mittal
+‘ower and 16.refers.to the 16th-floor.
+
+actually belong to. If 150 tiffins are to be delivered in sorting to a few central points. Secondly, a simple color
+
+: . z the Grant Road Station area, then four people are as- code determines not only packet routing but packet pri-
+Hungry kya? What would you like: pizza from the local umentary noted wryly. So, how do they work so effi- es signed to that station, keeping in mind one person can oritizing as lunches transfer from train to bicycle to
+Domino’s (30 minute delivery) or a fresh, hot meal from _ciently? E carry no more than 35—40 tiffins. foot.
+home? Most managers don’t have a choice. It’s either a : During the earlier sorting process, each dab-
+packed lunch or junk food from a fast food outlet. bawala would have concentrated on locating only those
+
+Unless you live in Mumbai, that is, where a small 40 tiffins under his charge, wherever they come from, WHO ARE THE
+
+ariny of ‘dabbawala’s’ picks up 175,000 lunches from EAM WORK AND and this specializati i i ALA
+i specialization makes the entire system effi- DABBAW:z S?
+
+homes and delivers them to harried students, managers i
+and workers on every working day. At your desk, TIMING sient and nen i to fift inut
+12.30 pm on the dot. Served hot, of course. And now q ‘Typically ititakesiabout ten’to fifteen ‘munities to De dants of soldi f the legendary Maharash
+you can order even through the Internet. The entire system depends on team work and meticu- - search, assemble and arrange 40 tiffins onto a.crate, cocoa hi weer © de i b mah af ‘ a par 7
+The Mumbai Tiffin Box Suppliers Association lous timing. Tiffins are collected frem homes between id by: 12:30,pm they are delivered oft}ose. frian/ warsior-king Shiva) et vawaes ve s e
+ppliers Association . Maly:
+i H sas ‘ Ina way, MTBSA'’s system is like the internet. The Malva caste, and arrive in Mumbai from places like
+(MTBSA) is a streamlined 120 year old organization 7-00 am and 9.00 am, and taken to the nearest railway . ses ; ‘Ak j
+with 4,500 semi literate members providing a quality _ Station. At various intermediary stations, they are Internet relies oh concert called packet switching. In Ralgeraen oe Ambegaon, tconerandl Mansi
+door-to-door service to a large and loyal customer _ hauled onto platforms and sorted out for area-wise dis. packet switched networks, voice or data files are sliced We believe in employing P eople from our owncom:
+base. tribution; go that a single tiff could eh h ds into tiny sachets, each with its own coded address munity. So whenever there is a vacancy, elders recom-
+How has MTBSA managed to survive through _ three to four times in ths course of ‘ts daily Souriey, which directs tts routing. er p mend a relative from their village,” says Madhba, a
+these tumultuous years? The answer lies in a twin At Mumbai's downtown stations, the last tink in These packeis are the pees on bursts, indepen- dabbovala. ‘ ‘
+process that combines competitive collaboration be- the chain, a final relay of dabbawalas fan out to the tif- : dent of other packets and possibly taking different ane earns 8 pittance mapelling us to move
+tween team members with a high level of technical ef- fin’s destined bellies. Lunch h the i Je i routes, across the country or the world, and re-assem- fo the city. And the tiffin service is a business of repute
+ficiency in logistics management. It works like this. process moves into reverse andthe ‘tttin han to bled at their destination. a ; since we are not working under anyone. It’s our own
+After the customer leaves for work, her lunch is suburban homes by 6.00 p.m. uns ‘re a Packet switching maximizes network density, but business, we are partners, it coffers a higher ‘status in
+packed into tiffin provided by the dabbawala. A color- To better endian rT rti there isa downside: Liat packets intermingle with society,” says Sambhaji, another dabbawala. We carn
+coded notation on the handle identifies its owner and iety ticks nn-eccuncle. Ak Vil eat - ™ eee other packets and if the network is overburdened, pack- more than many padha-likha graduates,” adds Khengle
+destination. Once the dabbawala has picked up the tif- four groups of d bai i = aa le Station, there are ets can collide with others, even get misdirected or lost smugly.
+fin, he moves fast using a combination of bicycles groups of dabbawalas, each has twenty members in cyberspace, and almost certainly not arrive on time. The proud owner of a BA (Hons) degree, Raghu-
+trains and his two feet. : and each member services 40 customers. That makes nath Meghe, president of MTBSA, is a rare graduate.
+A BBC crew filming dabbawalas in action was see EDD on, meee ofins have to be ol He hisenarh bail a ani but cou
+amazed at their speed. “Followin; Gee, eee ~ complete the course because of family problems.
+wasn’t easy, our ci crew quickly 1S Sur dab bawala cording to their destinations by 10.00 am when the ELEGANT LOGISTICS his three children, his daughter is a graduate working at
+gestion of the train station. At Victoria Terminus we Dabbawale Special ‘train exrives: ICICI, one son is a dabbawala and the younger son is
+found other fast moving dabbawalas, but not our sub- The Tailway provides sorting areas on platforms as In the dabbawalas’ elegant logistics system, using still studying.
+ject... and at Mr Bhapat’s ayurvedic pharmacy, the well as special compartments on trains traveling south 25 kms of public transport, 10 km of footwork and in- Education till standard seven is a minimum pre-
+lunch had arrived long before the film crew,” the doc- between 10.00 am and 11.30 am. volving multiple transfer points, mistakes rarely hap- _requisite. According to Meghe, “This system accom-
+ly During the journey, these 80 dabbawalas regroup pen. According to a Forbes 1998 article, one mistake modates those who didn’t or couldn’t finish their
+*Source: Case by Pradip Thakkar. Reproduced with permis- according to the number of tiffins to be delivered in a for every eight million deliveries is the norm. How do studies. It’s obvious that those who score good marks
+sion from ‘Hot Potatoes’, The Smart Manager, July Sep. particular area, and not according to the groups they they achieve at virtual six sigma quality with zero doc- _go for higher education and not to do this job, but we
+2002, Vol, 1, Issue 3. umentation? For one, the system limits the routing and have people who have studied up to standard twelve
+--- page 4 ---
+w—£
+
+it i C-381
+‘Case 10 | The Dabbawalas-Feeding Mumbai
+Part 3 | Additional Cases
+
+jobs.” . Financial profile
+
+_««'t find respectable jobs.” There are only two UILI YIN LIENT ‘ELE exhibit 2
+
+wate dabbawalas. B G A Cc £
+
+Apart from commitment and dedication, each 7 :
+dabbawala, like any businessman, has to bring some The ea) ote oo
+capital with him. The minimum investment is two bi- ages, especial han staff. and at ronieas They gen-
+cycles (approximately Rs 4000), 2 wooden crate for the erally tend to cs middle-class citizens who, for Teasons
+tiffins (Rs 500), at least one white cotton kurta-pyjama af és onomy, hygiene, caste and dietary restrictions i
+(Rs 600), and Rs 20 for the trademark Gandhi topi, simply because they prefer wholesome food from their
+kitchen, rely on the dabbawala to deliver a home
+
+cooked mid-day meal.
+COMPETITIVE
+
+New customers are generally acquired through re-
+ferrals. Some are solicited by dabbawalas on railway
+COLLABORATION platforms. Address are Passed on to the dabbawala op-
+
+erating in the specific area, who then visits the cus-
+MTBSA is a remarkably flat organization with just tomer to finalize arrangements. Today customers can
+
+three tiers: the governing council (president, vice pres- also log onto the website www.webrishi.com to access
+ident, general secretary, treasurer and nine directors), the service.
+
+the mukadams and the dabbawalas. Its first office was Service charges vary from Rs 150 to Rs 300 per
+at Grant Road. Today it has offices near most railway __ tiffin per month, depending on location and collection
+stations. Nobody is an employer and none are employ- time. Money is collected in the first week of every
+
+ees. Each dabbawala considers himself a shareholder month and remitted to the mukadam on the first Sun-
+and entrepreneur.
+
+Outflows (Rs) Inflows (Rs)
+
+Ifa customer complains of poor service, the asso- _developed their home grown version long before the
+day. ie | ciation can shift the customer’s account to another dab- — term. Bie ae of competitive collaboration is
+Surprisingly, MTBSA is a fairly recent entity: the He then divides the money equally among mem- 4 bawala. No dabbawala is allowed to undercut another. el 1, particularly in India. The operation
+Service is believed to have started in the 1880s but of- bers of that group. It is assumed that one dabbawala Before ooking into internal disputes, the association _ equally unusual don eat th paises end but united
+ficially registered itself only in 1968, Growth in mem- _°@N handle not more than 30-35 customers given that charges a token Rs 100 to ensure that only genuinely —_p fie d fives y end, ‘ensuring their survival since a cen-
+bership is organic and dependent on market conditions. ier oats catnaene een his is the bench aggrieved members interested in a solution ae _ rah _ oes Is their business model worth replicat-
+This decentralized organization assumed its current Typical 7 a be ° has 675 cus- with their problems, and the officials’ tim ing in the digital age is the big question.
+form in 1970, the most recent date of restructuring. Spiel’: @ twenty member group has eT ond wasted on petty bickering.
+Dabbawalas are divided into sub-groups of 15 to 25, Wet rip * Seton Der iin Sidi
+each supervised by four mukadams. Experienced old- while eotie tes 30 one jawata has 40 customers Ss
+colin ot ee r similiar with the colors and Groups compete with each other, but members EARNING:
+k 8 syste), npiex logistics process. cr within @ group do not. It’s common sense, points out Adi etitive
+ey responsibility is sorting tiffins but they play a crit- one dabbawala. Logistics is the new mantra for building comp:
+ical role in resolving disputes; maintaining records of ;
+
+. a One dabbawala could collect 40 tiffins in the |
+receipts and payments; acquiring new Customers; and
+
+wd ie 3 ~ same time that it takes another to collect 30. From his
+training junior dabbawalas on handling new customers
+on their first day.
+
+earnings of between Rs 5,000 to Rs 6,000, every dab-
+
+advantage, the world over. Mumbai’s dabbawalas
+
+a Lo . bawala contributes Rs 15 per month to the association.
+
+Each group is financially independent but coordi- The amount is utilized for the community’s upliftment,
+nates with others for deliveries: the service could not loans and marriage halls at concessional rates. All
+exist otherwise. The process is competitive at the cus-
+
+M problems are usually resolved by association officials
+tomers’ end and united at the delivery end. The whose rulings are binding.
+
+mukadams are also responsible for day-to-day func- Meetings are held office on the 15th of every
+tioning. And, more important, there is no organiza- month at Dadar. During these meetings, particular em- i
+tional structure, managerial layers or explicit control phasis is paid to customer service. If a tiffin is lost or 3
+mechanisms. The rationale behind the business model stolen, a investigation is promptly instituted. Cus- i
+is to push internal competitiveness, which means that tomers are allowed to deduct costs from any dab- \
+the four Vile Parle groups vie with each other to ac- bawala found guilty of sucha charge.
+quire new customers, .
+````
+
+## 2009-10 · Re-Exam · Trim 12 · paper 46bdabca120e
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/2009-2010 batch re exam(19).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 84.1
+
+````text
+~
+
+Mi
+
+SVK M’ S NMIMS
+
+Mukesh Patel School Of Technology Management &
+
+4" year MBA (Tech) : XII Trimester ‘Op
+
+Academic Year :::: 2009-2010 — ‘Bod LS
+
+Dakez$ v6 |r10 (Ree - Edam -200%-(9°)
+SUB ::::STRATEGIC _MANAGEMENT —
+
+Total Marks : 50 Time : 2 Hours _
+Instructions : CAS .o aw Tag |r. neon)
+J. Answer any FOUR questions.
+
+2. All Questions carry equal marks.
+3. Answers should be precise, pertinent and to the point.
+
+1. a) Explain Value creating & Value delivering process . Which distinct activities
+create Value in a Firm ?
+b) How do you manage Cusomer’s & Shareholder’s Value ?
+
+2. a) What strategies & framework will you follow for expansion to Global Business ?
+How to achieve success & reduce risk in International Market ?
+b) What are different forms & means of Diversification ?
+
+3. a) What is McKinsey Framework for Strategy Implementation ?
+b) What is role of Leadership & Culture ? How do'you manage internal
+Organisation for Strategy Implementation ?
+
+4. Consider that you are Manager , Corporate Planning of a FMCG Company (either
+Dabur India or Marico Ltd). Discuss in point form , step by step approach to
+devise & implement Strategic Plan for long , medium & short terms.
+
+5. Refer to Case Study on “ Dubbawalas—feeding Mumbai” and answer the
+Sollowing ::
+a) What strategies they follow to source Manpower; to achieve six Sigma Quality,
+to build clientele & achieve competitive collaboration ?
+b) What is the learning on Logistics & Organisation Structure from this Business
+Model ?
+
+CS we
+
+XK
+--- page 2 ---
+B Case 10 | The Dabbawalas-Feeding Mumbai C379
+a S e | 3 exbibit 1
+
+A igs forthe collection point
+he Da bbawalas— are:'VP for Vile Parle, C for Cooper
+eeding Mumbai*
+
+Hospital. Destination markings are 10
+
+Nariman Point), 9 is the dabbawala
+
+handling the destination area, M is Mittal
+vers fe 6th: pone,
+
+actually belong to. If 150 tiffins are to be delivered in sorting to a few central points. Secondly, a simple color
+the Grant Road Station area, then four people are as- code determines not only packet routing but packet pri-
+
+sty kya? What would you like: pizza from the local —_ umentary noted wryly. So, how do they work so effi- signed to that station, keeping in mind one person can _oritizing as lunches transfer from train to bicycle to
+
+ino’s (30 minute delivery) or a fresh, hot meal from ciently? carry no more than 35-40 tiffins. foot.
+2? Most managers don’t have a choice. It’s either a During’ the earlier sorting process, each dab-
+ed lunch or junk food from a fast food outlet. bawala would have concentrated on locating only those
+
+40 tiffins under his charge, wherever they come from, WHO ARE THE
+
+Unless you live in Mumbai, that is, where a small
+
+of ‘dabbawala’s' picks up 175,000 lunches from 2LEAM WORK AND
+
+esand delivers them (o harried students, managers. "TMT NG and this specialization makes the entre system eff 14 BIR AW AT AS ?
+Donon a ig Mier ne vo : Typically it takes about ten to fifteen minutes to
+. , . now cen 3 .
+van order even through the Internet. The entire system depends on team work and meticu- - search, assemble and elagr 40 tifins oe: & CH, Descendants of soldiers of the legendary Maharash
+Th i Tiffi . sort imi ‘ffi and by 12.30 pm they are delivered to offices. trian warrior-king Shivaji, dabbawalas belong to the
+¢ Mumbai Tiffin Box Suppliers Association lous timing. Tiffins are collected from homes between + 4 ive i A a
+‘ . aii & Ina way, MTBSA's system is like the Internet. The Malva caste, and arrive in Mumbai from places like
+BSA) is a streamlined 120 year old organization 7-00 am and 9.00 am, and taken to the nearest railway Internet relies on a concept called packet switching, In   Rajgurunagar, Akola, Ambegaon, Junnar and Maashi
+4,500 semi literate members providing a quality station. At various intermediary stations, they are relics om 2 OE ae ree nine “We believe in employ ; :
+to-door service to a large and loyal customer hauled onto platforms and sorted out for area-wise dis packet switched networks, voice or data files are sliced ‘We believe in employing people from our own com-
+tribution, so that a single tiffin could change hands |: into tiny sachets, each with its own coded address EN Sslative fom their village gaye Madina
+How has MTBSA managed to survive through __ three to four times in the course of its daily journey. a These packets re tie ferried in bursts, indepen-   dabbawala. , ,
+» tumultuous years? The answer lies in a twin At Mumbai’s downtown stations, the last link in PE dent of ie ackets and ‘ossibly takin; ‘ difteent “Farming ears a pittance, compelling us to move
+ess that combines competitive collaboration be- the chain, a final relay of dabbawalas fan out to the tif- orona th Te eurid anil i setts service ts « busine
+te: embers with a high level of A : ci ‘i zi a routes, across the country or the world, and re-assem- to the city, And the tiffin service is a business of repute
+a team mei with a high level of technical ef- fin’s destined bellies. Lunch hour over, the whole F i inati inc t ‘kin de ie. It’s
+ney in logistics management. It works like this. process moves into reverse and the tiffins retum t [ bled at their destination. _ ; since we are not working under anyone. It's our own
+After the customer leaves for work, her lunch is suburban homes by 6.00 p.m. i iD ; Packet switching maximizes network density, but business, we are partners, it coffers a higher status in
+ed into tiffin provided by the dabbawala. A color- To better under = ibe, L . - there is a downside: your packets intermingle with society,” says Sambhaji, another dabbawala. ‘We earn
+d notation on the handle identifies its owner and . © complex sorting process, other packets and if the network is overburdened, pack- more than many padha-likha graduates,” adds Khengle
+s . let’s take an example. At Vile Parle Station, there are llide with oth t misdirected or lost   smugl
+nation. Once the dabbawala has picked up the tif- f dab. ets can collide with others, even get misdirected or los| Bly.
+b fi i inati i four groups of dabbawalas, each has twenty members in cyberspace, and almost certainly not arrive on time. The proud owner of a BA (Hons) degree, Raghu-
+he moves fast using a combination of bicycles, j Pace, . .
+a and his two feet. and each member services 40 customers. That makes nath Meghe, president of MTBSA, is a rare graduate.
+A BBC crew filming dabbawalas in action was hia ty 9.00 an eerste prey tftins have {0 be ol He vente bea ie-adaeies aa but coulda
+sed at their speed. “Following our dabbawal. (UU am, reached the station and sor ac- q complete the course because of family problems.
+|'teasy, our film crew quickly jl ah him in heece cording to their destinations by 10.00 am when the ELEGANT LOGISTICS his three children, his daughter is a graduate working at
+on of the train station, At Victoria Terminus we >42bawala Special’ train arrives. : ICICI, one son is a dabbawala and the younger son is
+d other fast moving dabbawalas, but not our sub- The railway provides sorting areas on platforms as In the dabbawalas’ elegant logistics system, using still studying.
+. and at Mr Bhapat’s ayurvedic pharmacy, the well as special compartments on trains traveling south 25 kms of public transport, 10 km of footwork and in- Education till standard seven is a minimum pre-
+vhad arrived long before the film crew,” the doc.   Petween 10.00 am and 11.30 am. q volving multiple transfer points, mistakes rarely hap- _requisite. According to Meghe, “This system accom-
+' During the journey, these 80 dabbawalas regroup pen. According to a Forbes 1998 article, one mistake   modates those who didn't or couldn't finish their
+__ | ve: Case by Pradip Thakkar. Reproduced with permis- according to the number of tiffins to be delivered in a L for every eight million deliveries is the norm. How do studies. It's obvious that those who score good marks
+\, ‘om ‘Hot Potatoes’, The Smart Manager, July- Sep. particular area, and not according to the groups they they achieve at virtual six sigma quality with zero doc- go for higher education and not to do this job, but we
+\ A, Issue 3. umentation? For one, the system limits the routing and have people who have studied up to standard twelve
+. y ig peop! ip
+—— i
+
+)
+
+—_
+--- page 3 ---
+i i C-381
+Case 10 | The Dabbawalas—Feeding Mumbai
+C-380 Part 3 | Additional Cases
+
+; who couldn't find respectable jobs.” There are only two BUILDING A CLIENTELE
+= female dabbawalas. &
+Apart from commitment and dedication, each .
+dabbawala, like any businessman, has to bring some The shes rs f customers includes students (both college
+capital with him. The minimum investment is two bi. #4 schoo hase Sn es mi
+ages, especially Staff, and mill workers. They gen-
+cycles (approximately Rs 4000), a wooden crate for the . oye
+pin i : erally tend to be middle-class citizens who, for reasons
+ir ey tela he ua Ce nieces of economy, hygiene, caste and dietary restrictions or
+‘ PE. simply because they prefer wholesome food from their
+kitchen, rely on the dabbawala to deliver a home
+
+cooked mid-day meal.
+COMPETITIVE
+
+New customers are generally acquired through re-
+ferrals. Some are solicited by dabbawalas on railway
+COLLABORATION platforms. Address are Passed on to the dabbawala op-
+
+erating in the specific area, who then visits the cus-
+MTBSA is a remarkably flat organization with Just tomer to finalize arrangements, Today customers can
+
+three tiers: the governing council (president, vice pres- also log onto the website www.webrishi.com to access
+; ident, general secretary, treasurer and nine directors), the service.
+
+the mukadams and the dabbawalas. Its first office was Service charges vary from Rs 150 to Rs 300 per
+at Grant Road. Today it has offices near most railway __ tiffin per month, depending on location and collection
+stations. Nobody is an employer and none are employ- time. Money is collected in the first week of every
+
+ces. Each dabbawala considers himself a shareholder ‘month and remitted to the mukadam on the first Sun}
+and entrepreneur, id
+
+exhibit 2 Financial profile
+
+Outflows (Rs) Inflows (Rs)
+
+. i th
+Ifa customer complains of poor service, the asso- developed ial home grown version long before the
+acu: ined. ;
+day, iit i ‘saccount to another dab- term was coine a jon. is
+§ shift the customer's ac A titive collaboration
+Surprisingly, MTBSA is a fairly recent entity: the He then divides the money equally among mem- | sowie Ne dabbawala is allowed to undercut another. . wily conti, parole fs India, The operation
+Flay ge eve 19 have started inthe 1880s but of il ot rs 308 or met “ave tk re Before looking into Sterne nti oat y genuinely process is competitive at the customers’ end but united
+ticially registered itself only in 1968. Growth in mem- Sat ft wei nes nd 2 k ‘And this is the abe tf | charges a token Rs aed * ted ine ie 5 Seis to it at the delivery end, ensuring their survival since a cen-
+bership is organic and dependent on market conditions, wna th " ear op ti ahi ee een :: aggrieved members interested in seis” tne is not tury and more. Is their business model worth replicat-
+This decentralized organization assumed its current ‘a! ‘hua force pee has 675 cus 4 with their problems, and the officials ing in the digital age is the big question.
+: ing. . pa cieaendl F .d on petty bickering.
+pen ’ a eaeee pinaiaees = fopisin oe tomers and earns Rs 1,00,000 per month which is di- wasted on petty
+ares ue SUD-BrOups 0) Os vided equally even if one dabbawala has 40 customers
+each supervised by four mukadams. Experienced old- 7 <
+- nna while another has 30. f GS
+timers, the mukadams, are familiar with the colors and Groups compete with each other, but members < EARNIN
+codings used in the complex logistics process. Their Es P i" F
+
+ost « oe . within a group do not. It's common Sense, points out
+key responsibility is sorting tiffins but they play a crit- Eroup P
+
+one dabbawala Logistics is the new mantra for building competitive
+ical role in resolving disputes; maintaining records of .
+
+i's dabbawalas
+ini One dabbawala could collect 40 tiffins in the e advantage, the world over. Mumbai’s dai
+ai, Dis and payments; acquiring new customers; and same time that it takes another to collect 30. From his
+aa haBsunior dabbawalas on handling new customers carnings of between Rs 5,000 to Rs 6,000, every dab.
+\ on their first day.
+
+bawala contributes Rs 15 per month to the association.
+Each group is financially independent but coordi- The amount is utilized for the community's upliftment,
+nates with others for deliveries: the service could not Joans and marriage halls at concessional rates. All
+exist otherwise. The process is competitive at the cus- problems are usually resolved by association officials
+tomers’ end and united at the delivery end. The whose rulings are binding.
+mukadams are also responsible for day-to-day func- Meetings are held office on the 15th of every
+tioning. And, more important, there is no organiza- —_ month at Dadar. During these meetings, particular em-
+tional structure, managerial layers or explicit control phasis is paid to customer service. If a tiffin is lost or
+mechanisms. The rationale behind the business model Stolen, a investigation is promptly instituted. Cus-
+is to push internal competitiveness, which means that tomers are allowed to deduct costs from any dab-
+the four Vile Parle groups vie with each other to ac- bawala found guilty of such a charge,
+quire new customers.
+````
+
+## 2008-09 · Exam not stated · Trim 12 · paper fc0959a593aa
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/2008-2009(190).pdf` (+2 identical copies)
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+_#
+
+SVKM’S NMIMS UNIVERSITY ln Em any
+
+py
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & C EERING™
+
+NMI
+
+Subject: Strategic Management i
+- ST
+Date: 8 a! Y GG Time Allowed:
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. All questions are compulsory.
+2. All question carry equal marks i.e 10 each.
+3. Answer to each new question to be started on a fresh page.
+
+Part A:
+
+Q 1.1 to 1.10 : Multiple choice questions. Please select only 1 option. In the answer sheet,
+write only the sub- question no. and it’s appropriate option.
+
+1.1. is a marketing tool that allows management to examine the rate
+of industry growth and relative market share of company’s products.
+a The Managerial grid.
+b The BCG matrix.
+ce The GE nine cell matrix.
+d= Ansoff’s model.
+e. Balance Score Card
+
+1.2. refers to a cooperative business agreement between two of more firms
+that have similar objectives.
+a Merger
+
+b Acquisition.
+
+c Joint venture.
+
+d Horizontal Integration
+é Diversification
+
+1.3. In the Arthur D. Little’s approach , following are the two axes of the Matrix:
+(a) Company’s Market Share & Market Growth rate
+(b) Business Strength & industry attractiveness
+(c) Competitive strength & life cycle stage of industry
+(d) Opportunities & Risks
+(e) Business Sector Prospects & Company’s competitive abilities
+
+1.4 First Mover Disadvantages are:
+a. Obtaining regulatory approvals
+b. — Ensuring code compliance
+c. Educating buyers
+d. Building infrastructure
+e. All the above
+--- page 2 ---
+. ——_—<$F
+a
+me
+
+1.5 [fan automobile company limits the number of models, relies heavily on backward
+integration and automates its facilities, which strategy are they following ?
+a. Differentiation
+b Cost leadership
+ce Cost Focus
+d Differentiation Focus.
+e. Cost & Differentiation together
+
+1.6 The vision statement answers which question?
+(a) What is our business?
+(b) How can we improve ourselves?
+(c) What do we want to become?
+(d) Who are our stakeholders?
+(e) How can we increase profitability?
+
+1.7 Conglomerate diversification is
+a. Unrelated diversification
+b. Related diversification
+c.   Interrelated diversification
+d. Concentric diversification
+e. None of the above
+
+1.8 A firm’s infrastructure as part of value chain comes under
+a. Primary activities
+b. Basic activities
+c. Critical activities
+d. Non support activities
+e. Support activities
+
+1.9 A company can achieve superior customer responsiveness through
+a. rigid manufacturing schedules
+b. training employees to think like customers.
+c. standardizing the product.
+d. _ by increasing response time.
+e. Outsourcing
+
+1.10 The focus strategies will likely predominate when many small and medium sized local
+companies compete for relatively small shares of the total market in a(n)
+a. united industry.
+b. fragmented industry.
+c. consolidated industry.
+d. isolated industry.
+e. integrated industry.
+
+Part B : Conceptual Understanding, Analytical Ability
+
+Q.2 a) Answer precisely — how to plan strategy by addressing and reacting to each of the 5
+forces as per Porter’s model. (6)
+
+b) Define complementors, giving 2examples of complementary businesses. (2)
+Draw ‘Value Net’ diagram of Brandenburg and Nalebuff ( no explanation needed) (2)
+
+PTO
+--- page 3 ---
+Q3a) List down the nine critical tasks in strategic management function (5)
+
+b) What are the peculiarities of emerging industry for strategy planning and
+
+the externalities that need to be considered? (5)
+Q4a) What do you understand by Key Success Factors of an industry? (2)
+Why understanding of KSF is important for strategy formulation? (3)
+
+b) Outsourcing of some value chain activities traditionally performed in-house has become
+increasingly popular. Discuss the driving themes behind this trend, advantages and
+pitfalls of outsourcing. (5)
+
+Part C: Case Analysis
+
+Progressive Insurance Company developed a distinct strategy to concentrate on
+drivers who had a record of traffic violations — high risk category drivers whom most
+insurance companies fear to deal with. The Progressive Insurance Company found that
+these drivers are affluent, young, pressed for time and do not mind paying high
+premiums for their insurance cover.
+
+Progressive differentiated itself from others by expediting the process of settling
+insurance claims for its customers by appointing travelling insurance adjusters who
+settled claims on the spot. The company also found that such accident prone drivers
+are not very risky as they discovered that they rarely used their vehicles for day to day
+work and used them only during weekends for recreational trips.
+
+The streamlined approach of Progressive Insurance Company made it a market
+leader in this niche market segment.
+
+Q.5 a= How does Progressive’s choice of strategy differentiate it from other insurance cos. ?
+
+b - Which exact strategy (of the 3 generic strategies of Porter) is adopted by Progressive
+Insurance Co. above? What are the risks associated with such a strategy?
+
+seoeee ceseceeeseeeeeeeee End of Q. Paper
+````
+
+## 2008-09 · Exam not stated · Trim 14 · paper fe4af06cb153
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/STRATEGIC MANAGEMENT/2008-2009(152).pdf`
+- Text: ocr (1 page), mean OCR confidence 84.1
+
+````text
+oe
+
+S
+
+5 svKurs, \*
+= NMIMe Un versity )
+x Mumbai - 56. )=
+eA =
+oA LIBRARY =
+
+\
+
+SVKM’s NMIMS University
+
+Mukesh Patel School of Technology Management & Engineeri
+Strategic Management 2A TECH Vv YEAR TRIMES
+
+/
+
+Dat: 24-01-08 Dorathen® QHRS
+
+Answer Any three questions i Ime” 1Q-00 em fo 2 top nm
+
+1. What are the contributions of Minzerg, Garry Hammel and Porter in the Field of
+Management.
+
+2. What is PESTLE Analysis. Discuss this with examples.
+
+3. What are the five competitive Generic strategies. Explain the different strategies
+with suitable examples.
+
+4. What are the different functional strategies adopted by companies to keep their
+organizations competitive.
+
+5. Strategy Implementation. What are the issues involved in implementation of
+strategy.
+
+6. How Information and Control systems are useful for implementation of strategies.
+
+=
+
+x
+````
+
+## 2008-09 · Re-Exam · Trim 12 · paper 8d67d7d83e6c
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Industrial marketing/2008-2009 re exam(90).pdf` (+1 identical copies)
+- Text: ocr (4 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS UNIVERSITY on sae
+IF a» 2 V0)
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & 9 ~\ »~
+ENGINEERING
+
+MUMBAI / S33RFGR—
+MBA (Tech) Programme IV Year , XII Trimester, 2
+Subject: Strategic Management i
+Date: 1b-06-0 G Time Allowed: ~
+
+instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. All questions are compulsory.
+2. All question carry equal marks ic t@-each.
+3. Answer to each new question to be started on a fresh page.
+
+Q 1.1 to 1.10 : Multiple choice questions. Please select only 1 option. In the answer sheet,
+write only the sub- question no. and it’s appropriate option.
+
+i. At what stage is the threat from competitors at its peak in an industry?
+
+a Introduction
+
+b. Growth stage.
+
+c Maturity stage.
+d Shakeout stage
+e Re-launch Stage
+
+1.2 describe its products, market and technological areas of thrust and reflects
+the values and priorities of the strategic decision maker.
+
+a. A company’s profile.
+
+b. A company’s mission.
+
+c. A company’s objectives.
+
+d. Acompany’s policy.
+
+e. Acompany’s corporate strategy
+
+1,3. Which marketing tool uses multiple factors to assess industry attractiveness.and
+business strength?
+
+a. The GE Grid
+
+b. = The BCG matrix.
+
+c. The Turnaround strategy.
+d. SWOT analysis.
+
+e. Ansoff’s Matrix
+
+i.4 What is the main difference between cost leadership, differentiation, and focus
+strategies?
+
+a. Cost leadership and differentiation are highly expensive strategies, whereas
+
+focus is a low cost strategy.
+--- page 2 ---
+b Cost leadership and differentiation focus on one particular market segment,
+whereas a focus strategy concentrates on all the market segments.
+
+¢. Cost leadership and differentiation are aimed at the total industry; whereas a
+focus strategy is aimed at a particular target market.
+
+d Cost leadership and differentiation are company specific, whereas focus is
+industry specific.
+
+e. Focus aims at global market, whereas the other two aim for regional markets
+
+1.5 Technological transfer, market sharing and investment sharing are seen in -
+
+1.6
+
+1.7
+
+1.8
+
+1.9
+
+a Acquisitions.
+
+b Management contracts.
+c Turnkey operations.
+
+d Divestiture
+
+e. Joint ventures.
+
+Who develops the short range objectives and strategies for production, operation,
+marketing etc?
+
+a Corporate level managers.
+
+b Business level managers.
+
+c Functional level managers
+d= Multi-business level managers
+e. Consultants
+
+In comparison with the Corporate Level decisions, the functional level decisions
+
+are relatively
+(a) Short range plan, with high risk
+(b) Short range plan, with low risk
+(c) Long range plan, with high risk
+(d) Long range plan, with low risk
+(e) Medium range plan, with no risk
+
+Costs incurred by customers, when they change the present supplier and buy from a
+new supplier is called as -
+
+a. Shift over costs
+
+b, Change over costs
+c. New supplier costs
+d. Switching costs
+
+e. None of the above
+
+Indian oil integrated from refilling, packing and bottling, to marketing and
+distribution. This integration is called
+
+a.Concentric integration
+
+b. Conglomerate integration
+c. Horizontal integration
+
+d. Vertical forward integration
+e. Vertical backward integration
+
+PTO
+--- page 3 ---
+—~ 2
+
+1.10 Following is not a desirable strategy for an established firm in declining industry
+a. Maintain leadership vis-a-vis competitors
+b. Invest in expansion
+c. Build position in a Niche segment that is stable
+d. Harvest
+€. Quickly divest
+
+Part B-
+Q.2 To achieve competitive advantage via cost leadership, strategists examine the
+Business value chain for low cost leadership advantages
+a) What are the advantages of Low cost strategy (3)
+b) What are the key risks involved with a low cost strategy (3)
+c) Draw the value chain for a company’s low cost strategy indicating the value
+
+creating activities and explain 4
+
+Q.3 Analyze the competitive position of your Business school in the market for
+business education. Then answer the following questions:
+
+a) Does your business school have a competitive advantage? If yes, what is that?
+
+If no, identify the inhibiting factors (5)
+b) Does the internet pose a threat to the competitive position of your School or is it
+an opportunity to enhance its competitive position? (5)
+QA Write short Notes on any two; (2X5)
+
+a) GE Nine cell Matrix
+b) Difference between Taper Integration, Quasi Integration and Joint Venture
+¢) Strategies adopted by the top 100 companies in the RDEs ( and 21 Indian
+
+companies ) to become global
+
+PTO
+--- page 4 ---
+——_4y —
+Part C
+
+Following is the Credo Statement adopted by a leading healthcare company. Please
+read it and answer the questions below suitably.
+
+Our Credo
+
+We believe our first responsibility is to the doctors, nurses and patients, to
+mothers and fathers and all others who use our products and services. In meeting their
+needs everything we do must be of high quality.
+
+We must constantly strive to reduce our costs in order to maintain reasonable
+prices. Customer’s orders must be serviced promptly and accurately. Our suppliers and
+distributors must have an opportunity to make a fair profit.
+
+We are responsible to our employees, the men and women who work with us
+throughout the world. Everyone must be considered as an individual. We must respect
+their dignity and recognize their merit. They must have a sense of security in their jobs.
+Compensation must be fair and adequate, and working conditions clean, orderly and safe.
+
+We must be mindful of ways to help our employees fulfill their family
+responsibilities. Employees must feel free to make suggestions and complaints. There
+must be equal opportunity for employment, development and advancement for those
+qualified.
+
+We must provide competent management, and their actions must be just and
+ethical. We are responsible to the communities in which we live and work and to the
+world community as well.
+
+We must be good citizens — support good works and charities and bear our fair
+share of taxes. We must encourage civic improvements and better health and education.
+‘We must maintain in good order the property we are privileged to use, protecting the
+environment and natural resources.
+
+Our final responsibility is to our stockholders. Business must make a sound
+profit. We must experiment with new ideas. Research must be carried on, innovative
+programs developed and mistakes paid for. New equipment must be purchased, new
+facilities provided and new products launched.
+
+Reserves must be created to provide for adverse times. When we operate
+according to these principles, the stockholders should realize a fair return.
+
+Q3a. On the test criteria of Mission Statement, does this Credo fulfil the requirements,
+according to you? Discuss in brief (4)
+
+b. Based on the directives given in this credo, can you suggest 2 strategies each in the
+area of — marketing, finance and operations? (6)
+
+~—
+
+ae
+````
+
+## 2008-09 · Re-Exam · Trim 14 · paper 88d2082f9f92
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/STRATEGIC MANAGEMENT/2008-2009 re exam(79).pdf`
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS University
+
+Mukesh Patel School of Technology Management & Enginesring
+
+Strategic Management Mme Pr le ch a Yeo. Th fam ZA) len KYW, Vv
+— Re -exaniroher
+
+Management.
+
+2. Select an Industry of your choice and do an Environmental appraisal for the
+industry.
+
+3. What are the Steps involved in Strategic Planning. Explain the process of strategic
+planning in an enterprise.
+
+4. What is a Business level Strategy. Discuss this with examples. .
+
+5. Putting Strategy into action. What are the issues involved. Discuss these issues in
+an organsiational context.
+
+6. Global Strategies. What are the different options available for an organization for
+
+expanding in global markets. Discuss these options.
+
+|
+
+x :
+````
+
+## Year not stated · Exam not stated · Sem 10 · paper 208412d81210
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/STRATEGIC MANAGEMENT/Strategic Management.pdf`
+- Text: ocr (2 pages), mean OCR confidence 86.4
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT CAN
+
+BN ib
+
+Program/s: MBA Tech__ Year: _V_ Semester—X
+Stream/s ;_All_
+
+Subject: _Strategic Management_ Time: _2_ hrs (lozooamto 12 noo
+
+Date:_25 /4 / 2024 No. of Pages:_2_
+Marks: 50_
+
+Final Examination,
+
+Instructions: Candidates should read carefully tne instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Write Short notes on: [10]
+CO- 1; SO-;
+BL- a. Business Model Elements: The Profit Formula [2.5]
+Understan
+CO- 1; SO-;
+BL- b. Balanced scorecard (2.5]
+Understan
+CO- 1; SO-; r=
+- . Competitive Pressures from the Sellers of Substitute Products (2.5]
+BL. pi
+Understan
+CO- 1; SO- ; d a . .
+BL- . Three Tests for Building Shareholder Value through Diversification [2.5]
+Understan
+A) Discuss. Is a company's strategy partly proactive and partly reactive?
+Q2 [5]
+CO-1; SO-; B) List and briefly discuss obligations of a company's board of directors in [10]
+BL- corporate governance and the strategy-making, strategy-executing
+Understand process. [5]
+As an advisor to an auto company making cars with IC engines, evaluate the
+3 impact of driving forces of change in the industry (list all the forces and
+Pp & [10]
+CO-3; SO-; evaluate the impact for each of them).
+BL- Evaluate
+
+1 OF 2
+--- page 2 ---
+Q4 Analyse the Strategic Options for Remedying a Cost or Value Disadvantage in
+
+-S0-: [10]
+CO-2; SO-; the value chain of a loss making company in Pharmaceutical Industry. ‘
+BL- Analyze .
+i!
+A) Describe when a Focused (Low-Cost «:r Focused Differentiation Strategy) Is
+Attractive?
+5
+Q [5]
+a SO-; B) Explain what are the Risks of a Focused Low-Cost or Focused [10]
+Understand Differentiation Strategy?
+[5]
+Q6 Tata motors is one of the early movers in the EV car sector. Analyze the first [10]
+CO-2; SO; mover’s advantages and pitfall Tata Motors could have faced. ”
+BL- Analyze
+Q7 ;
+Explain how do you use Rewards and Incentives to Promote Better Strategy
+oe SO-; Execution, including Nonmonetary Approaches to Enhancing Motivation? [10]
+Understand
+
+2 OF 2
+````

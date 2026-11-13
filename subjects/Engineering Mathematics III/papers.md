@@ -1,0 +1,8505 @@
+# Engineering Mathematics III: question papers in full
+
+59 unique papers · 2013-14 to 2019-20 · Mechanical, Information Technology, Civil, Common (all branches), Electronics and Telecommunication, Computer Engineering, Mechatronics, Electrical, Chemical
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Final + Re-Exam · Sem 5 · paper 26ec4081db07
+
+- Departments: Civil, Mechanical
+- Programmes: B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_05/ENGINEERING MATHEMATICS III/Engineering Mathematics III 2019-20 Final Batch 2017-18 ,2018-19 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: exam date: 06 November 2019
+- Text: ocr (2 pages), mean OCR confidence 76.4
+
+````text
+SVKM’s NMIMS_
+4MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (Computer / Civil /Mechanical) Year: iM Semester: V
+a
+PAGE OF —
+E70 say
+
+coats
+
+anlations}.
+
+Academic Year: 2019-20
+Subject: Engineering Mathematics - III —
+
+Date: 06 November 2019 Pa
+
+Instructions: Candidates should read —— the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1
+8 -8 -2
+a) IfA=|4 -3 —2| then find Eigen values of64'+4°+2I. (3)
+3 -4 |
+b) Find Laplace Transform of 49? +sin3¢+e” +cosh 61. (3)
+c) Find the Fourier series for f(x)=x° in [-a,z], (4)
+ag ot] | 4)
+S°+25+2 |
+Q2 ‘
+a
+eo =
+a) If A=| “J, find cos A. (4)
+a
+QO —
+L 2
+b) Show that the matrix A is diagonalizable. Find the transforming matrix and the diagonal
+4 2 -2
+matrix, whereA=|-5 3 2 |. (5)
+—2 4 1
+c) Find Characteristic equation of matrix A and hence find the matrix represented by
+fl 3.7
+A’ -4A° - 204 -344* -44 -204? -33A4] whereA=|4 2 3). (5)
+1 2 01
+
+Vo
+--- page 2 ---
+Q.3
+
+i«
+
+a) 1 ees 31 at|. (4)
+0
+b) Find £'] ——“——_ |. (5)
+(s+1)(s—2)
+i 1 O<t<a
+c) Find Laplace Transform of f(t) = , where f(¢+2a) = f(t) (5)
+-l a<t<2a
+Q.4
+a) Find Laplace Transform of e‘t’ sin 4r. (4)
+2 +2
+b) Prove that, fe Sit at =“ logs , using Laplace Transform. (5)
+. 7 t
+c) Find the inverse Laplace transforms, using convolution theorem =: (5)
+: (s? +1)
+Q5
+a) Reduce 8x, +7x, + 3x,” —12x,x, +4x,x, —8x,x, into canonical form by orthogonal
+transformation. State rank, index, signature & nature of quadratic form. (7)
+2
+b) Solve re 4B 8y=1; (0) =0, y'(0)=1, using Laplace Transform. (7)
+Q.6
+a) Find half range cosine series for f(x) =x in (0,2).
+1 1.1 x
+Hence deduce that —+—+—14....... =—, i)
+" e358 96 2
+‘ - : -T, = m<x<0
+b) Find the Fourier series for f(x) = ‘“s
+%, O<x<z
+Hence, deduce that a -_s + = + = + (7)
+, Bae get ge Pan
+Q.7
+2, -2 0
+a) Find the Fourier series for f(x) =4 7” cee (7)
+x, O<x<2
+b) Find the Fourier series for f(x) =e" ,0<x<2z. (7)
+
+a
+````
+
+## 2019-20 · Final-Exam · Sem 3 · paper 3dc49846bb25
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/MATHEMATICS-III (ALL STREAMS), 2019-20 FINAL EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 14 November 20
+- Text: ocr (5 pages), mean OCR confidence 72.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ay
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (Civil) — Year: II Semester: III
+
+Academic Year: 2019-20
+
+Subject: Mathematics -III
+
+Date: 14 November 20 19
+
+Final Examination (2019-20) ee
+
+ef) g
+Ss. tts mE
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In-all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q.1.. (a) Choose the correct alternative in each of the following questions. (10)
+
+i. ” 7 fae
+“Thr +1) -_ T(n +1)
+
+r we \ n> 1 defined *s a. ry b. T(nk", c
+
+ii. The Laplace transform of Heaviside’s Unit function given by”
+
+-as
+
+e
+
+as
+
+7 2 -
+Cc. Se d.s‘e®
+
+u(t—a) or H(t-a) is , b.
+s s
+
+iii. a
+a The Laplace transform of =m is a. fl x) OTS 5
+t s(s re ) (s? +a”)
+
+C. log(s? + a’) d. does not exist
+
+iv a, 0
+The value of foosmx cosnxdx form=nis a. 5 b. r cad. 1
+
+Bid
+
+v. ; [-2,-2<x<0 :
+The function f(x)= is a.even function
+J J
+\z O0<x<2
+
+b.odd function c neither even nor odd d.even and odd both
+--- page 2 ---
+vi.
+
+vii.
+
+viii
+
+ix.
+
+(b)
+
+The second central moment for a given probability distribution is
+
+alwaysa.0 61 c. Ly! — (uF dip) mA |
+The ratio Yar 1ONCE) sa for Poissonisa.g b.0 cl/q dil
+
+The formula for Fourier Sine Integral is
+
+a. f(x) 2 jsinae| 7) s) Sinas dads
+
+b. f(x) == |com| f(s) Sinas dads
+
+ce f(x) =7 |cosm| 1 f(s) Cosas dads
+
+_d. ft) == | sna 9 s)Cosasda ds
+
+Complex form of Fourier Series for function f(x) in [-z,7] is given
+
+by
+a f(x)= yc, Sin nx b. f(x)= yC.e
+= Ce" d. f(x)= 5. C,Cos nx
+The Fourier co-efficient b, for f(x) =x in the interval (0,27) is
+
+a.0 b.1 ¢.-1d.-2
+
+Match the correct pairs (2x5)
+
+fe 1-costw
+
+is sinwx dw with O0<x<m a. b, +0
+
+ii, = La om
+iv. L441} dq SES
+s
+v. Second Raw Moment e. O(t)
+f.b,;, =0
+T
+85
+
+2)
+
+(10)
+--- page 3 ---
+. Q2
+
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+(b)
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+Evaluate | °° 44605 oy
+0 te
+Find L! oe
+(s _ 1) (s +2)
+tase O<!<4 and (d= f(e+2a) Find LEA}
+-la<t<2a :
+Find Fourier Series Expansion of f(x) =x —x? in -n<x<q1
+
+Find a half range cosine series of f(x) = sinxin0<x<a
+
+2
+Obtain Fourier expansion of f(x) = =) in 0<x<2n, period =
+
+21
+
+2
+_ 1,1,1
+Hence deduce i. —-=>+ ++
+
+6 ? = ge 32
+
+1—x’, for |x| <1
+
+Using Fourier Cosine Integral prove that f (x) = { 0, for |x| >1
+
+—x2
+Find the Fourier Transform of f(x) =e 2—
+
+Solve the differential equation by Fourier Transform
+
+dy 41
+2 ay=e“H(t
+ate ()
+
+In a certain factory turning out blades, there is a small chance 1/500 for
+any blade to be defective. The blades are supplied in packets of 10, use
+Poisson distribution to calculate the approximate number of packets
+containing i. No defective ii. One defective iti. Two defectives.
+
+Out of 800 families with 5 Children each, how many would you expect
+
+to have i. 3 boys and 2 girls ii. 5 girls iii. 5 boys
+
+A continuous random variable has the probability density function
+f(x) = 6(x — x”) ,0 < x <1. Find it’s mean, variance, median and
+mode.
+
+x, forO<x<l
+
+Find Fourier Series for f(x) = to =g, for l<x <2
+
+ay
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+(6)
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+--- page 4 ---
+Q.7
+
+(b)
+
+(c)
+
+(a)
+(b)
+
+(c)
+
+0, for-—c<x<0
+
+in a fourier series of period 2c
+a, for0<x<c P
+
+Expand f(x) = {
+
+. , . —n, for-~-t<x <0
+10) r f f(x) = ta
+btain Fourier expansion of f (x) { x, ford0<x<n °S te
+1 a
+
+the value of f(x) at x = 0. Hence deduce that y+ ==
+n=l (2n - iy 8
+
+Find the Finite Fourier cosine transform of f(x) = 2x, 0< x <4.
+
+The marks obtained by students in a certain exam follow normal
+distribution with mean 45 and standard deviation 10. If 1000 students
+
+appeared at an examination, calculate the number of students scoring i.
+
+Less than 40 marks ii. More than 60 marks.
+
+* Solve using Laplace (D? — 2D? + 5D)y = 0
+
+with y(0) = 0,y'(0) =0, y"(0) =1
+
+ifs
+
+(6)
+
+(8)
+
+(6)
+(6)
+
+(8)
+--- page 5 ---
+Standard Normal (Z) Table
+Area between 0 and z
+
+0.06 | 0.07
+(0.0279 0.0319 0.0359
+
+(0.0675 0. jor 0753
+
+0080 - “|0.0120 10-0160 0.0199 (0.0239
+
+(0.1368 0.1406
+(0.1736 “0a7r2 (0.1808 0.1844 0.1879
+
+0. 2157 (0.2190 (0.2224
+
+2088 0.2123
+2422 (0.2454
+
+5 03a
+
+0. 3554 ;
+
+03665 (0.3686
+: 037 0.4015 _
+
+(0.4292 0.4306 oon
+(0.4418 “0.4429 0.4441
+
+A484 0.4495 | (0.4505 10.4515, (0.4525 (0.4535
+
+4582 0.4591 0.4509 0.4608 0.4616 0.4625 9.4633
+(0.4693 0.4699 0.4706
+10.4756 0.4761 (0.4767
+
+0. 4664 | 0. 4671 0, 4678 0. A686
+
+“19 04713 0.4719
+
+20 - a 04778 "(0.4808 0.4812 0.4817
+(04850 0. 4354 04857
+
+(0.4884 0.4887 0.4890
+
+y 0.4911 0.4913.
+
+0.4932 0.4934 | 0.4936
+
+0.4925 0.4927 0.4929 0.4931
+4941 0.49430. 4945 (0.4946 (0.49048 0.4949 0.4951 0.4952
+| 0.4961 0.4962 0.4963 0.4964
+0.4971 “0 4972 0.4973 0. 4974 —_
+
+"0.4979 0.4979 0. 4980 ~~
+
+an 0.4918 0.4920
+(o4oas | 0.4940
+
+0.4956 0.4957
+
+| ra "(0.4965 “Toa 4966 0.4967 0.
+
+2.8 (04974 0.4975 0.4976 0.4977
+4982 0.4983 (0.4984 0.4984 “0.4985 (0.4985.
+
+2.9 0.4981 0.4982.
+(3.0 (0.4987 0.4987
+
+A988 (0.4989 10: 4989 (0.4989
+
+4987 0.4988
+````
+
+## 2019-20 · Final-Exam · Sem 3 · paper 1e8af3840849
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/ENGINEERING MATHEMATICS III/Engineering mathematics-III,Final 2019-20.pdf` (+1 identical copies)
+- Printed on paper: exam date: 05 November 2019
+- Text: ocr (8 pages), mean OCR confidence 87.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (IT) - Year: Il ~ Semester: I
+
+- Academic Year: 2019-20
+Subject: Engineering Mathematics - III ~
+
+Date: 05 November 2019 Time: 2 .
+#8 (Hrs)i BRARY
+
+OO :
+fon -13.00 pHi ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. ,
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1a) i) Which central moments is known as Variance @
+a) A, b) 4, c) 4,' d) None of these
+ii) Let X bea continuous random variable with probability distribution (
+x
+= <x<
+poste” 9" aentie wtusof Be s
+0 otherwise
+-1
+
+a) DP b) 3 c) 5 d) None of these
+
+iii) | The joint probability distribution of XY and Y is given by @
+
+15e3*? x>0,y>0
+f(x) ( elsewhere
+a) Se” b) 3e°* ~~ c) 3e°” ~— d) None of these
+iv) Ifarandomarandom variable X follows Poisson distribution such that (1) im
+P(X =1) =4P(X = 2)then mean of the distribution is
+a)2b)jil c) 1/2 d) None of these
+v) Write down the normal equations of the line y=a+bx (Dp
+
+then marginal distribution of X is
+--- page 2 ---
+vi)   Froma pack of cards two cards are drawn. What is the probability that both are m6)
+
+black.
+25 1 13 25
+vii) Mean of exponential distribution is (1)
+a) A b) “ c) a d) None of these
+viii) Conditional function of Y given Xie. f(y|x) is (1)
+£@Y yy LH” £0)   g £&)
+i) £0) 2 Fa 9? Fen
+
+ix) If the two lines of regression are x+3y=5 and 4x+3y=8then the coefficient of ()
+
+correlation is 0.5
+a) False - b) True
+
+x) | When sample size is greater than 30 to compare means, we use (¢3)
+a) F-test —_b) t-test c) Z-test d) 7’ -test
+b), Match the following (10)
+
+A) | A bag contains 8 white and 6 red balls. What is the ~. 7
+probability of drawing 2 balls of same colour 7
+
+B) x ii) 43
+91
+
+—, 0 3
+If f(x)=4 9° <*S° then P(i<x<2) is
+0, otherwise
+C) | The joint probability distribution is given by rs 1
+P(X =x,Y =y)=k(4x+3y); x=1,2;y=12 then the 4
+value of k is
+D) | If mean of Binomial distribution is 4 and variance is 3 .
+then value of p is iv) 42
+E) | Equation of line x on yis vy) x-x=bxy(y-y)
+
+vi) y-y=byx(x-3x)
+
+(6)
+Q.2 (a) From a group of 3 Indians, 4 Sri Lankans and 5 Americans, a sub-committee of 4
+peoples is selected by lots. Find the probability that the sub-committee will consist of
+i) 2 Indians and 2 Sri Lankans ii) 1 Indian, 1 Sri Lankan and 2 Americans iii) 4
+Americans
+(b) There are 40 girls and 20 boys in a class. 8 students of this class of which 3 were girls (6)
+formed a Violin club. (i) Given that a student of this class does not play violin, what
+is the probability that the student is a boy? (ii) Given that the student is girl, what is
+the probability she plays violin?
+--- page 3 ---
+Q.3
+
+Q.4
+
+Q.5
+
+(c)
+
+(a)
+
+(b)
+
+(©)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+©)
+
+A random variable X has following probability function
+xX O};t {2 }3 |4 45 6
+
+P(X =x) | k | 3k |5k |) 7k \9k | 11k | 13k
+Find k, P(X <4) and P(3 < X <6). Also find Mean and Variance
+
+Between the hrs of 2 to 4 PM the average no. of phone calls per minute is coming
+into switch board of a company is 2.5. Find probability that during a particular
+minute there will be i) no phone call ii) 4 or less calls iii) more than 6 calls.
+
+The first four moments of the distribution about the value 5 are 2, 20, 40 and 50. Find
+the mean and the first four central moments. Also find the coefficient of skewness
+and coefficient of kurtosis.
+
+Marks obtained by 10 students in Economics and Statistics are given below
+
+Marks in Economics (X) | 25 | 28 | 35 | 32 | 31 | 36 | 29 | 38 | 34 | 32
+Marks in Statistics (Y) | 43 | 46 | 49 | 41 | 36 | 32 | 31 | 30 | 33 | 39
+
+Find i) coefficient of correlation ii) The regression Y on X iii) Estimate the marks in
+Statistics when the marks in Economics is 30.
+
+A sample of 50 pieces of certain type of string was tested. The mean breaking
+strength turned out to be 14.5 pounds. Test whether the sample from a batch of a
+string having strength of 15.6 pounds and standard deviation of 2.2 pounds.
+
+In arandom sample of 500 persons from Maharashtra 250 are found to be consumers
+of vegetable oil. In another sample of 400 persons from Gujarat, 220 are found to be
+consumers of vegetable oil. Discuss whether the data reveal a significant difference.
+Fit a second degree curve to the following data. Also find y at x=6.5
+
+x |) 0 1 21/3/4)5|6/7).8
+
+Y | 12.0 | 10.5 | 10.0 | 8.0 | 7.0 | 8.0 | 7.5 | 8.5 | 9.0
+
+300 digits were chosen at random from a table of random numbers. The frequency of
+the digits was as follows:
+Digt |0 |1 |2 |3 |4 |5 |6 |7 |8 19
+
+Frequency | 28 | 29 | 33 | 31 | 26 | 35 | 32 | 30 | 31 | 25
+Using 7’ -test examine the hypothesis that the digits were distributed in equal
+
+numbers in the table.
+Two samples are drawn from two normal populations. From the following data test
+whether the two samples have same variance at 2% level.
+
+Sample 1 | 60 | 65 | 71 | 74 | 76 | 82 | 85 | 87
+
+Sample 2 | 61 | 66 | 67 | 85 | 78 | 63 | 85 all 88 | 91
+The marks obtained by a group of 9 regular course students and another group of 11
+
+(8)
+
+(6)
+
+©
+
+(8)
+
+(6)
+
+(6)
+
+8)
+
+(6)
+
+(6)
+
+8)
+--- page 4 ---
+Q.6
+
+Q.7
+
+(a)
+
+(b)
+
+(©)
+
+(a)
+
+(b)
+
+(c)
+
+part time students in a test are given below:
+Regular | 56 | 62) 63 | 54} 60 | 51 67 | 69 | 58
+
+Part time | 62 | 70 | 71 | 62 | 60 | 56 | 75 | 64 | 72 | 68 | 66
+Examine whether the marks obtained by regular students and part time students differ
+significantly at 5% level.
+
+The joint probability density function of random variable is given by
+t
+f (x, y)=48
+
+0 otherwise
+and Y. ii) Are X and Y independent? iii) Find VA and r( ¥,
+
+One factory F; produces 1000 articles, 20 of them being defective products, second
+factory F, produces 4000 articles, 40 of them are defective and third factory F,
+produces 5000 articles 50 of them being defective. All these articles are put in one
+stock pile. One of them is chosen and is found to be defective. What is the probability
+that it is from factory F,?
+
+If the heights of 500 students is normally distributed with mean 68 inches and
+standard deviation 4 inches, estimate the number of students having heights i)
+greater than 72 inches ii) less than 62 inches iti) between 65 and 71 inches.
+
+-O<y<2
+(x+y), 0<<2; 0<y<2 5.4 :) Marginal density function of X
+
+a) Arandom variable X has following pdf
+I
+
+x 1 3. {5
+deme DAL AP AEs
+By using Chebyshev’s Inequality prove that P {x - 3| 2 1 < 8
+An experiment of drowning a random card from an ordinary playing cards deck is
+
+done with replacement it back. This was done 10 times. Find the probability getting 2
+
+spades, 3 diamonds, 3 club and 2 hearts.
+A garage has recorded the following faults in cars of four makes over a period of
+
+time.
+
+Nature of fault
+Make | Mech | Electrical | Chasis
+A 32 26 12
+B 60 54 22
+iC 52 38 16
+D 28 25 12
+
+Using y’-test can you say the type of fault is independent of the make of the car?
+
+48
+
+©)
+
+(6)
+
+8)
+
+(6)
+
+(6)
+
+(8)
+--- page 5 ---
+STATISTICAL TABLES
+
+Taste A.2
+4 t Distribution: Critical. Values of t
+Significance level
+Degrees'of   Two-tailed test: 10% 5% 2% 1% 0.2% 0.1%
+freedom One-tailed test: 5% 25% 1% 0:5% 0.1%. 0.05%
+i 6.314 12.706 31.821 63.657 318.309 636.619
+2 2920 4.303 6.965 9.925 22.327 31.599
+3 2.353 3.182 4541 5.841 10.215 12.924
+4 2.132 2.776 3.747 4.604 TATB 8.610
+5 2.015 2.571 3.365 4.032 5.893 6.869
+6 1.943 2447 3.143 3.707 5,208 $.959
+7 1.894 2.365 2.998 3.499 4.785 5.408
+8 1.860 2.306 2.896 3.355 4501 5.041
+9 1.833 2.262 2.821 3.250 4.297 4.781
+10 1.812 2.228 2.764 3.169 4.144 4.587
+cet 1.796 2.201 2.7418 3.106 4.025 4.437
+12 1.782 2.179 2.681 3.055 3.930 4.318
+13 L771 2.160 2.650 3.012 3.852 4.221
+14 1.761 2.145 2.624 2.977 3.787 4.140
+15 1.753 2.131 2.602 2.947 3.733 4.073
+16 . 1.746 2.120 2.583 2.921 3.686 4.015
+17 1.749 2.110 2.567 2.898 3.646 3,965
+18 1.734 2.101 2.552 2.878 3.610 3.922
+19. 1.729 2.093 2.539 2.861 3.579 3.883
+20 1.725 2.086 2.528 2845 3.552 3.850
+21 1.721 2:080 2518 2.831 3.527 3.819
+22 1.717 2.074 2.508 2.819 3.505 3.792
+23 L744 2.069 2:500. 2.807 3.485 3.768
+24 1711 2.064 2.492 2.797 3:467 3.745
+25 1.708 2.060 2.485 2.787 3.450 3.725
+26 1.706 2.056 2.479 2.479 3.435 3.707
+27 1.703 2.052 2.473 2.771 3.421 3.690
+28 1.701 2.048 2,467 2.763 3.408 3.674
+29 : 1.699 2.045 2.462 2.756 3.396 3.659
+30 1.697 2.042 2.457 2.750 3.385 3.646
+32 1.694 2.037 2.449 2.738 3.365 3.622
+34 1.691 2.032 2.441 2.728 3.348 3.601
+36 1.688 2.028 2.434 2.719 3.333 3.582
+38 1.686 2.024 2429 2.712 3.319 3.566
+40 1.684 2.021 2.423 2:704 3.307 3.551
+a
+42 1.682 2.018 2418 2.698 3.296 3,538
+44 1:680 2.015 2.414 2.692 3.286 3.526
+46 1.679 2.013 2.410 2.687 3.277 3.515
+48 1677 2011 2:407 2.682 3.269 3.505
+50 1.676 2.009 2.403 2.678 3.261 3.496.
+60 1.671 2.000 2,390 2.660 3.232 3.460
+70 1.667 1.994 2:381 2.648 3.211 3.435
+80 1.664 1.990 2.374 2.639 3.195 3.416
+90 1.662 1.987 2368 2.632 3.183 3.402
+100 1.660 1.984 2364 2626 3.174 3.390
+120 1.658 1.980 2.358 2.617 3.160 3.373
+150 1.655 1.976 2351 2:609 3.145 3.357
+200 1.653 1.972 2345 2.601 3.131 3.340
+300 1.650 1.968 2.339 2.592 3:118 3.323:
+400 1.649 1.966 2.336 2.588 3.111 3.315
+500 1.648 1.965 2334 2.586 3.107 3.310
+600 1.647 1.964 2.333 2.584 3.104 3.307
+* 1.645 1.960 2326 2.576 3.090 3.291
+
+sla )
+--- page 6 ---
+Table of Standard Normal Distribution
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+0.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 . 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+4.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+1.1 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+4.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+4.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.41 45 0.4131 0.4147 0.4162 0.4177
+4,4 04192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+4.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+4.6 0.4452 0.4463 0.4474 0.4484 04495 0.4505 0.4515 0.4525 0.4535 0.4545
+417 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+4.9 04713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+21 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+22 04861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+23 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+24 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+25 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 9.4949 04951 0.4952
+2.6 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+2.7 0.4965 0.4966 0.4987 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+2.8 0.4974. 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+29 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 04986 0.4986
+3.0 0.4987 0.4987 0.4987__0.4988_ _ 0.4988 __0.4989 0.4989 0.4989 0.4990 _0.4990
+Note:
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean = y and Std. Deviation = 0):
+Middle 90% area = + 1.6449 pu + 10 = 0.6827
+Middle 95% area = + 1.9600 p + 20 = 0.9545
+Middle 99% area = + 2.5758 p + 30 = 0.9973
+
+aN
+
+@s)
+--- page 7 ---
+Table of Chi-Square (72) Distribution
+
+© Level of significance (a) >
+d.f.b 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.04 0.005
+1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
+2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 5.9915 7.3778 9.2103 10.5966
+3 0.0717 0.1148 0.2158 0.3518 0.5844 6.2514 7.8147 9.3484 11.3449 12.8382
+4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 9.4877 11.1433 13.2767 14.8603
+5 0.4117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 12.8325 15.0863 16.7496
+
+6 0.6757 0.8721 1.2373 1.6354 2.2041 10.6446 12.5916 14.4494 16.8119 18.5476
+7 0.9893 . 1.2390 1.6899 2.1673 2.8331 12.0170 14.0671 16.0128 18.4753 20.2777
+8 1.3444 1.6465 2.1797 2.7326 3.4895 13.3616 15.5073 17.5345 20.0902 21.9550
+9 1.7349 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
+10 2.1559 2.5582 3.2470 3.9403 4.8652 15.9872 18.3070 20.4832 23.2093 25.1882
+
+41 2.6032 3.0535 3.8157 4.5748 5.5778 17.2750 19.6751 21.9200 24.7250 26.7568
+412 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
+43 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
+44 4.0747 4.6604 5.6287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
+45 4.6009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
+
+16 5.1422 58122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454 31.9999 34.2672
+17 5.6972 64078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
+18 6.2648 7.0149 8.2307 9.3905 10.8649 25.9894 28.8693 31.5264 34.8053 37.1565
+19 6.8440 7.6327 8.9065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
+20 7.4338 8.2604 9.5908 10.8508 12.4426 284120 31.4104 34.1696 37.5662 39.9968
+
+24 8.0337 8.8972 10.2829 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
+22 8.6427 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
+23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
+24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 “39.3641 42.9798 45.5585
+25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
+
+26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
+27 11.8076 12.8785 14.5734 16.1514 18.1139 36.7412 40.1133 43.1945 46.9629 49.6449
+28 12.4613 13.5647 15.3079 16.9279 18.9392 37.9159 41.3371 44.4608 48.2782 50.9934
+29 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
+30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
+--- page 8 ---
+Table of 'F' Distribution. (Value of F 997)
+
+< Degrees of Freedom for the Numerator >
+1 2 3 4 5 6 7 8 9
+4 4,052.18 4,999.50 5,403.35 5,624.58 5,763.65 5,858.99 5,928.36 5,981.07 6,022.47
+2 98.5025 99.0000 99.1662 99.2494 99.2993 99.3326 99.3564 99.3742 99.3881
+3 34.1162 30.8165 29.4567 28.7099 28.2371 27.9107 27.6717 27.4892 27.3452
+4 24.1977 18,0000 16.6944 15.9770 15.5219 15.2069 14.9758 14.7989 14.6591
+5 16.2582 13.2739 12.0600 11.3919 10.9670 10.6723 10.4555 10.2893 10.1578
+
+6 13.7450 10.9248 9.7795 9.1483 8.7459 8.4661 8.2600 8.1017 7.9761
+rd 12.2464 9.5466 8.4513 7.8466 7.4604 7.1914 6.9928 6.8400 6.7188
+8 11.2586 .8.6491 7.5910 7.0061 6.6318 6.3707 6.1776 6.0289 5.9106
+9 10.5614 8.0215 6.9919 6.4221 6.0569 5.8018 5.6129 5.4671 5.3511
+10 10.0443 7.5594 6.5523 5.9943 5.6363 5.3858 5.2001 5.0567 4.9424
+
+11 9.6460 7.2057 6.2167 5.6683 5.3160 5.0692 4.8861 4.7445 4.6315
+12 9.3302 6.9266 5.9525 5.4120 5.0643 4.8206 4.6395 4.4994 4.3875
+13 9.0738 6.7010 5.7394 5.2053 4.8616 4.6204 4.4410 4.3021 4.1911
+14 8.8616 6.5149 5.5639 5.0354 4.6950 44558 4.2779 4.4399 4.0297
+15 8.6831 6.3589 5.4170 4.8932 4.5556 4.3183 4.1415 4.0045 3.8948
+
+16 8.5310 6.2262 5.2922 4.7726 44374 4.2016 4.0259 3.8896 3.7804
+17 8.3997 6.1121 5.1850 4.6690 4.3359 4.1015 3.9267 3.7910 3.6822
+18 8.2854 6.0129 5.0919 4.5790 4.2479 4.0146 3.8406 3.7054 3.5971
+19 8.1849 5.9259 5.0103 4.5003 4.1708. 3.9386 3.7653 3.6305 3.5225
+20 8.0960 5.8489 4.9382 4.4307 4.1027 3.8714 3.6987 3.5644 3.4567
+
+21 8.0166 5.7804 4.8740 4.3688 4.0421 3.8117 3.6396 3.5056 3.3981
+22 ~=7.9454 5.7190 4.8166 4.3134 3.9880 3.7583 3.5867 3.4530 3.3458
+237.8811 5.6637 4.7649 4.2636 3.9392 3.7102 3.5390 3.4057 3.2986
+24 7.8229 5.6136 4.7181 4.2184 3.8951 3.6667 3.4959 3.3629 3.2560
+25 7.7698 5.5680 4.6755 4ATT4A 3.8550 3.6272 3.4568 3.3239 3.2172
+
+30 7.5625 5.3903 4.5097 4.0179 3.6990 3.4735 3.3045 3.1726 3.0665
+40 7.3141 5.1785 4.3126 3.8283 3.5138 3.2910 3.1238 2.9930 2.8876
+60 7.0771 4.9774 4.1259 3.6490 3.3389 3.1187 2.9530 2.8233 2.7185
+120 6.8509 4.7865 3.9491 3.4795 3.1735 2.9559 2.7918 2.6629 2.5586
+s0 6.6433 4.6122 3.7881 3.3254 3.0233. 2.8080 2.6453. 2.5172 2.4132
+
+B/S
+````
+
+## 2019-20 · Final-Exam · Sem 3 · paper 2d2192186e0a
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING MATHEMATICS III/Mathematics-III, Final 2019-20.pdf`
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (5 pages), mean OCR confidence 73.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (Mechanical) - Year: II Semester: IIT
+
+Academic Year: 2019-20
+
+Subject: Mathematics -III ~
+
+Date: 12 November 2019 ”
+
+Final Examination (2019-20)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+Q.1.. (a) | Choose the correct alternative in each of the following questions. (10)
+
+i
+
+2Ls s*-64 2hs s°-64
+3 s |: s «
+c. -|-+5 d. =| --
+2|s -s° +64 2s s° +64
+ii Laplace of f(t).H(t-a) is a. e*L{f(t}} b. eo @L{¢ fe.
+e“Lif(t+a)} d. e“L{f(¢—a)}
+ii, if L'[F(s)]= f() and L'[G(s)]= f(@) then L“LF(s).G(s)] is
+
+a. { flx)e(t+x)dx b. i flxig(t-x)dt c. i f(x)g(t—x)dx d. i f(x)g(t+xdt
+
+Laplace of Cosh? 4t is a. whe a ] b. 34 s
+
+iv. A set of functions f,(x), f(x), A(x), f(x)... is orthonormal on
+
+(a,b) if form#n, {ly
+
+m
+
+(x)P ax a.2b.0 ce d.l
+
+a
+
+Us
+--- page 2 ---
+Q.2
+
+vi.
+
+vii.
+
+viii.
+
+ix.
+
+(b)
+
+(a)
+(b)
+
+. —c,-a<x<0.
+The function f(x)= is a.even function
+
+ce O<x<a
+b.odd function c neither even nor odd d.even and odd both
+The first central moment for a given probability distribution is always
+2 2 ’
+io Variance, i ial Distribution i
+The ratio ee for Binomial Distribution is
+
+ag b.0 cl/q al
+
+For Hyperbolic partial differential equation the principal part for
+Au,, +Bu,, +Cu,, + Du, + Eu, + FutG= 0. satisfies
+
+a. B?-4AC =0 b. B?-4AC <0 c. B?-4AC >0 d.D? -4AC =0
+
+” The solution of following partial differential equation
+
+4u,+u,=0, with u(0, y)=e°” is
+
+2x45 bee 2x-5 2x45
+ae” be?” ce” de?
+
+The steady state two dimensional heat equation is
+au , Ou au Oru du O'u ,du_ Ou
+a.—> +5 = 0b. - By = 9 ODE d.— =-7
+
+Match the Correct Pairs (25)
+
+i. Up, —u, =0 a. f(x) is periodic
+
+ii. f(x)=x?-2,-2<x<a b. t-e*-1
+
+iii. fixjaer,0<x<0 ¢: (Ae* + Beye”
+iv. rlot| d. f(x) is even
+
+v. LL fo} e. t+e"-1
+
+f. f(x) isa pdf
+
+ond Hs)
+ds
+Find Laplace transform of — e™ sin 2t. cosht
+Find Inverse Laplace Transform of 3s =
+( +s? +2
+
+(10)
+
+(6)
+(6)
+--- page 3 ---
+Q3
+
+Q.4
+
+Q.5
+
+Q.6
+
+(c)
+
+(a)
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(©)
+
+(a)
+
+(b)
+
+(©)
+
+(a)
+
+. © St.
+. 2
+Find Laplace of Sie tees hence Evaluate [Birt Coste dt
+
+t t
+
+Find Fourier Series of periodic function f(x) = |sin x]
+
+jp ~-E<X<7
+Find Half range cosine series for the function
+f(x)=x inQ<x<l
+
+2
+Show that the functions f,(x)=1, f(x)=x and f,(x)= = "
+
+orthogonal in the interval (- 1, 1)
+
+Find the temperature in a thin metal rod of length L, with both the ends
+insulated (so that there is no passage of heat through the ends) and with
+initial temperature in the rod sin (=).
+
+Find the general solution of the following one dimensional wave
+
+. . . a? a?
+equation by separation of variables a2 = gg?
+
+7a oa with boundary
+conditions y(0, t) = 0, y(L, t) =0.
+
+2. 2.
+Solve the Laplace’s equation = + an =0 in the rectangle OABC in
+
+xy-plane, 0 <x <a and 0 <y <b satisfying the following boundary
+conditions: i. u(x, 0) = 0 (on OA) ii.u(x,b) = 0 (on BC)
+iii. u(0, y) = 0 (on OB) iv.u(a, y) = f(y) (on AC).
+
+a
+
+Seven dices are thrown 729 times. How many times do you expect at
+least four dices to show three or five.
+
+Fit a Poisson distribution for the following data
+
+No. of Deaths | 0 1 {2 |3|4| Total
+
+Frequencies 123 | 59 | 1443} 1 | 200
+If X is anormal variate with mean 25 and standard deviation 5, find the
+value of i. of X = x, such that P(X > x1) =0.32 ii. of X = x2 such
+that P(X < x2) = 0.73 and iii. of X = x3 such that P(X < x3)= 0.24.
+
+Find the Laplace transform of (1 + 2t — 3t? + 4¢3)H(t — 2)
+
+(8)
+
+(6)
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+--- page 4 ---
+(b) Solve using Laplace Transform (D? +2D+ shy =e'sint, when (6)
+y0)=0, y'(0)=1
+
+(c) Find the displacement of a string stretched between two fixed pointsata (8)
+distance 2c apart when the string is initially at rest in equilibrium
+position and points of the string are given initial velocity v where
+
+=,when0 <x <c
+
+2e-x where x is the distance measured
+
+v=
+
+, whenc<x<2c
+
+from one rod.
+
+Q.7 (a) Obtain Fourier Series Expansion of f(x) = V1 — cosx in0 <x < 27, (6)
+
+4 1 1
+hence evaluate — + —=+ =+°"
+13) 3s! 57 +
+
+2, -2<x<0 (6)
+
+(b) Obtain Fourier Series Expansion of f(x) = { x, O0<x<2
+
+(c) Find the steady state temperature distribution in a rectangular thin plate (8)
+with its two surfaces insulated and with the conditions
+
+i.uQ,y) =0 ii.u(x,0) = 0 iii.u(0,y) = gy) iv.ue, b) = f(x)
+--- page 5 ---
+Standard Normal (Z) Table
+
+[~~ \o00 | 001 | 002 | 003 | 0.04 | 005 | 0.06 | 007 | 008 | 0.09
+
+j
+
+[0.0 [0.0000 [0.0040 0.0080 0.0120 [0.0160 /0.0199 0.0239 [0.0279 0.0319 .|0.0359
+
+[0.1 [0.0398 [0.0438 0.0478 0.0517 (0.0557 0.0596 [0.0636 [0.0675 0.0714 |0.0753
+
+[0.2 (0.0793 (0.0832 |0.0871 [0.0910 [0.0948 |0.0987 (0.1026 [0.1064 [0.1103 [0.1141
+
+i
+
+[03 (0.1179 [0.1217 [0.1293 [0.1331 0.1368 |0.1406 [0.1443 [0.1480 [0.1517
+
+| 0.4 (0.1554 0.1591 |0.1664 [0.1700 (0.1736 [0.1772 [0.1808 0.1844 |0.1879
+
+/ 0.5 (0.1915 0.1950 [0.1985 0.2019 0.2054 10.2088 0.2123 0.2157 (0.2190 0.2224
+
+0.6 (0.2257 0.2291 0.2324 [0.2357 0.2389 [0.2422 (0.2454 0.2486 0.2517 | 0.2549
+
+(0.2580 |0.2611 0.2642 0.2673 [0.2704 0.2734 [0.2764 0.2794 0.2823 | 0.2852
+
+|0.2881 /0.2910 0.2939 | 0.2967 0.2995 | 0.3023 {0.3051 (0.3078 (0.3106 | 0.3133
+
+[0.9 0.3159 (0.3186 [0.3212 0.3238 [0.3264 [0.3289 (0.3315 0.3340 0.3365 [0.3389
+
+(10 (0.3413 (0.3438 [0.3461 [0.3485 0.3508 (0.3531 (0.3554 0.3577 0.3599 (0.3621
+
+[11 [03643 (0.3665 0.3686 [0.3708 0.3729 0.3749 (0.3770 0.3790 0.3810 0.3830
+
+1.2 (0.3849 10.3869 [0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+
+113 0.4032 | 0.4049 (0.4082 0.4099 0.4115 (0.4131 0.4147 0.4162 0.4177
+
+1.4 0.4192 0.4207 10.4236 0.4251 (0.4265 (0.4279 0.4292 0.4306 (0.4319
+
+5 '0.4370 0.4382 0.4304 |0.4406 [0.4418 0.4429 0.4441
+
+[45 0.4332 [0.4345
+[1.6 [0.4452 [0.4463 [0.4484 (0.4495 (0.4505 0.4515 [0.4525 0.4535 [0.4545
+
+[1.7 (0.4554 [0.4564 [0.4573 [0.4582 (0.4591 0.4599 (0.4608 0.4616 0.4625
+
+Mis |0.4641 (0.4649 [0.4664 (0.4671 [0.4678 0.4686" 0.4693 0.4699 (0.
+
+19 (0.4713 10.4719 (0.4732 0.4738 (0.4744 0.4750 (0.4736 0.4761 |0.4767
+
+2.0 |0.4772 /0.4778 (0.4783 |0.4788 0.4793 0.4798 [0.4803 0.4808 0.4812 0.4817
+
+| 2.4 (0.4821 |0.4826 | 0.4830 (0.4834 10.4838 0.4842 0.4846 /0.4850 |0.4854 0.4857
+
+[22 [0.4861 (0.4864 (0.4868 0.4871 0.4875 (0.4878 [0.4881 | 0.4884 0.4887 0.4890
+
+2.3 (0.4893 0.4896 [0.4898 0.4901 [0.4904 0.4906 [0.4909 0.4911 0.4913 (0.4916
+
+|
+
+24 (0.4918 0.4920 0.4922 0.4925 (0.4927 0.4929 0.4931 0.4932 0.4934 (0.4936
+
+| 2.5 (0.4938 0.4940 [0.4941 (0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+[2.6 0.4953 [0.4955 (0.4956 [0.4957 |0.4959 0.4960 [0.4961 [0.4962 0.4963 0.4964
+| 2.7 [0.4965 [0.4966 (0.4967 [0.4968 0.4969 0.4970 [0.4971 0.4972 0.4973 (0.4974
+
+[2.8 [0.4974 |0.4975 [0.4976 [0.4977 (0.4977 (0.4978 (0.4979 0.4979 0.4980 (0.4981
+
+| 29 (0.4981 (0.4982 [0.4982 0.4983 0.4984 0.4984 (0.4985 0.4985 0.4986 | 0.4986
+
+| 3.0 | 0.4987 |0.4987 0.4987 0.4988 0.4988 |0.4989 0.4989 0.4989 0.4990 | 0.4990
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 8cecc496fa8f
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 16-17 17-18 RE EXAM.pdf` (+6 identical copies)
+- Printed on paper: max marks: 70; exam date: 05 November 2019
+- Text: ocr (4 pages), mean OCR confidence 65.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+4
+7 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (IT/COMPUTER/ MECHANICAL/ Year: II Semester: III
+
+MECHATRONICS/CIVIL/EXTC/ ELECTRICAL) -_ =
+
+Academic Year: 2019-20
+Subject: Engineering Mathematics — III
+
+Marks: 70
+Date: 05 November 2019 Time: 2.00 p 0
+- Durations: 3 (RE6}
+
+No. of Pages:
+Re-Examination (2016-17/ 2017-18)
+
+o
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3) In all___5_ questions to be attempted.
+_ 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+Ql) -2/ (4)
+a) Find the Laplace transform of f(t), f()= @-2) ia
+0 0<t<2
+12 -3 (4)
+b)IfA=|0 3 2 | then calculate the eigen value of 34° +5A’?-64A+2/
+0 0 -2 .
+c) Obtain the Fourier series for f(x) =x in the interval (0,27) @)
++ (3)
+d) Evaluate [' at ees
+s°+2s+10
+Q2) —a)Verify Cayley-Hamilton theorem and use to find matrix represented by (5)
+211
+A’ -5A'+7A°-34 +A‘ -5A° +84’ -2A+I] where A=|0 1 0].
+112
+nee « 21 (6)
+b) Obtain A”, where A= 1 2"
+--- page 2 ---
+8 -6 2 (4)
+c) Check whether 4=|-6 7 —-4| is diagonalizable , If yes then find the transforming
+2 -4 3
+matrix P and the diagonal matrix D.
+Q3) a) If f(t) is periodic with period 2a then find the Laplace transform of (5)
+L 0<t<a
+fo=, “
+—(2a-t) as<t<2a
+a
+2 (5)
+b)Obtain L"| —————- | -
+(s’ +1)(s° +4)
+x 5 at 4
+c) Evaluate j ew [se fe. ™
+t
+0
+Q4) & (5)
+a)Solve TP 48 +8y =1, given that y(0) =0, (0) =1.
+, (s+2)' ©)
+b)Use Convolution to find the inverse of ——_——; -
+(s° +4s+ 8)
+(4)
+
+c)Evaluate L {AH (t - 2) 476 (t - 2)} .
+Q5) (5)
+
+f(xy=2 -2<x<0, . .
+in the form of Fourier series.
+
+a) Express
+) Exp =x O<x<2
+Z : 7 (5)
+b) Evaluate { fer (a) a| . .
+0 t
+-* @)
+c) Find the inverse Laplace transform of |——>——~ | -
+s°(s° +1)
+Q6) a) Obtain half range sine series for f(x) =e* , O<x<l (5)
+b) Find the Fourier series expansion of f (x) = |x| in the interval (-2,2) (5)
+c) Show that the set of functions cos mx is orthogonal on (0, 2r) .Write the orthonormal set. (4)
+Q7) a-x\ ©)
+a) Using Fourier series for f (x) = [ } in O0<x<2z.
+2
+Prove that 7 5 HE aon
+12 1 2 3
+(7)
+
+b) Reduce the quadratic form 6x, +3x)° + 3x,’ —4x,x, +4x,x, —2x,x, to canonical form
+
+through orthogonal transformations.
+
+ee
+--- page 3 ---
+A
+
+THREE ROOMED HOUSE,
+
+Di 0.90% 2.10 m’ WI 1.80 x 1.50 m
+§ 0.90x 150m ALL CHOWKATS 8 x 10 cm
+
+Fig. 1. Question No.l
+
+3/4
+
+= d
+y a t _j 1
+t t
+ot | aor yt
+rc f
+ROOM 1 Ve
+D 'o
+3.60 X 4.50 m VER. oof
+7) | co 2.50m 1
+qt
+4 {
+Thy petal
+Qe] | D Leal ir
+a Ww — —!
+«1 £
+1 flu
+Aor ROOM 3 F
+3.60 X 3.60m
+e | °C |
+-_ hes
+= os !
+s [ i
+U ROOM 2 -
+3.60 X 4.20m B
+sg ks
+| \ 1
+1 itt.
+1 a D VER 1.80m - ig
+I __ 20 | 7
+i { 1
+‘This, | pe=sezeep= ro! |
+a) . | aa
+es —_ i
+—t aa een
+— ~ = "wabiakiniidagea!
+T 1 1.20 -44
+210 —I Tread. 30cm
+in a Rise 15cm
+PLAN
+-- Bom L.C. Terracing
+-..3 cm Insulation Layer
+r12cm R.C.C Slab
+sun shade 3
+6em thick Ee
+10cm r.¢.c¢ >)
+&
+iy, Slab
+: 20
+é — £80 10 419 rec lintel
+“5 [Ted 3 od 4!
+as *s6] ‘T
+ey 4 °
+S 3
+8
+nw
+ol
+‘ ‘40 v~_(80[ Earth filling “ .P.
+IO 14 Zlat 2.50m thick C.C i
+Ad soy Seg + [20 27 een y20 over 7.5em thick aa A
+. 4 Zz Lime concrete L. C Flooring — +720
+30, 1 in foundation ee 3,30
+ao F204
+SECTION ON ABCD
+DOORS & WINDOWS *
+D 10m W0.90:x-1.50m
+--- page 4 ---
+ee
+
+J 300
+7 : x +
+450
+
+v
+
+L110 mm $ ties @ 150 mm cic
+
+3am |[ b¥—s-t6mmé
+
+(All dimensions in mm
+unless otherwise specified)
+
+K4 50 mm
+
+*
+
+L—stivvp
+
+| + + 8-16 6 # bars
+&
+
+Adee
+a Oslyin—>
+
+«——. 2m
+
+Fig. a. Reinfoeernent aermls an RCC
+Crest Wo. 5-A)
+
+Ah
+
+160-# bars @ 150 mm c/c, beth ways,
+
+footing & column
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper d408fcb6f9bb
+
+- Departments: Common (all branches), Information Technology
+- Programmes: B TECH / I T, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/ENGINEERING MATHEMATICS III/Engineering Mathematics-III ,Re-exam 16-17-18.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 05 November 2019
+- Text: ocr (2 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+i. SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech/ MBA Tech (All Streams) Year: II Semester: III
+
+Academic Year: 2019-20
+Subject: Engineering Mathematics-III
+Marks: 70
+
+Date: 05 November 2019 Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: 2
+Re-examination B.Tech/ MBA Tech (2018-19) / MBA Tech (2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1)
+
+a) Examine whether the following vectors are linearly independent or dependent. Find the
+
+relation between them if dependent: [2,1, 1], [1,3, 1], [1,2,- 1]. (3)
+
+b) If LEf(t}= ae then find L{e~*f(2t)}. @B)
+
+©) Find £1 {S22}. . (4)
+d) Find the Fourier series for f(x) in the interval (- 7,7) when
+
+fer HS “
+
+Q.2)
+a) For what value of k, the equations
+x+y+z=1, 2x+ y+ 4z=k, 4x+ y+ 10z= k? have a solution and solve (5)
+
+them completely in each case.
+1 4
+
+_ 5s0_cg4o_ [4 —4
+b) If A= [5 | then prove that 45° - 5449 = | ' a | 6)
+ce) Verify Cayley-Hamilton theorem for A = [; ‘| and evaluate 2A*- 5A?- 7A+ 6I. (4)
+
+Page 1 of 2
+--- page 2 ---
+Q3)
+
+a) Find L{ J) ue-®“sindu du}. 65)
+: “1 st+3 : .
+b) Find L fat} using convolution theorem. 6)
+c) Evaluate f . et fi — du dt. (4)
+Q.4)
+-2 2 -3
+a) Find the Eigen values and Eigen vectors of the matrix A= | 2 1 = - 6}. (5)
+-1 -2 0
+_ b) . Reduce the quadratic form 2x? + y? + 3z*+ 8yz+ 4zx to normal form through 5)
+congruent transformations. Also find its rank, index, signature and value class.
+-1 2 3
+ce) IfA= 0 3 ~=5 | find the Eigen values and Eigen vectors of A? + 5A + 81. (4)
+0 0 -2
+Q.5)
+A, O<t< =
+a) Find L{f(t)} where f(t) = r 2 and f(t) = f(t+ T). (5)
+-A, a <t<T
+b) Using Laplace transform, evaluate i e-t(1+ 2t- t? + t3)H(t- 2)dt. (5)
+©) Show that the set of following functions forms an orthogonal set in (- 1, !):
+TEX 21x 31x (4)
+1, cos (=) ,COS (=) , COS (=) we
+Q.6)
+a) . . . _f{ 7% OS XS
+Obtain the Fourier expansion of f (x) = { -m nee Dt
+State the value of the series at x = 7 and hence, show that (7)
+1? 1
+
+8 2n=0 (2n+1)2"
+b) Obtain half range cosine series for f(x) = sinx in (0,7) and hence deduce that
+
+a 1 . 1 1 (7)
+4 3°57.
+Q.7)
+a) Find the Fourier series for the function f(x) = 4- x? in (0,2). (7)
+
+b) Use Laplace transform to solve:
+
+d?x ax 3t dx
+—+—- 2x= with x = 0,—= = 0.
+
+(7)
+
+Page 2 of 2
+````
+
+## 2018-19 · Exam not stated · Sem 3 · paper e27a62f58e7c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics-III 2016-17-18-19.pdf`
+- Printed on paper: max marks: 70; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 80.1
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (All Streams) Year: IJ . Semester : fi
+Academic Year: 2018-19
+
+Subject: Engineering Mathematics - II Marks: 70
+
+Time: 2.00 pm to 5.00 pm ~
+Date: 11 January 2019 Peetians? Gus)
+Y No. of Pages:__ 02
+Re-examination B.Tech (2018-19) / MBA Tech (2016-17 / 2017-18 / 2018-19) —
+
+\
+)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ,suitable data if necessary.
+
+1.a.) Solve the system of equations x + y+ z= 3,x+2y+3z=4,x+4y+ 9z=6 5
+
+b) Find the Laplace transform e~* f, : = dt. ; 5
+c) Find the Fourier series of f(x)=x? in the interval -7 <t <7 4
+211 7
+
+0 1. O|and find A+. Hence find
+
+2.a) Verify Cayley Hamilton theorem for A=
+
+112 ;
+A® — 5A? + 7A® — 3A5 + At — 5A3 + 8A? — 2A +1 in terms of A.
+b) 6 -2 2 7
+Check whether the the matrix A= |—2 3   —1|is diagonalizable, also find
+2 -1 3
+
+the diagonal matrix and the transforming matrix.
+
+3.a) Find Laplace transform of f(t) = asinpt,0 <t <1/p 5
+=0, t/p <t < 2n/pand f(t) = f(t + 2/p)
+b : -1¢__1_ 5
+) Apply convolution theorem to evaluate L~*( Gap ETS
+c) Find L{f'(t)} where f(t) =t+10<t<2 4
+=3,t>2
+
+C1/2)
+--- page 2 ---
+4.a)
+
+b)
+
+7)
+
+5.a)
+b)
+
+¢)
+
+6.a)
+
+b)
+c)
+
+7.a)
+
+b)
+
+,
+
+<x<
+Find the Fourier series of the function f(x) = {_ xt 0 _ a <0
+
+where fis a periodic function with period 2 x.
+S$+29
+
+Evaluate Ee peerage
+
+Find the Laplace transform of f= 1, 0<t<1
+=t 1<t<2
+=0, t>2
+
+Lady
+
+Evaluate L( -
+
+Reduce the quadratic form 6x? + 3y? + 322 — 4xy — 2yz + 4xz to the
+diagonal form using congruent transformation, also find the index and signature
+
+of the quadratic form.
+
+1 1 mmx 1 ~ NX).
+Prove that the set £ Te Ooo FE sin} is orthogonal over (-c,c).
+
+Using Laplace transform find the solution of the initial value problem
+y’’+2y’+2y=5sint, y(0)=y’(0)=0
+
+Find the Laplace transform of t?e‘sin4t
+Ss —ms
+
+Obtain the inverse Laplace transform of =
+s*4+25+2
+
+Find the Fourier half range cosine series of the function
+Si) =2t, 0<t<l
+=2(2-t), 1<t<2
+Expand f(x)=v 1 — cosx ,0 <x <2 7 asa Fourier series and hence evaluate
+1 1 a
+
+73°35e¢’s7t
+
+(2/2)
+````
+
+## 2018-19 · Final + Re-Exam · Sem 3 · paper d572bb02df08
+
+- Departments: Civil, Common (all branches), Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS-III_FINAL EXAM_2018-19_RE EXAM_2016-17__17-18_.pdf` (+7 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 November 2018
+- Text: ocr (2 pages), mean OCR confidence 76.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+oun SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEBRING] 2 ¢
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING es. =
+Programme: B.Tech/ MBA Tech Stream: All Streams Year: II Semester: WS are a
+“ “ Snot
+
+Academic Year: 2018-19
+
+Subject: Engineering Mathematics — IIT
+< Marks: 70 o
+
+Date: 13 November 2018 / Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs) -
+No. of Pages:
+
+B.Tech/MBA Tech Final Examination (2018-19}/MBA Tech Re-examination (2016-17/ 2017-18) ve
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1a) Examine whether the following vectors are linearly independent or dependent. If linearly (3 marks)
+dependent then find the relation between them
+
+X, =[L1,1,3], X, =[1,2,3,4], 5 =[2,3,4,7]
+
+Ji+sin “ (3 marks)
+
+Find L
+b) m
+
+° . iad (4 marks)
+Find the Laplace inverse transform of
+
+(s+ ay ,
+d) Obtain the Fourier series expression for f(x)+x| for -t<x<z. (4 marks)
+Q.2.a) Determine a such that the system has i. no solution, ii. unique solution (5 marks)
+x+yt+z=6,
+x-yt2z=5,
+3x+ytaz=8
+b 3 1 5 marks
+) If A= , find e*, 54 ¢ )
+1 3
+c) Using Cayley Hamilton Theorem, Find A7+A®-21A°-45A4+2A+31 ~ (4 marks)
+2 2 -3
+Where A=| 2 1 -6}.
+- -l 2 9 Yo
+
+— ¢
+--- page 2 ---
+"   Q.3.a) 124 (5 marks)
+
+Show that f e“2? sinh 2r dt = 24
+0 125
+
+F . . s (5 marks)
+b) Using Convolution theorem obtain = ;
+. (s° +9)(s° +4)
+; i os 4 mark:
+°) Find Laplace transformation of f oN ay @ marks)
+u
+o
+6 -2 2
+Q4a) Show that the matrix A=|-2 3   -1| is diagonalisable. Find the transforming matrix (5 marks)
+2 -1 3
+‘and the diagonal matrix.
+(5 marks)
+b) Reduce the’ quadratic form 2x,’ + x,” —3x,’ -8x,x,—4x,x, +12x,x, tonormal form through
+congruent transformations, also write linear transformation. .
+123 -2 (4 marks)
+ig eae v 3 . 024 6
+¢) Find Eigen values of adj(A)and A +1 if A= 04 -s5|"
+000 6
+Q.5 a) : S(O = asinot for0<t< z (5 marks)
+Find Laplace Transform of o
+a 2n
+=0 for—<t<—
+@ @
+. rn . 20 :
+where f(t) is periodic with the period —.
+o
+(5 marks)
+b) > 2 ‘
+) Find the inverse Laplace transform of- 5 —— a 2 .
+(s +2s+5)(s +2s5+2)
+c) (4 marks)
+Show that the set of functions cos nx , n = 1,2,3,... is orthogonal on[—z, z].
+(7 marks)
+Q.6 a) Obtain the Fourier series for f(x) =xsinx in (0,27).
+(7 marks)
+b) Express f(x) =x asa cosine half range series in0 < x </. Hence deduce that
+i ar 96° It 2 3h 90°
+(7 marks)
+F : 1 I
+i wy Obtain the Fourier series for f(x) = tal
+O0<x<l
+i (7 marks)
+b 2
+) Solve by using Laplace transform 4D 8y =1, where y(0) =0, y'(O)=1 .
+
+a Ao
+
+— ¢
+````
+
+## 2018-19 · Final + Re-Exam · paper 80551736907a
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III 2018-19 Final Batch 2017-18 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 14 November 2018
+- Text: ocr (2 pages), mean OCR confidence 78.4
+
+````text
+SVKM’S NMIMS
+
+Program B.Tech Integrated (All Streams) ~
+Academic Year: 2018-2019
+
+Subject: Engineering Mathematics — III]
+
+Date : 14 November 2018 _ Time:2.00 pm to 5.00 pm .
+Duration: 3 (hrs) .
+No. of Pages: 2
+Final Examination (2018- 12\/Re-examination (2017-18) 4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+1, o<r<l [4]
+a) Find the L{f()} and L{f f'(9} where f(t) = i ist
+b) Find the Fourier series expansion of 2x in (0,27) : [4]
+20 1 [3]
+c) Find the eigen values of Adj.A and A'° where A=|0 -2 3].
+0 0 1
+. 3
+d) Find L’ {eor's 3 Z } . Bl
+s°+2s
+Q2 . . 1 2
+a) Verify Cayley Hamilton theorem for A= 13 and hence find [5]
+Ao -44° +8A* -124° +144’.
+10
+b) For A= |; 4 , find eigen values and eigen vectors of A. Also find A” — A”. [5]
+1 -6 -4
+c) Determine whether the matrix A=|0 4 2 | is diagonalizable or not? Justify. [4]
+0 -6 -3
+
+1/2
+--- page 2 ---
+Q3
+
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a) Find L{ (t)}and {iro} where f(t)=|t|,0<t<1 and f(t)= f(t+z).
+
+2
+b Fn Sled .
+
+(s + 3)(s° + 1)
+c) Evaluate fe (jf) .
+‘ 0 u
+
+0
+a) Solve (Dp +2D+5)y =e" sin? with conditions y(0)=0,y'(0)=1.
+
+b) Using Convolution theorem, find L* 2,
+(s? + 16)(s* + 4)
+
+c) Obtain L{te*erf Vt}
+
+a) Find the Fourier series of the function f (x) =e* HSK ST.
+cost, 0<t<az
+
+b) Find L{ f(#)} and where f(t) =4 cos21, m<t<2x
+cos3t, 22<t
+
+c) Find £* &* 0083475 —}.
+(s° +1)
+
+a) Find the Fourier series expansion for f(x) =x*,-/ <x</ and hence deduce that
+mw o1i.1,1,1,1
+
+6 Pp ye ge Re =
+mX,0<x<1
+0,1<x<2
+
+c) Show that sin x,sin3x,sin5x,... are orthogonal on[0,z].
+
+b) Find the Fourier series expansion of f (x) -|
+
+2
+a) Obtain the Fourier series of f (x) = (7) in —2<x<x and f(x+2z)= f(x).
+
+4
+Hence deduce 2 = resiceeabieR as
+90 VY 2 3
+b) Reduce the quadratic form 3x’ +3y’ +3z’ —2xy—2yz+2xz to canonical form through
+orthogonal transformation, also find the orthogonal transformation, rank and signature
+of the canonical form.
+
+2/2
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+[4]
+
+[5]
+
+[5]
+
+[4]
+
+[5]
+
+[5]
+
+[4]
+
+[7]
+
+[7]
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 6583652fab6d
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS BATCH 16-17, 17-18 RE EXAM.pdf` (+5 identical copies)
+- Printed on paper: duration hours: 3; exam date: 13 November 2018
+- Text: ocr (2 pages), mean OCR confidence 77.1
+
+````text
+: SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+a~
+Cy
+we
+
+Programme: B. Tech (LT. / COMPUTER / ELECTRICAL /EXTC/ MECHANICAL / CIVIL/
+MECHATRONICS) _~ Year: II _ Semester: Il
+
+Academic Year: 2018-2019
+
+MPSTME ~
+
+Subject: Engineering Mathematics — Ill y LIBRARY
+
+Time: 2.00 pm'®
+Durations: 3 (hrs
+No. of Pages :_O2—
+
+Re-examination (2016-17 / 2017-18)
+
+Date: 13 November 2018 |
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+-cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+Q.1) a) Examine whether the following vectors are linearly independent or dependent
+
+X, =[13,4,2], X, =[3,-3.2,2].X =[2,-13.2] (3)
+
+b ™
+) Find fe“ sinh? 2¢.sin 2¢tdt (3)
+i)
+
+c . . ; (n-xy
+Find Fourier series expansion of f(t) = l=] ,0<x<2z, f (x+ 2r) = f (x) (4)
+a) Find L{rcoshr+e~™ sin? ¢} (4)
+
+. -2)
+2 Find 7! _(s~2) 4
+au) 8) (er 7
+b)
+r (tan (2) (4)
+Ss
+, 2, 0<t<!
+c) Express as Heaviside function and find Laplace f(t) = 92 ie (6)
+,t>
+
+Q.3)a) & ol 3
+eid js sin V3t
+
+ened
+— 0 ‘ 4)
+si: by Find L{(1+20-37 +40) H(¢-2)} ‘i
+c) ~ 5 t 5 5 .
+Evaluate fe ‘ fe " cos’ u.sin u du > dt (6)
+0 0
+Page 1 of 2
+--- page 2 ---
+Q.4) a) 12 3
+
+4=|2 ~1 4 | Verify Cayley-Hamilton theorem for A, hence find At and A* (7)
+3° 1 -!
+b) solve (D? +2D+1)y=8re',y(0)=0,y'(0)=1. (7)
+Q.5) a) 2 1
+If A= , find A® (4)
+1 2
+
+b) Use Cayley Hamilton Theorem to find
+24° -3A*+ A? - Ar
+
+Where
+i ] (4)
+A=
+-1 2
+
+c) Reduce the quadratic form 6x,> +3x,’ +3x,’ —4x,x, + 4x,x, —2x,x, in to canonical form
+
+(6)
+
+through congruent transformations.
+
+Q.6)a) For what value of 2 the equations xtytzaLx+2yt+4z=A,x+4y410z=4" havea (4)
+
+solution.
+b) Expand f(x)=lx-x’, 0<x</ 4)
+in a half range cosine series.
+c) Find the characteristic equation, eigen values and eigen vectors of the following
+matrices
+[8 -6 2] (6)
+
+6 7 -4
+2 -4 3
+
+Q.7)a) Obtain the Fourier expansion of f(x) = |x w-2<x<2, (a)
+b) Find FSE of
+
+Z _ 2 1 2 4
+
+e)-e*. in (0,27) Hence deduce 1+ 354554 _— =— (4)
+
+12
+¢) Showthat the set of functions sin(2n+1)x, n = 0,1,2,3...
+
+over [0.74 | is orthogonal . a
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 50c1ac289aa6
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 14-15 15-16 RE EXAM.pdf` (+5 identical copies)
+- Printed on paper: max marks: 69; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 73.3
+
+````text
+; SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B, Tech (IT/ Computer/ Electrical/ EXTC/ Mechanical/ Civil/ “Year: II Semester : III
+Mechatronics)
+Academic Year: 2018-2019
+Subject: Engineering Mathematics — III Marks: 69 LS
+; a Time: 2/0
+Date: 11 January 2019
+x
+
+Re-examination (2014-15 / 2015-16) ~~
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their
+use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a2 (3)
+(a) 4
+If A= 4 , find cos A.
+1
+0 2
+2
+(b) sint, O<t<z (3)
+Find Laplace transform of f(t) = .
+0, t>a
+(©) _ Find the Fourier Series for f(x) = x° in (2,2). @)
+rt’ sin3t
+(d) Find Laplace transform of (Ea (3)
+e
+0
+
+Q.2 (a) Reduce 2x, +x,’ —3x,’ -8x,x, —4x,x,+12x,x, to canonical (6)
+form by congruent transformations, also find its rank, index,
+signature and value class.
+
+(b) For what values of   , the following system of equations (6)
+possesses non-trivial solutions? Obtain the solution for real
+values of 2 .
+— 3x, +x, -Ax,=0, 4x,-2x,-3x,;=0, 24x, +4x,+4x,=0
+ie
+--- page 2 ---
+—
+
+Q.3 (a) Find the solution of (6)
+y"42y"-y2y=0, (0) = y (0) =0 and y "(0) =6 by using
+\ Laplace transform.
+
+\ b 2 4165— 6
+: @) Find inverse Laplace transform of ae, ‘ ©
+S° +20s° +64
+
+4 0, -2 0 6
+Q @) Find the Fourier series for f(x) = <*s : 6)
+1, O<x<2
+(b) Find Fourier expansion of f(x) =xcosx in the . (6)
+interval -t<x<z.
+Q5 sinat, O<t< va (4)
+
+(a) Find Laplace transform of f(t) =
+
+f(t4+2%/)= FO .
+
+Qo
+0, af <t<2m/
+
+b) ‘ 4
+@) Evaluate [ e” tsin’ dt. @
+0
+©) Find inverse Laplace transform of —_— , 4
+s (s +a )
+Q.6 (a) Find the characteristics equation of the matrix A given below (4)
+
+and hence, find the matrix represented by
+A’ -4A° -20 4° -344‘ —4.4° —20A’ -3344+1, where
+
+13 7
+A=|4 2 3).
+12 1
+
+(b) Examine whether the following vectors are linearly independent (4)
+or dependent.
+
+X, =[1,2,4], X, =[2,-13], X; =[0,1,2],X, =[-3,7,2]
+
+(©) Find inverse Laplace transform of ——————— by A)
+(s-2)(s+2)
+convolution theorem.
+2
+, G7 ©) prove ttst £2) = 4G) =, £G)= (x? WA are 4)
+orthogonal over (- 1,1).
+(4)
+(b) Find half range sine series for f(x)=e*, 0<x<1.
+(©) Find Laplace transform of { (1 +3t—4¢ +2¢ )H (t- 3)} : (4)
+® ye feof fe a fe 2k of fe 2 2 2 2 oe 2 2 of fe 2k 2k ee 2 oft fe oe 2 2 2s 2A of fe ee 2 og 2 2 2 oe ee 2k 2 2 2 2 ee ae of 2 2s ae 2g 2 2 2g a 2g 2 OR oe a 2
+
+af
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper b2a85f9a92ce
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2018-19 RE EXAM.pdf` (+6 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 80.8
+
+````text
+MPSTME ~
+LIBRARY
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGE GINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (All Streams) Year: If . Semester : Il
+Academic Year: 2018-19 ,
+Subject: Engineering Mathematics — I Marks: 70 *
+Time: 2.00 pm to 5.00 pm ~
+
+Date: 11 January 2019 Durations:3 (hrs)
+
+Y No. of Pages:__02-
+Re-examination B.Tech (2018-19) / MBA Tech (2016-17 / 2017-18 / 2018-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1.a.) Solve the system of equations x + y+z=3,x+2y+3z=4,x+4y+9z=6 5
+
+b) Find the Laplace transform e~* tae dt. 5
+c) Find the Fourier series of fx)ax? in ‘the interval -m<t<7 4
+_f2 1°21 7
+2.a) Verify Cayley Hamilton theorem for A=/0 1   0J and find A~*. Hence find
+1 1 2
+A® — SA”? + 7A® — 349 + A* — SA? + 8A? — 2A +1 in terms of A.
+b) 6 -2 2 7
+Check whether the the matrix A= |—2 3   —1lis diagonalizable, also find
+2 -1 3
+the diagonal matrix and the transforming matrix.
+3.a) Find Laplace transform of f(t) = asinpt,0 <t <1/p 5
+= 0, n/p <t < 2m/pand f(t) = f(t + 2n/p)
+b : -1p__ 1 5
+) Apply convolution theorem to evaluate L~*( Gan Gas)
+c) Find L{f'(t)} where f(t) =t+1,0<t<2 4
+=3,t>2
+
+C1/2)
+--- page 2 ---
+r
+
+. ' . ,OSX S71
+4.a) Find the Fourier series of the function f(x) = faye _ . se 0 5
+where fis a periodic function with period 2 7.
+b = S$+29 5
+) Evaluate L (Ging. as
+Cc) Find the Laplace transform of f(J=J, 0<1tS1 4
+=t 1<ts2
+=0, t>2
+5.a) Evaluate Les at cosbty 5
+
+t
+b) Reduce the quadratic form 6x? + 3y? + 3z? — 4xy — 2yz + 4xz to the 5
+diagonal form using congruent transformation, also find the index and signature
+
+of the quadratic form.
+
+11 1. .
+
+c) Prove that the set { wee cos, Fz sin} is orthogonal over (-c,c). 4
+
+6.a) Using Laplace transform find the solution of the initial value problem 5
+
+y’’+2y’+2y=5Ssint, y(0)=y’ (0)=0
+b) Find the Laplace transform of t?e‘sin4t 5
+—mts
+°) Obtain the inverse Laplace transform of - 4
+s*4+2s4+2
+
+7.a) Find the Fourier half range cosine series of the function 7
+fi=2t, 0<t<1
+=2(2-), 1<t<2
+
+b) Expand f(<)=v1 — cosx ,0 <x <2 asa Fourier series and hence evaluate 7
+
+‘ 1 1 1
+137357577"
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper 08c7ab1be3c2
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III RE EXAM 14-15, 15-16.pdf` (+6 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 November 2018
+- Text: ocr (2 pages), mean OCR confidence 76.7
+
+````text
+e)
+
+wf SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T. / COMPUTER / ELECTRICAL /EXTC/ MECHANICAL / CIVIL
+MECHATRONICS) Year: II Semester: III
+oo _
+
+Academic Year: 2018-2019
+
+2
+
+Subject: Engineering Mathematics - III
+
+i? Marks: 60 —\“a
+Date: 13 November 2018 Time: 2.00 pm t0°5.00-pm.
+“ T SS UPR
+Durations: 3 (hrs) >==:
+No. of Pages :_2
+
+Re-examination (2014-15 / 2015-16) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI a) 211
+Verify Cayley Hamilton Theorem for 4=|0 1 01, also find 47 .
+1 12
+b) Find L{e*t(cost—sint)} 4
+©) Find the Fourier expansion of f (x) =x’ in (-z,7) hence prove that 4
+at = (-1)"
+Q2 a) 3-1 1
+Show that the matrix 4=|—1 5 ~1|is-diagonalizable. Find the transforming 6
+1 -1 3
+matrix and the diagonal matrix.
+5) Reduce the quadratic form 6x? +3x? +14x? +4x,x, +18x,x, +4x,x,to diagonal 3
+form through congruent transformation.
+9 ip A= r a find 4®° 3
+
+4/2
+--- page 2 ---
+Q3 a) Find the Laplace transform of f(¢)=°, 0<t<2where f(t) is periodic
+function with period 2.
+
+Find L! lima] by partial fraction.
+Ss sot
+
+c) s(s?-a’ +8”)
+Prove that L {cosh at cos bt} = 5
+s* +258? (0 -a’)+(a +b?)
+
+b)
+
+Q4 a) ,. O<x<
+Find the Fourier series of f (x) = “ * <7 Hence deduce that
+-a, m<x<2n
+a 1 1 1
+Fy
+4 3.5.7
+
+b) Find Fourier expansion of f (x) =x? -2 in (-2,2)
+c) Show that the set of functions cos mx, n=1,2,3,...is set of orthogonal over
+(0,27).
+Q5a 3
+) Evaluate err sin 3tdt
+0
+
+b) Show that the set of vectors (3,1,1),(2,0,—-1),(4,2,1)is linearly independent.
+
+c) Test the consistency and if possible solve them
+Qxt+ytz=4, x-yt+3z2=3, 4x-y-z=2
+
+Q6 a)
+
+Obtain the Fourier expansion of f(x) = 7 O<x<a
+
+b) Obtain the half range sine series in (0,7) for f(x) = (ax —x? ) hence deduce
+
+mw o1i1ii
+that ~==-=+>
+32 Fr 3s S&S
+°) , ee" if s
+Find i) Ls; ———_~ ii) LD 4~——
+) s’(s? +1) ) real
+Q7 a) 1
+Find [' 4 -——_——— > by convolution theorem.
+(s-2) (s+3)
+b) 1 gi
+Find ue [oe a
+0 Uu
+c) dy ay
+Solve -—-6y=2 0)=1 y'(0)=0
+Fg P72 VO=E y'(O)
+
+apr
+````
+
+## 2018-19 · Re-Exam · paper f6f5b6824b14
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+. SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+_Program: B.Tech Integrated (All Streams) — Year: II] ~ Semester: V
+~ Academic Year: 2018-2019
+
+Subject: Engineering Mathematics — III - Marks: 60
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 11 January 2019 —
+al anuary Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2016-17) —
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new qiestion to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql.
+(a) 1 2 3 (4)
+Verify Cayley-Hamilton theorem for the matrix A, where A4=|2 -l 4
+3 If —-
+() t,0<t<4 - (4)
+
+Find the Laplace Transform of f(t) =
+5,t>4
+
+(c) Find the Fourier series to represent f(x) =e™* in (0,27) and f(x+2)= f(x). (4)
+
+Q2.
+
+(a) Find the Laplace Transform of e™ sinh¢sin¢. (4)
+(b) Find the Laplace Transform of 1 H (t-4)+76 (1-4). (4)
+
+4
+©) Find the inverse Laplace Transform of Se, )
+s° -4s +13
+
+Q3.
+
+(a) 8 -8 -2 (4)
+
+Find the Eigen values and Eigen vectors of A=|4 -3 -2).
+3 -4 1 =
+
+(b) (4)
+
+2 1
+If A= , find A*.
+1 2
+
+(c) Reduce the quadratic form 2x; + 2x} + 2x; —2x,x, into canonical form through (4)
+orthogonal transformations.
+--- page 2 ---
+Q4.
+
+(a. . a ; -1; -m<x<0 (6)
+Find the Fourier series for periodic function f(x) = . State the
+x; O<x<a
+« 2
+value of f(x) at x =0 and hence deduce that >. =2.
+n=) (2n — 1) 8
+b 6
+(>) Show that the set of functions sin =) ,sin =) , sin (=) 5 iS ©)
+2L 2b 2L
+orthogonal over (0,L).
+Q5.
+(a) (6)
+
+Solve using Laplace Transformation 3% +2y=e", y=latt=0 .
+ft
+
+(b) . s . ae (6)
+Find the inverse Laplace transform of by using convolution
+
+(s? +a )(s° +b’)
+
+theorem.
+Q6.
+(a) -9 4 4 (6)
+
+Show that the matrix 4=| -8 3 4} is diagonalizable. Find the transforming
+
+-16 8 7
+
+matrix M and the diagonal matrix D.
+
+(b) sinu (6)
+
+dudt using Laplace Transform.
+
+oO t
+Eval Pt
+valuate Je ! 7
+
+Q7.
+
+(a) Obtain the Fourier series expansion of f(x) =x(z-x), 0<x<7 asahalf-range (4)
+
+cosine series.
+
+(b) Find the Fourier series for f(x)=1-x° in (-1,1). (4)
+(c) al (4)
+Find £1| 2 | .
+s°+3s4+2
+
+````
+
+## 2018-19 · Re-Exam · paper 97c100335862
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2017-18,2018-19 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 76.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+| Program: B.Tech Integrated (All Streams) Year: Il Semester : V
+| Academic Year: 2018-2019
+Subject: Engineering Mathematics—II_   - Marks: 70 «
+a Time: 2.00 pm to 5.00 pm
+
+Date: 11 January 2019 —
+Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2017-18/ 2018-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory:
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume -suitable data if necessary.
+
+as a) Find the Laplace transform of f o-{" ay irl : oY
+0 O0<r<l
+b) Find the Fourier series for f(x) =x’ in the interval (—z,z) . (G3)
+3-9 -12 (4)
+c) Find eigen values and eigen vectors of A7 where A=| 1 3 4
+0 0 1
+a (3)
+d) Evaluate Z” ve (i + =| ,
+Q2) a)Verify Cayley-Hamilton theorem and use to find matrix represented by (5)
+1 2 3
+A’ 64° +10A’ -34° +A+J] where A=|-1 3 1}.
+1 02
+b) IfA= k of | finde’. e
+vy. .
+3-1 1
+c) Check whether A4=|-1 3 -1|diagonalizable. If yes then find the transforming @
+1 -1 3
+
+matrix and the diagonal matrix.
+
+1/2
+--- page 2 ---
+Q3 t O<t<l
+) a) Find the Laplace transform of /(4)= < and f (t) is periodic with period2. (5)
+0 1<t<2
+s°+2s—4
+b) Evaluate 7] — 5 : (5)
+(s° +25+5)(s° +25+2)
+° t(4_p-" ° 4
+c) Evaluate j e li ui Jam : "
+0 oO u
+4 t 5
+24) a) Solve Ds 2y+|ydt=sine, given that (0) =1. 6)
+0
+? ©)
+b) Using Convolution theorem find Z* 7 ELVA WRETLY G
+(s +a’)(s +b )
+c) Evaluate i e" {PH (t—2)—costd(t—- 4)} , @)
+0
+Q5) a) Find the Fourier series for f(x) =e™ in(0,2z). (6)
+5
+b) Evaluate L {i eu’ sin 3u au| . ©)
+0 “
+~ 4)
+c) Find the inverse Laplace transform of Beal 3
+sotstl
+2x : a (5)
+—, 0O<x< —
+Q6) a) Obtain half range sine series for f(x) = 7 3
+ls, =<
+3 3
+b) Find the Fourier expansion of f(x) =sinax ,-I<x<l. (5)
+c) Show that the set of functions cos x, cos 2x ,cos3x,... is orthogonal on (0, 2) ; (4)
+Q7 , 0 7
+) a) Find the Fourier series for f (x) = * <*<e 3 le
+24 -x, R<Sx<2n
+4
+Hence deduce that — wed ohh
+9 LY 3 5 ;
+b) Reduce the quadratic form 21x,” +1 1x,” + 2x,’ —30x,x, +12x,x, —8x,x; to 1)
+
+canonical form through congruent transformations and find its rank and signatures.
+
+2/2
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper fc44e03a7569
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics -III Re-exam 2015-16.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 January 2019
+- Text: ocr (2 pages), mean OCR confidence 81.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (All Streams) Year: I Semester : III
+, Academic Year: 2018-2019
+
+Marks: 60 -
+Time: 2.00 pm to 5.00 pm -
+
+| Subject: Engineering Mathematics-III ~
+
+Date: 11 January 2019 Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2015-16) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 a) Examine whether the following set of vectors is linearly dependent or independent: (4)
+{(2,3,4,-1),(-L-L-1,1),(L1,2,—-1)}
+b) Find Laplace Transform of .
+(4)
+O= t 0<t<3
+“(6 t>3
+c) Show that the set.of functions f,(x) =cosmx, n=1,2,3,... is orthogonal in (0,27). (4)
+Q.2 a) Solve the system of linear equations: (4)
+x-2y+3t=2
+
+2xty+z+t=4
+4x-3y+z+7t=8
+b) Use Cayley Hamilton theorem to find 4°-64° +9A* —24°-12A? +23A-91 where (4)
+2 -1 1
+A=|-1 2 -l
+1 -1 2
+--- page 2 ---
+Q3
+
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+SA * | sas
+c) If A= 3 , find sinA.
+1
+0 3%
+1 -6 -4
+a) Find the eigenvalues and eigenvectorsof A=|0 4 2
+0 -6 -3
+b) Reduce x,?+2x,? —7x,’ —4x,x, + 8x,x, to diagonal form by congruent transformations.
+State rank, index and classify definiteness.
+a) Find Laplace Transform of ¢* cos 4¢ and hence evaluate fer? cos4tdt.
+0
+b) Find Laplace Transform of ef Smt iu.
+5 u
+c) Find Inverse Laplace Transform of —
+(s-1) (s ~ 1)
+a) Find Inverse Laplace Transform of a using convolution theorem.
+(s + 1)(s? + 4)
+b) Find Laplace Transform of the square wave function
+ie 1 O<t<a
+~|-1 a<t<2a’
+f(t+2a)= fl).
+c) Use Heaviside’s unit step function to find the Laplace Transform of
+sint O<t<z
+fO=
+cost {>
+a) Find Fourier expansion of the function defined by
+£@ 1 for O0<x<z flxt2n)= f(x)
+x)= ; +22)= .
+2 for a<x<2a wren @
+Deduce that = ecient —
+4 3.95 7
+b) Find the Fourier series for f(x) =4-x°, 0<x<2.
+a) Find Half range cosine series for f(x) = x(a —~) in the interval 0 <x<z and hence
+© (=1)" )
+deduce that =—.
+x nv 12
+2
+b) Solve TP 5D 4 6y =H(t)+8t6(t-1);   y(0) =0,y(0) =0
+
+2p
+
+(4)
+
+(6)
+
+(6)
+
+(4)
+
+4)
+
+(4)
+
+4)
+
+(4)
+
+(4)
+
+(6)
+
+(6)
+(6)
+
+(6)
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper 42d239d95cee
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III 2017-20180001.pdf`
+- Printed on paper: exam date: 23 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBATech (All Streams)   Year: II   Semester: III
+/   Academic Year: 2017-2018
+1
+Subject: Engineering Mathematics III ./
+Date: 23 November 2017 /'
+Instructions:   Candidates   should read carefully the instructions   printed on the question paper and on the cover
+of the Answer Book, which is provided   for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In ailS questions   to be attempted.
+4) All questions carry equal marks.
+5) Answer to each newquestion   to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable   data if necessary.
+Q.l)
+a) Examine whether the following vectors are linearly dependent or independent:   (3)
+. ::
+[1, 1, - 1],   [2, 3, - 5],   [2, - 1, 4]
+b)   Ev'aluate   fooo e-t sinto(t   - a)dt.   (3)
+c)   F· 111 d IIIverse .   L ap I ace trans fi orm 0 f 2 4s+12 2   (4)
+s +8s+1
+d) Show that the functions   f1 (x) = X, f2 (x) = cos2x are orthogonal in interval [ -"2' tt   _7r ].   (4)
+2
+Q.2)
+0<   t < 3
+a)   Solvey" + 4y = fU) where ytO) = O,y/CO) = OandfCt) = {a,t,   (6)
+t '2 3
+b)   Evaluate   face e-t (1 + 2t - 3t2 + 4t3)JjU   - 2)dt   (4)
+coswt,   0<   t < ~
+c)   Find the Laplace Transform of periodic function   fCt) =   W   (4)
+! a,   -< tt   t < - 21l
+W   W
+Q.3)
+a)   SI lOW t h at   )'0 (00 (Sin2t+sin3t) t   d t _ -   37r .   (6)
+te   4
+b)   If !,{fCt)}   = ~-,   find L{e-3tfC2t)}·   (4)
+S +s+4
+c)   Find   L -1 {   1   ..J   By using Convolution theorem.   (4)
+(s2+4s+13)2-)
+Page 1 of 2
+--- page 2 ---
+----.
+QA)
+a)   Reduce the following   quadratic   form to canonical   fdrm)"(l..lso find rank, index, signature and value   (6)
+class:   11xf;   xi + 6xj + 6X12 + 16x13 + 4X23 SO\VQ..   b'(j l-u"YJ   COY\3'Y"UQ,~   Gso-\vo-.V\.sQoYVYlc..),'
+~l
+b)   If A = [~   find cask   (4)
+c)   Determine   the values of it for which the following   equations   are consistent.   Also, solve the system   (4)
+for these values of it:
+x + 2y + z = 3, x + y + z = it, 3x + y + 3z = it2.
+Q.5)
+a)   Find the Fourier   series of [(x) = ~ (rr - x) in the interval   (0, Zti). Hence deduce that   (6)
+tt   1 1 1
+-=1--+---+···
+4   3   5   7
+b)   Find half range cosine   series of [(x) = x in the interval   (O,rr)"   (4)
+. c)   Find the Fourier   series of [(x) = x]x] in the interval   (- 1,u.   (4)
+Q.6)
+a)   Find the Fourier   series of [(x) = 2x - x2 in the interval (0,3). Hence deduce that   (6)
+rr2   1 1 1
+-=-+-+-+   ...
+3   12 22   32
+[~:c-~a -~blsatisfies
+Show that the matrix A =   Cayley-Harnilton   theorem and hence find A-"
+b)   (4)
+if it exists.
+2S
+c)   Find" Cl { e-   }   (4)
+s2+8s+25
+Q.7)
+a)   Fill ind L- 1 {S3+6S2+l4S}. 4   using metho I d or f partia "I   c. fractions. .   (6)
+(s+2)
+b)   [i   ~],find   (4)
+If A =   Eigen values and Eigen vector for A2 - 2;1+ I.
+c)   Find the Fourier   series of [(x) = coshax in the interval   (- tt, rr].   (4)
+Page 2 of 2
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper e47f908101fc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering mathematics-III 2015-16.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 79.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+
+Programme: MBA Tech (All Streams) Year: II Semester: III
+
+Batch: 2015-16 -
+Academic Year: 2017-2018
+
+Subject: Engineering Mathematics - III ~
+Marks: 60 ~
+
+Time: 10.00 am to 1.00 pm’
+Durations: 3 (Hrs)
+No. of Pages: _92—
+
+Date: 28 May 2018 ~
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+(4)
+
+Q.1)a) Show that the vectors (1,2, -1, 0], (1,3, 1,2], [4, 2,1, 0], [6, 1, 0, 1] are linearly independent.
+(4)
+
+b) Evaluate f,° e~*V1 + sint dt.
+
+c) Show that {cosx, cos2x, COS3X, «....}isaset of orthogonal function in the interval (—7,7). (4)
+
+3 -1 1
+Q.2)a) Find the Eigen Values and Eigen vectors of a matrix Fe 6 =| (6)
+
+1 -1 3
+b) Reduce the following quadratic form to canonical form and hence find its rank, index and (6)
+
+signature: x2 + 2x3 + 2x3 — 2xyX2 7 2X%2%3 + %1%3-
+Q.3)a) Find L{t S; e~*sin3u du}. (4)
+. -1 (s-1)? . :
+| b) Find L {saat using convolution theorem. (4)
+(4) i
+
+c) Evaluate J) e7*(1 + 3t — At2 + 2t3)H(t — 3)dt.
+
+,
+(4)
+
+Q.4)a) Solve y” — 6y' + 9y = t2e3t, y(0) =2, y’() =6.
+
+b) If f(t) = e'cos2t then find L{f (2t)} using change of scale property. (4)
+coswt, O<t ae w ( zn) a)
+Find L{f(t)} where f(t) = and f(t) =f\(t+—). 4
+
+c) Find LEPC} where FO=}y Beek fe =f(t+>
+
+Page 1 of 2
+--- page 2 ---
+-1, O0<x<z
+
+Q.5)a) Find the Fourier series of f(x) = {o exc on. (4)
+b) Obtain the Fourier expansion of f(x) =1—x?, -1l<x<1. (4)
+c) Find the half-range sine series of f(x) = e%* in the interval (0, 72). (4)
+. 1 e725
+Q6)a) Find L crore (4)
+b) Test the consistency of following equations and if possible solve them: (4)
+2x-y-z=2, x+2y+z=2, 4x-7y—-5z=2.
+c) Find the Fourier series of f(x) = sinax in the interval (—1, 72). (4)
+5 . 5 _ mx, O<x<1,_. .
+Q.7) a) Find the Fourier series expansion of f(x) = i 1exe2 having period 2. (4)
+_f2 1 : 50 .
+b) if A=[{ 5] then find 45°. (4)
+c) Find L-+ pesieest using method of partial fractions (4)
+s(s+1)(s+3). .
+
+Page 2 of 2
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper 5c4779ffee56
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering mathematics-III 2016-17.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 76.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+s
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: III
+
+Batch: 2016-17 ~
+Academic Year: 2017-2018
+
+Subject: Engineering Mathematics - III ~
+vy Marks: 70 *
+Date: 28 May 2018 Time: 10.00 am to 1.00 pm
+: Durations: 3 (Hrs)
+No. of Pages: _92—
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. | is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in brackets on the right hand side indicate full marks. =
+
+Q.1
+
+a) Discuss the solution of the system of equations for all values of k,
+x-2ythe =-l, kxe-2y+z=-1,x-2hyt+z=2. (3)
+
+1 2
+b) Apply Cayley-Hamilton theorem to A= ; | and deduce that 4°=6257. (3)
+
+c) Find Laplace Transform of. ia +sin3¢+e7 +cosh6r. (4)
+"a ,
+Using Parseval’s identity prove that a ri = 00 : (4)
+ni N
+Q.2
+a) Discuss and find the relation of linear dependence amongst row vectors of matrix—
+1 1 -1 1
+A=|1 -1 2 -l (4)
+3 1 0 1
+
+b) Test the consistency of the following equations and solve them if consistent
+
+x-2y+3t=2, 2x+y+z2+t=4, 4x-3y+z+7t=8. (5)
+
+1 -6 -4
+c) Find eigen values and eigen vectors of the matrix A=|}0 4 2 (5)
+0 -6 -3].
+Q.3
+a) Show that the matrix A is diagonalizable. Find the transforming matrix and the
+4 2 -2
+diagonal matrix: A=|-S 3 2 |. (7)
+2 4 1
+
+b) Reduce the following quadratic form to canonical form using congruent
+transformation, @lso write linear transformation. State rank, index, signature
+
+and nature of quadratic form: 2x,” +12x,x, + x,’ — 3x,” —4x,x, —8x,%,. (7)
+
+\o-
+--- page 2 ---
+Q4
+
+a) Find Laplace Transform of e“‘r’ sin 4r. (4)
+2 (12
+b) Prove that, J ei Sn : dt = ; log 5, using Laplace Transform. (5)
+
+0
+
+c) Find the inverse Laplace transforms, using convolution theorem:
+
+Ss
+
+7 5
+(s? +a*)(s? +”) ©)
+Q5 ;
+Find 2" _]., 7 4
+an (75) @
+. t, O<t<l
+b) Find Laplace transform of f(¢) = Sf (t)=f (t+2) for 1>0. (5)
+0, 1<t<2
+dy dy , .
+c) Solve - + rr +8y=1;»(0)=0,y'(0)=1, using Laplace Transform. (5)
+Q.6
+a) Find half range cosine series for f(x) =x in (0,2).
+1 1 1 x 1 1 1 x
+Hence deduce that i) —+—+—+....... =—, i) t+s+ +... =— 7
+" det gets 96° Dye tae 3 9 «=
+. . . cosx, -7<x<0
+b) Find the Fourier series for f(x)=4 , ¥ (7)
+sinx, 0<x<z
+Q.7
+a) Find the Fourier series for f(x) =sin2x in (-/,/). (7)
+; b
+. . . m-x) ,
+b) Find the Fourier series for f(x) = (=) in(0,2z). (7)
+
+2f,
+````
+
+## 2017-18 · Exam not stated · Sem 3 · paper 2b4b618f0fc8
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering mathematics-III 2017-18 (All streams).pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 75.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: II Semester: III
+
+Batch: 2017-18 ~
+Academic Year: 2017-2018
+
+Subject: Engineering Mathematics - III
+Marks: 70 ~
+Date: 28 May 2018- Time: 10.00 am to 1.00 pm*
+Durations: 3 (Hrs)
+No. of Pages: __© 2
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is’ provided for their use. .
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q1) a) Find Laplace transform of f(t) =cost, for 0<t<a : [4]
+=sint,fort>z. ;
+b) Determine the linear dependence or independence of vectors (1,1,-1,1),(1-1,2,-1) & [4]
+
+(3,1,0,1) . lf dependent find relation between them.
+
+_ 3
+c) Evaluate L! — , ; B]
+s° —45+20
+d) Find the Fourier series of f(x)=x—x° in{-z,z]. [3]
+Q2) a) Verify Cayley - Hamilton Theorem for the matrix A and hence find 4” . [5]
+1 2 3
+A=|2 -1 4
+3 1 -l
+a mld [5]
+b) IfA= , the find cos.A.
+0 a/2
+c) Investigate for what values of J and wz the equations x+ y+z=6,x+2y+3z=10, 14]
+
+x+2y+Az = have i) a unique solution, ii) infinite number of solutions, iii) no solution.
+
+(1/2)
+--- page 2 ---
+. ,
+ae a) Find Laplace transform of f(t) =Ke forO<t<T and f(Q=f (E47). [5]
+b) Find the inverse Laplace transform of —=—— . {5]
+st+4
+c) 0 in? ¢ [4]
+Evaluate | et er.
+0
+Q4) a) Using Laplace transform, solve (D +3D+2)y =e sint,y(0) =0,y'(0) =0. [5]
+‘ Ses -
+b) Find the inverse Laplace transform of 5 3 by using Convolution theorem. [5]
+(s +1)(s?+2s+2)
+a Find Laplace transform of | we™ cos? 2udu. (4)
+Q5) a) Find the Fourier series of f{(x)=e@* ,0<x<2z. [5]
+b) Evaluate L{f'\(t)} where f(t) =f sine. [5]
+As (4]
+c) Evaluate L* —— :
+s(s° +1)
+shan? : ; 2. Joel [5]
+a6) a) Obtain half range cosine series for F(x) =(x-1) in0<x <1. Hence find La :
+nal
+. : : . _,1 1 1 [5]
+b) Obtain the Fourier expansion of f(x) =| x| in(-/,/) . Hence find pigtat —
+3 5
+
+c) Showthat functions f(x) =1, f,(x) =x are orthogonal on(—1,1). Determine the constants a (4)
+and b such that f,(x)=—1+ax+bx* is orthogonal to both f(x) & f(x).
+
+Q7) a) Find the Fourier series of f(x) =xcosx inO<x<2z. [7]
+b) Reduce the quadratic form 2x?+2y?+2z?—2xy—2yz+2zx into diagonal through [7]
+orthogonal transformation, giso find orthogonal matrix, rank, index, signature and class value.
+
+(2/2)
+````
+
+## 2017-18 · Final-Exam · Sem 3 · paper 6642abed0ba5
+
+- Departments: Electrical, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / ELECTRICAL, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III (ALL STREAMS), FINAL EXAM.pdf` (+3 identical copies)
+- Printed on paper: exam date: 23 November 2017
+- Text: ocr (2 pages), mean OCR confidence 78.7
+
+````text
+a-~”
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T. / COMPUTER / EXTC/ CIVIL/ Year: II ~ Semester: III /
+MECHANICAL / MECHATRONICS / ELECTRICAL)
+/ Academic Year: 2017-2018
+
+Subject: Engineering Mathematics - III -
+
+Date: 23 November 2017 »
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to’be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql a) . . . 1 4 3
+Verify Cayley-Hamilton theorem for the matrix A= > 3
+
+Find 1,5 zal °
+rj
+
+c) 4
+Find L {rH (t —2)-cosh td (¢- 4)} .
+
+b)
+
+d) Find the Fourier expansion of f (x) = xin (-2, n) 4
+Q2 a) 2-1 1 6
+Find eigen values and eigen vectorsof}1 2 —-1
+: 1 -1 2
+b 2 1
+| ; ie A= > fin a”
+
+c) Test the consistency of the following equations and solve them if possible 4
+ge x+y—3z=-1,4x-2y+6z=8,15x-3y+9z=21
+
+Page 1 of 2
+--- page 2 ---
+Q3 a) Solve (D?-3D +2)y = 4e” with y(0) = -3, y'(0) =5 6
+b) Find naples Transform of f(t)=t, 0<1t<1; f(t)=0, 1<¢<2 and f(t+2)= f(t) 4
+c) * sin 3¢ 4
+
+Evaluate fe a
+
+Q4 a) Find the Fourier expansion of f(x)=~V1-—cosx in(0,27). Hence deduce that 7
+
+ae! 1
+x =—
+
+“14n?-1 2
+b s —1<x<0 7
+) Find the Fourier expansion of f(x) = " * use
+—cosx O<x<z
+Q5_ a) i 6
+Find [' ;——______ | by convolution theorem
+( s+4s41 3)
+b) Find L { e™ cosh 5rsin 41} 4
+c) ses 4
+Find p'{—5@
+so +25+2
+Q6 a) Show that the set of functions sin(2n+1)x, n=0,1,2,... is orthogonal over(0,7/). 6
+b t)=t O<r< 4
+) Find the Laplace Transform of #@ “ ;
+=b t>a
+€) Determine the linear dependence or independence of vectors (11, -1,1),(1,-1,2, ~1) and 4
+( 3,1, 0, 1). Find the relation between them if dependent.
+Q7 a O<x<l 6
+) Expand f (x)= ™ * period 2 into a Fourier series
+l<x<2
+b)
+
+2 1 Ss 4
+Find L —_ ;
+
+c) ane the following quadratic form to diagonal form using congruent transformations. 4
+xy — 2x} +3x? — 42,3 +6x,,
+
+Page 2 of 2
+````
+
+## 2017-18 · Final-Exam · paper 6b01c743e4ed
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III 2017-18 Final.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 November 2017
+- Text: ocr (2 pages), mean OCR confidence 78.0
+
+````text
+—“——- SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017 - 2018
+
+Program: B. Tech. Integrated (All Streams) ~ Year: III ‘ Semester:V
+Bk th
+Subject: Engineering Mathematics — III - Marks: 70 « —\
+Date : 23 November 2017. Time: 02.00 pagro'05.00 pa \
+Duration:3 hrs “ at PES
+No. of Pages: 2: {4
+{ae ow
+- - FINAL EXAMINATION a
+
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+8) Use of scientific calculator is not allowed. Only basic calculator allowed.
+
+Ql.
+(a) Evaluate Le + — 2sin2tcos3t?. (04)
+(b) Express f(x) =x° as Fourier series in the interval (-7z,7). (04)
+22 i
+(©) Find the Eigen values of 4?+J and Adj.4 if A=|1 3 1]. me)
+12 2
+d 7
+@ Find the Inverse Laplace Transform of F(s) = 3s+1 : 0
+(s+)* (03)
+i il for 4=| 1 “|. Find 4” and
+(a) Verify Cayley-Hamilton theorem for A= 5 al" in an (05)
+A -44'-7A4 +114°-A-101..,
+ml2 32/2
+(b) If A= 2 ; find cos A. (05)
+{1 -2 0
+(©) Is the matrix A=|}1 2 2] diagonalizable? Justify your answer. (04)
+1 2 3
+Q3.
+
+. 5 ' 2 d
+(a) Solve the differential equation (D° +9)y =18f where D= Re y(0)=0, 5) (05)
+
+7
+Evaluate I"! = ,
+(b) ©vatuene Foeeretereee w)
+
+1
+50° (04)
+4/, 2
+
+(c) Show that fe tfe™ cosu du.dt= °
+0 0
+--- page 2 ---
+Q4.(a) Find the Fourier series of f(x)=e™ in the interval (0,27). (05)
+
+(b) Evaluate if (4) \ (05)
+e
+. a
+
+(c) Evaluate Lin 21a -2)-2 H(t -2| (04)
+Q5.(a) Find half range cosine series of /(x)=sinx in the interval (0,7). (05)
+
+(b) Find the Fourier series of f(x) =2x—x’ in the interval (0,3). Hence deduce that
+05)
+
+moi. (
+
+=atoytot
+6 d 2 38
+(c) Prove that the functions f(x)=b and f, (x)= x? are orthogonal in the interval
+
+(-a,a) where a and b are real constants. Determine the constants C and D such (04)
+that the function f,(x)=—1+Cx+ Dx’ is orthogonal to both f(x) and f,(x)in the
+3 1 2
+given interval.
+Q6. . a
+asinwt, 0<t<—
+(a) Find the Laplace Transform of fOH= - (05)
+0, —<t<—
+a) @
+2
+where f| t+— |=/(t).
+@
+(b) Use convolution theorem to find the inverse Laplace transform of
+F(s)=— s(s+ 1) (05)
+(s° +)I)(s° +2542)
+sin 2t. cosht
+(c) Evaluate 1 {snc cosht (04)
+Ts
+Q Bi O<x<2
+(a) Find the half range sine series of f(x)= 7
+, m—X, Seca (07)
+Hence find the sum of = + 7 + = tees Also deduce that
+or a
+g pte tg tem
+(b) Obtain the orthogonal transformation that reduces the quadratic form
+O=6x? +3y? +3z? —4xy—2yz+4zx to the canonical form, also find the rank, (07)
+
+index, signature and value class of Q.
+
+2/2.
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 300845db3059
+
+- Departments: Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III (ALL STREAMS), BATCH 14-15,15-16 RE EXAM(3).pdf` (+7 identical copies)
+- Printed on paper: max marks: 60; exam date: 23 November 2017
+- Text: ocr (2 pages), mean OCR confidence 68.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (IT / COMPUTER / CIVIL / MECHANICAL / MECHATRONICS / EXTC)
+Year: II Semester: III Batch: 2014-15/2015-16
+
+Academic Year: 2017-2018
+
+Subject: Engineering Mathematics — III - ~~,
+Marks: 60,66'"¥'* “7 Batyy
+Date: 23 November 2017 Time: 19,00 am to 1. OO |
+
+Durations: 3 ( ae be ra
+No. Rages: 2 BaARW
+
+os
+
+Poon ae AA
+. . ee >
+Instructions: Candidates should read carefully the instructions printed o
+paper and on the cover of the Answer Book, which is provided for their use.
+
+Re-Examination
+
+‘NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining six questions, attempt any 4 questions.
+c) All questions carry equai marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+Qi a 2 3 3
+
+©) Find A”, if A= : 6)
+3-4
+(b) . : cost, 0<t<2z (3)
+Find Laplace transform of f(t) = Le
+0, t>2n
+(©) Find the Fourier Series for f(x) =x’ in (-/,/). (3)
+(d) Evaluate { ef sinh 2t dt. @B)
+“4
+
+Q.2 (a) — Reduce 6x,’ + 3x,’ +3x,’ —4x,x, +4x,x, -2x,x, to canonical (6)
+
+form by congruent transformations, @lso find its rank, index,
+signature and value class of the quadratic form.
+
+(b) Find for what value of 2 the equations (6)
+xty+zsl,xt+2y+4z=A, x+4y410z= 77
+have a solution and solve them completely in each case.
+
+Q.3 (a) Find the solution of (6)
+—— y"-3y'+2y =4t+e*, y(0) =1, y'(0) =—1 by using Laplace
+transform.
+
+6
+_ (b) Find 2" | 5 +29 \. (6)
+
+Q.4 (a) Find the Fourier expansion of f(x) =xsinx in the (6)
+
+interval O<x<2z7.
+1X, O<x<l (6)
+
+m(2—-x),1<x<2°
+
+(b)
+
+Find the Fourier series for f(x) = {
+
+V2
+--- page 2 ---
+Q.5 (a) : 1, O<t<a (4)
+Find Laplace transform of f(t) = ;
+-la<t<2a
+f(t+2ay= f(t) .
+(b) t sin3 (4)
+Find Lye f Fath
+>» &
+4
+© ving {1}, @
+Ss’ —2s
+Q.6 (a) Find the characteristics equation of the matrix A given below (4)
+and hence, find the matrix represented by
+A’ -5A'+7A° -34° + Ai -5A 484? -24 41, where
+211
+A=|0 1 O}.
+1 12
+(b) Are the following vectors linearly dependent? If so find the (4)
+relation between them
+[1,3,2], [5,-2.1], [-7,13,4].
+4)
+() Find L! : zp by convolution theorem.
+(s° + a’)
+Q.7 (a) Show that the set of functions cos nx, n =1,2,3,....... is (4)
+orthogonal over [0, 2x].
+#, O0<x< /, (4)
+(b) Find half range sine series for f(x) = :
+m-x, Y 4 <x< 0
+(©) Find L{rH(t—4)+1°6(t-4)}. (4)
+
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 758611083ba7
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 14-15 15-16 RE EXAM 2017-18(5).pdf` (+10 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 78.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (IT /Computer/ Electrical/ EXTC/ Year: II Semester: III ‘
+Mechanical/ Civil/ Mechatronics) i? =
+a
+
+f Batch: 2014-15 / 2015-16
+
+= Academic Year: 2017-2018
+Subject: Engineering Mathematics — III ( >, ‘.
+: “ Marks: 60 — 4 /y7 ro ga B \3 :
+Date: 28 May 2018 Time: 2.00 pm to 5:90 pm EAR ¥ dé
+Z , Durations: 3 (hr
+No. of Pages:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+la 2 3 3 marks
+Ota) If 4= , find A’ ( :
+-3 -4
+. . T 2 (3 marks)
+b) Find 1 (sin Ja{ -£)-e6(-2}
+©) Find the Laplace transform of J1+sint . (3 marks)
+d) Obtain the Fourier expression for f(x) =x° for -t™<x<z. (3 marks)
+Q.2a) Reduce the quadratic form 2x,x, +2x,x,+2x,x, into canonical through orthogonal (6 marks)
+transformations. Examine for definiteness.
+b) Determine for which values of 2 and yw the following equations (6 marks)
+xt+y+z=6, x+2y+3z=10, x+2ytdAzau
+have (i) no solution (ii) a unique solution (iii) an infinite no. of solutions.
+— Q.3 a) Solve by using Laplace transform (6 marks)
+pe (D? +2D+5)¥ =e"sint, wheny(0)=0,y(0)=1
+. 1 O<t<a df(t) iodic with period 2
+b) Find the Laplace transform of f()= -t a<t<2a and f (t) is periodic with period 2a. (6 marks)
+2
+
+Pager 4 i
+--- page 2 ---
+2
+Q.4a) Find the Fourier series to represent f(x) = (=) in (0,27) and f(x+27)= f(x) and (6 marks)
+
+hence deduce
+
+zm 1 1 1 1
+pee? er.
+
+b) Obtain the half range sine series for f(x) =e* in 0<x<l1. (6 marks)
+
+4 k,
+Q.5a)’ Evaluate I" __3s+l 2 (4 marks)
+(s + 1)(s? oo 2)
+b) a
+"Evaluate 1|4-cose)| (4 marks)
+c)
+
+f 4
+Show that f e~ cosh* tab (4 marks)
+0
+
+Q.6 a) Find the characteristic equation, eigen values and eigen vectors of the following matrices (4 marks)
+
+8 -6 2
+6 7 -4
+2 -4 3
+
+b) Examine whether the following vectors are linearly independent or dependent. If linearly (4 marks)
+dependent then find the relation between them
+
+X, =[L-1L1], X, =[2,1,1],X, =[3,0,2]
+
+1 1 (4 marks)
+¢) Evaluate ZL” | =———
+s(st+)
+Q.7a) Show that the set of functions cosmx, n =1,2,3,... is orthogonal on (0, 2) 3 (4 marks)
+b) Find the Fourier series expansion of (4 marks)
+
+mx, 0<x<z
+
+f (x+2z2)= f(x)
+
+—mx+2mn,1<x<2n
+
+(o)={
+
+| 8e°*
+c) Evaluate L , E ; | (4 marks)
+
+
+Pate op
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper b9e911a97bca
+
+- Departments: Civil, Computer Engineering, Electrical, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 16-17 17-18 RE EXAM 2017-18(5).pdf` (+10 identical copies)
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 78.0
+
+````text
+SVKM’s NMIMS _
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGIN EERING -
+
+Programme: B. Tech (IT /Computer/ Electrical/ EXTC/ Year: II
+
+Semester: III
+Mechanical/ Civil/ Mechatronics)
+
+a
+
+Batch: 2016-17 / 2017-18
+
+Academic Year: 2017-2018 i
+Subject: Engineering Mathematics — III 7 4 ¥
+a Marks: 70 ane
+- Date: 28 May 2018 Time: 2.00 pm to'S5.00 page
+L Durations: 3 (hrs) “ésags yw
+
+No. of Pages: 7° .
+Re-Examination
+Instructions: Candidates should read carefully
+Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume _uitable data if necessary.
+
+8) Use of scientific calculator is allowed.
+
+the instructions printed on the question paper and on the cover of t Be
+
+Q1 (a) IfA= [; | Find the eigen values of 84-1 + 5A 41.
+
+(3)
+(b) Find the constants Qo, A, and b, in the Fourier series expansion of
+f(x) = x? in (0,27). (3)
+(c) Find the Laplace transform of tsin3t. : (4)
+(d) Solve the following system of equations
+2x1 + X2 + 3x3 = 0, X + 2x, = 0, x2 +x3=0. (4)
+in2
+Q:2 a) Evaluate using Laplace transform [~ @¢ “@£ gy 5
+0 t
+(b) Find Laplace transform of (f + e~' + sin t)?. (5)
+; t O<tr<l
+(c) Find Laplace transform of f (t)= © tered and f(t+2)= f(t) fort>0. (4)
+<t<
+Q:3. (a) Find the Fourier expansion for f(x) = V1 —cosx in (0, 27) (7)
+— 1 1
+Hence prove that> = Yinat Pera
+"7 -9 4 4
+(b) Check whetherA=|-g 3 4 (7)
+-16 8 7
+
+is diagonalizable, if yes then find the modal matrix M so that M~-
+diagonal matrix.
+
+I
+
+*AM = D, where Dis
+--- page 2 ---
+Q:4
+
+Q:5
+
+Q:6
+
+Q:7
+
+(a) Solve by using Laplace transfo rm 6)
+
+a’y ax Sy= e tsint
+
+dx? +2 dy ey
+
+y()= 0, y'()=1 , }
+
+Obtain the expansion of f (x) == x(a — x) in0 < x < masa half range cosine series. Hence
+
+(b)
+oe ot n*
+show that Din=1pe => 6)
+14 el :
+(c) IfA= Ki n/2 find cos A. e
+(a) Find the inverse Laplace trans form of the following by using convolution theorem. (5)
+1
+(s—2)*(s+3)"
+(b) Find the Fourier expansion of (5)
+fd = 2, -2<x<0
+x, O<x< 2. ;
+(c) Determine the linearly dependence or independence of the vector X; = [1,3,4,2], X; =
+[3, —5,2,6],X3 = [2, -1,3,4]. If dependent find the relation between them. (4)
+1 2 3
+(a) Show that the matrixA=|]2 —1 4 | satisfies Cayley - Hamilton Theorem and hence
+3 pe 0
+find A~? if it exists. : 5
+(b) Find the Laplace transform of (5)
+
+f(t) = cost 0<t<a
+fH= sint t>T.
+
+(c) If Leerfvt) = 5 =a : 4
+Evaluate Sy ta’ erf(vt)dt.
+
+(a) For what values of constant A and p (5)
+theequations x+ty+z= 6
+x+2y+3z = 10
+x+2y+dAz =U
+have i) No solution ;
+ii) A unique solution
+iii) Infinite number of solutions.
+
+(b) Show that the set of functions {sin(2n + 1)x}, n=0, 1, 2,...... (5)
+is orthogonal over [0,/2] .Hence construct the orthonormal set of functions.
+s?4+254+3
+(4)
+
+, ; L a
+(c) Find the inverse aplace transform of (s242s45)(s?425+D)
+
+Se RK
+
+Ua
+````
+
+## 2017-18 · Re-Exam · paper c611abcf5842
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Re Exam_c611abcf58.pdf`
+- Printed on paper: exam date: 23 November 2017
+- Text: ocr (2 pages), mean OCR confidence 79.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 <
+
+Program: B. Tech Integrated (Mech / Civil / Comp) ¢ Year:IIL “Semester:V ¢
+Batch: 2016-17. Marks: 606%, ant ~
+Subject: Engineering Mathematics-III ~ Time: 02.00 bm to 05.00 Pa a
+
+Date :23 November 2017 ~
+
+RE - EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql 10 -1
+a) Obtain Eigen values and Eigen vectors of the matrix A=|1 2 1 (4)
+22 3
+b) Obtain L[sin 2rcostcosh 27]. (4)
+c) Find the Fourier series to represent f(x) =x in (0,27). 4)
+4 (6)
+
+Q2 a) Verify Cayley Hamilton theorem for the matrix 4-[) 3):
+
+Hence find the matrix represented by 4° -4.4*-7A4’ +114? —A-10J.
+b) Reduce x? +3x} +3x} —2x,x, to canonical form using orthogonal transformation. (6)
+
+Also state the rank, index, signature and nature of quadratic form.
+Q.3 a) Show that the matrix A is diagonalizable. Find the transforming matrix and the (4)
+
+2 1 41
+
+diagonal matrix, where A=|1 2 1].
+
+001
+/2 (4)
+b) 1fA=|7 7 | find sin A.
+0 32/2
+c) Show that thes set of functions cos mx , n=1,2,3,.... is orthogonal in (0, 2 7). (4)
+Q4 a) Obtain L"f | using Convolution theorem. (6)
+
+iG 241)
+b) Solve the following differential equation using Laplace transform
+
+(D*-2D-8)y=0 sy (0) =3 & y'(0) =6. (6)
+
+a
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q7
+
+a)
+
+b)
+
+c)
+
+a)
+b)
+
+5)
+a)
+
+b)
+
+5543
+Obtain L' §-——_—-.__ }.
+an ufttsxa|
+
+Obtain Laplace transform of f(t)
+Where f(t) = 1 OS t <2 = and f(t) = f(t+4).
+=-12<t<4
+
+Obtain L sinc {« - 4 -(? +1) (! = J .
+
+Obtain L [f, ue~“sin4u du J.
+
+. ttcosht
+Evaluate using Laplace transform, J — tt .
+e
+0
+
+Obtain Fourier series for f(x) = e* in (0, 2).
+Obtain Fourier series for f(x)= |x| in (-z,7) .Henée deduce that
+a; se :
+
+Obtain half range cosine series for f(x)= x(a —x)in (0,7).
+
+4
+Hence using Parseval’s identity deduce that oa = at 3 + z +
+
+(4)
+
+(4)
+
+(4)
+
+(4)
+(4)
+(4)
+(6)
+
+(6)
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 4ab7cb72e393
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2015-16 RE EXAM0001(1).pdf`
+- Printed on paper: exam date: 23 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+l\I1UKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA Tech (All Streams)   Semester:   III
+Batch: 2015-16
+Academic   Year: 2017-2018
+Subject: Engineering   Mathematics   III
+Date: 23 November 2017
+Re-Examination
+Q.1
+~l: 12 2 ~~J' II
+a) Given A   find Eigen values of A' +I.   (4)
+b) Find Laplace Transform of e" cos2tsint.   (4)
+c) Show that the functions J; (x) = 1,12 (x) = x are orthogonal   (-1,1). Determine the
+constants a andbsuch   that the function 13 (x) = -1 + ax + bx' is orthogonal to
+both J; and 12 on that interval.   (4)
+Q.2
+2l
+a) verifycaYleY-HamiltonTheore~formatriXA=f~l   ~   -a
+.   a -2   1 J
+,   Hence find A-I .   i   (6)
+b) Test for consistency the following equations and solve them if consistent.
+x-2y+3t=2,2x+y+z+t=4,4x-3y+z+7t=8.   (6)
+..
+Q.3
+a) Show that the matrix A is .diagonalizable. Find the transforming matrix and the
+=! =~l
+diagonal matrix: A = f!   (6)
+3 -4   1 J
+b) Reduce the following quadratic form to canonical form using congruent
+transformation,   .also write linear transformation.   State rank, index, signature &
+nature of quadratic form:   XI 2 +2XIX2 +2x/ + 3X32   - 2.x:,xJ +2X2X3 •   (6)
+--- page 2 ---
+QA
+a) Find Laplace Transform of   t5 cosh t .   (4)
+(at)
+sm • 2 -
+b) Evaluate Je-21   2   dt, using Laplace Transform.   (4)
+o   t
+c) Find i:' [   (s + 2)2 2]' using convolution theorem.   (4)
+(S2 +4s+8)
+Q.5
+a)Findrl((~+l)e-S\j.   (6)
+s +s+l
+b) Solve 3dy +2y=e 31   given that y=l   att=O   using Laplace Transform.   (6)
+dt
+Q.6
+a) Find half range cosine series for f(x) = x in (0,2).
+. 1   1   1   n 4
+Hence deduce that 1)4+4+-4   +   =-,   ".(6)
+1   3   5   96
+b) Find the Fourier series for f(x) = xsin x in (0, 2n)   .   (6)
+Q.7   .,~
+.   fx+n,-n<x<O
+a) Find the Fourier series for f(x) = In 2   .•   (6)
+--x O<x<n
+2   '
+b) FindtheFourierseriesforf(x)=4-x 2   in(0,2)   (6)
+:
+````
+
+## 2017-18 · Re-Exam · Sem 3 · paper 6cdbc4eb6fc9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2016-17 RE EXAM0001(1).pdf`
+- Printed on paper: exam date: 23 November 2017
+- Text: text (2 pages)
+
+````text
+SVKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY ·MANAGEMENT & ENGINEERING
+Programme: MBATech (AllStreams)   Year: II   Semester: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Engineering Mathematics III
+Marks:
+Date: 23 November 2017   Time:
+Duratilkl9:~0
+No.of~~~~~~~
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No.1. is compulsory.
+2) Out of remaining questions, attempt any four questions.
+3) In all five questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Q1
+a.   Let A =(~2   ~ »:~6 -3J   0 Find the Eigen values of .u' and A2_4l.   4
+-1 -2
+OC!
+b.   Evaluate f e- 31t 3 sintdt.   4
+o
+(s+1)e-s
+c.   Find the inverse Laplace Transform of   -'--:--'---   3
+"   S2 +s +1 .
+d.   Expand f (x) = lx - x2 0 < X < I as half range cosine series.   3
+Q2
+1 -6 -4J
+Find Eigen values and the Eigen vectors of A = ( 0   4   2   ,itlso check whether the
+a.   7
+o -6 -3   -
+A is diagonalizable.   If yes find the Transforming matrix and the Diagonal matrix.
+- b.   Reduce the following quadratic form to the sU!llof squares using congruent
+transformation and interpret your result. 3x2 + 2y2 + Z2 + 4xy - 2xz + 6yz   . Find two sets   7
+of values of x, y, z which will make the form positive and negative respectively.
+--- page 2 ---
+Q3
+Investigate   for what value of A and   J.1 the equations x + y + z = 6, x + 2y + 3z = 10,
+a.   x+ 2y+ Ay=   J.1 have (i) no solution   (ii) unique solution   (iii) multiple   solution. Solve the   5
+system in the case of multiple   solution.
+Determine   the linear dependence   or independence   of the vectors   (2,-1,3,2),   (1,3,4,2),
+b.   5
+(3,-5,2,2).   Find the relation between them if dependent.
+c.   If A = ( 2   3 J ' then find A 50.   4
+-3 -4
+Q4
+a.   Find the inverse Laplace Transform   of   1   2 using convolution   theorem.   5
+i(s+a)
+b.   Solve: (D2 + 2D + 5) y = e- t sint ,y(O) = 0 and y' (0) = 1using Lapl~ce Transform.   5
+c.   Find the Laplace transform   of J(t) = cost for 0 <t < Jr and J(t)=   sint for t > Jr.   4
+Q5
+t
+a.   Find the LapJace Transform   of r' f e" sin u du .   5
+o
+b.   Find t:' ( 4 S   4 )   •   5
+s +4a
+c.   Find the Laplace Transform   of the periodic function
+J (t ) = sin 2t 0 < t <7i
+4
+7i
+=0   <t c st
+Q6
+a.   Find the Fourier series of J (x) = x sin x x E (0, 2Jr) and hence deduce f _21-   == ~   .   7
+./   n=2 n -1 4
+b.   Find the Fourier expansion   for J (x) = x - x2   X E (-1,1)   .   7
+Q7
+..   e Ox _e- ax   2 (sinx   2sin2x   3sin3x   )
+a.   Prove that III the interval 0 < x < tt ;   0   -0" = -   -2 -   -   2   +   2   .   5
+e"-e   Jr a +1   a +4   a +9
+b.   Find the Fourier expansion   for J (x') = x2   X E ( -Jr, Jr) . Also deduce
+Jr4   1   1   1   1   5
+90 = ]4+2,4+]4+47······· ....·
+c.   Express the following   function   as Heaviside   Unit Step Function and find its Laplace
+Transform.
+J (t) = cos t   0 < t < Jr   4
+= cos 2t   Jr < t < 2Jr
+= cos3t   2Jr > t
+-!2iL.-I
+````
+
+## 2016-17 · Exam not stated · Sem 3 · paper 1714481bdd7a
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH IT COM EXTC, MECHA, C0001.pdf`
+- Printed on paper: exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 77.6
+
+````text
+i
+1
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : B. Tech (I.T. / COMPUTER / EXTC/ MECHANICAL / CIVIL)
+
+Year: II Semester : III
+Batch : 2013-2014 + ag
+Academic Year : 2016-2017 “ COTE BP
+
+0 a PST ME at
+00 am to,1,00 pre
+(hrs) ;
+
+Subject : Engineering Mathematics - III Marks :/
+
+Time :
+; Date : 23 November 2016 . Durati ame ff
+| Re-Examination me
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql.
+2x + y+2z=0
+a) Determine b such that the system of homogeneous equations: x + y+3z=0 has (i) trivial solution
+4x+3y+hz=0
+(ii) non-trivial solution. Find the non-trivial solution. (5)
+b) Find the Laplace transform of Lit 1+sin 2}. (5)
+c) Using convolution theorem, find Z™ emat (5)
+3(s +1)
+d) Show that the set of functions sin (2n + Ix ,n=0,1,2,... is orthogonal over [0 4 : (5)
+Q2.
+a) a=! 3 tn e4, 54, (8)
+b) Find the characteristic equation of the matrix A, and hence find the matrix represented by
+ae
+13 7
+os A’ -4A° ~ 204° -34.4' -449 - 204? 33441, where A=|4 2 3]. (6)
+1 2 1
+c) Are the following vectors linearly dependent? If so, then find the relation between them.
+X, =(421), X, =(2,14), X, =(4,5,6), X, =(1,8,-3). (6)
+
+Page 1 of 2
+--- page 2 ---
+Q3.
+
+Q4.
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+7)
+
+Q5.
+
+a)
+
+b)
+
+c)
+
+Q6.
+
+a)
+
+b)
+
+Q7.
+
+a)
+
+b)
+
+: : : ay dy he . dy
+Find the solution of 7 +27 +5 =e'sint, given y=0, ns =latr=0. (8)
+. j . 1 1
+Find the Laplace transform of f(s) = Esin pt, 0<t<— , and fd = fi + 4 : (6)
+P P
+Find L{(1+3¢—4¢? + 21° u(t -3)}. 3)
+2_ 2
+Find the Fourier series for (x)= a in (0,27).
+mam 1.11
+Hence, deduce that — =— +—-+—+... 8
+6 LP 2? 3? ae
+Find half range cosine series for f(x) =x, in (0,2). , (6)
+1 se +b? cosat —cosbt
+Show that L')—lo = . 6
+{4 {ate} t (6)
+742
+ed , (8)
+(s +25 +2)(s +25 +5)
+: 3, 0<t<S
+Find the Laplace transform of f(t)= ‘ (6)
+0,¢>5
+i er
+Find L : 6
+(2) (6)
+1
+x+—, -m@<x<0 2 1 1 I
+Obtain Fourier series for f(x)= . Hence deduce that yr pips
+—-x, O<x<a
+rn oe oe
+Also, deduce that — =—- +—-+— +... 10
+96 If 3° 5% uo)
+Find half range sine series for f(x)=xsinx in (0,7) and hence, deduce that
+2
+a a (10)
+
+sf/2 1 37 5% 7? 9? 11?
+
+Reduce the following quadratic form to canonical form (normal form) by congruent transformations.
+
+State its rank, index, signature and nature x? —2y* +3z? —4yz+ 62x. (10)
+Show that the matrix A is diagonalizable. Find the transforming matrix and the diagonal matrix,
+8 -6 2
+where A=|-6 7 —4|. (10)
+2-4 3
+
+Page 2 of 2
+````
+
+## 2016-17 · Exam not stated · Sem 3 · paper 9be59b19e2cc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-170001.pdf`
+- Printed on paper: max marks: 70; exam date: 24 November 2016
+- Text: ocr (2 pages), mean OCR confidence 77.3
+
+````text
+, SVKM’s NMIMS
+Z MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: II Semester: [If-=
+£ Tw
+. Academic Year: 2016-2017 ‘SON ;
+
+Subject : Engineering Mathematics III
+
+Marks: 70
+
+Date : 24 November 2016 Time : 10.0)
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 a) Examine the following vectors for linear independence : (3)
+vy, =(1,2,0,-3),v, =(2,-1,1,7),v; = (4,3, 2,2).
+b) Find Inverse Laplace Transform of S42, 843 (3)
+
+2 s’ 45413
+2 for0<t<2
+c) Find Laplace Transform of f()=4t-1 for 2<t<3
+
+4
+7 for t>3 4)
+d) If f(x) =9-x° for -3 <x <3, obtain Fourier series of f (x) (4)
+Q.2 211
+a) Find Eigen values and vectors of A=|2 3 2). Hence find the Eigen values )
+\3 3 4
+and vectors of 47+A+T/.
+
+b) Reduce the quadratic form 4x” +3y? + z* —8xy —6yz+4xz to diagonal form 7
+through congruent transformation and find non zero (x, y,z) for which the value oo)
+of the quadratic form is zero. State rank, index and signature of the quadratic
+form and determine definiteness.
+
+— Q3 (5)
+
+od (2 01
+
+b) Hal 3 4|,find 4” and A’ 1145 +2145 - A4 442-1242 4244-31 (5)
+
+-1 3
+a) If A -( 5 Al find e*, by diagonalising A.
+
+-5 5 6
+
+using Cayley Hamilton Theorem.
+c) Find the value of 4 that makes the following system of equations consistent and
+find the general solution for that value of 2. (4)
+
+a
+--- page 2 ---
+xty-ztt=2
+2y+4z4+2t=3 vf
+
+x+2yt+7z4+2t=A
+
+Q.4 a) Using Laplace Transform find solution of the initial value problem (5)
+y" —4y'+4y = 64sin 2t; y(0) = 0, y'(0) = 1.
+
+b) Using Laplace Transforms, Prove that few ante = ; : (5)
+
+0
+
+-2s
+
+s*(s+9) (4)
+
+c) Find Inverse Laplace Transform of
+
+Q5 a) Using convolution theorem, find Inverse Laplace Transform of s+] 6)
+
+2 Lay
+(s +25+ 2)
+b) Find Laplace Transform of the periodic function defined by
+2
+T
+2¢en, Peter
+T 2
+St+T)=fO.
+
+c) Find Laplace Transform of J ue cos’ 2u du. (4)
+
+0
+
+’
+
+T
+fo~ alee (5)
+
+Q.6 a) Obtain Fourier series in the interval (-2,7) for the function (7)
+
+f= | O<x<a
+
+Hence deduce that
+
+~   l 1 1 1
+i) +52 4+5>5+ =>
+13° 3.5 5.7 2
+
+1 1 1 m-2
+b) Obtain half range sine series for f(x) =x/—x’in (0,/)
+Hence deduce that (7)
+945° 1°
+
+g et EL
+322 Pv Ss 7
+* 1 1.1.1
+Q.7 a) Show that the set of functions (5)
+a sin( =} sin( 2) sin( 5) cevseeaes
+! 2L 2L 2L
+b) If f(x)=2x , 0<x<2z, find Fourier series for f(x) and also find b,, a,. (5)
+c) Prove that for -7<x<z
+
+0, -m<x<0
+
+ii) ates per ncen meee
+960 1° 3°
+
+wv 2 1 1,1,1,1
+ti) ous oe ae ae get
+
+is orthogonal over (0, Z).
+
+2 2 z . +
+x(x -x°) sinx sin2x sin3x
+
+(4)
+
++
+12 r 2 3
+````
+
+## 2016-17 · Final-Exam · Sem 3 · paper cb36e2a20b40
+
+- Departments: Computer Engineering, Electrical, Electronics and Telecommunication, Mechanical, Mechatronics
+- Programmes: B TECH / COMPUTER, B TECH / ELECTRICAL, B TECH / EXTC, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH (COMPUTER) 2016-17 FINAL EXAM.pdf` (+4 identical copies)
+- Printed on paper: max marks: 70; exam date: 23 November 2016
+- Text: ocr (3 pages), mean OCR confidence 79.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (I.T. / COMPUTER / EXTC Year: II Semester: III
+/ELECTRICAL / MECHANICAL / CIVIL
+/ MECHATRONICS)
+
+/ Academic Year: 2016-2017
+
+*
+
+Subject : Engineering Mathematics — II Py i, ot MB Va
+Marks: 70 Af LIBRARY i
+Date : 23 November 2016 Time : 10.00 to 1.00 pm
+Durations: 3\itrs[~ 4
+Final-Examination SS nd
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 01 is compulsory.
+2) Out of remaining questions, attempt any 04 questions.
+3) In all 05 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of Scientific Calculator is allowed.
+1-a. Find an orthogonal matrix P such that P’ AP is a diagonal matrix where
+a b
+A= f az#band a,bare non- zero real numbers. [3M]
+a
+1-b. Find the Laplace Transform of f(t) = evitsin¢. [3M]
+1-c Only using Cayley Hamilton Theorem find A‘ —3A’ +3] for the matrix
+3 1
+A= : [4M]
+1 4
+1-d. Find the Fourier series of (x) =x? —x° wherex €(-i,]). {4Mij
+2-a. Evaluate fe™ dt using only Laplace Transforms. [4M]
+0
+2-b. Evaluate fe*erf Vide using only Laplace Transforms. [SM]
+0
+. (2
+2-c Find the Inverse Laplace Transform of tan” | — |. [5M]
+s
+
+73
+--- page 2 ---
+3-a If foy={-" = aes ae +o Ue eae a sin nx where
+x
+
+O<x<a nal nal
+4
+xe (x, n)is a Fourier series of f(x) then prove oat Soap iy = = 2 [4M]
+nal (20 —
+-9 #4 4
+3-b. Find the Eigen values and vectors of the square matrix given by A= —8 3 4
+-16 8 7
+and hence obtain the Eigen values and vectors of A’ —3.4’ +71. [5M]
+3 -l 1
+3-c Check whether A =| —1 3 —1 |is diagonalizable if yes then find the modal matrix
+1 -l 3
+M so that matrix M~'4M = Dwhere Dis a diagonal matrix.
+[5M]
+a.
+4-a Find the matrices sin Aand cosAwhere A=| 2 and hence show that
+-a 22
+sin? A+cos’ A=1,. [SM]
+
+4-b Find the Fourier series for {(x)=Jl—cosx,xé (0, 2n) and hence show that
+
+Att sock _
+13 3.5 5.7 2
+
+2
+4-c Solve the linear differential equation a +3 a +2y=e'sint where y(0)=0, y'(0)=0
+
+only by use of Laplace Transforms. [5M]
+
+5-a
+
+1. Find the inverse Laplace Transform of 7 7 by convolution theorem.[4M]
+(s? +4 \s? +9)
+
+i at
+2. Evaluate fe " feosudur using Laplace Transforms. [3M]
+00
+--- page 3 ---
+I —1<x<0
+5-b Find the Fourier series of f(x) = *<" and hence show that
+x 0<x<l
+c 1 val
+— =<. 7
+LF 90 a
+
+6-a Reduce the quadratic form x; +2x; +3x; +4x,x, +8x,x, +12x,x, to the canonical form
+
+using congruent transformations and hence find the rank, index, signature of the form also
+comment a note on it ’s class value. [7M]
+
+6-b Find the Laplace transforms of the following functions
+
+d ( 1—cos2t
+1. t) =—| ——— 3M
+oO) 4 ; } [3M]
+
+7 O0<x<a
+2. ot)= t where ¢(¢+2a) = (1) [4M]
+—(2a-1) asx<2a
+a
+T-a
+1. Evaluate fe* ( +2t-30° +40 VEG — 2)dt using Laplace Transforms. [3M]
+0
+athe: _. five}
+2. Find the inverse Laplace Transform ofe 5 ' [4M]
+Ss
+
+7-b
+
+1. Find Half range sine series of {(x) = x(a — x) where x € (0, )and hence show that
+
+oO 1 nw
+a (Q2n-1)) 945 en]
+2. For what values of constants /,4 the following system of equations have =.
+x+y+z=6 (am j
+— | x+2y+3z=10 3m
+xt+2ytdAz=y
+saa (i)No Solution
+(ii) Unique Solution
+
+(iii) Infinitely Many Solutions
+
+p-
+````
+
+## 2016-17 · Final-Exam · paper 2a7b3f81ac98
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Final.pdf`
+- Printed on paper: duration hours: 3; exam date: 23 November 2016
+- Text: ocr (2 pages), mean OCR confidence 81.2
+
+````text
+Programme: B. Tech Integrated (All Streams) Year: III Semester: V
+
+Academic Year: 2016-2017
+
+Subject : Engineering Mathematics-III ‘ g\R@YE ay :
+
+Date : 23 November 2016 te J F ooenseom a0
+
+Durations: 3 (hrs), &
+
+Final-Examination AN Ba nee
+es pee
+
+Instructions: Candidates should read carefully the instructions printed on the-qa
+the cover of the Answer Book, which is provided for their use.
+
+“e
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q.1a) 2 -1 1
+Verify Cayley Hamilton theorem for A=]|—1 2 —1j} and find 4".
+la -1 2 4
+b) Find L(cosht) . 4
+c) Find the Fourier series of f(x) =-1, 0<x < 4
+=2,0<x<2n
+Q.2 a) Find the eigen values and the eigen vectors of the matrix 6
+4 6 6
+A=|1 3 2].
+—1 -4 -3
+
+b) Reduce the quadratic form Q=2x,? + 2x2? + 2x3? + 2x,x2 to canonical form by using 6
+
+orthogonal transformation. Also find the rank, index and signature of Q
+
+Q3 a) [2 1 30 4
+ifA=[5 | find 4°.
+b) Show that the matrix A is diagonalizable. Find the transforming matrix and the diagonal 4
+2:2 -3
+matrix ,where A=| 2 1 -6].
+-1 2 0
+
+4/2
+--- page 2 ---
+c) Find the Fourier series of f(x)=|z| in the interval (-z, 1).
+nm o1,1,121
+Hence deduce that > “2 tatat-
+
+Q4a) Find LES).
+
+b) Find the inverse Laplace transform of = : 3
+
+c) Solve using Laplace Transform, y" + 4y' + 8y = 1,y(0) = 0,y'(0) = 1. 6
+Q.5a) Find the Laplace transform of e*(1 + Vt)‘. 4
+b) Find L(e~** ff t sin3t dt). 4
+
+c) Find the Laplace transform of fi) = 1,0St<a 4
+
+=-la<t<2a
+where fit) is a periodic function with period 2a.
+
+Q.6a) Obtain half range cosine series for f(x) = x(x -x) in(0,z). 4
+b) Using Laplace transform show that fy e V2 — dt =". 4,
+
+c) Find L(tv1 + sint). 4
+6
+
+Q.7 a) Find the Fourier series of f(x)= 4 - x’ in the interval (0,2).
+
+2
+Hence deduce that meaty iy St tee
+6 1. 22° 32
+
+b) Prove that the set of functions {1, sin x, cos x, sin 2x, cos 2x, } is orthogonal in the 6
+
+interval (0,270) and construct the corresponding orthonormal set.
+````
+
+## 2016-17 · Re-Exam · paper 7900b3add791
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Re Exam_7900b3add7.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2018
+- Text: ocr (2 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGIN
+
+Program B.Tech Integrated (All Streams) Year: WI S
+AcademicY ear: 2018-2019
+
+Subject: Engineering Mathematics—HII_ - Marks: 60
+
+; a
+Date: 14 November 2018   ~ Time:2.00 pm to 5.00
+Duration: 3 (hrs)
+No. of Pages: 2
+
+Re-examination (2016-17) ~~
+
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. ONE is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql.
+(a) 1 2 -2 (4)
+
+Verify Cayley-Hamilton theorem for the matrix A, whered=|-1 3 0
+
+0 -2 #1
+(b) Find the Laplace transform of (4)
+cost for Q<t<z
+ro=| sint for t>a
+(c) Find the Fourier series for f(x)= x’ in(0,27). (4)
+Q2.
+(a) Find the Laplace transform of tV1+sin¢ . (4)
+(b) Find Laplace Transform of i (Nake for O<1<T and f(t)=f(t+T), 4)
+(©) Find the inverse Laplace Transform of __ Set Lo @)
+(s + 1) ( sit 2)
+
+Q3.
+(a) 12 2 (4)
+
+Find the Eigen values and Eigen vectors of A=|2 1 2].
+
+22 1
+
+(b) (4)
+
+-1 4
+If 4-| 4 i then prove that 3tan A = Atan3.
+
+Yo
+--- page 2 ---
+(c) 1 2 2 (4)
+Is the matrix A=| 0 2 1] is diagonalizable? Justify.
+
+-1 2 2
+Q4.
+6
+(a) 1a2%, -m<sx<0 ©)
+Obtain the Fourier expansion of f(x) = 5 . Hence deduce
+1-2, O<x<a
+x
+2
+that a
+
+8 1 3? 5?
+(b) Show that the set of functions {sin(2n + 1) x} , n=0,1,2,... is orthogonal over (6)
+
+(0, ap ) . Hence construct orthonormal set of functions.
+
+QS.
+
+(a) (6)
+
+d
+Solve using Laplace transform of = +3y=2+e", if y=latt=0.
+(b) 2 _sin’t 1 (6)
+
+Prove that |e dt = 78 5.
+0
+Q6.
+(a) Reduce 2x? +2y° —z? —4yz+4xz—8xy into canonical form by orthogonal (6)
+transformation. .
+(b 2 6
+) Find inverse Laplace Transform of ome by using convolution. ©)
+(s° +6545)
+Q7.
+(a) Find half range cosine series for f(x) =x in 0<x<2. (4)
+(b) 0; -c<x<0. 4
+Expand f(x) = * in Fourier series of period 2a. oe
+aw O<x<c
+(c) a (4)
+Find ZL” :
+(s+4)?
+
+
+a
+````
+
+## 2016-17 · Re-Exam · paper b0e24fa164df
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Re Exam_b0e24fa164.pdf`
+- Printed on paper: exam date: 28 May 2018
+- Text: ocr (2 pages), mean OCR confidence 77.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (All Streams) < Year: Ill, . Semester: V «
+Batch: 2016-17 ¢ aais _ .
+Academic Year: 2017- Zé: The 8 .
+Ves ra Rita
+Subject: Engineering Mathematics =! Il « a x
+
+Date: 28 May 2018 <
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+Ql. (a) Express f(x) =x as Fourier series in the interval (—2,2). (04)
+(b) Evaluate L {30% +4f — cos2tcos3¢+sinh 2th . (04)
+4 6 6
+(©) Is the matrix A=| 1 3 2 | diagonalizable? Justify. (04)
+-l1 -5 -2
+(04)
+Q2. (a) Find the Fourier series of f(x)=e" in the interval (0,27).
+(6) Evaluate Lit sin¢sinh¢} (04)
+(c) 4 4
+Evaluate L4t° H(t-—2)-—costd ‘7 : (04)
+Q3. (a) : . 1 2 (04)
+Verify Cayley-Hamilton theorem for 4 = 4 and hence deduce that
+A = 6251.
+-1 4
+(b) If A= 2 1 then prove that 3tan A = Atan3. (04)
+2 -1 1
+(©) Find the Bigen values of A?-24+/ and Atif A=|1 2 -11. (04)
+1 -l 2
+
+01/02
+--- page 2 ---
+Q4.(a) Show that the functions f(x)=1, f,(x)=x are orthogonal in the interval (—1, 1). ,
+(04)
+
+Determine the constants a and b such that the function /,(x)=—-1+ax+bx’ is
+orthogonal to ‘f(x) and f,(x) .
+3s+1
+Evaluate [' /——_.___ }.
+(b) {c ths? + 5| (04)
+(c) Show that few [== au.dt=Htog 2. . 04
+du ae) (04)
+Find the Laplace Transform of f(y=1°" °<!*<?
+ind the Laplace Transform o =
+Q5. (a) P 6 2<t<4
+: (04)
+where f (t+4)= f(t).
+(b) Use convolution theorem to find the inverse Laplace transform of
+F()=— 1 . (04)
+(s° +45 +13)
+sin 2¢+sin3¢
+(c) Evaluate 1{snaissinst} (04)
+Q6. (a) Solve the differential equation using Laplace transforms: (D* -2D? +5D)y =0 (06)
+where D= <. y(0)=0, y'(0) =0, y"(O)=1.
+(b) Find the Fourier series of f(x) =4-.x’ in the interval (0,2) . Hence deduce that
+2 . (06)
+wii ily
+6 bP 2? eo
+Q7. (a) Reduce the quadratic form O=8x,’ + 7x,’ +3x,’ -12x,x, —8x,x, +4x,x, to the
+canonical form using orthogonal transformation, also find the rank, index, (06)
+signature and value class of Q.
+(b) Find the half range sine series of f{(x)=x° in (-2, 7) .
+11.1 (06)
+Hence find the sum of [+ +p tee
+v2 3
+
+02/02
+````
+
+## 2016-17 · Re-Exam · paper b655cb21abba
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2016-17 Re Exam_b655cb21ab.pdf`
+- Printed on paper: exam date: 26-May-17
+- Text: ocr (2 pages), mean OCR confidence 81.0
+
+````text
+~
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated ( All Streams) Year: III Semester: V
+
+Batch: 2016-17
+Academic Year: 2016-2017
+
+Subject: Engineering Mathematics - III
+
+3m.
+
+te
+
+Date: 26-May-17
+
+Re-Examination
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+x 3 1 4
+Q a) If matrix A= I then find matrix 4. ®
+b) Find Laplace Transform of 3¢* — 4e~" —2sin 5¢+3cosh 2r. , (4)
+c) If f(x)=x* for -7 <x <7, obtain Fourier series of f (x)- (4)
+Q.2 1 6 -4
+a) Show that matrix A=|0 4 2 | is similar to a diagonal matrix, also find the 6)
+0 -6 -3
+transforming matrix and the diagonal matrix.
+b) Using Cayley Hamilton theorem, find A™ and the matrix represented by
+13 7 6)
+A’ -4A° -20A° -34A* -44° -20A -33A4+J], where A=|4 2 3
+12 1
+Q3
+a) Reduce the quadratic form x,’ +3x,° + 3x,” —2x,x, to canonical form using (8)
+orthogonal transformation, also write linear transformation. State rank, index,
+signature & nature of quadratic form.
+b) Obtain half range sine series for f(x) =F in(0,7). (4)
+Hence deduce that ~ =1-1,1_1, oe
+4 3.5 7
+
+VA,
+--- page 2 ---
+(
+
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+a)
+
+b)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+Using Laplace Transform find solution of the initial value problem
+y"-3y"+3y'-y=0e' where y(0)=1, y'(0)=0,y"(0)=-2.
+
+2
+Using convolution theorem, find Inverse Laplace Transform of (s+2) 5
+(s?+4s+8)
+
+cost , 0<t<2z
+0 , t>2z
+? sin3t
+
+Find Laplace Transform of f(t) =
+
+dt
+
+Using Laplace Transforms, find J 7
+e
+)
+l-e du
+
+t
+Find Laplace Transform of J
+u
+
+0
+
+3t, 0<t<2
+
+Find Laplace Transform of the periodic function defined by f(t) =
+6,2<t<4
+
+where f(t+4) = f(t).
+Find Laplace transform of sin 2r6 (! -4) + (1 +2t-? ) H(t-4).
+
+x? 1
+Prove that the functions f,(x)=1, f(x) =x, f(x) = Gr) are orthogonal over
+(-1,1).
+
+If f(x) = V1—cosx, find Fourier series for f(x) over (0, 27). Hence deduce
+1 <4 1
+
+that — = :
+2 x 4n? -1
+
+n=]
+
+If half range cosine series for f (x) =x over (0, 2)is given by
+
+8} 1 mx 1 32x
+x =1-—5| =cos— +> cos— +....].
+a {1 2 3 2
+Using Parseval’s identity, prove that i) moist i,
+g y, p 06 ah ght
+
+“1 1 101
+
+ii) statatat
+90 1% 2%
+
+(6)
+
+(6)
+
+(4)
+
+(4)
+
+(4)
+
+(4)
+
+(4)
+
+(4)
+
+(8)
+
+(4)
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper aa7dee6b2fd0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2015-16 RE EXAM0001 (1).pdf`
+- Printed on paper: exam date: 26 May 2017
+- Text: ocr (3 pages), mean OCR confidence 78.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: II Semester: III
+
+Batch: 2015-16
+Academic Year: 2016-2017
+
+Subject: Engineering Mathematics III
+
+‘ M
+Date: 26 May 2017 Tiny
+
+Aa} ¥0.00.am to 1.00% pi
+Dur@tons: 3 (hrs) y 35
+
+Non ges: 3 ey
+
+ys
+Nes FN Z
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+a) Examine whether the vectors X, = [3,1,1],X, = [2,0,-1],X, = [4, 2,1] are linearly
+
+independent. (3)
+b) Show that the set of functions cos nx, n = 1,2,3,....is orthogonal on (0,27) . (3)
+c) Find Laplace transform ofsin°r. (3)
+d) Find i et sintdt using Laplace transform. (3)
+Q.2
+
+a) Show that the system of equations 2x —2y+z=Ax,2x—-3y+2z =Ay,-x+2y=Azcan
+possess a non-trivial solution only if A = 1, 2 = —3 . Obtain the general solution in each case. (4)
+
+b) Test the consistency of the following equations and solve them if they are consistent:
+
+2x-y+z2=9,3x-—y+z=6,4x-y+2z=7,-x+y—-z=4. (4)
+8 -6 2
+
+c) Determine the eigen values and eigen vectors for the matrix:| -6 7 —4|. (4)
+2 -4 3
+
+Vs
+--- page 2 ---
+Q3
+
+a) Find the characteristic equation of matrix A and hence find the matrix represented by
+
+211
+AS -5A'+7A8 -34° +4) -54° 484? -2A4+] whereA=|0 1 0]. (4)
+112
+
+b) Reduce the following quadratic form 6x; +3x3 + 14x} +4x,x, +18x,x, +4x,x, to diagonal form
+
+through congruent transformation. (4)
+-1 4 .
+
+olf A= > 1 then prove that3 tan A = Atan3. (4)
+
+Q4
+
+. e~ sin 2tcosht
+a) Find Laplace transform of ————————-
+
+(4)
+
+t
+b) Find Laplace transform of
+f(t) =asin pt, <r< 2s f(t)=0,2 <1< and no=4[ 424) . (4)
+P P P P
+c) Using Laplace transform evaluate |e" (1420-2 + )H(t -1)dt . (4)
+
+Q.5
+; ; _   5s°+8s-1 . ;
+a) Find the inverse Laplace transform of the following: using partial fractions. (4)
+(s+3) (s + 1)
+s
+b) Find the inverse Laplace transform of the following: -~>——_ using convolution
+(s +1)(s +4)
+theorem. (4)
+c) Solve ( D? -3D+ 2)y =4e" with y(0)=-3 and y(0)=5. (4)
+
+Q.6
+
+a) Find the Fourier series of the function f(x) =e*,0<x<2a and S (x+ 2) = t (x) . Hence
+
+S(-1)'
+
+deduce the value of ) ~—— (6)
+
+Stl
+2/5
+--- page 3 ---
+2
+a 1
+b) Find the Fourier expansion of f(x) =x’, —a <x <a and hence prove that i) — = y
+
+n=l a
+4 ~o
+1 1
+i)—=) —. 6
+90 pie: (6)
+Q.7
+2 -2<x<0
+a) Find the Fourier expansion of f(x) = . (6)
+x 0<x<2
+b) Find half range sine series for x sin x in(0,z) and hence deduce that
+we ol iat i, ' «8
+3/2 res Po
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper b5ae4db2492c
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2016-2017 RE EXAM0001.pdf`
+- Printed on paper: exam date: 26 May 2017
+- Text: ocr (3 pages), mean OCR confidence 72.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+J
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TSCRSGEOGE MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: I Semester: III
+
+Batch: 2016-17 ca
+Academic Year: 2016-2017
+
+Subject: Engineering Mathematics Il Marks: nape a)
+
+Date: 26 May 2017 Time: 10,Q9 ani to 1 ot Pp a
+_ ° < Duration 8 (hrs) ® ONS ;
+
+No. ai LBra OS
+
+eet
+Nr ee
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+NB:
+
+Re-Examination
+
+1. Question No.ONE is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks. .
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+Q1) ;
+a) Examine whether the following vectors are linearly dependent or linearly independent, and
+find the relation if dependent: (1,1,1,3), (1, 2,3, 4), (2,3, 4, 7).
+
+ob. -_ = ~2t .
+b) If L{cosh 2t - cos 2t} = rari cosht - cos t}. (4)
+. 0;0<t<z
+c) Find L{f(é)}, where f(t) = {oes eter (3)
+d) Find the Fourier Series of f(x)=x in (-z,7).   - (3)
+Q.2) .
+
+2) Show that the quadratic form 5x? + 26x? +10x? + 6x,x, +14x,x, +4x,x,is positive semi (7)
+definite and find the non-zero set of values of x, x,, x, which makes the quadratic
+form zero.
+
+b) Verify Cayley- Hamilton theorem and find A™ for (7)
+
+1 2 3
+A=/-1 3 1].
+1 02
+
+Hence find A’ —6.4° +104’ —34° + A+J, in terms of A.
+
+fs
+--- page 2 ---
+Q.3)
+a) Solve the differential equations by Laplace (7)
+
+dx dy -t
+ata t* =e
+
+dx dy t
+at at tyRe
+
+subject to the condition x(0) = 1; y(0) = 0.
+sin’ ¢
+
+2 (7)
+t
+
+b) Find Laplace Transform of
+Q.4)
+
+a) A sinusoidal voltage Esin wx is passed through a half-wave rectifier which dips of (7)
+the wave and the resulting function is given by
+
+-1
+0,—<x<0 2
+f(x)=4 ° with the period —~. Prove that the Fourier expansion
+[#sinox,0<x<= 7 .
+ra)
+for f(x) is f (x)= 2-22 L
+
+ax « “H4n-1
+
+E.,
+cos 2n@x + eal @x
+
+x,0<x<z
+
+b) Find the Fourier Series expansion in (0,27) of f(x)= { ex<2n Hence
+M—-xX,0<x<2n
+
+molly
+deduce that 96° j4 | 34° 54 0"
+
+Q.5)
+
+a) Prove that sin (= sin (= },sin (=), seseee y+. are orthogonal over (0,2) (5)
+
+. -1 S(s+1) , P
+
+b) Find L ferry eererers rere using convolution theorem. (5)
+
+c) Find L {cosh t Sy e“ cos 2u du} (4)
+Q.6)
+
+a) Show that following matrix is diagonalizable. Also find diagonal matrix and (5)
+transforming matrix
+
+(2 2 -3
+A=|2 1 -6
+-1 2 O
+x 3x
+b) IfA= 2 2 |, findcos A. (5)
+x
+
+“2;
+--- page 3 ---
+e) Find L7 {=}. (4)
+Q.7)
+a) Find L{f(t)}, where f(t) = |E sinpt| and f(t) = f(t +*). (5)
+b) Obtain Half-range sine series expansion in (0,7) for the function f (x)=x(z-x) 6)
+and hence prove that 2 = jsp
+wy af st2
+°) Find L tgonesat (4)
+pean SSeS Se a
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper ad23f997dfef
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2015-16 Re Exam0001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2016
+- Text: ocr (2 pages), mean OCR confidence 76.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+< —
+
+Programme : MBA. Tech (All Streams) Year : I
+Batch: 2015-16 _
+> Academic Year : 2016-2017
+
+Semester: II
+
+Subject : Engineering Mathematics III _ Marks : 60 -
+; Time: 10.00amto1.00pm — J
+Date : 24 November 2016 Duration : 3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book .Which is provided for their use. >
+NB: 1. Question No.ONE is compulsory.
+2. Out of remaining questions, attempt any FOUR questions. |
+3. In all FIVE questions to be attempted.
+
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks. -
+
+2 0-1
+QA) a) Find the Eigen values of adj(A) where 4-|0 2 0 4)
+-10 2
+
+: -1} c1-s 1 .
+b) Find L | yet ; - 2 G)
+
+c) Show that the functions f(x) =1& f,(x) =~, are orthogonal on (-1, 1).
+Determine the constants ‘a’ and ‘b’ such that the function f,(x) = —1+ ax +bx? is
+
+Orthogonal to both and on that interval. (4)
+
+Q.2) a) Examine whether the following vectors are linearly independent or linearly dependent:
+[1,0,2,1].[3.1,2,1],[4,6,2,4].[-6,0,-3, 0] . (6)
+b) Find out, for what values of k, the system of equations
+
+. xt ytz=1; x+2yt+4z=k ; x+4y+10z=k2
+
+gia have a solution and solve completely in each case. (6)
+
+ci/e)
+--- page 2 ---
+Q. 3) a) Given that Ler fVO=
+
+az Evaluate f° et erf (3Vt)dt 6)
+
+. 25? 257-3 > , —-
+
+-1 ; 6
+
+b) Find L { 2 | (6)
+
+Q.4) a) Find £7 {2 tanh™s} (4)
+b) Use the convolution theorem to find L” Fr ‘| : ; (4)
+c) Find L{F"(t)} if F@ = [=] ; A
+
+Q.5 a) Find half range cosine series for f (x) =x, 0 <x <2. Using Parseval’s identity, deduce that
+
+m 11d
+ae oe 5 6
+© oe St ©)
+_ b) Find the Fourier series for f(x) = |Cosx| in (-2,2) (6)
+: , : 1X, O<x<l,.
+Q6. a) Obtain the Fourier expansion of f (x) = with period 2.
+m(2-x), 1<x $2.
+Hence, show that f(x x)= a 5 oe 7 cos(2n v lax (6)
+(2n + ay
+- b) Find Eigen values and Figen vectors of the following matrix
+201
+A= |0 1 0 (6)
+1 1 2
+Q.7 a) Solve Y"+4Y =td(t—- 2) subject to Y(0) = ¥(0) = 0 (6)
+b) Reduce under congruent transformation 2x? +x,” — 3x57 +12x,x, — 4%; — 82%;
+to canonical form, Hence, determine the type of quadratic form.
+(6)
+````
+
+## 2015-16 · Final-Exam · Sem 3 · paper 6f864faa9503
+
+- Departments: Civil, Computer Engineering, Electronics and Telecommunication, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / EXTC, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH (IT COM EXTC MECH CIVIL) 2015-16 FINAL EXAM.pdf` (+4 identical copies)
+- Printed on paper: exam date: 25/11/2015
+- Text: ocr (2 pages), mean OCR confidence 74.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+— B. Tech (I.T./Comp/EXTC/Mech/Civil/Mechatronics) Year: II Semester: III
+
+Academic Year: 2015-2016
+
+Subject: Engineering Mathematics III
+
+Marks #7 "60° oo
+
+Date: 25/11/2015 Time i ae *10'00 fed 4 pm
+Duration’. cr hrs) Le
+Final-Examination > Sra een 4
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining six questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+1 3
+8 ® a=], 3) ina A’. 8)
+2 6
+(b) Find L{rH(t-4)+75(r-4)}. (3)
+(c) Find the Fourier Series for f(x) =1-x? in (-1,1). (3)
+t
+(a) Find 14 fe“ sin3r a. (3)
+0
+Q.2 (a) Reduce 2x,? +x,’ —3x,’ -8x,x, -—4x,x,+12x,x, to canonical (6)
+
+form by congruent transformation. Also write linear
+transformation and state rank, index, signature and value class
+of the quadratic form.
+
+(b) Find for what value of & the equations (6)
+2x-3y+6z—-St=3, y—4z4+t=l, 4x-Sy+8z2-98 =k
+have (i) no solution (ii) infinite number of solutions, also find
+
+solutions.
+Q3 (a) __ Using Laplace transform, find the solution of (6)
+2
+a “~3y=sint, when ¢=0, y=0 and =,
+b t, O<t 6
+®) Find Laplace transform of f(t) = if Sica if 6)
+
+|2a-t,a<t<2a
+
+f(t)=f(t+2a).
+
+A
+--- page 2 ---
+Q.4 (a) Obtain the Fourier expansion of f(x) =e" in the (6)
+interval -7<x<z.
+
+(b) Find half range cosine series for f(x) =x in 0<x <2. Using (6)
+am o1i1i
+arseval’s identity, deduce that (i) —=—-+—-+—j tee
+% O 96 13" 5
+Q5 (a) Find the inverse Laplace transform of a 4
+(s+1) (s+2)
+b © +2 4
+©) Prove that fe" sin’ dt = “logs. @
+0
+(c) Find the Laplace transform of f(t), where (4)
+t
+—, when 0<t<k
+SO= hk .
+1 , when t>k
+Q.6 (a) Find the characteristics equation of the matrix 4 given below (4)
+and hence, find the matrix representing by
+AS -64° +94‘ -24 -12A’ +23A-91, where
+2 -1 1
+A=|-1 2 -l].
+1 -1 2
+(b) Are the following vectors linearly dependent? If so find the (4)
+
+relation between them:
+[3,1,-4], [2,2,-3], [0,-4.1].
+
+(c) 2/ (4)
+Find the inverse Laplace transform of a by
+(s?+45+8)
+
+convolution theorem.
+
+Q.7 (a) Show that the set of functions sin(2”+1)x, 2 =0,1,2,....... is (4)
+orthogonal over [o. VAR
+b -c, = 0 4
+) Find Fourier series for fo)={ oases’. @
+Cs O0<x<a
+(c) i 2s (4)
+Find 17! 4——_—______ }.
+CG +2s+2)
+
+
+fe
+
+mS
+````
+
+## 2015-16 · Final-Exam · Sem 3 · paper d2dca3e7995a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics III 2015-16 Final0001.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 79.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: II Semester: III
+. Academic Year: 2015-2016 “
+| Subject: Engineering Mathematics III “ee “oe
+Marks if 36.
+Date: 26/11/2015 Time 43 ‘0pm: ta sb
+Durations \ \ 3 {hrs)
+Final-Examination SS Me ~~
+
+MS ut
+Instruction: Candidates should read carefully the instructions printed on the questiot
+
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1) Attempt Any Three From Following.
+
+a) Find the Laplace transform of f(t) = e~3*cosh5t sin 4t (4)
+b) Examine whether the vectors Xi = [3,1,1] . X2 = [2,0,-1] , Xs = [4,2,1]
+are linearly independent? (4)
+c) Find the half range cosine series for f(x) = x(m-x) ,0<x <a (4)
+(s+1)e725
+_ d) Find the Laplace Inverse of Peri } (4)
+Q2) a) Evaluate Sy en(fiw sinh u coshu au | 4 (6)
+b) Find Inverse Laplace transform using convolution theorem.
+ihe oe
+F(s) (s?+a2)(s*+b2) (6)
+a
+Q3) a) Find the Laplace Transform of sin etcosht (6)
+b) Find the Inverse Laplace Transform of
+= f(s) = s* 425-4 (6)
+(s) (s?+2s+5)(s?+2s+2)
+
+Q4) a) Is the following matrix diagonisable? Justify your answer.
+
+4 6 6
+A=/1 3 2 (6)
+-H =5 -2
+
+if
+--- page 2 ---
+b) Verify Cayley-Hamilton Theorem for the matrix
+
+2 -1 1
+A={-1 2   -—1].Hence find
+1 -1 2
+Aland At . (6)
+Q5)a) If A = [2 a then find A®°, (4)
+
+b) Reduce the following quadratic form to canonical form.
+Using congriteht transformation.
+Also state rank,index,signature and nature of quadratic form
+2x? + x3 — 3x¥ -— 8x2 x3 — 4x3x, + 12x, x2 (8)
+96 14 34 54 (6)
+
+b) Find Fourier series for f(x) = x- x? in the interval (-1,1). (6)
+
+Q6) a) Find Fourier series for f(x) in (0,270)
+f(x) = x O<x<a
+= 21-x <x <20
+
+4 e
+Also deduce that = + + + +++
+
+Q7) a) Show that the set of functions
+
+z 1x 2 31x 3, Sux
+sin (=) .sin ($=) sin (FP)
+Form an orthogonal set in (0,L) and construct an orthonormal set. (6)
+
+b) Solve the D.E. using Laplace Transform
+
+a 2y+ i ydt =sint given that y(0)=1 (6)
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 852c90082a49
+
+- Departments: Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH / CIVIL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 14-15 15-16 RE EXAM_852c90082a.pdf` (+3 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 June 2016
+- Text: ocr (2 pages), mean OCR confidence 78.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+eS w
+
+(a. ="
+LIBRARY
+WEERING
+
+x rr ee
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Programme: B.Tech (LT./Computer/Civil/
+
+Mechanical/Mechatronics/ EXTC) Year: II Semester: II /
+
+Academic Year: 2015-16 fr
+Batch: 2014-15 / 2015-16 i Marks: 60 .
+Subject: Engineering Mathematics - I / Time: 10.00 am - 1.00 pm
+
+Date: 08 June 2016 Durations: 3 (hrs)
+Re-Examination .
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql)ja) Find the fourier seris for ; 4
+f(x) =0,-7<x<0
+=x, O<x<z.
+
+b) Find Z(sin°?). . , 4
+e) Check whether the set of vectors {Xy=(1,-1,1), X2=(2,1,1), X3=(3,0,2)} is linearly 4
+dependent, if so then find the relation between them.
+
+Q2)a) Find L(sin2t cost cosh 2t). 6
+b) Us : -1(_ 6
+Using Convolution theorem find L ( Gat) as) at b
+Q3)a) Discuss the consistency of the following system of equations 6
+2x+3yt4z=11
+ps xt+5y+7z=15
+3x+1ly+13z=25
+
+Solve it if found consistent.
+--- page 2 ---
+a
+
+< 22 41 6
+Find the eigen values and eigen vectors of a{s 3 1 } :
+. 12 2
+
+Q4)a) Obtain the half range cosine series of f(x)=x sinx, in (0,7). 6
+6
+b) Find the fourier series of f(x) in (-2,2)
+f(x)=2 -2<x<0
+=x 0<x<2
+5 : -1 st4 : . 6
+Q5)a) Find L7*(—aary)
+b) Solve the initial value problem 6
+2y+5y’Hoy =F, YO)=Ly’O=I
+211
+Q6)a) Verify Cayley Hamilton theorem for A=|0 1 2). Hence find At 6
+1 12
+b) Reduce the Quadratic form 3x? + Sy? + 32? — 2yz + 22x — 2xy to canonical &
+from through congruent transformation. Find the matrix of the transformation and
+discuss its nature.
+Q7)a) Evaluate [> te **sint dt 4
+b) Show that the set of functions 4
+ein (FEN sty (2) sin (8%)
+form an orthogonal set in (-L,L).
+; . 10 .
+: If 4= E 4 then find A*’. a r
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 3d57931d80cc
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM III/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2014-15 2015-16 Re Exa0001.pdf`
+- Printed on paper: exam date: 08 June 2016
+- Text: ocr (2 pages), mean OCR confidence 81.0
+
+````text
+_
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: I Semester: III
+
+Academic Year: 2015-16
+
+Batch: 2014-15/2015-16 ~ j
+Subject: Engineering Mathematics III , i
+
+ay Lk En €:
+. eatime: 2.00 (00 pm
+Date: 08 June 2016 Ditatiogn@tirs”
+
+Re-Examination ont
+
+a Mars. 6
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql) Attempt Any Three From Following
+
+a) Find the Laplace transform of f(t) = e~34(2cos5¢t — 3sin5t) (4)
+b) Examine whether the vectors X= [1,3,2] , X2= [2,1,1] , X3 = [3,1,0] (4)
+are linearly independent?
+
+c) Find the half range sine series for f(x) = x ,O<x <a (4)
+a Find the Laplace inverse of a ; @)
+
+. s?—-6s?+11s~6
+2 EB ne pbsint 6
+Q2)a) Evaluate L(e* J, —— at) (6)
+b) Using Convolution theorem find the inverse of the Laplace transform (6)
+
+_ Ss
+fS)= Game
+2 -2t i
+Q3)8) Find the Laplace Transform of cnet (6)
+b) | Find the Inverse Laplace Transform of (6)
+_ os
+{(s) ~ s*+4a*
+Q4)a) Find the eigenvalues and eigenvectors for (6)
+1 1 3
+A=|1 5 1
+3 1 41
+--- page 2 ---
+b) Verify Cayley-Hamilton Theorem for the matrix : (6)
+
+241
+A= {0 1 0].Hence find At
+112
+Q5)8) By diagonalising the matrix A +35 ;] _-find A‘. ©
+b) Reduce the following quadratic form (8)
+
+3x2 + Sy? + 322 — 2yz + 2zx — 2xy to canonical form. Also state
+rank,index,signature and nature of quadratic form using congruent transformation
+
+Q6)a) Find Fourier series for f(x)=x? in (0,270) (6)
+mw 1,1,
+Also deduce that Dp RT gat yet
+b) Find Fourier series for f(x) = 2x- x2 in the interval [0,3], whose period is 3. (6)
+Q7)a) Show that the set of functions {sinx,sin3x,sin5x,...... } is orthogonal over [0.5 Ik (6)
+Hence construct orthonormal set of functions
+b) Solve the D.E. using Laplace Transform (6)
+dey d’y dy | _ , or _ " _
+pat 25 x 2y = 0 giveny(0)=y (0) = Oand y"(0) =6
++ +
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 0439099cf0b0
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (2 pages), mean OCR confidence 81.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: II Semester: III
+Academic Year: 2015 - 16
+
+Batch:2013-14
+
+Subject :Engineering Mathematics - III Marks, CJ i “MP
+Time 3 2M 5 9.
+Date : 26/11/2015 Durati 8 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be stated on a fresh page.
+e) Figure in brackets on the right hand side indicate full marks.
+
+Q.1
+a) Examine whether the vectors [3,1,1],{2,0,—-1],[4,2,1] are linearly independent. (5)
+z2aif
+b) GivenA=|1 3 11, find Eigen values of 47+J. (5)
+12 2
+c) Find Laplace Transform of(sin 2t— cos2t)” . (5)
+d) Find the Fourier series for f(x) =x in [-z,z] (5)
+Q.2
+am mld
+IfA= , findcos A. 6
+a) K a/ 4 ; (6)
+2 -1 1
+- b) Verify Cayley-Hamilton Theorem for matrixdA=|-1 2 -1].Hencefindé”’. (6)
+1 -1 2
+2 -1 1
+c) Find the eigen values and eigen vectors of matrix A=|1 2 -1}.
+1-1 2
+Also verify that the eigen vectors are linearly independent. (8)
+Q.3
+a . sint Y
+a) Find Laplace Transform of t} ——| . (6)
+e
+pa = sin’
+b) Evaluate { e at , using Laplace Transform. (6)
+0
+s
+c) Find the inverse Laplace transform using convolution theorem: ———.. (8)
+
+2
+(s? +a’)
+
+s/s
+--- page 2 ---
+Q4
+
+al (stile
+a) FindL” | ~>——y |. (6)
+(s*+s+1)
+b) Find Laplace transform of f(r) where f(t) = t for 0<t<l; f()=0 for 1<t<2 and
+f (t+2)= f (4) for t>0. (6)
+c) Solve 3% +2y =e given that y=1 att=0 using Laplace Transform. (8)
+(Q.5
+. . . 0, -c<x<0
+a) Find the Fourier series for f(x) = : (6)
+a, O<e<e
+b) Find the Fourier series for f(x) = xcos x in(-z,7). (6)
+(s+ 3)
+c) Find the inverse Laplace transform using convolution theorem: ——_—— (8)
+(s?+6s+5)
+Q.6
+a) Show that the matrix A is diagonalizable. Find the transforming matrix and the
+8 -6 2
+diagonal matrix: A=|-6 7 -4). (10)
+2 -4 3
+
+b) Reduce the following quadratic form to canonical form using congruent
+transformation. Also write linear transformation. State rank, index, signature & nature
+
+of quadratic form: 5x, +6x,x, + 26x,” +10x,’ +14x,x, + 4%,%; . Find non-zero values of
+
+X,sX)»X3 Which will make the quadratic form zero. . (10)
+Q.7
+a) Find half range cosine series for f(x) =sin x in (0,7).
+1 1 1 a -8
+Hence deduce that + + Heseeeee = : 10
+03? 3765? 5767? 16 (10)
+2
+b) Find the Fourier series for f(x) = (3) in [0,27]
+1 1 n
+Hence deduce tht ata ta tpt vee hs (10)
+
+2/2.
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 51cdecd87c55
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2014-15 Re Exam.pdf`
+- Printed on paper: exam date: 26/11/2015
+- Text: ocr (3 pages), mean OCR confidence 77.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: II Semester: II
+
+i cos oF on
+a
+
+Academic Year: 2015 - 16
+Batch:2014-15
+Subject :Engineering Mathematics - III
+
+Date : 26/11/2015
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB: :
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+> c) In all 5 questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figures in right indicate full marks.
+
+Ou1 @
+
+a) Define Fourier Series and State the Drichlet’s conditions. a4
+b) ‘si
+Find L f os a S
+0 Uu
+¢) 0 1 3
+if A=]. , Find + e
+= 0
+d) { (2s? -65+5) 3
+_ Find L>
+¢ ( 6s° +11s— 6)
+oe @
+a) _ Find the Eigen values and Eigen vectors of the matrix A . 6
+Also verify that the eigen-vectors are linearly independent.
+- %-1 1]
+
+i A=|1 2 -1
+
+1 -1 2
+--- page 2 ---
+QO3
+
+Q.4
+
+b) ory
+
+c) Determine k for which the s
+
+a)
+
+b)
+
+¢)
+
+a)
+
+b)
+
+¢)
+
+Use Cayley Hami
+
+Iton Theorem to find
+24°-344 + 4? —4]
+
+A=
+Where “12
+
+hence solve the system of equations.
+x+2y4+z=3
+
+xX+y+z=k
+3x+y4+3z=h?
+
+Reduce under congruent transformation 2x,’ +x,? —3x,2
+normai form, Hence or otherwise, determine the type of
+
+. Verify Cayley Hamilton theorem for the matrix A
+
+1 2 3
+A=|2 -] 4
+3 1 -]
+
+ystem of equations is consistent,
+
+— 8x,x5 —4x,x, + 12x,x,
+
+quadratic form.
+
+Given that L { erf Jt i = Evaluate [eter ( We ) dt
+0
+
+sVst1
+
+2
+: c Ss
+Use the convolution theorem to find L7
+
+(#9)
+
+if
+Express F(t) =|
+
+Cost O<t<q
+
+Hence find L{ PF ()}
+
+(s+2)
+
+Find Le ~~
+(s? +45— 5)
+
+3/2
+
+; in terms of Heaviside unit step function.
+e' Sint t2n
+
+; to
+
+©
+6
+
+3
+
+2
+--- page 3 ---
+e
+
+Q.6
+
+Q7
+
+a) a 6
+Solve Y(t) =a Sint 2 ¥(x) Cos(t — x)dx
+0
+b) aSinpt O<t <a, 3
+Find L{F(t)} where F(t)=
+{F()} (*) Wf, <t24/
+P /P
+with F(t) =F (t+24 \)
+P
+e) Obtain half-range sine series in (0,7} for f(x) =x(z—x). a
+
+b) Obtain half range cosine series for f(x) =e ,0<x<l 3
+c) Find the Fourier series for periodic function 2
+
+—m, -™@<x<0
+
+f(s)={ x, O<x<z
+a)
+
+Prove that 3tanA = tan3.A, where
+
+a=|7) i
+
+a) Obtain the Fourier expansion f (x) =x° from x=— andx=4 hence deduce that 6
+L2 1
+6
+
+mw? /12=1/2 -1/2? +1/3°-1/47 +-------
+-b) Solve ¥"+3¥'+2Y =16(t-1) with the conditions Y(0) = Y'(0) =0 3
+
+c) Show that the set of functions {sin (2n + 1)x} 2=01,2, is orthogonal in the interval
+
+a . .
+[az]. Hence find the corresponding orthonormal set of functions. 3
+
+3/8
+````
+
+## 2014-15 · Final-Exam · Sem 3 · paper 90849bfb0480
+
+- Departments: Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS-III ALL STREAMS 2014-15 FINAL EXAM.pdf` (+5 identical copies)
+- Printed on paper: max marks: 10; exam date: 26/11/2014
+- Text: ocr (2 pages), mean OCR confidence 69.1
+
+````text
+SVKM’s NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (All Streams) Year: II Semester: II]
+7 —
+Academic Year: 2014-2015 ave BF IW
+Subject : Engineering Mathematics ~ III Oupsrmy ‘Nt :
+Marks: 10} LIBRARY dé
+Date : 26/11/2014 Time : 10. (to 1.00 pm, A
+
+' Instructions: Candidates should read carefully the instructions
+the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+Que.2)
+
+Que.3)
+
+Durations:
+Final-Examination
+
+printed on the question paper and on
+
+Question No. 1 is compulsory.
+
+Out of remaining questions, attempt any four questions.
+
+In all five questions to be attempted.
+
+All questions carry equal marks.
+
+Figures in-bracket on the right hand side indicate full marks.
+
+4) Find Fourier Series Expansion of f(x) = e“l,-n<x <r | 5)
+
+b) Find Z {ra _ 2) +sin td (+ -2} : (5)
+23 - [4 3 . :
+
+c) yf A= ,Find > A'° (5)
+
+® Find 1" flog(a+)} 3 (5)
+
+a) Solve the following equation by using Laplace transform : . , (8)
+
+S +2y+ yat =sint given that y(0)=1.
+
+bh) Draw the graph of the periodic function ; (6)
+SH=t, 0<t<a
+
+& find its Laplace Transform.
+=a-t, m<t<27r
+
+. 43 . _
+Find 7 = using convolution theorem. :
+3 iz +.6s5+13)* | es : 6)
+
+a) Prove that the system of equations ifs ~determine type of solution, (8)
+anc-hence-solve the system-ofequations
+x—-2y+3w=2
+2x+ y+z+w=-4
+4x—3y+z+7w=8
+
+Find the Eigen values and Eigenvectors of the matrix A. (6)
+2-l-1
+A=|1 2 ml
+[1 -1 2 |
+
+=
+
+4/2
+--- page 2 ---
+\
+
+©) Show that the vectors X;, X2, X3 are linearly independent
+X, = (12,4), X= -1,3), X3 = (0,1,2) ~
+* Que.4) a) Find Fourier Series Bevension of f (x) = x.sin x, (0,27)
+b) - ‘Obtain Fourier series of
+
+f@=0,-c <x <0
+
+=4a0<x<of (xt 2a)= f@)
+°) Obtain half range cosine series for |
+
+f@)=10<x<F ,
+
+= i,¢ <x<a
+Maes) a) Evaluate fe” Lie sinudu dt.
+t .
+b) Find L{e"Z@} » where
+fH=0, t<a/3
+=sin(t—2/3). t>a/3
+
+ce) If f(t) =fcost, then find L f esas}
+0
+
+,
+
+Que.6) a) Reduce under congruent transformation
+Sx) +26x," +10x," +4x,%, +142%, +6%%, to normal form, Hence or
+otherwise, determine the type of quadratic form.
+
+sees
+b) Find L'<———-__
+) ' tp <}
+
+3 10 5
+-.) IfA=|-2 -3 -4
+3.5 7
+
+Find A*—645+9444442-12474+2A-1
+
+ue.7} N , .
+Que-7) Show that the set of functions sin| 7~ sin 2 sin a
+a) QL 2L
+orthogonal in the interval (0, L).
+b) Obtain Fourier series expansion of
+f(x) =2x-x",0 Sx <3, f(x+3)= f(x).
+
+a | 557 +85—1
+¢) find 24
+‘| (s +3)(s° +1)
+
+*
+
+. ©)
+
+(8)
+(6)
+
+(6)
+
+(8)
+(6)
+
+6
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+oO
+
+(6)
+````
+
+## 2014-15 · Final-Exam · Sem 3 · paper f46f882ca1d2
+
+- Departments: Chemical, Civil, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/ENGINEERING MATHEMATICS III/Engineering Mathematics III Final Exam 2014-15.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; exam date: 26/11/2014
+- Text: ocr (2 pages), mean OCR confidence 74.2
+
+````text
+SVKM’s NMIMS
+-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: I Semester: II
+Academic Year: 2014-15 gantere a
+Sage
+Subject: Engineering Mathematics III ° ‘al ,
+- Marks: 100.; #¢ MPSTME )Z%
+\ Date: 26/11/2014 Time: 2.00 pi’ SLODEph A R ¥ gs
+\ Durations: 3Yurg)\. re
+: Final - Examination * a yk wis
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in brackets on the right hand side indicate full marks.
+
+Q.1
+a) Examine the following system of vectors for linear dependence. If dependent,
+find the relation between them: (1,4,5);(5, 2, 1);(2,—1,3);(3,-6,1) . (5)
+2 2 -3
+b) Givend=| 2 1   -6], find Eigen values of 44 +A? +21. (5)
+-1 2 0
+c) Find Laplace Transform of cosh’ r. (5)
+
+d) Prove that f(x) =1, A() =x, AO) = (2? ~ WA are orthogonal over (- 1,1). (5)
+
+Q.2
+
+a) For what values of A the equations,
+x, +2x, +x, =35 4 +2, +x, =15 3x, +x, 43x, = 7?
+have solution and solve them completely in each case. (6)
+
+b) IfA= fi 4 find A”. Hence find A‘. (6)
+
+c) Verify Cayley-Hamilton Theorem for matrix A. Using Cayley-Hamilton Theorem,
+express matrix B as a quadratic polynomial in A, also find B, where
+
+[1 2 3
+
+B=A®-11A’ ~4A° + A° 4+ A‘ 114? -34? +2A4] given A=|2 4 5
+
+we 3.5 6
+Also find A”. (8)
+
+Q.3
+
+a) Show that the matrix A is diagonalizable. Find the transforming matrix and the
+pas 4 2 -2
+diagonal matrix: A=|~5 3 2 |. (10)
+24 1
+
+-b) Reduce the following quadratic form to canonical form using congruent
+transformation. Also write linear transformation. State rank, index, signature &
+
+nature of quadratic form: 2x,? +12x,x, + x, - 3x,” —4x,x, -8x,x;. Find non-
+zero values of x,, X,,x3 Which will make the quadratic form positive and negative
+
+4/2
+--- page 2 ---
+>
+
+Q4,
+
+a) Find Laplace Transform of fet (2¢ cos 3t + cos? 2t) ,
+
+2 t
+b) Evaluate fet f u’ sinhu cosh ws , using Laplace Transform.
+
+0 0
+
+c) Find the inverse Laplace transforms by using convolution theorem:
+
+s? +2543
+(s? +254 2)s? +2545)
+
+Q.5
+
+—as
+
+e
+
+ae")
+((e 1) |
+
+b) Find Laplace transform of f(t) =
+
+f= f1+29/),
+
+a) Find Z"
+
+asin pt, 0<1<7/
+
+- and
+0, tx y,
+
+Cc) Solve Sa ay= FO given that y =0, Bay att=0 and
+1 when 0<t<1
+SO= using Laplace Transform.
+0 when t>1
+Q6
+a) Find half range cosine series for f(x) =x in (0,/).
+»l 1.1 x 11.1 x
+Hence deduce that i) —+—+—+....... =—, li) +t t.... =—
+° det get 96° yet get 3a 90
+gp gelg ls,
+iil) rt grt gate age”
+
+. . cosx, -7#<x<0
+b) Find the Fourier series for f(x) =
+
+sinx, O<x<z
+
+1 1
+Hence deduce that > =>,
+
+nn -1 2
+
+Q7
+a) Find the Fourier series for f(x) =sin2x in (-2/,2/).
+
+2
+b) Find the Fourier series for f(x) = (2) in(0, 2n).
+
+dy
+
+- ¢) Solve Fa y=sint,& += 00st jwhere x= 0, y = 2 at t = 0, using Laplace
+t it
+
+Transform.
+
+n»
+a/x
+
+(6)
+
+(6)
+
+(8)
+
+6)
+
+(6)
+
+(8)
+
+(10)
+
+(10)
+
+(6)
+
+(6)
+
+(8)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper cf73d7e7d885
+
+- Departments: Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH / CIVIL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH (ALL STREAMS) BATCH 2013-14 RE EXAM.pdf` (+3 identical copies)
+- Printed on paper: exam date: 26/11/2014
+- Text: ocr (3 pages), mean OCR confidence 72.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: II Semester: HI
+Batch: 2013-2014
+
+7 oo \ROTE 9? 2
+
+Academic Year: 2014-2015 nly
+
+Subject: Engineering Mathematics III 7. ‘Ss
+Marks: MPSTMB
+
+Date: 26/11/2014 Time: Blo toH ©0-pm,
+Durations: |S ; ~
+
+Re-Examination
+
+Instructions: Question No. 1 is compulsory. Out of remaining questions, attempt any 4 questions.
+
+Q1. a) Find the values of k for which the given matrix A is positive definite. 5
+k 1 2
+A=|1 k 3
+23 4k
+b * , 5
+) Bind fe* sinh? 4¢.sin 2tde
+0
+) - . . . 1,0<t<p/2 . 5
+Find Fourier series expansion of f(t) = , t+p)=f(t)in
+P F() (peers e f{ 2) f)
+[0p]
+d) Find Li? cosh 2t+e™ cos’ ¢+fcos 3r} 5
+Q2. a) Gi gal es ; 6
+Find [2S S=* V3t ay
+} t
+b) rc (s + b) 6
+(sta) +B
+c) Express as Heaviside function and find Laplace Transform of
+e'sint,0<t<z 8
+ro={
+e cost,t >a
+Q3. a) 543 6
+Using Convolution theorem find: [7' {| ———_——.
+| (s? +65 +13)
+6
+
+b) Find L{tH (t-4)+15(¢-4)}
+
+i/3
+--- page 2 ---
+Q4.
+
+Q5.
+
+Q6.
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+Evaluate fe fe“ cos’ w.sinh saa
+
+0 0
+Find Fourier Series Expansion of f (x) =cos px,0<x<27
+3-1 1
+
+Verify Cayley-Hamilton theorem for 4=|-] 5 -1!}-
+1 -l1 3
+
+Solve (D°-D?-D+1)y=8re",y(0)=0,y'(0)=Ly"(0) =0
+
+9 4 4
+Show that the matrix 4=| -8 3 4] is diagonisable. Find the diagonal
+-16 8 7
+
+form D and the diagonalising matrix M.
+Check for consistency and solve:
+
+5x, +3x,+7x,=4
+3x, + 26x, +2x,=9
+7x, + 2x, +10x;,=5
+
+Reduce to normal form by congruent transformation and find rank, signature
+and value class, where the given quadratic form is
+
+2x7 + x,’ —3x,’ -8x,x, —4x,x, +12x,x).
+Examine whether the following vectors are linearly dependent
+or linearly independent. If linearly dependent then find the
+
+relation between them:
+X,=(13,2), X,=(5,-2.1), X; =(-7,13,4).
+
+Expand f (x) =Ix—x’,0<x</ ina half range cosine series.
+
+213
+--- page 3 ---
+c) 10 0
+If A=/1 0 1] show that for each integer n>3, A” = A"? + 4?-] 8
+010
+
+Hence find A’.
+
+Q7 oa . . . . x,0<x<az 6
+) Find Fourier series expansion of f(x) =
+2n-x,m<x<20
+b) Find the Fourier series expansion of f(x) =EX+x’,-wSxSa 6
+
+c) — Show that the set of functions
+
+. aX . WX mx =. 2nx 2x 8
+1,sin —, sin —,cos——, sin ——, cos—— ,.....
+L, EZ L .
+forms an orthogonal set in
+
+(-L, L) and also construct an ortonormal set.
+
+xn — a - x
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper c5dafdd1f641
+
+- Departments: Civil, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH ALL STREAMS), BATCH 2013-14 RE EXAM.pdf` (+5 identical copies)
+- Printed on paper: exam date: 08/06/2015
+- Text: ocr (2 pages), mean OCR confidence 80.0
+
+````text
+SVKM’s NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams) Year: Semester: III
+Batch: 2013-14 7
+Academic Year: 2014-2015 oe za Man, ~~
+
+Subject: Engineering Mathematics III f a me b,
+Marks: A : Ne
+
+Date: 08/06/2015 Time: ‘| 2260:pm i 5. 00. pm = 5
+Durations: ae Lt
+
+NC %
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in brackets on the right hand side indicate full marks.
+
+Ql
+a) Examine the following system of vectors for linear dependence. If dependent,
+find the relation between them: [1,3,4,2] [3,-5,2,6},[2,-13,4]. (5)
+2 4
+b) Given A= f 4 , find Eigen values of 647 + 4° +2/. (5)
+c) Find Laplace Transform ofe’ sin 2fsin 3r. (5)
+
+d) Show that the set of functions cos nx, 7 = 1,2,3,....is orthogonal on (0,27). (5)
+
+QOD
+i2 3
+a) Verify Cayley-Hamilton Theorem for matrix A=|2 -1 4 |. Hence find
+3 1 -il
+A‘. : (6)
+2 1 -
+b) IfA= 7 4 find A” . (6)
+c) Test for consistency and solve
+S5x+3yt+7z=4, 3x+26y+2z=9,7x4+2y+10z=5. (8)
+Q3
+a) Show that the matrix A is diagonalizable. Find the transforming matrix and the
+9 4 4 iG
+"diagonal matrix: A4=| -8 3 4). \ (10)
+-16 8 7
+
+b) Reduce the following quadratic form to canonical form using congruent
+transformation. Also write linear transformation. State rank, index, signature &
+
+nature of quadratic form: 5x, + 6x,x, + 26x,’ +10x,” +14x,x, + 4x,x,. Find non-
+zero values of x,, x), x, Which will make the quadratic form zero. (10)
+
+afa.
+--- page 2 ---
+Q4
+
+a) Find Laplace Transform oft sin’. (6)
+
+= at , using Laplace Transform. (6)
+
+t
+
+b) Evaluate J e
+0
+
+c) Find the inverse Laplace transform using convolution theorem: __| ___ . (8)
+(s+3)(s° +2s+ 2)
+Q.5
+er
+a) Find r' 7 Th |" (6)
+(s +4)
+b) Find Laplace transform of — f(f)= ke for 0<t<T and f(t)=f(t+T). (6)
+d .
+
+c) Solve = +3y=2+e" given that y=1 ats=0 using Laplace Transform. (8)
+
+Q.6
+
+a) Find half range cosine series for f(x) = sinx in (0,7).
+
+1 1 1 a -8
+Hence deduce that + + mb eseeee = . 10
+P03? 3705? 5767? 16 (10)
+z
+b) Find the Fourier series for f(x) = (3) in [0,27]
+1 1,1,1 °
+Hence deduce that pt+or tart get bese - (10)
+Q7
+0,-c<x<0
+a) Find the Fourier series for f(x) = . (6)
+a, 0<x<c
+b) Find the Fourier series for f(x) = xcos x in(-z,7) 7 (6)
+(s+ 3)"
+(8)
+
+c) Find the inverse Laplace transform using convolution theorem: 5 7
+(s +6s+ 5)
+
+2/2
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 020495db23de
+
+- Departments: Civil, Computer Engineering, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS_III_BATCH_2014-15_RE EXAM.pdf` (+4 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08/06/2015
+- Text: ocr (2 pages), mean OCR confidence 77.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (All Streams)
+
+in ae Year: II Semester: III
+Academic Year: 2014-2015
+Subject: Engineering Mathematics 1
+Marks: 60
+Date: 08/06/2015 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+a) Question No. 1 is compulsory, ”
+
+b) Out of remaining questiqns, attempt any 4 questions.
+
+c) Inall5 questions to be attempted.
+
+d) All questions carry equal marks.
+
+e) Answer to each new question to be stated on a fresh page.
+f) Figures in right indicate full marks.
+
+2
+Q.1 a) Find the Laplace Transform of the wave form f(t) <t » 0 St $3 with period 3 3
+
+b) Obtain the half range sine series for S(x)=ax-x? ,0<xen
+
+3
+2 37 %
+ind Lo e748. s -
+d) Find (544) 3
+
+Q2 a) If f()=t+1,0<1<2 and S(t) =3 ,t >2 , Find LIF] and ArAO)| Zz
+
+b) Evaluate fe ~ sinh 2¢.sin 3¢ dt 3
+0 .
+
+2
+
+d
+c) Solve “rt 9y =18¢ using Laplace Transform, where y(0)=0 and y(z/2)=0 €
+
+Q.3 a) Reduce the following quadratic form to Canonical form. Also find its rank and signature
+
+x72.4+2y? +22? — 2xy -2yz+ zx
+
+=z
+
+5
+b) Is the system of vectors X;=(2 2 1)’, X,=(1 3 1)” and X,=(1 2 2)"
+linearly independent ? 3
+
+Mo
+--- page 2 ---
+8 -8 -2
+c) Find the Eigen values and Eigen vectors ofthe matrix | 4 -3 —- 6
+
+3 °-4 1 |
+Q.4 a) Find Inverse Laplace Transform of (G-alstaye” Convolution Theorem 4
+b) Find f Laplace Transf f eal ee 3
+nverse Lay
+in place Transform o (? +254 5\(s? +2542)
+c) Find Llerf-ftbanehence evaluate fe“enf (21t ) dt. 6
+: 0
+%% a P
+where erf (f= —le' dt
+Va J
+Q.5 a) Find the Fourier series of f(x) =e Tl in (-x, mz) 3
+b) By using sine series for f(x) =1 in O<x<z, Show that
+ma , 1.1.1
+7 =l+ 3 tet 5 to. 3
+mx O<x<l
+c) Expand f(x)= O® lex<2 of period 2 as a Fourier Series 6
+Q.6 a) Find Laplace Transform of t H(t—- 4)+0? 5(t-4) : 3
+4 2
+
+b) Find the Inverse Transform of tan rc 3
+c) Find the Fourier Series representing f(x) =x in (0, 27) G
+
+Q.7 a) Find the Characteristic equation of the matrix A and verify Cayley-Hamilton Theorem.
+
+2 -1 i
+| Hence find inverse of the matrix A, where A=] —1 2 ,-l 3
+1 -l 2
+ge b) Test whether the following equations are consistent, and if consistent, find the solution.
+x+yt+z=8 x-yt+2z=6, 3x+5y-—7z=14 3
+t .
+
+c) Find Laplace Transform of [ue ~™ cos? 2u du 6
+
+0
+
+—_—_—_-x -_
+
+Ar
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 3be8493edb12
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III 2014-15 RE EXAM.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 26/11/2014
+- Text: ocr (2 pages), mean OCR confidence 77.9
+
+````text
+\
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: III
+
+Academic Year: 2014-15 Batch: 2013-14
+
+Subject : Engineering Mathematics III
+Marks: 100
+
+Time : 2.00 pm to 5.00 pm
+Durations: 3 (hrs
+
+(hrs)
+Re - Examination Pas
+oF
+f- we Many,
+Instructions: Candidates should read carefully the instructions printed on the (oft paper and nd ante, \
+of pal PTMEB
+
+cover of the Answer Book, which is provided for their use. Ye :
+ie IBRARY de
+8, oy
+
+NB:
+* iar a aga * “
+
+Date : 26/11/2014
+
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all 5 questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+
+f) Figures in right indicate full marks.
+
+Q.1 a) 2 2 8
+Find the Fourier series for f(x) = see in (0,27).
+b) Loa. s : . 6
+Find inverse Laplace transform of —————~ by using Convolution theorem.
+; (s? +4)(s° +1)
+c 3 -2 6
+) If A= , find 34° +24”.
+4 -3
+Q.2 a) Find all Eigen values and Eigen vectors of the matrix: 8
+4 6 6
+A=|1 3 2
+-1 -5 -2
+b) 211 6
+Find the characteristic equation of the matrix A=}0 1 0 and hence find the matrix
+
+112
+represented by 4° -54’ +74° -34° + A‘ -5A4? +84’ -2A41.
+
+c) Examine the vectors [1, 1, -1, 1], [1.-1, 2, -1], and [3, 1, 0, 1] for linear independence or 6
+dependence and find the relation between the vectors, if possible.
+
+Q3 a) rind 2 11s? 2545 5
+" 2s) 3s? -3s+2]
+
+b) Solve using Laplace transform: y"—4y'+4y = 64sin 21, given that y(0)=0,y'(0)=1. 6
+
+6
+
+*e-' sin’ 2t
+c) Evaluate: j——
+9 t
+
+dt using Laplace transform.
+
+1
+
+4
+--- page 2 ---
+Q.4
+
+Q5
+
+Q.6
+
+Q.7
+
+a)
+
+b)
+
+¢)
+
+a)
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+a)
+
+b)
+
+c)
+
+Expand f (x)= 2x—x? in the interval [0,2] in a half range sine series. Hence find the
+
+lue of 1 1 1
+value 0 wart oat af See
+2
+Show that the set of functions f(x) =1, f(x) =, f(»)= 3% =! are orthogonal over(—1,1) .
+2 oO
+Find Fourier series for f(x) = x’,- < x < z,hence prove that 7 = ys.
+TH
+
+Find the inverse Laplace transform of cot” {|
+s
+
+t-l, 1<t<2
+3-t, 2<t<3
+and find its Laplace transform.
+
+2
+Find L {fee aes }
+
+e
+
+Express the function f(f) = { in terms of Heaviside’s Unit step function
+
+Reduce the quadratic form: y’ +2xy+4xz—2yz to diagonal form through Congruent
+
+transformations. Also write the linear transformation.
+
+3 10 5
+Is the matrix A=|—2 -3 -4 |diagonalisable? Give reasons.
+3 5 7
+
+Find the Laplace transform of e~‘ sin tH (t — 7) — cosh t6(t — 2).
+
+Obtain the Fourier series expansions of:
+
+f(x)=|x
+
+x’
+
+, in —-2<x<2.Hence deduce that Loar ae
+n—-4
+
+Obtain half range Cosine series for f(x) =xsinx in(0,7)
+
+Find the Laplace transform of the Periodic function
+1, 0<t<l
+
+f()=39, 1<t<2
+-L2<t<3 3 fQ=fC+3).
+
+a
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper bd335ad0a605
+
+- Departments: Chemical, Civil
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2013-2014 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 08/06/2015
+- Text: ocr (2 pages), mean OCR confidence 73.6
+
+````text
+= SVEMs NMUIMIS ;
+MUKESH PATEL SCHOCL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+_—————Bropramine: MBA Tech (ALL STREAMS} Year: Ii Semester: IT
+Academic Year 2014-15
+
+| Batch: 2013-14
+
+i | - Subject : Engineering Mathematics III
+: Date : 08/06/2015 :
+bape : ; Re-Examination
+
+~~~~Instructions: Candidates should read carefully the instructions pritted
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB: -
+roe ee a) Question No. | is compulsory.
+b) Out of remaining questions, attempt any 4
+c) All questions carry equal marks,
+d) Answer to each new question to be stated ona fres
+€) Figure in brackets on the right hand side indicate fall moe.
+
+a eis the following system of vectors for linear dependence. If dependent,
+find the relation between them: [2,-1,3,2] [1,3,4,2] [3,-5,2,2]. (5)
+— 2201
+b) GivenA=|1 3° 1], find Eigen values of 4? +/. (5)
+79
+
+te a 2
+
+c) Find Laplace Transform ofe™ ccs 2rsinze,
+
+d) Show that the functions f(x) =1, 7.
+
+1,1). Determine the
+
+~ constants a and b such that the function ) = -1+ ax+ bx‘ is orthegonal to
+both f,and /, on that interval. 5)
+1 JS2 }
+Q,2
+Fi: 2-2]
+
+| 3 ‘0 j. Hence find
+
+-2 0] |
+
+At, 6)
+
+a) Verify Cayley-Hami!ton Theorem for matrix 4 =
+
+r-i 41
+b) IfA =| 4 3 lo prove that 3tan A = Atan3 (6)
+1
+
+c) Test for consistency the following equations and solve them if consistent.
+
+x-2y4+3t=2, 2x+ytz4+6=4,4x-3y+: 8. (8)
+
+Q.3
+
+a) Show that the matrix A is diagonalizable. Find the forming matrix and the
+r a
+;8 -8 -2 |
+
+2. oe . \ i
+
+diagonal matrix: Ad=/}4 -3 -2). (10)
+
+13 4 1 |
+
+b) Reduce the followi
+transformation, Also
+
+write Une
+. 2
+nature of quadratic form: x,* +
+
+values Of X,, Xp, X51
+
+”)
+--- page 2 ---
+O4
+“+
+
+a) Find Laplace Transform of f° cosh¢.
+
+«sin? (<}
+b) Evaluate [e” Nt , using Laplace Transform.
+0
+
+2
+s+2)
+c) Find the inverse Laplace transforms by using convolution theorem: ita)
+( S+4st 8)
+Q§
+stlje~
+a) Find L" (s+1e* j
+So+s+l
+
+(6)
+
+(6)
+
+. (8)
+
+(6)
+
+b) Find Laplace transform of f(t)=asin pt, 0<t< Y, ; f(t) =0, y, <t< wh
+
+and f()= f(1+27/).
+
+qd)
+Cc) Solve 3— +2y=e™ given that y=1 att=0 using Laplace Transform.
+(1
+
+Q.6
+a) Find half range cosine series for f(x) =x in (0,2) .
+4 4
+Hence deduce that ) +++41, A eFiees = ii jet l, seeeeee =7
+v3 5 96 rv 2° 3 90
+
+b) Find the Fourier series for f(x) = xsin x in (0,27).
+
+Q7
+
+a
+X+—, -47<x<0
+a) Find the Fourier series for f(x) =
+
+oe ORK
+)
+b) Find the Fourier series for f(x) = sin ax in(—11) where ais not an integer.
+
+2
+; ‘ . . So+s
+Cc) Find the inverse Laplace transforms using convolution theorem:
+
+(s°+1)(s?+25+2
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 21a15a5aaf6e
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/ENGINEERING MATHEMATICS III/Engineering Mathematics III Batch 2014-15 Re Exam.pdf` (+4 identical copies)
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08/06/2015
+- Text: ocr (3 pages), mean OCR confidence 77.0
+
+````text
+SVEM’s NMIMS
+MUEKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: II Semester: III
+Academic Year: 2014-15
+
+Batch:2014-15
+
+Subject : Engineering Mathematics III Marks:60
+Time : 2.00pm -.5.00pm
+Date : 08/06/2015 Durations:3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use... --
+NB:
+1) Question No. ONE is compulsory.
+2) Out of remaining questions, attempt any FOUR questions.
+3) In all FIVE questions to be attempted.
+_-4)-All-questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+8 -6 2
+Q.1) A) Find sum and product of eigen values of the matrixi-6 7 —4 a
+2 -4 3
+B) If [° e-tsin(t + a) cos(t'~ a) dt =~, find a 3
+C) Find Fourier Series expansion for f(x) = 1- x? in (-1,1) a
+: aficvs 2 :
+D) Find L(**) 2
+Q.2) A) Find Fourier series for f(x) = Saaenae in (0,27)
+mo1i 1,1
+Hence, deduce that aa tate SEES seiesies G
+B) Find half range Fourier cosine series for f(x) = x, 0<x<(t/2)
+=m —x (a/2)<x<r x
+
+C) Show that the set of functions sin(2n+1)x, n=0,1,2,3,... is orthogonal over (0,7¢/2).
+
+Hence construct orthonormal set of functions. 2%
+
+4/5
+--- page 2 ---
+B) Find L{tVT + sint}
+
+C) Find inverse Laplace of
+
+using method of partial fraction 2
+
+Q.4) A) For what values of 2 the eq
+
+tions x+y+z=1,-
+
+solution and solve the
+
+em
+
+B) Examine whether the following vectors are |
+
+5),
+L
+_| 3/2 1/2) + a
+(1/2 3/2
+
+(2,-1,4)
+
+C) Find e4 if
+
+Q.5) A) Find eigen values and eigen
+
+vectors of the following ma
+
+> >
+
+211
+2 3°2 G
+3.3 43
+
+x
+
+2 , ihn Poet A
+and deduce A$ = 625] ‘
+~1)
+
+>
+--- page 3 ---
+| ox
+& Tees 9)
+1-> QOSx<az
+
+Hence, deduce t
+
+B) Find L-
+````
+
+## 2013-14 · Final-Exam · Sem 3 · paper 7ab9cf56d227
+
+- Departments: Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III ALL STREAMS 2013-14 FINAL EXAM.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2013
+- Text: ocr (3 pages), mean OCR confidence 79.1
+
+````text
+SVKM’s NMIMS Ay
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME 1 ENGINEERING yy,
+nyse <a * *
+Programme:B. Tech (All STREAMS) Year: Il Oe
+
+Academic Year: 2013-2014
+
+Subject : Engineering Mathematics III
+Marks:100
+Date :27/11/2013 Time : 10.00 am to 1.00 pm
+Durationi-:3 (hrs)
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c)_ In all 5 questions to be attempted.
+
+d) All questions carry equal marks.
+
+e) Answer to each new question to be stated on a fresh page.
+f) Figures in right indicate full marks.
+
+oS 1
+Q.1 a) If [e * sin(t + @) cos(t — @) dt = 7 then find @ (5)
+0
+b) Find the half range cosine series for f(x)=x ,0<x<2 (5)
+k 1 2
+c) Find the values of k for which the given matrix A is positive definite 4=)1 k 3 (5)
+23k
+; 35 +542
+@ Find >) == 5)
+) s’ +8 ©)
+
+2 a) Reduce 2x24 x,? —3x,’+12x,x, —8x,x, —4x,x, into Canonical form. Find the rank
+¥ 2 3 12 23 a |
+
+and signature of the matrix : (8)
+1-2 50
+bt) ff 4=)_, 4| find 4 (6)
+
+a3
+--- page 2 ---
+c) Solve the given equation by using matrices : (6)
+
+5x, + 3x, +7x,;=4
+3x, + 26x, +2x,=9
+7x, +2x,+10x,=5
+
+Q.3 a) Solve the differential equation(D? +3D +2) y=2 (? +t+ 1) where y(0)=2 and
+y'(0)=0. by using Laplace Transform (8)
+
+1, O<t<a
+
+b) Find the Laplace transform of the periodic function /()=
+-l, as<t<2a
+
+SW =f + 2a) (6)
+; (stDe~
+c) Find the Inverse Laplace Transform of |——3>———— (6)
+so+st+]
+Q4 a) Find the Fourier series for the function /(x)=x— x? inthe interval (~1, 1) (8)
+b) Find the Half range Fourier sine series for unity in 0<x <z and hence show that
+I 1.1 m
+Lee Ae ee tases =— 6
+5 7? 8 oi
+
+c) Show that the functions , f,(x)=1, f;(x)=x are orthogonal on (-1, 1). Find the
+
+constants a and b such that the function f/,(x)=-I+ax+ bx’ is orthogonal to both
+
+f(x) and f,(x) on the same interval (6)
+d .
+Q.5 a) Using Laplace Transform solve re + 2 =V , O(0)=0 (8)
+L cu
+b) Find the Laplace Transform of fu cos’ u du (6)
+
+0
+
+(6)
+
+c) Using Convolution theorem find the inverse Laplace Transform of seta?
+s(sta
+
+213
+--- page 3 ---
+Q.6
+
+Q7
+
+0
+c) Evaluate the integral fe vi+sint dt
+0
+0 -2 <x <-l
+a a . . l+x -l<x <0
+a) Find the Fourier series of the function /(x) =
+1-x O<x<l
+0 l<x<2
+
+TX.
+
+2
+b) Find the Fourier series for /(x)= (3) in the interval (0 , 27)
+
+c) Find L'(cot™ as)
+
+3/3
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+````
+
+## 2013-14 · Final-Exam · Sem 3 · paper e55a0784c7cc
+
+- Departments: Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS 2013-14 Final.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27/11/2013
+- Text: ocr (3 pages), mean OCR confidence 79.8
+
+````text
+Programme:MBA Tech (ALL STREAMS) Year: II
+
+Pan S18 WEAN, ~~
+% ity
+
+fk RN
+
+‘ 5
+SVKM’s NMIMS ~— ynwee
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Semester: III
+
+Academic Year: 2013-2014
+
+Subject : Engineering Mathematics III
+
+Date :27/11/2013
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+
+Marks: 100
+
+Time : 2.00 pm to 5.00 pm
+
+Duration -:3 (hrs)
+Final-Examination
+
+and
+and
+
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+a)
+b)
+¢)
+d)
+°)
+f)
+
+Qu
+
+Q.2
+
+Question No. 1 is compulsory.
+
+Out of remaining questions, attempt any 4 questions.
+In all 5 questions to be attempted.
+
+All questions carry equal marks.
+
+Answer to each new question to be stated on a fresh page.
+
+Figures in right indicate full marks.
++. 1
+
+a) If [e * sin(t + a) cos(t — @) dt = q > then find @ (5)
+0
+
+b) Find the half range cosine series for f(x)=x ,0<x<2 (5)
+
+c) Find the Eigen values and Eigen vectors of the matrix [Se] E “| (5)
+7 =f
+
+d) Find L Pake 2 (5)
+
+s° +8
+
+a) Reduce 6x,7 +3x,° +3x,° —4x,x, — 2x,x; +4x,x, into Canonical form. Find the rank
+
+and signature of the matrix (8)
+
+1 7 50
+
+b) If od find 4 (6)
+14 -{0
+y _
+
+1/3
+--- page 2 ---
+c) Solve the given equation by using matrices (6)
+2x, +X, +2x,+x,=6
+6x, — 6x, + 6x, +12x, = 36
+4x, +3x, +3x; -3x,=—1
+2x, +2x,—-x,+x,=10
+
+Q.3 a) Solve the differential equation(D* +3D +2) y= 2(? +t+ 1) where y(0)=2 and
+y'(0)=0. by using Laplace Transform (8)
+
+1, O<ts<a
+
+b) Find the Laplace transform of the periodic function f/()=
+-l, as<ts2a
+
+fO=f(t+2a) (6)
+; (stDe*
+c) Find the Inverse Laplace Transform of |—=—;——— (6)
+so+s+l
+Q.4 a) Find the Fourier series for the function f(x)=x— x? inthe interval (-1, 1) (8)
+b) Find the Half range Fourier sine series for unity in 0<x <7 and hence show that
+1 1 1 n
+l+>+—+ oy Heese =o (6)
+c) Show that the functions , f{(x)=1, f,(x)=x are orthogonal on (-1, 1).
+Find the constants a and b such that the function f,(x)=-l+ax+bx’ is
+orthogonal to both f(x) and /,(x) on the same interval. (6)
+. dQ Q_ -
+Q.5 a) Using Laplace Transform solve as +a =V , Q(0)=0 (8)
+
+243
+--- page 3 ---
+Q.6
+
+Q.7
+
+t
+
+b) Find the Laplace Transform of { u cos’ u du
+0
+
+c) State Convolution theorem and use it to find the inverse Laplace Transform of
+
+oe
+s(s+ay’
+
+a) Show that the vectors X,=(1 2 4) ,X,=(2 -1 3), X,;=(0 1 2),and
+
+X= (- 3.7 2) are linearly dependent also find the relation between them
+
+1 2 -2
+b) Using Cayley Hamilton theorem find 47! and A* where A=] -1 3 0
+0-2 #1
+c) Evaluate the integral fe vi+sint dt
+0
+0 -2 <x <-l
+. ; ‘ . l+x -l<x <0
+a) Find the Fourier series of the function f(x) =
+l-x 0<x<1
+0 l<x<2
+
+2
+b) Find the Fourier series for f(x) = (52) in the interval (0 , 277)
+
+c) Find L'(cot™ as)
+
+313
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+````
+
+## 2013-14 · Re-Exam · Sem 3 · paper 066348d118e5
+
+- Departments: Civil, Computer Engineering, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / MECHANICAL, B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 13-14 RE EXAM.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2016
+- Text: ocr (2 pages), mean OCR confidence 77.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MUKESH PATEL SCHOOL OF T
+
+Programme: B.Tech (LT. /Computer / Civil /
+Mechanical/Mechatronics / EXTC) Year: II
+Academie Year: 2015-16
+
+Semester: III
+
+Batch: 2013-14:
+
+Subject: Engineering Mathematics - III .
+Date: 08 June 2016
+
+Marks:100
+Time: 10.00 am - 1.00 pm
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the
+question paper and on the cover of the Answer Book, which is provided for their use.
+NB:
+
+a) Question No. 1 is compulsory.
+
+b) Out of remaining questions, attempt any 4 questions.
+
+c) All questions carry equal marks.
+
+d) Answer to each new question to be stated on a fresh page.
+
+e) Figure in brackets on the right hand side indicate full marks.
+
+Ql
+1 2 3
+
+a) Find the characteristic equation of the matrix A where A=|2 -1 4 |.Showthat —
+301 -1
+
+matrix A satisfies characteristic equation and hence find 4". (5)
+
+b) Find the Laplace Transform of cost cos 2t cos 3¢ + 42”. (5)
+
+: 3s+7
+c) Find 2") ——_ |. 5
+) (= —2s~3 } ©)
+
+d) Show that the set of functions cos nx, n= L253;
+
+is orthogonal on(0,27). (5)
+
+Q.2. ; ;
+a) Examine whether the vectors X, = [3, 1, 1], X, = [2. 0-1], X,= [4, 2,1] are linearly
+independent. : (6)
+
+3 I
+b) Finde* if 4= ), /, ; -
+Yo _@
+
+c) Show that if4#—5 the system of equations ©
+3x-y+4z=3, x+2y—3z=-2, 6x+5y+Az=—3 has a unique solution: If4 =—5,
+
+show that equations are consistent. Determine the solution in each case. (8)
+Q3
+a) Find L(te* sin 4). (6)
+b) Find Laplace transform of f (1) = Ke for 0<t<Tand f(t)= f(t+ T). (6)
+c) Using Laplace Transform evaluate [ et (1 + 2-30? +49° ) H(t-2)dt. (8)
+Q4
+1+ ae -@Sx<0
+a) Obtain Fourier series for the function f (x) = re : (6)
+1 —, O<x<az
+a
+0, -c<x<0. . . a
+b) Expand f (x)= in a Fourier series of period 2c. (6) A bs
+a, O<x<e Pz
+--- page 2 ---
+c) Find the Fourier series for f (x) =x" in (0,27) and hence deduce that
+wet.tiiii
+
+es -ate ate 8
+2 1 2° 3* 4 8)
+
+Q.5
+
+a) Show that the matrix A is diagonalizable. Find the transforming matrix and the
+8 -8 -2
+
+diagonal matrix: A4=|4 -3 -2]. (10)
+3 -4 1
+
+b) Reduce the following quadratic form to canonical form using congruent
+transformation. Also write linear transformation. State rank, index, signature & nature
+
+of quadratic form: xy +2x,x, +2x," +3x,° —2x,x, +2x,%5. (10)
+Q.6
+] —s
+a) Find 1" (sae) ©.
+So+s+1
+
+2
+
+b) Find the inverse Laplace of using convolution theorem. (6)
+
+2
+c) Use Laplace transform to solve ‘ Y44 dy +8y=1 where y(0)=0, y(0)=1. (8)
+
+i dt
+Q.7
+a) Find a cosine series of period 27 to representsinx in 0<x<z. Hence deduce that
+1 1 1 ax -8
+
+1? -3? 37-5? 5°. 7? 16 a0)
+b) Find the Fourier Expansion of f (x) =4-x’ in the interval (0, 2).Hence deduce that
+xz 1 1 1
+Bt et ee 10
+
+6 P 2 3 oo)
+````
+
+## 2013-14 · Re-Exam · Sem 3 · paper 1611f45d8c08
+
+- Departments: Civil, Electronics and Telecommunication, Information Technology
+- Programmes: B TECH / CIVIL, B TECH / EXTC, B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2013-14 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2014
+- Text: ocr (3 pages), mean OCR confidence 72.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ALL STREAMS) Year: II Semester: III
+Batch : 2013-2014
+Academic Year: 2013-2014
+Subject : Engineering Mathematics III
+Marks: 100
+Date : 09/06/2014 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining six questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+Ql (a) Find the characteristic equation of the matrix A given below
+and hence, find the matrix represented by,
+
+AS —~64° +941 +44? -124? +24 -—I, where
+
+3 10 5
+A=|-2 -3 -A4|.
+3 5 7
+(b) . t, O<t<a (5)
+Find the Laplace transform of /(f) = : :
+b, t>a
+(©) Find: L{e“ sin’ 7}. (5)
+
+(d) Find the Fourier series for the function f(x) =x? in(-2,z). (6)
+
+Q.2 (a) Find the characteristic equation, eigen values and eigen (8)
+vectors of the following matrix:
+3-1 14
+A=|-1 5 =l
+1 -1 3
+
+(b) | Examine whether the following vectors are linearly dependent (6)
+or linearly independent. If linearly dependent then find the
+relation between them:
+
+X,=(13,2), X,=(5,-2.1), X; =(-7.13,4).
+
+B
+--- page 2 ---
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+1 0.0
+If A=|}1 0 1), find A”.
+0 1 0
+
+Using Laplace transform, find the solution of
+
+ad q .
+oY 422 3) =sint, when t=0, y=0 and YD _o.
+dt dt dt
+
+t
+Find: L c i eo“ sin 3r a|
+
+0
+28-71
+Find: £7} «~~
+“ (sect
+
+W-xX
+
+2
+Obtain the Fourier expansion of f(x) -( in the
+
+interval 0O< x <2 and f(x+27)= f(x). Also deduce that
+
+Figg ty
+90 I 24 34 440°
+
+Find the Fourier series for the function
+—-H, —-m<x<0
+I (x)=
+
+Find the Fourier series for the function
+
+o)={> -2<x<0
+
+l O<x<2
+
+x, O<x<z
+
+Using Laplace transform, find the solution of
+y"+3y't2y=6d(t-a), y(0)=0&y'(0)=0.
+
+2s
+Find; p1/——__&
+m maga
+
+Applying convolution theorem to find [71 aay | .
+
+(s? +a’)
+
+Reduce 8x? +7y? +32? —12xy+4xz—8yz into canonical
+form by orthogonal transformation.
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+--- page 3 ---
+(b) 5 O<x< ys (6)
+
+Find half range sine series for f(x) = .
+. : M—X, ay, <xX<a
+
+2 6
+© Prove that £G)=1, fh) =x fC) = (x WA are (6)
+orthogonal over (- 1,1).
+
+Q.7 (a) Reduce the following quadratic form to canoniéal form (8)
+through congruent transformations. Also find its rank, index,
+signature and value class
+2x, +x,’ —3x,? +12x,.x, —4x,x, - 8x, x; .
+
+(b) 0 . 6
+Evaluate: fe eat ®
+
+0 .
+(c) Find Laplace transform of (6)
+
+asin pt, 0<1<7/,
+
+fO-) y ae / and f()= s(1424/).
+
+````
+
+## 2013-14 · Re-Exam · Sem 3 · paper 7910d7262e84
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2014
+- Text: ocr (3 pages), mean OCR confidence 74.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ALL STREAMS) Year: II Semester: III
+Batch : 2013-2014
+Academic Year: 2013-2014
+Subject : Engineering Mathematics II
+Marks: 100
+Date : 09/06/2014 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+; a) Question No. 1 is compulsory.
+b) Out of remaining six questions,.attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+4 ( RAR ‘ )
+Ys
+
+Q.1 (a) Find the characteristic equation of the matrix A given below
+and hence, find the matrix represented by,
+
+AS —6454+9A' +44? -124? +2A4-I, where
+
+3 10 5
+A=|-2 -3 -A4).
+3 5 7
+(b) . ‘ 0<t<a (5)
+Find the Laplace transform of f(t) = : :
+b, t>a
+(©) Find: L{e“ sin’ 7}. (5)
+(d) Find the Fourier series for the function f(x)=x? in(-z,z). 6)
+Q.2 (a) Find the characteristic equation, eigen values and eigen (8)
+vectors of the following matrix: ;
+3-1 1]
+A=|-1 5 =l
+1 -1 3
+
+(b) | Examine whether the following vectors are linearly dependent (6)
+or linearly independent. If linearly dependent then find the
+relation between them:
+X, =(13,2), X,=(5,-2,1), X; =(-7.13,4).
+
+3
+--- page 2 ---
+Q3
+
+Q4
+
+Q.5
+
+0.6
+
+(¢)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+10.0
+If A=|1 0 1}, find A.
+01 °0
+
+Using Laplace transform, find the solution of
+dy .
+—+2—-3y=sint, when t=0, =0 d —=0.
+ae dt * ae at
+
+Find: if fe“ sin3¢ a
+0
+Find: [7 { so }
+e(s-7)
+m—-x)
+Obtain the Fourier expansion of f(x) = (=) in the
+
+interval O<x<2z7 and f(x+2z)= f(x). Also deduce that
+mola aid
+90 oat 34 at
+
+Find the Fourier series for the function
+—m, -m<x<0
+S(x)=
+
+Find the Fourier series for the function
+
+seoy={ -2<x<0
+
+x, O<x<a
+
+O<x<2—
+
+>
+
+Using Laplace transform, find the solution of
+y"+3y'+2y=d(t-a), y(0)=0&y((0)=0.
+
+-2s
+Find: 71J-——__®__\
+m aa]
+
+Applying convolution theorem to find I lay .
+
+(+a y
+
+Reduce 8x? + 7y? +32? -12xy +4xz-—8yz into canonical
+form by orthogonal transformation.
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+--- page 3 ---
+(b) Xs O<x< eA (6)
+
+Find half range sine series for f(x) = :
+: N—X, a, <x<a
+
+2
+© Prove that f(x) =1, f(x) =x, f(z) = (Gx? - WA are 1)
+orthogonal over (—1,1).
+
+Q.7 (a) Reduce the following quadratic form to canonical form (8)
+through congruent transformations. Also find its rank, index,
+signature and value class
+2x7 +x, —3x,’ +12x,x, —4x,x, —8x,x,.
+
+(b) * si 6
+Evaluate: fer —a oo
+
+0
+(c) Find Laplace transform of (6)
+
+asin pt, 0<1<%/,
+
+10 ag, 810-07)
+
+FIG GCG GG GC oa GG dokokkkokakdk ik
+
+“3
+````
+
+## 2013-14 · Re-Exam · Sem 3 · paper ca0bd4490f81
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III B TECH MECHANICAL BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2014
+- Text: ocr (3 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (ALL STREAMS) Year: II Semester: III
+Batch : 2013-2014
+- Academic Year: 2013-2014
+Subject : Engineering Mathematics III
+Marks: 100
+Date : 09/06/2014 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining six questions, attempt any 4 questions.
+c) All questions carry equal marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+Q.1 (a) Find the characteristic equation of the matrix A given below (5)
+and hence, find the matrix represented by,
+AS ~64° +9A* +44° -12A4? +2A-I, where
+
+3 10 5
+Ao|-32 -3 —4|,
+3 5 7
+) Find the Laplace transform of f(t) = ‘, a . 6)
+b, t>a
+(©) Find: L{e“ sin’ 7}. (5)
+
+(d) Find the Fourier series for the function /(x) = x° in (- I, n). (5)
+
+Q.2 (a) Find the characteristic equation, eigen values and eigen (8)
+vectors of the following matrix: ;
+3-1 1]
+A=|-1 5 =1l
+1 -1 3
+
+(b) | Examine whether the following vectors are linearly dependent (6)
+or linearly independent. If linearly dependent then find the
+relation between them:
+
+X,=(13,2), X,=(5,-2,1), X, =(-7,13,4).
+
+3
+--- page 2 ---
+Q.3
+
+Q4
+
+Q.5
+
+Q.6
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+(b)
+
+(c)
+
+(a)
+
+1 0.0
+If A=|1 0 1}, find A”.
+010
+
+Using Laplace transform, find the solution of
+
+2
+a Yio _4y
+
+dt? dt
+
+=sint,whent=0, y=0 and ® <0.
+
+t
+Find: L C fe“ sin 3f “|
+0
+
+2s —1
+Find: [14 ~*~
+" (se)
+
+2
+Obtain the Fourier expansion of /(x) = (=) in the
+
+interval O<x<2z and f(x+2z)= f(x). Also deduce that
+moi 1.11
+
+—=—4+—+
+90 1 2 34 44
+Find the Fourier series for the function
+—m, —-™<x<0
+Sf (x)= :
+x, O<x<az
+Find the Fourier series for the function
+
+f(s) 0, -2<x<0
+x)= %
+1, O0<x<2
+
+Using Laplace transform, find the solution of
+y"+3y't2y=d(t-a), y(0)=0&y'(0)=0.
+
+2s
+" aay]
+
+Applying convolution theorem to find L" latay} .
+
+(+a? y
+
+Reduce 8x? + 7y? +3z? -12xy + 4xz—8yz into canonical
+form by orthogonal transformation.
+
+73
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+
+(6)
+
+(6)
+
+(8)
+--- page 3 ---
+(b) x, O<x< WA (6)
+
+Find half range sine series for f(x) = .
+, 1X, a, <X<0
+
+2 6
+©) Prove that f(x) =1, f,(x) =x, A= (x WA are (6)
+orthogonal over (1,1).
+
+Q.7 (a) Reduce the following quadratic form to canonical form (8)
+through congruent transformations. Also find its rank, index,
+signature and value class
+2x,” + xy? —3x,° +12x,x, —4x,x, - 8x,x;.
+
+(b) (6)
+Evaluate: Jet sal It
+t
+(c) Find Laplace transform of (6)
+
+asin pt, 0<1<7/
+fO=) af erciay mt 10 f(r429/).
+
+
+“3
+````
+
+## 2013-14 · Re-Exam · Sem 3 · paper 067de9d35685
+
+- Departments: Chemical, Civil, Electronics and Telecommunication, Information Technology, Mechanical
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/III SEMESTER/ENGINEERING MATHEMATICS III/ENGINEERING MATHEMATICS III BATCH 2013-14 RE EXAM.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09/06/2014
+- Text: ocr (3 pages), mean OCR confidence 77.8
+
+````text
+‘ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (ALL STREAMS) Year: I Semester: III
+Academic Year: 2013-14 Batch :2013-14
+Subject : Engineering Mathematics III
+Marks: 100
+Date : 09/06/2014 Time : 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+a) Question No. 1 is compulsory.
+b) Out of remaining questions, attempt any 4 questions.
+c) In all 5 questions to be attempted.
+d) All questions carry equal marks.
+e) Answer to each new question to be stated on a fresh page.
+f) Figures in right indicate full marks.
+
+Q.1
+a 7 # 5
+) Given that for(—z,z), x’ = + 4 Sen" om . By using Parseval’s identity
+n=l n
+Co) 1 x’
+rove that, } — =—
+B x n* 90
+b) Find £ ( i e“sinu du} 5
+¢) Find the Eigen values of adj(A) and A?—2A +I where, 5
+23 4
+A=|0 4 2
+0 0 3
+d) Find £7+{(2s?-6s+5)/(si— 6s* +11s—6)} 5
+Q.2 20
+a) Show that the Eigen vectors of the following matrix are orthogonal. 8
+25 4
+A=| 5 7 5
+4 5-2
+b) : 8 -8 -2 6
+Find the modal matrix which Diagonalize the matrix A=| 4 —3 —2
+
+3 -4 1
+Hence find the diagonal matrix.
+
+'/3
+--- page 2 ---
+Q.3
+
+Q.4
+
+Q.5
+
+c) Examine whether the vectors,
+
+X,=[2 3-1-1], X, = [1 -1 -2 -4],x,=B 13-2] and X,=[6 30 ~7]are
+
+linearly independent or dependent? If dependent find a relation between them.
+
+a) 100
+Find A where A=|1 01
+0 10
+b) Use Cayley-Hamilton theorem to find the value of
+2 I 1
+APSA’ +7AS—3A54A4—5A?+8A?_2A 41, where A=|0 1 0
+112
+©) Given that L{erfyt} = Evaluate f° “27% py F(2\b)de
+a) : s
+Use the convolution theorem to find Lt >
+se-9
+< . a : .
+b) Express F(t) = { e cost esa <m in terms of Heaviside unit step function.
+e‘sint t2=n
+
+Hence find £{F(z)}
+
+c) Find £-* {e-™(s + 2)/(s? + 4s—5)?}
+
+Solve Y(t)=a Sint —2 f ¥(x) Cos(t—x)dx
+0
+
+b) asinpt O<t<zxr/p
+
+Find £{F(t)} where FO = 0 Bete 2nfp
+Ssts
+
+with F(t) = F(t + 2x/p)
+
+©) Obtain half range cosine series for f (x)= ke-x?,0<x</]
+
+2)3
+
+20
+
+20
+
+20
+--- page 3 ---
+a
+
+20
+
+Q.6
+a) oY 3 8
+Expand f(x) = xsinx in the interval [0,27]. Hence deduce that Y 7] = a
+n=2 1 —
+b) F cosx cos2x cos3x . 6
+Show that the set of functions >=, =, form a normal set in[—z, z].
+Va? Vn? Va
+c) 6
+Find half range sine series for
+x O<x<2
+f(2)=
+H-X —~<x<
+Q.7 20
+
+a) Reduce the quadratic form x’ + 2x,” +3x, +2x,x, —2x,x, +2x,x, to canonical form. Also write
+
+linear transformation which brings about normal reduction. State its rank, signature, index and
+value class.
+
+8
+b) Solve ¥"+3¥'+2¥ =t6(t-1) with the conditions Y¥(0)=Y'(0)=0 6
+0 -2<x<-l
+. , . . l+x -l<x<0
+c) Obtain Fourier series expansion for f(x) = 6
+l-x 0<x<l
+0 l<x<2
+x x
+
+3]
+````

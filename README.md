@@ -6,6 +6,33 @@ Snapshot: **8 October 2026**. **41,166 logical file paths** and **13,198 directo
 
 The portal listed **30,804 unique file IDs**: **30,152 accounted for**, **652 unavailable** after repeated empty responses. The unavailable list is preserved in the archive. This is a complete backup of the saved collection, not a claim that the portal supplied all 30,804 documents. Some original PDFs were malformed; their bytes and source-quality reports were preserved.
 
+## PYQs by subject
+
+All 25,064 question-paper files are sorted into **1,123 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
+
+Download one or more subjects, already sorted into `PYQs_By_Subject/<Subject>/<Academic year>/`:
+
+```powershell
+gh repo clone dhruvpaleja/mpstme-library-archive-2026-10-08
+cd mpstme-library-archive-2026-10-08
+python organize_by_subject.py list --search "operating"
+python organize_by_subject.py restore --destination D:/Study --subject "Operating Systems"
+```
+
+If you have already restored the full library, `python organize_by_subject.py link --library D:/MPSTME_Library_Restored` builds the whole subject tree with hard links (no extra space on NTFS). Identical copies of a paper are placed once. To correct a subject, edit `subject_aliases.json` and run `python organize_by_subject.py catalog`. `subject_overrides.json` lists 59 papers the portal filed under the wrong subject; each was confirmed by reading the subject printed on the paper.
+
+## Question text for reading and AI analysis
+
+Every question paper has also been read into text (PDF text layer where present, OCR for scanned papers) and split into questions with marks, year, exam, semester and department:
+
+- `subjects/<Subject>/papers.md`: every paper of the subject in full, newest first.
+- `subjects/<Subject>/questions.jsonl`: one record per question or sub-question, with marks and CO/BL tags.
+- `subjects/<Subject>/papers.jsonl` and `answer_keys.md`: paper details, and answer keys where published.
+- [`departments/`](departments/README.md): subjects grouped by branch (Computer, IT, EXTC, Mechanical, Civil, ...).
+- [`question_bank/README.md`](question_bank/README.md): field definitions, coverage and accuracy notes.
+
+`build_question_bank.py` regenerates all of this; see its header for the OCR requirements.
+
 ## Download and restore
 
 You must be signed in to GitHub with access to this private repository. Install Python 3.11+ and GitHub CLI, then run `gh auth login` if needed.

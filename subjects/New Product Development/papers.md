@@ -1,0 +1,5407 @@
+# New Product Development: question papers in full
+
+13 unique papers · 2008-09 to 2015-16 · Common (all branches)
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2015-16 · Final-Exam · Sem 10 · paper fd386bf94dd6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New_Product_Development_Batch_2015-16_Final.pdf`
+- Printed on paper: max marks: 60; exam date: 06/05/2016
+- Text: ocr (3 pages), mean OCR confidence 94.5
+
+````text
+i
+
+SVKM’s NMIMS
+"—— MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) « Year: V . Semester: X
+Academic Year: 2015-2016 : oe op
+f
+Subject : New Product Development _ (
+Marks:60 @ SC
+Date : 06/05/2016 . Time : 2.00 pa&t@4.00 pm
+
+Durations: 2 (ARS +,
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+1) Case study:
+Steve jobs and Apple
+
+Late Steve jobs completed education only till high school when he dropped out of Reed
+college , Oregon. Another dropout from Reed University was Stephen wozniak , who
+started working for Hewlett Packard (HP) and came in contact of a summer intern there-
+jobs. Wozniak was an engineering wizard, who was influenced by jobs to quit his job at
+HP and start a new venture. Thus Apple computer corporation was founded by jobs
+along with wozniak in 1976 in his car garage. At that time, nobody had imagined that
+large computers hitherto confined to scientific installations could be configured for
+personal use by individuals. The Apple 1 computer designed and created by the duo
+received orders from orders of 25 units from a local electronics retailer (Halliday 1983)
+and from there on, the story of the first personal computer was started.Rest is now
+history.
+
+Apple’s approach to designing new products is rather unconventional, as if symbolizing
+the exotic leadership style of Jobs. In Steve’s words, “Simplicity is the ultimate
+sophistication”. A typical example is the iPod, which was designed to play music through
+a miniature device and do nothing else. The platform strategy is clearly evident in the use
+of OSX operating system in Macintosh, PC’s, iphone, and iPAD. In fact, iPad is a natural
+extension of the iphone in terms of the touch screen and other common user
+interfaces/applications. This promotes reusability of parts, components, software etc.,
+while ensuring less training time on part of existing customers using Apple products.
+
+Y3
+--- page 2 ---
+Future applicability of current products through cross pollination of internal ideas and
+technologies is an important aspect of Apple designs. Another facet of its approach is
+“participatory design’’ whereby customers play an active role in the design process. In
+the development stages, the experiences and problems faced by a sample set of customers
+using a software/product are meticulously observed. The focus then shifts to finding
+simple yet effective solutions to such problems for improvising the designs. The
+customer involvement is ‘iterative’ in nature, that is, their experiences are continually
+monitored to identify the scope for further improvement. This explains the progressive
+release of latest version of products, taking for example iphone 4 that has innovative
+features such as Video calling with Face time, retina display with 960 — by 640
+resolution, HD video conferencing, 5-megapixel camera with LED flash, dual —mic noise
+suppression, and much more. What sets Apple products apart from competition is their
+aesthetic appeal. The pristine white colour almost became synonymous with Apple
+products with ‘’snow white skin’’, when the company introduced vibrant colours in some
+of its products like iPods. This simply shows the flexibility and dynamism in Apple
+designs rather than getting trapped in the statics of currently successful designs. The
+future outlook and boldness is clearly a hallmark of Apple’s designs, which always leaves
+the competition to do lots of catching up.
+Experts argue that the Apple products are not radical innovations but improvisations of existing
+products in the market. According to them, neither was iPod the first MP3 player nor was iPhone
+the first smart phone with a touch screen (Palm Treo was). iPad was not the first tablet either. It
+is clearly much refined descendant of another Apple product called Newton. The bottom line is
+that Apple not only learns from its own mistakes, but also from competitor’s mistakes. Apple’s
+mission is clearly not to be the first, but to be the best.
+
+Job’s idea of Innovation in design is aptly captured by his statement below:
+
+‘The system is that there is no system. That doesn’t mean we don’t have process. Apple is a very
+disciplined company, and we have great processes. But that’s not what it is about. Process makes
+you more efficient. But Innovation comes from people meeting up in the hallways or calling each
+other at 10.30 in the night with a new idea, or because they realized something that shoots holes
+in how we have been thinking about a problem. It’s adhoc meeting of six people called by
+someone who thinks he has figured out the coolest new thing ever and who wants to know what
+other people think of his idea. And it comes from saying no to 1,000 things to make sure we
+don’t get on the wrong track or try to do too much. We’re always thinking about new markets we
+could enter, but it’s only by saying no that you can concentrate on the things that are really
+important’ (Burrows 2004).
+
+x/3
+--- page 3 ---
+After reading the above short case-study, answer the following questions:
+
+1. Do you agree with Apple’s strategy of creatin
+
+g their iPad only in two colours? — black
+and white?
+
+2. Apple’s approach to product development has been to build upon existing technologies.
+
+Do you think it is high time that Apple started imovating new technologies on it’s own?
+
+3. ‘Simplicity is the ultimate sophistication’. Comment on how has Steve Jobs used this
+philosophy in his products. ;
+
+2) Describe the new product development process as a whole with the help of a schematic
+diagram. Explain the tools and techniques used for business analysis. (12)
+3) a) What are the parameters used for structuring the business plan? Explain. (6)
+
+b) What is the difference in bringing a new product in an emerging market vis-a
+
+-vis
+mature market.
+
+(6)
+
+4) Explain the four step economic analysis process of a product development project.(12)
+
+5) a) Explain the Design for manufacturing process. (6)
+b) Ilustrate some potential cost reducing parameters which should be considered during
+product costing. (6)
+
+6) a) What is intellectual property? Explain its different types relevant to new product
+
+development. (6)
+b) How does R&D play a crucial role in the new product development? What are the
+barriers related to R&D in aligning with other functional areas? (6)
+7) a) What is the role of rapid prototyping in New product development ?
+(4)
+b)Why is Beta testing valuable for the organization? Explain the different considerations
+to be ensured in the Beta testing in the new product development process.
+````
+
+## 2015-16 · Re-Exam · Sem 10 · paper 0bcc48b06b47
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New_Product_Development_Batch_2015-16_Re_Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 30 June 2016
+- Text: ocr (3 pages), mean OCR confidence 94.8
+
+````text
+SVKM’s NMIMS
+Me
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINFERM 4
+
+RX es es:
+Se.
+Programme: MBA Tech (All Streams) Year: V Semester: xX ONS
+
+Academic Year: 2015-16
+
+io ar ad ra
+Batch: 2015-16 ~ lls 3; ens
+Subject: New Product Development —
+Marks: 60
+Time: 2.00 pm to 4.00 pm
+Date: 30 June 2016 Duration: 2 Hrs
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. *
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+1) Case study:
+Steve jobs and Apple
+
+Late Steve jobs completed education only till high school when he dropped out of Reed college ,
+Oregon. Another dropout from Reed University was Stephen wozniak , who started working for
+Hewlett Packard (HP) and came in contact of a summer intern there-jobs. Wozniak was an
+engineering wizard, who was influenced by jobs to quit his job at HP and start a new venture.
+Thus Apple computer corporation was founded by jobs along with wozniak in 1976 in his car
+garage. At that time, nobody had imagined that large computers hitherto confined to scientific
+installations could be configured for personal use by individuals. The Apple 1 computer designed
+and created by the duo received orders from orders of 25 units from a local electronics retailer
+(Halliday 1983) and from there on, the story of the first personal computer was started.Rest is
+now history.
+Apple’s approach to designing new products is rather unconventional, as if symbolizing the
+exotic leadership style of Jobs. In Steve’s words, “Simplicity is the ultimate sophistication”. A
+typical example is the iPod, which was designed to play music through a miniature device and do
+nothing else. The platform strategy is clearly evident in the use of OSX operating system in
+Macintosh, PC’s, iphone, and iPAD. In fact, iPad is a natural extension of the iphone in terms of
+the touch screen and other common user interfaces/applications.This promotes reusability of
+parts, components, software etc., while ensuring less training time on part of existing customers
+using Apple products. Future applicability of current products through cross pollination of
+internal ideas and technologies is an important aspect of Apple designs. Another facet of its
+approach is ‘*participatory design’’ whereby customers play an active role in the design process.
+In the development stages, the experiences and problems faced by a sample set of customers
+using a software/product are meticulously observed. The focus then shifts to finding simple yet
+
+'/3
+--- page 2 ---
+effective solutions to such problems for improvising the designs. The customer involvement is
+“iterative’’ in nature, that is, their experiences are continually monitored to identify the scope for
+further improvement. This explains the progressive release of latest version of products, taking
+for example iphone 4 that has innovative features such as Video calling with Face time, retina
+display with 960 — by 640 resolution, HD video conferencing, 5-megapixel camera with LED
+flash, dual —mic noise suppression, and much more. What sets Apple products apart from
+competition is their aesthetic appeal. The pristine white colour almost became synonymous with
+Apple products with ‘’snow white skin’’, when the company introduced vibrant colours in some
+of its products like iPods. This simply shows the flexibility and dynamism in Apple designs
+rather than getting trapped in the statics of currently successful designs. The future outlook and
+boldness is clearly a hallmark of Apple’s designs, which always leaves the competition to do lots
+of catching up.
+
+Experts argue that the Apple products are not radical innovations but improvisations of existing
+products in the market. According to them, neither was iPod the first MP3 player nor was iPhone
+the first smart phone with a touch screen (Palm Treo was). iPad was not the first tablet either. Itsis
+clearly much refined descendant of another Apple product called Newton. The bottom line is that
+Apple not only learns from its own mistakes, but also from competitor’s mistakes. Apple’s
+mission is clearly not to be the first, but to be the best.
+
+Job’s idea of Innovation in design is aptly captured by his statement below:
+
+‘The system is that there is no system. That doesn’t mean we don’t have process. Apple is a very
+disciplined company, and we have great processes. But that’s not what it is about. Process makes
+you more efficient. But Innovation comes from people meeting up in the hallways or calling each
+other at 10.30 in the night with a new idea, or because they realized something that shoots holes
+in how we have been thinking about a problem. It’s adhoc meeting of six people called by
+someone who thinks he has figured out the coolest new thing ever and who wants to know what
+other people think of his idea. And it comes from saying no to 1,000 things to make sure we don’t
+get on the wrong track or try to do too much. We’re always thinking about new markets we could
+enter, but it’s only by saying no that you can concentrate on the things that are really important’
+(Burrows 2004).
+
+After reading the above short case-study, answer the following questions: (12)
+
+a) What is the product development process used by Apple?
+
+b) How has Apple used Design as their product strategy?
+
+c) When asked what consumer and Market research Apple had done to guide the development of the
+iPad, it’s former CEO Late Steve Jobs replied, ‘None. It isn’t the consumer’s job to know what they
+want.’ Do you agree with this statement from Jobs ?
+
+2/3
+--- page 3 ---
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+Describe the NPD process as a whole with the help of a schematic diagram.
+
+(12)
+Describe the process of creating a Product Innovation charter for a new product in a company and
+Illustrate with an example. (12)
+a) What is the process of estimation of manufacturing costs for new products? (6)
+b) How can you reduce the cost of Assembly ina DFM Process? (6)
+a) What are the essential elements of a Business Plan ? (6)
+b) What are the different pricing strategies/ policies used by companies for launching new
+products in the market? (6)
+a) What are the mechanics of executing the Product Development plan? (6)
+b) How do you track the performance ofa project for a New product development? (6)
+a) What is the purpose of a pilot run in Manufacturing? How is it different from Beta testing
+program? (6)
+b) Why are Agency certifications an integral part of the Development process? (6)
+
+8/2
+````
+
+## 2014-15 · Final-Exam · Sem 10 · paper 502e17a2928d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product Development 2014-15 Final.pdf`
+- Printed on paper: exam date: 11/05/2015
+- Text: ocr (1 page), mean OCR confidence 91.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: V Semester: X
+
+Academic Year: 2014-2015
+
+Subject: New Product Development ,
+Marks: vr 60.0.
+Date: 11/05/2015, Time: ( M2.60 5p
+Durations: Lid fies)
+by Ne,
+oR é
+Final-Examination ra ey
+=
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. All questions carry equal marks
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) You are expected to supplement each answer with case & new product examples
+
+1. Write a short note, highlighting the main aspects, on the following.(Answer any 4)(12 )
+a) “Feasibility Study” in NPD
+
+b) Product development phases
+
+c) Impact of Channel on Cost of new product
+
+d) Elements of “Executive Summary” in the new product business plan
+
+e) Role of “Prototyping’ in NPD
+
+2. What are the steps in the refinement of a product concept into a new business? Cite any one
+case study to explain the steps in practice.(12)
+
+3. Consider any one product (e.g. light source) of your choice. What is the product’s Life Cycle
+and how does this compare with the corresponding technology life cycle. What is your
+analysis of the relative curves and what are your predictions for the future based on this
+
+analysis. (12)
+
+4. What is the concept of “Designing to Cost”? Explain its significance with respect to any
+product. (12) .
+
+5. What is “product family —-based development” approach? How is Horizontal and vertical
+differentiation achieved in this approach? (12)
+
+6. M/S Global Motor Inc. has estimated the following annual data for the introduction of a new
+
+motor part which they are developing.
+
+Cash Flows -14,100* +3700 +2980 +6540 +7810 | +6320
+* initial
+investment
+
+Assume a required annual rate f return= 14%
+a) Calculate the NPV for the new motor part project. Calculate the Payback period for the
+
+new motor project (6)
+b) Interpret the results based on NPD theory. (6)
+
+Sf
+aft
+````
+
+## 2013-14 · Final-Exam · Sem 10 · paper 119f3f2742a1
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product development 2013-14 Final.pdf`
+- Printed on paper: duration hours: 2; exam date: 09/05/2014
+- Text: ocr (3 pages), mean OCR confidence 90.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+TT OTE ~,
+rogramme: MBA Tech (ALL STREAMS) Year: V (x MIOTE OF wy nk
+m. 4 .4
+fag.
+Academic Year:2013-14 { bf PST . y
+u 1 \ BCI BRARY D3}
+Subject : New Product Development * a pat Lyi
+Marks: ss UNivERS sf
+
+Date : 09/05/2014 Time : 2.00 pm To
+Durations 2 (hrs)
+Final Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB: .
+1) Question No. 1 & 2 are compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+
+Q. 1. Choose any one of the alternatives given (8 marks, 2 marks per sub-question).
+
+A. Which of the following is the best approach to developing a new product concept?
+
+a. Start with an interesting technology, develop a form that gives it substance and sell the benefit
+
+to the customer
+
+b. Envision a form of a new product, use a technology that creates that form and séll the benefit
+
+to the customer
+
+c. Understand the needs of the customer to clarify the benefits, identify the technology that meets
+
+those needs and develop a form to deliver the technology
+
+d. None of the above is any good
+B. which of the following best describes a new product portfolio management system?
+
+a. A decision process that generates a once a year new product project funding list.
+
+b. A dynamic decision process whereby a business’ list of active new product projects is
+
+constantly updated
+--- page 2 ---
+c. A multi-project management process whereby resources are balanced across projects
+
+rating a constant list of finded projects
+
+gen
+
+d. None of the above
+
+oN
+i.
+
+concept generation phase of the new product process, which of the
+
+statements below is correct?
+a. Only generate one new product concept for a new product opportunity and stick with it
+
+b. Generate as few new product concepts as possible for a new product opportunity because this
+
+process takes time and speed to market is of the essence
+
+c. Generate as many new product concepts as possible for a new product opportunity, because
+
+the more concepts that are generated, the higher the probability of a successful concept.
+d. None of the above is correct
+
+D. Regarding senicr management's involvement in new product development, which of the
+
+following statements is most appropriate?
+
+a. Senior management should hold off on getting involved until late in a new product's
+
+development so that they don't waste their time
+
+b. Senior management should get involved early in a new product's development when they can
+
+most effectively impact outcome
+
+c. Senior management should be heavily involved in a new product's development from start to
+
+finish because they should not expect the project leaders to be effective
+
+d. Senior management should not have any involvement in a new product's development because
+
+this is not a good use of their time
+
+Q2. Write short notes: (12 marks, 2 marks per sub-question)
+A. what are the different styles of New Product Development?
+
+B. Briefly explain the components of planning process.
+
+C. What are the basic ways to value business?
+
+— %
+--- page 3 ---
+the product developr
+
+he crisis phase 4
+
+le deciding on the NPD strategy? How
+strategy? What were the options in this
+was the strategy finally
+
+Q 3. What are the factors a firm considers whill
+does the firm uses a fitability study to decide it’s
+regard with “United Beverag es” im the case study? What
+adopted and why? (10)
+
+—Q 4. What are the essential factors a firm should follow for winning the competitive
+game in NPD? How did “United Beverages” play out this game? Do you think they
+will win over their competitors? (10)
+
+Q 5. What is the importance of IPR in NPD? What strategy a company needs for
+
+IPR in order to be competitive?(10)
+
+Q 6. M/S Modern Plastics Ltd. has estimated the following annual data for the
+introduction of a new “automobile brake oil container” which they are developing. (10)
+
+3 5
+
+Cash Flows: | -14,500 | +3700 +2980 | +6540 | +7810 | +6320
+
+a
+
+Assume a required annual rate freturn= 14%
+a) Calculate the NPV and Pay Back Period for the new plastic container project:
+
+b) How would you interpret these values in terms of NPD?
+
+oH
+
+cr
+````
+
+## 2013-14 · Re-Exam · Sem 10 · paper 8a802d4e9892
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/NEW PRODUCT DEVELOPMENT/New Product development 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 02/07/2014
+- Text: ocr (3 pages), mean OCR confidence 93.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: V Semester: X
+Academic Year: 0 gs
+
+OTT OF aay
+/ ae Ne,
+of PSTMRB
+«10:08 AR % Of pm
+
+i 22
+ar
+
+Batch:2013-2014
+
+Subject : New Product Development
+
+Date :02/07/2014 D
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 & 2 are compulsory.
+
+2) Out of remaining questions, attempt any 3 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets,an the sight,hand side indicate full marks,
+
+Q. 1. Choose any one of the alternatives given (10 marks, 2 marks per sub-question).
+
+A. . Strategic platform and/or driving decisions, usually under the control of the new
+
+product marketing manager, includes which of the following?
+
+a. Determining whether to outsource manufacturing
+
+b. Determining what customer acceptance measures to use to define success
+c. Determining how to position the product versus the competition
+
+d. Determining what issues to track in a launch management system
+
+B. which of the following is the most appropriate role for the marketing team member in
+
+technical product development?
+
+a. Always lead the development team
+
+b. Screen technical development team member’s attempts to talk to customers
+c. Stay informed about technical progress, via attendance at team meetings. etc.
+
+d. Make marketing decisions without the involvement of technical people
+
+'/3
+--- page 2 ---
+C. which of the following questions are answered through product use testing?
+
+a. Whether or iiot'théproduct works
+
+&
+$
+
+b. Whether the product solves whatever problems led to development of the product in the first
+
+place
+
+c. Whether the product solves all the problems of the customer
+
+d. All of the above are answered through product use testing
+
+D. Launching a new product can be one of the most exciting but challenging tasks that a
+
+new product team and most directly, the marketing manager assigned to the new product
+
+will ever experience. To assure that a new product launch is successful, which of the
+
+following is most important?
+
+a. The continued involvement of each member of the development team in the launch phase
+
+b. A launch management system used to identify and track potential problems with the new
+product launch
+
+c. Market testing used to confirm new product success during launch
+
+d. None of the above is important
+
+E. Designing an initial marketing strategy for a new product based on the product
+
+Concept is called:
+
+1. Screening.
+
+2. Business analysis.
+
+3. Product development.
+
+4, Marketing strategy development.
+
+2/2
+--- page 3 ---
+—_—>
+
+Q 2. Write short notes: (10 marks, 2 marks per sub-question)
+
+A. What is “literature” and what are the basic elements?
+B. What is the role of a Product Manager in managing the product change?
+
+C. Any five benefits of strategic planning.
+D. Different steps to Recall the Product
+E. Describe the objective of a “Quality System”
+
+Q 3. What strategies does a firm need to take for the competitive positioning of the new
+product development in the market ? Explain with particular reference to the case of
+
+United Beverages (10)
+
+Q 4. What are the factors that a firm should consider in deciding which new product
+
+opportunity to pursue? Cite examples (10)
+Q 5. Explain “Integrated Component and Supplier Selection (ICSS)” system in
+NPD? How it facilitated and what are the advantages and limitations? (10) Cite
+
+examples.
+
+Q 6. Assume that M/S Paramount Inc. has estimated the following annual data for the
+introduction of a new pen drive in the market (10)
+
+3 5
+
+Cash Flows | -14,600 | +3700 | +2980 | +6540 +7810 | +6320
+
+Assume a required annual rate f return= 14%
+
+a) Calculate the NPV and Pay Back Period for the new pen drive project:
+b) How would you interpret these values in terms of NPD?
+
+7 X
+
+3/3
+````
+
+## 2012-13 · Exam not stated · Trim 15 · paper 911aaaa09df7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/Scan 0017.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13/4/2013
+- Text: text (11 pages)
+
+````text
+SVKM's NMIMS
+Academic Year : 2012-2013
+Subject:   NEW PRODUCT DEVELOPMENT   Marks:   50
+Time:
+Date:   13/4/2013   Duration:   2   hrs.
+Final - Examination
+QUESTION NO. 1 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING FIVE QUESTIONS.
+ALL QUESTIONS CARRY EQUAL MARKS
+WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
+QUESTION ON A FRESH PAGE
+ANSWER TO THEORY QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
+EXAMPLES FROM THE CASES/PRODUCT PRESENTATIONS COVERED IN THE CLASS, WHEREVER
+APPLICABLE, AND RECENT EXAMPLES FROM INDUSTRY
+1) How do companies use NPD as a competitive weapon in Marketing? What are the learning in
+Product Positioning from the Clean Edge Razor Case?
+2) What are the steps in the refining of the product concept into a new product and business?
+Describe any one step in more detail.
+3) What are the broad items included in a typical Business Plan for a NPD? Describe any one of the
+elements (items) in more detail.
+4) What are the factors in "Designing to Cost" in NPD? Explain the concept of triad of Product
+performance, Cost and Design speed in NPD.
+5) Explain the general financial model for new product development. What is the "fallacy of the
+Hockey Stick" in forecasting for NPD? What are the financial and management implications?
+6) Progressive Engineering Company had spent Rs 12 Crore on a new product development and
+expects to get returns for 3 years from this venture. The company has to decide on one of the
+three locations ( A.P, Gujarat, M.P.) for the launch. Each of these locations is projected to give
+1   different pattern of cash flows as follows:
+-
+Location/Year   First year   Second year   Third year
+A.P.   2   4   12
+Gujarat   10   3   3
+M.P.   4   6   7
+Value given is in Rs Crores
+Progressive Company wishes to decide which location to select for the new product launch
+a) Calculate the NPVvalues for the three locations considering the cost of capital as 10%.
+4   According to you, which location out of the three would you recommend for the NPD launch
+based on the NPV criteria? b) What if NPV criteria were not used in this evaluation and
+instead the actual cash flow figures are taken? Which location would you choose in that
+case?
+--- page 2 ---
+JOHN A. QUELCH
+HEATHER BECKHAM
+Clean Edge Razor:
+Splitting Hairs in Product Positioning
+On August 9, 2010, a group of executives from Paramount Health and Beauty Company   -.
+(Paramount) sat k~ a research room intently observing a dozen men shaving on the other side of a
+two-way mirror. 'The subjects were testing out Paramount's newest nondisposable razor, Cleari Edge,
+and discussing the experience. The verdict was extremely encouraging. The majority of men felt it
+was the closest, cleanest, and smoothest shave they had encountered.
+Clean Edgetsimproved design provided superior performance by &tilizing a vibrating technology .   . .   .
+to stimulate hair follicles and lift the hair from the skin, allowing for a more ,thorough shave.'
+Jackson Randall, product manager for Clean Edge, sat in the darkened observation room cons id;^^   .   '
+the positioning strategy for this new product. He had led the new product development process and
+was now grappling with how to position the product for h e upcoming launch. All executives.at
+Paramount agreed Clean Edge should be priced in the super-premium segment of 'the market.
+However, some executives,believed Clean Edge should be launched. as a mainstream entry within
+that segment, with the broad appeal of being the most effective razor &ailable on the market. others
+I   felt a more differentiated niche strategy, targeting .the most intensely involved super-premium . .
+consumers, would be optimal. Paramount had decided to launch this technologically advanced
+product into the men's market first where the company had the strongest presence, with an
+introduction into the women's market following soon after.
+As Stuart Quimby, director of Paramount's U.S. Grooming Divisich, left the observation room, he
+asked Randall to provide a recommendation to the executive steering committee by the end of the
+week for product positioning, brand name, and marketing budget allocations for the launch. Randall
+felt he understood this new product better than anyone; now he just had to determine the best course   .
+of action for Clean Edge and convince his boss of the merits of'his strategy.
+Paramount would be the first company to provide scientific testing by a third-party lab to back these claims.
+--- page 3 ---
+4249   1 (3lean.Edge Razorr Splitting Hairs in Product Positioning
+The U.S. Razor Market
+Background
+The U.S. Razor market could be broken up into several categories, including nondisposable
+razors, refill cartridges, disposable razors, shaving cream, and depilatories. Clean Edge competed in
+the nondisposable razor and refill cartridge categories.   Nondisposable razors experienced
+approximately 5% growth per year from 2007 to 2010,,with refill cartridges capturing slightly less
+growth of approximately 2% per year over the same time period. Most of the growth in this market
+can be attributed to innovations and new product introductions. Table A provides retail sales for the   ,
+select categories.
+Table A U.S. Shaving and Hair Removal Products: Retail Sales ($ in millions)
+2005   2006   2007   2008   2009   2010
+Nondisposable Razors   $ 178   $ 212   $ 1'88   $ 198   $ 208   $ 218
+Refill Cartridges   .   $ 763   $ 801   $ 802   $   '315   $ 832   . - $ 853
+Disposable Razors   .   $ 440   $ 456   $ 477   $ '490 ; $ 504   $ 522
+Shaving Cream   $ 271   $ 275   $ 269   $ 266   $ 263   $ 260
+Depilatories   $ 104   $ 101 .   $ 106   $ 100   ' $   94   $   88
+Source: "Shaving and Hair emo oval Products - U.S. - May 2008," Figure 5, Mintel International Group
+Note: 2008 figures are mid-year projections; 2009-2010 figures are estimates.
+Market Segments and Consumer Behavior
+Currency, industry experts divided the nondisposable razor and refill cartridge market into three
+segments based on price and quality: value, moderate, and 'super-premium. In the last decade, the
+industry had experienced signihcant growth in the super-premium segment.' Numerous product
+innovations in the super-premium segment (e.g., 5-blade technology, glide strips, lather bar, low
+r e sistance blade coating, etc.) fueled the growth. Table B . provides .   a breakout of industry sales by . -
+s gment.   .   -   .   .-   ,.   .
+.   .
+Table B 2009 ~ondis~osable Razors and
+RefiU Cartridge Retail Sales by Segment
+Volume   Dollar
+Super-Premium   25% .   34%
+Moderate
+Note: hformation is fictional.
+Paramount studies from 2009 showed that consumers purchased razors and replacement
+cartri@es more* frequently than they had in any year previously. Executives felt the replacement --   -
+cycle had been shortened due to consumers trylng out new products as well as advertising and
+sponsored articles that touted the benefits of frequent blade replacement.
+In addition to the traditional price/quality segments that industry experts tracked, Paramount's
+consumer research indicated distinct segmentation in terms of product benefits and consumer
+behavior. Research showed these segments held true for both men and women. Exhibit 1
+summarizes Paramount's findings on these groups.
+--- page 4 ---
+Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+The intensity of involvem@nt with the product varied significantly among consumers. There was
+a group of consumers that Paramount labeled as "Maintenance Shavers" who were almost
+completely disinterested in the product category.   Involved users could be broken up into
+"Social/Ernotional" and "Aesthetic" shavers. Both groups were willing to experiment with new
+technology. "Social/Emotional" shavers were motivated by the overall shaving experience, while
+".AestheticJ' shavers were more interested in cosmetic results.
+Trends
+The rate of new-product introductions fir nondisposable razors and refill cartridges hid
+accelerated in recent years, with an unprecedented flurry of 22 new stock-keeping units(SKUs) being
+introduced between 2008 and 2009. Most of these new SKUs were line extensions targeted at the
+super-premium segment and promoted benefits from advances in technology.
+As a result of new-product introductions and in order to stimulate demand, total media :
+advert is^^ expenditures ih this category had be& rising fastej: than retail market sales, and this
+trend was expected to continue. Exhibit 2 provides media expenditures for the major brands, and a
+breakout of advertising/promotion expenditures for Paramount nondisposable razors ,and, refill   -.   ..
+cartridges are given in Exhibit 3.
+In general, distribution outlets responded to the growth in nondisposable SKUs by increasing
+shelf space for the product category. Razors were not purchased frequently enough to be a traffic
+'   builder for the stores, but retail margins associated with the products tended to be considerably
+I   higher than other personal care items (e.g., toothpaste). Distribution was also starting to shift outside
+traditional food and drug stores. In 2000, food stores sold over half of all razors, but by 2009 they
+represented only 42% of sales. Exhibit 4 summarizes the changes in retail channel distribution from
+2007 to 2010E.
+Male-specific grooming products seemed to be a bright spot in the industry. Recent trends
+indicated men's grooming routines moved well beyond a splash of aftershave. New products such as
+1   men's body spray, fragranced shower gel, and skincare lines proliferated in the last several years.
+Male-specific personal care produds outpaced the growth in the women's beauty market as these
+products became more mainstream. With more media attention on men's grooming issues and less
+stigma associated with men's preening, the segment seemed poised for growth.
+Company Overview
+Paramount was a global consumer products giant with $13 billion in worldwide sales and $7
+billion in gross profits for 2009. Paramount's corporate divisions included Health, Cleaning, Beauty
+and Grooming. Paramount entered the nondisposable razor market in 1962 and quickly became a
+respected brand in the industry. Sales from Paramount's nondisposable razors and refill cartridges in
+the U.S. contributed $170 million in revenue, gross profit of $92 million, and operating piofit of $26
+million in 2009.   Paramount currently offered two lines of nondisposable razors and refill
+4 cartridges-the   Paramount Pro which was positioned in the moderate segment of the product
+category, and the Paramount Avail, which was considered a value offering. Neither Pro nor Avail
+had introduced significant technology innovations in the last five years. Together, these two
+products allowed Paramount to capture the unit-volume market-leader position in 2009, with a 23.3%
+retail unit share.2   e
+~ v e r a conhibutioxi ~ e   per unit for Avail and Pro combined was $1.76 fo; razors and $2.80 for cartridges.
+--- page 5 ---
+4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
+Competition
+Competition for nondisposable razors included dir6ct competitors as well as substitute products.
+Disposable razors provided a "wet" shave alternative, but appealed primarily to the value-oriented
+customers or to customers that wanted a new blade for each shave. Disposables generally competed
+on price and lacked the technology and innovations that were standard in the nondisposable market.
+Electric shavers captured a moderate percentage of the overall market (approximately 27% of men
+used an electric shaver). Although they did not provide as close a shave as "wet" razors, electric
+shavers were easier to maneuver and produced less skin irritation. As a result, electric shavers
+generally appealed to older consumers. Other substitutes included depilatory creams, waxing, and
+laser hair removal.
+In 2010, the nondisposable razor and r e f i cartridge market was dominated by three multinational
+players: Paramount, Prince, and Benet & Klein. hrew entrants, Radiance Health Inc. (Radiance) and
+Simpsons-both established personal-care products companies-had recently intensified competition
+in the space. Other smaller competitors and private-label brands comprised the rest of the market.
+The majority of these other competitors were priced in the valu 2 segment of the market. Exhibit 5
+details each of the main players' market shares. Exhibit 6 provides representative retail prices for
+each major brand by product segment.
+Prince - Prince manufactured and sold personal care products throughout the world. The
+company's principle focus included oral care products, skin care products, shaving products, and
+deodorants/antiperspirants. Prince had been a market leader in nondfsposable razors since the 1950s
+and held the number one position in terms of retail dollar sales in 2009. Prince sold nondisposable
+razors and refill cartridges under the brand names Cogent and Cogent Plus. Both were considered
+super-premium products. Revenues for Prince's nondisposable razors and refill cartridges in 2009
+were approximately $224 million with $45 million in operating profit.
+Benet & Klein (B&K) - B&K was a multinational beauty and health products company that
+manufactured and sold vitamins, cosmetics, shaving products, skin care products, hair care products,
+A d fragrances. B&K entered the nondisposable razor market in 1985 with the Vihc brand. B&K
+unveiled a new product line of nondisposable razors and refill cartridges (Vitric Master) in 2009 that
+provided an advanced lubrication strip, non-slip handle, and superior anti-corrosive technology
+blades.
+New Entrants - On August 1, 2009, Simpsons launched a new nondisposable razor using its
+deodorant brand, Tempest. The Tempest razor touted an advanced pivoting head that allowed for a   I
+smoother shave.. Radiance also planned to. extend its deodorant brand name, Naiv, into   .. . . .
+nondisposable razors. The Naiv r&or offered a pulsing feature that was somewhat similar to Clean
+' Edgers vibrating technology. Executives at Paramount had learned the Naiv razor was due to launch
+natidnally in September 2010. In test markets, Naiv acquired a 13% share. Estimates for 2010 market
+share are provided ih Exhibit 5. Based on ~adi&ie's past la-&es   in new-pioduct 'categories,
+Para 9 ount believed it would come out of the gate strong. Paramount marketing executives
+estiniated Radiance would spend over $16 million for media advertising to support the Naiv launch   ..   -
+in 2010. There were also widespread rumors of significant promotion events that would soon be
+unveiled. Currently, Radiance and Paramount were fierce competitors in several personal care
+product categories.,
+--- page 6 ---
+Clean Edge Razor; SpLitting Hairs in Product Positioning   1 4249
+Clean Edge Razor
+Design and Testing
+In 2007, Paramount's CEO created a special nondisposable-razor project team devoted to
+developing a technological breakthrough and providing Paramount with a standout new product in
+the category. The team was led by Randall and included representatives from R&D, marketing, and
+production. The team evaluated several new designs and determined that a vibrating, ultra-thin five-
+blade design (dubbed Clean Edge) would be the revolutionary product Paramount needed to
+establish themselves as an innovation leader. One AAA battery was housed in the handle of the
+razor which provided vibrations that stimulated hair follicles. In addition, the larger, heavier handle
+allowed for better balance, grip and control while shaving, and the advanced ultra-thin blade design
+reduced irritation. Over an 18-month period, extensive clinical testing and consumer research were
+performed. Clinical trials indicated Clean Edge achieved a 25% increase in hair removal versus other
+leading nondisposable razor brands (e.g., Cog&t and Vitric). Trials also pro-ved benefits to overall
+skin condition with more even skin tone and improved skin texture.
+Randall managed the development and testing process and was now spearheading the product's
+launch. Senior executives already determined that Clean Edge would be-priced somewhere in the
+super-premium segment, and the launch of the men's razor would occur in January 2011, with the
+women's razor to follow soon after. The looming question was how to best position Clean Edge.
+Posifioning   .   . .   .   .   .
+Within the super-premium segment, Randail had the option of recommending Cle% Edge for a
+niche product position focusing on highly involved, fastidious groomers looking for a superior
+shaving experience, or a mainstream position focusing on the broad advantage of offering the closest.   .   . ;
+possible shave. Randall had consulted with marketing and manufacturing teams .to develop initial
+financial forecasts for both options. Exhibit 7 summarizes Randall's assumptions and forecasts.
+\   . .   .   . - -- . . .   -- - . . .- . . . . . . , .   :
+In order to develop a comprehensive pro fonna income statement for eich position&   option,.:,:..-   .
+Randall h e w he would also have to consider the impact of caniibalization.. In a recent division   -   '
+status meeting, Randall had observed a heated exchange on this topic between Paramount's newly   . .
+hired corporate marketing director, William Kim, and Paramount Pro's prod~ct'mana~er, ~ l b e r t
+Rosenberg. Kim had been brought on board to provide a fresh perspective to the nondisposable-
+razor product category. Rosenberg had been a respected manager in the Grooming Division for over
+two decades and had significant political capital in the division.
+.When the question of Clean Edge's product positioning was brqached;Ros@nberg sQid, "I can't   .   .'
+believe we are even considering a mainstream positioning strategy. You will just siphon off
+consumers from Pro. A mainstream strategy will dilute the brand power for our bread-and-butter
+a product, Pro. We will just be -cannibalizing ou~selves: A niche strategy makes more . sense. It will
+complement our existing product portfolio perfectly."   .
+.   .   .   .   .   .
+Kim thought ~ o s e n b e was r ~ too concerned with protecting his turf and not thinking of what was
+best for the overall company. He responded, "Albert, research shows our consumers are becoming
+more sophisticated.and expect more advanced technology. Pro does not provide this. Pro is in the
+mature phase of .the product Hecycle.   It is only a matter of time before we see the decline.
+Positioning Clean Edge as-a mainstream product will help prevent loyal Paramount customers from
+being wooed away to more innovative brands. Clean Edge has the potential for true market .
+domination and needs to be positioned as such."
+--- page 7 ---
+4249 1 Clean Edge Razor: Splitting Hairs in Product Positioning
+Rqdall was unsure of the exact effect of cannibalization, but product launches in other
+Paramount product categories indicated a considerable portion of the volume sales for Clean Edge
+could come at the expense of Paramount Pro and Avail. Randall's team spent a good amount of time
+researching potential cannibalization scenarios. They determined 60% of Clean Edge sales would
+likely come from current Pro/Avail customers in a mainstream positioning scenario and 35% of
+Clean Edge sales would likely come from current Pro/Avail customers in a niche positioning
+scenario.
+Branding Considerations
+Randall had not yet determined the relative emphasis of the "Paramount" and "Clean Edge"
+names on packaging or in advertising. He had informally discussed hYo options with different
+executives. Those executives who felt the design was a major breakthrough in grooming believed the
+product should stand apart from the current lines with a n emphasis on the "Clean Edge" name (e.g.,
+"Clean Edge by Paramount"). In opposition to this Were a handful of executives who thought
+Paramount's name should receive top billing as this was consistent with the overall corporate
+strategy of building the Paramount brand name equity. The name this group preferred was
+"Paramount Clean Edge." Focus groups revealed both concept names were viewed favorably.
+Randall knew his decision would have an impact on how closely consumers associated Clean Edge
+with Pro and Avail and consequently influence the rate of cannibalization.
+Marketing Budget   . .
+Paramount executives had not yet decided how to incorporate Clean Edge into the overall
+nondisposable razor and refill cari~idge marketing budget and if an increase in overall budget was
+necessary. The 2010 budget totaled $48.3 million with $20.2 miILion for advertising and $28.1 million
+for consumer and trade promotions. Randall was aware that the steering committee was looking to
+curb excessive marketing expenses in all product categories. If the budgets were to remain constant
+for 2011, then a reallocation would have to occur. Randall considered the option of allocating the
+qudget based on an expected percentage of sales; but this would not be sufficient for Clean Edge to   -   -
+enter the market in a meaningful way. Clean Edge needed significant marketing dollars to ensure a
+successful launch. However, Rosenberg was already campaigning to protect his allocations.
+Rosenberg had been quite vocal in his stance that Paramount Pro was the backbone of the company's
+razor line and as such needed to sustain current marketing allocations.
+TO capture the volume estimates laid out in Exhibit 7, Randall determined a niche positioning
+strategy would require $15 million in total marketing expenditures for Clean Edge's first year. In
+order to reach full sales potential with the mainstream position, a $42 million marketing budget
+would be needed for year one. -It was clear to,Randall that launching Clean Edge as a mainstream   -
+product would require sigruficantly more marketing support. Mainstream razor unit volumes were
+expected to capture over three times niche volumes in the first year, and reaching the masses would
+require an extensive advertising campaign. In addition, considerable consumer and trade promotion
+eventdwould be needed and many expenses associated with these events would be volume based. In ,.   . ..
+order to induce trial; several consumer promotions were being considered. Cents-off coupons (e.g.,
+$1.00 off purchase) would be an important part of the consumer promotion strategy for either
+positioning strategy. A coupon for a free razor with cartridge purchase had also been proposed.
+Randall estimated thecost of this promotion to be approximately $4 million.and had included it in
+his initial marketing budget assumptions for the mainstream launch located in Exhibit 7. Even
+tho.ugh an increase in the overall product category marketing budget would be highly scrutinized,
+Randall felt this might be the best route.
+--- page 8 ---
+Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+Conclusion   . .
+Randall's gut told him Clean Edge had significant mainstream potential in the super-premium
+segment. He felt the vibrating, thin-blade razor would become the new standard in men's shaving
+and would quickly gain mass appeal. However, Randall had to consider the optimal. positioning
+strategy in the context of the entire company. He knew Paramount Pro's product manager,
+Rosenberg, would vehemently oppose a mwtre'am launch, &d he had to consider if launching as a
+niche product for a year or two might be a better move. Randall hoped that an economic analysis
+would help him find the right answer. He planned to build a simpleqrofit-and-loss pro forma that
+took into account the effects of cannibalization on Paramount Pro and Avail. Randall also realized it
+would be important to develop contingency plans to address diffeient scenarios. After this was'
+complete, he could make. a more informed decision about a positioning recommendation and then get
+started on brand name arid budget recommendations.
+--- page 9 ---
+.   . 4249   1 Clean Edge Razor. Splitting Hairs in Product Positioning
+Exhibit.1 Behavior Segmentation of Nondisposable Razor Consumers
+Involved Razor Users   Involved Razor Users   Uninvolved Razor Users
+'   SociallEmotional Shavers   Aesthetic Shavers   Maintenance Shavers
+(39% of Nondisposable Razor ,Users)   (28% of Nondisposable Razor Users)   (33% of Nondisposable Razor Users)
+Differentiate among products.   Search for products that most   View products as ~e same. Lack of
+Search for products based on both   - effectively remove hair.   interest in product category.
+functionality and messaging.
+Shaving as an essential part of a daily   .   Shaving is consistently done to   Shaving routine is inconsistent.
+grooming ritual.   remove unwanted hair:
+Shaving makes them feel more   Shaving is a means to smooth skin   Shaving is a chore they try to finish as
+attractive and confident.   -   '   .   they desire.   .   quickly as possible. --.   . . . - . - . .. . ..... . . . - . . .....
+Note: Information is fictional.
+Exhibit 2 Nondisposable Razor Media Advertising ~xpenditures," 2009-2010E
+2009   .   .   20XOE
+Media ($ in millions)   Media ($ in millions)
+Benet & Klein
+Prince
+Paramount
+Sirnpsons
+Radiance
+I   I
+a Media advertising expenditures does not include trade or consumer promotion ,   .
+.   .   . . . . . . . . .
+Exhibit 3 Advertising and Promotion Expenditures for
+Nondisposable Paramount Razors: 2009-2010E ($ in millions)
+2010E
+$ 19.1   $ 20.2
+Consumer Promotions   $ 11.5   $ 13.1 .
+Trade Promotions   .. $ 13.7
+Total 0   $ 44.3   $ 48.3
+--- page 10 ---
+.   .   Clean Edge Razor: Splitting Hairs in Product Positioning   1 4249
+Exhibit 4 % of Nondisposable Razor Sales by Retail Channel: 2007-2010E
+2007   2008   2009   2010E
+Val(%)   $(%I   Val(%)   $(%I   . Val(%)   $(%I   Vol (%I   $(%)
+Food Stores   45   . 47   44   44   42   42   42   43
+Drug Stores   32   33   31   33   29   33   29   31
+Mass merchandisers   19   17   18   18   21   20   21   21
+Club Stores   1   1   4   3   5   3   5   3
+0 ther   3   2   3   2   3   2   3   2
+Note: Information is fictional.
+.   .   . . . - . - , . . . -
+Exhibit 5 Nondisposable Razor Unit and Dollar Market Share by Brand: 2007-2010E
+2007   2008   2009   2010E
+Brand   Vol (%I   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)   Val(%)   $ (%)
+Paramount
+Paramount Pro   12.0   12.6   13.7   15.2   .   16.9   18.5   17.3   18.5
+Paramount Avail   3.5   A&   -62   6.4   L!A!   4.9- 2 3
+Total   20.5   19.2   21.8   21.4   23.3   23.4   22.2   21.4
+.   .   ....   .   . .
+Prince
+Cogent   24.0   31.7   ,   24.5   32.6   22.1   .29.4   16.1   .   . 21.3 ..   .
+Cogent Plus   0.0   0.0   0.0 0.0   1.0   - 1.3 .   -32'   4.9
+Total   ' 24.0   31.7   24.5   32.6   ' 23.1   30.7   19.8   26.2
+Benet & Klein   .   . .
+Vitric .   18.1   20.5   . 18.2   ,   20.0   17.8   20.0   15.2   -   -   -.-' .15,8
+Vitric Advanced   2.5   2.7   .   1.6   1.9   0.7   '   1.1   -. - 0.2.   - . - .   - 0.1
+Vitric Master   .   Ju -!U. .AX!   A!&   0.7   -02   -44   .   - 2'
+Total   20.6   23.2   19.8   21.9   19.2   22.0   19.4   21.1
+Radiance
+Naiv   .   ,-!a 0.0   0.0   All 2   0.0   2.0   26.
+Total   0.0   0.0   0.0   .   . 0.0   0.0   0.0   . 2.0 ..   . . , . . . 2.6
+Simpsons
+Tempest   - 0.0   0.0 - 0.0   0.0   422   .   .- 1.1   . - 4.6   5.7
+Total   0.0   0.0   0.0   0.0   - 0.9   1.1   '   4.6 '.'.'   5.7
+Other   34.9   25.9   33.9   ' ,   24.1   33.5   22.8   32.0 . ..   -   23.0
+--- page 11 ---
+4249   1 Clean Edge Razor: Splitting Hairs in Product Positioning
+Exhibit 6   Select Nondisposable Razor Brand price^:^ 2009 Suggested Retail Price
+Standard Refill
+Cartridges
+Razor   (Average 4-count)
+Super-premium
+Cogent Plus   $12.50   $10.00
+Cogent   $11.19   $ 8.89
+Naivb   $11.80   $ 9.45
+Vitric Advanced   $11.20   $ 8.99
+Vitric Master   $10.85   $ 8.65
+Tempest   $10.99   $ 8.75
+Moderate   .
+Paramount Pro   $ 9.50   .   $ 7.55
+Vitric   .$ 8.89   $ 7.00
+Value
+Paramount Avail   .   $ 5.75   $ 4.60
+a   able includes only key brands in the market. Prices are representative of most popular
+SKU in the brand category. Prices for other SKUs wiU vary.
+Projected price at launch
+Exhibit 7 Financial Forecasts: Alternative Positioning Scenarios for Clean Edge
+Niche Positioning Mainstream Positioning
+Ppnned capawty Razor urut volume (rmllions of units)   Year 1   1 0   33
+Year 2   1.5   4 0
+Planned capacity Cartridgea unit volume (millions of units)   Year 1   4 0   -   9.9
+Year 2   10.0   21.9
+Capacity costs ($ in millions)   Year 1   $ 0.61   $ 1.71
+Year 2   $ 0.87   $ 2.45
+Razor: Production per unit cost
+Razor: Manufacturer price
+Razor: Suggested price
+Cartridge:a Average Production unit cost
+Cartridge:a Average Manufacturer price
+- Cartr.idge:a Average Suggested price
+t
+Advertising ($ in millions)   Year 1   $   7
+Year 2   $   7
+Consumer promotions ($ in.millions)   Year 1   $   6
+Year 2   $   6
+Trade promotions ($ in millions)   Year 1   $   2   $ '   6
+Year 2   $   3   .   $   8
+a Carhidge unit assumes average 4xount refill package.   -
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper cf6472f4035d
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
+- Text: ocr (18 pages), mean OCR confidence 92.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~~ SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+j Academic Year : 2011-2012
+
+* Subject: NEW PRODUCT DEVELOPMENT Marks: 50
+. o
+Time: 10.30 am To 30 pm
+Date: 30/03/2012 Duration: 2 hrs. %
+
+Final - Examination
+
+@ QUESTION NO 7 IS COMPULSORY. ANSWER ANY FOUR OF THE REMAINING SIX QUESTIONS. ALL
+QUESTIONS CARRY EQUAL MARKS
+
+e - WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
+QUESTION ON A FRESH PAGE
+
+e -ANSWER TO ALL QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
+EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT
+EXAMPLES FROM INDUSTRY
+
+1) What are the criteria while deciding the strategy for NPD? How would you evaluate these new
+product prospects?
+2) What are the various Competitive Games in seizing the market opportunity in NPD?
+3) What is the role of “Mass Customization” in NPD? What are the Strengths & Weaknesses of
+Mass Customization strategy?
+4) What are the implications of “life Cycle & Market Cycle” aspects of NPD on Profits?
+a 5) What is the concept of “Designing to Cost” in NPD? How does it defer from the traditional
+costing practice?
+6) What are the salient features of “Design for Manufacturing” in NPD? Explain in detail the three
+most important of these features
+7) With reference to the case of Open Innovation - “Proctor & Gamble” (ENCLOSED), answer the
+following questions:
+a) What is the historical background of P&G? When P&G ‘s products were always in the top
+} bracket of competition, what was the urgency of a strategic rethinking? How were the
+, ’ performances year wise and in what way did these indicators forced the top management in
+‘ formulating a new technology and business strategy for the company?
+
+b) Explain, in detail, the Vision of AG Lafely. Explain the model as postulated by Lafely for P&G.
+
+Cite company’s product as examples in each case.
+
+Vig
+--- page 2 ---
+OPEN INNOVATION: THE CASE OF P&G
+
+By Taranjeet Chawla, IBS Research Centre, Kolkata
+
+‘We want P&G to be known as the company that collaborates — inside and out — better
+than any other company in the world.”
+-A G Lafley, president and CEO, P&G
+
+“P&G has a history of acquiring technologies from outside our Company. What is
+particularly new in our Connect + Develop approach to external relationships is our
+strong focus on ready-to-go innovations.”
+
+-Gil Cloyd, CTO, P&G
+
+“Today, P&G is the model of open innovation implemented effectively, and their financial
+results demonstrate the power of the approach.”
+-Michael Docherty, CEO of Venture2 Inc."
+
+INTRODUCTION
+
+- By 2000, Procter & Gamble (P&G), one of the world’s largest consumer products
+companies, was under immense pressure. For decades, the company was known for its
+innovation. The consistent growth of the company was largely driven by innovation from
+within the organization, relying heavily on in-house R&D. For a long time, this centralized
+innovation model worked well for P&G. However, by 2000, it realized that an internally
+focused model of innovatiori was not sustainable as the success rate of new products
+(developed independently by the R&D department) was around 35%. Besides, the R&D
+expenses were escalating faster, increasing by $500 million between 1996 and 2000 to
+reach $1,899 million. By mid 2000, the company’s share prices fell by more than 50%.
+
+Worried by the situation, the company's newly appointed CEO, Alan G Lafley (Lafley),
+decided to reinvent P&G’s innovation model. He felt that outside connections could
+discover new ideas from around the world which could quickly be turned into innovative
+products by using the company’s own R&D, manufacturing and marketing skills. Thus,
+
+le ‘began to focus on external collaborations to bring in innovative ideas and then
+applied internal capabilities to develop new products. This model was termed as
+‘connect and develop’ (C&D) innovation model. He believed that the new model would
+
+enable the company slash its R&D costs and increase the success rate of new
+
+' Michael Docherty is the CEO of Venture2 Inc., a consulting and new ventures management company
+focused on launching breakthrough innovation in the consumer products industry.
+
+*"e
+--- page 3 ---
+innovations. He set a goal to create 50% of the innovations outside the company’s R&D
+labs. The new innovation model proved to be fruitful for P&G and it introduced several
+successful products using the model. Experts opined that companies which would not
+
+adopt this model would find it difficult to survive.
+
+P&G: AT A GLANCE
+
+P&G was established on October 31°, 1837 when William Procter, a candle-maker, and
+James Gamble, a soap-maker, formed business partnership in Cincinnati, Ohio (US).
+Initially, the company concentrated on manufacturing and marketing of both, soaps and
+candles, reaching $1 million in sales by 1859. Later, it began to focus more on soap and
+had a range of more than 30 different types of soap by the 1890s. In the early 19”
+century, the company’ began to diversify its products and introduced Crisco”, a
+shortening made from vegetable oils rather than animal fat, in 1911. In the wake of
+growing popularity of electric bulbs, it stopped manufacturing candles in 1920. During
+this time, the company started hiring researchers for conducting research in various
+fields (especially chemical) and developing new products. The research efforts of the
+company led to the introduction of Dreft, the first synthetic detergent powder, in 1933
+and Drene, the first detergent-based shampoo, in 1934. Drene also marked P&G's entry
+into the hair care business. Later, in 1946, it launched Tide, laundry detergent, and Prell,
+a shampoo brand. In 1952, the company opened Miami Valley Laboratories (MVL) in
+Cincinnati, which was its first facility solely dedicated to research.
+In 1955, the company launched Crest, the first toothpaste to use fluoride as an
+ingredient. Crest was approved by the American Dental Association (ADA) as an
+‘effective decay-preventive dentifrice that can be of significant value’*®. Over a period of
+time, the crest brand was associated with about 20 different products (such as
+toothbrushes, toothpaste, mouthwash, dental floss and tooth-whitening products). In
+1960, P&G launched liquid Downy, its first fabric softener, and a year later, it test
+‘ prt Pampers, a brand of disposable diapers. Pampers was the result of the
+
+télentless R&D efforts put in by the researchers of the company to design a diaper that
+
+? Crisco was the first all-vegetable shortening. Crisco provided a healthier alternative to cooking with animal
+fats and was more economical than butter.
+‘Crest toothpaste’, http://en.wikipedia.org/wiki/Crest_toothpaste
+
+33
+--- page 4 ---
+was absorbent, disposable and prevented leaks. Prior to the launch of Pampers
+disposable diapers were not popular. However, Pampers was an instant hit with
+customers and replaced cloth diapers. Launched in 1972, Bouhce, fabric softener
+sheets, was another example of innovative product, which was used to soften clothes in
+
+the dryer.
+
+In 1983, P&G introduced Always/Whisper, a feminine protection product which, by 1985,
+became one of the world’s leading brands in its category. It launched Pert Plus/Rejoice
+shampoo in 1986 which enabled consumers to wash and condition their hair using just
+one product: Apart from innoavtive products, P&G innovated its packaging also. In
+Germany, it introduced refill packs for liquid products, such as Lenor fabric softener. it
+was viewed as a major step towards solid waste prevention and. was named ‘the
+invention of the year’ by German grocers. In 1990, it won the ‘International DuPont
+Packaging Award’ for its Spic and Span Pine*, a house-hold cleanser, which was
+packaged in 100% recycled plastic. P&G was also awarded the ‘National Medal of
+Technology’* for creating, developing and applying advanced technologies to consumer
+_ products.
+
+In 1996, P&G developed a new product, Olestra, which was a calorie-free substitue for
+fat in cooking potato chips and other snacks. Olestra, marketed under the brand name of
+Olean, got the approval of the FDA® to be used in salty snack and crackers. In 2000, the
+company received FDA's approval for its new product, Actonel (risedronate sodium
+tablets) for the treatment of postmenopausal osteoporosis (PMO) “and glucocorticoid-
+
+induced osteoporosis (GIO).
+
+At the end of 2000, P&G had a global network of 18 technical centers in 9 countries
+spread across 4 continents. It had more than 8,000 scientists and researchers working in
+its Jabs on new product development. By the end of financial year 2000, ten of P&G's
+
+brands generated over.a billion dollar each in sales annually. These included Pampers,
+yl
+& 50 January 2001, P&G sold Spic and Span to Shansby Group, a San Francisco investment firm.
+
+5 The National Medal of Technology is an honor granted by the President of the United States to inventors
+and innovators (a person, a group of people or an organization) that have made significant contributions to
+the development of new and important technology. It is the highest honor in the US for achievements related
+to technological progress.
+
+® The Food and Drug Administration is an agency of the United States Department of Health and Human
+Services and is responsible for regulating food, dietary supplements, drugs, cosmetics, etc. in the US.
+
+4/12
+--- page 5 ---
+Tide, Ariel, Pantene, Bounty, Charmin, Always, Folgers, Downy and Pringles. The
+company ended the year with sales worth $40 billion up 5% from 1999. However, net
+earnings were down 6% to $3.5 billion from $3.7 billion in the previous year [Exhibit 7].
+
+FROM R&D TO C&D: A NEW APPROACH TO INNOVATION
+
+’We're probably as good as the next guy at inventing. But we are not absolutely and
+positively better than everybody else at inventing. There are a lot of good inventors out
+there.”
+
+-AG Lafley, CEO, P&G
+
+In 2000, P&G invested almost $1.9 billion or 4.75% of sales in R&D [Exhibit 2] for
+developing new products. This brought the company to the list of 20 largest R&D
+investors which included Pfizer, General Electric, Sony, Merck, Hewlett-Packard, etc.
+However, the success rate of its new products was around 35%. Triggered by virtually
+flat sales and a fall in earnings, the net earnings margin dropped to 8.9% from 9.9% in
+1999. As a result, P&G's share price slid from $118 to $52 a share.
+
+In 2001, the company’s earnings further declined to $2.6 billion and the margin shrank to
+6.7%. Amidst the difficult times, CEO Lafley, who took over after Durk |. Jager (Durk)
+resigned in June 2000, faced the challenge of reorganizing the company’s innovation
+model. While his predecessor Durk tried to invent more new products internally by
+) revamping the R&D department, Lafley had a different vision [Exhibit 3]. He wanted
+around half of the innovation ideas to come from outside. He expressed, “My hypothesis
+is that innovation and discovery are likely to come from anywhere. What P&G is really
+good at is developing innovations and commercializing them. So what | said is, ‘We
+
+”
+
+need an open marketplace.
+
+Traditionally, most of P&G’s innovations were created in its own R&D labs by connecting
+ideas/internally within the organization. However, observing a few products, which had
+used, pre ideas taken from outside, proved that external collaborations too could
+produce highly successful innovations. With this concept in mind, Lafley created C&D
+innovations model [Exhibit 4]. The basic principle of the model was that promising ideas
+were available throughout the globe and by using them the company could create
+
+5A
+--- page 6 ---
+superior and cheaper products, faster. P&G’s connect and develop was often mistaken
+to be simply outsourcing which meant transferring work to low-cost providers. However,
+the company clearly differentiated its C&D from outsourcing, emphasizing that it was
+about identifying innovative ideas from outside and bringing them into the organization to
+capitalize on its own R&D capabilities. In order for C&D to work, the company first
+identified what it was looking for and then decided to look for ideas that were already in
+use somewhere. After the idea was identified the company then focused on those ideas .
+and products that could be turned into successful product using its own R&D
+capabilities. For searching. ideas the company discovered three different sources: to
+
+identify top the consumer needs, adjacencies, and technology game boards.
+
+IDENTIFYING TOP TEN CONSUMER NEEDS
+
+For all its businesses, P&G, once a year, prepared a list of top ten consumer needs
+which, when satisfied, would boost the growth of their brands. Based on these lists,
+another list for the company overall was prepared and then the needs were developed
+into problems to be solved. These problems were clearly detailed in technology briefs,
+
+solutions to which were to be found outside the company.
+
+FINDING ADJACENCIES
+
+The company also attempted to find how new products or concept could benefit from
+existing brand equity. In this exercise the company identified products that were adjacent
+to its existing products and then sought relevant innovation in those product categories.
+TECHNOLOGY GAME BOARDS
+
+Another source of idea search was technology game boards which helped assess the
+impact of technology acquisition in one area on the products in other categories. These
+game boards explored various questions, such as which technologies the company
+wanted to strengthen, which technologies it wanted to acquire or which of them it wanted
+
+ta sell out. Answers to these questions provided broad targets for innovation searches.
+
+Once the company ‘decided what ideas to look for and identified the sources of ideas, it
+needed a global network to carry out the activities that formed the C&D model. P&G's
+own network across the globe provided a platform for the application of C&D strategies.
+
+It used closed proprietary networks and open networks for the purpose. Closed
+
+6 /ig
+--- page 7 ---
+proprietary networks comprised of technology entrepreneurs, suppliers etc. while open
+networks included individuals, organizations, educational and research institutions,
+
+government and private labs, competitors, trade partners, etc.
+
+P&G developed various closed proprietary networks for undertaking C&D activities. The
+most important of them were technology entrepreneurs and: suppliers. Technology
+entrepreneurs were senior P&G managers who were responsible for preparing
+technology briefs, defining the problem to be solved. They established external
+connections (such as liaisoning with researchers, forming supplier networks, etc.) and
+communicated.those connections to the company’s business unit heads. The technology
+entrepreneurs combined scientific literature and patent databases with physical hunt for
+ideas since searching ideas electronically alone was not sufficient. A technology
+entrepreneur in Japan, while exploring the market, found a product that was eventually
+developed and sold as ‘Mr. Clean Magic Eraser’ [Exhibit 5]. The company had a
+network of 70 technology entrepreneurs who worked out of six C&D hubs in the US,
+Latin America, Western Europe, Japan, China and India. All the hubs focused on finding
+products, concepts or technologies that were the specialties of their respective regions.
+By early 2006, technology entrepreneurs had identified around 10,000 products, ideas
+
+and technologies.
+
+The supplier base of the company formed another network for C&D activities. The top 15
+suppliers to the company had a combined R&D staff of approximately 50,000. VWhen the
+company began to embrace C&D model it realized that the huge researcher base of its
+suppliers could be a potential source of innovation. Subsequently, P&G developed a
+highly secure IT platform that enabled it to share its problems (technology briefs) with its
+suppliers. The company even went to the extent of sending its researchers to suppliers’
+labs to work with theirs and inviting suppliers’ researchers to: work with its own.
+According to Larry Huston, vice president, innovation and knowledge, P&G, said, “In
+some cases, suppliers’ researchers come to work in our labs, an in.others, we work in
+thelrs — an example of what we call ‘cocreation’, a type of collaboration that goes well
+
+yond typical joint development.” The company also held meetings with suppliers
+ca its top managers interacted with suppliers’ top leaders understanding each other's
+
+capabilities.
+
+Ag
+--- page 8 ---
+To complement the closed proprietary networks, the company used open networks.
+Examples of open network, which were very useful for the company, were: NineSigma,
+
+InnoCentive, YourEncore and Yet2.com.
+
+NineSigma: P&G was instrumental in creating NineSigma, a firm that connected
+companies that had problems with those companies, universities, academic institutions,
+government and private research labs that could find solutions to those problems.
+NineSigma prepared a technology brief that described a problem and distributed it to its
+network of solution providers. In case someone had a solution to the problem, the
+message was conveyed to the company (that had the problem). If the company found
+the solution to be relevant to its requirement, NineSigma connected the solution provider
+with the company and the research project started. By 2006, NineSigma distributed
+technology briefs to over 700,000 people and had completed more than 100 projects.
+
+Around 45% of the completed projects led to further collaborations.
+
+InnoCentive: InnoCentive, founded by Eli Lilly’, was a firm that had a network of 75,000
+contract scientists from all over the world. It was different from NineSigma in the way
+that it provided solutions to more narrowly defined problems. Any company with a
+problem could post it to the firm’s scientist base which provided answers. InnoCentive
+
+claimed to solve about one-third of the problems it received from different companies.
+
+YourEncore: P&G created YourEncore in 2003 as an independent business. It
+connected around 800 retired scientists and engineers (highly efficient employees from
+diverse professional backgrounds) from 150 organizations with client companies.
+YourEncore provided the client companies an opportunity to exploit the talent of these
+experienced people. Companies with problems could hire any of these retirees (with
+relevant experience) for short-term assignments at a very low cost.
+
+Yet2.com: Yet2.com was a website that served as an online marketplace for the
+exchange of intellectual property. Yet2.com enabled technology transfer between
+
+theese universities, research labs, etc. The website helped the clients in writing
+
+T Eli Lilly and Company is a global pharmaceutical company based in Indiana (US). It was founded in 1876 °
+by a 38-year old pharmaceutical chemist, Eli Lilly.
+sg
+--- page 9 ---
+technology briefs detailing the technology they were looking for or offering (for license or
+purchase). Then it distributed the briefs to a network of clients (businesses, labs,
+academic institutions, etc.) across the globe. Clients could browse through the briefs and
+if something interested them they could ask for the details. At this point, Yet2.com
+
+introduced both the parties to negotiate directly with each other.
+
+After an idea was identified by any external connection, it went through an internal
+screening. The screening process was employed to assess which idea, product or
+technology the company was seeking. For example, if a technology entrepreneur found
+a product or idea in some part of the world, he would pass the details of the product or
+idea to top managers through an online catalog. The managers or business heads then
+decided, subject to a number of practical questions, whether to put it into the new
+product development portfolio. If the decision was positive, the product/idea acquired
+from outside went into development process just like any other product developed in the
+company’s own R&D lab.
+
+OPEN INNOVATION: DRIVING GROWTH
+
+TOOL FOR CONSISTENT GROWTH
+
+According to Henry Chesbrough’, noted author, “Open Innovation means that vaiuable
+ideas can come from inside or outside the company and can go to market from inside or
+outside the company as well. This approach places external ideas and external paths to
+market on the same level of importance as that reserved for internal ideas and paths to
+
+market in the earlier era.”®
+
+Several analysts tried to differentiate open innovation from closed innovation based on
+three aspects of the innovation delivery chain: Fuzzy Front-end,’ Development, and
+Commercialization. In the traditional closed model [Exhibit 6] inputs were derived from
+both internal and external sources. Once the inputs were collected, they were narrowed
+dow, using the funnel approach, to a few that best suited the company’s needs. Then
+the Reo departments began their task of inventing, evolving and perfecting products or
+
+® Dr. Henry Chesbrough has authored a book “Open Innovation: The New Imperative for Creating and
+Profiting from Technology” in 2003. Presently, he is the executive director of the Center for Technology
+, Management, Haas School of Business, University of California.
+“Meet Henry Chesbrough”, www.research.philips.com, April 2004
+Ag
+--- page 10 ---
+\
+
+concepts. The prime focus was on internal development of technologies and products.
+An expert pointed out that BM, Intel, GE and Lucent (in the 1970s and 1980s) were.
+
+perfect examples of companies that leveraged sound internal R&D capabilities to create
+
+new products and | services. However, in the open innovation model [refer to Exhibit 6],
+companies adopted outside-in and inside-out approach. In the fuzzy front-end
+companies looked outside for solutions to its problems that could be used as a basis for
+internal development. During the development process, companies sought innovations
+already in use elsewhere and provided an opportunity for further improvement and
+commercialization. In this pahse companies could also sell off their internally developed
+technologies that were not used. Finally, in the commercialization stage too, companies
+could sell out technologies or innovations which could better fit somewhere else or
+
+acquire already successful products or ideas to instantly boost its growth.
+
+Experts suggested various benefits of open innovation in the overall growth of the
+organization [Exhibit 7]. According to an analyst, the most obvious benefit was the large
+base of ideas and technologies which the companies could utilize to drive internal
+growth. Apart from that, several companies considered open innovation a tool to explore
+newer growth opportunities. Moreover, companies could reap economic values by
+licensing unused ideas or technologies.
+
+P&G: REAPING BENEFITS
+By embarking upon the new innovation model P&G benefited in many ways. While
+focusing on its C&D innovation model, acquiring ideas from the external world, the
+company marketed internal intellectual property to outside clients. It observed that
+selling to and procuring from the same organization was the most profitable strategy. In
+the early 2006, P&G announced that its R&D spending as a percentage of sales was
+down to 3.42% from 4.75% in 2000. The company claimed that over 35% of its new
+products contained elements that were generated outside, compared to around 15% in
+“2000. Besides, it acknowledged that its R&D productivity had increased by almost 60%
+rT since adopting the new model. By applying the new model, the company considerably
+reduced its product development time. For example, its new line of potato crisps,
+Pringles, lauftched in 2004 took less than a year from concept to launch. P&G stated
+that between 2004 and 2006, it launched over 100 new products which had some
+
+log
+--- page 11 ---
+a)
+
+Pal
+
+outside connections. At the end of the financial year 2005, it declared 22 brands that
+
+registered worldwide sales of over $1 billion each.
+
+However, while embracing the new innovation model, the company encountered several
+hurdles. Firstly, it confronted the commonly held notion “that everything must be
+invented within P&G”. Secondly, there was a resistance from the employees to adopt the
+C&D model since they were anxious that the new model would eliminate jobs. They also
+feared that by adopting C&D model the company’s R&D would lose its competency.
+Lafley realized that he needed to change the company’s culture, shifting the mindsets
+from resistance to ideas broyght in from outside to embracing those found elsewhere.
+With this in mind, he decided that if a new product succeeded in the market, all the
+employees involved in its development would be rewarded irrespective of the fact
+whether the product idea came from inside or outside the company. In fact, employees
+were rewarded for identifying innovation ideas externally since these ideas took lesser
+
+time from concept to market, enhancing the development speed.
+USE IT OR LOSE IT
+
+Using C&D innovation model, P&G launched several successful products, including Olay
+Regenerist, Swiffer Dusters and Crest SpinBrush, etc. [Exhibit 8]. The company
+emphasized that the C&D as a model of open innovation assumed greater significance
+as acquiring innovation was tricky and hiring scientists and researchers from other R&D
+
+labs was difficult as well as expensive.
+
+Advocating the open innovation model, Henry Chesbrough stressed, “Today the trend is
+clear—not all the smart people in your industry work for you. And the implication of that
+trend is unavoidable: You cannot meet your growth objectives if you ignore all of the
+smart people out there who are not on your payroll.” Some experts opined that
+companies that would keep the innovation process within the confines their R&D labs
+and follow the do-it-ourselves model would find it difficult to grow consistently. They also
+felt that for large, mature companies internal R&D no longer ensured continuous growth
+and as a result R&D productivity was flat while innovation costs rose significantly. An
+analyst commented, “To survive, companies must disavow a ‘not invented here’
+
+mentality and embrace a dulture of ‘proudly found elsewhere’.
+
+1]
+--- page 12 ---
+Exhibit 1
+P&G: Net Sales and Net Earnings
+
+(in $ million)
+Year Net sales Net Earnings Net Earnings
+Margin (%)
+
+1996 35,285 3,046 8.6
+1997 35,764 3,415 9.5
+1998 37,154 3,780 10.2
+1999 ; 38,125 3,763 9.9",
+2000 * 39,951 3,542 8.9%!
+2001 39,244 2,612 6.7
+2002 40,238 3,910 9.7
+2003 43,377 4,788 11.0
+2004 51,407 6,156 12.0
+2005 56,741 6,923 12.2
+
+Source: P&G Annual Report 2005 & 2000
+
+vw
+
+12g
+--- page 13 ---
+Exhibit 2
+
+P&G: Expenditure on R&D ;
+
+(in $ million)
+Year Net Sales R&D Expenses uae a pare
+1996 35,285 1,399 3.96
+1997 35,764 1,469 4.11
+1998 37,154 1,546 4.16
+1999 38,125 » 1,726 4.53)
+2000 39,951 1,899 _ A754! :
+2001 39,244 1,769 4.51.
+2002 40,238 1,601 3.98
+2003 43,377 1,665 3.84
+2004 51,407 1,802 3.51
+2005 56,741 1,940 3.42 ©
+
+Source: P&G Annual Report 2005 & 2000
+
+2,500
+
+396 411
+2,000 +
+
+= 1,500 | 1.309 1468
+
+« 1,000 +
+
+500 +
+
+1,601 1,665
+
+1996 1997 1998 1999 2000 2001
+Year
+
+2002 2003 2004 2005
+
+E= R&D Expenses —+— % of Net Sales |
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+rh
+
+13 (2
+--- page 14 ---
+“a
+
+Exhibit 3
+Vision of the Leader: AG Lafley
+
+Outsourcing
+
+| fit's nota core function, the new P&G won't do it. Info-tech and bar-soap
+manufacturing have already been contracted out. Other jobs will follow.
+
+Acquisitions
+
+Not everything has to be invented in company labs. Lafley wants half of
+all new-product ideas to come from the outside.
+
+Building Staff
+
+Managers are much closer scrutiny, as Lafley scans the ranks for the
+best and the brightest and singles them out for development.
+
+Brand Expansion
+
+The Crest line now includes an electric tooth brush and tooth-whitening
+products along with tooth paste. Lafley is making similar moves
+elsewhere.
+
+Pricing
+
+P&G isn't just the premium-price brand. It will go to the lower end if that’s
+where opportunity lies.
+
+v!
+
+“f
+--- page 15 ---
+!
+
+u
+
+av)
+
+Exhibit 4
+
+P&G's Innovation Model: Shifting from R&D to C&D
+
+Traditional R&D-based Innovation Model
+
+P&G delivers superior products by clearly understanding consumers’ needs and
+developing solutions with our best-in-class technical capabilities.
+
+C&D Open Innovation Model
+
+What's possible
+through P&G
+
+Connect + Develop allows us to quickly create and introduce new innovations by
+incorporating the capabilities of external resources.
+
+Source: Connect and Develop Brochure, www.pgconnectdevelop.com
+--- page 16 ---
+Exhibit 5
+Mr. Clean Magic Eraser: Open Innovation—The C&D Way
+
+2001: P&G’s technology entrepreneur based in Japan discovered a product called ‘Cleenpro’ in a
+store in Osaka. It was basically melamine resin foam (marketed as Basotect by BASF, a German
+chemical company) which was used for insulation in the construction and automotive industries.
+The technology entrepreneur evaluated the market performance of the product and found that it
+could fit in the company’s home-care segment.
+
+2002: The technology entrepreneur sent the product to the company’s R&D lab in Cincinnati along
+with all the details, such as product description, market potential etc., through the online catalog.
+The R&D lab found the product had a market potential and put it in to development portfolio.
+
+2003: P&G entered into an agreement with BASF for procuring the product. Later that year,
+Basotect was packed and launched as Mr. Clean Magic Eraser in the US and Europe. Researchers
+from P&G and BASF coduct joint research to improve the product.
+
+2004: As a result of the joint efforts, an improved version of the product, Magic Eraser Duo, was
+launched: Following that, more cocreated versions, such as Magic Eraser Wheel & Tire was
+launched. Later, the two companies collaborated to create further improved Magic Eraser
+products.
+
+While the brand ‘Magic Eraser’ was created by P&G, the foam itself was already a common
+product before the technology entrepreneur in Japan discovered its new use. Following the
+
+‘| product’s success, other companies also started selling it either with other brand names or as a
+generic product.
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+16 IR
+--- page 17 ---
+Exhibit 6
+Difference between Closed Innovation and Open Innovation
+
+Closed Innovation Model
+Furzy FrontEnd ‘Devalopmard Commercialization
+
+Open Innovation Model
+
+QW Pinsourced — | @ Products in-sourced
+
+Source: Docherty, Michael “Primer on ‘open innovation.’ Principles and practice” www.pdma.org
+
+Exhibit 7
+
+Benefits of Open Innovation
+
+- Ability to leverage R&D developed on someone else's budget
+- Extended reach and capability for new ideas and technologies
+
+- Opportunity to refocus some internal resources on finding, screening, and
+managing implementation (important not to position as a threat to internal
+resources)
+
+- Improved payback on internal R&D through sale or license of otherwise unused
+intellectual property
+
+- A greater sense of urgency for internal groups to act on ideas or technology (use
+it or lose it)
+
+- _ Ability to conduct strategic experiments at lower levels of risk and:resources, with
+! the opportunity to extend core business and create new sources of growth
+
++, , Over time, an opportunity to create a more innovative culture, from the ‘outside in’
+¢ } through continued exposure and relationships with external innovators
+
+Source: Docherty, Michael “Primer on ‘open innovation:’ Principles and practice” www.pdma.org
+--- page 18 ---
+d
+
+a
+
+Exhibit 8
+
+P&G: Examples of Successful Product Innovations
+
+- Folger's Coffee House — gourmet coffees
+- Pampers Baby Fresh — cleansing wipes
+- Febreze — fabric refresher
+
+- Swiffer — cleaning system
+
+- lams — premium dog and cat foods
+
+- Dryel—home dry cleaner
+
+- Pampers Rash Guard — special care diapers
+- Crest Whitestrips — tooth whitener
+
+- Crest SpinBrush — powered toothbrush
+
+- ThermaCare — air-activated heat wraps
+
+- Olay Regenerist — skin-care product
+
+- Pringles — potato crisps
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+/\p
+````
+
+## 2011-12 · Re-Exam · Trim 15 · paper c6a42aebc8a4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: exam date: 19/06/2012
+- Text: ocr (17 pages), mean OCR confidence 90.0
+
+````text
+——— — oe
+
+SVKM’s NMIMS
+Mukesh Patel School of Technolo
+
+" Programme: MBA Tech - ALL STREAMS rjanagement & Engineerin
+
+head Year: V Trimester: XV
+S cademic Ye
+Batch: \gpi- 19 ar: 2011- 2012 _——s
+Subject: New Product Development Mark fess siiTUTe OF May,
+Ss} Rig
+Date: 19/06/2012 Time: ff, 30. ars am To 12. 2.06 noon
+
+Duration: ‘Qihrs, yR
+Re - Examination
+
+a \ 4% o
+e QUESTION NO 7 IS COMPULSORY. ANSWER ANY FOUR OF THE comms QUESTIONS. ALL
+QUESTIONS CARRY EQUAL MARKS
+e@ WRITE THE QUESTION NUMBER BEFORE STARTING THE ANSWER. START ANSWER TO EACH
+QUESTION ON A FRESH PAGE
+e ANSWER TO ALL QUESTIONS SHOULD INCLUDE THE THEORY PORTION, FOLLOWED BY
+EXAMPLES FROM THE CASES COVERED IN THE CLASS, WHEREVER APPLICABLE, AND RECENT
+
+EXAMPLES FROM INDUSTRY
+
+1) Explain the crucial role played by R&D in NPD. Differentiate between Research & Development.
+2) How do companies use NPD as a competitive weapon in Marketing? What is the strategic
+difference between Large & Small companies in NPD.
+3) What are the broad outlines of steps and requirements needed to chart the course of the new
+product program? Describe any one in more detail.
+4) What are the elements of a Business Plan for a NPD? Describe any one of the elements in more
+detail.
+j 5) What is Creeping Functionalism in NPD? How does it differ from Mass Customization strategy?
+6) What are the six stages of NPD? Explain any 2 stages in more detail.
+7) With reference to the case of Open Innovation - “Proctor & Gamble” (ENCLOSED), answer the
+following questions:
+a) What is the precise difference between “closed & open” innovation in the context of NPD?
+When and by whom this concept was popularized? Which are the various leading companies,
+} other than P&G which have successfully used this concept? ,
+b) How did P&G’s top management go about implementing their new “open innovation”
+strategy in NPD through their employees? What were the employee’s apprehensions, if any?
+
+How did they convince their employees of the effectiveness of the new approach?
+
+he
+--- page 2 ---
+OPEN INNOVATION: THE CASE OF P&G
+
+By Taranjeet Chawla, IBS Research Centre, Kolkata
+
+“We want P&G to be known as the company that collaborates — inside and out — better
+
+than any other company in the world.”
+-A G Lafley, president and CEO, P&G
+
+“P&G has a history of acquiring technologies from outside our Company. What is
+particularly new in our Connect + Develop approach to external relationships is our
+
+strong focus on ready-to-go innovations.”
+-Gil Cloyd, CTO, P&G
+
+“Today, P&G is the model of open innovation implemented effectively, and their financial
+results demonstrate the power of the approach.”
+-Michael Docherty, CEO of Venture2 Inc."
+
+INTRODUCTION
+
+By 2000, Procter & Gamble (P&G), one of the world’s largest consumer products
+companies, was under immense pressure. For decades, the company was known for its
+innovation. The consistent growth of the company was largely driven by innovation from
+within the organization, relying heavily on in-house R&D. For a long time, this centralized
+innovation model worked well for P&G. However, by 2000, it realized that an internally
+focused model of innovation was not sustainable as the success rate of new products
+(developed independently by the R&D department) was around 35%. Besides, the R&D
+expenses were escalating faster, increasing by $500 million between 1996 and 2000 to
+reach $1,899 million. By mid 2000, the company’s share prices fell by more than 50%.
+
+Worried by the situation, the compatiys newly appointed CEO, Alan G Lafley (Lafley),
+decided to reinvent P&G's innovation model. He felt that outside connections could
+discoyer new ideas from around the world which could quickly be turned into innovative
+products by using the company’s own R&D, manufacturing and marketing skills. Thus,
+_ he began to focus on external collaborations to bring in innovative ideas and then
+applied internal capabilities to develop new products. This model was termed as
+‘connect and develop’ (C&D) innovation model. He believed that the new model would
+
+enable the company slash its R&D costs and increase the success rate of new
+
+‘ Michael Docherty is the CEO of Venture2 Inc., a consulting and new ventures management company
+focused on launching breakthrough innovation in the consumer products industry.
+
+2 Is.
+--- page 3 ---
+a
+
+v
+
+innovations. Hé set a goal to create 50% of the innovations outside the company’s R&D
+labs. The new innovation model proved to be fruitful for P&G and it introduced several
+successful products using the model. Experts opined that companies which would not
+
+adopt this: model would find it difficult to survive.
+P&G: AT A GLANCE
+
+P&G was established on October si* 1837 when William Procter, a candle-maker, and
+
+James Gamble, a soap-maker, formed business partnership in Cincinnati, Ohio (US).
+
+“}tnitially, the company concentrated on manufacturing and marketing of both, soaps and
+
+candles, reaching $1 million in sales by 1859. Later, it began to focus more on’soap and
+had a range of more than 30 different types of soap by the 1890s. In the early 49"
+century, the company’ began to diversify its products and introduced Crisco”, a
+shortening made from vegetable oils rather than animal fat, in 1911. In the wake of
+growing popularity of electric bulbs, it stopped manufacturing candles in 1920. During
+this time, the company started hiring researchers for conducting research in various
+fields (especially chemical) and developing new products. The research efforts of the
+company led to the introduction of Dreft, the first synthetic detergent powder, in 1933
+and Drene, the first detergent-based shampoo, in 1934. Drene also marked P&G's entry
+into the hair care business. Later, in 1946, it launched Tide, laundry detergent, and Prell,
+a shampoo brand. In 1952, the company opened Miami Valley Laboratories (MVL) in
+
+Cincinnati, which was its first facility solely dedicated to research.
+
+In 1955, the company launched Crest, the first toothpaste to use fluoride as an
+ingredient. Crest was approved by the American Dental Association (ADA) as an
+‘effective decay-preventive dentifrice that can be of significant value’*. Over a period of
+time, the crest brand was associated with about 20 different products (such as
+toothbrushes, toothpaste, mouthwash, dental floss and ‘tooth-whitening products). In
+1960, P&G launched liquid Downy, its first fabric softener, and a year later, it test
+marketed Pampers, a brand of disposable diapers. Pampers was the result of the
+
+relentless R&D efforts put in by the researchers of the company to design a diaper that
+
+? Crisco was the first all-vegetable shortening. Crisco provided a healthier alternative to cooking with animal
+fats and was more economical than butter.
+> Crest toothpaste’, http://en.wikipedia.org/wiki/Crest_toothpaste
+
+| .
+rr
+--- page 4 ---
+was absorbent, disposable and prevented leaks. Prior to the launch of Pampers
+disposable diapers were not ‘popular. However, Pampers’ was an instant hit with
+cloth di
+sheets, was another example of innovative product, which was used to soften clothes in
+
+customers and replac ers. Launched in. 1972, Bouhce, fabric softener
+
+the dryer. . 4
+
+In 1983, P&G introduced Always/Whisper, a feminine protection product which, by 1985,
+became one of the world’s leading brands in its category. It launched Pert Plus/Rejoice
+shampoo 7 4986 which enabled consumers to wash and condition their hair using just
+«one product. Apart from innoavtive products, P&G innovated its packaging also. In
+Germany, it introduced refill packs for liquid products, such as Lenor fabric softener. It
+was viewed as a major step towards solid waste prevention and.was named ‘the
+invention of the year’ by German grocers. In 1990, it won the ‘International DuPont
+Packaging Award’ for its Spic and Span Pine*, a house-hold cleanser, which was
+packaged in 100% recycled plastic. P&G was also awarded the ‘National Medal of
+Technology’® for creating, developing and applying advanced technologies to consumer
+
+_ products.
+
+In 1996, P&G developed a new product, Olestra, which was a calorie-free substitue for
+
+fat in cooking potato chips and other snacks: Olestra, marketed under the brand name of
+
+} Olean, got the approval of the FDA® to be used in salty snack and crackers. In 2000, the
+
+company received FDA's approval for its new product, Actonel (risedronate sodium
+tablets) for the treatment of postmenopausal osteoporosis (PMO) and glucocorticoid-
+
+induced osteoporosis (GIO).
+
+At the end of 2000, P&G had a global network of 18 technical centers’ in 9 countries
+spread across 4 continents. !t had more than 8,000 scientists and researchers working in
+its labs on new product development. By the end of financial year 2000,*ten of P&G's
+brands generated overa billion dollar each in sales annually. These included Pampers,
+a January 2001, P&G sold Spic and Span to Shansby Group, a San Francisco investment firm.
+5 The National Medal of Technology is an honor granted by the President of the United States to inventors
+and innovators (a person, a group of people or an organization) that have made significant contributions to
+\ _ the development of new and important technology. It is the highest honor in the US for achievements related
+to technological progress.
+\ © The Food and Drug Administration is an agency of the United States Department of Health and Human
+Services and is responsible for regulating food, dietary supplements, drugs, cosmetics, etc. in the US.
+--- page 5 ---
+superior and cheaper products, faster. P&G’s connect and develop was often mistaken
+to be simply outsourcing which meant transferring work to low-cost providers. However,
+the company clearly differentiated its C&D from outsourcing, emphasizing that it was
+about identifying innovative ideas from outside and bringing them into the organization to
+capitalize on its own R&D capabilities. In order for C&D to work, the company first
+identified what it was looking for and then decided to look for ideas that were already in
+use somewhere. After the idea was identified the company then focused on those ideas
+and products that could be turned into successful product using its own R&D
+capabilities. For searching. ideas the company discovered three different sources: to
+
+identify top the consumer needs, adjacencies, and technology game boards.
+
+IDENTIFYING TOP TEN CONSUMER NEEDS
+
+For all its businesses, P&G, once a year, prepared a list of top ten consumer needs
+which, when satisfied, would boost the growth of their brands. Based on these lists,
+another list for the company overall was prepared and then the needs were developed
+into problems to be solved. These problems were clearly detailed in technology briefs,
+
+solutions to which were to be found outside the company.
+
+FINDING ADJACENCIES
+
+The company also attempted to find how new products or concept could benefit from
+existing brand equity. In this exercise the company identified products that were adjacent
+to its existing products and then sought relevant innovation in those product categories.
+TECHNOLOGY GAME BOARDS :
+
+Another source of idea search was technology game boards which helped assess the
+impact of technology acquisition in one area on the products in other categories. These
+game boards explored various questions, such as which technologies the company
+wanted to strengthen, which technologies it wanted to acquire or.which of them it wanted
+
+to sell out. Answers to these questions provided broad targets for innovation searches.
+
+Once the company ‘decided what ideas to look for and identified the sources of ideas, it °
+needed a global network to carry out the activities that formed the C&D model. P&G’s
+own network across the globe provided a platform for the application of C&D strategies.
+
+_ It used closed proprietary networks and open networks for the purpose. Closed
+
+,
+
+‘I
+--- page 6 ---
+'
+proprietary networks comprised of technology entrepreneurs, suppliers etc. while open
+
+networks. included individuals, organizations, educational and research institutions,
+
+government and private labs, competitors, trade partners, etc.
+
+P&G developed various closed proprietary networks for undertaking C&D activities. The
+entrepreneurs were senior P&G managers who were responsible for preparing
+technology briefs, defining the problem to be solved. They established external
+connections (such as liaisoning with researchers, forming supplier networks, etc.) and
+communicated these connections to the company’s business unit heads. The technology
+x entrepreneurs combined scientific literature and patent databases with physical hunt for
+ideas since searching ideas electronically alone was not sufficient. A technology |
+entrepreneur in Japan, while exploring the market, found a product that was eventually
+
+developed and sold as ‘Mr. Clean Magic Eraser [Exhibit 5]. The company had a |
+network of 70 technology entrepreneurs who worked out of six C&D hubs in the US, F |
+Latin America, Western Europe, Japan, China and India. All the hubs focused on finding ;
+products, concepts or technologies that were the specialties of their respective regions.
+By early 2006, technology entrepreneurs had identified around 10,000 products, ideas
+
+and technologies.
+
+The supplier base of the company formed another network for C&D activities. The top 15
+suppliers to the company had a combined R&D staff of approximately 50,000. When the
+company began to embrace C&D model it realized that the huge researcher base of its
+suppliers could be a potential source of innovation. Subsequently, P&G developed ‘a
+highly secure IT platform that enabled it to share its problems (technology briefs) with its
+suppliers. The company even went to the extent of sending its researchers to suppliers’
+labs fo work with theirs and inviting suppliers’ researchers to work with its own.
+
+, Accdtding to Larry Huston, vice president, innovation and knowledge, P&G, said, “In
+sore kases, suppliers’ researchers come to work in our labs, an in others, we work in
+theirs — an example of what we call ‘cocreation’, a type of collaboration that goes well
+
+’ beyond typical joint development.” The company also held meetings with suppliers
+where its top managers interacted with suppliers’ top leaders understanding each other's
+
+capabilities.
+--- page 7 ---
+= - El
+
+pany used open networks. ¥
+‘
+
+ed proprietary networks, the com
+ny, were: NineSigma,
+
+To complement the clos:
+ry useful for the compal
+
+Examples of open network, which were Ve!
+
+InnoCentive, YourEncore and Yet2.com.
+
+‘that_connected
+
+Sigma, a_fir
+ersities, academic institutions,
+lutions to those problems.
+buted it to its
+‘the
+
+NineSigma: P&G was instrumental in creating Nine’
+
+companies that had pro
+ate research
+
+blems with those companies, univ!
+labs that could find sol
+NineSigma prepared a technology brief that described a problem and distri
+
+network of solution providers. In case someone had a solution to the problem,
+message was conveyed to d the problem). If the company found
+
+the solution to be relevant to its requirement, d the solution provider
+
+with the company and the research projec stributed
+
+y briefs to over 700,000 people an
+0 further collaborations.
+
+government and _ priv
+
+the company (that ha
+
+NineSigma connecte!
+t started. By, 2006, NineSigma di
+d had completed more than 100 projects.
+
+technolog
+Around 45% of the completed projects led t
+y Eli Lilly’, was a firm that had a network of 75,000
+It was different from NineSigma in the way
+y company with a
+swers. InnoCentive
+
+oCentive: InnoCentive, founded b'
+
+Inn
+world.
+
+ract scientists, from all over the
+e narrow
+cientist base which provided an
+fferent companies.
+
+cont
+that it provided solutions to mor
+
+ly defined problems. An
+
+‘oblem could post it to the firm's s'
+
+pr
+of the pro
+
+claimed to solve about one-third blems it received from di
+
+d YourEncore in 2003 as an independent business. It
+hly efficient employees from
+
+gs with client. companies.
+
+YourEncore: P&G create
+connected around 800 retired scientists and engineers (hig
+grounds) from 150. organizatio
+: to exploit the talent of these
+
+f these retirees (with
+
+_
+
+diverse professional back:
+he client companies an opportunity
+
+blems could hire any ©
+ry low cost.
+
+YourEncore provided t
+experienced people. Companies with pro!
+relevant experience) for short-term assignments at ave
+ed as an online marketplace for the
+
+Yet2.com was 4 website that serv
+tween
+
+of intellectual property. Yet2.com * enabled technology transfer bel
+
+S, universities, research labs, etc. writing
+
+Yet2.com:
+
+exchange
+The website helped the clients in
+
+companie
+
+harmaceutical company based in Indiana (US). It was founded in 1876
+
+a
+7 Eli Lilly and Company is a global pl
+st, Eli Lilly.
+
+by a 38-year old pharmaceutical chemi
+
+We,
+--- page 8 ---
+technology briefs detailing the technology they were looking for or offering (for license or
+purchase). Then it distributed the briefs to a network of clients (businesses, labs,
+academic institutions, etc.) across the globe. Clients could browse through the briefs and
+if something interested them they could ask for the details. At this point, Yet2.com
+
+introduced both the parties to negotiate directly with each other.
+
+After an idea was identified by any external connection, it went through an internal
+screening. The screening process was employed to assess which idea, product or
+technology the company was seeking. For example, if a technology entrepreneur found
+a product or idea in some part of the world, he would pass the details of the product or
+idea to top managers through an online catalog. The managers or business heads then
+decided, subject to a number of practical questions, whether to put it into the new
+product development portfolio. If the decision was positive, the product/idea acquired
+from outside went into development process just like any other product developed in the
+
+company's own R&D lab.
+OPEN INNOVATION: DRIVING GROWTH
+
+}TOOL FOR CONSISTENT GROWTH
+
+According to Henry Chesbrough’®, noted author, “Open Innovation means that valuable
+ideas can come from inside or outside the company and can go to market from inside or
+outside the company as well. This approach places external ideas and external paths to
+market on the same level of importance as that reserved for internal ideas and paths to
+
+market in the earlier era.”®
+
+i Severdl analysts tried to differentiate open innovation from closed innovation based on
+4 three ‘aspects of the innovation delivery chain: Fuzzy Front-end, Development, and
+
+Cori ccamenan! In the traditional closed model [Exhibit 6] inputs were derived from
+
+both internal and external sources. Once the inputs were collected, they were narrowed
+
+‘down, using the funnel approach, to a few that best suited the company’s needs. Then
+
+the R&D departments began their task of.inventing, evolving and perfecting products or
+
+® Dr. Henry Chesbrough has authored a book “Open Innovation: The New Imperative for Creating and
+Profiting from Technology” in 2003. Presently, he is the executive director of the Center for Technology
+Management, Haas Schoo! of Business, University of California.
+
+® “Meet Henry Chesbrough”, www.research.philips.com, April 2004
+
+ae
+--- page 9 ---
+perfect examples of compan
+
+new products and services. However, in the open innovation model [refer to Exhibit 6],
+companies adopted outside-in and inside-out approach. In the fuzzy front-end
+companies looked outside for solutions to its problems that could be used as a basis for
+internal development. During the development process, companies sought innovations
+already in use elsewhere and provided an opportunity for further improvement and
+commercialization. In this pahse companies could also sell off their internally developed
+technologies:that were not used. Finally, in the commercialization stage toc, companies
+could sell out technologies or innovations which could better fit somewhere else or
+
+y acquire already successful products or ideas to instantly boost its growth.
+
+Experts suggested various benefits of open innovation in the overall growth of the
+organization [Exhibit 7]. According to an analyst, the most obvious benefit was the large
+base of ideas and technologies which the companies could utilize to drive internal
+growth. Apart from that, several companies considered open innovation a tool to explore
+newer growth opportunities. Moreover, companies could reap economic values by
+
+licensing unused ideas or technologies.
+
+P&G: REAPING BENEFITS
+By embarking upon the new innovation model P&G benefited in many ways. While
+focusing on its C&D innovation model, acquiring ideas from the external world, the
+company marketed internal intellectual property to outside clients. It observed that
+selling to and procuring from the same organization was the most profitable strategy. In
+the early 2006, P&G announced that its R&D spending as a percentage of sales was
+down to 3.42% from 4.75% in 2000. The company claimed that over 35% of its new
+j products contained elements that were generated outside, compared to around 15% in
+ry } 2000. Besides, it acknowledged that its R&D productivity had increased by almost 60%
+since adopting the new model. By applying the new model, the company considerably
+reduced its product development time. For example, its new line of potato crisps,
+Pringles, lauhched in 2004 took less than a year from concept to launch. P&G stated
+that between 2004 and 2006, it launched over 100 new products which had some
+
+10
+
+he
+--- page 10 ---
+outside connections. At the end of the financial year 2005, it declared 22 brands that
+
+régistered worldwide sales of over $1 billion each.
+
+However, while embracing the new innovation model, the company encountered several
+hurdles. Firstly, it confronted the commonly held notion “that everything must be
+invented within P&G". Secondly, there was a resistance from the employees to adopt the
+C&D model since they were anxious that the new model would eliminate jobs. They also
+feared that by adopting C&D model the company’s R&D would lose its competency.
+Lafley realized that he needed to change the company’s culture, shifting the mindsets
+from resistance to ideas broyght in from outside to embracing those found elsewhere.
+With this in mind, he decided that if a new product succeeded in the market, all the
+employees involved in its development would be rewarded irrespective of the fact
+whether the product idea came from inside or outside the company. In fact, employees
+were rewarded for identifying innovation ideas externally since these ideas took lesser
+
+time from concept to market, enhancing the development speed. |
+USE IT OR LOSE IT
+
+, Using C&D innovation model, P&G launched several successful products, including Olay
+} Regenerist, Swiffer Dusters and Crest SpinBrush, etc. [Exhibit 8]. The company
+emphasized that the C&D as a model of open innovation assumed greater significance
+as acquiring innovation was tricky and hiring scientists and researchers from other R&D
+
+labs was difficult as well as expensive.
+
+Advocating the open innovation model, Henry Chesbrough stressed, “Today the trend is
+clear—not all the smart people in your industry work for you. And the implication of that
+trepd is unavoidable: You cannot meet your growth objectives if you ignore all of the
+1 sniart people out there who are not on your payroll.” Some experts opined that
+dpntpanies that would keep the innovation process within the confines their R&D labs
+and follow the do-it-ourselves model would find it difficult to grow consistently. They also
+felt that for large, mature companies internal R&D no longer ensured continuous growth
+and as a result R&D productivity was flat while innovation costs rose significantly. An
+analyst commented, “To survive, companies must disavow a ‘not invented here’
+
+mentality and embrace a dulture of ‘proudly found elsewhere’.”
+
+11
+--- page 11 ---
+Exhibit 1
+P&G: Net Sales and Net Earnings
+
+: {in $ million)
+Year Net sales Net Earnings pte
+1996 35,285 3,046 8.6
+1997 35,764 3,415 9.5
+1998 37,154 3,780
+4999 ; 38,125 3,763
+
+| 2000 ¥ 39,951 3,542
+
+| 2001 39,244 2,612
+
+| 2002 40,238 3,910
+2003 43,377 4,788
+2004 51,407 6,156 12.0
+2005 56,741 6,923 12.2
+
+y Source: P&G Annual Report 2005 & 2000
+
+ee
+
+12
+--- page 12 ---
+Exhibit 2
+P&G: Expenditure on R&D |
+
+(in $ million) : |
+Year Net Sales R&D Expenses fee aac hnat
+1996 35,285 1,399 3.96
+1997 35,764 4,469 4.44
+1998 37,154 1,546 4.16 ; z
+4999 38,125 + 1,726 4.53)
+2000 39,951 1,899 475k)
+2004 39,244 1,769 4.51
+2002 . 40,238 1,601 3.98 |
+2003 43,377 1,665 3.84 |
+2004 51,407 ; 1,802 ; 3.51:
+} 2005 56,741 1,940 3.42 |
+Source: P&G Annual Report 2005 & 2000
+
+2,500 5
+
+3:
+2,000 + 74
+r 3.5
+44 l3 =
+5 1,500 3°08
+= 2s 5
+E 8
+w# 1,000 + +2 &
+r a
+t 1.5
+} 500 + r 1
++ 0.5
+o4 : E : +0
+1996 1997 1998 1999 2000 2001 2002 2003 2004 2005
+Year
+[coms R&D Expenses —e—% of Net Sales |
+Source: Compiled by IBS Research Centre, Kolkata -
+@
+i
+\ .
+rn .
+13
+--- page 13 ---
+Exhibit 3
+Vision of the Leader: AG Lafley
+=
+
+n, the new P&G won't do it. Info-tech and bar-soap
+out. Other jobs will follow.
+
+Outsourcing | fit's nota core functio
+manufacturing have already been contracted
+
+Acquisitions Not everything has to be invented in company labs. Lafley wants half of
+all new-product ideas to come from the outside.
+
+Building Staff Managers are much closer scrutiny, as Lafley scans the ranks for the
+best and the brightest and singles them out for development.
+
+The Crest line now includes an electric tooth brush and tooth-whitening
+
+Brand Expansion
+products along with tooth paste. Lafley is making similar moves
+
+elsewhere.
+Pricing P&G isn't just the premium-price brand. It will go to the lower end if that's
+where opportunity lies.
+L__
+
+14
+
+i) K%
+--- page 14 ---
+Exhibit 4
+
+P&G’s Innovation Model: Shifting from R&D to C&D
+Traditional R&D-based Innovation Model
+
+P&G delivers superior products by clearly understanding consumers’ needs and
+developing solutions with our best-in-class technical capabilities.
+
+C&D Open Innovation Model
+
+: WR at's possibl
+
+H
+
+a
+
+‘ Ponnect + Develop allows us to quickly create and introduce new innovations by
+4 incorporating the capabilities of external resources.
+
+Source: Connect and Develop Brochure, www.pgconnectdevelop.com
+
+M4 |
+
+IS
+--- page 15 ---
+Exhibit 5
+Mr. Clean Magic Eraser: Open Innovation—The C&D Way
+
+2001: P&G's technology entrepreneur based in Japan discovered a product called ‘Cleenpro’ in a
+store in Osaka. It was basically melamine resin foam (marketed as Basotect by BASF, a German
+chemical company) which was used for insulation in the construction and automotive industries.
+The technology entrepreneur evaluated the market performance of the product and found that it
+
+could fit in the company’s home-care segment.
+
+2002: The technology entrepreneur sent the product to the company’s R&D lab in Cincinnati along
+with all the details, such as product description, market potential etc., through the online catalog.
+The R&D lab found the product had a market potential and put it in to development portfolio.
+
+procuring the product. Later that year,
+
+2003: P&G entered into an agreement with BASF for
+he US and Europe. Researchers
+
+Basotect was packed and launched as Mr.-Clean Magic Eraser in t
+from P&G and BASF coduct joint research to improve the product.
+
+2004: As a result of the joint efforts, an improved version of the product, Magic Eraser Duo, was
+launched. Following that, more cocreated versions, such as Magic Eraser Wheel & Tire was
+launched. Later, the two companies collaborated to create further improved Magic Eraser
+
+products.
+
+While the brand ‘Magic Eraser’ was created by P&G, the foam itself was already a common
+nology entrepreneur in Japan discovered its new use. Following the
+
+product before the tech
+r brand names or as a
+
+product’s success, other companies also started selling it either with othe
+| generic product.
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+16
+--- page 16 ---
+a
+
+Difference between Closed Innovation and O,
+
+Exhibit 6
+pen Innovation
+
+Furzy Fronbnd
+
+a)
+Oe
+Seq
+
+Closed Innovation Model |
+
+Development Commercialization
+
+Open Innovation Model
+
+Furzy Front&nd
+
+Development Commearcisiization
+
+1 gy Producta insairead
+
+UP iyséoreod
+fey Alor ecalewp
+
+Li
+Source: Docherty, Michael
+
+“Primer on ‘open innovation?’ Principles and practice’
+
+” www.pdma.org
+
+Exhibit 7
+
+Benefits of Open Innovation
+
+- Ability to leverage R&D developed on someone else's budget
+
+- Extended reach and capability f
+
+- Opportunity to refocus some
+managing implementation (im|
+resources)
+
+- } Improved payback on internal
+
+i intellectual property
+
+7 JA greater sense of urgency for
+it or lose it)
+
+- Ability to conduct strategic experim
+the opportunity to extend core busin
+
+- Over time, an opportunity to cr
+
+through continued exposure an
+
+‘or new ideas and technologies
+
+internal resources on finding, screening, and
+portant not to position as a threat to internal
+
+R&D through sale or license of otherwise unused
+internal groups to act on ideas or technology (use
+ents at lower levels of risk and resources, with
+
+ess and create new sources of growth
+
+eate a more innovative culture, from the ‘outside in’
+d relationships with external innovators
+
+Source: Docherty, Michael
+
+“Primer on ‘open innovation:’ Principles and practice
+
+” www.pdma.org
+
+“tt
+
+17
+--- page 17 ---
+é
+
+Exhibit 8
+P&G: Examples of Successful Product Innovations
+
+-   Folger's Coffee House — gourmet coffees
+- Pampers Baby Fresh — cleansing wipes
+-   Febreze — fabric refresher
+
+- Swiffer — cleaning system
+
+-   lams — premium dog and cat foods
+
+- Dryel—home dry cleaner
+
+- Pampers Rash Guard — special care diapers
+- Crest Whitestrips — tooth whitener
+
+- Crest SpinBrush — powered toothbrush
+
+-   ThermaCare — air-activated heat wraps
+
+- Olay Regenerist — skin-care product
+
+- Pringles — potato crisps
+
+Source: Compiled by IBS Research Centre, Kolkata
+
+Wi
+
+18
+````
+
+## 2010-11 · Exam not stated · Trim 15 · paper 02e646a20d76
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/NEW PRODUCT DEVELOPMENT BACTH 2010-2011.pdf`
+- Printed on paper: exam date: 22/06/2011
+- Text: ocr (18 pages), mean OCR confidence 92.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA Tech ( All Streams ) Year: V Trimester:
+Academic Year : 2010-2011
+
+Batch: 2010-2011 ¥
+
+Subject: New Product Development Marks: =( °
+Time: *o am To 12.00 pm /}
+
+Date: 22/06/2011 Duration: =
+
+Re - Examination
+
+e The case papers are enclosed.
+
+e Answer any five out of the six questions; All questions carry equal marks.
+
+e Write the question number before starting the answer and on each page. Start answer to each
+question on a fresh page
+
+e Students are expected to cite examples from the case studies or from recent industry
+developments wherever relevant
+
+1) What are “Product Life Cycles? What are the features of each stage? Discuss with reference to
+the case examples.
+
+2) “Competitive strategy is a powerful tool in NPD”. Justify with examples from the referred cases
+and from industry.
+
+3) “Mass customization is an effective NPD strategy”. Explain. How do companies benefit from this
+strategy?
+
+4) “New products with green technologies are today’s craze in Industry”. Do you agree? Can
+companies afford to focus on green products? What do you suggest? Cite case examples in
+support of your viewpoint.
+
+5) ‘While a company should nurture in-house R&D programs, it should sometimes bypass it in
+favor of external sources’. What are the pros and cons of internal vs external sourcing? How
+does it depend on the business and technological fit? Cite examples from cases for your
+arguments.
+
+6) What are the basic tenets of ‘design for manufacturability’? What is their importance in NPD?
+
+REFERRED CASES:
+
+A) WIND AND SOLAR ENERGY
+
+B) GROWING GREEN
+
+C) LOOKING FOR A CHANGE OF STRATEGY AT NOKIA
+D) TOYOTA PRIYUS HIBRID CAR
+
+Vig
+--- page 2 ---
+Wind/Solar Hybrid Case Study
+Interview with Anastasia Ledwon — Angust 2006
+
+Introduction live and work there rely on wind, solar, and a propane
+A typical wind turbine is comprised of a rotor or generator to meet their power needs.
+propeller assembly, a body (which contains the After doing some initial research on various
+generator or alternator and the tower attachment point) system options they had to decide whether or not they
+and a tail vane. The wind flows over the rotor blades, would connect to the hydro grid or stay off it. BC
+causing them to spin, and tuming the generator housed Hydro gave a varying quote ranging from $15,000 to
+in the body, which then produces electricity. The tail $50,000 to install hydro poles and connect to the grid. It
+vane keeps the rotor tumed into the wind. It can also would have cost a least $5,000 to get several different
+turn the turbine out of the wind when wind speeds get petmits and complete some required blasting and
+too high. The turbine is mounted on top of a tower to logging before BC Hydro would have been able to give
+keep it above obstructions to the wind’s flow. a more accurate estimate. Given the length of time and
+The height of the tower makes a more the work involved to go this route, it was decided to
+significant difference than the size of the blades in assess other options. The general aesthetic value of not
+terms of energy production. Depending on the size of a having hydro poles on the property, the speed of
+system the wind-speed needed varies, with the slowest installation, the cost, and the appeal of living completely
+starting at about 15km/h and the ideal at least 29 km/h. independently led to the choice of the off-grid system.
+Systems are also designed, depending on capacity, to Once this decision was made research had to be done to
+shutdown when speeds get too fast, like in a major mote setiously evaluate the electrical needs, and the
+storm. These features help protect the system and feasibility of various wind and-solar systems. Books,
+maximize efficiency. Where there are high wind speeds magazines, websites, and people i in 1 the atea with
+and no obstacles that would disturb wind patterns, wind renewable technologies 5
+systems can generate a significant amount of power. were consulted for
+Even in a good location however there are rarely information. The company
+constant winds, and therefore power often needs to be Energy Alternatives in
+stored or supplemented with another system such as Victoria was contacted and
+solar panels or a generator. The following case study a package was put together.
+examines a small-scale wind/solar hybrid system. It was decided to have a
+wind, solar, and propane
+Case Study generator system. The
+Anastasia’s home is situated on 160 acres of land system was paid for at the
+between Houston and Quick, BC and has a wind/solar end of April, then the parts
+hybrid system installed. The land was partially logged 10 artived in pieces
+years ago and the home built in the centre of the throughout May and June.
+property. The house faces within a few degrees of due The solar system was set up
+south and the property slopes to the west towards a in July and finally the wind
+river. The three-story, 3,400 square foot home was built system and generator were
+initially in 1985 and renovations were undertaken in set up in August, . _
+2002. Thee home now operates completely off-grid completing the system. Wins tarbeee in tbe backsrored
+‘ “s (previously it Anastasia and the other owner at the time set
+operated up the system mostly themselves in consultation with
+solely off of a Energy Alternatives. One of the owners had some
+diesel mechanical and electrical knowledge, which helped
+generator), significantly. The various manuals acted as good guides,
+with the laying out step-by-step instructions. Extra help was
+nearest hydro contracted when needed, such as a cement truck and a
+lines are a backhoe. The installation process demanded a
+kilometre significant amount of work and energy to complete on
+= away. top of specific complications that arose. There was a lot
+: Anastasia and of preparation work that needed to be done for the
+~ Richard who wind system, which is located 50 metres from the home.
+
+Anastasia’s house with solar panels on roof
+
+Normally anchors can be twisted into the ground, but
+
+7] 1g
+--- page 3 ---
+because there was so much clay and rock in the ground, consumption, though there is a meter that shows the
+
+trenches and anchor holes had to be dug then concrete actual watt demand at any particular time. Thev have a
+
+poured before the tower could be raised. Putting the stove, dryer, and hot water heater that have electric
+
+solar panels on the roof was particularly challenging starts but run off propane, consuming about 757 litres
+
+because of the steepness of the roof and the fact that it of propane a year. There are 2 Blaze King high
+
+is 20 feet off the ground. efficiency wood stoves that provide heat for the home,
+
+The home has a considerable power load that consuming about 10 cords a year.
+
+can be accommodated by this system. The regular load
+
+consists of 2 deep freezers, a fridge without a freezer, Conclusions
+
+compact fluorescent lights, a TV, a DVD player, a There are only a few ongoing maintenance requirements
+
+stereo, a washer, and 2 laptop computers. The water that add up to about 1 hour of time a month. For
+
+pump consumes a lot of electricity and they are trying to example, the batteries need to be equalized every six
+
+find a way of making it more efficient, such as using a months. The generator requires changes in oil, oil
+
+gravity fed system. Anastasia and Richard also have a filters, air filters, spark plugs, as well as getting the
+
+desktop computer, electric blanket, microwave, and propane tanks filled. The bolts and guy-wires need to be
+
+toaster they rarely use, as they require a lot of power. tightened on the wind system once a year. The
+
+They use power tools for construction, which use a lot homeowners have not experienced any problems that
+
+of electricity, especially when they are first turned on. requited outside assistance other than on one occasion,
+
+The generator kick starts automatically when the wind during a major storm, when the wind turbine tail got
+and solar systems cannot stuck in the wrong position. There was a concern that
+meet these demands, using the tower might have to come down to fix it, but after
+about 1,872 litres of the next storm the problem corrected itself. Apart from
+propane a year. Anastasia those issues, the only other main consideration is re-
+says that being off the grid setting the system when it is overloaded.
+makes you more The peak season for the solar panels is the
+conscious of energy summer, while the wind system is most productive in
+consumption and allows the spring and fall. They are very satisfied with their
+you to control energy system though they are planning on making some
+intake. This manifests additions. They are going to put on more solar panels to
+itself through things such meet their needs, would like an on-demand hot-water
+
+Conerator shed "as the use of power bars, heater, and are considering solar walls for heating.
+
+ot being pickier about Anastasia would recommend these technologies to
+
+appliances that are bought and used. They have no others, making an active effort to dispel
+
+meter keeping track of their aggregate energy misconceptions.
+
+Basic Cost Breakdown
+
+Key System Components Description Cost
+
+4 Solar Panels 120 watts $4,800
+
+Wind Turbine 1 kilowatt, BrgeyO $2,600
+
+Wind Tower 100 foot, BrgeyO $1,000
+
+Propane Generator 12 kilowatt Onan© (no longer wallable) $6,500
+
+Power Panel 110 volts Xantrex© Inverter, Control Panel (Trace $8,000
+
+Engincering©)
+
+12 Batteries 2 volts (parallel into 24 volts), Deep Cycle Golf Cart Batteries $2,400
+
+Miscellaneous ie. wiring, backhoe, concrete, shipping, scaffolding, rebuilding $3,500
+generator shed, propane lines...
+
+GST $1,200
+
+TOTAL =. ee ee ee = ]s $30,000"
+
+
+Propane $1,200-$1,500 a year
+
+*There is a PST exemption when systems are bought in their entirety
+
+One Sky — Canadian Institute of Sustainable Living * x cu * 3768 294 Ave, Smithers, BC * 250-877-6030
+
+ale
+--- page 4 ---
+
+unruh.com) is a professor ettenson@thunderbird.
+and the director of the edu) is an associate pro-
+bird School of Global Kieckhefer research fellow
+Management and the author in global brand marketing
+of Earth, Inc. (Harvard at Thunderbird.
+
+Business Press, 2010).
+
+Three smart paths to developing sustainable product
+, by Gregory Unruh and Richard Ettenson
+
+on AFTER ITS. LAUNCH, in 1987, Clo- growth and leading the brand back
+“10: c s Brita water filter seized aleader- witha vengeance.
+
+ship position among pitcher filtration How did its managers do it? By go-
+3 systems, and by 2002 it controlled ing green, as we’ll detail below.
+the market. But over the next That strategy wouldn’t have been
+; asthe market contracted, obvious 10 years ago. But thanks to
+ré declined. Management’s aggressive leadership by some of the
+the brand soon wore _ world’s biggest companies—Wal-Mart,
+GE, and DuPont among them—green
+ve ss'told'shareholders that growth has risen to the top of the
+E ‘had two'years to improve or it agenda for many businesses. From
+would-be sold off.:“When I got on 2007 to 2009 eco-friendly product
+3 remembers, “the launches increased by more than
+as, How quickly canwesell 500%. Arecent IBM survey found that
+
+Thén came aremarkable _ two-thirds of executives see sustain-
+Tita tecovered its momentum ability as arevenue driver, and half of
+within months, achieving double-digit _ them expect green initiatives to confer
+
+80 Harvard Business Review South Asia | June 2010
+
+Ghe
+--- page 5 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS
+
+competitive advantage. This dramatic shift in cor- landfills with plastic and deceptively advertising
+porate mind-set and practices over the past decade _ their product as better tasting and healthier than
+reflects a growing awareness that environmentalre- tap water.
+sponsibility can be a platform for both growth and Brita’s managers were quick to see an oppor-
+differentiation. tunity. Company research showed that replacing
+Nonetheless, the best approach to achieving _ bottled water with Brita systems could potentially
+green growth isn’t always clear. This article is forex- keep millions of bottles a year out of landfills. To
+ecutives who believe that developing green products capitalize on this benefit, the managers pursued an
+makes sense for their organization and needtode- integrated cross-media communications strategy
+termine the best path forward. We willintroduceand to tout Brita’s green attributes, educate consum-
+describe three broad strategies—accentuate, acquire, ers about bottle waste, and encourage a switch to
+and architect—that companies can use toaligntheir greener alternatives. As part of this strategy, the
+green goals with their capabilities. These strategies | company launched FilterForGood, a website that
+emerged from 10 in-depth case studies of consumer _ invites visitors to pledge that they will reduce plas-
+product and industrial companies that weremoving __ tic waste by switching to reusable bottles. A device
+into the green space; we validated the studies in dis- on the site graphically updates the tally of bottles
+cussions with dozens of senior and midlevel sustain- saved. Brita’s managers ensured that the media
+ability executives. The framework now playsacen- picked up on FilterForGood—for example, by ar-
+tral role in the core executive MBA course offerings ranging a partnership with NBC’s television show
+in sustainable business strategy andinthe executive The Biggest Loser. Within ayear the company’s water
+education programs at Thunderbird SchoolofGlobal _ pitcher sales jumped a robust 23%, compared with
+
+Management. just 2% for the category overall.
+
+As we'll see, green product development brings Brita’s impressive success came in part because
+with it unique cultural, operational, and execution __ it did not overreach in its sustainability claims. Com-
+challenges. panies that decide to pursue an accentuate strat-
+
+egy would be wise to follow its lead. Activists and
+
+PATH #1 environmental experts will not hesitate to point
+
+Who accentu Accentuate out greenwashing or other undesirable corporate
+
+, An accentuate strategy involves playing up existing behavior when they see it. Consider the experience
+
+SUPPLY CHAIN or latent green attributes in your current portfolio. Of of Arm & Hammer. Promoting the environmentally
+Nike requires that its the three strategies, it’s the most straightforwardto _ friendly attributes of the product was easy, but the
+\eather suppers not craft and implement and thusis a good placetostart. company overlooked a major liability: It used ani-
+Amazon forests. Some companies find it easy to accentuate. For _ mal testing. Activists took to the blogosphere and
+
+example, Church & Dwight’s Arm & Hammer baking called on customers to switch to the cruelty-freeand
+
+MANUFACTURING
+oy soda has attributes that were just waiting to be lev- equally green Bob’s Red Mill baking soda. Although
+
+Frito-Lay installed solar
+
+panels on its SunChips eraged. As green competitors emerged, and as cus- such complaints won’t necessarily reach or resonate
+factory. tomers demanded more environmentally friendly with all your customers, anticipating and heading
+PROBUCT choices, Arm & Hammer’s managers emphasized’ off criticism will strengthen your overall greening
+poe ie etek atoest te _. its green credentials, positioning the brand as “the _ efforts. Transparency in claims and authenticity in
+friendly option for moving #1 environmentally sensible alternative for cleaning execution are important elements in the long-term
+freight. and deodorizing” and “committed to the environ- success of any green strategy.
+
+PACKAGING ment since 1846.” The broader your brand portfolio, of course, the
+Sara Lee’s modified Other companies may have to work harderthan more exposed you may be to activist and consumer
+renee tesitnad Wea: Church & Dwight did, but they can still harvest low- backlash. Most companies lack a green heritage;
+fewer truck trips a year. hanging green fruit. Consider how Britarepositioned __ their products were developed before sustainability
+maRKErING its water filters. A decade ago Brita’s sales were si- was a concern. So they must carefully gauge how
+COMMUNICATIONS phoned off by the rising popularity of bottled water, _ the rest of their portfolio will look by comparison
+Stihl points out that its which exploded into a billion-dollar business. But with the accentuated product. Touting the green
+oiled fo ee water bottlers attracted loud critics suchas the World attributes of some products inevitably prompts the
+than those required by Wide Fund for Nature and Corporate Accountability response “Great! But what about the rest of your
+the EPA. International, which condemned them for clogging _ offerings?” A big gulf between your green and non-
+
+82 Harvard Business Review South Asia | June 2010
+--- page 6 ---
+dea in Brief
+
+HBRSASIA.ORG
+
+Green growth is at the top An accentuate strategy is and how advanced your
+f 5 involves highlighting existing green product development Bia
+or many leaders agendas, green attributes in your capabilities are.
+but the way forward is rarely ompasy® portfolio. An For any of these paths,
+alternative is to acquire understanding customers’
+
+clear. Here are three broad a green brand. If you expectations and com-
+product strategies that can have substantial product- petitors’ capabilities, and
+
+. ‘. development skills and aligning offerings and
+align your green goals with assets, you can architect messaging to prevent
+your capabilities. new offerings—build them charges of greenwashing,
+
+from scratch. Which strategy are essential to success.
+is best depends on how
+“greenable” your portfolio
+
+HIGH
+
+GREEN DEVELOPMENT CAPABILITIES
+
+Beware: Activists will not hesitate to point out
+
+greenwashing when they see it.
+
+green products can undermine your legitimate sus-
+tainability claims.
+
+Consider BP’s troubled “Beyond Petroleum” re-
+branding effort. The company’s Helios logo and the
+prominent solar panels on its service stations could
+not hide the fact that more than 90% ofits revenues
+came from oil. Fortune highlighted the disparity
+when it wrote, “Here’s a novel advertising strategy—
+pitch your least important product and ignore your
+most important one.” To avoid negative commen-
+tary like this, make sure your strategy aligns with
+customers’ perceptions.
+
+Brita did that well. Its managers were careful in
+their initial communications not to claim that their
+brand was a “green product” made by a “green com-
+pany.” They recognized that Brita filter cartridges had
+to be replaced every few months and were not being
+recycled. Because the FilterForGood campaign was
+predicated on eliminating that kind of waste, the
+managers realized that they needed a recycling solu-
+tion for the cartridges. They forged an approach in
+collaboration with Preserve, which manufactures
+products using recycled plastic, and with Whole
+Foods Market to provide a solution that was simple
+for customers and highly visible.
+
+“The filter recycling program builds on the suc-
+cess of Brita’s FilterForGood campaign,” the com-
+pany announced—and went on to share credit
+with its customers: “Now Brita users are making
+another positive impact by recycling Brita pitcher
+filters.” By accentuating the product’s green attri-
+butes and eliminating or mitigating its nongreen
+elements, Brita enhanced the credibility of its sus-
+tainability efforts.
+
+PATH #2
+
+Acquire
+
+If your portfolio has no obvious candidates for acce:
+tuation, a good alternative is to buy someone else’:
+green brand. Many high-profile green acquisitio:
+have been made since 2000, including The B
+Shop by L’Oréal, Ben & Jerry’s by Unilever, and Tom's
+of Maine by Colgate-Palmolive. In such deals gt
+
+er’s channel and distribution capabilities ar 6
+
+expected to substantially broaden the green i .
+customer base. Within a year after Unilever acquired”
+Ben & Jerry’s, for example, sales had increased yecoranions
+by 70% and Ben & Jerry’s had displaced Haagen- Colgate approached Tom’s
+Dazs as the leading premium ice cream brand. bina i oe
+. . respect,
+The prospect of such robust growth is ofcourse 3, P partnership rather
+appealing, but managers who seek ariother compa-__ than a takeover.
+ny’s green assets should be mindful of two consider- company INDEPENDENCE
+ations: Culture clash and strategic fit. Any merger or —_ Unilever agreed to keep
+acquisition can stumble when company cultures col- Ben & Jerry's separate
+" —- 7 Bee. from its U.S. ice cream
+lide. In green acquisitions that have idealistic, icono- business, with an
+clastic founders and countercultural workforces, the independent board of
+problem is exacerbated. Consider Groupe Danone’s__‘directors.
+takeover of Stonyfield Farm. When shareholders iNTERNAL
+forced Stonyfield’s founder, Gary Hirshberg, to sell, COMMUNICATIONS
+as é - Tom’s of Maine assured
+he spent two years compiling a list of conditions— employees that the
+including rules about worker protection and envi- acquisition would help
+ronmental restrictions on business operations—to Colgate innovate around
+, ae sustainability principles.
+ensure that the company’s social mission would be
+preserved. It took another two years to close the
+: COMMUNICATIONS
+deal. By contrast, Unilever got aroundsomebutnot 4 joint press release from
+all of the “founder challenges” at Ben & Jerry’s by _ Danone and Stonyfield
+completing what was in effect a hostile buyout of _ highlighted the benefits
+s Soe to both companies of two-
+the brand. This approach caused many activists to way knowledge and talent
+cry foul and deprived Unilever of the wholehearted transfer.
+
+EXTERNAL
+
+Jdune-2010 | Harvard Business Review South Asia 83
+--- page 7 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS
+
+support of the ice cream maker’s founders. Ben Insight was), but it now dominates the fast-growing
+Cohen said, “Most of what had been the soul of Ben market for more-fuel-efficient cars. Toyota’s bold
+& Jerry’s is not gonna be around anymore.” move to create a green brand has paid handsome
+
+All acquisitions present myriad management dividends. The Prius towers over the Insight, its
+challenges, so the problems of integrating an idio- closest competitor, in market share. Its dominance
+syncratic green business may not seem like a big has so distracted consumers from rival brands that
+deal. But scrutiny by the green community may some Honda dealers complain of customers who
+undermine the otherwise solid business benefits of walk into their showrooms and request a test-drive
+the acquisition. Even if product sales go well, sharp in the “Honda Prius.” Toyota has also successfully
+questions will most likely arise about the new par- transferred its hybrid expertise and green know-how
+ent’s green credentials. If the acquisition goes badly to other brands in its portfolio. In 2005 the company
+and sales tumble, not only is the value of the new became the first to establish green credentials in the
+asset diminished but—potentially even more dam- luxury-car space when it produced a hybrid version
+aging—the acquirer risks being accused of deliber- of the Lexus. Over time, Toyota’s luxury competitors
+ately destroying a green competitor. Coke faced such were forced to follow suit. Mercedes-Benz and BMW
+criticism after it bought Planet Java coffee drinks and recently introduced hybrid models to meet growing
+Mad River Traders teas and juices and then phased consumer demand and to establish their green cre-
+them out two years later. dentials and capabilities, and Audi and Porsche will
+
+An acquiring company’s actions may have an ad- soon do the same.
+verse effect on the carefully crafted brand image of Clorox, too, in developing its Green Works clean-
+the acquisition. For example, when Danone’s agree- : ing products, shows how companies with limited
+ment with Stonyfield about employee protection green expertise but substantial product develop-
+ended, Danone sent out pink slips and met with hos- ment capabilities can architect a green brand. Green
+
+tile reactions in the'’press. Such criticism may have
+limited impact on the bottom line, but it can dimin-
+ish the credibility of a company’s green efforts.
+Successful green brands are attractive targets be-
+cause they have loyal customer bases and because /
+they come with specialized knowledge about ec:
+friendly innovation and manufacturing, sustainab) fe
+
+Works has received a lot of press, but the details of
+Clorox’s strategy—which we studied from inside the
+company—are less well known. The line of house-
+hold cleaners emerged from a small skunkworks in
+the Clorox Technical Center led by a handful of inde-
+:. pendent and dedicated scientists. In less than a year
+ompany researchers established the benchmark
+efinition and best practices for a “natural” cleaning
+wT foduct and proceeded to design a line of offerings
+; at would deliver the efficacy customers demand.
+big surprise came when the marketing team
+ed the original five Green Works products
+sass surface; all-purpose,- bathroom, and toilet-
+sowl cleaners) to major distributors, including Wal-
+
+opment. Bill Morrissey, the vice president of envifo
+mental sustainability for Clorox, told us that Clo:
+had not only growth but also knowledge ae fet
+mind when it acquired Burt’s Bees, which had
+decades of leadership in the green product
+
+PATH #3 NEW-PRODUCT Mart and Safeway. According to a Green Works man-
+
+Architect pees dircctad its ager, “The realistic part of our expectations was ‘Hey,
+. *, : : : oyot
+
+For companies with a history of innovation and i ube if we get three or four SKUs, we'll be pretty happy?”
+
+engineers to develop
+substantial new-product-development assets, aI- a new fuel-efficient and To the team’s delight, Wal-Mart wanted all five. Dis-
+
+chitecting green offerings—building them from ean te friendly tributors across the board asked for the entire Green
+scratch—becomes a possibility. Although architect- =e eee Works line and requested that the brand be extended
+Pi ql
+
+ing can be slower and more costly than accentuating NEW PRODUCTION into other categories.
+iring, it may be the best strategy f METHODS The devel t of Green Works induced Cl
+
+or acquiring, it may be the best strategy for some _patagonia created a line of e development of Green Works induced Clo-
+companies, because it forces them to build valuable _ products using a closed- rox to accumulate a range of new competencies, in-
+competencies. Toyota took this route when it devel- ‘cop Serial system it cluding specialized knowledge about eco-conscious |
+
+. a cal ro . ee i
+oped the Prius. Although the company is currently : F consumers’ preferences and expertise in the supply i
+addressing a raft of quality problems, thelessons of SKUNKWORKS chain for natural-product sourcingand procurement.
+
+: Clorox provided the
+
+its architect strategy still stand. The Priuswasnotthe -ocources fora separate Through its deepened relationships with Wal-Mart
+first hybrid introduced in the U.S. market (the Honda’ Green Works business unit. and other distributors, Clorox quickly doubled the
+
+es
+
+84 Harvard Business Review South Asia | June 2010
+--- page 8 ---
+HBRSASIA.ORG
+
+What's our ur strategic goal? Which consumers in the “Are our competitors Do we have environmental |
+
+° To leverage latent assets? affect the positioning ‘of category are looking for “greening their existing ‘skeletons in our current
+
+° Revitalize existing and resources for. our’ greener products? products? =. portfolio or business
+brands? . - Sou model?
+
++ Broaden appeal to green Does our candidate brand e aiferentiate, our 3 :
+customers? have “permission” to enter Will our green claims
+
+be credible—or are we
+vulnerable to accusations
+of “greenwashing”?
+
++ Gain green credibility? the green space?
+
+Can we enhance the value
+
+Are there potential green green halo on the bi “
+of green in the category?
+
+brands in our portfolio? as awhole?: 2.2
+
+Do we have the resources
+and capabilities needed
+for this initiative?
+
+Can we sell the green hi: Do we have environ-
+
+brand to our current be i mental skeletons in
+
+customers? E our current portfolio or
+: business model?
+
+What’s our strategic goal?
+
+* To capture customers?
+
+¢ Bring in new green
+capabilities?
+
++ Broaden access to
+mainstream customers?
+
+¢ Gain green credibility?
+
+Will acquired customers r
+view us as a credible é nesst Will our green claims
+steward of the brand? F es be credible—or are we
+
+4. = vulnerable to accusations
+Which companies would pee of “greenwashing”?
+make attractive green
+acquisitions?
+
+Does the proposed
+acquisition have an iconic
+Do we have the resources sreen talo is eau founder, a countercultural
+and capabilities needed 5 ole u x workforce, or some other
+for this initiative? * 2 ae aspect that might create
+
+‘ culture clash?
+
+Can we preserve the
+integrity—“the magic”.
+of the acquired brand?
+
+What innovations are : Do we have é
+consumers looking for it environmental skeletons
+
+What's our strategic goal?
++ To create new green
+
+solutions? in a greener alternative? SF in our current portfolio or
+
++ Develop unique com- business model?
+petencies? Does Our parent brand : 2
+
++ Respond to new market have “permission” to r 4 23 will our green claims
+needs? enter the green space? me ‘ : be credible—or are we
+
++ Gain green credibility? Will this initiative require eames
+
+us to develop a new
+brand?
+
+Will an independent
+business unit be required?
+
+Will we need to educate
+and develop the market
+and bring new customers
+into the category?
+
+Se
+
+Do we have the resources
+and capabilities needed
+for this initiative?
+
+June 2010 | Harvard Business Review South Asia 85
+--- page 9 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS HBRSASIA.OR
+
+size of the “green clean” mar-
+ket. Even niche brands such
+as Seventh Generation and
+Method benefited from its
+market development.
+
+Making Green
+
+Growth Happen
+
+With an understanding of the
+
+three paths to green growth,
+managers can begin to craft a
+strategy that suits their objec-
+tives and their business context.
+They should begin by evaluating
+each option: Is it feasible? Is it desir-
+
+able? How would it be implemented? Cc lo rox h ad n ot on ly growth b ut
+
+Feasibility. In this step companies
+
+take stock of their assets along two dimen- also kn owledge transfer i nm i nd
+
+sions: greenable attributes of their existing prod- ° ° 9
+
+ucts and brands, and organizational green product wh en it acq u | red B u rt S B ees.
+and brand development capabilities. The first re-
+
+quires a careful review of opportunities to promote
+
+brands’ green benefits. Of course, each product will be prepared for a low speed to market. Companies
+have its own category-specific attributes, ranging unwilling or unable to allocate major resources for
+from recyclability to energy efficiency to reduced green initiatives will find accentuation the most
+toxicity. The Global Reporting Initiative’s list of attractive way to enter green markets. For others,
+more than 70 sustainability performance indicators, green growth may be part of an enterprisewide sus-
+at www.gti.com, is an excellent resource for manag- tainability initiative to retool operations, shift the
+ers. It can help them to identify less obvious green culture, and, ultimately, reposition the organization.
+features and benefits that are suited to an accentuate Implementation. This third step involves acting
+approach or to frame strategies and gauge capabili- on all the factors that affect successful execution. As
+ties required for an architect approach. outlined in the exhibit “Analyzing Growth Options,”
+The second dimension involves appraising the companies must align their green strategy with their
+company’s green resources and capabilities. This existing product portfolio and devote or develop the
+may include a broad review of the processes and pri- resources and capabilities needed to achieve their
+orities for innovation and new-product development, strategic goals. They must ensure that the strategy
+supply chain management, the coordination of and satisfies customers’ expectations and, when pos-
+collaboration among distributors, and even partner- sible, takes advantage of competitors’ green weak-
+ships with environmental organizations. nesses. Finally, they must address “red flag” issues
+Desirability. In this step, managers assess the that could undermine implementation.
+strategic fit of each option with the company’s ob- :
+jectives and the resources they can bring to bear on . WHATEVER PATH you choose—accentuate, acquire,
+the green initiative. They need to consider speed to or architect—activists, customers, and the public
+market and the investments, reputation, and com- won’t see your green initiatives as independent of
+petencies that the initiative will require. For example, your other activities and offerings. Rather, they will
+an acquire strategy will deliver high speed to market view your efforts as part of the organization’s overall
+for a company setting out with low green creden- approach. That means the companies that ultimately
+tials and low to medium green capabilities—but it succeed in growing green will be distinguished by t
+involves significant investment. A company choos- their commitment to corporatewide sustainability 3
+ing an architect strategy must have high green capa- as well as the performance of their green products. 0 3
+bilities and medium to high green credentials—and HBR Reprint Ri006G 2
+
+86 Harvard Business Review South Asia | June 2010
+--- page 10 ---
+. : ks) . $
+Looking to rejuvenate its overall business, Nokia on Friday unveiled as cr strategic ts
+initiatives including partnership with Microsoft and an organisational rejig\ Gy Pe an’
+The changes at the world’s largest mobilephone maker under its chief Stephen Elpo would
+also see revamp in executive leadership at various operations.
+
+“Nokia is at a critical juncture where significant change is necessary and inevitable in our
+journey forward. Today, we are accelerating that change through a new path, aimed at
+regaining our smartphone leadership, reinforcing our mobile device platform and realising
+our investments in the future,” Nokia President and CEO Stephen Elop said in a statement.
+
+With these moves, Nokia hopes to strengthen its business position amid rising competition
+from major rivals such as Apple and Google.
+
+Windows Phone as main platform
+
+Nokia wouid forge a “strategic partnership” with Microsoft, whereby the Finnish entity
+would make Windows Phone as its primary smartphone platform.
+
+With this step, Nokia’s own Symbian operating system would become a franchise platform.
+
+The Finnish firm noted that it expects to sell about 150 million more Symbian devices in the
+years to come. Further, the company’s MeeGo would become an “open-source, mobile
+operating system project”. .
+
+Meanwhile, from April 1, Nokia would have a new company structure with two distinct
+business units — Smart Devices and Mobile Phones.
+
+These units would focus on high-end smartphones and mass-market mobile phones.
+
+“Each unit will have profit-and-loss responsibility and end-to-end accountability for the full
+consumer experience, including product development, product management and product
+marketing,” the statement noted.
+
+Smart Devices unit, responsible for smartphones, would be led by Jo Harlow. Further,
+Symbian Smartphones, MeeGo Computers and Strategic Business Operations would come ‘
+under the new division.
+
+Markets unit would be responsible for selling products, sourcing, customer care,
+
+manufacturing, IT and logistics among others. This division would be helmed by Niklas
+Savander
+
+lofg
+--- page 11 ---
+In a bid to stem Nokia's losses, chairman Jorma Ollila poached Elop from Microsoft last year.
+The 47-year-old Canadian is the first non-Finn to head Nokia, which has been criticised for an
+inability to develop new products quickly. Elop said the deal with Microsoft would address this.
+
+Nokia said in a statement it would stick with its current management team, with only one senior
+executive set to leave and a reshaping of its North American team promised. There had been
+speculation of a wider cull at the company.
+
+(Reuters) - Nokia is set to cut thousands of jobs in Finland as part
+of the strategic overhaul which it unveiled on Friday, the chairman
+of the local labor union said on Friday.
+
+"It seems it means thousands of jobs in Finland," said Chairman Antti Rinne from white collar
+union Ammaittiliitto Pro.
+
+Nokia's chief executive Stephen Elop confirmed to a /press conference in London the company
+will cut jobs in Finland and elsewhere.
+
+"There will be substantial reductions in employment in various locations around the world, and
+that too will affect Finland," Elop said, adding it was too early to estimate how many jobs might
+be cut.
+
+The Finnish government said it was prepared to help people find new jobs.
+
+"This is the biggest structural reform which has ever impacted new technology in Finland,"
+Economy Minister Mauri Pekkarinen said in a statement.
+
+"Finland will remain our home," Elop told the press conference,
+
+Nokia and Nokia Siemens Networks employed some 132,000 people at the end of last year, of
+those 19,800 in Finland.
+
+More than 6,000 people work for Nokia's research and development in four Finnish cities.
+
+Apple working on smaller, cheaper iPhone: report
+
+(Reuters) - Apple Inc is working on a smaller and less expensive
+version of the iPhone, Bloomberg reported on Thursday, citing
+sources.
+
+The prototype device is about one-third smaller than the iPhone 4, the report said, citing a person
+who had seen it. .
+
+Apple has considered selling the new iPhone for $200 without a two-year wireless contract,
+Bloomberg reported.
+
+Apple is aiming to unveil the device around the middle of this year, but the launch may be
+delayed or canceled altogether, the report said.
+
+Apple did not respond to a request for comment.
+The company often develops products it never brings to market.
+
+According to the report, Apple is also working on a dual-mode phone that would be able to work
+with the world's two main wireless standards.
+
+AT&T, which carries the iPhone on its wireless network in the United Stafes, declined to
+comment. Verizon Wireless, which also carries the device, could not be reached for comment.
+
+Shares of Cupertino, California-based Apple closed down 1 percent at $354.54 on the Nasdaq
+on Thursday
+
+Whe
+--- page 12 ---
+(Reuters) - Nokia and Microsoft teamed up on Friday to build an
+iPhone killer in a desperate attempt to take on Google and Apple in
+the fast-growing smartphone market.
+
+Shares in the world's largest cellphone maker fell sharply on uncertainty about the financial
+impact of Nokia's new chief executive Stephen Elop's strategic u-turn which will use Microsoft's
+Windows Phone software in its smartphones.
+
+"It is now a three-horse race," said Elop, who was drafted in from Microsoft last September to
+turn Nokia around.
+
+The deal marks a major breakthrough for Microsoft which after years of struggling to establish
+itself in wireless will get its software into upwards of 30 million smariphones sold by Nokia every
+quarter.
+
+"To have the largest phone manufacturer in the world... it's fantastic, it's truly fantastic," Andy
+Lees, head of Microsoft's mobile business told Reuters in an interview.
+
+Nokia plans to use Microsoft's Bing search engine across its cellphones, opening up a huge
+market for Microsoft as it seeks to challenge Google as the world's leading search engine.
+
+The partnership will mean thousands of job cuts at Nokia around the world, with a dramatic
+reduction in research and development spending.
+
+Investors were unconvinced by Elop's new strategy and Nokia shares tumbled 10 percent after it
+said 2011 and 2012 would be "transition years," fuelling fears of a margin hit.
+
+Nokia said its operating margin in the phone business would be "10 percent or more" after the
+transition period. Analysts had expected margins to rise to 11.4 percent in 2012.
+
+"They have woken up...changes have to be made. | hope it's not too late," said Alan Lancz,
+president of Alan B. Lancz & Associates Inc, which holds Nokia stock.
+
+Nokia has rapidly lost share in higher-margin smartphones as Apple's iPhone, and products
+based on Google's Android platform, have revolutionized the market.
+
+Analysts said the Finnish company, which invested billions of dollars in building up mobile
+internet services under its previous CEO, had effectively admitted defeat in its services strategy
+by joining forces with Microsoft.
+
+Analysts said the partnership meant there was no longer any need for long-rumored takeover of
+Nokia by Microsoft since the U.S. firm had achieved its goal without the costs of a bid.
+
+An outright acquisition by Microsoft was "never really discussed as an option,” Elop said.
+
+Although Microsoft's Windows Phone platform, which had a 2 percent market share in the last
+quarter, is widely recognized by industry experts as a promising technology, it has not yet caught
+the imagination of consumers
+
+Nokia, which has struggled to create a rival to Apple's iPhone phenomenon, is now watching
+smaller competitors like HTC Corp and Motorola hook up their smartphones to Google's Android
+software and lure customers around the globe.
+
+"This is a partnership born out of both parties’ fear of marginalization at the hands of Apple and
+Google but there is no silver bullet," said analyst Geoff Blaber from CCS Insight.
+
+Nokia's share of the smartphone market fell to 31 percent in the fourth quarter of 2010 from 38
+percent the previous quarter.
+
+"This is a very frank admission that Nokia's platform strategy has failed and underlines the
+seriousness of Nokia's position. Such a move would have been unthinkable just 12 months ago,"
+Blaber added.
+
+I"
+--- page 13 ---
+Newsmaker: Nokia’s Elop eyes Microsoft
+window of opportunity
+
+(Reuters) - Stephen Elop must know better than anyone exactly
+what Nokia is letting itself in for by jumping into the eager arms of
+Microsoft.
+
+Nokia's new chief executive, who this week described the world's largest cellphone maker as a
+“burning platform," has turned to his former employer for a deal to use Windows Phone as the
+software platform for Nokia's smartphones.
+
+So it was friends reunited when Elop shared the spotlight on Friday with former boss and
+Microsoft CEO Steve Ballmer to explain how the two giants have teamed up to take on Google
+and Apple in fast-growing smartphones.
+
+But behind the smiles and handshakes for the cameras, Elop faces a bitter battle, not only with
+Nokia's competitors but for the very heart and mind of the company itself.
+
+“I'm here to fight," Elop told investors at the briefing.
+
+Elop was drafted in from Microsoft in September to halt Nokia's decline. As president of
+Microsoft's Business Division and a member of its team responsible for overall strategy, he was
+hired for his software know-how.
+
+The 47-year-old Canadian became the first non-Finn to head Nokia in its 145-year history, a sign
+of how desperately Nokia needs to transform itself to claim back market share and the innovative
+edge it has lost to Apple and other rivals.
+
+Elop has impressive Silicon Valley credentials, and much of his experience should stand him in
+good stead at Nokia. But the Microsoft deal means that he will now have to turn his attention to
+the hardware Nokia produces rather than the programing that has become so crucial to the
+success of smartphones.
+
+After graduating in computer engineering and management from Canada's McMaster University,
+he had a spell as chief information officer of restaurant chain Boston Chicken.
+
+Elop got back on track with seven years at Macromedia. The San Francisco-based software
+house produced Web design tools beloved of Apple developers. Macromedia made the Flash
+video software that powered the rise of YouTube, and Dreamweaver, widely used to build
+websites.
+
+It successfully pushed to get Flash into mobile devices, winning over every handset maker and
+service provider including Nokia. Adobe bought Macromedia for $3.4 billion in 2005.
+
+When it was plain he was not going to become the next Adobe CEO, Elop wasted little time in
+moving to Juniper Networks as COO, and then on to Microsoft to run its business division -- a
+
+$19 billion operation that includes Microsoft's Office software and is the largest of the company's
+five divisions.
+
+While Elop did not develop a public profile there, Ballmer has praised him as a solid leader
+during the recession.
+
+Importantly, he helped steer the company toward online versions of programs such as Word,
+Outlook and Excel, which users could access from anywhere, including mobile devices.
+
+That was a tough transition for Microsoft, whose fortune is founded on software installed on
+desktop computers. The company announced a tie-up with Nokia a year ago as part of this drive
+
+(2h,
+--- page 14 ---
+i LECT bP
+
+Source: http://www. icmrindia.org/casestudies/catalogue/Marketing/MKTG118.htm
+
+The case focuses on the world's first mass
+produced hybrid passenger car - Prius -
+manufactured by the world's second largest
+automaker Toyota Motors.
+
+The case explains the new hybrid technology used
+in the car.
+
+It also looks for the reasons for the success of the
+original Prius in the Japanese market and of the
+subsequent models of the Prius launched in the
+US and other markets.
+
+The strategies for marketing the product in the US
+are also analyzed.
+
+introduction
+
+In December 1997, Toyota Motor Corporation
+(Toyota) of Japan launched its hybrid vehicle
+Prius in the Japanese market. This was one of the
+first mass-produced hybrid vehicles in the world.
+It used the Toyota Hybrid System (THS), which
+combined an internal combustion engine fueled by
+gasoline with an electric motor.
+
+Prius achieved a balance between high mileage
+and low emissions and was the upshot of the
+company's initiative to produce environment-
+friendly automobiles and its goal of
+manufacturing the 'Ultimate Eco Car'(Refer
+Exhibit I for the Ultimate Eco Car goal of
+Toyota). The Prius generated a lot of enthusiasm
+in the industry as it was both efficient and stylish.
+--- page 15 ---
+It was also a safe car. The car conformed to Japanese regulations and standards pertaining to
+environmental pollution. Having sold more than 100,000 units worldwide by 2002, it was the
+best selling hybrid car model in the world.
+
+The company introduced further refined models in 2000 and 2003. Toyota introduced Prius in the US
+market in 2000. Before entering, Toyota conducted a research study of the US market and consumer
+preferences there. lt developed various strategies specifically for this market based on its research
+findings. The price of the new improved Prius was unchanged from that of the original Prius.
+
+These initiatives helped Prius to break successfully into the tough US market even though it was based
+on a new concept of a hybrid car. In 2001, the Automotive Engineering International’ recognized rius as
+the 'world's best engineered passenger car
+
+iitroducs
+
+By 2002, it was being sold in North America, Japan, Europe, Hong Kong. Australia and
+Singapore. Analysts opined that the demand for hybrid cars would rise because of the unstable
+oil prices and the growing need for environment friendly products.
+
+Commenting on the future of green technologies and on Prius in particular, Chris Giller of
+Grist.org* said, “In the marketplace, green technologies and industries are among the fastest
+growing and most innovative developments.
+
+The Toyota Prius has defied every prediction to become the must-have car. The organic food
+business doubles every time you blink. Green architecture is taking off.
+
+Renewable energy, emissions trading, environmentally-conscious investing: many of the most
+exciting advances in environmental thinking are happening in the private sector.”
+
+Background
+Tovotr
+
+Toyota's history goes back to 1897, when Sakichi Toyoda (Sakichi) diversified into the textile
+machinery business from his traditional family business of carpentry. He invented a power loom
+in 1902 and founded the parent organization of Toyota, the Toyoda Group, in the same year. In
+1926, Sakichi invented an automatic loom that stopped operating when a thread broke.
+--- page 16 ---
+In the early 1930s, Kiichiro convinced his father to launch an automobile business and in 1933,
+Sakichi established an automobile department within TALW. The first passenger car prototype
+was developed in 1935. In 1936, Sakichi sold the patent rights of his automatic loom to a
+company in England to raise money to set up a new automobile business...
+
+Hybrid Cars
+
+Ferdinand Porsche manufactured the first hybrid-electric car in 1898. In the 1960s a few attempts were
+made to manufacture hybrid cars by applying turbine engines to the production of the vehicles. A
+turbine-powered race car was introduced in 1967 with the turbine engines powering the wheels through
+a mechanical transmission.
+
+The need for cleaner and more efficient vehicles led
+to the development of hybrid vehicles in the 1970s. In
+1970, a program called the Federal Clean Car
+Incentive (FCCI) was started by the US government.
+This program led to the development of a hybrid
+prototype in 1972.
+
+The program was scrapped in 1976 by the
+Environmental Protection Agency (EPA) of the US. In
+1993, another program called the Partnership for a
+New Generation of Vehicles (PNGV) was launched in
+the US. The partners in the program: Chrysler, Ford,
+GM, and a few governmental agencies, developed
+hybrid prototypes but never commercialized them...
+
+Knowledg ment at Toyota
+
+\ehg
+--- page 17 ---
+er
+
+According to analysts, Toyota's success in both the local and global markets was based on its gaining a
+competitive advantage through implementation of innovative and path-breaking ideas on its production
+floors. Toyota had focused on learning from the very beginning.
+
+The Original! Prius
+
+The original Prius was powered by the THS. The THS was an advanced version of the EMS. THS is a power
+train that combined an internal combustion engine and an electric motor. It was based on the
+series/parallel hybrid system. It contained a power split mechanism that divided and sent power
+through two passages...
+
+Excerpts Contd...
+The First Generation Prius
+
+in 2000, Toyota introduced its first generation model of the Prius in the US, Europe and other markets.
+This model was also called Prius NHW11 or Prius Classic. A few modifications were made to the vehicle
+to meet vehicle standards for California, USA. Modifications were made to the engine by increasing the
+horsepower from 58 to 72...
+
+Marketing the First Generation Prius in the US
+
+For Toyota, marketing the first generation Prius in the
+US was a challenge. Commenting on the launch of
+Prius in the US market, Senior Vice President and
+General Manager of Toyota Motor Sales, Don Edmond
+
+\F/ ec
+--- page 18 ---
+(Edmond) said, “Frankly, it was one of the biggest
+crapshoots I've ever been involved in. Not because we
+lacked confidence in the quality of the product. Or the
+logic of the concept. Or the significance of this
+breakthrough technology. The key was to convince
+consumers in the U.S. that hybrid technology was
+more than a science project...
+
+Toyota began evaluating the popularity of its first generation Prius in the market soon after it was
+launched. The evaluation was based on the price, performance and social aspects of the product as seen
+by buyers and potential customers...
+
+The Testing
+
+The most important feature of the new Prius was its enhanced safety. The company had worked
+toward child safety and reducing the impact of collisions to a remarkable degree...
+
+Outlook
+
+Toyota expected higher demand for the new Prius than the earlier versions. Edmond said, “We
+are targeting a sales volume of 36,000 for the first full year. That's three times our sales target for
+Prius (original) when it launched in the U.S.”...
+
+Ng
+````
+
+## 2010-11 · Exam not stated · Trim 15 · paper b0bf8a43abe0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/New Product Development 2010-2011.pdf`
+- Printed on paper: duration hours: 2; exam date: 29/03/2011
+- Text: ocr (18 pages), mean OCR confidence 92.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+X
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management &
+Programme: MBA (Tech) - All Streams Year: V Trimes
+
+wy
+
+re -XV as
+cy ie
+
+Academic Year : 2010-2011 is 2
+Subject: New Product Development Marks\ “. 50
+Time: S00 am To 1.00 pm
+Date: 29/03/2011 Duration: 2hrs.
+
+Final - Examination
+
+The case papers are enclosed.
+Answer any five out of the six questions; All questions carry equal marks.
+
+Write the question number clearly on each page and at starting of the answer. Start answer to each
+question on a fresh page
+
+Students are expected to cite examples from the referred case studies or from recent industry cases,
+wherever relevant
+
+1) ‘Companies do not have to compete on prize and delivery issues alone. NPD can be a strategic
+competitive weapon’ Explain the theory of competitive strategy and cite examples from cases to
+prove your points
+
+2) What are the phases through which a new product development passes through? Explain their
+significance through industry examples and from the referred cases.
+
+3) ‘Some very high — tech companies follow the Technology Push model for NPD’. Discuss with
+respect to the ‘Market Pull’ model. Cite examples of success and failure stories in both models.
+
+4) ‘When to save and when to kill a NPD program is a vital strategic decision of the product
+manager’. What are the factors involved in this decision making? Cite examples from referred
+cases and industry developments to prove your points.
+
+5) What is ‘Design to Cost’ and why is it an indispensable NPD requirement. Cite examples.
+
+6) “New Products must reflect societal demands apart from meeting customer requirements and
+company’s business objectives.’ Discuss with reference to referred cases and industry examples.
+
+REFERRED CASES:
+
+A) WIND AND SOLAR ENERGY
+
+B) GROWING GREEN
+
+C) LOOKING FOR A CHANGE OF STRATEGY AT NOKIA
+D) TOYOTA PRIUS HIBRID CAR
+
+Vig
+--- page 2 ---
+Wind/Solar Hybrid Case Study
+
+Interview with Anastasia Ledwon — Angust 2006
+
+Introduction
+
+A typical wind turbine is comprised of a rotor or
+propeller assembly, a body (which contains the
+generator or alternator and the tower attachment point)
+and a tail vane. The wind flows over the rotor blades,
+causing them to spin, and turning the generator housed
+in the body, which then produces electricity. The tail
+vane keeps the rotor tumed into the wind. It can also
+turn the turbine out of the wind when wind speeds get
+too high. The turbine is mounted on top of a tower to
+keep it above obstructions to the wind’s flow.
+
+The height of the tower makes a more
+significant difference than the size of the blades in
+terms of energy production. Depending on the size of a
+system the wind-speed needed varies, with the slowest
+starting at about 15km/h and the ideal at least 29 km/h.
+Systems are also designed, depending on capacity, to
+shutdown when speeds get too fast, like in a major
+storm. These features help protect the system and
+maximize efficiency. Where there are high wind speeds
+and no obstacles that would disturb wind patterns, wind
+systems can generate a significant amount of power.
+Even in a good location however there are rarely
+constant winds, and therefore power often needs to be
+stored or supplemented with another system such as
+solar panels or a generator. The following case study
+examines a small-scale wind/solar hybrid system.
+
+Case Study
+
+Anastasia’s home is situated on 160 actes of land
+between Houston and Quick, BC and has a wind/solar
+hybrid system installed. The land was partially logged 10
+years ago and the home built in the centre of the
+property. The house faces within a few degrees of due
+south and the property slopes to the west towards a
+river. The three-story, 3,400 square foot home was built
+initially in 1985 and renovations were undertaken in
+2002. The home now operates sane eaey off-grid
+(previously it
+operated
+solely off of a
+diesel
+generator),
+with the
+nearest hydro
+lines are a
+kilometre
+away.
+Anastasia and
+Richard who
+
+RNY:
+
+Anastasia’s house with solar panels on roof
+
+718
+
+cess OF Mey
+~ Nop
+‘\%
+
+live and work there rely on ‘Propane
+generator to meet their power needs.
+
+After doing some initial research on various
+system options they had to decide whether or not they
+would connect to the hydro grid or stay off it. BC
+Hydro gave a varying quote ranging from $15,000 to
+$50,000 to install hydro poles and connect to the grid. It
+would have cost a least $5,000 to get several different
+permits and complete some required blasting and
+logging before BC Hydro would have been able to give
+a more accurate estimate. Given the length of time and
+the work involved to go this route, it was decided to
+assess other options. The general aesthetic value of not
+having hydro poles on the property, the speed of
+installation, the cost, and the appeal of living completely
+independently led to the choice of the off-grid system.
+Once this decision was made research had to be done to
+more seriously evaluate the electrical needs, and the
+feasibility of various wind and solar systems. Books,
+magazines, websites, and people in th ith
+renewable technologies :
+were consulted for
+information. The company
+Energy Alternatives in
+Victotia was contacted and
+a package was put together.
+It was decided to have a
+wind, solar, and propane
+generator system. The
+system was paid for at the
+end of April, then the parts
+arrived in pieces
+throughout May and June.
+The solar system was set up
+in July and finally the wind
+system and generator were
+set up in August,
+completing the system.
+
+Anastasia and the other owner at the time set
+up the system mostly themselves in consultation with
+Energy Alternatives. One of the owners had some
+mechanical and electrical knowledge, which helped
+significantly. The various manuals acted as good guides,
+laying out step-by-step instructions. Extra help was
+contracted when needed, such as a cement truck and a
+backhoe. The installation process demanded a
+significant amount of work and energy to complete on
+top of specific complications that arose. There was a lot
+of preparation work that needed to be done for the
+wind system, which is located 50 metres from the home.
+Normally anchors can be twisted into the ground, but
+
+Wind turbine in the background
+--- page 3 ---
+because there was so much clay and rock in the ground, consumption, though there is a meter that shows the
+
+trenches and anchor holes had to be dug then concrete actual watt demand at any particular time. They have a
+
+poured before the tower could be raised. Putting the stove, dryer, and hot water heater that have electric
+
+solar panels on the roof was particularly challenging starts but run off propane, consuming about 757 litres
+
+because of the steepness of the roof and the fact that it of propane a year. There are 2 Blaze King high
+
+is 20 feet off the ground. efficiency wood stoves that provide heat for the home,
+The home has a considerable power load that consuming about 10 cords a year.
+
+can be accommodated by this system. The regular load
+
+consists of 2 deep freezers, a fridge without a freezer, Conclusions
+
+compact fluorescent lights, a TV, a DVD player, a There are only a few ongoing maintenance requirements
+
+stereo, a washer, and 2 laptop computers. The water that add up to about 1 hour of time a month. For
+
+pump consumes a lot of electricity and they are trying to example, the batteries need to be equalized every six
+
+find a way of making it more efficient, such as using a months. The generator requires changes in oil, oil
+
+gravity fed system. Anastasia and Richard also have a filters, air filters, spark plugs, as well as getting the
+
+desktop computer, electric blanket, microwave, and propane tanks filled. The bolts and guy-wires need to be
+
+toaster they rarely use, as they require a lot of power. tightened on the wind system once a year. The
+
+They use power tools for construction, which use a lot homeowners have not experienced any problems that
+
+of electricity, especially when they are first turned on. required outside assistance other than on one occasion,
+
+The generator kick starts automatically when the wind during a major storm, when the wind turbine tail got
+
+and solar systems cannot stuck in the wrong position. There was a concern that
+meet these demands, using the tower might have to come down to fix it, but after
+about 1,872 litres of the next storm the problem corrected itself. Apart from
+ptopane a year. Anastasia those issues, the only other main consideration is re-
+says that being off the grid setting the system when it is overloaded.
+
+makes you more The peak season for the solar panels is the
+conscious of energy summer, while the wind system is most productive in
+consumption and allows the spring and fall. They are very satisfied with their
+
+you to control energy system though they are planning on making some
+intake. This manifests additions. They are going to put on more solar panels to
+
+mess itself through things such meet their needs, would like an on-demand hot-water
+Generator shed as the use of power bars, heater, and are considering solar walls for heating.
+ot being pickier about Anastasia would recommend these technologies to
+appliances that are bought and used. They have no ; others, making an active effort to dispel
+meter keeping track of their aggregate energy misconceptions.
+
+Basic Cost Breakdown
+
+Key System Components ; Description
+
+4 Solar Panels 120 watts.
+Wind Turbine 1 kilowatt, BrgeyO
+
+Wind Tower 100 foot, BrgeyO
+
+Propane Generator 12 kilowatt Onan© (no longer available)
+Power Panel 110 volts Xantrex© Inverter, Control Panel (Trace
+: Engineering©)
+12 Batteries 2 volts (parallel into 24 volts), Deep Cycle Golf Cart Batteries
+Miscellaneous ie. wiring, backhoe, conctete, shipping, scaffolding, rebuilding
+generator shed, propane lines...
+GST
+
+Propane $1,200-$1,500 a year
+*There is a PST exemption when systems are bought in their entirety
+
+One Sky — Canadian Institute of Sustainable Living * www.onesky.ca * 3768 2" Ave, Smithers, BC * 250-877-6030
+
+Tse
+
+a *
+--- page 4 ---
+cg
+
+xs
+SUIEGF May,
+
+SS hy, S
+e\
+
+la
+at Ff
+
+unruh.com) is-a professor ettenson@thunderbird.
+
+and the director of the edu) is an associate pro-
+
+
+bird School of Global Kieckhefer research fellow nacre
+Management and the author in global brand marketing
+
+of Earth, Inc. (Harvard at Thunderbird.
+
+Busiriess Press, 2010).
+
+Three smart paths to developing sustainable products
+, by Gregory Unruh and Richard Ettenson
+
+growth and leading the brand back
+rita wa with a vengeance.
+
+ship position among pitcher filtration How did its managers do it? By go-
+ms, and by 2002 it controlled ing green, as we'll detail below.
+
+That strategy wouldn’t have been
+obvious 10 years ago. But thanks to
+ined. Management’s aggressive leadership by some of the
+brand soon wore _ world’s biggest companies—Wal-Mart,
+007 Clorox CEO GE, and DuPont among them—green
+told shareholders that growth has risen to the top of the
+ars to improve orit agenda for many businesses. From
+“When I got on 2007 to 2009 eco-friendly product
+members, “the launches increased by more than
+W quickly can we sell 500%. A recent IBM survey found that
+fhen came aremarkable _ two-thirds of executives see sustain-
+covered its momentum ability as a revenue driver, and half of
+within months, achieving double-digit them expect green initiatives to confer
+
+80 Harvard Business Review South Asia | June 2010
+--- page 5 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS
+
+competitive advantage. This dramatic shift in cor- landfills with plastic and deceptively advertising
+porate mind-set and practices over the past decade _ their product as better tasting and healthier than
+reflects a growing awareness that environmental re- tap water.
+sponsibility can be a platform for both growth and Brita’s managers were quick to see an oppor-
+differentiation. tunity. Company research showed that replacing
+Nonetheless, the best approach to achieving _ bottled water with Brita systems could potentially
+green growth isn’t always clear. This article is forex- keep millions of bottles a year out of landfills. To
+ecutives who believe that developing green products _ capitalize on this benefit, the managers pursued an
+makes sense for their organization and need to de-__ integrated cross-media communications strategy
+termine the best path forward. We willintroduceand _ to tout Brita’s green attributes, educate consum-
+describe three broad strategies—accentuate, acquire, ers about bottle waste, and encourage a switch to
+and architect—that companies can use toaligntheir greener alternatives. As part of this strategy, the
+green goals with their capabilities. These strategies | company launched FilterForGood, a website that
+emerged from 10 in-depth case studies of consumer _ invites visitors to pledge that they will reduce plas-
+product and industrial companies that were moving __ tic waste by switching to reusable bottles. A device
+into the green space; we validated the studies in dis- on the site graphically updates the tally of bottles
+cussions with dozens of senior and midlevel sustain- saved. Brita’s managers ensured that the media
+ability executives. The framework now playsacen- picked up on FilterForGood—for example, by ar-
+tral role in the core executive MBA course offerings ranging a partnership with NBC’s television show
+insustainable business strategy andintheexecutive The Biggest Loser. Within a year the company’s water
+education programs at Thunderbird SchoolofGlobal _ pitcher sales jumped a robust 23%, compared with
+
+Management. just 2% for the category overall.
+
+As we'll see, green product development brings Brita’s impressive success came in part because
+with it unique cultural; operational, and execution _it did not overreach in its sustainability claims. Com-
+challenges. panies that decide to pursue an accentuate strat-
+
+z egy would be wise to follow its lead. Activists and
+
+IGE PATH #1 environmental experts will not hesitate to point
+Accentuate out greenwashing or other undesirable corporate
+well? Snes An accentuate strategy involves playing up existing behavior when they see it. Consider the experience
+SUPPLY CHAIN or latent green attributes in your current portfolio.Of of Arm & Hammer. Promoting the environmentally
+Nike requires that its the three strategies, it’s the most straightforward to _ friendly attributes of the product was easy, but the
+pores} quppllers not craft and implement and thus is a good place tostart. company overlooked a major liability: It used ani-
+Amazon forests. Some companies find it easy to accentuate. For _ mal testing. Activists took to the blogosphere and
+
+MANUFACTURING” example, Church & Dwight’s Arm & Hammer baking called on customers to switch to the cruelty-free and
+Frito-Lay installed solar soda has attributes that were just waiting to be lev- equally green Bob’s Red Mill baking soda. Although
+
+panels on its SunChips eraged. As green competitors emerged, and as cus- such complaints won’t necessarily reach or resonate
+factory. tomers demanded more environmentally friendly _ with all your customers, anticipating and heading
+PRODUCT choices, Arm & Hammer’s managers emphasized _ off criticism will strengthen your overall greening
+CSX markets rail as the
+
+_.its green credentiais, positioning the brand as “the _ efforts. Transparency in. claims and authenticity in
+
+most énvironmentaliy ~ ‘ : : s i : . ; par :
+friendly option for moving #2 environmentally sensible alternative for cleaning execution are important elements in the long-term
+freight. and deodorizing” and “committed to the environ- success of any green strategy.
+
+PACKAGING ment since 1846” The broader your brand portfolio, of course, the
+Sara Lee’s modified _ Other companies may have to work harder than more exposed you may be to activist and consumer
+Sat bonepuredinwa Church & Dwight did, but they can still harvest low- backlash. Most companies lack a green heritage;
+fewer truck trips a year. hanging green fruit. Consider how Britarepositioned __ their products were developed before sustainability
+wuxienne its water filters. A decade ago Brita’s sales were si- was a concern. So they must carefully gauge how
+COMMUNICATIONS phoned off by the rising popularity of bottled water, _ the rest of their portfolio will look by comparison
+Stihl points out that its which exploded into a billion-dollar business. But + with the accentuated product. Touting the green
+ha eniaiaten teres water bottlers attracted loud critics suchas the World _ attributes of some products inevitably prompts the
+than those required by Wide Fund for Nature and Corporate Accountability response “Great! But what about the rest of your
+the EPA. International, which condemned them for clogging _ offerings?” A big gulf between your green and non-
+
+82 Harvard Business Review South Asia | June 2010
+--- page 6 ---
+; OF M;
+‘ went? re Mey
+~ m
+sr
+
+ls ,PsTMeE
+(3h. ;
+{ws Lit
+LAS
+
+BRSASIA.ORG
+
+Idea in Brief
+
+Green growth is at the top An accentuate strategy is and how advanced your 7 be
+: involves highlighting existing green product development |...
+
+of many leaders agendas, green attributes in your capabilities are.
+
+but the way forward is rarely company’s portfolio. An For any of these paths, in
+alternative is to acquire understanding customers’ i
+
+clear. Here are three broad a green brand. If you expectations and com- 2
+
+product strategies that can have substantial product- petitors’ capabilities, and E
+
+. ‘ development skills and aligning offerings and <i
+
+align your green goals with assets, you can architect ressaging to prevent a5
+
+your capabilities. new offerings—build them charges of greenwashing, Es i
+from scratch. Which strategy _ are essential to success. aie
+is best depends on how &
+
+“greenable” your portfolio
+
+Low *. HIGH
+
+GREEN DEVELOPMENT CAPABILITIES
+
+Beware: Activists will not hesitate to point out
+greenwashing when they see it.
+
+green products can undermine your legitimate sus- PATH #2
+tainability claims. Acquire
+Consider BP’s troubled “Beyond Petroleum” re- If your portfolio has no obvious candidates for accens#
+branding effort. The company’s Helios logo andthe _ tuation, a good alternative is to buy someone else’s
+prominent solar panels on its service stations could green brand. Many high-profile green acquisitions
+not hide the fact that more than 90% ofitsrevenues have been made since 2000, including The Bi od
+came from oil. Fortune highlighted the disparity Shop by L’Oréal, Ben & Jerry’s by Unilever, and To ms
+when it wrote, “Here’s a novel advertising strategy— _ of Maine by Colgate-Palmolive. In such deals th
+pitch your least important product andignore your —_er’s channel and distribution capabilities ar
+most important one.” To avoid negative commen- expected to substantially broaden the green s
+tary like this, make sure your strategy aligns with customer base. Within a year after Unilever acqu
+customers’ perceptions. Ben & Jerry’s, for example, sales had increased yecorjations
+Brita did that well. Its managers were carefulin by 70% and Ben & Jerry’s had displaced Haéagen- Colgate approached Tom’s
+their initial communications not to claim that their Dazs as the leading premium ice cream brand. ildanies brisanbens i
+brand was a “green product” made by a “green com- The prospect of such robust growthis ofcourse 4. + partnershin rather
+pany.” They recognized that Brita filtercartridgeshad appealing, but managers who seek another compa- than a takeover.
+to be replaced every few months and werenot being _ny’s green assets should be mindful of two consider- company INDEPENDENCE
+recycled. Because the FilterForGood campaign was _ ations: Culture clash and strategic fit. Any merger or Unilever agreed to keep
+predicated on eliminating that kind of waste, the acquisition can stumble when company cultures col- Ben & Jerry's separate
+. . : ais, . eee from its U.S. ice cream
+managers realized that they needed a recycling solu- _ lide. In green acquisitions that have idealistic, icono- business, with an
+tion for the cartridges. They forged an approachin clastic founders and countercultural workforces,the independent board of
+collaboration with Preserve, which manufactures problem is exacerbated. Consider Groupe Danone’s_‘“irectors.
+products using recycled plastic, and with Whole _ takeover of Stonyfield Farm. When shareholders INTERNAL
+Foods Market to provide a solution that was simple _ forced Stonyfield’s founder, Gary Hirshberg, to sell, Sok dt tiie acca me
+: sos ome. e sas fom's ot
+for customers and highly visible. he spent two years compiling alist of conditions— employees that the
+“The filter recycling program builds on the suc- including rules about worker protection and envi- acquisition would help
+cess of Brita’s FilterForGood campaign,” the com- ronmental restrictions on business operations—to Se Tata wince
+pany announced—and went'on to share credit ensure that the company’s social mission would be sustainability principles.
+with its customers: “Now Brita users are making _ preserved. It took another two years to close the ESHuUEAAONE
+another positive impact by recycling Brita pitcher deal. By contrast, Unilever got aroundsomebutnot 4, joint press release from
+filters.” By accentuating the product’s green attri- all of the “founder challenges” at Ben & Jerry’s by _ Danone and Stonyfield
+butes and eliminating or mitigating its nongreen completing what was in effect a hostile buyout of bisa past iar bel
+- oer: . . on : i -
+elements, Brita enhanced the credibility ofits sus- the brand. This approach caused many activists to ° Se it tated
+
+way knowledge and talent
+tainability efforts. cry foul and deprived Unilever of the wholehearted __ transfer.
+
+Se
+
+dune 2010 | Harvard Business Review South Asia 83
+--- page 7 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS
+
+tile reactions in the’press. Such criticism may have
+limited impact on the bottom line, but it can dimin-
+ish the credibility of a company’s green efforts.
+Successful green brands are attractive targets be
+cause they have loyal customer bases and because #*
+they come with specialized knowledge about ecg of
+friendly innovation and manufacturing, sustainab]
+supply chain management, and green market de’ vi
+opment. Bill Morrissey, the vice president of envitc
+mental sustainability for Clorox, told us that Clon
+had not only growth but also knowledge transf erin
+mind when it acquired Burt’s Bees, which hi:
+decades of leadership in the green product sj
+
+Works has received a lot of press, but the details of
+Clorox’s strategy—which we studied from inside the }
+company—are less well known. The line of house- i
+hold cleaners emerged from a small skunkworks in j
+the Clorox Technical Center led by a handful of inde- |
+pendent and dedicated scientists. In less than a year i
+company researchers established the benchmark 4
+‘definition and best practices for a “natural” cleaning
+duct and proceeded to design a line of offerings
+would deliver the efficacy customers demand.
+g surprise came when the marketing team
+3h aped the original five Green Works products
+255), surface, all-purpose, bathroom, and toilet-
+wi ‘cleaners) to major distributors, including Wal- j
+
+support of the ice cream maker’s founders. Ben Insight was), but it now dominates the fast-growing :
+Cohen said, “Most of what had been the soul of Ben market for more-fuel-efficient cars. Toyota’s bold \
+& Jerry’s is not gonna be around anymore.” move to create a green brand has paid handsome H
+All acquisitions present myriad management dividends. The Prius towers over the Insight, its
+challenges, so the problems of integrating an idio- closest competitor, in market share. Its dominance
+syncratic green business may not seem like a big has so distracted consumers from rival brands that
+deal. But scrutiny by the green community may some Honda dealers complain of customers whe
+undermine the otherwise solid business benefits of walk into their showrooms and request a test-drive
+the acquisition. Even if product sales go well, sharp in the “Honda Prius.” Toyota has also successfully
+questions will most likely arise about the new par- transferred its hybrid expertise and green know-how
+ent’s green credentials. If the acquisition goes badly to other brands in its portfolio. In 2005 the company
+and sales tumble, not only is the value of the new became the first to establish green credentials in the
+asset diminished but—potentially even more dam- luxury-car space when it produced a hybrid version
+aging—the acquirer risks being accused of deliber- of the Lexus. Over time, Toyota’s luxury competitors H
+ately destroying a green competitor. Coke faced such were forced to follow suit. Mercedes-Benz and BMW i
+criticism after it bought Planet Java coffee drinks and recently introduced hybrid models to meet growing ;
+Mad River Traders teas and juices and then phased consumer demand and to establish their green cre- i
+them out two years later. dentials and capabilities, and Audi and Porsche will :
+An acquiring company’s actions may have an ad- soon do the same. i
+verse effect on the carefully crafted brand image of Clorox, too, in developing its Green Works clean- y
+the acquisition. For example, when Danone’s agree- ing products, shows how companies with limited i
+ment with Stonyfield about employee protection green expertise but substantial product develop- i
+ended, Danone sent out pink slips and met with hos- ment capabilities can architect a green brand. Green i
+
+PATH #3 NEW-PRODUCT Mart and Safeway. According to a Green Works man- {
+Architect DEVELOPMENT — ager, “The realistic part of our expectations was ‘Hey,
+F ies with a hi fi ion and — Toveta directed its if we get three or four SKUs, we'll happy?”
+
+or companies with a history of innovation and engineers to develop if we get three or four SKUs, we’ll be pretty happy’
+substantial new-product-development assets, ar- anew fuel-efficient and To the team’s delight, Wal-Mart wanted all five. Dis-
+
+chitecting green offerings—building them from cneievemmantally friendly tributors across the board asked for the entire Green
+age ' v withi ears. '
+scratch—becomes a possibility. Although architect- ° aii Works line and requested that the brand be extended
+
+ing can be slower and more costly than accentuating “wi, into other categories.
+or acquiring, it may be the best strategy for some Patagonia created a line of The development of Green Works induced Clo- i
+companies, because it forces them to build valuable _ products using a closed- rox to accumulate a range of new competencies, in- }
+
+competencies. Toyota took this route when it devel- top preaenn systemit cluding specialized knowledge about eco-conscious {
+oped the Prius. Although the company is currently eraae consumers’ preferences and expertise in the supply |
+addressing a raft of quality problems, the lessons of cioree Sead th chain for natural-product sourcing and procurement.
+its architect strategy still stand. The Prius was not the resoureea] Hii eepavie Through its deepened relationships with Wal-Mart
+
+first hybrid introduced in the U.S. market (the Honda’ Green Works business unit. and other distributors, Clorox quickly doubled the
+
+84 Harvard Business Review South Asia | June 2010
+--- page 8 ---
+To evaluate the fit of a given green product strategy, ask the following questions:
+
+Accentuate
+
+Which consumers in the . ) i Do we have environmental
+
+What’s our strategic goal? }
+
+* To leverage latent assets? category are looking for eening their existi mam skeletons in our-current
+
++ Revitalize existing greener products? am portfolio or business
+
+. brands? . model?
+
++ Broaden appeal to green Does our candidate brand C Ys g E
+customers? have “permission” to enter peeeeemme Vill our green claims
+
++ Gain green credibility? the green space? g be credible—or are we
+
+vulnerable to accusations
+
+Can we enhance the value of “greenwashing”?
+
+Are there potential green "
+of green in the category?
+
+brands in our portfolio?
+
+Do we have the resources
+and capabilities needed
+for this initiative?
+
+Can we sell the green o Do we have environ-
+
+brand to our current brand in: thé‘green ie: mental skeletons in
+
+customers? a our current portfolio or
+ee business model?
+
+What's our strategic goal?
+
+* To capture customers?
+
+« Bring in new green
+capabilities?
+
++ Broaden access to
+mainstream customers?
+
++ Gain green credibility?
+
+Will acquired customers
+view us as a credible e Will our green claims
+steward of the brand? Beet be credible—or are we
+
+f vulnerable to accusations
+
+'
+
+Which companies would : g : : of “greenwashing”?
+
+make attractive green ees Reale : x
+
+acquisitions? ene: i ose Does the proposed =
+ic 3 t = acquisition have an iconic
+
+Do we have the resources Fi e = founder, a countercultural
+
+and capabilities needed 3 ot a workforce, or some other
+
+for this initiative? g aspect that might create
+
+culture clash?
+
+Can we preserve the
+integrity—“the magic”—
+of the acquired brand?
+
+What innovations are ArEWEE i Do we have
+
+consumers looking for ig (evielsigee ieee environmental skeletons
+
+in a greener alternative? seers e. in our current portfolio or
+business model?
+
+What’s our strategic goal?
+
+* To create new green
+solutions?’
+
++ Develop unique com-
+petencies?
+
+« Respond to new market
+needs?
+
+Gain green credibility?
+
+Does our parent brand
+have “permission” to : Saat es Will our green claims
+enter the green space? S seine be credible—or are we
+333 vulnerable to accusations
+of “greenwashing”?
+
+Will this initiative require
+us to develop a new
+
+Will an independent
+' i“ brand?
+
+business unit be required?
+
+Will we need to educate
+and develop the market
+and bring new customers
+into the category?
+
+Te
+
+Do we have the resources
+and capabilities needed
+for this initiative?
+
+June 2010 | Harvard Business Review South Asia 85
+--- page 9 ---
+GROWING GREEN: THREE SMART PATHS TO DEVELOPING SUSTAINABLE PRODUCTS HBRSASIA.ORG
+
+size of the “green clean” mar-
+ket. Even niche brands such
+as Seventh Generation and
+Method benefited from its
+market development.
+
+Making Green
+
+Growth Happen
+
+With an understanding of the
+
+three paths to green growth,
+managers can begin to craft a
+strategy that suits their objec-
+tives and their business context.
+They should begin by evaluating
+each option: Is it feasible? Is it desir-
+
+able? How would it be implemented? Clo rox h ad n ot on ly growth b ut
+
+Feasibility. In this step companies
+
+take stock of their assets along two dimen- also knowledge transfe r i nm i nd
+
+sions: greenable attributes of their existing prod- ° o ; 9 :
+ucts and brands, and organizational green product wh en it acq ul red B u rt S Bees ° i
+and brand development capabilities. The first re- \
+quires a careful review of opportunities to promote
+
+brands’ green benefits. Of course, each product will be prepared for a low speed to market. Companies
+have its own category-specific attributes, ranging unwilling or unable to allocate major resources for.
+from recyclability to energy efficiency to reduced green initiatives will find accentuation the most
+toxicity. The Global Reporting Initiative’s list of attractive way to enter green markets. For others,
+more than 70 sustainability performance indicators, green growth may be part of an enterprisewide sus-
+at www.gri.com, is an excellent resource for manag- tainability initiative to retool operations, shift the
+ers. It can help them to identify less obvious green culture, and, ultimately, reposition the organization.
+features and benefits that are suited to an accentuate Implementation. This third step involves acting
+approach or to frame strategies and gauge capabili- on all the factors that affect successful execution. As
+ties required for an architect approach. outlined in the exhibit “Analyzing Growth Options,”
+
+The second dimension involves appraising the companies must align their green strategy with their
+company’s green resources and capabilities. This existing product portfolio and devote or develop the
+may include a broad review of the processes and pri- resources and capabilities needed to achieve their
+orities for innovation and new-product development, strategic goals. They must ensure that the strategy
+supply chain management, the coordination of and satisfies customers’ expectations and; when pos-
+collaboration among distributors, and even partner- sible, takes advantage of competitors’ green weak-
+ships with environmental organizations. nesses. Finally, they must address “red flag” issues
+
+Desirability. In this step, managers assess the that could undermine implementation.
+strategic fit of each option with the company’s ob- :
+jectives and the resources they can bring to bear on WHATEVER PATH you choose—accentuate, acquire,
+the green initiative. They need to consider speed to or architect—activists, customers, and the public
+market and the investments, reputation, and com- won't see your green initiatives as independent of
+petencies that the initiative will require. For example, your other activities and offerings. Rather, they will o
+an acquire strategy will deliver high speed to market view your efforts as part of the organization’s overall 8
+for a company setting out with low green creden- approach. That means the companies that ultimately E
+tials and low to medium green capabilities—but it succeed in growing green will be distinguished by s
+involves significant investment. A company choos- their commitment to corporatewide sustainability é
+ing an architect strategy must have high green capa- as well as the performance of their green products. 0 8
+bilities and medium to high green credentials—and HBR Reprint RI006G z
+
+86 Harvard Business Review South Asia | June 2010
+--- page 10 ---
+—,
+
+LJ asst oF MAN Gy ‘
+
+Looking at a change of Strat
+Looking to rejuvenate its overall business, Nokia on Friday uffwe a
+initiatives including partnership with Microsoft and an organisational rejig.
+
+The changes at the world’s largest mobilephone maker under its chief Stephen Elpo would
+also see revamp in executive leadership at various operations.
+
+“Nokia is at a critical juncture where significant change is necessary and inevitable in our
+journey forward. Today, we are accelerating that change through a new path, aimed at
+regaining our smartphone leadership, reinforcing our mobile device platform and realising
+our investments in the future,” Nokia President and CEO Stephen Elop said in a statement.
+
+With these moves, Nokia hopes to strengthen its business position amid rising competition
+from major rivals such as Apple and Google.
+
+Windows Phone as main platform
+
+Nokia would forge a “strategic partnership” with Microsoft, whereby the Finnish entity
+would make Windows Phone as its primary smartphone platform.
+
+With this step, Nokia’s own Symbian operating system would become a franchise platform.
+
+The Finnish firm noted that it expects to sell about 150 million more Symbian devices in the
+years to come. Further, the company’s MeeGo would become an “open-source, mobile
+
+operating system project".
+
+Meanwhile, from April 1, Nokia would have a new company structure with two distinct
+business units — Smart Devices and Mobile Phones.
+
+These units would focus on high-end smartphones and mass-market mobile phones.
+
+“Each unit will have profit-and-loss responsibility and end-to-end accountability for the full
+consumer experience, including product development, product management and product
+marketing,” the statement noted. ~*
+
+Smart Devices unit, responsible for smartphones, would be led by Jo Harlow. Further,
+Symbian Smartphones, MeeGo Computers and Strategic Business Operations would come
+under the new division.
+
+Markets unit would be responsible for selling products, sourcing, customer care,
+manufacturing, IT and logistics among others. This division would be helmed by Niklas
+Savander
+
+ee op tibet RO RE
+
+[% _
+
+“Ab
+--- page 11 ---
+In a bid to stem Nokia's losses, chairman Jorma Ollila poached Elop from Microsoft last year.
+The 47-year-old Canadian is the first non-Finn to head Nokia, which has been criticised for an
+inability to develop new products quickly. Elop said the deal with Microsoft would address this.
+
+Nokia said in a statement it would stick with its current management team, with only one senior
+executive set to leave and a reshaping of its North American team promised. There had been
+speculation of a wider cull at the company.
+
+(Reuters) - Nokia is set to cut thousands of jobs in Finland as part
+of the strategic overhaul which it unveiled on Friday, the chairman
+of the local labor union said on Friday.
+
+"It seems it means thousands of jobs in Finland," said Chairman Antti Rinne from white collar
+union Ammattiliitto Pro.
+
+Nokia's chief executive Stephen Elop confirmed to a press conference in London the company
+will cut jobs in Finland and elsewhere.
+
+"There will be substantial reductions in employment in various locations around the world, and
+that too will affect Finland," Elop said, adding it was too early to estimate how many jobs might
+be cut.
+
+The Finnish government said it was prepared to help people find new jobs.
+
+"This is the biggest structural reform which has ever impacted new technology in Finland,"
+Economy Minister Mauri Pekkarinen said in a statement.
+
+“Finland will remain our home," Elop told the press conference,
+
+Nokia and Nokia Siemens Networks employed some 132,000 people at the end of last year, of
+those 19,800 in Finland.
+
+More than 6,000 people work for Nokia's research and development in four Finnish cities.
+
+Apple working on smaller, cheaper iPhone: report
+
+(Reuters) - Apple Inc is working on a smaller and less expensive
+version of the iPhone, Bloomberg reported on Thursday, citing
+sources.
+
+The prototype device is about one-third smaller than the iPhone 4, the report said, citing a person
+who had seen it.
+
+Apple.has considered selling the new iPhone for $200 without a two-year wireless contract,
+Bloomberg reported. :
+
+Apple is aiming to unveil the device around the middle of this year, but the launch may be
+delayed or canceled altogether, the report said.
+
+Apple did not respond to a request for comment. ;
+The company often develops products it never brings to market.
+
+According to the report, Apple is also working on a dual-mode phone that would be able to work
+with the world's two main wireless standards.
+
+AT&T, which carries the iPhone on its wireless network in the United States, declined to
+comment. Verizon Wireless, which also carries the device, could not be reached for comment.
+
+Shares of Cupertino, California-based Apple closed down 1 percent at $354.54 on the Nasdaq
+on Thursday
+
+It
+IS
+--- page 12 ---
+ute oF “tte
+
+(Reuters) - Nokia and Microsoft teamed up on Kiddy, to build’ an)
+iPhone killer in a desperate attempt to take on dogle and Apple’
+the fast-growing smartphone market. %~ ca®
+Shares in the world's largest cellphone maker fell sharply on uncertain eerie
+
+impact of Nokia's new chief executive Stephen Elop's strategic u-turn which will use Microsoft's
+Windows Phone software in its smartphones.
+
+“It is now a three-horse race," said Elop, who was drafted in from Microsoft last September to
+turn Nokia around.
+
+The deal marks a major breakthrough for Microsoft which after years of struggling to establish
+itself in wireless will get its software into upwards of 30 million smartphones sold by Nokia every
+quarter.
+
+"To have the largest phone manufacturer in the world... it's fantastic, it's truly fantastic," Andy
+Lees, head of Microsoft's mobile business told Reuters in an interview.
+
+Nokia plans to use Microsoft's Bing search engine across its cellphones, opening up a huge
+market for Microsoft as it seeks to challenge Google as the world's leading search engine.
+
+The partnership will mean thousands of job cuts at Nokia around the world, with a dramatic
+reduction in research and development spending.
+
+Investors were unconvinced by Elop's new strategy and Nokia shares tumbled 10 percent after it
+said 2011 and 2012 would be "transition years," fuelling fears of a margin hit.
+
+Nokia said its operating margin in the phone business would be "10 percent or more" after the
+transition period. Analysts had expected margins to rise to 11.4 percent in 2012.
+
+"They have woken up...changes have to be made. | hope it's not too late," said Alan Lancz,
+president of Alan B. Lancz & Associates Inc, which holds Nokia stock.
+
+Nokia has rapidly lost share in higher-margin smartphones as Apple's iPhone, and products
+based on Google's Android platform, have revolutionized the market.
+
+Analysts said the Finnish company, which invested billions of dollars in building up mobile
+internet services under its previous CEO, had effectively admitted defeat in its services strategy
+by joining forces with Microsoft.
+
+Analysts said the partnership meant there was no longer any need for long-rumored takeover of
+Nokia by Microsoft since the U.S. firm had achieved its goal without the costs of a bid.
+
+An outright acquisition by Microsoft was "never really discussed as an option,” Elop said.
+
+Although Microsoft's Windows Phone platform, which had a 2 percent market share in the last
+quarter, is widely recognized by industry experts as a promising technology, it has not yet caught
+the imagination of consumers
+
+Nokia, which has struggled to create a rival to Apple's iPhone phenomenon, is now watching
+smaller competitors like HTC Corp and Motorola hook up their smartphones to Google's Android -
+software and lure customers around the globe.
+
+"This is a partnership born out of both parties’ fear of marginalization at the hands of Apple and
+Google but there is no silver bullet," said analyst Geoff Blaber from CCS Insight.
+
+Nokia's share of the smartphone market fell to 31 percent in the fourth quarter of 2010 from 38
+percent the previous quarter.
+
+"This is a very frank admission that Nokia's platform strategy has failed and underlines the
+seriousness of Nokia's position. Such a move would have been unthinkable just 12 months ago,"
+Blaber added.
+
+Ay
+--- page 13 ---
+Newsmaker: Nokia's Elop eyes Microsoft
+window of opportunity
+
+(Reuters) - Stephen Elop must know better than anyone exacily
+what Nokia is letting itself in for by jumping into the eager arms of
+Microsoft.
+
+Nokia's new chief executive, who this week described the world's largest cellphone maker as a
+"purning platform," has turned to his former employer for a deal to use Windows Phone as the
+software platform for Nokia's smartphones.
+
+So it was friends reunited when Elop shared the spotlight on Friday with former boss and
+Microsoft CEO Steve Ballmer to explain how the two giants have teamed up to take on Google
+and Apple in fast-growing smartphones.
+
+But behind the smiles and handshakes for the cameras, Elop faces a bitter battle, not only with
+Nokia's competitors but for the very heart and mind of the company itself.
+
+“I'm here to fight," Elop told investors at the briefing.
+
+Elop was drafted in from Microsoft in September to halt Nokia's decline. As president of
+Microsoft's Business Division and a member of its team responsible for overall strategy, he was
+hired for his software know-how.
+
+The 47-year-old Canadian became the first non-Finn to head Nokia in its 145-year history, a sign
+of how desperately Nokia needs to transform itself to claim back market share and the innovative
+edge it has lost to Apple and other rivals.
+
+Elop has impressive Silicon Valley credentials, and much of his experience should stand him in
+good stead at Nokia. But the Microsoft deal means that he will now have to turn his attention to
+the hardware Nokia produces rather than the programing that has become so crucial to the
+success of smartphones.
+
+After graduating in computer engineering and management from Canada's McMaster University,
+he had a spell as chief information officer of restaurant chain Boston Chicken.
+
+Elop got back on track with seven years at Macromedia. The San Francisco-based software
+house produced Web design tools beloved of Apple developers. Macromedia made the Flash
+video software that powered the rise of YouTube, and Dreamweaver, widely used to build
+websites.
+
+It successfully pushed to get Flash into mobile devices, winning over every handset maker and
+service provider including Nokia. Adobe bought Macromedia for $3.4 billion in 2005.
+
+When it was plain he was not going to become the next Adobe CEO, Elop wasted little time in
+moving to Juniper Networks as COO, and then on to Microsoft to run its business division -- a
+$19 billion operation that includes Microsoft's Office software and is the largest of the company's
+five divisions.
+
+While Elop did not develop a public profile there, Ballmer has praised him as a solid leader
+during the recession.
+
+Importantly, he helped steer the company toward online versions of programs such as Word,
+Outlook and Excel, which users could access from anywhere, including mobile devices.
+
+That was a tough transition for Microsoft, whose fortune is founded on software installed on
+desktop computers. The company announced a tie-up with Nokia a year ago as part of this drive
+
+Ay
+--- page 14 ---
+nt
+
+i>
+Bf GU RS
+
+‘oyoia Prius: A Case in New Product Development
+Source: http://www. icmrindia.org/casestudies/catalogue/Marketing/MKTG118.htm
+
+The case focuses on the world's first mass
+produced hybrid passenger car - Prius -
+manufactured by the world's second largest
+automaker Toyota Motors.
+
+The case explains the new hybrid technology used
+in the car.
+
+It also looks for the reasons for the success of the
+original Prius in the Japanese market and of the
+subsequent models of the Prius launched in the
+US and other markets.
+
+The strategies for marketing the product in the US
+are also analyzed.
+
+,
+
+Introduction
+
+In December 1997, Toyota Motor Corporation
+(Toyota) of Japan launched its hybrid vehicle
+Prius in the Japanese market. This was one of the
+first mass-produced hybrid vehicles in the world.
+It used the Toyota Hybrid System (THS), which
+combined an internal combustion engine fueled by
+gasoline with an electric motor.
+
+Prius achieved a balance between high mileage
+and low emissions and was the upshot of the
+company's initiative to produce environment-
+friendly automobiles and its goal of
+manufacturing the "Ultimate Eco Car'(Refer
+Exhibit I for the Ultimate Eco Car goal of
+Toyota). The Prius generated a lot of enthusiasm
+in the industry as it was both efficient and stylish.
+
+Yo
+--- page 15 ---
+It was also a safe car. The car conformed to Japanese regulations and standards pertaining to
+environmental pollution. Having sold more than 100,000 units worldwide by 2002, it was the
+best selling hybrid car model in the world.
+
+The company introduced further refined models in 2000 and 2003. Toyota introduced Prius in the US
+market in 2000. Before entering, Toyota conducted a research study of the US market and consumer
+preferences there. It developed various strategies specifically for this market based on its research
+findings. The price of the new improved Prius was unchanged from that of the original Prius.
+
+These initiatives helped Prius to break successfully into the tough US market even though it was based
+on a new concept of a hybrid car. In 2001, the Automotive Engineering International’ recognized rius as
+the ‘world's best engineered passenger car
+
+introduction Contd...
+
+By 2002, it was being sold in North America, Japan, Europe, Hong Kong. Australia and
+Singapore. Analysts opined that the demand for hybrid cars would rise because of the unstable
+oil prices and the growing need for environment friendly products.
+
+Commenting on the future of green technologies and on Prius in particular, Chris Giller of
+Grist.org* said, “In the marketplace, green technologies and industries are among the fastest
+growing and most innovative developments. :
+
+The Toyota Prius has defied every prediction to become the must-have car. The organic food
+business doubles every time you blink. Green architecture is taking off.
+
+Renewable energy, emissions trading, environmentally-conscious investing: many of the most
+exciting advances in environmental thinking are happening in the private sector.”
+
+Background Note
+
+Toyota
+
+Toyota's history goes back to 1897, when Sakichi Toyoda (Sakichi) diversified into the textile
+machinery business from his traditional family business of carpentry. He invented a power loom
+in 1902 and founded the parent organization of Toyota, the Toyoda Group, in the same year. In
+1926, Sakichi invented an automatic loom that stopped operating when a thread broke.
+
+This prevented the manufacture of imperfect
+cloth. (Calling attention to problems and
+rectifying them at the earliest later became an
+important part of the Toyota Production System
+
+ee
+--- page 16 ---
+In the early 1930s, Kiichiro convinced his father to launch an automobile business and in 1933,
+Sakichi established an automobile department within TALW. The first passenger car prototype
+was developed in 1935. In 1936, Sakichi sold the patent rights of his automatic loom to a
+company in England to raise money to set up a new automobile business...
+
+Excerpts
+Hybrid Cars
+
+Ferdinand Porsche manufactured the first hybrid-electric car in 1898. In the 1960s a few attempts were
+made to manufacture hybrid cars by applying turbine engines to the production of the vehicles. A
+turbine-powered race car was introduced in 1967 with the turbine engines powering the wheels through
+a mechanical transmission.
+
+The need for cleaner and more efficient vehicles led
+to the development of hybrid vehicles in the 1970s. In
+1970, a program called the Federal Clean Car
+Incentive (FCCI) was started by the US government.
+This program led to the development of a hybrid
+prototype in 1972.
+
+The program was scrapped in 1976 by the
+Environmental Protection Agency (EPA) of the US. In
+1993, another program called the Partnership for a
+New Generation of Vehicles (PNGV) was launched in
+the US. The partners in the program: Chrysler, Ford,
+GM, and a few governmental agencies, developed
+hybrid prototypes but never commercialized them...
+
+Knowledge Management at Toyota
+
+Nee
+--- page 17 ---
+According to analysts, Toyota's success in both the local and global markets was based on its gaining a
+competitive advantage through implementation of innovative and path-breaking ideas on its production
+floors. Toyota had focused on learning from the very beginning.
+
+At Toyota, knowledge sharing was intertwined wit
+
+ito as the
+
+es that summed up
+
+zen
+
+{improvement}, Genchi Genbutsu (go and see},
+
+Respect and Teamwork.
+
+The Toyota Way recognized employees as the
+
+company's strength and attached great importance to
+
+developing human abilities through training, coaching
+
+and mentoring. The principles of “Respect for People”
+
+and “Continuous Improvement” were at the core of
+the Toyota Way. Most experts agree that the TPS
+system at Toyota worked by combining its explicit ,
+
+implicit and tacit knowledge...
+
+The Original Prius
+
+The original Prius was powered by the THS. The THS was an advanced version of the EMS. THS is a power
+train that combined an internal combustion engine and an electric motor. It was based on the
+series/parallel hybrid system. It contained a power split mechanism that divided and sent power
+through two passages...
+
+Excerpts Contd...
+The First Generation Prius
+
+In 2000, Toyota introduced its first generation model of the Prius in the US, Europe and other markets.
+This model was also called Prius NHW11 or Prius Classic. A few modifications were made to the vehicle
+to meet vehicle standards for California, USA. Modifications were made to the engine by increasing the
+horsepower from 58 to 72...
+
+Marketing the First Generation Prius in the US
+For Toyota, marketing the first generation Prius in the
+US was a challenge. Commenting on the launch of
+
+Prius in the US market, Senior Vice President and
+General Manager of Toyota Motor Sales, Don Edmond
+
+We
+--- page 18 ---
+\TUTE OF May,
++ TN hy,
+My
+
+% is
+(Edmond) said, “Frankly, it was one of the biggest 7
+crapshoots I've ever been involved in. Not because we
+lacked confidence in the quality of the product. Or the
+logic of the concept. Or the significance of this
+breakthrough technology. The key was to convince
+consumers in the U.S. that hybrid technology was
+
+more than a science project...
+
+The Second Generation Prius
+
+Toyota began evaluating the popularity of its first generation Prius in the market soon after it was
+launched. The evaluation was based on the price, performance and social aspects of the product as seen
+by buyers and potential customers...
+
+The Testing
+
+The most important feature of the new Prius was its enhanced safety. The company had worked
+toward child safety and reducing the impact of collisions to a remarkable degree...
+
+Outlook
+Toyota expected higher demand for the new Prius than the earlier versions. Edmond said, “We
+
+are targeting a sales volume of 36,000 for the first full year. That's three times our sales target for
+Prius (original) when it launched in the U.S.”...
+
+Ho
+````
+
+## 2009-10 · Exam not stated · Trim 15 · paper 1f24657b47e2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/2009-2010(158).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (1 page), mean OCR confidence 90.4
+
+````text
+SVKM™M’ S NMIMS
+
+Mukesh Patel School Of Technolo;
+ear MBA (Tech) : XV Trimester
+Academic Year ::::_ 2009-2010
+
+Prod Pranab.
+
+Instructions :
+1. Answer any FIVE questions.
+2. All Questions carry equal marks.
+3. Answers should be precise, pertinent and to the point.
+
+Sub: NEW PRODUCT DEVELOPMENT Dak : 08 / 4 / lo
+‘Feta Marks : 50 Time: 2Hours (2.00 pos 00 poo)
+
+1. “Commercial Success of New Products is not guaranteed by R & D efforts &
+expenditure .”
+a) How will you position the new Product ?
+b) How will you maintain ‘enhance your market standing throu’ NPD ?
+
+c) What should be NPD strategy in a competitive maket with capability
+differences ?
+
+2. a) Describe seven keys to successful Product Transfer .
+b) What is PRIDE & its significance in NPD ?
+
+3.a) Discuss Box-Behken approach to “Design of Experimentation .”
+b) Discuss in detail the Product Life Cycle Stages.
+
+4. a) What is Stage Gate Methodology ? Give some examples for use of same. 6
+b) How do you maintain Time & Cost Schedule in NPD ?
+
+.5.a) List the steps to carry out financial estimate of the Value & Cost of New
+Product Project.
+
+b) Compare various Economic Measures to establish financial viability & their
+relative importance.
+
+6. Write short notes on the following ::
+a) Front End Loading
+b) Importance of Industrial Design
+c) Attributes & Role of Champion
+````
+
+## 2008-09 · Exam not stated · Trim 15 · paper e561d4edffff
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/2008-2009(162).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 91.4
+
+````text
+) F os -
+
+t Bray
+
+SVKM’S NMIMS UNIVERSITY Vy
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING Sy
+MUMBAI/SHIRPUR bsp se gt ®
+
+MBA-TECH Programme(with stream)2008-09 Year =
+Trimester XV,2008-09
+
+Subject :New Product Development Max .Marks:50
+Date: QQ-O4 ~-OF4 Time Allowed:2 hrs
+Il-@o -1-Qo Pp ~
+
+Instructions :Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+(1)Total No of questions SEVEN
+
+(2)Question no 1 and 2 are compulsory
+
+(3)Attempt 3 questions out of questions 3 to 7
+
+(4)In all 5 questions to be attempted
+
+(5)Answer to each new question to be started on a fresh page
+
+Ql 10 Marks-1 Mark for each
+
+(A)The first step in New product development process is
+
+a. Idea generation.
+
+b. Idea screening.
+
+c. Marketing strategy.
+baad d. Test Marketing.
+
+e. Product development.
+
+(B) One of the causes of New Product failure is
+
+a. Excessive spend on NPD.
+
+b. Overestimation of Market size.
+
+c. Selecting a large team.
+
+d. Taking longer time for NPD.
+
+e. Incorrect time start for the NPD project.
+
+(C)One of the key functions for NPD
+
+a. Sales.
+b. Design.
+c. Finance.
+--- page 2 ---
+dIT.
+e. HRD.
+
+(D) DFM (Design for Manufacturability) results in
+a. Lower Development cost.
+b. Higher quality.
+c. Botha &b.
+d. Neither a & b.
+e. Cannot tell without more information.
+
+(E)In QFD the third house of quality is between
+
+a. Customer attributes and Design attributes.
+
+b. Component attributes and Process operations.
+c. Design attributes and quality control plan.
+
+d. Process operations and component attributes.
+e. Design attributes and component attributes.
+
+(F) The roof of 1* house of quality shows relationship between
+
+a. Design attributes and Design attributes.
+
+b. Customer needs and Design attributes.
+
+c. Customer perceptions and Design attributes.
+
+d. Customer needs and Engineering measures.
+
+e. Customer perceptions and Engineering measures.
+
+(G)The origin of supply chain management is
+
+a. Distribution.
+
+b. Inventory Management.
+c. Sourcing.
+
+d. Purchasing.
+
+e. Quality Control.
+
+(H) Supply Chain Management includes
+a. Quality Control.
+b. Manufacturing process.
+c. Botha and b.
+d. Neither a/Nor b.
+e. Insufficient information.
+
+(DIn collaborative PPD,the common pitfalls are
+
+a. You choose wrong partners.
+
+PTO
+
+)
+--- page 3 ---
+OO __
+
+A
+
+ES
+
+b. You choose a team that cannot work effectively.
+c. Bothaand b.
+
+d. Neither a/Nor b.
+
+e. Need more information.
+
+(D @)In concept generation phase, the 3 step is
+
+a. Search internally.
+
+b. Search externally.
+
+c. Clarify the problem.
+
+d. Explore systematically.
+
+e. Reflect on the solutions and the processes.
+
+Q.2.What is QFD?
+Prepare a complete house of quality(1* house only) for Mobile phone .Consider 5
+Customer attributes and 6 Technical attributes........ 10 Marks
+
+Answer any 3 questions out of Q.3 to Q.7(each question 10 marks-Total 30 Marks)
+
+Q.3 Why is collaborative product development better than product development within a
+single company? What are the pitfalls that need to be avoided in collaborative product
+development?
+
+Q.4 Describe the different teams critical to the process of New Product Development.
+Write in detail about the responsibilities associated with each team.
+
+Q.5 Describe in detail the product life cycle stages.
+
+Q.6 Write short Notes on
+a)Product Data Management
+b)Voice of Customer
+
+Q.7 Write short Notes on
+a)Bullwhip effect
+b)Importance of Industrial design
+
+xf x
+
+Rereemnntineeinconeniemeeeesmmmmnnmniiecenciadl
+--- page 4 ---
+rs
+
+b. You choose a team that cannot work effectively.
+c. Bothaand b.
+
+d. Neither a/Nor b.
+
+e. Need more information.
+
+(D (())In concept generation phase, the 3 step is
+
+a. Search internally.
+
+b. Search externally.
+
+c. Clarify the problem.
+
+d. Explore systematically.
+
+e. Reflect on the solutions and the processes.
+
+Q.2.What is QFD?
+Prepare a complete house of quality(1* house only) for Mobile phone .Consider 5
+Customer attributes and 6 Technical attributes........10 Marks
+
+Answer any 3 questions out of Q.3 to Q.7(each question 10 marks-Total 30 Marks)
+
+Q.3 Why is collaborative product development better than product development within a
+single company? What are the pitfalls that need to be avoided in collaborative product
+development?
+
+Q.4 Describe the different teams critical to the process of New Product Development.
+Write in detail about the responsibilities associated with each team.
+
+Q.5 Describe in detail the product life cycle stages.
+
+Q.6 Write short Notes on
+a)Product Data Management
+b)Voice of Customer
+
+Q.7 Write short Notes on
+a)Bullwhip effect
+b)Importance of Industrial design
+
+a x
+````
+
+## 2008-09 · Re-Exam · Trim 15 · paper dec37363a0b4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/NEW PRODUCT DEVELOPMENT/2008-2009 batch re exam(10).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 92.0
+
+````text
+SVKM’S NMIMS_ UNIVERSITY |
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAG!
+ENGINEERING
+MUMBAI/SHIRPUR
+MBA-TECH Programme(with stream)2008-09 Year <
+
+Trimester XV,2008-09 | Po 2 yOvrr
+
+Subject :New Product Development Max .Marks:50
+Date: 1S -0 6- 3) q Time Allowed:2 hrs
+
+2-0 aa OO pr
+Instructions :Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+(1)Total No of questions SEVEN
+
+(2)Question no 1 and 2 are compulsory
+
+(3)Attempt 3 questions out of questions 3 to 7
+
+(4)In all 5 questions to be attempted
+
+(5)Answer to each new question to be started on a fresh page
+
+Ql 10 Marks-1 Mark for each
+
+(A)The roof of 1* house of quality shows relationship between
+
+a. Design attributes and Design attributes
+
+b. Customer needs and Design attributes
+
+c. Customer perceptions and Design attributes
+
+d. Customer needs and Engineering measures
+
+e. Customer perceptions and Engineering measures
+
+(B)The function responsible for initiation of NPD is
+a. Marketing
+b. Design
+c. Finance
+d. IT
+e. HRD
+
+(C)The last step in New product development process is
+
+a. Idea generation.
+b. Commercialization.
+
+PTO
+--- page 2 ---
+c. Marketing strategy
+d. Test Marketing.
+e. Product development
+
+(D) DFM (Design for Manufacturability) results in
+
+a. Lower Development cost
+
+b. Higher quality
+
+c. Botha&b
+
+d. Neither a &b
+
+e. Cannot tell without more information.
+
+(E)One of the causes of New Product failure is
+
+a. Excessive spend on NPD.
+
+b. Overestimation of Market size.
+
+c. Selecting a large team
+
+d. Taking longer time for NPD
+
+e. Incorrect time start for the NPD project.
+
+(F)In QED process the second house of quality is between
+
+a. Customer attributes and Design attributes
+
+b. Component attributes and Process operations
+c. Design attributes and quality control plan
+
+d. Process operations and component attributes
+e. Design attributes and component attributes.
+
+(G)The origin of supply chain management is
+
+a. Distribution
+
+b. Inventory Management
+c. Sourcing
+
+d. Purchasing
+
+e. Quality Control.
+
+(H) Supply Chain Management includes
+
+a. Quality Control
+
+b: Manufacturing process
+c. Botha andb
+
+d. Neither a/Nor b
+
+e. Insufficient information
+
+PTO
+--- page 3 ---
+a,
+
+(DIn collaborative PPD,the common pitfalls are
+
+a. You choose wrong partners
+
+b. You choose a team that cannot work effectively
+c. Bothaandb
+
+d. Neither a/Nor b
+
+e. Need more information
+
+(J)In concept generation phase,the 2 step is
+
+a. Search internally
+
+b. Search externally
+
+c. Clarify the problem
+
+d. Explore systematically
+
+e. Reflect on the solutions and the processes.
+
+Q.2. What is QFD?
+Prepare a complete house of quality(1* house only) for Mobile phone .Consider 5
+Customer attributes and 6 Technical attributes........ 10 Marks
+
+Answer any 3 questions out of Q.3 to Q.7(each question 10 marks-Total 30 Marks)
+Q.3 What is New Product Development ?Write in detail about New Product development
+Process?
+Q.4 What is Voice of customer? Describe the benefits of Voice of customer.
+Q.5 Describe in detail the product life cycle stages. ©
+Q.6 Write short Notes on
+a)Product Data Management
+b)Role of Marketing for every stage of NPD.
+Q.7 Write short Notes on
+
+a)Bullwhip effect
+b)Importance of Industrial design
+````

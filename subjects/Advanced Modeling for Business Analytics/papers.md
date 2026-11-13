@@ -1,0 +1,1389 @@
+# Advanced Modeling for Business Analytics: question papers in full
+
+6 unique papers · 2022-23 to 2025-26 · Data Science
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 5 · paper 2b7cb4737052
+
+- Departments: Data Science
+- Programmes: B TECH / CSE Data Science (311)
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Modeling for Business Analytics, Sem-V, Year 2025-26, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
+- Text: ocr (2 pages), mean OCR confidence 85.7
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: IlI/Semester V(Exam Year: 2025-2026)
+Subject: Advanced Modeling for Business Analytics
+Date: 24 Nov 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+
+Max. Marks: 100
+
+« 4
+
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. Figures on the right hand side indicate full marks
+6. Assume suitable data, if neccessary, use of calculator is allowed
+
+er [20]
+
+Answer briefly:
+
+a. Three urns are there containing white and black balls; first urn has 3 white
+
+and 2 black balls, second urn has 2 white and 3 black balls and third urn has
+CO- 2; 4 white and 1 black balls. Without any biasing one urn is chosen from that | 5
+as one ball is chosen randomly which was white. What is probability that it
+
+came from the third urn?
+
+CO- 2; b. Explain measures of Central Tendency in detail 5
+
+SO- 6 .
+
+ie ¢. Discuss estimation of population parameters 5
+
+Co- 4; d.
+
+SO- 4; Explain Distance and dissimilarity measures used in clustering 5:
+
+Q Explain Descriptive, Prescriptive and Predictive Analytics in detail with
+
+CO-1: [20]
+oer suitable examples of each
+
+SO- 5;
+
+Q3 Explain in brief Multiple Linear Regression and Logistic Regression in detail
+
+CO-4; SO- . [20]
+
+4 with examples
+
+Q4 Discuss Challenges in Data Driven Decision Making in detail and elaborate
+
+CO-1; SO- [20]
+
+3 one framework for Data Driven Decision Making in detail
+
+Q5 . Ex Summarize on topics: 4
+
+CQ-2; SO- ; [20]
+
+5 Measures of Variation, Measures of shape, Data visualization plain
+
+FRR RRR
+--- page 2 ---
+Q6 Explain estimation of parameters using ordinary least squares and also
+
+CO-4; SO- : [20]
+2 explain the concept of Simple Linear regression \
+
+Q7 Central Limit Theorem and its importance. Also elaborate in detail :
+CO-2; SO- me [20]
+4 probabilistic sampling
+
+FI ISG 2 i doi ci kok
+
+.
+````
+
+## 2024-25 · Final-Exam · Sem 5 · paper ccf33007c971
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE DATA SCIENCE/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Business Analytics in Python and R, Sem-V, Final Exam 2024-25.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 6/12/2024
+- Text: ocr (3 pages), mean OCR confidence 89.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERS ‘
+SCHOOL OF TECHNOLOGY MANAGEMENT ,
+Academic Year: 2024-2025
+Program: B. tech , Year: III Semester: V
+Stream: CSE DS
+
+¥
+
+Subject: Advanced Business Analytics in Python and R Time: 3 hrs (2PM to SPM)
+Date: 6/12/2024 No. of Pages: 3
+Marks: 100
+
+Final Exam 2024-25
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use. 7
+~*
+
+1) Question No. _1___is compulsory. Tey
+2) Out of remaining questions, attempt any __‘ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Ql
+Answer briefly: * [20]
+
+CO- 1; a. .
+
+a 1; State differences between vectors and lists in R, with the help of examples? [5]
+
+Remember
+
+CO- 2; b.
+
+a 2; Explain the concept of Type | error with the help of an example? [5]
+
+Understand
+
+CO- 3; CG:
+SO- 3; What is multicollinearity? How to detect and resolve it? [5]
+
+BL- Apply
+
+CO- 4; d.
+
+ee 4; Write down only the steps to solve KNN Regression? [5]
+
+Analyze
+
+Q2 Implement the following using Python on the dataset named as diabetes.csv: [20]
+CO-2;
+--- page 2 ---
+SO-2; a. Handle missing values and transform categorical variables? [8} ;
+
+BL- b. Scale numerical variables using Standard Scaler and implement KNN
+
+Evaluate ,
+Classifier and Naive Bayes Classifier. Also, mention which one is
+performing better? [12]
+Implement the following in Python/R by using the two lists named as actual and
+predicted:
+Q3 actual =[1, 0, 1,0, 1, 1, 0,0, 1, 1]
+predicted = [1, 0, 0, 0, 1, 1, 1, 6, 1, 0]
+CO-5; [20]
+SO-5;
+BL- Create a. TP, TN, FP, FN (use formulae) [10]
+b. Recall, Precision, F1 - Score (use formulae) [6]
+c. Sensitivity, Specificity (use“formulae) [4]
+Q4 =
+as Explain the concept of agglomerative and divisive clustering algorithms, in [20]
+BL- ; detail? Also, write down the advantages and disadvantages?
+Understand
+Solve the following in either Python or R:
+a. A company claims that the average time its‘customers spend on its website
+Is 8 minutes per session. A competitor believes that the actual average time
+Is different. You collect a sample of 50 sessions, and the sample mean time
+as Is 7.5 minutes with a sample standard deviation of 1.2 minutes. Use a
+oe Significance level of 0.05 to test if there is enough evidence to reject the [20]
+BL- Apply company's claim. [10]
+b. A cali center receives an average of 10 customer calls per hour. The
+manager wants to find out the probability of receiving exactly 7 calls in an
+Hour. Use the Poisson distribution to calculate this probability. [10]
+Q6
+CO-3;
+SO-3; What is overfitting? Describe several techniques to overcome overfitting? [20]
+BL-
+Understand
+--- page 3 ---
+Q7 ¥
+CO-4; What is dimensionality reduction? Explain Principal component analysis? State
+SO-4; ‘
+BL-
+Understand
+
+[20]
+
+its advantages and disadvantages?
+
+oa
+````
+
+## 2023-24 · Exam not stated · Sem 5 · paper c524324c26af
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE DATA SCIENCE/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Modelling for Business Analytics, Sem-V, Year 2023-24.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (8 pages), mean OCR confidence 72.3
+
+````text
+Mp
+
+/
+
+I ‘BRA ; at
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
+Academic Year: 2023-2024 :
+
+Program:B. Tech Stream CSE DS Year: I Semester: Vo
+Subject: Advanced Modelling for Business Analytics Time: 3 hrs (2-00 pm_to 5:00 pm_)
+Date: 05fo2]2024 , No. of Pages: 4
+Marks: _ 100
+
+_ Re +Examination
+
+instructions: Candidates shouid read carefully the instructions printed on the auestion paper and on the cover
+of the Answer Book, which is provided for their use.
+
+> 1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. .
+
+Ql
+Answer briefly: [20]
+a. | A brokerage survey reports that 30% of individual investors have used a
+C02: “iscount broker. In a random sample of 9 individuals, what is the probability
+> at
+oh i) Exactly two of the sampled individuals have used a discount broker °
+ii) Not more than three have used a discount broker
+iii) At least three of them have used a discount broker. ‘
+a b. | A data firm records a large amount of data. Historically, .9% of the pages of
+Col ‘data recorded by the firm contain errors. If 200 pages of data are randomly
+CO2-; 5 ; 5
+SO1- 2 i) What is the probability that six or more.pages contain errors? >
+BL-l. ii) What is the probability that more than 10 pages contain errors?
+iii) What is the probability that none of the pages contain errors?
+iv) What is the probability that fewer than five pages contain errors?
+Col, c. | Suppose that 47% of all Americans have flown in an airplane at least once
+CO2- ; and that 28% of all Americans have ridden on a train at least once. What is 5
+SO-1 ; the probability that a randomly selected American has either ridden on a train
+BL-1 or flown in an airplane?
+CQ2- ; d. | According to a survey published by ComPsych Corporation, 54% of all
+SO1-; workers read e-mail while they are talking on the phone. Suppose that 20% of | 5
+
+BL-6 those who read e-mail while they are talking on the phone write personal “to-
+--- page 2 ---
+do” lists during meetings. Assuming that these figures are true for all
+workers, if a worker is randomly selected, determine the following
+probabilities: ¥
+i) The worker does not write personal “to-do” lists given that he
+reads e-mail while talking on the phone.
+ii) The worker does not write personal “to-do” lists and does read e-
+
+mail while talking on the phone
+
+Q2
+C02,
+CO3-;
+sol,
+SO3-;
+BL-1, 5
+
+b)
+
+c)
+
+A Psychologist wanted to compare two methods A and B of teaching. He
+selected a random sample of 22 students. He grouped them into 11 pairs so
+that the students in a pair have approximately equal scores on an intelligence
+tests. In each pair one student was taught by method A and the other by
+method B and examined’after the course. The marks obtained by them are
+tabulated below
+
+Pair | 1 2 3 4 5 6 7 8 9 10 | 11
+
+A 24 (29 |19 |14 |30 {19 {27 {30 | 20 | 28 | 11
+
+B 37 135 [16 |26 | 23 |27.,19 |20 |16 {11 | 21
+Find the rank correlation coefficient. :
+
+A leading business magazine reports that 51% of the hedge fund managers
+expected revelations of ‘failure & scandal’ to hit their industry in a certain year.
+Assume that this statistic is based on a random sample of 100 hedge fund
+managers. Construct a 99% confidence interval of all hedge fund managers
+who held this belief.
+
+In a population with standard deviation of 10.88, what sample size is needed
+to estimate the population mean within +-0.9 with 99% confidence?
+
+10
+
+5
+
+Q3
+
+CcO2,
+CO3,
+CO04-;
+SO1-;
+BL-4
+
+a)
+
+b)
+
+The Statistical Abstract of the United States published by the U.S. Census
+Bureau reports that the average annual consumption of fresh fruit per person
+is 99.9 pounds. The standard deviation of fresh fruit consumption is about 30
+pounds. Suppose a researcher took a random sample of 38 people and had
+them keep a record of the fresh fruit they ate for one year.
+
+_i) What is the probability that the sample average would be less than 90
+
+pounds? _ :
+
+ii) What is the probability that the sample average would be between 98 and
+105 pounds?
+
+iii) What is the probability that the sample average would be less than 112
+pounds?
+
+iv) What is the probability that the sample average would be between 93 and
+96 pounds?
+
+A regional survey of 560 companies asked the vice president of operations
+how satisfied he or she was with the software support received from the
+computer staff of the company. Suppose 33% of the 560 vice presidents said
+they were satisfied. Construct a 99% confidence interval for the proportion of
+
+10
+--- page 3 ---
+a
+
+the population of vice presidents who would have said they were satisfied *
+with the software support if a census had been #
+
+Q4
+C02,CO3
+-; SO1-;
+BL-2
+
+a)
+
+b)
+
+The following table gives the aptitude test scores and productivity indices of
+10 workers selected at random
+
+Aptitude | 60 62 65 70 72 48 53 2B 65
+index X ,
+
+Producti | 68 60 62 80 85 40. | 52 62 60
+vity :
+Index Y
+
+Calculate the regression equation and estimate the productivity index of a
+worker whose test score is 9. Find the coefficient of determination and
+
+interpret?
+
+Use the values in the contingency table to solve the equations given.
+
+D E F G
+
+Al 319 ],7 | 12
+B| 8} 4]16 4] 4
+
+C110) 5 | 3 7
+
+c. P(B)=
+a. P(OFOA)= d. P(EM F) =
+b. P(AJB) = e. P(D|B)=
+
+10
+
+10
+
+Q5
+col,
+CO2-;
+Sol,
+SO3-;
+BL-3
+
+b)
+
+A supermarket divided into five main sections — grocery, vegetables,
+medicines, textiles and novelties recorded the following sales in 2021, 2022,
+2023.In 2021, sales in grocery, vegetables, medicines and novelties were Rs.
+625000, Rs. 220000, Rs. 188000 and Rs. 24000 respectively. °
+
+Textiles accounted for 30% of the tota! sales during the year. In 2022 the total
+sales showed 10% increase over the previous year. While grocery and
+vegetables registered 8% and 10% increase over the corresponding figures in
+2021, medicines dropped by Rs. 13000, textiles stood at Rs. 536000.
+
+In 2023, though the total sales remained the same as in 2022, grocery
+declined by Rs. 22000, vegetables by Rs. 32000, medicines by Rs. 10000 and
+novelties by Rs. 12000.
+
+Calculate phi coefficient for the following data X: Gender 0= Male 1 =
+Female Y: Ownership of Property 0=No ownership 1 = Ownership
+
+10
+
+10
+--- page 4 ---
+x 1 o 1 1 0 0 0 0 1 1 1 0
+Y 0 1 0 7 1 1 0 1 0 0 4.1
+
+A firm manufactures three products A, B and C. Time to manufacture product | 10
+A is twice that for B and thrice that for C and if the entire labor is engaged in
+
+a) making product A, 1600 units of this product can be produced. These products
+p
+are to be produced in the ratio of 3:4:5. There is demand for at least 300, 250
+and 200-units pf products A, B and C and the profit earned per unit is ¥90, 240
+and 230 respectively. Formulate the problem and find maximum profit
+Raw Requirement per unit of product (Kg) Total
+Material Availabilit
+“ 2 Cody Cegs)
+Q6 P. 6 5 2 5000
+col, Q 4 7 3 6000
+Cco2,
+CO3-;
+SO1-; The manager of a transport company engaged in pick and drop of crew
+BL-1 members of Jet Airlines wants to know the weekly distances covered by its
+b) | fleet of 40 cars. The mileage recorded for the last week yielded the following
+data. Calculate standard deviation and Q3, Dg, and Pas
+222 246 226 262 204 279 240 257
+247 261 214 241 252 258 220 218
+209 259 229 237 205 252 255 250
+266 226 248 242 292 275 298 227
+248 278 203 239 244 239 228 259 10
+a) | What is cluster Analysis? What are the requirements of cluster Analysis?
+Explain clustering by k means of partitioning 10
+Q7 Machines A, B, and C all produce the same two parts, X and Y. Of all the parts pro-
+Col duced, machine A produces 60%, machine B produces 30%, and machine C produces
+C02, b) 10%. In addition,
+ea 40% of the parts made by machine A are part X.
+ey 50% of the parts made by machine B are part X.
+— S03-: 70% of the parts made by machine C are part X.
+BL-1, 5 10
+
+A part produced by this company is randomly sampled and is determined to be an X
+part. With the knowledge that it is an X part, revise the probabilities that the part
+came from machine A, B, or C.
+
+mn)
+--- page 5 ---
+Table 5 Areas of a Standard Normal Distribution
+
+The table entries represent the area under the standard
+normal curve from 0 to the specified value of z.
+
+z .00 01 02 .03 - 04 .05 06 .07 08 .09
+0.0 -0000 0040 -0080 0120 .0160 0199 0239 0279 0319 -0359
+0.1 .0398 0438 .0478 0517 .0557 0596 0636 0675 0714 0753
+0.2 .0793 0832 -0871 .0910 .0948 0987 -1026 -1064 1103 1141
+0.3 1179 1217 +1255 1293 +1331 -1368 -1406 1443 1480 1517
+0.4 1554 1594 -1628 -1664 -1700 1736 1772 -1808 1844 1879
+0.5 1915 1950 -1985 2019 -2054 .2088 -2123 2157 -2190 2224
+
+0.6 2257 2281 2324   .2357 2389 12422 2454 2486 2517 2549
+0.7 .2580 2611 2642 .2673 -2704 2734 -2764 2794 2823 -2852
+0.8 -2881 .2910 2939 .2967 2995 3023 -3051 3078 3106 3133
+0.9 +3159 3186 +3212 +3238 3264 3289 3315 -3340 3365 3389
+1.0 3413 3438 3461 3485 -3508 3531 3554 3577 3599 3621
+
+14 3643 3665 -3686 3708 +3729 3749 -3770 3790 -3810 3830
+1.2 +3849 3869 -3888 3907 3925 3944 3962 -3980 3997 4015
+1.3 4032 4049 4066 4082 4099 4115 4131 4147 4162 ANTT
+1.4 4192 4207 4222 4236. .4251 4265 4279 4292 4306 4319
+1.5 4332 4345 4357 4370 4382 4394 4406 4418 4429 4444
+
+1.6 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545
+1.7 4554 4564 4573 4582 4591 4599 4608 4616 4625 4633
+1.8 4641 4649 4656 4664 4671 4678 4686 4693 4699 4706
+1.9 4713 4719 4726 4732 .4738 4744 4750 A756 4761 4767
+2.0 4772 4778 4783 4788 4793 4798 4803 4808 4812 4817
+
+2.1/ :4821 4826-4830 48344838 «= «484248464850 ~=—AB54_—S(«wABST
+2.2) 4861 4864 4868 = 487148754878 =— 4881S 4gg4.~—S4ga7 4890
+2.3) 4803 4896 4898. «4901-4904 4906 ©4909 4g41agy3—S«w4916
+24) 4918 4920 492249254927 49294931 “4o3 gag 4936
+25) 4988 494049414943 49454946 4948 ong) “gga y 4952
+
+2.6 4953 4955 4956 4957 4959 4960 4961 4962 4963 4964
+2.7 4965 4966 4967 4968 4969 4970 4971 4972 4978 4974
+2.8 4974 4975 4976 4977 4977 4978 4979 4979 4980 4981
+2.9 4981 4982 -4982 4983 4984 4984 4985 4985 4986 4986
+3.0 4987 4987 -4987 4988 4988 4989 4989 4989 4990 -4990
+
+3.1 4990 4991 4991 4991 4992 4992 4992 4992 4993 4993
+3.2 4983 4993 4994 4994 4994 4994 4994 4995 4995 4995
+3.3 4995 4995 4995 4996 4996 4996 4996 4996 4996 4997
+3.4 4997 4997 4997 4997 4997 4997 4987 4997 4997 4998
+3.5 4998 4998 -4998 4998 4998 4998 4998 4998 4998 4998
+3.6 4998 4998 -4998 4999 4999 4999 4999 4999 4999 4999
+
+For values of z greater than or equal to 3.70, use 0.4999 to approximate the shaded area under the standard normal curve.
+--- page 6 ---
+Table of Poisson
+
+Probabilities x
+For a given value of A, entry x 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+indicates the probability of a ¥
+spécified value of 0 0.9048 0.8187 0.7408 0.6703 0.6065 0.5488 0.4966 0.4493, 0.4066 0.3679
+1 0.0905 0.1637 0.2222 0.2681 =: 0.3033. 0.3293 0.3476 = 0.3595 0.3659 0.3679
+2 0.0045 0.0164 0.0333 0.0536 0.0758 0.0988 0.1217 0.1438 0.1647 0.1839
+3 0.0002 0.0011 0.0033 0.0072 0.0126 0.0198 ~—-0.0284 0.0383 0.0494 0.0613
+a 0.0000 0.0001 0.0003 0.0007 0.0016 0.0030 0.0050 0.0077 0.0111 0.0153
+5 0.0000 0.0000 0.0000 0.0001 0.0002 0.0004 0.0007 0.0012 0.0020 0.0031
+6 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0002 0.0003 0.0005
+7 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001
+a
+x 1.1 12 1.3 1.4 15 1.6 7 18 1.9 2.0
+0 0.3329 0.3012 0.2725 0.2466 ~=—:0.2231-—Ss:0.2019 0.1827 0.1653 0.1496 0.1353
+i 9.3662 0.3614 0.3543- 6.3452 0.3347 0.3230 «0.3106 = 0.2975 0.2842 0.2707
+2 0.2014 0.2169 0.2303 0.2417 0.2510 0.2584 0.2640 0.2678 0.2700 0.2707
+3 0.0738 0.0867 0.0998 0.1128 0.1255 0.1378 0.1496 . 0.1607 0.1710 0.1804
+4 0.0203 0.0260 0.0324 0.0395 0.0471 0.0551 0.0636 0.0723 0.0812 0.0902
+& 0.0045 0.0062 0.0084 0.0111 0.0141 0.0176 0.0216 0.0260 0.0309 0.0361 a
+6 0.0008 0.0012 0.0018 0.0026 . 0.0035 0.0047 0.0061 0.0078 0.0098 0.0120 \
+7 0.0001 0.0002 0.0003 0.0005 0.0008 0.0011 0.0015, 0.0020 0.0027 0.0034
+8 0.0000 0.0000 0.0001 0.0001 0.0001 0.0002 0.0003 0.0005 0.0006 0.0009
+9 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0001 0.0002
+a
+x 21 2.2 2.3 24 2.5 2.6 2.7 2.8 29 3.0
+0 0.1225 0.1108 0:1003 0.0907 0.0821 0.0743 0.0672 0.0608 0.0550 0.0498
+1 0.2572 0.2438 »=0.2306 «=0.2177—S «0.2052, 0.1931 0.1815 0.1703 0.1596 0.1494
+2 0.2700 0.2681 0.2652 0.2613 0.2565 0.2510 0.2450 0.2384 0.2314 0.2240
+3 0.1890 0.1966 0.2033 0.2090 0.2138 0.2176 0.2205 0.2225 0.2237 0.2240
+4 0.0992 0.1082 0.1169 0.1254 0.1336 0.1414 0.1488 0.1557 0.1622 0.1680
+5 0.0417 0.0476 0.0538 0.0602 0.0668 0.0735 0.0804 0.0872 0.0940 0.1008
+6 0.0146 0.0174 0.0206 0.0241 0.0278 0.0319 0.0362 0.0407 0.0455 0.0504
+7 0.0044 0.0055 0.0068 0.0083 0.0099 0.0118 0.0139 0.0163 0.0188 0.0216
+8 0.0011 0.0015 0.0019 0.0025 0.0031 0.0038 0.0047 0.0057 0.0068 0.0081
+9 0.0003 0.0004 0.0005 0.0007 0.0009 0.0011 0.0014 0.0018 0.0022 0.0027
+10 0.0001 0.0001 0.0001 0.0002 0.0002 0.0003 0.0004 0.0005 0.0006 0.0008
+11 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0001 0.0002 0.0002
+12 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 , 0.0000 0.0001
+a P=
+x 3.1 3.2 33 3.4 3.5 3.6 3.7 3.8 3.9 4.0
+0 0.0450 0.0408 0.0369 0.0334 0.0302 0.0273 0.0247 0.0224 0.0202 0.0183
+1 0.1397 0.1340 0.1217. 0.1135 0.1057. 0.0984 0.0915 0.0850 = :0.0789-—:0.0733
+2 0.2165 0.2087 0.2008 0.1929 0.1850 0.1771 0.1692 0.1615 0.1539 0.1465
+3 0.2237 0.2226 §=0.2209 «0.2186 »=— 0.2158 = 0.2125 0.2087 = :0.2046 = 0.2001 (0.1954
+4 0.1734 0.1781 (0.1823 0.1858 0.1888 0.1912 0.1931 0.1944 0.1951 0.1954
+5 0.1075 0.1140 0.1203 -0.1264 0.1322 0.1377 0.1429 0.1477 0.1522 0.1563
+6 0.0555 0.0608 0.0662 0.0716 0.0771 0.0826 0.0881 0.0936 0.0989 0.1042
+7 0.0246 0.0278 0.0312 0.0348 0.0385 0.0425 0.0466 0.0508 0.0551 0.0595
+| 8 0.0095 0.0111 0.0129 0.0148 0.0169 0.0191 0.0215 0.0241 0.0269 0.0298
+9 0.0033 0.0040 0.0047 0.0056 0.0066 0.0076 0.0089 0.0102 0.0116 0.0132
+10 0.0010 0.0013 0.0016 0.0019 0.0023 0.0028 0.0033 0.0039 0.0045 0.0053
+eit 11 0.0003 0.0004 0.0005 0.0006 0.0007 0.0009 0.0011 0.0013 0.0016 0.0019
+12 0.0001 0.0001 0.0001 0.0002 0.0002 0.0003 0.0003 0.0004 0.0005 0.0006
+
+13 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0001 0.0001 0.0002 0.0002
+14 0.0000 0.0000 0.0000 0.0000 + 0.0000. 0.0000 + 0.0000 + 0.0000 §=0.0000 += 0.0001
+
+continued
+
+1
+--- page 7 ---
+a
+
+N
+
+©
+
+a
+
+wo
+
+3-0
+
+o
+
+e-)
+
+wo
+
+oo
+
+o
+Ss
+i=}
+
+ot
+
+o
+
+&
+
+o
+S
+
+=
+
+o
+
+fo)
+to)
+
+oe
+ak
+
+f=)
+3
+°
+3S
+
+oan
+
+ooo
+
+fs)
+
+o
+3S
+a
+
+o
+
+=
+
+=<
+
+ok
+
+o
+
+St
+
+o
+
+Bs,
+--- page 8 ---
+°
+
+coooo
+NBRAS
+````
+
+## 2023-24 · Final-Exam · Sem 5 · paper f71fcf92bcc1
+
+- Departments: Data Science
+- Programmes: B TECH / CSE Data Science (311)
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Modelling for Business Analytics, Sem-V, Final Exam, A Y 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 /11 /23
+- Text: ocr (8 pages), mean OCR confidence 67.4
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS <@
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE
+Academic Year: 2023-2024
+
+»
+
+Program:B. Tech Stream CSE DS Year: _I_* Semester: _V_
+Subject: Advanced Modelling for Business Analytics Time: 3 hrs (2:00 pm to 5:00 pm)
+Date:21 /11 /23 No. of Pages: 444
+
+Marks: 100 .
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) In all__5_ questions to be attempted.
+
+m 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql
+Answer briefly:
+
+a. | A Gallup survey found that 65% of all financial consumers were very
+satisfied with their primary financial institution. Suppose that 12 financial
+consumers are sampled and if the Gallup survey result still holds true today.
+
+i) what is the probability that exactly 11 are very satisfied with their
+primary financial institution?
+CO2; ii) what is the probability that at least 8 are very satisfied with their
+SO1; primary financial institution? ry
+BL-1 iii) what is the probability that up to 6 are very satisfied with their
+_ primary financial institution?
+( iv) what is the probability that more than 9 them are satisfied with
+their primary financial institution?
+v) what is the probability that exactly 10 are very satisfied with their
+primary financial institution?
+
+b. | The average number of annual trips per family to amusement parks in the
+United States is Poisson distributed, with a mean of 0.6 trips per year. What
+is the probability of randomly selecting an American family and finding the
+
+col following? ;
+C02. . i) The family did not make a trip to an amusement park last year.
+SOl- 2 ii) The family took exactly one trip to an amusement park last year. | 5
+BL-l. iii) The family took two or more trips to amusement parks last year
+iv) The family took three or fewer trips to amusement parks over a
+three-year period.
+v) The family took exactly four trips to amusement parks during a
+
+six-year period.
+--- page 2 ---
+i
+
+Col c. | A marketing study revealed that 38% of the customers want automatic lock
+Cor. . doors, 56% want power windows and 25% both. Find the probability that a
+SO-1 2 customer wants. ; ;
+BL-1 ° i) either automatic door locks or power windows or both
+ii) neither automatic door locks or power windows or both
+CO2-: d. | A security analyst feels thatthe chances are 40% that the prices of shares of
+SOl- 2 company A would increase next week, and 10% that the price of the shares of 5
+BL-6 company B would rise. The two prices are expected to move independently
+of each other. Find the probability that in next week both prices will rise.
+a) | Determine the sample size necessary to estimate p for the following
+information. E is to be within 5%, p is approximately 55%, and confidence
+level is 90%
+b) Suppose a random sample of 85 items has been taken from a population and
+40 of the items contain the characteristic of interest. Use this information to
+calculate a 90% confidence interval to estimate the proportion of the 5
+Q2 population that has the characteristic of interest.
+C02, A Scientist wanted to compare two methods X and Y for experimentation. He
+CO3-; selected a random sample of 22 students. He grouped them into 11 pairs so
+SOl, °) that the students in a pair have approximately equal scores on an experiment
+SO3-; test. In each pair one student was taught by method A and the other by
+BL-1, 5 method B and examined after the course. The marks obtained after
+experimentation by them are tabulated below. Find the rank correlation
+coefficient and interpret.
+Pair 1 {2 3 + 5 6 7 8 9 10 | 11
+Method | 19 | 29 | 19 | 14 /30 |19 |27 |30 |24 |28 |11
+Xx 10
+Method | 37 | 35 | 11 |27 |23 |27 [19 [20 [41 [41 [21
+Y ;
+a) | According to Nielsen Media Research, the average number of hours of TV
+viewing per household per week in the United States is 50.4 hours. Suppose
+the standard deviation is 11.8 hours and a random sample of 42 U.S. 10
+Q3 households is taken.
+i. What is the probability that the sample average is more than 52 hours?
+C02, ii. What is the probability that the sample average is less than 47.5
+CO3, hours?
+CO4-; iii. What is the probability that the sample average is less than 46?
+SO1-; iv. hours?
+BL-4
+b) A random sample of size 39 is taken from a population of 200 members. The a
+
+sample mean is 66 and the population standard deviation is 11. Construct a
+96% confidence interval to estimate the population mean.
+--- page 3 ---
+i
+
+Q4 a) | It seems logical that restaurant chains with more units (restaurants), would 10
+
+C02.C03 have greater sales. This assumption is mitigated, however, by several
+” SOl-: possibilities: some units may be more profitable than others, some units may
+BL-2 > be larger, some units may serve more meals, some units may serve more
+
+expensive meals, and so on. The data shown here were published by
+Techonomic. Perform a simple regression analysis to predict a restaurant
+chain’s sales by its number of units. How strong is the relationship?
+
+Sales Number of Units
+Chain ($ billions) (1000)
+MecDonald’s 17.1 12.4
+Burger King 7.9 75
+Taco Bell 4.8 6.8
+Pizza Hut 47 8.7
+Wendy’s 4.6 4.6
+KFC 4.0 5.1
+Subway 2.9 11.2
+Dairy Queen 24 5.1
+Hardee’s 2.7 2.9
+
+Use the values in the contingency table to solve the equations given.
+b) E F G 1 0
+
+A] 15 | 12 8
+
+Bj .l | 17 {19
+
+C | 21 | 32 | 27
+
+D118 | 13 J 12 *
+
+a. P(GJA) =
+
+b. P(BIF) =
+
+ec. P(C|E) =
+
+d. P(E|G) =
+Qs In 2012, out of total of 2000 students in a college 1400 were for graduation 10
+
+a) | and the rest for post-graduation. Out of 1400 graduate students 100 were
+
+col, girls. However, in all there were 600 girls in the college. In 2017, number of
+CO?2-; graduate students increased to 1700 out of which 250 were girls but the
+SOl, number of post graduate students fell to 500 out of which only 50 were boys.
+S0O3-; In 2022, out of 800 girls, 650 were for graduation, whereas the total number
+BL-3 of graduates was 2200. The number of boys and girls in the post graduate
+
+classes are equal. Represent the above information in tabular form.
+--- page 4 ---
+Calculate phi coefficient for the following data X: Gender 0= Male] =
+
+b)
+Female Y: Ownership of Property 0=No ownership 1 = Ownership. 10
+xX | o ol 1 0 1 1 0 0 1 1 0
+Y | 1 0 0 1.0 0 7 1 0 1 1
+a) | The 2000 U.S. Census also asked for each person’s age. Suppose that a
+sample of 40 households taken from the census data showed the age of the
+first person recorded on the census form to be as follows. Compute D7, P80,
+Q3 and the range for these data
+42 29 31 38 55 27 28
+33 49° «©7000 2521 38 47
+63 22 38 52 50 4: 19 10
+22. 29 «81 «520 (2635388
+29° 310 4826 33 4258
+40 32 24 34 25
+Q6 b) | A manufacturer produces three models I, II and III of a certain product. He
+Col uses two types of raw material A and B of which 4000 and 6000 units
+co2. respectively are available. The raw material requirements per unit of three
+C03: models are as follows:
+SOl-. Raw Material Requirement per unit of given model
+Bilal I 0 il
+A 2 3 =)
+B 4 2 7
+The labor time of each unit of model I is twice that of model II and three 10
+times that of model III. The entire labor force of the factory can produce
+equivalent of 2500 units of model I. A market survey indicates that the
+minimum demand of the three models is 500, 500 and 375 units. However the
+ratio of the number of units produced must be equal to 3:2:5. Assume that the
+profits per unit of model I, II, III are Rs. 60, Rs. 40 and Rs. 100. Formulate
+this problem as an LP model to determine the number of units of each
+product which wiii maximize profit.
+Q7 What is cluster Analysis? What are the requirements of cluster Analysis? 10
+om a) | Explain clustering by k means of partitioning.
+CO2, Three Machines A, B and C are used to produce the same component and their 10
+CO4-; b) outputs are collected in a single bin. Machine A produced 32% of the units, Machine
+SOl, B produced 38% and the rest is produced by Machine C. Of the parts produced by
+$02, Machine A, 5.8 % are defective. Similarly, 2.5% of parts from Machine B and 8%
+SO3-: from Machine C are defective. A part is picked at random from the bin. If the part is
+
+BL-1, 5
+
+defective what is the probability that it was produced from Machine B?
+--- page 5 ---
+Table 5 Areas of a Standard Normal Distribution
+
+The table entries represent the area under the standard
+normal curve from 0 to the specified value of z.
+
+Zz -00 01 02 .03 04 .05 .06 07 08 .09
+
+0.0 -0000 -0040 -0080 0120 0160 0199 .0239 0279 0319 0359
+0.1 0398 0438 0478 0517 .0557 .0596 .0636 0675 0714 0753
+0.2 0793 0832 0871 .0910 0948 .0987 -1026 1064 1103 1141
+0.3 1179 1217 1255 1293 1331 1368 -1406 1443 -1480 -1517
+0.4 1554 1591 -1628 1664 -1700 1736 att2 -1808 1844 1879
+0.5 1915 -1950 1985 .2019 -2054 .2088 2123 2157 .2190 2224
+
+0.6 2257 .2291 2324 2357 .2389 2422 2454 2486 .2517 2549
+0.7 2580 2611 2642 .2673 .2704 .2734 -2764 2794 .2823 -2852
+0.8 -2881 .2910 2939 2967 2995 -3023 -3051 3078 -3106 -3133
+0.9 3159 -3186 +3212 3238 3264 3289 3315 3340 3365 -3389
+1.0 -3413 3438 3461 3485 3508 3531 3554 *.3577 .3599 -3621
+
+14 3643 3665 3686 3708 3729 3749 3770 3790 3810 -3830
+1.2 3849 3869 3888 3907 3925 3944 -3962 -3980 3997 4015
+1.3 4032 4049 A066 4082 4099 4115 4131 4147 4162 A177
+1.4 4192 4207 4222 4236 4251 4265 4279 4292 4306 4319
+1.5 4332 4345 4357 4370 4382 4394 4406 4418 -4429 4441
+
+1.6 4452 4463 4474 4484 4495 4505 4515 4525 4535 4545
+1.7 4554 4564 4573 4582 4591 4599 -4608 4616 4625 4633
+1.8 4641 -4649 4656 4664 4671 4678 4686 4693 4699 4706
+1.9 4713 4719 4726 4732 4738 4744 4750 4756 4761 4767
+2.0 4772 4778 4783 4788 4793 4798 4803 4808 4812 4817
+
+2.1) :4821 4826 :4830 —-.4834.—S's«w4838-«=Ss48420—Ss«w4B84G——s«w850~—w4854 C4857
+2.2| 4861 4864 4868 4871 4875 +4878 ~—Ss—«w881 S484 ~S4887 ~—=Cw4 890
+2.3) 4893 4896 4898 4901 4904 4906 4909 4944. 4913~Ss«4 916
+24| 4918 4920 4922 ©4925-4927 «49294931 '4g30-gggq Ct‘ 4936
+2.5] 4938 4940 4941 494349454946 4948 ggg ggg «4952
+
+*
+2.6 4953 4955 4956 4957 4959 4960 4961 4962 4963 4964
+2.7 4965 -4966 4967 4968 4969 4970 4971 4972 4973 4974
+2.8 4974 4975 4976 4977 4977 4978 4979 4979 -4980 4981
+2.9 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986
+3.0 4987 -4987 4987 4988 4988 4989 4989 4989 4990 -4990
+
+3.1 4990 4991 4991 4991 4992 4992 4992 4992 4993 4993
+3.2 4993 4993 4994 4994 4994 4994 4994 4995 4995 4995
+3.3 4995 4995 4995 4996 4996 4996 4996 4996 4996 4997
+3.4 4997 4997 4997 4997 4997 4997 4997 4997 4997 -4998
+3.5 4998 4998 -4998 4998 4998 4998 4998 4998 4998 -4998
+3.6 4998 -4998 4998 4999 4999 4999 4999 4999 4999 4999
+
+For values of z greater than or equal to 3.70, use 0.4999 to approximate the shaded area under the standard normal curve.
+--- page 6 ---
+Table of Poisson
+Probabilities
+
+For a given value of A, entry
+indicates the probability of a
+specified value of 4
+
+A *
+
+x 0.1 0.2 0.3 0.4 0.5 0.6 0.7 * 0.8 0.9 1.0
+
+0 0.9048 0.8187 0.7408 0.6703 0.6065 0.5488 0.4966 0.4493 0.4066 0.3679
+1 0.0905 0.1637 0.2222 0.2681 (0.3033 0.3293 0.3476 = 0.3595 0.3659 ~—:0.3679
+
+2 0.0045 0.0164 =—0.0333. 0.0536 = 0.0758 = 0.0988 = 0.1217 «0.1438 = 0.1647 0.1839
+
+3 0.0002 0.0011 , 0.0033 0.0072 0.0126 0.0198 0.0284 0.0383 0.0494 0.0613
+
+4 0.0000 0.0001 0.0003. 0.0007 0.0016 ~=—:0.0030 0.0050 =: 0.0077_-—s:0.0111 0.0153
+
+5 0.0000 0.0000 0.0000 0.0001 0.0002 0.0004 0.0007 0.0012 0.0020 0.0031
+
+6 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0002 0.0003 0.0005
+
+7 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001
+
+a
+
+x 11 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1,9 2.0
+
+0 0.3329 0.3012 0.2725 (0.2466 )=—-0.2231_—S 0.2019 0.1827 0.1653 0.1496 ~—:0.1353
+1 0.3662 0.3614 =—0.3543 0.3452 0.3347 0.3230 0.3106 = :0.2975-—:0.2842 ~—:0.2707
+
+2 0.2014 = 0.2169 = 0.2303 0.2417 0.2510 —-0.2584 0.2640 = 0.2678 = 0.2700 ~=—:0.2707
+
+<) 0.0738 0.0867 0.0998 0.1128 = 0.1255 0.1378 = 0.1496 »—-0.1607 0.1710 0.1804
+
+4 0.0203 0.0260 0.0324 0.0395 0.0471 0.0551 0.0636 0.0723 0.0812 0.0902
+
+5 0.0045 0.0062 0.0084 0.0111 0.0141 0.0176 9.0216 0.0260 0.0309 0.0361
+
+6 0.0008 0.0012 0.0018 0.0026 0.0035 0.0047 0.0061 0.0078 0.0098 0.0120
+
+7 0.0001 0.0002 0.0003 0.0005 0.0008 0.0011 0.0015 0.0020 0.0027 0.0034
+
+8 0.0000 0.0000 0.0001 0.0001 0.0001 0.0002 0.0003 0.0005 0.0006 0.0009
+
+5 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0001 0.0002
+
+»
+
+x 21 2.2 2.3 2.4 2.5 2.6 2.7 2.8 2.9 3.0
+0 0.1225 0.1108 0.1003 0.0907 0.0821 0.0743 0.0672 0.0608 0.0550 0.0498
+1 0.2572 0.2438 »=—-0.2306 = 0.2177 0.2052) 0.1931 0.1815 0.1703 0.1596 = 0.1494
+2 0.2700 0.2681 0.2652 0.2613. 0.2565 =—0.2510 0.2450 0.2384 =—:0.2314~—:0.2240
+3 0.1890 = 0.1966 = :0.2033. 0.2090 --0.2138 = 0.2176 = 0.2205. 0.2225. S:0.2237'-—s: 0.2240
+4 0.0992 0.1082 0.1169 0.1254 0.1336 0.1414 0.1488 0.1557 0.1622 0.1680
+5 0.0417 0.0476 0.0538 0.0602 0.0668 0.0735 0.0804 0.0872 0.0940 0.1008
+6 0.0146 0.0174 0.0206 0.0241 0.0278 0.0319 0.0362 0.0407 0.0455 0.0504
+7 0.0044 0.0055 0.0068 0.0083 0.0099 0.0118 0.0139 0.0163 0.0188 0.0216
+8 0.0011 0.0015 0.0019 0.0025 0.0031 0.0038 0.0047 0.0057 0.0068 0.0081
+9 0.0003 0.0004 0.0005 0.0007 0.0009 0.0011 0.0014 0.0018 0.0022 0.0027
+
+10 0.0001 0.0001 0.0001 0.0002 0.0002 0.0003 0.0004 = 0.9005 = :0.0006 ~=—-0.0008
+
+11 0.0000 =—-0.0000 0.0000 »=—-0.0000»=:0.0000 0.0001 ~=—0.0001 += 0.0001 ~=—-:0.0002 . 0.0002
+
+12 0.0000 0.0000 0.0000 0.0000 +=0.0000 + 0.0000 0.0000 0.0000 0.0000 0.0001
+
+a
+
+x 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 3.9 4.0
+0 0.0450 0.0408 0.0369 0.0334 0.0302 0.0273 0.0247 0.0224 0.0202 0.0183
+1 0.1397 0.1340 0.1217, 0.1135. 0.1057 0.0984 —:0.0915_ 0.0850 ~—-0.0789-—:0.0733
+2 0.2165 0.2087 0.2008 »=— 0.1929 0.1850 0.1771 0.1692 0.1615 0.1539 0.1465
+3 0.2237 = 0.2226 »=—:0.2209 0.2186 = 0.2158 = 0.2125. 0.2087 = :0.2046 = 0.2001 0.1954
+4 0.1734 0.1781 0.1823 0.1858 = 0.1888 0.1912, 0.1931 0.1944 0.1951 0.1954
+5 0.1075 0.1140 0.1203 0.1264 0.1322 0.1377 0.1429 0.1477 0.1522 0.1563
+6 0.0555 0.0608 0.0662 0.0716 0.0771 0.0826 0.0881 0.0936 0.0989 0.1042
+7 0.0246 0.0278 0.0312 0.0348 0.0385 0.0425 0.0466 0.0508 0.0551 0.0595
+8 0.0095 0.0111 0.0129 0.0148 0.0169 0.0191 0.0215 0.0241 0.0269 0.0298
+9 0.0033 0.0040 0.0047 0.0056 0.0066 0.0076 0.0089 0.0102 0.0116 0.0132
+
+10 0.0010 0.0013 0.0016 0.0019 0.0023 0.0028 0.0033 0.0039 0.0045 0.0053
+
+11 0.0003 0.0004 0.0005 0.0006 0.0007 0.0009 0.0011 0.0013 0.0016 0.0019
+
+12 0.0001 0.000! 0.0001 0.0002 0.0002 0.0003 0.0003 0.0004 0.0005 0.0006
+
+13 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0001 0.0001 0.0002 0.0002
+
+14 0.0000 =0.0000 §=0.0000 §=0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001
+
+continued
+1
+
+oe
+--- page 7 ---
+Se00002 ooo0%
+
+SScoGTaLuN SGSOSGSG
+
+Bu250000 BDOOR
+
+OBWDwWnNGD BADD
+
+SB2ooo00Do DOsNi
+
+220000 oOOmN:
+
+SGBONDOD ANAN
+
+Se00000 O-NWNi
+
+NNEBSASSO BAGH
+
+SSs0000 mwa:
+
+SoScocooG OM" Oo
+--- page 8 ---
+a nD
+aan ana =
+
+AO NRAONZCOC©HONAMAWNA =O0o a N20 on
+B® S50000000000000 4% eooot o< one oot
+YH SSSSSSSSSSSOSSSD eeocs 3S Soo eo
+©®= SSSSCSSSSSSSSSSOS oooo ro) OND os
+eR BSEODDD0D00000004»4; oooo ° Swan oo
+=O SSSSCSCSSOSGSSAGAGS cooos So o7230 oa
+®»~ So50000000000 sh wi oo00 fo) N wh oo
+N® SSSSSSSSSSSBENOR eeoos Ss QN& =a)
+Sa=yY SSSSSSSSSBEALAOG esoo = ook so
+SR SSCSSSGSSOAGHHRUBOSA Sososcs © NAN oo
+2S Seo00000000h4 NN ooo0 fo} NNO oo
+=N SSSSSSSSIAEDBZAAOD eeoo a 2D fame)
+82 SSSCSSCOSOROGDROANR ooo o ORO on
+SO SeeoDaDDRDDoOoOOaNNAO oooo¢ = NAO oo
+AF SSSSSCSAGGANNAGD eooo 2 QAN@ ss
+BO SSSSSAHHWONGDGAGAaN SSoSON ro) NAN 20
+NS SSSSSCOSLHB®RSIANOD eooo a 2 a3 S63
+OB BGSSCOCZONGANGOON>A SCooO30 co) oak BN
+SS SxSDD0000R4NAATO eo00 i noo oo
+SS SSESSSGSGINBOBANAERS SSSN r) Sas =o
+© SSSSNDOSGSNANGL0H o2aG6 B OND Se
+SQ SSSSGSNGANSB®VNANS Soss is B29 NN
+SSO SORZ000OSBSBNAULODOOD~ coo°o: ve lo Romo) en:
+SS SSSSOLGASGHAOCORBNBGBSS Sonn Nv @2aoo0 a>
+SS SSSALKRGUNOODGRISS S3Qan oO =aao OD
+SS SGOGERNNBADANNERDS Ook S o Bas a5
+SQ SS000>54NE2200000% ooo = eoo aii
+SS SSSOHABGOSBRIOALSSS S@ON a eco NS
+SS SGNONMOBRBAGDZOABWS @ENOG o N30 ad
+es
+
+SS SA2DO>>sNBKODSDOOOD¢ cosh a ooo =i
+SS SANBDN®SONZGANSSSS =O cS) ooo No
+S22 SSO44N>2nDDOOOO0 onnni o< ooo Nw?
+SS SABANAOBWBNBASSSS BIO a eso ES
+SS NWOBZFONANASGONSOSS NGaN o 3=3c6 Aw
+S29 SX2O4NNZDRD000000 Osh: ° ooo ww?
+SS SHGNADGROBOASSSOSS YWORO iS) eso an
+SS AASNSCGOCDNAGNBASSS 2aO3 te) oss NS
+S22 SOBaNNSEODD0000000 aio oc ooo ie
+SS ABANNDAGBASSSSSS NAAOG = ooo an
+SS ONHDAGGUNGCWBOAS65666 NN OA = ooo On
+SSD BHYHHBABDRADOSSSSS SRWW fo} eos ya
+AOSOMOBDROASOSSSOS DHA o ead aa
+
+SS SGNNNAZOSZR20000000% wy no¢ f=) ooo aot
+S@2>~2RASSSSSOOO SOND 3S eso an
+
+SS SEANKBSBSGOSSOSOSSSOSOS NOON ro) ess =
+SS GBHBYNGWONSSSSSSSS NGO ro) eocoo =o
+SS ABHBSSSSSSSSSSS ROAS c=] eso 2960
+SS B8OGHAGDASZSSSSSSSSS = ONN ro) ooo as
+````
+
+## 2022-23 · Final-Exam · Sem 5 · paper e679842bb0f2
+
+- Departments: Data Science
+- Programmes: B TECH / CSE Data Science (311)
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Modeling for Business Analytics, 3rd Year, Sem V, Year, 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Novernber 2022
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+of MPST KC
+LIBEARY
+
+SVKM’s NMIMS
+PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING / .
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+/ Programme: B. Tech (CSE Data Science) Year: Ill Semester: V
+
+Subject: Advanced Modeling for Business Analytics
+. Marks: 100
+
+Time: 10.00 am - 1.00pm ~
+Durations: 3 (Hrs) _
+No, of Pages: _O 2 —
+
+Date: 17 Novernber 2022 -
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 questions.
+3)Inall_ 5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+eo Answer briefly: [20]
+C02; S01; a. The variance of the scores 12,5,15, 8, 7 is 5
+BL-1
+b. | In the past few years, outsourcing overseas has become more frequently used than
+
+ever before by U.S. companies. However, outsourcing is not without problems. A
+
+son 02° a : recent survey by Purchasing indicates that 20% of the companies that outsource 5
+BLL overseas use a consultant. Suppose 15 companies that outsource overseas are
+randomly selected. What is the probability that more than nine companies that
+
+outsource overseas use a consultant?
+c. | The average number of annual trips per family to amusement parks in the United
+
+C01, CO2- ; States is Poisson distributed, with a mean of 0.6 trips per year. What is the
+SO-1; probability of randomly selecting an American family and finding the following?
+BL-1 i)The family took exactly one trip to an amusement park last year.
+
+ii) The family took two or more trips to amusement parks last year.
+co2-;so1-; | 4 | Given that E and F are events such that P(E) = 0.5, P(F) = 0.4 and P(ENF) =0.3, then | 5
+BL-6 ; what will be the value of P(F|E)?
+
+HR Manager of company collected data on employees related to years 0
+
+Monthly income.
+
+f service &
+
+@ Yrs Oy a (;
+C02, CO3-; Income 30 28 26 25 29 27 31 [20]
+son S08 Find regression equation of income on years of service. What would be the
+
+‘ expected income after 23 years of continued service?
+
+J
+
+Yo
+--- page 2 ---
+te
+
+a) A sample of 100 bolts from one machine showed that 12 were defective. A
+sample of 200 bolts from another machine showed that 15 were defective. Find
+
+Q3 95% confidence limits for the difference in proportion of defective bolts between
+C02, C03, two samples. [20]
+C04-; $O1-;
+aa b) In a population with standard deviation of 11, what sample size is needed
+to estimate the population mean within +-0.8, with 98% confidence.
+Gender | 0 0 0 0 0 0 0 0 0 0
+Q4 Marks | 30 56 68 48 52 80 78 72 55 48
+CO2,CO3-; [20]
+sO1-; Gender | 1 a ad. a 1 1 1 1 1 1
+a Marks | 38 | 69 78 58 55 39 82 85 2B 62
+Calculate point biserial correlation for the data
+In 1990, out of a total of 2000 students in a college 1400 were for
+graduation and the rest for post-graduation. Out of 1400 graduate students
+100 were girls. However in all there were 600 girls in the college. In 1995
+Qs number of graduate students increased to 1700 out of which 250 were girls,
+01, CO2-; but the number of post graduate students fell to 500 of which only 50 were | (20)
+$01, 508 boys. In 2000, out of 800 girls, 650 were for graduation, whereas the total
+number of graduates was 2200. The number of boys and girls in post
+graduate classes was equal. Represent the information in tabular form. Also
+calculate the percentage increase in the number of graduate students in
+2000 as compared to 1990.
+Ikea is designing a chair with ergonomic consultation. The average breadth of the
+chair is 20 inches. Suppose the breadth is normally distributed with standard
+| Q6 deviation of 2 inches.
+01, C02, a) What proportion of chairs has breadth up to 18 inches? (20)
+a S01-; b) What proportion of chairs has breadth between 17 inches to 22 inches?
+c) What proportion of chairs has breadth more than 25 inches?
+d) What is the required breadth for the 45% of the chairs to be
+© ergonomic?
+Q7
+co1, co2, What is cluster Analysis? What are the requirements of cluster Analysis?
+. 7 2
+on Explain clustering by k means of partitioning? m
+BL-1,5 .
+
+Ae
+````
+
+## 2022-23 · Re-Exam · Sem 5 · paper f57d77aae179
+
+- Departments: Data Science
+- Programmes: B TECH / CSE DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE DATA SCIENCE/SEM-V/ADVANCED MODELING FOR BUSINESS ANALYTICS/Advanced Modeling for Business Analytics, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 27 January 2023
+- Text: ocr (2 pages), mean OCR confidence 87.8
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech (CSE Data Science) < : Year: III - Semester: V -
+
+AcademicY ear: 2022-2023
+
+Subject: Ad d Modeling for Business Analytics
+ubjec vanced Modeling for Bus yt harks: 100
+
+Date : 27 January 2023 “ Time: 10.00 am - 1.00 pm~
+Durations: 3 (Hrs)
+
+No. of Pages: 2
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. __i____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+G63: S04: a. | The probability of man hitting a target is 0.25. If he fires 7 times
+BL i)what is the probability of his hitting the target at least twice. 5
+ii) What is the probability of not hitting the target?
+b. | An insurance company insures the lives of 2500 men of age 48 years in this year.
+The actuarial studies show that the probability that a 48-year man dying in the
+
+C01, CO2-; coming year is 0.0018.
+SO1-; i) What is the probability that the company will have to pay at least 2 5
+BL-1 claims in the year?
+
+ii) What is the probability that the company will have to pay exactly 5
+
+claims in the year?
+¢. | The probability that a customer entering a shopping mall during a discount sale will
+
+— CO2- : buy a refrigerator or a TV set is 0.32. If the probability of a customer to buy a 5
+BLA" refrigerator is 0.21 and that of buying a TV set is 0.16, what is the probability that
+the customer will buy both, refrigerator and a TV set.
+co2-;s01-; | 4 | The probability of event A is 0.2 and the probability of event B is 0.4. Also, suppose | ¢
+BL-6 that the two events are independent. Then P (A[B) is
+A Psychologist wanted to compare two methods A and B of teaching. He
+selected a random sample of 22 students. He grouped them into 11 pairs so
+Q2- that the students in a pair have approximately equal scores on an
+C02, CO3-; intelligence tests. In each pair one student was taught by method A and the 120]
+$01, $O3-; other by method B and examined after the course. The marks obtained by
+BLL, S them are tabulated below. Find the rank correlation coefficient and
+interpret.
+
+tf,
+--- page 2 ---
+Pair 1 2 3 4 5 6 7 8 9 10 11
+Meth | 24 | 29 19 14 30 19 27 30 24 28 al
+odA
+Meth | 37 | 35 11, 27 23 27 19 20 11 aly 2a,
+od B
+
+a) The Aluminum Association reports that the average American uses 56.8
+pounds of aluminum in a year. A random sample of 51 households is
+monitored for one year to determine aluminium usage. If the population
+
+Q3 standard deviation of annual usage is 12.3 pounds, what is the probability
+
+02, C03, that the sample mean will be each of the following? [20]
+C04-; $O1-; i. More than 58 pounds
+
+BL-4
+
+ii, Between 56 and 57 pourids
+
+iii, Less than 55 pound? ti ecs, ra
+b) In a population with standard deviation of 10.88, what sample size is
+needed to estimate the population mean within +-0.9, with 99% confidence.
+
+Determine regression equation of salary of employee on Aptitude score in a
+test. Estimate salary if aptitude score is 100.
+
+Q4 ‘| Salary | 21 |58 |85 |-68 | 74 |93 | 72 |122 |125 | 130 | 1
+C02,CO3-; ; 4) | (20)
+SO1-; , 1 3
+BL-2 Cnky alin
+Aptithde | 82 | 77 | 77 |76 | 74 |72 |71 | 71 68 74 8
+score : 3
+
+Out of total number of 2807 women, who were interviewed for employment
+in a textile factory, 912 were from textile areas and rest from non-textile
+areas. Amongst the married women who belonged to textile areas 347 were
+
+Qs having some work experience and 173 did not have work experience while
+cO1, CO2-; for non-textile areas the corresponding figures were 199 and 670 20]
+eae respectively. The total number of women having no experience was 1841 of
+
+whom 311 resided in textile areas. Of the total number of women, 1418 were
+unmarried and of these the number of women having experience in the textile
+and non-textile areas was 254 and 166 respectively. Construct the
+information in tabular form.
+
+A. study of long-distance phone calls made from the corporate offices of Pepsi
+bottling group Inc., in Gurgaon revealed the length of the calls, in minutes
+following the normal distribution. The mean length of time per call was 4.2
+
+os minutes and standard deviation was 0.66 minutes.
+poaene i. What proportion of calls last between 4.2 and 5 minutes? (20]
+BL-1 ii. | What proportion of calls last more than 5 minutes?
+iii. | What proportion of calls last between 5 and 6 minutes?
+iv. What is the time required for proportion of 45% of calls
+Q7 What is cluster Analysis? What are the requirements of cluster Analysis?
+C01, co2, [20]
+c04-; $01, Explain clustering by k means of partitioning?
+$02, S03-; :
+
+2/2,
+````

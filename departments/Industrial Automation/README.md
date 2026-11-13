@@ -1,0 +1,16 @@
+# Industrial Automation
+
+10 subjects, 30 papers, 395 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Industrial Automation" to see only this branch's papers.
+
+| Subject | Papers for this branch | Questions | Years | Full text | Questions |
+| --- | ---: | ---: | --- | --- | --- |
+| [Advanced Embedded Systems](../../subjects/Advanced%20Embedded%20Systems/README.md) | 3 | 36 | 2014-15 to 2016-17 | [papers.md](../../subjects/Advanced%20Embedded%20Systems/papers.md) | [questions.jsonl](../../subjects/Advanced%20Embedded%20Systems/questions.jsonl) |
+| [Advanced Microcontrollers](../../subjects/Advanced%20Microcontrollers/README.md) | 4 | 53 | 2013-14 to 2018-19 | [papers.md](../../subjects/Advanced%20Microcontrollers/papers.md) | [questions.jsonl](../../subjects/Advanced%20Microcontrollers/questions.jsonl) |
+| [Artificial Intelligence in Automation](../../subjects/Artificial%20Intelligence%20in%20Automation/README.md) | 3 | 39 | 2014-15 to 2016-17 | [papers.md](../../subjects/Artificial%20Intelligence%20in%20Automation/papers.md) | [questions.jsonl](../../subjects/Artificial%20Intelligence%20in%20Automation/questions.jsonl) |
+| [Automation in Manufacturing Systems](../../subjects/Automation%20in%20Manufacturing%20Systems/README.md) | 2 | 14 | 2014-15 to 2016-17 | [papers.md](../../subjects/Automation%20in%20Manufacturing%20Systems/papers.md) | [questions.jsonl](../../subjects/Automation%20in%20Manufacturing%20Systems/questions.jsonl) |
+| [Design Aspects of Industrial Automation](../../subjects/Design%20Aspects%20of%20Industrial%20Automation/README.md) | 3 | 61 | 2014-15 to 2016-17 | [papers.md](../../subjects/Design%20Aspects%20of%20Industrial%20Automation/papers.md) | [questions.jsonl](../../subjects/Design%20Aspects%20of%20Industrial%20Automation/questions.jsonl) |
+| [Fluid Power Automation](../../subjects/Fluid%20Power%20Automation/README.md) | 3 | 33 | 2014-15 to 2025-26 | [papers.md](../../subjects/Fluid%20Power%20Automation/papers.md) | [questions.jsonl](../../subjects/Fluid%20Power%20Automation/questions.jsonl) |
+| [Industrial Drivers and Control Systems](../../subjects/Industrial%20Drivers%20and%20Control%20Systems/README.md) | 3 | 53 | 2014-15 to 2016-17 | [papers.md](../../subjects/Industrial%20Drivers%20and%20Control%20Systems/papers.md) | [questions.jsonl](../../subjects/Industrial%20Drivers%20and%20Control%20Systems/questions.jsonl) |
+| [Industrial Robotics](../../subjects/Industrial%20Robotics/README.md) | 3 | 23 | 2014-15 to 2018-19 | [papers.md](../../subjects/Industrial%20Robotics/papers.md) | [questions.jsonl](../../subjects/Industrial%20Robotics/questions.jsonl) |
+| [Mechatronic Systems Design](../../subjects/Mechatronic%20Systems%20Design/README.md) | 3 | 35 | 2014-15 to 2025-26 | [papers.md](../../subjects/Mechatronic%20Systems%20Design/papers.md) | [questions.jsonl](../../subjects/Mechatronic%20Systems%20Design/questions.jsonl) |
+| [Sensors in Manufacturing](../../subjects/Sensors%20in%20Manufacturing/README.md) | 3 | 48 | 2014-15 to 2016-17 | [papers.md](../../subjects/Sensors%20in%20Manufacturing/papers.md) | [questions.jsonl](../../subjects/Sensors%20in%20Manufacturing/questions.jsonl) |

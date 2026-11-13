@@ -1,0 +1,1966 @@
+# Principles of Accounting I: question papers in full
+
+10 unique papers · 2021-22 to 2024-25 · Common (all branches), Data Science
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Final-Exam · Sem 2 · paper 5f09820755c6
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7011
+- Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CSE_DS_7011/Principles of Accounting -I/QP_Principles of Accounting -I(702TF0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
+- Text: text (5 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Principles of Accounting -I
+Date: 13 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data, if necessary.
+Q1   Answer briefly: [Each sub-question is of 5 marks]   [20]
+a.   Identify which of the accounting concepts (Historical Concept or Prudence
+Concept or Consistency Concept or Conservatism concept or Going concern or
+Money Measurement concept) would be applicable for the below mentioned
+items:
+i) A company continues to be in existence, unless it goes into liquidation.
+CO-2;   ii) The same method of depreciation is followed by all companies in the same
+SO-2 ;   industry.
+BL-1   iii) The company should record the expenses and losses if they’re certain and
+postpone recording the income if there is some element of uncertainty.
+iv) The company’s success story can be attributable to its goodwill and
+employee skills, but only goodwill is recorded in financial statements.
+v) A company records its inventory at cost price or market price, whichever is
+lower.
+CO- 2;   b.
+SO-7;   Explain the benefits of depreciation for companies.
+BL-2
+CO-2 ;   c.
+SO-4 ;   Describe the factors that help the company issue cash dividend
+BL-2
+d. Classify the following items as either being part of Cashflow from Operating
+activities or Cashflow from Investing activities or Cashflow from Financing
+Activities
+CO- 4;
+i)   Cash received from customers
+SO-7 ;
+ii) Issued new shares for cash
+BL-2
+iii) Paid rent for office space
+iv) Purchase of machinery for business operations
+v) Depreciation of equipment
+********** 1 **********
+--- page 2 ---
+a. Yuvark maintains the columnar petty cash book on the imprest system. Prepare
+the petty cash book for the below-mentioned transactions for the month of
+September 2021.
+Particulars   Details
+Q2   01.09.2021   Cash in hand with petty cashier Rs. 5000
+CO-3;   02.09.2021   Paid Rs. 500 to the window cleaner
+[10]
+SO-4;   04.09.2021   Paid Rs. 200 for charity
+BL-3   09.09.2021   Electricity bill of Rs. 250 paid
+14.09.2021   Paid Rs. 250 for the pen-drive
+20.09.2021   Paid Rs. 300 for the rickshaw fare
+21.09.2021   Paid Rs. 1000 for the A4 sized print out
+pages
+b. Heiden Ltd. purchased on 1st April 2020 machinery for Rs. 2,00,000 and
+incurred Rs. 10,000 for installation. On 1st October, another machinery for Rs.
+1,50,000 was purchased. On 1st October 2022 the machinery purchased on
+CO-2;
+01/04/2020 having become useless was sold for Rs. 93,000 and on that day new
+SO-4;   [10]
+machinery was purchased for Rs. 1,00,000. Depreciation is provided on 31st
+BL-3
+March each year at 10 percent p.a on Written Down Value. You are required to
+prepare a machinery account and depreciation account for all the
+2020,2021,2022
+a. Jenson Corporation has issued 500,000 shares of Rs.5 par value common stock.
+It is authorised to issue 700,000 shares. The paid-in capital in excess of par
+value on the common stock is Rs 550,000. The corporation has re-acquired
+Q3
+10,000 shares at a cost of Rs. 60,000 and are currently holding those shares. It
+CO-2;
+also had a cumulative other comprehensive loss of Rs 92,000. The corporation   [10]
+SO-5;
+also has 6,000 shares issued and outstanding of 7%, Rs.50 par value preferred
+BL-3
+stock. It is authorized to issue 15,000 shares. The paid-in capital in excess of
+par value on the preferred stock is Rs 100,000. Retained earnings are Rs
+750,000. Prepare the stockholders’ equity section of the balance sheet
+CO-4;   b.
+Discuss the importance of accounting records to the bank as a stakeholder of a
+SO-4;   [10]
+company.
+BL-4
+a. Gokarna Dalvi’s passbook showed a balance of Rs. 30,000 on 30th November,
+2023. Ascertain the balance as per the Cash Book.
+(i)   Mr. Tulika Malhotra directly deposits Rs. 6,000 into the bank
+account. The information was received on 1st December, 2023.
+(ii) A cheque recorded as issued but not actually send to the party
+concerned Rs. 3,000.
+Q4   (iii) A cheque recorded as deposited but left off omitted to be banked Rs.
+CO-2;   7,000
+[10]
+SO-3;   (iv)   Cheques deposited Rs. 7,000, out of which cheques for Rs. 3,000 are
+BL-4   credited by bank upto 30th November.
+(v)   Three cheques of Rs. 350, Rs. 460 and Rs. 540 issued on 24th
+November,2023. The cheque of Rs. 350 was presented for payment
+on November 30, 2023, while second cheque of Rs. 460 were
+presented for payment on 3rd December, and third cheque of Rs. 540
+is not presented so far.
+(vi)   Receipt side of Cash Book is undercast by Rs. 1,000.
+********** 2 **********
+--- page 3 ---
+b.
+The summarised financial data of Anmol Limited for the years: 2020 and 2021
+are given. Calculate the following ratios from the tables mentioned below:
+i)   Current Ratio
+ii)   Debt to Equity Ratio
+iii)   Gross Profit Ratio
+iv)   Net Profit Ratio
+v)   Comment on the same
+Profit and Loss Account for the year ended 31.3.2021 and 31.3.2020
+31.3.2021   31.3.2020
+Particulars
+(Rs.)   (Rs.)
+Net Sales   1,42,000   1,26,550
+Gross Profit   50,000   38,550
+Less Operating
+18,000   17,000
+Expenses
+Income before
+32,000   21,550
+Interest and Tax
+Profit before tax   25,000   15,150
+Profit after tax   18,750   11,363
+Balance Sheet as at 31.3.2021 and 31.3.2020
+Equities   31.3.2021 31.3.2020   Assets   31.3.2021   31.3.2020   [10]
+and   (Rs.)   (Rs.)   (Rs.)   (Rs.)
+Liabilities
+Eq. Share   1,70,250   1,60,000 Land &   1,07,000   95,000
+Capital   Building
+Reserves &   54,000   38,750 Plant   56,250   55,000
+Surplus   Machinery
+Bank Term   50,250   32,500 Furniture   26,500   11,250
+Loan
+Sundry   70,000   64,000 Investments   20,500   15,250
+Creditors
+Bills   35,500   32,500 Stock   73,000   63,750
+Payable
+Bank   13,000   11,500 Sundry   94,500   88,750
+Overdraft   Debtors
+Cash & Bank   15,250   10,250
+Balance
+3,93,000   3,39,250   3,93,000   3,39,250
+Q5   a.
+State with examples the difference between Revenue Expenditure and Deferred
+CO-2;
+Revenue Expenditure.   [08]
+SO-4;
+BL-4
+b. The beginning inventory, purchases and sales of the product ‘Aminoi’ for the
+month of July and August are presented below. The company closes its books at
+CO-3;
+the end of each month.
+SO-5;   [12]
+BL-3
+********** 3 **********
+--- page 4 ---
+Date   Particulars   Details
+Beginning
+1st July   Inventory   600 units @ Rs. 170
+10th July   Sales   300 units
+13th July   Purchases   1000 units@ Rs. 167
+26th July   Sales   600 units
+6th August   Purchases   1500 units@ Rs. 170
+10th August   Sales   1000 units
+16th August   Purchases   500 units@ Rs. 180
+20th August   Sales   800 units
+25th August   Purchases   1000 units@ Rs. 187
+29th August   Sales   1000 units
+Calculate the value of the closing stock as per Weighted Average Method
+Q6   a. The company sold Rs. 1,50,000, 8-year bond for 8% on 1st January 2025 for Rs.
+CO-2;   1,40,000. Prepare the bond discount amortization schedule for 8 years.
+[08]
+SO-5;
+BL-3
+b.
+Prepare the journal in the books of Mehar Ahuja for the month of June 2023.
+Date   Details
+2023
+1.6.2023   Transferred Rs. 20,000 in the bank account of creditor named
+Shri Bhagirath Maitra.
+3.6.2023   Purchased goods from Mahendra Desai worth Rs. 16,000 at
+trade discount of 11% and 2% cash discount. One-fourth of the
+amount is paid by cheque.
+4.6.2023   Under the instructions of our creditor: Mrs Kalisha Sethia,
+goods were invoiced to Sita Anand worth Rs. 20,000. Carriage
+and transport charges of Rs. 1,000 paid on her behalf.
+5.6.2023   Bought the second-hand printer for Rs. 20,000 after paying Rs.
+CO-2;   10,000 from business and remaining by borrowing from bank.
+[12]
+SO-5;   12.6.2023   Amount of Rs. 1,00,000 withdrawn from bank for giving
+BL-3   salary to the staff.
+15.6.2023   Loan of Rs. 1,00,000 taken from a friend and paid 9% interest.
+18.6.2023   Sold private car for Rs. 50,000 and purchased second hand
+delivery van for business purpose for Rs. 42,000 and
+immediately spend Rs. 5,000 for repairs and painting.
+22.6.2023   Half of the goods purchased from Mahendra Desai is sold to
+Ramesh Dave for cash at profit of 20%. The terms of trade
+being 5% trade discount and 2% cash discount.
+********** 4 **********
+--- page 5 ---
+From the following trial balance of Fitkari & Co. and additional information,
+prepare Profit and Loss account for the year ended June 30th, 2022 and Balance
+sheet as on same date.
+Particulars   Dr. (Rs.) Cr. (Rs.)
+Capital   2,50,000
+Furniture   30,000
+Purchases   1,60,000
+Debtors   3,00,000
+Interest earned   5,000
+Salaries   40,000
+Sales   4,25,500
+Purchase return   6,000
+Wages   30,000
+Rent   20,000
+Sales Return   20,000
+Provision for bad
+Q7   debts   7,000
+CO-2;   Bad debts   500   [20]
+SO-4;   Opening Stock   60,000
+BL-3
+Bank Overdraft   3,000
+Drawings   22,000
+Insurance
+expense   14,000
+Cash and
+Equivalents   1,00,000
+Creditors   1,00,000
+7,96,500   7,96,500
+Adjustments:
+1. Depreciation furniture by 5% by written down method.
+2. Bad debts are expected to Rs. 1000.A provision for doubtful debts is to
+be created to the extent of 1% on sundry debtors.
+3. Salaries for the month of June 2022 amounting to Rs. 5,000 were
+unpaid, which must be provided for. Office expenses outstanding Rs.
+9,000.
+4. Insurance amounting to Rs. 3,000 is prepaid.
+5. Closing stock is Rs. 70,000.
+********** 5 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 210716e5baaa
+
+- Departments: Data Science
+- Programmes: BTech CSE DS 7011
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7011/Principles of Accounting -I/QP_Principles of Accounting -I(702TF0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Jul 2025
+- Text: text (5 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Principles of Accounting -I
+Date: 12 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data, if necessary.
+Q1
+Answer briefly: [Each question is of 5 marks]   [20]
+a.   Identify which of the accounting concepts (Historical Concept or Accrual
+Concept or Consistency Concept or Full Disclosure concept or Business Entity
+Concept or Matching Concept) would be applicable for the below mentioned
+items:
+i) An accountant records expenses in the period in which they are incurred,
+CO-1;   rather when the payment is made.
+SO-   ii) Assets are recorded by the company at the original purchase price even if
+2 ;BL-1   the market value changes.
+iii) Books of accounts for the owner are recorded separately from the company.
+iv) Full relevant information is included in the books of accounts of a
+company.
+v) The same method of inventory management has been followed by the
+company over the years.
+CO-2 ;   b.
+SO-4 ;   Explain the benefits of stock splits to a particular company.
+BL-2
+CO- 2;   c.
+SO- 3;   Distinguish between Provisions and Reserves.
+BL-4
+d. Classify the following items as either being part of Cashflow from Operating
+activities or Cash flow from Investing activities or Cah flow from Financing
+Activities
+CO-4 ;
+i)   Issuance of debentures to the investors-
+SO- 7;
+ii) Payments to vendors for inventory purchased
+BL-2
+iii) Proceeds from the sale of machinery
+iv) Dividends paid to shareholders
+v) Income tax payments
+********** 1 **********
+--- page 2 ---
+a. Mr. Raman Rikha maintains a petty cash book in an analytical form under the
+imprest system. The following are the transactions for the month of February
+2024
+Particulars   Details
+2024
+February 01 Cash in hand received from the main cashier to maintain a
+balance of Rs. 20,000
+Q2   February 04 Amounts spend on ordering snacks is Rs. 1000
+CO-2;   February 06 Typing papers purchased for Rs. 400
+[08]
+SO-4;   February 08 Purchased stamp papers for Rs. 250
+BL-3   February 13 Purchased envelopes for Rs. 300
+February 17 Paid Rs. 2,000 to the canteen for snacks ordered for the staff
+February 20 Wages paid to a worker for Rs. 5,000
+February 27   Toiletries purchased for the office of Rs. 200
+Mr. Raman Rikka has asked you to prepare the petty cash for the month of
+February 2024.
+b. The Income Statement for Reliance Industries Ltd. for 2023 and 2024 is given
+below:
+Mar 31, 2024   Mar 31,2023
+Sales   9,01,064   8,77,835
+Other Income   16,057   11,734
+Total Income   9,17,121   8,89,569
+Total
+7,89,663   7,75,976
+Expenditure
+EBIT   1,27,458   1,13,593
+Interest   23,118   19,571
+Net Profit   78,633   73,646
+Balance Sheet of Reliance Industries Ltd. for 2023 and 2024 is given below:
+Equities
+Mar 31,   Mar 31,   Mar 31,   Mar 31,
+CO-4;   &   Assets
+2024   2023   2024   2023
+SO-3;   Liabilities   [12]
+BL-5   Share   Fixed
+6,766   6,765   11,03,851   10,03,287
+Capital   Assets
+Reserves
+Current
+&   7,86,715   7,09,106   4,70,100   4,25,296
+Assets
+Surplus
+Current   Other
+3,97,367   3,95,744   1,82,035   1,78,848
+Liabilities   Assets
+Other   Total
+5,65,138   4,95,816   17,55,986   16,07,431
+Liabilities   Assets
+Total
+Equities
+17,55,986   16,07,431
+and
+Liabilities
+You are required to calculate any four ratios and comment on the same.
+********** 2 **********
+--- page 3 ---
+a. Hrenden Corporation is authorised to issue 2,000,000 shares of Rs.3 par value
+common stock. In its first year- 2021, the company has the following stock
+transactions.
+February 23rd- Issued 500,000 shares of stock at Rs.5 per share.
+October 24th - Purchased 30,000 shares of common stock for the treasury at Rs.6
+per share.
+Q3   December 25th - Declared a cash dividend of 5 cents per share on common stock
+CO-2;   outstanding
+[10]
+SO-5;   You are required to do the following
+BL-3   i)   Journalise the above-mentioned transactions.
+ii)   Prepare the stockholders’ equity section of the balance sheet,
+assuming the company had retained earnings of Rs.160,700 on
+December 31 and accumulated another comprehensive loss of
+Rs.205,000.
+b. Explain how important accounting information is to employees of any
+CO-2;
+organisation.
+SO-3;   [10]
+.
+BL-2
+a. Arnavpreet Ltd. purchased a machine on 1st July,2020 at a cost of Rs. 15,
+00,000 and spent Rs. 2, 00,000 on its installation. The firm writes off
+Q4
+depreciation at 5% p.a. of the original cost every year. The books are closed
+CO-2;
+on 31st March every year. You are required to show the Machinery Account   [08]
+SO-4;
+and Depreciation Account for the year 2020, 2021 and 2022.
+BL-2
+b. Paneman Industries entered the following transactions during 2023 involving
+the inventory given below:
+Date   Purchases   Date   Sales
+April   April
+1st April 2023   100 units @Rs. 160   2nd April 2023   20 units
+CO-3;
+7th April 2023   200 units @Rs. 200   27th April 2023 150 units
+SO-5;   [12]
+BL-3   9th April2023   250 units@ Rs. 250   28th April 2023 100 units
+13th April 2023   230 units @Rs. 300
+30th April 2023   100 units @Rs. 400
+Calculate the ending inventory as per FIFO.
+a. Prepare the reconciliation statement as per the passbook as on 31st
+October,2021:
+(i) Favourable balance as per cash balance is Rs. 40,000.
+(ii) Cheques of Rs. 20,000 were issued in October in the first 15 days, out of
+which cheques of Rs. 6,000 were encashed in October.
+Q5
+(iii) Cheques issued in October of Rs. 6,000 in the last 15 days, out of which
+CO-2;
+cheques of Rs. 3,000 were encashed in December.   [10]
+SO-3;
+(iv) A cheque issued to Mr. Chirag for Rs. 578 is encashed by him and
+BL-4
+recorded in the cash book as 875.
+(v) An item of Rs. 2,000 presented on receipt side of cash book but not
+found in Passbook.
+(vi) A cheque of Rs. 3,000 received from Suresh was entered twice in Cash
+Book. The cash was collected on 29th October,2021.
+********** 3 **********
+--- page 4 ---
+b.   Illustrate the distinction between Capital Expenditure and Revenue
+CO-2;
+Expenditure with examples.
+SO-4;   [10]
+BL-4
+a.
+Sunaina Marthal provides the following information and has asked you to
+prepare the journal entries for the transactions mentioned below for the month
+of May 2022:
+Date   Details
+2022
+1.5.2022   Paid rent in advance of Rs. 3,000 to the landlord.
+1.5.2022   Goods sold worth Rs. 50,000 to Jennifer D'souza less 10%
+trade discount and 5% cash discount and received from him
+Rs. 19,000 by cheque.
+4.5.2022   Goods purchased from Daniel Pinto worth Rs. 10,000 at 10%
+Q6   trade discount.
+CO-2;   4.5.2022   Daniel Pinto executed the order and paid carriage on behalf of
+[12]
+SO-2;   Sunaina Marthal Rs. 200.
+BL-3   5.5.2022   Drawn goods for personal use worth Rs. 18,000, out of those
+bought from Daniel Pinto bought on 4.5.2022.
+9.5.5022   Paid Rs. 2,100 to Renita Cornell as an advance against salary.
+15.5.2022   Paid to Renita Cornell Rs. 39,000, which was the balance of
+her salary left to be paid.
+26.5.2022   Simora from whom goods were bought for Rs. 16,000 is
+settled by paying one-third by cheque and remaining by cash.
+27.5.2022   Purchased a second-hand machinery for Rs. 30,000 and repair
+charges of Rs. 20,000 incurred to keep it in working condition.
+b. The company sold 7% eight-year-old bond for Rs. 1,64,000 on 1st July 2024
+for Rs. 1,56,000. Prepare the bond discount amortization schedule for eight
+CO-2;
+years.
+SO-3;   [08]
+BL-3
+********** 4 **********
+--- page 5 ---
+From the following Trial Balance of M/s Swati Ravinder as of March 31,
+2023, prepare Profit and Loss Account for the year ended March 31, 2023, and
+Balance Sheet as on that date:
+Particulars   Debit (Rs.)   Credit (Rs.)
+Sundry Debtors   53,000
+Accounts Payable   23,000
+Cash in hand   15,000
+Furniture   35,000
+Sales   1,55,000
+Sales Return   2,700
+Salaries   9,200
+Opening Stock   12,200
+Motor Car   50,000
+Equipment   12,000
+Insurance premium   3,600
+Q7
+CO-2;   Machinery   36,000
+SO-4;   Wages   25,000   [20]
+BL-3   General Expenses   3,200
+Carriage inward   2,500
+Carriage outward   1,500
+Owner's equity   1,63,900
+Drawings   5,000
+Creditors   50,000
+Rent and Rates   11,000
+Purchases   1,15,000
+3,91,900   3,91,900
+Adjustments:
+i)   Closing stock is Rs, 35,000.
+ii)   Bad debts are Rs. 700 and Provisions for doubtful debts are 2%.
+iii)   Depreciation on both furniture and machinery is 10%.
+iv)   Accrued wages are Rs. 2,500 and Accrued salaries are Rs. 1,000.
+v)   Commission of Rs. 2,600 has been earned but not received till the
+closing of accounts.
+********** 5 **********
+````
+
+## 2023-24 · Final + Re-Exam · Sem 2 · paper d6293f226f67
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Sem-II, Final & Re Exam 2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 2/57/24
+- Text: ocr (4 pages), mean OCR confidence 92.0
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGI
+
+4
+_ SVKM’S NMIMS 4é
+SCHOOL OF TECHNOLOGY MANAGEMENT \\*.
+
+Academic Year: 2023-2024 oe
+Program/s: B.Tech Year: I Semesters
+Stream/s: CSE-DS | j ; P
+Subject: Principles of Accounting-I Time: 3hrs.C2s00pm ~te Seo prn)
+Date: 2/57/24 No. of Pages:4
+
+Marks: 100 ; ' |
+Final Examination ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all. 5 questions have to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+_-~ 6) Figures in brackets on the right hand side indicate full marks. .
+
+7) Assume suitable data, if necessary.
+
+Qi Answer briefly: [20]
+
+a. | Classify whether the below mentioned transactions are capital expenditure or
+revenue expenditure or deferred revenue expenditure:
+(i) Machinery of Rs. 10,000 acquired and carriage of Rs. 500 paid on the
+
+same.
+: (ii) Preliminary expenses of Rs. 20,000 incurred before starting the
+CO-1; SO- company. : [05]
+7; BL-4 (iii) Legal expenses of Rs. 10,000 paid by the company for the case filed
+against it.
+(iv) Amount of Rs. 14,000 paid to the broker at the time of purchasing
+the land.
+(v) Expenses incurred of Rs. 15,000 for converting raw materials into
+finished goods.
+ee b. | Identify whether the below mentioned items are cash flow from operating
+activities or cash flow from investing activities or cash flow from financing
+activities.
+CO-2; SO- (i) Repayment of borrowings from bank [05]
+4; BL-1 (ii) + Buying another company
+
+(iii) | Redemption of bonds
+(iv) Funds received from customers
+(v) Interest received from loans and advances
+
+a ¢. | Contrast Limited Liability Partnership from Limited Liability Company. [05]
+
+d. | Prepare an accounting equation for the following transactions:
+(i) Started business with cash Rs. 200,000 and goods Rs. 30,000.
+(ii) Purchased goods for cash Rs. 30,000 and on credit from Karan Rs.
+20,000. [05]
+(iii) Goods costing Rs. 40,000 were sold for Rs. 55,000.
+(iv) Withdrew cash for personal use Rs. 10,000.
+(v) Rent and Salaries of Rs. 40,000 and Rs. 60,000 are paid.
+
+CO-1; SO-
+2; BL-3
+--- page 2 ---
+a. | Prepare bank reconciliation statement of M/S Poonami as on etanee 31,
+2019 and find the bank balance as per Pass book
+(i) Bank balance as per the Cash Book on October 31,2019 is s Rs.
+Q2 30,000. °
+(ii) A cheque issued to creditor of Rs. 2,000, but not presented for
+CO-2; SO- payment. [10]
+4; (iii) _ Interest collected on debentures is credited by bank Rs. 700 but
+~BL-3 not recorded in the cash bank.
+(iv) Bank debited the statement by Rs. 200 for bank charges.
+j (vy) An upcountry cheque of Rs. 5,000 deposited into bank, but not
+cleared.
+CO-2: §O- b. | ‘Dividends are important part of an investor’s life’. Validate the statement by ie
+3. BL.2 explaining the meaning of dividend and mentioning the different types of [10]
+> dividends,
+Q3CO-2; a.
+S0-5: BL-2 Explain with an example different liquidity and solvency ratios. [10]
+b. | An inexperienced accountant has drawn up a Trial Balance for the year ended
+31st August, 2021.
+Particulars Debit(Rs.) | Credit(Rs.)
+Loan from Mr. Sachal Gadwani 50,000
+Debtors 47,900
+Bad debts recovered 2,250
+Creditors 5,250
+Leasehold 13,750
+Discount allowed 200
+Drawings 3,000
+Return outwards 1,750
+Bank overdraft 7,850
+. Telephone expenses 1,750
+5 BL6 ° Return inwards 3,250 [10]
+Sales 1,13,450
+Capital 20,000
+Bills payabie 7,750
+Salaries and wages 5,250
+Power 1,500
+Cash and Bank 21,050
+Patents 12,250
+Purchases 79,400
+Advance received 5,000
+Prepaid 24,000
+Total 2,13,300 2,13,300
+You are appointed as a consultant and are asked for help to rectify the Trial
+Balance. Kindly recommend the correct Trial Balance.
+Q4 a. | On Ist July, 2019 a company purchased a machine for Rs 4,90,000 and spent [10]
+
+Rs 20,000 on its installation. The company decided to provide depreciation
+--- page 3 ---
+CO-2; SO-
+7; BL-2
+
+at 15% per annum, using written down value method. On 30th November,
+
+2022 the machine was sold for Rs 1,00,000.
+
+On 1st December, 2022 the company acquired and put into operation a new
+machine at a total cost of Rs 9,60,000. Depreciation was provided on the new
+machine on the same basis as had been used in the case of the earlier machine.
+The company closes its books of account every year on 31st March. You are
+required to prepare the machinery account for financial year 2019-
+2020,2020-2021,2021-2022 and 2022-2023.
+
+CO-2; SO-
+6; BL-2
+
+Trial Balance of M/S Natalia Ltd. as on 31st March 2019 is given below:
+Particulars Debit(Rs.) | Credit(Rs.)
+Opening Stock | 10,000
+Land and
+Building 50,000
+Machinery 1;00;000
+Salary and
+Wages 4,700
+
+Purchases 20,000
+
+Bad debts 4,000
+
+Sundry Debtors | 25,000
+
+Discount 1,000 1,200
+Advertisement | 5,000
+
+Sundry
+Creditors 15,000
+
+Bank Loan 10,000
+Cash at Bank 35,000
+Capital 1,48,000
+Furniture 50,000
+Sales 1,30,500
+3,04,700 | 3,04,700
+From the following information, you are required to prepare profit and loss
+
+| account and balance sheet for the year ended 31st March, 2019:
+
+(i) Closing stock as on 31st March,2019 is Rs. 8,000.
+
+(ii) Depreciation machinery by 5% and furniture by 10%.
+
+(iii) The provision of 5% to be created on sundry debtors for
+
+~~ doubtful debts.
+
+(iv) __ The salaries and wages are unpaid to the extent of Rs. 2,500.
+
+[10]
+
+Q5 CO-2;
+SO-7; BL-3
+
+Ankleswa Ltd. sold Rs. 1,50,000 five year, 9% bonds on January 1, 2019 for
+Rs. 1,53,000. The effective-interest rate is 8.7% and interest is payable on
+January 1 of each year. Calculate the bond amortisation schedule for five time
+periods.
+
+[10]
+
+CO-2; SO-
+4; BL-1
+
+From the following particulars prepare the stores ledger account using
+weighted average method:
+
+August 1,2020 Stock on hand 200 units at Rs. 3
+
+August 2,2020 Purchases 300 units Rs. 4
+
+August 10,2020 Issues 150 units
+
+August 16,2020 Purchases 300 units at Rs.5.5
+
+August 20,2020 Issues 200 units
+
+August 31,2020 Purchases 150 units at Rs.6.5
+
+[10]
+--- page 4 ---
+Lakava Ltd. issued 4,00,000 shares of Rs. 4 par value common stock. It is
+
+a.
+authorised'to issue 7,00,000 shares. The paid- in capital excess of par value
+on common stock of Rs. 4,80,000. The company has reacquired 20,000
+Q6 shares at-a cost of Rs. 55,000 and is currently holding those shares. It also
+CO-2: SO- had a cumulative other comprehensive loss of Rs. 92,000. The company also
+4; BL-2 has 5000 shares issued and outstanding of 8% Rs. 200 par value preferred
+stock. It is authorized to issue 11,000 shares. The paid-in capital in excess of
+par value on the preferred stock is Rs. 107,000. Retained earnings is Rs.
+7,10,000. Prepare the stockholders’ equity section of the balance sheet.
+¥ b. | Identify the accounting principles or concept or conventions applicable for
+the transactions given below and give reasons why it is applicable:
+(i) The companies should record the financial statements which could help
+CO-1; SO- know the trends. [05]
+3; BL-4 (ii) The company is an artificial person created by law.
+(iii)Company should not overvalue income and assets in its reporting.
+(iv) The tangible assets will be recorded at the purchase price always.
+(v) The transactions could be recorded only when there is a proof for it.
+a. | The financial information for Anju Ltd. for the year ended December 31,
+2021 is given below:
+e Net income: Rs. 150,000
+‘© Depreciation expense: Rs. 30,000
+e Increase in accounts receivable: Rs. 20,000
+e Decrease in inventory: Rs. 6,000
+e Increase in accounts payable: Rs. 9,000
+Q7 e Payment of dividends: Rs. 20,000
+e Purchase of equipment: Rs. 40,000 [15]
+CO-2; SO- e Sale of marketable securities: Rs. 15,000
+4; BL-2 e Amortization expense: Rs. 6,000
+e Interest expense: Rs. 14,000
+e Gain on sale of machinery: Rs. 10000
+e Issue of debentures: Rs. 90000
+e Redemption of preference shares: Rs. 100000
+e Cashas on 1.1.2021 was Rs. 100000
+Prepare the cash flow statement using indirect method for the year ended
+December 31, 2021.
+CO-1; SO- |b. | Explain the advantages of maintaining ledger accounts in accounting cycle [05]
+3; BL-2 to companies.
+````
+
+## 2023-24 · Re-Exam · Sem 2 · paper 04fbf342127d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Year, Re Exam.pdf`
+- Printed on paper: max marks: 10; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 92.2
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+Program/s: B.Tech Year: I Semester: II
+
+Stream/s : CSE-DS ~
+
+Subject: Principles of Accounting-I Time: 3hrsC2ivopm to S300p™)
+Date: a7 Qu No. of Pages:4
+
+Marks: 10
+
+“Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+> 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Ql Answer briefly: [20]
+
+a. | Classify whether the below mentioned transactions are capital expenditure
+or revenue expenditure or deferred revenue expenditure:
+(i) Asum of Rs. 10,000 spent on painting of a new factory.
+
+CO- 1; SO- (ii) A lump sum of Rs. 50,000 paid to the employee for the loss of job. [05]
+
+7; BL-4 (iii)Rs. 20,000 paid by a company as brokerage on issue of shares.
+
+(iv) The pharmaceutical company incurred research and development
+Expenses of Rs. 1,00,000. :
+(v) Custom duty of Rs. 10,000 paid for purchase of raw material.
+
+b. | Identify whether the below mentioned items are cash flow from operating
+activities or cash flow from investing activities or cash flow from financing
+activities.
+
+(i) Issue of 4,000 shares to raise money for expansion.
+(ii) Sale of machinery lead company to earn Rs. 2,00,000.
+(iii)Payment of Rs. 75,000 made to the suppliers, who have sold goods on
+credit.
+(iv) Depreciation of Rs. 50,000 charged on equipment.
+(v) Payment of Rs. 20,000 interest to the bank.
+CO- 2; SO- | c. | Explain the concept of convertible bonds and mention its advantages and | [95]
+3; BL-2 disadvantages to the investors.
+d. | Prepare an Accounting Equation for the following transactions:
+(i) Started business with cash Rs. 200,000.
+CO-1 ; SO- (ii) Paid rent in advance of Rs. 4000. [05]
+2; BL-3 (iii) Purchased goods for cash Rs. 15,000 and credit Rs. 20,000.
+(iv) Sold goods for cash Rs. 80,000 and on credit Rs. 40,000.
+(v) Bought motorcycle for personal use Rs. 30,000.
+
+> CO-2 ; SO-
+4; BL-1
+
+[05]
+
+Q2 a. | The following trial balance is extracted from the books of M/s Jhelum Ltd.
+CO-2; SO- as on 31st March, 2019: [15]
+6; BL-2
+--- page 2 ---
+Particulars Debit(Rs.) | Credit(Rs.)
+
+Opening Stock 1,75,000 \
+Purchases 3,00,000
+
+Cash in hand 30,000 aoe
+Bank Loan 1,00,000
+
+Machinery (at original
+
+cost) 2,50,000
+
+Sundry creditors we 1,40,000
+Advertisement 5,000
+
+Sundry Debtors 1,70,000
+
+Goodwill 1,20,000
+
+Land and Building 6,00,000
+
+Fuel 15,000
+
+Furniture(at original
+
+cost) 45,000
+
+Discount 1,800 3,600 >
+Capital 6,00,000
+
+Sales 9,00,000
+
+Interest 10,000
+Drawings 31,800
+Salaries and Wages 10,000
+
+17,53,600 17,53,600
+
+From the following information you are required to prepare profit and loss
+account and balance sheet for the year ended 31st March, 2019:
+
+(i) Closing stock as on 31st March, 2019 is Rs. 50,000.
+
+(ii) Depreciation machinery by 10% and furniture by 5%.
+
+(iii) The provision of 5% to be created on sundry debtors for
+
+doubtful debts.
+(iv) _ The advertising expenses not paid to the extent of Rs. 5,000.
+CO-1; SO- | b. | Explain the importance of financing accounting to customers and suppliers
+
+[05]
+3; BL-2 of a company. _|
+a. | The following information relates to the business of Isa: -)
+Trade Bad debts | Bad debts to’) Provision for
+Receivables | written off | be written off | doubtful
+Q3 Year | (Rs.) (Rs.) (Rs.) debts (%)
+2015 | 1,20,000 10,000 9,000 3 [10]
+CO-2; SO- 2016 | 1,40,000 15,000 4,500 4
+62 2017 | 1,60,000 | 20,000 - 2.5
+2018 | 1,80,000 - ‘| 3,000 4
+Prepare balance sheet extract for each of the year 2008, 2009, 2010 and
+2011 showing trade receivables and allowance for doubtful debts.
+CO-1; SO- | b. | Explain with an example any five profitability ratios to users of financial [10]
+3; BL-1 information.
+Q4 a. | On Ist Jan. 2015 machinery was purchased for Rs. 100,000. On Ist Jan.
+2016 additions were made to the machinery of Rs. 60,000. On 31st March [15]
+CO-2; SO- 2017, machinery purchased on Ist January 2016, costing Rs 20,000 was
+7; BL-3 sold for Rs 18,000, and on 30th June 2017, machinery purchased on Ist
+2
+--- page 3 ---
+Jan. 2015 costing Rs 52,000, was sold for Rs. 36,700. On Ist Oct. 2018
+additions were made to the amount of Rs. 30,000. Depreciation was
+provided at 10% p.a. on Diminishing Balance Method. :
+
+Show the Machinery Account for the three years from December,3:1st 2015
+to December 31st 2018. =
+
+CO-2; SO-
+4; BL-2
+
+Contrast periodic and perpetual inventory management system.
+
+[5]
+
+Q5
+
+CO-2; SO-
+7; BL-3
+
+a. | Porter Technology Inc. issues a Rs. 600,000, 9%, 10-year mortgage note
+
+on December 31, 2022, to’ obtain needed financing for a new research
+laboratory. The terms provide for annual installment payments of Rs.
+60,000. Calculate the installment payment schedule for first five years.
+
+[10]
+
+CO-2; SO-
+™@ | 4; BL-2
+
+b. | Passbook of Gopal Sharma showed a balance of Rs. 30,000 as on 30%
+
+December, 2020.Calculate the bank balance as per the cash book from the
+transactions given below:
+(i) Mr. Karan Ahuja directly deposited Rs. 50,000 into our bank
+account. The information was received on 1° January,2021.
+(ii) A cheque recorded as issued but not actually sent to the party
+concerned Rs. 10,000.
+(iii)A cheque issued to creditor for Rs. 5,000.The party collected the
+amount but the entry for the same was recorded in the cash column
+of Cash Book.
+
+(iv)A cheque recorded s deposited but left off to be banked Rs. 7,000.
+
+[10]
+
+Q6CO-2;
+SO-7; BL-4
+
+Stock financing is a better option for company to issue than bond financing.
+Validate the statement by mentioning reasons for the same.
+
+[10]
+
+CO-1; SO-
+3; BL-4
+
+b. | Identify the accounting principles or conventions or concepts applicable
+
+for the transactions given below and give reason for the same:
+
+(i) The company reports the cash and credit transactions.
+
+(ii) The company will continue for a foreseeable future, unless
+something otherwise happens.
+
+(iii) | The company follows same method of depreciation throughout the
+years unless there is some merger or acquisition.
+
+(iv) The company should report the expenses related to the revenue
+earned during that time period.
+
+(v) The company will report only those things in annua! report that will
+materially affect the financial statements
+
+[10]
+
+- CO-2; SO-
+4; BL-2
+
+Aman Ltd. has provided the following financial information for the year
+ended December 31, 2023:
+¢ Net income: Rs. 190,000
+¢ Depreciation expense: Rs. 50,000
+¢ Amortization expense: Rs. 17,000
+¢ Increase in accounts receivable: Rs. 30,000
+¢ Decrease in inventory: Rs. 15,000
+¢ Increase in accounts payable: Rs. 20,000
+¢ Gain on sale of equipment: Rs. 20,000
+¢ Loss on sale of investments: Rs. 9,000
+¢ Purchase of property, plant, and equipment: Rs. 70,000
+¢ Issuance of long-term debt: Rs. 140,000
+« Repayment of long-term debt: Rs. 100,000
+| ¢ Dividends paid: Rs. 30,000
+
+[20]
+--- page 4 ---
+e Cash balance as on 1.1.2023 is Rs. 60,000
+Using the indirect method, prepare the cash flow statement for Aman Ltd.
+for the year ended December 31, 2023.
+
+a
+````
+
+## 2022-23 · Final-Exam · Sem 2 · paper 14810123b181
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Sem-II, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 89.2
+
+````text
+/
+
+SVKM’S NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS EN
+Academic Year:2022-2023
+Program/s: B. Tech CSEDS (311) Year: I Semester: II
+Stream/s CSEDS (311)
+
+Subject: Principles of Accounting - Time: 3 hrs @Ltooamto 2:00 pr»)
+Date : 40 [o5|2023 No. of Pages:6
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Bock, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+a 2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+(20) (5
+Ql
+Answer briefly: marks
+each)
+a. Calculate Debt to Equity Ratio: Equity Share Capital =
+CO-: S0-: 5,00,000; General Reserve = 90,000; Accumulated Profits
+BL- % 50,000; 10% Debentures % 1,30,000; Current Liabilities =
+1,00,000.
+=
+b. If Opening Stock on 1% May is 40 units @20 each,
+CO-: SO-: Purchases on 5'* May is 50 units @Rs.10 each, Purchases
+BL. , on 10" May is 10 units @Rs. 5 each, sold on 20 May is
+20 units @Rs. 30 each. Find Weighted Average cost per
+unit of the sale on 20 May 2023
+CO- ; SO- ; Cs State the features of Revenue receipts with 3 examples
+BL-
+CO- ; SO- ; d. Explain with examples cash flow from operating activities,
+BL- financing activities and investing activities
+Q2 a Prepare a Trial Balance as at 31%t December 2022 10
+from the following information
+CO-; SO-;
+BL-
+--- page 2 ---
+Inventory-1S Jan 2016 3 750
+Purchases 35 800
+
+Wages and salaries 3 500
+Rent and rates 1 500
+Machinery 40 000
+Equipment 30 000
+Fixtures and Fittings 15 000
+Trade Receivables 18 000
+Cash and Bank 12 000
+Trade payables 14 000
+Loan from bank 11 000
+Capital 142 550
+
+Drawings 8 000
+
+Enter the following transactions in Champa’s Cash book
+with discount and Cash Columns for the month of
+December 2023
+
+1s*. Cash balance — 18,500
+
+3" Cash Sales — 33,000
+
+7 Paid Dravid -15,850 Discount allowed by him — 150
+
+13 Sold goods to Manohar on credit — 19,200
+
+15" Cash withdrawn for personal expenses — 2,400
+
+16" Purchased goods from Charles on credit — 14,300
+21% Paid into Bank -22,750
+25" Cash received from Manohar — 19,000 Allowed him
+| discount — 200
+
+26" Drew a Cheque for office use — 17,500
+
+‘ 27% Paid Cash to Saravanan — 2,950 Discount received
+a) from him — 50
+28" Paid Cash to Charles less discount -14,200
+29% Cash Purchases — 13,500
+
+30" Paid for Advertising — 600
+
+(10)
+--- page 3 ---
+oo
+
+31th Paid Salaries -12,000
+
+Record the following transactions in the Journal and post
+them into ledger and prepare a Trial Balance
+
+Oct 1St : Neel started business with a capital of 80,000
+3" : Bought goods from Karl on credit 20,000
+4: Sold goods to Tarl 25,000
+5 : Cash purchases 25,000
+7" + Cash sales 15,000
+
+Q3
+9 : Goods retuned to Karl 2,000 ie
+CO-; SO-; BL- : Goods retuned to Karl 2,
+10° : Bought furniture for 15,000
+11" : Cash paid to Karl 12,000
+12" : Goods returned by Tarl 3,000
+14" : Goods taken by Neel for personal use 3,000
+15
+From the following transactions write up a three column
+cash book for Zuibin Khan & Co.
+2022
+June 1 Cash in hand Rs. 2,000 and Bank Overdraft Rs.
+1,500.
+» 7 Received cash from Riaz & Co. Rs. 190; discount
+allowed Rs.10.
+Q4 » 412 Sales by check Rs. 1,000.
+CO-; SO-; » 15 Deposited cash Rs. 1,200 to bank account.
+BL- ” 20 Paid to Waqas Shahzad Rs. 485; discount
+
+received Rs. 15.
+
+» 25 Received check from Salman of Rs. 500 and
+deposited.
+
+» 27 Paid to Hassan by bank Rs. 300.
+
+» 28 Mr. Salman check of dated 25" has been
+dishonored due to technical reasons.
+--- page 4 ---
+Equipment 5,000
+Building 350,000
+Inventory 5,000
+Accounts recelvable 5,000
+
+Total assets - 369,000
+
+Read the above Balance Sheet of a Company whose
+
+building you want to buy and analyse it
+
+A Prepare Analytical cash book from the following
+
+March 7 | Bought postage stamps Rs.20.
+10 | Paid for stationery Rs.6.75.
+1§ | Paid for carriage Rs.7.50.
+
+Q5 20 | Paid for Taxi hire to sales manager Rs.15.50
+
+22 [Senta telegram to Delhi Rs5.50 (10)
+CO-; SO-; 23 | Bought ink and paper Rs.7.50. (10)
+BL- 25 | Paid for coolie Rs.20.
+
+rT Tea to traveling agent Rs.3.50,
+31___| Cash purchases from stationery mart Rs.9.25.
+
+From the following particulars relating to material A, show
+--- page 5 ---
+pe
+
+a
+
+how the value of the issues should be arrived and the FIFO
+method .
+
+B
+Date Particulars
+1-1-2019
+Opening stock 1000
+units at Rs.5 each
+3-1-2019
+Purchases 900 units
+7-1-2019 at Rs.6 each
+11-1-2019 Issued 1200 units
+Purchased 800
+units at Rs.6.20
+each
+13-1-2019 Issued 1000 units
+A
+
+Q6
+CO-; SO-;
+BL-
+
+PN & Co, has a balance of 20,000 as per passbook as on
+31st march 2021.
+
+Let’s Understand the Transaction Details
+
+1. Three cheque s of 1000, 1500, 1750 were deposited | (15)
+in the bank on 30th December 2021 but were
+recorded in the bank statement on January 2022.
+2. Acheck of 1000 was issued on 31st december
+2021, was not processed.
+3. A dividend of 500 on stocks was credited to the
+bank account, but not recorded in the cash book.
+4. A direct deposit of 600 was made in a bank
+account by a customer, which was not recorded in
+
+the cash book.
+
+5. Bank charges of 60 were entered only in the bank
+passbook.
+
+6. Balance as per cash book on 31st december 2021 (5)
+was 22,210.
+
+Hero limited purchases a truck for = 5,000. It was
+--- page 6 ---
+estimated by the company that each year the truck will lose
+40% ofits value and will be left with a scrap value of =
+
+1,000. Using the reducing balance method, calculate the
+
+B depreciation expense for the first five years.
+A Give journal entries for issue of bonds at par, at premium
+and at discount
+°” . (10)
+CO-; SO-; Explain Accounting for Accounts receivable (10)
+BL- B
+````
+
+## 2022-23 · Re-Exam · Sem 2 · paper a886c1d26e1f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Sem-II, Batch 2021-22, 22-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 90.6
+
+````text
+SVKM’S NMIMS
+
+OOL OF TECHNOLOGY MANAGEMENT& ENGINEERIN
+
+MUKESH PATEL SCH
+Academic Year:2022-2023
+Program/s: B. Tech CSEDS (311) Year: I Semester: II
+Stream/s CSEDS (311) |
+Subject: Principles of Accounting - < Time: 3 hrs 021009at0 05106pim)
+Date : 2EMUNELZ025 No. of Pages:6
+~~Marks: 100° — ee
+a. — - es a
+‘Re+Examination C2O21-X2 [2O2Z2-RS)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4
+3) In all 5_ questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+questions.
+
+i 20 marks (5
+“ Answer briefly: manrks cach)
+~ a. | Calculate Debt to Equity Ratio: Equity Share Capital =
+Co-: 5,00,000; General Reserve 2 90,000; Accumulated
+os ; Profits % 50,000; 10% Debentures % 1,30,000; Current
+: Liabilities = 1,00,000.
+b. | If Opening Stock on 1* May is 80 units @20 each,
+co-: Purchases on 5 May is 100 units @Rs.10 each,
+So- : Purchases on 10 May is 20 units @Rs. 5 each, sold on
+BL- 20 May is 40 units @Rs. 30 each. Find Weighted
+Average cost per unit of the sale on 20 May 2023
+CO-: c. | State the features of Revenue expenditure with 3
+So- : examples
+--- page 2 ---
+[ BL-
+CO-
+
+SO- ;
+
+BL-
+
+2
+
+d. | Explain any 4 Accounting Concepts and Conventions.
+
+Q2
+
+CO-;
+SO-;
+BL-
+
+A Prepare a Trial Balance as at 31° December 2022
+
+from the following information
+
+(10)
+
+Revenue 43 200
+
+Inventory 15 Jan 2022 5 700
+
+a
+Purchases 49 900
+
+Wages and salaries 4 400
+Rent and rates 1 800
+Advertising 2 600
+Office Equipment 41 000
+Fixtures and fittings 8 400
+Trade Receivables 14 000
+Cash and Bank 11 000
+Trade payables 12 000 (5)
+10% Loan from Bank 15 000
+Capital 75 600
+
+Drawings 7 000
+
+5
+B_ | Calculate Current Ratio and Quick Ratio ©)
+
+Debtors 5000 Stock 8000 Prepaid expenses 1000
+
+~
+--- page 3 ---
+creditors 3000 Payable 1000
+
+Explain Cash flow from Financing activities
+
+Enter the following transactions in the Journal and post
+them into ledger and from the information obtained
+prepare a Roy’s Trial Balance.
+
+Nov 10% : Mrs. Roy started business with 60,000
+11" : Bought furniture from Modern Furniture for
+12%_: Purchased goods for cash 15,000
+
+Q3
+
+CO-;
+SO-; BL-
+
+13 ; Purchased goods from B. Sen & Co for 30,00
+14" : Opened a bank account by depositing 16,000
+16 : Sold goods for cash 15,000
+
+17% : Purchased stationery for 1000 from Bharat St
+18% : Sold goods to Zahir Khan for 10,000
+
+19" : Bought machinery for 6,000 and payment ma
+20% : Goods returned by Zahir Khan for 2,000
+
+21% : Payment to B.Sen & Co by cheque 5,000
+22°4 : Withdrew from bank for personal use 3,000
+23" ; Interest paid through cheque 2,000
+
+24 : Withdrew from bank for office expenses 10,
+26" : Cheque received from Zahir Khan 5,000
+27 : Paid electricity bill for 100
+
+29% : Cash sales for 6,000
+
+30% : Commission received by cheque 5,000
+
+20
+
+Q4
+
+CO-;
+SO-;
+BL-
+
+On January 1, 2022, Hiral’s cash book showed debit
+balance of cash Rs. 1,500 and bank Rs. 12,500. During
+the month of January following business was transacted:
+2022
+
+Jan.1 Deposited cash Rs. 500 to business bank
+account.
+
+id 7 Purchased office furniture for cash Rs. 700;
+cash sales Rs. 2,000.
+
+» 9 Received from Mr. Shabir a cheque for Rs.
+2,550 in part payment of his account and not deposited.
+
+15
+--- page 4 ---
+» 12 Paid by cheque for goods purchased from
+Mr. Gulzar worth Rs. 1,000. ‘
+» 18 Drew from bank for owner domestic use Rs.
+200.
+
+» 24. Sold merchandise to Zeshan Bros. for Rs.
+1,500 who paid by cheque which was deposited in the
+bank.
+
+” 24 Paid to Mr. Salman Rs. 900 by cheque.
+
+» 28 Deposited into bank the cheque received
+from Mr. Shabir.
+
+» 29 Paid salaries by cash Rs. 950.
+
+» 30. Drew from bank for office use Rs. 450.
+
+Read and analyse the following Balance sheet
+
+Q5
+
+CO-;
+SO-;
+BL-
+
+Prepare Analytical Petty Cash Book from the following
+transactions in the books of Suresh General Stores,
+
+Pune, The imprest amount is = 1,500 received from the
+
+main cashier.
+2023 January Amt (2)
+01 Paid Cartage 50
+02 Telephone Charges 40
+02 Bus Fare 20
+03 Postage 30
+04 Refreshment to Employees 80
+06 Courier Charges 30
+08 Refreshment to Customers 50
+10 Cartage 35
+15 Taxi Fare to Manager 70
+
+18 Purchased Stationery 65
+
+(10)
+--- page 5 ---
+20 Bus Fare 10
+
+22 Xerox Charges 30
+
+25 Internet Charges 35
+
+27 Postage Stamps 200
+
+29 Repair on Furniture 105
+
+30 Cleaning Expenses 115
+
+31 Miscellaneous Expenses 100
+
+B_| Find value of Closing stock by FIFO Method
+2023
+January 1 Purchased 5 bikes @ $50 each
+January 5 Sold 2 bikes
+January 10 Sold 1 bike
+January 15 Purchased 5 bikes @ 70 each
+January 25 Sold 3 bikes
+
+(10)
+
+Q6
+
+CO-;
+SO-;
+BL-
+
+A | Golibar co. has a difference in balance as per cash book
+and bank statement as on 31st March 2021.
+
+Let’s Understand the Transaction Details
+
+1. Balance as per bank statement as on 31st March
+2021 is 5000. Balance as per the cash book is
+$1,650.
+
+2. Checks of 2000 and 1000 issued as on 30th
+March 2021, but not yet cleared.
+
+3. Insurance paid by the bank is 200. It is not yet
+recorded in the cash book.
+
+4. An outgoing check of 1000 was recorded twice
+in the cash book. It is accurately recorded in the
+bank passbook.
+
+[10)
+--- page 6 ---
+5. Payment of a 500 check is recorded twice in the
+passbook. ;
+
+6. Dividends received 600 recorded only in the se
+
+bank statement and not in the cash book.
+
+7. Acheck of 500 was deposited on 29th March
+2021, but it is not collected.
+
+8. Bank charges of 50 were debited, it is only
+recorded in the bank passbook.
+
+Consider a piece of property, plant, and equipment
+(PP&E) that costs 25,000, with an estimated useful life
+
+of 8 years anda 2,500 salvage value. Calculate
+
+Depreciation for all 8 years by Written Down Value -
+Method
+Give journal entries for issue of bonds at par, at [10)
+Q7 premium and at discount
+CO-;
+SO-; Explain Accounting for Accounts receivable (10)
+BL-
+````
+
+## 2021-22 · Final-Exam · Sem 2 · paper 9f8e06f98e0d
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Sem-II, Final Exam, A Y 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 May 2022
+- Text: ocr (5 pages), mean OCR confidence 93.3
+
+````text
+oe Final Examination:
+
+peste
+
+< SVKM’s NMIMS Vig
+. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ©"
+
+Academic Year: 2021-2022 X
+
+Soha oa
+
+Programme: B. Tech CSE Data Science : Year: I Semester: II
+
+Subject: Principles of Accounting -I ‘
+. Marks: 100 L
+
+Time: 11.00 am to 2.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: _ OS
+
+Date: 10 May 2022 4,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+/
+
+1
+2 Answer briefly (Five marks each) [20]
+
+a. Explain the distinction between Capital expenditure and Revenue Expenditure
+
+with two examples each ~
+
+b. Discuss any two accounting concepts/conventions
+
+c. Give any three examples of Cash flow from Operating activities, Investing
+
+activities and Financing activities
+
+d. Give the Formula for calculating Weighted Average cost per unit under
+Perpetual and Periodic System of Stock Valuation ;
+
+Pass Journal Entries for the following transactions in the books of Mr Robert
+in 2021 who commenced business with a capital of Rs.100,000 in cash. On the
+same date he opened the bank account in ADCB and deposited $20,000.
+During the month of January 2011 the following transactions took place:
+
+20
+Q2. Jan 1 Bought goods for cash 70,000 . [20]
+Jan 2 Sold goods to Steve Co. (Credit) 38,000
+
+Jan 15 Sold goods for cash 9,000
+
+Us
+--- page 2 ---
+Jan 21 Steve Co. paid by cheque 35,000
+Jan my) Stationery bill paid by cheque 2,000
+Jan 22 Telephone bill by cash 500
+
+Jan 31 Paid rent by cash 2,000
+
+Jan 31 Paid salaries by cash 3,000
+
+Jan 31 Withdrew cash personal use 5,000
+
+Required:
+Record journal entries for the transactions and post them to ledgers.
+
+Q.3
+
+Prepare Trial Balance as on 31.03.2022 from the following balances of Ms.
+Mallika
+
+Drawings Rs. 74,800
+Purchases Rs. 295,700
+Stock (1.04.2021) Rs. 30,000
+Bills receivable Rs. 52,500
+Capital Rs. 250,000
+Furniture Rs. 33,000
+Discount allowed Rs. 950
+Sales Rs. 335,350
+
+Rent Rs. 72,500
+
+Freight Rs. 3,500
+
+Printing charges Rs. 1,500
+
+Sundry creditors 75,000
+Insurance Rs. 2,700
+
+Sundry expenses Rs. 21,000
+Discount received Rs. 1,000
+Bank loan Rs. 120,000
+Stock (31.03.2022) Rs. 17,000
+Income tax Rs. 9,500
+Machinery Rs. 215,400
+
+Bills payable Rs. 31,700
+
+On 01/04/2021 Machinery purchased for Rs 11,00,000/- and paid for
+transportation charge 1,50,000/- to transport the machine in our plant and paid
+installation charges also paid for Rs 50,000/-. Scrap value will be Rs
+
+(10)
+
+(10)
+
+2S
+--- page 3 ---
+x
+
+1,00,000/- and the useful life of machinery is 20 years. Year ending 31 March.
+Charge depreciation with the Straight Line Method of depreciation.
+
+Calculate depreciation rate and amount of depreciation from 2017 to 2036
+
+(10)
+Thé following trial balance is prepared after preparation of income statement
+for Green as at 31 March 2021.
+Dr. Cr.
+$ $
+Prenises 30000
+Furniture 45000
+Vehicles 4000
+Inventory 3400
+Bank 2300
+Capital 43500
+Loan from ABC Bank 40000
+Q.4. Trade receivables and trade payables 2000 2300
+Net profit 8500
+Drawings 7600
+ae ee
+Required:
+Prepare balance sheet for F. Green as at 31 March 2021 in vertical style.
+Joe owns and runs a computer assembly plant in Hawaii and he wants to (05)
+
+know his equity in the business. His balance sheet for the previous year
+shows that the warehouse premises are valued at 1000000, the factory
+equipment is valued at 1000000, inventory is valued at 800,000 and that
+debtors owe the business 400,000. The balance sheet also indicates that Joe
+owes the bank 500,000, creditors 800,000 and the wages and salaries stand at
+800,000. Calculate Owner’s equity . ,
+
+Calculate Cost of Goods sold, if Sales = Rs 500000, Purchases = Rs. 230000 ,
+Opening stock = Rs. 30000, closing stock = Rs. 15000
+--- page 4 ---
+Prepare Petty Cash book from the following
+Opening cash balance of petty cash Rs. 300
+Paid for Wages Rs. 75
+
+Paid for advertising Rs. 65
+Paid for Postage Rs 25
+
+Paid for electricity Rs. 40
+Paid Printing charges Rs. 20
+Paid for refreshment Rs. 35
+
+(05)
+
+Q.5.
+
+Calculate the Current ratio and Quick ratio from the following
+particulars
+
+Particulars Amount
+Inventory 150,000
+Cash 50,000
+
+Sundry Debtors | 300,000
+
+Creditors 350,000
+
+Bills Receivable | 30,000
+
+Bank Overdraft | 30,000
+
+From the following particulars of M/s Arya Industries, prepare bank reconciliation
+statement as on December 31, 2022
+1. Bank balance as per cash book Rs. 32,500
+
+2. Cheques deposited into bank but not credited upto December 31, 2022 Rs. 8,900.
+
+(10)
+
+4 /5-
+--- page 5 ---
+3. Cheques issued but not presented for payment Rs 12,500.
+4. Bank credited Rs. 5,000 for receiving dividend through Electronic Clearing System. | (10)
+5. Bank charges debited by Bank Rs.400.
+
+A The following is a summary of the receipts and issues of materials in a factory
+during the [0]
+month of April.
+Date Particulars Qty. Rate per unit Rs.
+1 May Purchased 2000 units @ 10 each
+_ 5 May Purchased 300 units @ 12 each
+$ 8 May Issued 1200 units
+] 10 May Purchased 200 units @ 14 each
+Q6 12 May Issued 1000 units
+
+23 May Purchased 300 units @ 11 each
+31 May Issued 200 units
+
+Prepare a statement showing the pricing of issues on the basis of FIFO
+
+b. Give journal entries for issue of bonds at par, at premium and at discount (05)
+
+Cs; Explain Accounting for Accounts receivable (05)
+````
+
+## 2021-22 · Re-Exam · Sem 2 · paper 0b9e1de86d3b
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ACCOUNTIG-I/Principles of Accounting-I, Sem-II, Re-Exam, 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 June 2022
+- Text: ocr (4 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS
+
+; SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING _
+F Academic Year: 2021-2022 4
+Programme: B. Tech CSE Data Science Year: I Semester: II
+
+Subject: Principles of Accounting -I
+‘ Marks: 100 /
+Date: 30 June 2022 . Time: 11.00 am to 2.00 pm
+Durations: 3 (Hrs)-
+No. of Pages: __ OY.
+Re-Examination(2021-22)
+
+= es So ny
+
+| Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+* of the Answer Book, which is provided for their use.
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3) In all__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi
+Answer briefly: (Five marks each) [20]
+a. Explain any four accounting concepts/conventions
+b. Calculate Closing stock as per Periodic System (Weighted Average ) for the month of May 2022
+Opening Stock 100 units @100 each, Purchases :
+4® March 200 units @120 each
+15‘ March 350 units@ 110 each
+224 March 100 units@130 each
+30% March 150-units @440 each
+On 31% March , there were 500 units sold @ Rs. 100 each
+c. Prepare a Trial Balance from the following balances as at 31st March 2017 :-
+}
+Balances z
+| Cost of Goods Sold _ |} 5,20,000
+Leena
+| Opening Stock 50,000
+zi Closing Stock 50,000
+Salary and Wages 50,000
+
+4
+--- page 2 ---
+Sales 8,00,000
+
+Plant & Machinery 2,00,000
+Drawing 50,000
+
+Investment 4,00,000
+Creditors 1,00,000
+Capital 4,00,000
+
+Explain any two differences between capital expenditure and revenue
+
+& expenditure with examples
+Record the following transactions in the Journal and post them into ledger and
+prepare a Trail Balance
+Oct 1% : Neel started business with a capital of 80,000
+ae : Bought goods from Karl on credit 20,000
+qn : Sold goods to Tarl 25,000
+sth : Cash purchases 25,000
+7 : Cash sales 15,000
+9% : Goods retuned to Karl 2,000
+10% —: Bought furniture for 15,000
+11% — : Cash paid to Karl 12,000
+12% —: Goods returned by Tarl 3,000
+Q2 14th : Goods taken by Neel for personal use 3,000 [20]
+
+1st : Cash received from Tarl 12,000
+
+16: Took loan from Parl 30,000
+
+17%: Salary paid 5,000
+
+18 —: Bought stationery for 1,000
+
+ig : Amount paid to Parl on loan account 18,000
+
+20% —_: Interest received 4,000
+
+21g
+--- page 3 ---
+a. Prepare Trial balance from the following [
+ie 10]
+
+Particulars :
+Equity Shareholders 100,000
+Reserves 50,000
+Payables 25,000
+Provision for Bad Debts 2,000
+Fixed Assets 75,000
+Receivables 25,000
+‘Cash and Bank 10,000
+inventory 20,000
+$ Creditors 3,000
+*
+
+Investments 50,006
+
+| Q3 Total
+b. From the following Balance Sheet Calculate Shareholders equity [10]
+S hare Capital 50,00,000 Land And Building 35,00,000
+Retained Earnings : 10,00,000 Plant And Machinery 25,00,000
+Long Term Debt - 20,00,000 Stock : —___ 15,00,000 _
+Outstanding Payments 4,00,000 Debtors /10,00,000 -
+Creditors 2,50,000 Cash 1,50,000
+Total : 86,50,000 Total _ ___ 86,50,000
+a. A fixed asset having a useful life of 3 years is purchased on 1 January
+2013.
+Cost of the asset is $2,000 whereas its residual value is expected to be
+$500.
+[10]
+Calculate depreciation expense for the years ending 30 June 2013 and 30
+June 2014.
+a4 a :
+Depreciation expense per annum shall be how much .Show calculation
+Don Barco has recently started a new business which deals in a single product.
+b.
+ae The first three months of his year of trading showed the following purchases and | (10)
+sales:
+
+Jan 1 30 units Purchased @ Rs 3 each
+31 Jan Sold 20 units @ Rs 6 each
+
+31G
+--- page 4 ---
+Feb 1 Purchased 40 units @ Rs 4 each
+Feb 28 Sold 35 units @ Rs 8 each
+
+4 March Purchased 50 units @ Rs 5 each
+315t March Sold 28 units @ RS 10 each
+
+Q5
+
+From the following particulars of Reema Traders, prepare a bank
+reconciliation statement
+
+on June 30,2014
+
+1. Balance as per the cash book * 35,750
+
+2.‘ 250 charges for Credit card fee is debited by bank, which is not
+recorded in
+
+cash book.
+
+3. Cheques for * 7,550 are deposited in the bank but not yet collected by
+
+the Bank.
+4. There was also a debit in the pass book of * 3,500 in respect of a
+
+discounted bill dishonored.
+
+Give Format of Balance Sheet
+
+(10)
+
+(10)
+
+Q6
+
+Give Journal Entries for Bonds Issued at Par, Premium and discount
+
+Give overview of Accounts receivable
+
+(10)
+
+(10)
+````

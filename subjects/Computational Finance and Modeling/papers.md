@@ -1,0 +1,472 @@
+# Computational Finance and Modeling: question papers in full
+
+3 unique papers · 2022-23 to 2024-25 · Computer Science and Business Systems
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Final-Exam · Sem 8 · paper cabf0156bef9
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VIII/COMPUTIONAL FINANCE & MODELING/Computational Finance and Modeling, Sem VIII, Final Exam 2024-25.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/04/2025
+- Text: ocr (2 pages), mean OCR confidence 83.5
+
+````text
+SVKM-S NM ms
+" MUKESH PATEL SCHOOL OF TECHNOLOGY. MANAGEMENT& ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B.Tech B a Year: IV Semester: VIII
+
+Stream/s -CSBS
+
+Subject: Computational Finance and Modeling : Time: 2 hrs (10 am to 12ygen)
+Date:30/04/2025 ; No. of Pages: 2 .
+Marks: 50. °
+
+Final Examination (24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and.on the cover
+ofthe Answer Book, which is provided for their use.
+
+1) Question No: | is compulsory.
+
+2) Out-of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. :
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+OF Answer briefly: , : [10]
+a. - | Assume that the stock of IT€ has an anna expected Fetarn of 25% with an annual
+
+volatility of 15%.
+
+CO-3 ; (a) What return and risk do you expect over a period of 5 days?
+
+SO-3 ; (b) What is the range of returns for 1 day and 5 days with 95% and 99% 5
+
+BL-1 confidence? Assume 250 days in a year
+Use 95% Zscore=1.65 —
+99% Z score = 2.33 ;
+
+‘ b. ‘| Calculate the value of an American Call option using Binomial tree clearly drawing ;
+
+CO-2 ; "| the binomial tree with the following details: : : :
+
+SO- 2; $0=$50} K=555; T= 6 month;At=2 months,r=5% p.a. : 5
+
+BL-3 . Yage up move in each of 2 months = 10% ‘ oS
+
+%age down move in each of 2 months = 20%.
+--- page 2 ---
+NIFTY Spot Last Traded Price "| 23527.5-
+
+Call Put
+“BID ASK STRIKE BID ASK
+23,150.00 24.35 24.45
+. |. 23,200.00 29.5 29.6
+| 23,250.00 36:25 36.35
+23,300.00 45 45.1
+23,350.00 55.9 56
+. ; 23,400.00 68.85 69
+Q2 : 23,450.00 84 84.25
+co-4; : : : : |
+50-4; ; 23,500.00 102.35 102.55 [10]
+BL-3 | 447 (2 | 147.2 23,550.00 123.4 123.65
+, 120.75 121 23,600.00 .
+98.3 98.55 23,650.00
+78.05 - » | 78.2 23,700.00
+62.1 62.3 - 23,750.00
+48.95 49.1. * | 23,800.00
+38.45 38,55 23,850.00
+129.7 — : 29.8 23,900.00
+23.1 : 23.15 23,950.00
+_.| Calculate VIX based on the above information °
+3 : The market price of a European call is $3.00 and its price given by Black- Scholes:
+_¢0:3: . Merton model with a volatility of 30% is $3.50. The price given by this Black-Scholes-
+50-3; Merton model for a European put option with the same strike price and time to | [10]
+BL : maturity is $1.00. What should be the market price of the put option be? Explain
+the reasons for your answer.
+4 What volatility smile is likely to be observed when:
+co-5: - | (a) Both tails of the stock price distribution are less heavy than those of. the
+. 50-5: lognormal distribution? : [10]
+Blt (b). The right tail is heavier, and: the left tail is less heavy, thee that ofa lognormal
+: distribution? :
+Qs" Consider a stock index currently standing at 250. The dividend yield on the index is
+CO-4; 4% per annum, and the risk-free rate is 6% per annum. A three-month European call [10]
+SO-4; option on the index with a strike price of 245 is currently worth $10, What is the
+BL-3 value of a three-month put option on the index.with a strike price of 245?
+Qé6 : The parameters of a GARCH(1,1) modei are estimated as w= 0.000004 and a=.0.05, :
+CO-3; and: B=0.92. What is the long run: average volatility and what is the equation [10]
+SO-3;.~ describing the way that the variance rate reverts to its long-run average? If the
+BL-3. current volatility is 20% per year, what is the expected volatility in 20 days? ;
+Q7 : j
+CO-3; So = 48; K = 55;r=10% p.a; t=0.25;0=40% Calculate the delta, theta, vega, gamma, “10]
+SO-3; Rho of the call option
+
+BL-3
+````
+
+## 2022-23 · Final-Exam · Sem 8 · paper 47c7610bd423
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VIII/COMPUTIONAL FINANCE & MODELING/Computional Finance & Modeling, Sem-VIII, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29-04-2023
+- Text: ocr (3 pages), mean OCR confidence 77.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech Stream : CSBS Year: IV Semester: VIII
+
+Subject: Computational Finance & Modeling Time: 3 Hours. ( 10 to 1 )
+am pm
+
+Date: 29-04-2023 No. of Pages: 3
+
+Marks: 100
+
+End Term Test
+
+Instructions: Candidates should read the following instructions carefully.
+1) Answer to each new question to be started on a fresh page.
+
+2) Figures in brackets on the right hand side indicate full marks.
+
+3) Assume Suitable data if necessary.
+
+4) Question nos. 1 & 7 are compulsory.
+
+5) Solve any three questions from the remaining five questions.
+
+Ql Answer briefly (Each question is for five marks): [20]
+CO-3 ; a. _| If you are trading in Derivatives, what are the important points that
+SO-3 ;
+BL-1 you need to remember ?
+CO-2; b. ;
+SO-2; List the assumptions used to derive the BSM differential equation. | [5]
+BL-1 .
+CO-5 ; c. | What is the use of importance sampling for Monte Carlo simulation 15]
+D or of VaR for portfolios of options ? Explain it in detail.
+cO-1; d. | What are the different types of underlying assets ? (5]
+e Expiain each of them in detail (with suitable examples). |
+Answer any three questions from Q2 to Q6 (Each question is for twenty marks)
+Q2 . . wes . .
+List and explain the classification of PDE’s using multiple forms 120]
+CO-1;
+SO-1; along with boundary conditions & solutions for PDE’s.
+—_ BL-1
+rl With the help of a neat labelled diagram (for every output), draw
+Q3 the final net pay-off expected out of a triple long call @ 2150, two
+CO-2 ; short calls @ 2015, two long puts @ 2060. You may assume the [20]
+nen current price of the stock @ 2025 with a premium of 60 for any of
+
+the 4 outputs. You may assume the lot size to be a hundred.
+--- page 2 ---
+Q4 What are Options & why do people trade in them ? What’s a
+
+soe ; trade-off ? Give examples of the 4 basic types of options using the | [20]
+BL+l profit graphs (with neat diagrams). Also define Bid, Ask, Volume.
+Q5
+GOL: Explain with the help of a neat diagram and examples, 5 different 120]
+SO-4 ; exotic option strategies. Assume relevant data if needed.
+BL-1
+Define and explain all the Option Risks in detail with examples.
+Q6 If the current stock price is 220 and the exercise prices are 215
+soa , and 230, with a risk free rate of interest @ 5% and the time to [20]
+BL-l expiration is 4 months. What will be the price of a call at 215 and
+price of a put at 230, if the volatility is either 25% or 50% ?
+Q7 Based on Statistical Analysis of Financial Returns, explain the
+following in detail : Fat-tailed and skewed distributions, Outliers,
+CO'S ; . a: [20]
+SO-5 ; Stylized facts of volatility, implied volatility surface and volatility
+BL-1
+
+estimation using high frequency data.
+
+The Z-Table is shown below :
+
+9.00 0.03 0.02 0.03 0.04 0.05 0.06 0.07 0,08
+
+0.09
+
+90,5000 0.5040 0.5080 0.5120 0.5160 0.5199 0.5239 0.5319
+0.5398 0,5433 0.5478 0.5517 0.5557 0.5596 0.5636 0.5714
+0.5793 0.5832 0.5871 0,5910 0.5948 0.5987 0.6026 6 0.6103
+0.6179 0.6217 0.6255 90,6293 0.6331 0,6368 0.6405 0.6443 0.6480
+0.6554 0.6591 0.6628 0.6664 0.6700 0.6736 0.6772 09,6808 0.6844
+0.6915 0.6950 0.6985 9.7019 0.7054 0.7088 0.7123 0.7157 0.7190
+0,7257 0.7291 0.7324 0,7357 0.7389 0.7422 0.7454 0.7486 0.7517
+0.7580 0.7611 0.764 0.7673 0.7704 0.7734 0.7764 0.7794 0.7823
+0.7881 0.7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.8106
+0.8159 0.8186 0.8212 0.8233 0.8264 0.8289 0.8315 0.8340 0.8365
+0.8413 0.8433 0.8461 0.8485 0.8508 0.8531 0.8554 0.8577 0.8599
+0.8543 0.8665 0.8686 0.8708 0.8723 0.8749 0.8770 0.8790 0.3810
+0.8849 0.8869 0.8883 0.8907 0.8925 0.8944 0.8952 0.8980 0.8997
+9.9032 0.9049 0,9066 0.9032 0.9099 0.9115 0.9131 0.9147 0.9162
+0.9192 0.9207 0.9222 0,9236 0.9251 0.9265 0.9279 0.9292 0.9306
+0.9332 0,9345 0.9357 0.9370 0,9382 0.9394 0.9406 0.9418 0.9429
+0,9452 0.9463 0.9474 0.9484 0.9495 0.9505 0.9515 0.9525 0.9535
+0.9554 0.9564 0.9573 0.9582 0.9591 0.9599 0.9608 6.9616 0.9625
+0,9641 0.9549 0.9655 0.9664 0.9671 0.9678 0.9686 0.9693 0.9699
+90,9713 0.9719 0.9726 0.9732 0.9738 0.9744 0.9750 0.9756 0.9761
+0.9772 0.9778 0.9783 0.9788 0.9793 0.9798 0.9803 0.9808 0.9812
+0.9821 0.9825 0.9830 0,9334 0.9333 0,9842 0.9856 09,9850 0.9854
+0.9861 0,9864 0,9868 0.9871 0.9875 0.9878 0.9381 0.9884 0.9887
+0,9893 0.9895 0.9898 0.9901 0.9904 0.9906 0.9909 0.9911 0.9913
+0.9918 90,9920 0.9922 90,9924 0.9927 0,9929 0.9931 0,993 0.9934
+0,9938 90,9949 0.9941 0.9943 0.9945 0.9946 0.9948 0.9949 0,9951
+60,9953 0.9955 0,9956 0.9957 0.9953 0.9960 0.9961 0.9962 0.9953
+9.9965 0.9965 0.9967 0,9968 90,9969 90,9970 0.9971 0,9972 0.9973
+0.9974 0.9975 0.9976 0,9977 0.9977 0.9978 0.9979 0.9979 0.9930
+0.9981 0.9982 9.9982 0.9983 0.9984 0.9984 0.9985 0.9985 6,9935
+
+0,5359
+0.5753
+0.6141
+0.6517
+0.6879
+0.7224
+0.7549
+0.7852
+0,8133
+90,8389
+0.8621
+0.8830
+0.9015
+0.9177
+0.9319
+0.9441
+0.9545
+0.9633
+0.9706
+0.9767
+0,9817
+0.9857
+0,9890
+0.9916
+90,9936
+90,9952
+0.9964
+0.9974
+0.9981
+0.9986
+
+mm
+--- page 3 ---
+Z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 9.08 0.09
+“3.9 | 0.00005 0.00005 0.00004 0.00004 0.00004 0.00004 0.00004 0.00004 0.00003 0.00003
+-3.8 | 0.00007 0.00007 0.00007 0.00006 0.00006 0.00006 0.00006 0.00005 0.00005 0.00005
+3.7} 0.00011 0.00010 0.00010 0.00010 0.00009 0.00009 0.00008 9.00008 0.00008 0.00008
+-3.6 | 0.00016 0.00015 0.00015 0.00014 0.00014 0.00013 0.00013 0.00012 0.00012 0.00011
+3.5 | 0.00023 0.00022 0.00022 0.00021 0.00020 —*0.00019 _—0.00019 _—0.00018 0.00017 0.00017
+73.4 | 0.00034 0.00032 0.00031 0.00030 0.00029 0.00028 0.00027 0.00026 0.06025 0.00024
+-3.3 | 0.00048 0.00047 0.00045 0.00043 0.00042 0.00040 0.00039 0.00038 0.00036 0.00035
+-3.2 | 0.00069 0.00066 0.00064 0.00062 0.00060 + 0.00058 0.00056 0.00054 0.00052 0.00050
+-3.1 | 0.00097 0.00094 0.00090 0.00087 0.00084 0.00082 9.00079 0.00076 0.00074 0.00071
+-3.0 | 0.00135 0.00131 0.00126 0.00122 0.00118 0.00114 0.00111 _—0.00107 0.00104 0.00100
+2.9 | 0.00187 0.00181 0.00175 0.00169 0.00164 0.00159 0.00154 0.00149 0.00144 0.00139
+2.8 | 0.00256 0.00248 0.00240 0.00233 0.00226 0.00219 6.00212 0.00205 0.00199 0.00193
+2.7 | 0.00347 0.00336 0.00326 0.00317 (0.00307 0.00298 +~—-0.00289 «0.00280 0.00272 0.00264
+-2.6 | 0.00466 0.00453 0.00440 0.00427 0.00415 0.00402 0.00391 0.00379 0.00368 0.00357
+2.5 | 0.00621 0.00604 | 0.00587 0.00570 _0.00554__—-0.00539__0.00523 _0.00508 0.00494 0.00480
+2.4 | 0.00820 0.00798 0.00776 0.00755 0.00734 0.00714 0.00695 0.00676 0.00657 0.00639
+2.3 | 0.01072 0.01044 0.01017 0.00990 0.00964 0.00939 0.00914 0.00889 0.00866 0.00842
+2.2 | 6.01390 6.01355 0.01321 0.01287 0.01255 9.01222 0.01191 0.01160 0.01130 0.01101
+2.1 | 0.01786 0.01743 0.01700 0.01659 0.01618 0.01578 0.01539 0.01500 0.01463 0.01426
+2.0 | 0.02275 0.02222 0.02169 0.02118 0.02068 0.02018 ~— 0.01970 __—(0.01923 0.01876 0.01831
+
+“1.9 | 0.02872 0.02807 0.02743 0.02680 0.02619 0.02559 0.02500 0.02442 0.02385 0.02330
+-1.8 | 0.03593 0.03515 0.03438 0.03362 0.03288 0.03216 0.03144 0.03074 0.03005 0.02938
+-1.7 | 0.04457 0.04363 0.04272 -«0.04182 0.04093 0.04006 0.03920 0.03836 0.03754 0.03673
+-1.6 | 0.05480 0.05370 0.05262 0.05155 0.05050 0.04947 0.04846 0.04746 0.04648 0.04551
+-1.5 | 0.06681 0.06552 0.06426 0.06301 0.06178 0.06057 __—0.05938 0.05821 0.05705 0.05592
+“1.4 | 0.08076 0.07927 0.07780 0.07636 0.07493 0.07353 0.07215 0.07078 0.06944 0.06811
+-1.3 | 0.09680 0.09510 0.09342 0.09176 0.09012 0.08851 0.08691 0.08534 0.08379 0.08226
+1.2 | 0.11507 0.11314 0.11123 0.10935 0.10749 0.10565 0.10383 0.10204 0.10027 0.09853
+“1.1 | 0.13567 0.13350 0.13136 0.12924 0.12714 0.12507 0.12302 0.12100 0.11900 0.11702
+-1.0 | 0.15866 0.15625 0.15386 0.15151 0.14917 0.14686 0.14457__(0.14231 0.14007 0.13786
+70.9 | 0.18406 0.18141 0.17879 0.17619 0.17361 0.17106 += 0.16853 0.16602 0.16354 0.16109
+-0.8 | 0.21186 0.20897 0.20611 0.20327 0.20045 «0.19766 0.19489 0.19215 0.18943 0.18673
+-0.7 | 0.24196 0.23885 0.23576 0.23270 0.22965 0.22663 0.22363 (0.22065 0.21770 0.21476
+-0.6 | 0.27425 0.27093 0.26763 0.26435 «0.26109 0.25785 0.25463 0.25143 0.24825 0.24510
+-0.5 | 0.30854 0.30503 0.30153 0.29806 0.29460 0.29116 0.28774 _—(0.28434 0.28096 0.27760
+70.4 | 0.34458 0.34090 0.33724 0.33360 © 0.32997--:0.32636 = 0.32276 =—:0.31918 0.31561 0.31207
+0.3 | 0.38209 0.37828 0.37448 0.37070 0.36693 0.36317 (0.35942 0.35569 0.35197 0.34827
+0.2 | 0.42074 0.41683 0.41294 «0.40905 «0.40517 0.40129 0.39743 0.39358 0.38974 0.38591
+0.1 | 0.46017 > 0.45620 0.45224 0.44828 (0.44433. «0.44038 = (0.43644 = 0.43251 0.42858 0.42465
+0.0 | 0.50000 0.49601 0.49202 ~_0.48803__—0.48405 —:0.48006__—0.47608__—0.47210 0.46812 0.46414
+````
+
+## 2022-23 · Re-Exam · Sem 8 · paper 107f9ba9a757
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CSBS/SEM-VIII/COMPUTIONAL FINANCE & MODELING/Computional Finance & Modeling, Sem-VIII, Year 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01/04/2023
+- Text: ocr (3 pages), mean OCR confidence 77.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN!
+Academic Year: 2022-2023
+
+Program: B.Tech Stream : CSBS Year: IV Semester: VII
+Subject: Computational Finance & Modeling Time: 3 Hours. ( 10, to bn
+Date: 01/04/2023 No. of Pages: 3
+Marks: 100
+
+Re- Examination.
+
+Instructions: Candidates should read the following instructions carefully.
+1) Answer to each new question to be started on a fresh page.
+
+2) Figures in brackets on the right hand side indicate full marks.
+
+3) Assume Suitable data if necessary.
+
+4) Question nos. 1 & 2 are compulsory.
+
+5) Solve any three questions from the remaining five questions.
+
+Answer briefly (Each question is for five marks):
+
+Qi [20]
+CO-3 ; a. | Discuss the following general considerations in the construction of
+50-3 ; [5]
+BL-1 a random number generator (under Monte Carlo).
+cO-1; b. | Define ITM, OTM & ATM. Substitute it with the help of money-
+SO-1 ; : . . [5]
+BL-1 ness using Option Contracts (like call or put).
+CO-5 ; c. | Why is an Option Chain required ? Explain premium, breakeven,
+SO-5 ; . 1 : .
+BLA exercise and assignment in detail.
+CO-1; d. ; . . .
+SO-1; Distinguish between an European Option and an American Option. | [5]
+BL-1
+Answer any three questions from Q3 to Q7 (Each question is for twenty marks)
+If the current stock price is 5000 and the exercise prices are 6000,
+
+2 ;
+- 5200 and 4700, with a risk free rate of interest @ 4.75 % and the 120)
+CO-4 ;
+50-4; time to expiration is 6 months. What will be the price of each call
+BL-4 & put at 6000, 5200 and 4700, if the volatilities are 30 & 45 %?
+Q3 What is a Derivative and why is it used ? List and explain five
+CO-2 ; different types of Derivative Contracts (like equity, currency, etc.) | [20]
+a How do we interpret Open Interest ? What does it indicate ?
+Q4 In discussing the simulation of Brownian Motion (One
+co-3: Dimension), explain Random Walk Construction, Cholesky [20]
+
+SO-3; Factorization and Brownian Bridge Construction in detail.
+--- page 2 ---
+BL-1 i
+
+Q5 Describe “Hedging” in incomplete markets. Explain the various
+CO-5 ; Jump Diffusion Processes in detail. Also define high-dimensional [20]
+pa covariance matrices, extreme value theory & statistical arbitrage.
+Q6 Using appropriate examples, define and explain ODE’s and [20]
+CO-1; PDE’s along with its order. Also elaborate representing of all the
+pe solutions of a PDE (with diagrams) along with Laplace Equation,
+
+Heat Equation, Simplified Heat Equation and Wave Equation.
+Q7 With the help of a neat labelled diagram, draw the net pay-off [20]
+CO-3 ; expected out of a dual long put @ 250, two short calls @ 215, one
+pig short call @ 260. You may assume the current price of the stock
+
+@ 225 with a premium of 25 for any of the 4 outputs. You may
+
+assume the lot size to be a hundred. (Neat Diagrams are a must)
+
+The Z-Table is shown below :
+
+0.06 0.01 9.02 6.03 0.04 8.05 6.06 0.07 0.08 9.09
+
+90,5000 0.5040 0.5080 0.5120 0.5160 0.5199 0,5239 0.5279 0,5319 0.5359
+0.5398 0.5433 0.5478 0.5517 0.5557 0.5596 0.5636 0.5675 0.5714 0.5753
+0.5793 0,5832 0.5871 0.5910 0.5943 0.5987 0.6026 0.6064 9.6103 0.6141
+0.6179 0.6217 0.6255 0.6293 0.6331 0.6368 0.6406 0.6443 0.6480 0.6517
+0.6554 0.6591 0,6628 0.6664 0.6700 0.6736 0.6772 0.6808 0.6844 0.6879
+0,6915 0.6950 0.6985 0.7019 0.7054 0.7088 0.7123 0.7157 0.7190 0.7224
+0.7257 0.7291 0.7324 0.7357 0.7389 0.7422 0.7454 0.7486 0.7517 0.7549
+0.7580 0.7611 0.7642 0.7673 0.7704 0.7734 0.7764 0.7734 0.7823 0.7852
+0.7881 0,7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.3106 0.8133
+0.8159 0.8186 0,8212 0.8238 0.8264 0.8289 90,8315 0.8340 0.3365 0.8389
+0.8413 0.8438 0.8461 0.8485 0.8508 0.8531 0.8554 O.8577 0.8599 0.8621
+0.8643 0.8665 0.8585 0.8708 0.8729 0.8749 0.8770 0.8790 0.8810 90,8830
+0.8849 0.8869 0.8888 0.8907 0.8925 0.8944 0.8962 0.8980 0.8997 0.9015
+0,9032 0.9049 0.9055 0.9082 0.9099 0.9115 0.9131 0.9147 0.9162 0.9177
+0,9192 0.9207 0,9222 0.9236 0,9251 0.9265 0.9279 0.9292 0.9306 0.9319
+0.9332 0.9345 0.9357 0.3370 0.9382 0.9394 0.9405, 0.9418 0.9429 0.9441
+0,9452 0,94563 0.9474 0.9484 0.9495 0.9505 0,9515 0.9525 0.9535 0.9545
+0.9554 0.9564 0.9573 0.9582 0.9591 0.9599 0.9608 0.9616 0.9625 0.9633
+0.9641 0.9649 0.9556 0.9664 0.9571 0.9678 0.9536 0.9693 0.9699 0.9706
+0.9713 0.9718 0.9725 0.9732 0.9738 0.9744 0.9750 0.9756 0.9761 0.9757
+0.9772 0.9778 0.9783 0.9788 0,9793 0,9798 0.9803 0.9803 0.9812 0.9817
+0.9821 0.9825 0.9830 0.9834 0.9833 0.9842 0.9846 0.9850 0.9854 0.9857
+0.9861 0.9864 0.9868 0.9871 0.9875 0.9878 0.9881 0.9884 0,9887 0.9890
+0,9893 0.9896 0.9888 0.99014 0,9904 0.9906 0.9909 0.9911 0,9913 0.9916
+0.9918 0.9920 0,9922 0.9924 0,9927 0.9929 0.9931 0.9932 0.9934 0.9936
+0.9938 0.9940 0.9941 0,9943 0,9945 0.9946 0.9948 0,9949 0.9951 0.9952
+0,9953 0.9955 0,9955 0.9957 0.9953 0.9960 0.9961 0,9962 0,9963 0.9964
+0.9965 0,9956 0.9967 0.9968 0.9969 0.9970 0,9971 0.9972 0,9973 0,9974
+0.9974 0.9975 0.9976 0.9977 0.9977 0,9978 0,9979 0.9979 0,9986 0.9981
+0.9981 0.9982 0.9982 0.9983 0.9984 0.9984 0.9985 0,9985 0,9986 0,9986
+--- page 3 ---
+Z 9.00 9.01 9.02 0.03 9.04 0.05 0.06 0.07 9.08 9.09
+-3.9 | 0.00005 0.00005 0.00004 0.00004 0.00004 0.00004 0.00004 0.00004 0.00003 0.00003
+-3.8 | 0.00007 0.00007 0.00007 0.00006 0.00006 0.00006 0.00006 0.00005 0.00005 0.00005
+-3.7 | 0.00011 0.00010 0.00010 0.00010 0.00009 0.00009 0.00008 0.00008 0.00008 0.00008
+-3.6 | 0.00016 0.00015 0.00015 0.00014 0.00014 0.00013 0.00013 0.00012 0.000127 0.00011
+-3.5 | 0.00023 0.00022 | 0.00022 0.00021 _ 0.00020 0.00019 0.00019 0.00018 ~—0.00017' 0.00017
+-3.4 | 0.00034 0.00032 0.00031 0.00030 0.00029 0.00028 0.00027 0.00026 0.00025 0.00024
+-3.3 | 0.00048 0.00047 0.00045 0.00043 0.00042 0.00040 §=0.00039 += 0.00038 =: 0.00036 0.00035
+-3.2 | 0.00069 0.00066 0.00064 0.00062 0.00060 0.00058 0.00056 0.00054 0.00052 0.00050
+-3.1 | 0.00097 0.00094 0.00090 0.00087 0.00084 0.00082 0.00079 0.00076 0.00074 . 0.00071
+-3.0 | 0.00135 0.00131 0.00126 0.00122 0.00118 0.00114 0.00111 0.00107 — 0.00104 0.00100
+-2.9 | 0.00187 0.00181 0.00175 0.00169 0.00164 0.00159 0.00154 0.00149 0.00144 0.00139
+-2.8 | 0.00256 0.00248 0.00240 0.00233 0.00226 0.00219 0.00212 0.00205 0.00199 0.00193
+-2.7 | 0.00347 0.00336 0.00326 0.00317 0.00307 0.00298 0.00289 0.00280 0.00272 0.00264
+-2.6 | 0.00466 0.00453 0.00440 0.00427 0.00415 0.00402. 0.00391 0.00379 0.00368 9.00357
+-2.5 | 0.00621 - 0.00604 0.00587 0.00570 0.00554 0.00539 0.00523 0.00508 _—0.00494 0.00480
+-2.4 | 0.00820 0.00798 0.00776 0.00755 0.00734 0.00714 0.00695 0.00676 0.00657 0.00639
+-2.3 | 0.01072 0.01044 0.01017 0.00990 0.00964 0.00939 0.00914 0.00889 0.00866 0.00842
+-2.2 |°0.01390 0.01355 0.01321 0.01287 0.01255 0.01222, 0.01191. 0.01160 0.01130 0.01101
+-2.1 | 0.01786 0.01743 © 0.01700 0.01659 0.01618 0.01578 0.01539 0.01506 6.01463 0.01426
+-2.0 | 0.02275 0.02222 0.02169 0.02118 0.02068 = 0.02018 = 0.01970 0.01923 0.01876 0.01831
+-1.9 | 0.02872 0.02807 0.02743 0.02680 0.02619 0.02559 0.02500 0.02442 0.02385 0.02330
+-1.8 | 0.03593 0.03515 0.03438 0.03362 0.03288 0.03216 0.03144 0.03074 "0.03005 0.02938
+-1.7 | 0.04457 0.04363 0.04272 (0.04182 0.04093 0.04006 0.03920 0.03836 0.03754 0.03673
+-1.6 | 0.05480 0.05370 0.05262 0.05155 0.05050 0.04947 0.04846 0.04746 0.04648 0.04551
+-1.5 | 0.06681 0.06552 0.06426 0.06301 0.06178 —0.06057__-0.05938 ~— 0.05821 _—0.05705 0.05592
+-1.4 | 0.08076 0.07927 0.07780 0.07636 0.07493 0.07353 0.07215 0.07078 0.06944 0.06811
+-1.3 | 0.09680 0.09510 0.09342 0.09176 0.09012 0.08851 0.08691 0.08534 = 0.08379 0.08226
+-1.2 | 0.11507 0.11314 0.11123 0.10935 0.10749 0.10565 0.10383 0.10204 = 0.10027 0.09853
+-1.1 | 0.13567 0.13350 0.13136 © 0.12924 0.12714 0.12507 © 0.12302 0.12100 0.11900 0.11702
+-1.0 | 0.15866 0.15625 0.15386 0.15151 0.14917 0.14686 0.14457 0.14231 0.14007 0.13786
+0.9 | 0.18406 0.18141 0.17879 0.17619 0.17361 0.17106 = 0.16853 0.16602 0.16354 0.16109
+0.8 | 0.21186 0.20897 0.20611 0.20327 0.20045 0.19766 0.19489 0.19215 0.18943 0.18673
+~0.7 | 0.24196 0.23885 0.23576 | 0.23270 = 0.22965 0.22663 0.22363 0.22065 0.21770 0.21476
+-0.6 | 0.27425 0.27093 0.26763 0.26435 «0.26109 0.25785 = 0.25463 0.25143 0.24825 0.24510
+-0.5 | 0.30854 0.30503 0.30153 0.29806 0.29460 0.29116 0.28774 0.28434 0.28096 0.27760
+-0.4 | 0.34458 0.34090 0.33724 «= 0.33360 0.32997 «0.32636 «0.32276 «= 0.31918 = 0.31561 0.31207
+0.3 | 0.38209 0.37828 0.37448 0.37070 0.36693 0.36317 0.35942 0.35569 0.35197 0.34827
+0.2 | 0.42074 0.41683 0.41294 0.40905 0.40517 0.40129 0.39743 0.39358 =—-0.38974 0.38591
+0.1 | 0.46017 0.45620 0.45224 0.44828 »=—-0.44433. 0.44038 = 0.43644 «0.43251 0.42858 0.42465
+
+0.0 | 0.50000 0.49601 0.49202 0.48803 0.48405 0.48006 0.47608 0.47210 _—*0.46812 0.46414 ,
+
+2
+````

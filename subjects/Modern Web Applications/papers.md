@@ -1,0 +1,453 @@
+# Modern Web Applications: question papers in full
+
+3 unique papers · 2021-22 to 2024-25 · Computer Science and Business Systems
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Final + Re-Exam · Sem 6 · paper 84469ebd31db
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/MODERN WEB APPLICATIONS/Modern Web Applications, Final Exam 2024-25 & Re Exam 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 87.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program: B.Tech (Computer Science and Business Systems) Year: III Semester: VI
+
+Stream: Computer Engineering
+
+Subject: Modern Web Applications Time: 03 hrs(_ 2 to S Pm)
+Date:_03 / 05/2025 No. of Pages: 04
+Marks: 100
+
+Final Examination / Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Oo Answer briefly: [20]
+CO-1 ;
+SO-1,2; | a. | Explain DNS and URL in detail. [5]
+BL-2
+CO-4 ;
+SO-1,2; | b. | Explain Restful Resources and Representation of Resources in detail. [5]
+BL-2
+Write a JavaScript program to display the current day and time in the following
+CO.2: format.
+SO-1 2. = Sample Output : [5]
+BL. i Current Month is : May
+Year is : 2025
+Current time is : 10 : 03 : 38
+Write jQuery script for the following:
+a) The background color of the paragraph changes to lightgrey when mouse pointer
+CO-3 ; hovers on it, lightblue when mouse pointer moves away from it, yellow when the
+SO-1,2; | d. | paragraph is clicked and pink when it is double clicked. Note that all the effects has [5]
+BL-6 to be applied to same paragraph.
+b) Create an animation such that a <div> moves across the screen by moving right
+by 250px and down by 250px, increases width and height by 100px when clicked.
+Q
+CO-3; . ;
+S0-1,2; a. | Write JQuery code for demonstrating any 5 effects. [10]
+BL-6
+--- page 2 ---
+ip? Write HTML Code for the following table :
+
+Horizontal and Vertical Alignment
+
+[ Cell Aligument With CSS |
+
+[Row] Cell-1 [Cen-2 [cen-3]
+
+CO-2; css
+SO-1,2; | b. z is [10]
+BL-6
+Examples
+Nested Table
+co Write the JavaScript code to Check if the three user entered Numbers Have Same
+
+so-1.2: | 2 Last Digit. Accept the numbers using prompt window. Also determine the factors [10]
+BL-6 , of the user entered third number.
+
+Lae b Write AngularJS code that filters and customizes a list of cities based on user input, [10]
+BL6 , * | applying customized array-based filtration to HTML user input.
+Write Bootstrap 5 code for applying following formatting to a paragraph:
+ig gs Ip
+1. Increasing the font size
+Q4 2. Aligning the paragraph to right
+CO-3; a 3. All the content of the paragraph should be in Capitals. [10]
+SO-1,2; ’ | 4. All the content of the paragraph should be visible in the same viewport without
+BL-6 scrolling.
+5. Setting the background color to yellow using contextual colors and using its
+contrast font color.
+Write a CSS stylesheet such that —
+1. A paragraph has top border of 10px, bottom border of Spx, left border of 20px
+and right border of 1px. Use different borders on all sides.
+CO-2: 2. Create a list with no bullets.
+SO-1 >: b 3. The hyperlinks are displayed as blue coloured buttons and do not have [10]
+BL-6 : : underline. Also the buttons turn yellow on being clicked and pink when mouse
+
+pointer hovers on it.
+
+4, The image on the page is fixed and does not scroll with the content of the page
+and is placed at the top right corner of the web page.
+5._ Create a list as shown below
+--- page 3 ---
+Write a CSS stylesheet such that —
+
+1. Insert space inside a paragraph such that it is: 10 pixels at the top, 15 pixels at
+the bottom, 5 pixels at the right, 10 pixels to the left
+
+2. The unvisited link will have color yellow and will not have underline while the
+visited link will have color red and font “arial”. In the hover state the link’s font
+
+Qs size will increase, underline will be displayed and the link will have a light
+CO-2; green background color.
+. | a : . [10]
+SO-1,2; 3. Increase spacing between lines
+BL-6 4. A list with *) as item markers will list 5 items.
+
+5. A paragraph will be formatted as shown below
+
+Some Text
+
+CO-4;
+SO-1,2; | b. | Explain Restful Messaging and explain any 4 Restful Methods. [10]
+BL-2
+Write HTML Code to create a section for entering Personal Details in a registration
+Q6 form. Add appropriate fields to enter name (Maximum input length allowed is 10
+CO-2; characters), date of birth (use date picker), Gender, address, zip code (only 10
+SO-1,2; | * | numerical data), email address and Country. Insert buttons to submit the form and el
+BL-6 clear the form. On successful submission, you should be redirected to a new page
+
+that states “Form Filled Successfully”. Use appropriate HTML form elements.
+
+Validate the form given above in Q-6 a) using AngularJS for following validations.
+1. Name should not be blank
+
+CO-3; 2. Email id should be in correct format
+
+SO-1,2; | b. | 3. Zip code should consist of only digits and should be of length 6. (use regular | [10]
+BL-6 expression)
+
+4. A radiobutton should be selected.
+5. Country should be selected and cannot be left blank.
+
+Q7 Create a bootstrap application which includes a landing page (home page) with the
+C03: layout as given below. The nav bar consists of logo in the top left corner and links
+S0-1 > to pages home, about and contact. On the right side on nav bar there is a search box [20]
+BL-6 , with search button. The footer consists of copyright information.
+--- page 4 ---
+Hello, world!
+
+This is a template for a simple marketing or informational website. It includes a large ¢:
+‘Use it as a starting point to create something more unique.
+
+tout called a jumbotron and three supporting pieces of content,
+
+Heading Heading Heading
+
+
+
+to sit amet risus.
+
+Le oot s
+
+crate
+````
+
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 2691a427f541
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/MODERN WEB APPLICATIONS/Modern Web Applications, Sem-VI, Final Exam & Re Exam 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 91.3
+
+````text
+fi
+
+SVKM’S NMIMS bs ‘YQ
+EE PSTM&
+{N
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& E EERING/R \ Y sg He)
+SCHOOL OF TECHNOLOGY MANAGEMENT ;
+
+Academic Year: 2023-2024 a
+Program/s: B. Tech Year: Ill Sensesten: VI
+Stream/s : CSBS
+Subject: Modern Web Applications % Time: 3 hrs (2:u~p~to_5 oop)
+Date:_22 / 4 /2024' No. of Pages: 3
+Marks: 100
+
+Final Examination/Re-Examination (2°2|-22   )
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+‘1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Question 1 is compulsory
+
+a. Construct a homepage layout using HTML, incorporating two <div>
+Ql elements to represent mobile phone models. Within each <div>, include a
+CO-2: <p> tag containing a brief description of the basic features of the respective
+So-: > phone model as an unordered list. Display any discounts by striking off the | [10]
+BL. old price and showing the new price. Include a hyperlink on the homepage
+leading to the purchase form page.
+b. Create the following CSS styled page. The "Check" button should have a
+visually appealing design. When the "Check" button is clicked, the
+JavaScript code should determine if the number entered by the user is a
+perfect square or not. The result indicating whether the number is a perfect
+Ql square or not should be displayed in the designated <div> element, as shown
+’ in Fig. 1.
+oa yen ma
+
+34 is not a perfect square.
+
+Fig.l. Calculator Screen
+--- page 2 ---
+Perform any 4 questions from Q2. To Q7.
+
+Q2 a. JavaScript code that handles the following scenarios: a
+CO-2; l. Check if a number is a palindrome. ; [10]
+SO-; 2. Convert weight from pounds to kilograms.
+BL-
+b. You are developing a user interface for an e-commerce website where
+users can browse products and view additional details. To enhance the user
+experience, you need to implement various jQuery effects for showing and
+hiding product information.
+Requirements:
+¢ Create a button labeled "Show Product Details" on the webpage.
+Q2 e Implement a jQuery click event handler on the button to reveal
+CO-; SO-; - : . [10]
+BL- additional details about a product when clicked.
+e Use the "Fade In" effect to gradually display the product details
+with a duration of 500 milliseconds.
+e Include product information such as description, price, and
+specifications in the hidden section.
+¢ Ensure that clicking the button again toggles the visibility of the
+product details using the "Fade Out" effect with the same duration.
+e Implement error handling to display an alert message if the product
+details fail to load due to an error.
+Create a student.json file that will hold student data, including fields such
+as student_name and student_id. Using a REST-based architecture,
+Q3 implement the following HTTP methods in Express JS
+CO-4: 1. GET: Retrieve and display details of a student with student_id of 100. If
+SO-1 ; 6 the student does not exist, return an appropriate response. [20]
+7. _ 2. POST: Insert a new student record into the student.json file based on
+BL- 46 request body data. Ensure no duplicate student_id entries are created.
+> Display all students as the response.
+3. DELETE: Delete the student record with a student_id of 100. If the
+student does not exist, return an appropriate response.
+Scenario: You are tasked with designing the style sheet for a new website
+4 that showcases a collection of photography portfolios. The website needs
+CO-2: to have a clean and modern design with specific styling requirements. Put
+S0-- ; content on the webpage accordingly. [20]
+BL. Requirements:
+
+¢ Create an external style sheet named "styles.css" to apply
+consistent styling across all pages of the website.
+--- page 3 ---
+e Set the background color of the entire webpage to same color. *
+
+e Apply a font family of "Roboto, sans-serif" to all text elerhents on
+the webpage.
+
+e Set the font size of paragraph text to 16px and the font size of
+headings (hl, h2, h3) to 24px.
+
+e Ensure that all images on the webpage have a border radius of 10px
+and a box shadow effect.
+
+e Use a suitable color scheme for text and background that
+complements the overall design.
+
+e Ensure that hyperlinks are styled differently from regular text and
+have a hover effect to indicate interactivity.
+
+e Apply a responsive design approach to ensure the website looks
+good on different screen sizes.
+
+Write a javascript code to validate a form with fields for login ID (three
+
+Q5 uppercase letters followed by 3 digits) and password, ensuring all fields are
+CO-; SO-; filled and the password meets complexity requirements (minimum length, | [20]
+BL- includes uppercase letters, numbers, and special characters). Otherwise
+generate an error message in italics and in red color on form submission.
+a. Design a purchase form with the following in correct inputs format.
+
+e Name: for the user to input their full name (text input).
+e Email: for the user to input their email address (email address
+
+input).
+Q6 e Address: for the user to input their shipping address (multiline
+CO-; SO-; input). 20)
+BL- ¢ Quantity: for the user to input the quantity of mobile phones they
+wish to purchase (number input).
+Implement different control buttons within the purchase form, such as
+‘Submit! to confirm the purchase and 'Reset' to clear the form fields. Ensure
+that all entries in the purchase form are mandatory to be filled for submitting
+the form.
+Q7 a. Create a shopping cart application in Angular JS to demonstrate model,
+CO-3; view, and controller architecture. The application is expected to have item [10]
+_| SO-1,6,7 ; and price. User will enter quantity. Controller will calculate total price,
+BL-2,3,6 which will be displayed in the view.
+b. Create a responsive page layout using the Bootstrap grid system that
+
+adjusts to different screen sizes (Small, Medium, and Large). The layout
+
+should have a header, which contains title of your page, a footer- copyright | [10]
+information, and a main content area divided into three columns. Students
+
+are free to choose the content to be placed in each column
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper d19fd336c80c
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSBS/SEM-VI/MODERN WEB APPLICATIONS/B Tech, CSBS, Modern Web Application, 3rd Year, Sem-VI, Final Exam, Year 2021-22.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
+- Text: ocr (2 pages), mean OCR confidence 89.6
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN TER
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2021-22
+
+Programme: B. Tech (Computer Science & Business Systems) Year: III Semester: VI
+
+Subject: Modern Web Applications
+
+Marks: 100
+
+Time: 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: _2
+
+id
+
+Date: 16 April 2022
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) All questions are compulsory.
+
+2) All questions carry equal marks.
+
+3) Answer to each new question to be started on a fresh page.
+
+4) Figures in brackets on the right hand side indicate full marks.
+
+5) Assume Suitable data if necessary.
+
+6) Write code for the main logic asked in practical questions.
+
+Ql ~ | Answer briefly:
+a. | Explain the following terms :
+i) Internet
+col 7
+50-12 iil) WWW oa
+BL-1,2 iii) URL
+iv) DNS
+v) Web Browser
+C04 b. a lai fal Addressing in detail
+SO-1.5.6.7 What are RESTful Web Services? Explain RESTful Addressing in detail |} 0]
+BL12 with guidelines for constructing a standard URI.
+Q2
+sO eé 7 Create a HTML page with CSS to create following Output. [20]
+BL-6
+
+1/2
+--- page 2 ---
+Plages to.Gb, ings to Do Pian Your Trip’
+
+WELCOME TO AUSTRALIA
+
+Started on you ation planning by expl 9 Australia via our 360° videos
+
+90 Wes
+
+Q3
+Cco2
+SO-1,5,6,7
+BL-6
+
+Write html and JavaScript code to create increment/decrement counter.
+When user hits add count button, increment the counter and When user hits
+delete count button, decrement the counter and in both cases display the value | [20]
+on the page using h1 tag with font size 50 pixels and font color red and it
+needs to keep changing dynamically on hit of any button.
+
+Q4
+CO3
+SO-1,5,6,7
+BL-6
+
+Write a program which shows the use of the following Angular JS directives. [20]
+(1) ng-init (2) ng-model (3) ng-repeat (4) ng-keydown (5) ng-bind — ,
+
+Q5
+CO3
+SO-1,5,6,7
+BL-6
+
+Create a bootstrap application which includes a landing page (home page)
+with the main navigation bar having Project name on the left, main menu
+(Home, About, Contact, Dropdown), Email and password field with Sign in
+button on the right as shown below.
+
+i |
+
+Hello, world!
+
+This is a template for a simple marketing or informational website. It includes a large caliout called the hero
+unit and three supporting pieces of content. Use it as a starting point to create something more unique.
+
+[20 J
+
+Heading Heading Heading
+
+
+
+
+
+View detaits » View details « View details »
+
+2/2
+````
