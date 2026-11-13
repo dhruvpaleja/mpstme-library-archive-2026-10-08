@@ -423,6 +423,110 @@ web browser history, providing suitable examples.
 ********** 2 **********
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper badfe8b70284
+
+- Departments: Information Technology
+- Programmes: B.TECH INTEGRATED / IT
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/IT/Sem_04/DATA STRUCTURE/Data Structures Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 83.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 fen
+Program/s: B Tech Integrated Year: 2 Semester: [V ,
+
+Stream/s: Information Technology
+
+Subject: Data Structures Time: 3 fis ‘Yoram to de pr) )
+
+Date:_22./ 04/2024 . No. o£Pages: 2
+Marks: 100 ( \
+Re-Examination (2022-23) ‘ ‘ . sf
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on-the cover of the :
+Answer Book, which is provided for their use. ne Pe
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+Seu utes a 4. | Define data structure. Explain types of data structures with the differences between them. | [5]
+-Understan
+ee = b. | Write a function for searching all elements in an array using linear search techitique. [5]
+~apply
+nae Sasi ¢. | What is linked list? Illustrate different types of linked list with neat diagram. [5]
+~analyse
+CO-1; SO-2; d. | Explain the concept of priority queue. [5]
+BL-remember
+Q2 a. | Write a program in C++ to input data into an array. Compute the sum and average. Then
+CO-2: SO-2: count the number of values of the array greater than the average and the number of values | [10]
+BL-apply less than the average. Print the values, the average and the two counts.
+b. | State and differentiate between two searching techniques. Given an array arr = {10, 12, 24,
+a, 29, 39, 40, 51, 56, 69} and key = 56; what are the low, high, and mid values after the final | [10]
+iteration of the function? Show this process stepwise.
+Q3 a.
+C0-2: $0-2: Write a program in C++ to implement linear queue ADT using array. [10]
+BL-apply
+CO-2; SO-2; b. | Write functions for inserting a new node before a certain node and at the end of a singly {10}
+BL-apply linked list.
+Q4 a.
+
+Write an algorithm for the radix sort. What will be the output of the radix sort (pass wise)
+
+-3; SO-1; 10
+CO-3; SO-1; for the sequence “181, 289, 390, 121, 145, 736, 514, 212”. 110]
+BL- apply
+
+CO-1; SO-1; b. | Write an algorithm for evaluating given postfix expression. Evaluate given postfix f10}
+BL- apply expression: 623+-382/+*2/3+. Show the process step-wise.
+--- page 2 ---
+Q5 a.
+
+What is Tower-of-Hanoi? Illustrate the concept with 3 discs and write a recursive function
+
+CO-15:80-2; for the same 110)
+BL- apply °
+
+CO-2; SO-2; b. | Write functions for deleting a node from the beginning and from the end of a singly linked 0
+
+BL- apply list. [10]
+26 | What is ADT of doubly ended queue? Write algorithms for operations supported by output-
+
+CO-2; SO-2; . [10]
+BL- apply restricted doubly ended queue.
+
+alee be Sort given sequence of numbers using bubble sort step wise: “15, 3, 9, 11, 7”. [5]
+
+ware ° | Write an algorithm for polynomial addition using linked list. [5]
+
+Q7 2 | What are different types of queues? Explain the concept of circular queue with example.
+
+CO-2; SO-2; oe . . [10]
+BL-analyse State applications of linear queue and circular queue.
+
+Bona b, Write a program in C++ to implement stack ADT using array. [10]
+
+JESSICA IGOAIO I IO IR dak ak kik ALL THE BEST
+
+SERGIO ICICI ICICI ICI ICICI ICICI ICA A Ca A ka 2k a af ak a i a i ak
+
+<
+````
+
 ## 2022-23 · Final-Exam · Sem 4 · paper 3ab1207e896d
 
 - Departments: Information Technology
@@ -542,110 +646,6 @@ CO-2; SO-2; b.
 BL- apply What is ADT of stack? Write a program in C++ to implement stack ADT using array. [10]
 
 FESS ICICI ICICI ICICI I I Ik keke keke ak ak ak ak ALL THE BEST FSSC SI ICI I kk ka i teak ak a
-````
-
-## 2022-23 · Re-Exam · Sem 4 · paper badfe8b70284
-
-- Departments: Information Technology
-- Programmes: B.TECH INTEGRATED / IT
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/IT/Sem_04/DATA STRUCTURE/Data Structures Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 83.7
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 fen
-Program/s: B Tech Integrated Year: 2 Semester: [V ,
-
-Stream/s: Information Technology
-
-Subject: Data Structures Time: 3 fis ‘Yoram to de pr) )
-
-Date:_22./ 04/2024 . No. o£Pages: 2
-Marks: 100 ( \
-Re-Examination (2022-23) ‘ ‘ . sf
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on-the cover of the :
-Answer Book, which is provided for their use. ne Pe
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-Seu utes a 4. | Define data structure. Explain types of data structures with the differences between them. | [5]
--Understan
-ee = b. | Write a function for searching all elements in an array using linear search techitique. [5]
-~apply
-nae Sasi ¢. | What is linked list? Illustrate different types of linked list with neat diagram. [5]
-~analyse
-CO-1; SO-2; d. | Explain the concept of priority queue. [5]
-BL-remember
-Q2 a. | Write a program in C++ to input data into an array. Compute the sum and average. Then
-CO-2: SO-2: count the number of values of the array greater than the average and the number of values | [10]
-BL-apply less than the average. Print the values, the average and the two counts.
-b. | State and differentiate between two searching techniques. Given an array arr = {10, 12, 24,
-a, 29, 39, 40, 51, 56, 69} and key = 56; what are the low, high, and mid values after the final | [10]
-iteration of the function? Show this process stepwise.
-Q3 a.
-C0-2: $0-2: Write a program in C++ to implement linear queue ADT using array. [10]
-BL-apply
-CO-2; SO-2; b. | Write functions for inserting a new node before a certain node and at the end of a singly {10}
-BL-apply linked list.
-Q4 a.
-
-Write an algorithm for the radix sort. What will be the output of the radix sort (pass wise)
-
--3; SO-1; 10
-CO-3; SO-1; for the sequence “181, 289, 390, 121, 145, 736, 514, 212”. 110]
-BL- apply
-
-CO-1; SO-1; b. | Write an algorithm for evaluating given postfix expression. Evaluate given postfix f10}
-BL- apply expression: 623+-382/+*2/3+. Show the process step-wise.
---- page 2 ---
-Q5 a.
-
-What is Tower-of-Hanoi? Illustrate the concept with 3 discs and write a recursive function
-
-CO-15:80-2; for the same 110)
-BL- apply °
-
-CO-2; SO-2; b. | Write functions for deleting a node from the beginning and from the end of a singly linked 0
-
-BL- apply list. [10]
-26 | What is ADT of doubly ended queue? Write algorithms for operations supported by output-
-
-CO-2; SO-2; . [10]
-BL- apply restricted doubly ended queue.
-
-alee be Sort given sequence of numbers using bubble sort step wise: “15, 3, 9, 11, 7”. [5]
-
-ware ° | Write an algorithm for polynomial addition using linked list. [5]
-
-Q7 2 | What are different types of queues? Explain the concept of circular queue with example.
-
-CO-2; SO-2; oe . . [10]
-BL-analyse State applications of linear queue and circular queue.
-
-Bona b, Write a program in C++ to implement stack ADT using array. [10]
-
-JESSICA IGOAIO I IO IR dak ak kik ALL THE BEST
-
-SERGIO ICICI ICICI ICI ICICI ICICI ICA A Ca A ka 2k a af ak a i a i ak
-
-<
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper d33c87a7c87e
@@ -866,6 +866,140 @@ What are the various representations of graph? Explain.
 [4]
 
 2/2
+````
+
+## 2019-20 · Re-Exam · Sem 3 · paper 5670f843ca1c
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES BATCH 17-18 18-19 RE EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 14 November 2019
+- Text: ocr (3 pages), mean OCR confidence 92.1
+
+````text
+. SVKM’s NMIMS
+4 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: II Semester: III
+Academic Year: 2019-20 :
+Subject: Data Structures
+“ Marks: 70
+Date: 14 November 2019 Time: 2.00 py
+
+~
+
+-
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 (a) Identify the most suitable data structure for the given scenario. Provide your (6)
+justification for the same.
+i. An “Undo” mechanism in text editor
+ii. | Nested function calling in programming language
+iii. To store directories and files in a computer.
+iv. Representation of friendships on social networking sites
+v. Keeping a track of emails based on importance.
+vi. Serving vehicles on toll tax bridge.
+
+ns
+
+Q.1 (6) Differentiate linear search and binary search with an example. (4)
+Q.1(c) Compare linked lists with arrays. (4)
+Q.2 (a) Explain concept of circular queue. How is it better than linear queue? (6)
+Q.2(b) A certain sorting technique was applied to the following data set (8)
+
+46, 2, 64, 37, 55, 91, 16, 8, 10
+After two passes, the rearrangement of the data set is given as below
+2, 46, 64, 37, 55, 91, 16, 8, 10
+i. Identify the sorting algorithm that was applied. (1 Mark)
+i. Complete the remaining passes. (3Marks)
+iii. Write a function to implement the identified sorting algorithm(4 Marks)
+
+* ifs
+--- page 2 ---
+Q.3(a) The post order traversal of a binary tree is 8, 9, 6, 7,4, 5,.2,3, 1. (6) |
+
+The inorder traversal of the same tree is 8, 6, 9, 4, 7, 2, 5, 1, 3.
+i. Construct the binary tree from traversals (3 Marks)
+ii. The height of a tree is the length of the longest path from the root to any leaf.
+ss Find the height of the above binary tree. (1 Mark)
+“ iii. Find the preorder traversal of the tree. (2 Marks)
+
+Q.3(b) Convert below expression into postfix notation and evaluate it using stack. Show (8)
+
+working of stack at every step in conversion and evaluation.
+14/7*6-54+9/2
+
+he order of registration done by the student. The (6)
+
+Q.4(a) The student number is to be stored int
+student number
+
+first registered student number will be stored first and last registered
+will be stored last. However, requirement is to print details in descending order of
+registration, starting with last registered student first. Select most appropriate data
+
+structure. Write a program to store and retrieve student registration numbers.
+
+Q.4(b) Write an algorithm to implement merge sort. Show working of merge sort for below (8)
+
+values.
+39, 9, 81, 45, 90, 27, 72, 18
+
+-Q.5 (a) Consider a hash table with size=10. Using linear probing insert the following keys into (6)
+
+the table. Show every step.
+27, 72, 63, 42, 36,18, 56, 29 and 101
+
+Q.5(b) You are hired to develop an application that stores customer details like customer (8)
+number and name in doubly linked list. The application must perform below operations:
+i. Insert a new customer at the starting of the list. (2 Marks)
+ii. Print a list of customers in reverse direction. (2 Marks)
+iii. | Exchange nodes of first customer and last customer (4 marks)
+Write a program to implement above functionality for the customer database.
+
+Q.6(a) Write an algorithm to implement breadth first search traversal. * (6)
+Q.6 (b) | Product Name of the | Probability (8)
+Code product
+A PlayStation .06
+B Pendrive 24
+Cc Printer 07
+ae D Headphone 36
+E Smartphone AS
+s F GPU 12
+; The above table shows probability of a customer buying various products from an
+
+electronic store. Construct the Huffman tree at every step and provide Huffman code
+
+for each product.
+
+2/3
+
+hoe
+--- page 3 ---
+4
+
+Q.7 (a) Write a program to implement following functions of a binary search tree. (6)
+a. Insertion of a node in binary search tree.
+b. Count number of nodes in binary search tree.
+
+Q.7(b) Find the cost of minimum spanning tree for a given graph using Kruskal’s algorithm. (8)
+
+3/3
 ````
 
 ## 2018-19 · Final-Exam · Sem 3 · paper 76c9598d1f60
@@ -1091,140 +1225,6 @@ c. Binary search trees.
 oo fom
 ````
 
-## 2018-19 · Re-Exam · Sem 3 · paper 5670f843ca1c
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES BATCH 17-18 18-19 RE EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 14 November 2019
-- Text: ocr (3 pages), mean OCR confidence 92.1
-
-````text
-. SVKM’s NMIMS
-4 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Computer) Year: II Semester: III
-Academic Year: 2019-20 :
-Subject: Data Structures
-“ Marks: 70
-Date: 14 November 2019 Time: 2.00 py
-
-~
-
--
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 (a) Identify the most suitable data structure for the given scenario. Provide your (6)
-justification for the same.
-i. An “Undo” mechanism in text editor
-ii. | Nested function calling in programming language
-iii. To store directories and files in a computer.
-iv. Representation of friendships on social networking sites
-v. Keeping a track of emails based on importance.
-vi. Serving vehicles on toll tax bridge.
-
-ns
-
-Q.1 (6) Differentiate linear search and binary search with an example. (4)
-Q.1(c) Compare linked lists with arrays. (4)
-Q.2 (a) Explain concept of circular queue. How is it better than linear queue? (6)
-Q.2(b) A certain sorting technique was applied to the following data set (8)
-
-46, 2, 64, 37, 55, 91, 16, 8, 10
-After two passes, the rearrangement of the data set is given as below
-2, 46, 64, 37, 55, 91, 16, 8, 10
-i. Identify the sorting algorithm that was applied. (1 Mark)
-i. Complete the remaining passes. (3Marks)
-iii. Write a function to implement the identified sorting algorithm(4 Marks)
-
-* ifs
---- page 2 ---
-Q.3(a) The post order traversal of a binary tree is 8, 9, 6, 7,4, 5,.2,3, 1. (6) |
-
-The inorder traversal of the same tree is 8, 6, 9, 4, 7, 2, 5, 1, 3.
-i. Construct the binary tree from traversals (3 Marks)
-ii. The height of a tree is the length of the longest path from the root to any leaf.
-ss Find the height of the above binary tree. (1 Mark)
-“ iii. Find the preorder traversal of the tree. (2 Marks)
-
-Q.3(b) Convert below expression into postfix notation and evaluate it using stack. Show (8)
-
-working of stack at every step in conversion and evaluation.
-14/7*6-54+9/2
-
-he order of registration done by the student. The (6)
-
-Q.4(a) The student number is to be stored int
-student number
-
-first registered student number will be stored first and last registered
-will be stored last. However, requirement is to print details in descending order of
-registration, starting with last registered student first. Select most appropriate data
-
-structure. Write a program to store and retrieve student registration numbers.
-
-Q.4(b) Write an algorithm to implement merge sort. Show working of merge sort for below (8)
-
-values.
-39, 9, 81, 45, 90, 27, 72, 18
-
--Q.5 (a) Consider a hash table with size=10. Using linear probing insert the following keys into (6)
-
-the table. Show every step.
-27, 72, 63, 42, 36,18, 56, 29 and 101
-
-Q.5(b) You are hired to develop an application that stores customer details like customer (8)
-number and name in doubly linked list. The application must perform below operations:
-i. Insert a new customer at the starting of the list. (2 Marks)
-ii. Print a list of customers in reverse direction. (2 Marks)
-iii. | Exchange nodes of first customer and last customer (4 marks)
-Write a program to implement above functionality for the customer database.
-
-Q.6(a) Write an algorithm to implement breadth first search traversal. * (6)
-Q.6 (b) | Product Name of the | Probability (8)
-Code product
-A PlayStation .06
-B Pendrive 24
-Cc Printer 07
-ae D Headphone 36
-E Smartphone AS
-s F GPU 12
-; The above table shows probability of a customer buying various products from an
-
-electronic store. Construct the Huffman tree at every step and provide Huffman code
-
-for each product.
-
-2/3
-
-hoe
---- page 3 ---
-4
-
-Q.7 (a) Write a program to implement following functions of a binary search tree. (6)
-a. Insertion of a node in binary search tree.
-b. Count number of nodes in binary search tree.
-
-Q.7(b) Find the cost of minimum spanning tree for a given graph using Kruskal’s algorithm. (8)
-
-3/3
-````
-
 ## 2018-19 · Re-Exam · Sem 3 · paper ec066637e4ce
 
 - Departments: Computer Engineering
@@ -1406,6 +1406,137 @@ example.
 Page 30f8
 ````
 
+## 2017-18 · Final-Exam · Sem 3 · paper 0c972aff32cf
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES (COMPUTER), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 30 November 2017
+- Text: ocr (3 pages), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: II - Semester: III ‘
+: - ‘
+
+a
+: a7
+/ Academic Year: 2017-2018 .
+Subject: Data Structures
+a
+Date: 30 November 2017 —
+
+Marks: 70 - sr
+Time: 10. ae am-t 1.00 PM gq
+
+No. of Pages:
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 (a) Why Data structure is essential? Differentiate among primitive and non-primitive data [7]
+structures with an example of each.
+
+* Q.1 (b) What are different data structure operations? Explain it with suitable example using any one [7]
+data structure of your choice.
+
+Q.2 For the given problem scenario which of the following data structure will be suitable to solve [14]
+it?
+Data structure options: i) Array ii) Stack iii) Queue
+Justify your selection w.r.t. following points of consideration.
+a. Ease of use b. Optimality of the code . suitability of the selection to solve the
+given problem.
+
+Problem scenario: “Customers registering for the product first, will be given highest
+discount coupon while redemption of the coupon begins with least discount value first.”
+
+Q.3 (a) Write piece of code and explain diagrammatically: To insert the new element in the given [7]
+linked list considering all cases of insertion.
+
+Q.3 (b) Compare doubly and circular linked list with respect to insertion operation w.rt. [7]
+diagrammatic explanation.
+
+ol)
+--- page 2 ---
+Q.4 (a) Consider the binary search tree given below: _ : [7]
+Now do the following operations: ,
+1. Find the result of in-order, pre-order and post-order traversal. [3 marks]
+2. Show the deletion of the root node. [2 marks]
+3. Insert 11,22,23,33,44,55,66 and 77 in the tree. show the step by step
+insertion. [2 marks]
+
+Q
+
+Py
+
+CG) Co)
+C=)
+
+Q.4 (b) Why threaded binary trees are called efficient trees? Give the merits of using a [7]
+
+threaded binary tree with example. Show how traversal will be done in the example
+taken.
+
+Q.5 (a) Consider the graph G given in below figure. Suppose we want to print all the nodes [7]
+that can be reached from the node H. Apply depth first search method and show how
+procedure will be used to reach from node H to G.
+
+Q.5 (b) Write a program to implement Warshall’s algorithm to find the path matrix. [7]
+
+Q.6 (a) Write a program to implement Binary search technique. Appraise binary search [7]
+technique compare to linear search technique in terms of efficiency.
+
+e2/;
+--- page 3 ---
+Q.6 (b)
+
+Q7
+
+Write an algorithm\Pseudo code for insertion sort. Consider an array of integers [7]
+given below. Demonstrate step wise how insertion sort will be used to sort an array.
+
+[39 [9 [45 [63 [is [81 [108 [54 [72 [36 |
+
+Identify the best data structure option for given scenario (1 mark). Give your [14]
+justification for choosing particular data structure (1 mark). Show how problem will
+be solved using appropriate data structure (working) (5 marks). Solve any two.
+
+a. To convert given infix expression to postfix.
+Expression: A- (B/C + (D %E * F)/G) *H
+
+b. To find total cost of least costly path to reach from railway station D to every
+other railway station given in below graph.
+
+13
+c. A company maintains a list of customers. A customer X can bring other
+customers that can join list after customer X. The details of customer
+maintained in a list are customer code and name. The operation that company
+does is as below:
+a. Print list of customers brought by customer X.
+b. Count total number of customers brought by customer X
+Write algorithm\Pseudo code using appropriate data structure selected for
+above operations.
+
+OB 2K OB OR OB KBR KR KK KKK
+
+03/5,
+````
+
 ## 2017-18 · Re-Exam · Sem 3 · paper 2c20ef99d275
 
 - Departments: Computer Engineering
@@ -1494,6 +1625,222 @@ C Collision handling techniques
 Se Ro oR oR
 
 rh
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 574cc1ef08e5
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/DATA STRUCTURES/Data Structures Batch 2016-2017 Re Exam.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 May 2018
+- Text: ocr (2 pages), mean OCR confidence 90.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER) “ Year: II * Semester: IV
+
+pant Bagg
+Academic Year: 2017-2018 a a.
+; v, am PST el B
+
+rf :
+Marks: 70 ° Bona y
+
+Date: 14 May 2018“ Time: 10.00 a 1.00 pm,
+Durations: 3 (hrsPinegs yee
+
+No. of Pages:
+Re-examination (2016-17)
+
+Subject: Data Structures
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+a What is linear and non-linear data structure? Explain one example of each. [4]
+b_ Write a recursive function to calculate Fibonacci of a number. [3]
+c Explain linear search with an example. [4]
+d How do you represent graph in a memory? [3]
+Q.2a Write a program to implement ADT of Circular queue using array with following functions [8]
+a. Enqueue
+b. Dequeue
+c. isEmpty
+d. isFull
+b_ Write short note on B-Tree Searching [6]
+Q.3a Perform Binary Search on the following data. Search for the element 81. [8]
+
+13, 30, 62, 73, 81,88, 91
+Also write the function for Binary search.
+
+b_ Differentiate between linked list and array, also write the program to count number ofnodes _— [6]
+in linked list.
+
+1 />
+--- page 2 ---
+Q.4a
+
+Q.5a
+
+Q.6a
+
+Q.7a
+
+Perform infix to postfix conversion for the following expression
+(at (vo * (c—d) + (e-(f* g)))
+
+Write a program to delete a number at given location in an array
+
+The Inorder and Preorder traversal sequence are given below. Draw the tree and find the
+Postorder traversal.
+Inorder: EACKFHDBG
+Preorder: FAEKCDHGB
+Write short note on travelling salesman problem.
+
+Describe selection sort and sort the following numbers using the same:
+46, 38, 92, 11, 47, 40 -
+Write an iterative and recursive function of factorial.
+
+Write a program to implement bubble sort. Show all the passes of bubble sort on following
+numbers
+
+45 67 12,34 25 39
+Discuss all the three cases of deletion of a node in binary search tree.
+
+[8]
+
+[6]
+
+[8]
+
+[6]
+[8]
+[6]
+
+[8]
+
+[6]
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 021390598438
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/DATA STRUCTURES/Data Structures Batch 2016-2017 Re Exam_0213905984.pdf`
+- Printed on paper: max marks: 70; exam date: 14 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER) “ Year: II ° Semester: IV 3
+
+Academic Year: 2017-2018
+
+Subject: Data Structures ©
+Marks: 70
+
+Date: 14 May 20187 Time: 10.00 a:
+Durations: 3 (b
+No. of Pages:
+
+Re-examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+a What is linear and non-linear data structure? Explain one example of each. [4]
+b Write a recursive function to calculate Fibonacci of a number. [3]
+c Explain linear search with an example. [4]
+d How do you represent graph in a memory? [3]
+Q.2a Write a program to implement ADT of Circular queue using array with following functions [8]
+a. Enqueue
+b. Dequeue
+c. isEmpty
+d. isFull
+b_ Write short note on B-Tree Searching [6]
+Q.3a Perform Binary Search on the following data. Search for the element 81. [8]
+
+13, 30, 62, 73, 81,88, 91
+Also write the function for Binary search.
+
+b Differentiate between linked list and array, also write the program to count number of nodes —_[6]
+in linked list.
+
+1 />
+--- page 2 ---
+Q.4a
+
+Q.5a
+
+Q.6a
+
+Q.7a
+
+Perform infix to postfix conversion for the following expression
+(a+ (b* —d) + (e-(£* g))))
+
+Write a program to delete a number at given location in an array
+
+The Inorder and Preorder traversal sequence are given below. Draw the tree and find the
+Postorder traversal.
+Inorder: EACKFHDBG
+Preorder: FAEKCDHGB
+Write short note on travelling salesman problem.
+
+Describe selection sort and sort the following numbers using the same:
+46, 38, 92, 11, 47, 40
+Write an iterative and recursive function of factorial.
+
+Write a program to implement bubble sort. Show all the passes of bubble sort on following
+
+numbers
+45 67 12 3425 39
+Discuss all the three cases of deletion of a node ‘in binary search tree.
+
+[8]
+
+[6]
+
+[8]
+
+[6]
+[8]
+[6]
+
+[8]
+
+[6]
 ````
 
 ## 2016-17 · Final-Exam · Sem 3 · paper 64b2f524f67d
@@ -1679,220 +2026,91 @@ b Write short note on Radix sort.
 [6]
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 574cc1ef08e5
+## 2016-17 · Re-Exam · Sem 3 · paper c373dfcdfcf6
 
 - Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/DATA STRUCTURES/Data Structures Batch 2016-2017 Re Exam.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 May 2018
-- Text: ocr (2 pages), mean OCR confidence 90.0
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES B TECH (COMPUTER), BATCH 14-15, 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 30 November 2016
+- Text: ocr (2 pages), mean OCR confidence 92.1
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech Integrated (COMPUTER) “ Year: II * Semester: IV
+Programme : B. Tech (COMPUTER) Year : II Semester : III
 
-pant Bagg
-Academic Year: 2017-2018 a a.
-; v, am PST el B
+Batch : 2014-2015 / 2015-2016 Pe Aa
+Coa
 
-rf :
-Marks: 70 ° Bona y
+Academic Year : 2016-2017 ia -_,
+Md Ps AZ *
 
-Date: 14 May 2018“ Time: 10.00 a 1.00 pm,
-Durations: 3 (hrsPinegs yee
+Subject : Data Structures Marks : LIBRARY Dé
+Time : am to 1.00 p:
 
-No. of Pages:
-Re-examination (2016-17)
+A\, ry 4
+Date : 30 November 2016 Puraton al <V* Y
 
-Subject: Data Structures
+Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+NB:
+1. Question No. ONE (1) is compulsory.
+2. Out of the remaining SIX (6) questions, attempt amy FOUR (4) qniesticis,
+3. Inall, FIVE (5) questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page
+6. Figure in brackets on the right hand side indicates full marks.
+7. Answer to the point and make suitable assumptions, stating the same, wherever required.
 
-1) Question No. 1 is compulsory.
+Q.1 a) Define Data Structure along with its applications. List and explain operations supported by Stack [6]
+Data Structure.
 
-2) Out of remaining questions, attempt any 4 questions.
+b) Define Binary Tree and list its operations. Give algorithm for Insertion of an element ina Binary [6]
+Search Tree and use this algorithm to insert following elements(in specified order) in an initially
+empty Binary Search Tree : 13, 3, 4, 12, 14, 10, 5, 1, 8, 2, 7,9, 11, 6, 18
 
-3) In all 5 questions to be attempted.
+Q.2 a) Describe Queue Data Structure along with the operations supported by a Linear Queue. List [6]
+various types of queues.
 
-4) All questions carry equal marks.
+b) Compare Recursion and Iteration. Illustrate the efficiency of Recursion. Write a recursive [6]
+program to print Fibonacci Series up-to N.
 
-5) Answer to each new question to be started on a fresh page.
+Q.3 a) Describe the procedure to sort list of elements using Radix Sort. Use the procedure to [6]
+systematically sort: 493 812 715 710 195 437 582 340 385.
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+b) Give algorithm for performing deletion in a Binary Search Tree. [6]
 
-Ql
-a What is linear and non-linear data structure? Explain one example of each. [4]
-b_ Write a recursive function to calculate Fibonacci of a number. [3]
-c Explain linear search with an example. [4]
-d How do you represent graph in a memory? [3]
-Q.2a Write a program to implement ADT of Circular queue using array with following functions [8]
-a. Enqueue
-b. Dequeue
-c. isEmpty
-d. isFull
-b_ Write short note on B-Tree Searching [6]
-Q.3a Perform Binary Search on the following data. Search for the element 81. [8]
+Q.4 a) Write a program for Insertion Sort. Compare Insertion and Selection Sort along with example. [6]
 
-13, 30, 62, 73, 81,88, 91
-Also write the function for Binary search.
+b) Compare Arrays in C, Structures in C and Classes in C++ along with example and application of — [6]
+each.
 
-b_ Differentiate between linked list and array, also write the program to count number ofnodes _— [6]
-in linked list.
+Q.5 a) What is an Expression Tree? Give algorithm to construct expression tree and use the [6]
+algorithm to create expression tree for: 3*((7+1)/4)+(17-5). Traverse the tree obtained in
+Post- Order. ‘
 
-1 />
+b) Compare Array and Linked Lists along with example. Write an function to insert an new node at [6]
+beginning of a Singly Linked List.
+
+Page 1 of 2
 --- page 2 ---
-Q.4a
+Q.6 a) Explain Warshall’s Algorithm in detail. Systematically execute the algorithm for graph given [6]
+below:
 
-Q.5a
+b) Write a Program to perform Binary Search. Compare Binary and Sequential Search. [6]
 
-Q.6a
+Q.7 Write Short Notes on ( any Four) : {12]
+a) Dictionary as an Abstract Data type
+b) Threaded Binary Tree
+c) Graph Traversal Technique ( any one)
+d) Heap Sort
+e) The Cook-Kim Algorithm
+f) Huffman Algorithm
 
-Q.7a
-
-Perform infix to postfix conversion for the following expression
-(at (vo * (c—d) + (e-(f* g)))
-
-Write a program to delete a number at given location in an array
-
-The Inorder and Preorder traversal sequence are given below. Draw the tree and find the
-Postorder traversal.
-Inorder: EACKFHDBG
-Preorder: FAEKCDHGB
-Write short note on travelling salesman problem.
-
-Describe selection sort and sort the following numbers using the same:
-46, 38, 92, 11, 47, 40 -
-Write an iterative and recursive function of factorial.
-
-Write a program to implement bubble sort. Show all the passes of bubble sort on following
-numbers
-
-45 67 12,34 25 39
-Discuss all the three cases of deletion of a node in binary search tree.
-
-[8]
-
-[6]
-
-[8]
-
-[6]
-[8]
-[6]
-
-[8]
-
-[6]
-````
-
-## 2016-17 · Re-Exam · Sem 4 · paper 021390598438
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/DATA STRUCTURES/Data Structures Batch 2016-2017 Re Exam_0213905984.pdf`
-- Printed on paper: max marks: 70; exam date: 14 May 2018
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (COMPUTER) “ Year: II ° Semester: IV 3
-
-Academic Year: 2017-2018
-
-Subject: Data Structures ©
-Marks: 70
-
-Date: 14 May 20187 Time: 10.00 a:
-Durations: 3 (b
-No. of Pages:
-
-Re-examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql
-a What is linear and non-linear data structure? Explain one example of each. [4]
-b Write a recursive function to calculate Fibonacci of a number. [3]
-c Explain linear search with an example. [4]
-d How do you represent graph in a memory? [3]
-Q.2a Write a program to implement ADT of Circular queue using array with following functions [8]
-a. Enqueue
-b. Dequeue
-c. isEmpty
-d. isFull
-b_ Write short note on B-Tree Searching [6]
-Q.3a Perform Binary Search on the following data. Search for the element 81. [8]
-
-13, 30, 62, 73, 81,88, 91
-Also write the function for Binary search.
-
-b Differentiate between linked list and array, also write the program to count number of nodes —_[6]
-in linked list.
-
-1 />
---- page 2 ---
-Q.4a
-
-Q.5a
-
-Q.6a
-
-Q.7a
-
-Perform infix to postfix conversion for the following expression
-(a+ (b* —d) + (e-(£* g))))
-
-Write a program to delete a number at given location in an array
-
-The Inorder and Preorder traversal sequence are given below. Draw the tree and find the
-Postorder traversal.
-Inorder: EACKFHDBG
-Preorder: FAEKCDHGB
-Write short note on travelling salesman problem.
-
-Describe selection sort and sort the following numbers using the same:
-46, 38, 92, 11, 47, 40
-Write an iterative and recursive function of factorial.
-
-Write a program to implement bubble sort. Show all the passes of bubble sort on following
-
-numbers
-45 67 12 3425 39
-Discuss all the three cases of deletion of a node ‘in binary search tree.
-
-[8]
-
-[6]
-
-[8]
-
-[6]
-[8]
-[6]
-
-[8]
-
-[6]
+Page 2 of 2
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper c04ace4c25c9
@@ -2193,91 +2411,98 @@ Radix Sort
 (6)
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper c373dfcdfcf6
+## 2015-16 · Re-Exam · Sem 3 · paper 861a3deefc52
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES B TECH (COMPUTER), BATCH 14-15, 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 30 November 2016
-- Text: ocr (2 pages), mean OCR confidence 92.1
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 88.1
 
 ````text
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme : B. Tech (COMPUTER) Year : II Semester : III
+Programme: B. Tech (Computer) Year: II Semester: III
+Batch: 2014-2015
+Academic Year: 2015-2016 waited a
+eae Vik we “iy :
+Subject: Data Structures f ‘s. 7 Ne
+7 = -*
 
-Batch : 2014-2015 / 2015-2016 Pe Aa
-Coa
+Marks: 60) w( ane
+Date: 02/12/2015 Time:
 
-Academic Year : 2016-2017 ia -_,
-Md Ps AZ *
-
-Subject : Data Structures Marks : LIBRARY Dé
-Time : am to 1.00 p:
-
-A\, ry 4
-Date : 30 November 2016 Puraton al <V* Y
+Duration:
 
 Re-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
 NB:
-1. Question No. ONE (1) is compulsory.
-2. Out of the remaining SIX (6) questions, attempt amy FOUR (4) qniesticis,
-3. Inall, FIVE (5) questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page
-6. Figure in brackets on the right hand side indicates full marks.
-7. Answer to the point and make suitable assumptions, stating the same, wherever required.
 
-Q.1 a) Define Data Structure along with its applications. List and explain operations supported by Stack [6]
-Data Structure.
+1) Question No.1 is compulsory.
 
-b) Define Binary Tree and list its operations. Give algorithm for Insertion of an element ina Binary [6]
-Search Tree and use this algorithm to insert following elements(in specified order) in an initially
-empty Binary Search Tree : 13, 3, 4, 12, 14, 10, 5, 1, 8, 2, 7,9, 11, 6, 18
+2) Out of remaining questions, attempt any 4 questions.
 
-Q.2 a) Describe Queue Data Structure along with the operations supported by a Linear Queue. List [6]
-various types of queues.
+3) In all 5 questions to be attempted.
 
-b) Compare Recursion and Iteration. Illustrate the efficiency of Recursion. Write a recursive [6]
-program to print Fibonacci Series up-to N.
+4) All questions carry equal marks.
 
-Q.3 a) Describe the procedure to sort list of elements using Radix Sort. Use the procedure to [6]
-systematically sort: 493 812 715 710 195 437 582 340 385.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-b) Give algorithm for performing deletion in a Binary Search Tree. [6]
+Q.1 (a) What is Recursion ? Write a program to calculate factorial of a number using recursion.
 
-Q.4 a) Write a program for Insertion Sort. Compare Insertion and Selection Sort along with example. [6]
+(6 Ma aks)
+(b) Explain linear and non-linear data structure with example. (3 Masks)
+(c) Write ADT for stack. Give applications of Stack. (3 Mask)
 
-b) Compare Arrays in C, Structures in C and Classes in C++ along with example and application of — [6]
-each.
+Q.2 (a) Write a program to implement Insertion sort . Show passes of Insertion sort for following input
 
-Q.5 a) What is an Expression Tree? Give algorithm to construct expression tree and use the [6]
-algorithm to create expression tree for: 3*((7+1)/4)+(17-5). Traverse the tree obtained in
-Post- Order. ‘
+data :
+0 1 2 }3 |4
+25 | 57 | 48 | 37 | 52
+CE Masks)
+(b) Give different searching techniques. Write a program to implement Binary Search.
+(GE Masks)
 
-b) Compare Array and Linked Lists along with example. Write an function to insert an new node at [6]
-beginning of a Singly Linked List.
+Q.3 (a) Write a program to create a doubly linked list and perform the following operations:
+(i) insert in the beginning of the list
+1. insert in the end of the list
+2. insert to the right of node in the list
+3. insert to the left of a node in the list
 
-Page 1 of 2
+af
 --- page 2 ---
-Q.6 a) Explain Warshall’s Algorithm in detail. Systematically execute the algorithm for graph given [6]
-below:
+4. search for a data. G6 Masks)
 
-b) Write a Program to perform Binary Search. Compare Binary and Sequential Search. [6]
+(b) Write a program to sort n integer numbers using Quicksort. Show the steps to sort the given
 
-Q.7 Write Short Notes on ( any Four) : {12]
-a) Dictionary as an Abstract Data type
-b) Threaded Binary Tree
-c) Graph Traversal Technique ( any one)
-d) Heap Sort
-e) The Cook-Kim Algorithm
-f) Huffman Algorithm
+numbers : 25, 10, 7, 30, 15, 2, 96, 14. (6 Moulss)
+Q.4 (a) Explain different representation of graph. State advantages and disadvantages of each
+representation. - ° (e Moaks)
+(b) What is the use of Huffman Encoding ? Apply and give Huffman code for.each symbol in word
+" STRUCTURE". (G Moxtes)
+Q.5 (a) Write a program to implement circular queue using array.
+(6 Maxks)
+(b) Write a program to create a binary search tree. Show BST for following
 
-Page 2 of 2
+input : 14, 15, 4, 25, 13, 14, 9, 7. CS Masks)’
+
+Q.6 (a) Construct binary tree for inorder and postorder traversal sequence given below.
+inorder "INFORMATION"
+postorder: "INOFMAINOTR"
+(G Marks)
+(b) What are the advantages of Linked List over array ? Write a program to implement stack using
+linked list. 1b Marks )
+
+Q.7 Write short note on (any two) :
+
+(a) Expression trees CS Maaks
+(b) Graph traversal algorithm Ce Monks)
+(c) Priority queue. Ce Masks)
 ````
 
 ## 2014-15 · Final-Exam · Sem 3 · paper 871fcea5a580
@@ -2491,100 +2716,6 @@ Sort the following integers using : : 6
 I
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper 861a3deefc52
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Computer) Year: II Semester: III
-Batch: 2014-2015
-Academic Year: 2015-2016 waited a
-eae Vik we “iy :
-Subject: Data Structures f ‘s. 7 Ne
-7 = -*
-
-Marks: 60) w( ane
-Date: 02/12/2015 Time:
-
-Duration:
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1 (a) What is Recursion ? Write a program to calculate factorial of a number using recursion.
-
-(6 Ma aks)
-(b) Explain linear and non-linear data structure with example. (3 Masks)
-(c) Write ADT for stack. Give applications of Stack. (3 Mask)
-
-Q.2 (a) Write a program to implement Insertion sort . Show passes of Insertion sort for following input
-
-data :
-0 1 2 }3 |4
-25 | 57 | 48 | 37 | 52
-CE Masks)
-(b) Give different searching techniques. Write a program to implement Binary Search.
-(GE Masks)
-
-Q.3 (a) Write a program to create a doubly linked list and perform the following operations:
-(i) insert in the beginning of the list
-1. insert in the end of the list
-2. insert to the right of node in the list
-3. insert to the left of a node in the list
-
-af
---- page 2 ---
-4. search for a data. G6 Masks)
-
-(b) Write a program to sort n integer numbers using Quicksort. Show the steps to sort the given
-
-numbers : 25, 10, 7, 30, 15, 2, 96, 14. (6 Moulss)
-Q.4 (a) Explain different representation of graph. State advantages and disadvantages of each
-representation. - ° (e Moaks)
-(b) What is the use of Huffman Encoding ? Apply and give Huffman code for.each symbol in word
-" STRUCTURE". (G Moxtes)
-Q.5 (a) Write a program to implement circular queue using array.
-(6 Maxks)
-(b) Write a program to create a binary search tree. Show BST for following
-
-input : 14, 15, 4, 25, 13, 14, 9, 7. CS Masks)’
-
-Q.6 (a) Construct binary tree for inorder and postorder traversal sequence given below.
-inorder "INFORMATION"
-postorder: "INOFMAINOTR"
-(G Marks)
-(b) What are the advantages of Linked List over array ? Write a program to implement stack using
-linked list. 1b Marks )
-
-Q.7 Write short note on (any two) :
-
-(a) Expression trees CS Maaks
-(b) Graph traversal algorithm Ce Monks)
-(c) Priority queue. Ce Masks)
-````
-
 ## 2013-14 · Final-Exam · Sem 3 · paper bcbbd527b60e
 
 - Departments: Computer Engineering
@@ -2743,135 +2874,4 @@ c) Explain binary search algorithm with example. (10)
 sal
 
 <4.
-````
-
-## Year not stated · Final-Exam · Sem 3 · paper 0c972aff32cf
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DATA STRUCTURES/DATA STRUCTURES (COMPUTER), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 30 November 2017
-- Text: ocr (3 pages), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: II - Semester: III ‘
-: - ‘
-
-a
-: a7
-/ Academic Year: 2017-2018 .
-Subject: Data Structures
-a
-Date: 30 November 2017 —
-
-Marks: 70 - sr
-Time: 10. ae am-t 1.00 PM gq
-
-No. of Pages:
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 (a) Why Data structure is essential? Differentiate among primitive and non-primitive data [7]
-structures with an example of each.
-
-* Q.1 (b) What are different data structure operations? Explain it with suitable example using any one [7]
-data structure of your choice.
-
-Q.2 For the given problem scenario which of the following data structure will be suitable to solve [14]
-it?
-Data structure options: i) Array ii) Stack iii) Queue
-Justify your selection w.r.t. following points of consideration.
-a. Ease of use b. Optimality of the code . suitability of the selection to solve the
-given problem.
-
-Problem scenario: “Customers registering for the product first, will be given highest
-discount coupon while redemption of the coupon begins with least discount value first.”
-
-Q.3 (a) Write piece of code and explain diagrammatically: To insert the new element in the given [7]
-linked list considering all cases of insertion.
-
-Q.3 (b) Compare doubly and circular linked list with respect to insertion operation w.rt. [7]
-diagrammatic explanation.
-
-ol)
---- page 2 ---
-Q.4 (a) Consider the binary search tree given below: _ : [7]
-Now do the following operations: ,
-1. Find the result of in-order, pre-order and post-order traversal. [3 marks]
-2. Show the deletion of the root node. [2 marks]
-3. Insert 11,22,23,33,44,55,66 and 77 in the tree. show the step by step
-insertion. [2 marks]
-
-Q
-
-Py
-
-CG) Co)
-C=)
-
-Q.4 (b) Why threaded binary trees are called efficient trees? Give the merits of using a [7]
-
-threaded binary tree with example. Show how traversal will be done in the example
-taken.
-
-Q.5 (a) Consider the graph G given in below figure. Suppose we want to print all the nodes [7]
-that can be reached from the node H. Apply depth first search method and show how
-procedure will be used to reach from node H to G.
-
-Q.5 (b) Write a program to implement Warshall’s algorithm to find the path matrix. [7]
-
-Q.6 (a) Write a program to implement Binary search technique. Appraise binary search [7]
-technique compare to linear search technique in terms of efficiency.
-
-e2/;
---- page 3 ---
-Q.6 (b)
-
-Q7
-
-Write an algorithm\Pseudo code for insertion sort. Consider an array of integers [7]
-given below. Demonstrate step wise how insertion sort will be used to sort an array.
-
-[39 [9 [45 [63 [is [81 [108 [54 [72 [36 |
-
-Identify the best data structure option for given scenario (1 mark). Give your [14]
-justification for choosing particular data structure (1 mark). Show how problem will
-be solved using appropriate data structure (working) (5 marks). Solve any two.
-
-a. To convert given infix expression to postfix.
-Expression: A- (B/C + (D %E * F)/G) *H
-
-b. To find total cost of least costly path to reach from railway station D to every
-other railway station given in below graph.
-
-13
-c. A company maintains a list of customers. A customer X can bring other
-customers that can join list after customer X. The details of customer
-maintained in a list are customer code and name. The operation that company
-does is as below:
-a. Print list of customers brought by customer X.
-b. Count total number of customers brought by customer X
-Write algorithm\Pseudo code using appropriate data structure selected for
-above operations.
-
-OB 2K OB OR OB KBR KR KK KKK
-
-03/5,
 ````

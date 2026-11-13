@@ -1741,6 +1741,299 @@ CO-1; BL-6
 ********** 2 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 8 · paper 859d1cfbe3f0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS ff oewes
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024 ss
+
+Program: MBA Tech Year: IV. Semester?
+
+Stream; ALL
+
+Subject: Organizational Behaviour
+Date:___22 /04 /2024
+
+Marks: 50
+
+Time: 2 hrs (10 am_to 12 noon)
+
+No. of Pages: 2
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [10]
+
+CO-1 ; BL-2 a. | Explain any 3 perceptual errors [3]
+CO- 1; BL-2 b. | Explain any one - Locus of Control or Self-Efficacy [2]
+CO- 1; BL-2 c. | Explain process of motivation * [3]
+CO- 1; BL-2 d. | Differentiate between Functional and Divisional structure [2]
+
+Projects often fail due to conflicts. Conflicts are often created because of
+Q2 unfair decisions taken by groups. What steps will you take in groups to
+
+ensure fair group decision making process using a very rational step by [10]
+CO-2; BL-3 step procedure? Apply the Rational model of decision making in your
+
+answer.
+
+Gopal recently joined a start-up which is into digital marketing. CEO has
+asked him to design a digital marketing campaign for one of its client.
+Q3 However, Gopal is not able to get the work done because team members | [10]
+CO-2: BL-4 don’t listen to him. He is very friendly to his team members (mainly
+, interns), motivates them, takes them on free lunches but still his team could
+
+not deliver on time.
+--- page 2 ---
+i
+
+1) Analyze the situation based on Fiedler’s contingency theory. Identify
+
+causes for non-delivery. os (7)
+2) What will you do if you are the CEO of the company (keep Fiedler’s
+Contingency Theory in mind). Give reasons. (3)
+
+A company is undergoing a major technological transformation. Many of
+their services that were manually handled, are being revamped and updated
+Q4 to latest technology service that will reduce errors and bring down the time [10]
+CO-2; BL-5 for the operation by half. There is fear and uncertainty among employees.
+Using the Kurt Lewin’s Three Step Change Model, explain how the
+company should implement the change in its organization.
+
+a | Young Indians between age group of 30-40 are reporting burnout.
+
+5
+Q Explain the reasons for increasing stress levels amongst Indian Workforce
+CO-2; SO-; and [5]
+BL-3
+CO-2; SO-; b | Analyze the various approaches for handling this stress at individual and 5
+BL-4 organizational level [5]
+Geeta: Power and politics at the workplace is unavoidable. You can either
+play the game or get victimized. You can’t escape it.
+Gaurav: But it doesn’t have to get dirty. There are legitimate power tactics
+and illegitimate ones. I have nothing against power tactics, but we can still
+Q6 respect people for their individuality.
+pect peop
+CO-2; . [10]
+BL-5 Geeta: What are some power tactics that you are aware of and tell me how
+to use them?
+Explain any three power tactics (to Geeta) and compare and contrast them
+for being legitimate (ethical) or illegitimate (unethical).
+Riddhi has never explored workplace spirituality. Her boss Vidyanand has
+Q7 attended an international conference about Workplace Spirituality and
+5 wants Riddhi to create some initiative in their company around this theme. [10]
+CO-1; BL-6 What are your views on having a spiritual culture at workplace? How do
+
+you think Riddhi should go about designing a scheme in this direction?
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 0095d0e45335
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour_0095d0e453.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EWN
+Academic Year: 2022-2023
+
+Program: MBA Tech Year: [V_ Semester: VIII
+Stream; ALL
+
+Subject: Organizational Behaviour Time: 2 hrs (10 am_to 12 noon)
+Date:__27 / 4 /2023 No. of Pages: 2
+
+Marks: 50
+
+Final Examination [Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [10]
+CO-1 ; BL-1 a. | What are the consequences of stress at workplace 13]
+CO- 1; BL-2 b. | 5 ways to foster spirituality at workplace [3]
+CO- 1; BL-2 c. | Explain 5 Bases of Power [2]
+CO- 1; BL-2 d. | Compare Surface level diversity with Deep level Diversity [2]
+Mirinda graduated from college three years ago and has been working at
+XYZ Inc. ever since. A conscientious employee, she has consistently
+received good performance evaluations. She recently found out that a
+Q2 younger colleague, who was just recruited to her team, is drawing a higher [10]
+CO-2; BL-5 salary than she is for doing the same type of work. Following this discovery,
+Mirinda starts coming to work late and her productivity begins to suffer.
+Analyze the situation and describe the motivation theory that best explains
+Mirinda’s behavior.
+Q3 As an in-charge of a Malaysian cyber security project, present the stages
+i i f delivering th [10]
+your group members will pass through till the stage of delivering the
+CO-2; BL-3
+
+project and beyond that.
+--- page 2 ---
+Suresh, is a very knowledgeable and well-read guy. He does his work
+diligently too and excels at what he does. But even after doing that, his career
+
+Q4 graph is not something to look at and even at his current company, he is at
+CO-2; SO-; the same position from the last 4 years. Tired and frustrated, he has contacted | [10]
+BL-3 you for help. Can you guide him about the concept of Impression
+
+Management and how can he use the same to his advantage?
+
+“There is no need for change when company is growing and successfully
+
+Q5 achieving its financial goals” Do you agree with the statement? Give reasons.
+
+sg 8 you ag)
+CO-2; Suggest some ways to remove resistance and to convince employees for | [10]
+BL-5 change.
+Q6
+CO-2; “Leadership is not always needed in all situations.” Comment [10]
+BL-5
+Q7 Explain in detail various building blocks for an Organization Structure? [10]
+CO-1; BL-2
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper cb2b81ddefea
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour_cb2b81ddef.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’S NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGING
+Academic Year: 2022-2023
+
+Program: MBA Tech _— Year: [V_ Semester: Vu
+Stream; ALL
+
+Subject: Organizational Behaviour Time: 2 hrs (10 am_to 12 noon)
+Date:_0 1 | Buby 2023 No. of Pages: 2
+
+Marks: 50
+
+_ Re-Examination (2021-22 (2022-28)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+- 1) QuestionNo. 1 is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [10]
+CO-1 ; BL-2 a. | Explain various sources of stress for employees 3]
+CO- 1: BL-2 b. | Explain Kurt Lewin’s process of change [2]
+CO- 1; BL-2 c. | Describe 5 techniques of Impression Management 3]
+
+CO- 1; BL-2 d. | Explain Id, Ego & Superego of Fred’s psychoanalytic theory with example | [2]
+
+Sushil is looking for a new job. He used to be the company's top sales
+representative and was eagerly expecting to be promoted. However, one of
+
+Q the regional manager's friends was promoted to district manager instead. [10]
+CO-2: BL-5 Sushil’s dissatisfaction with his current job stems from a breakdown in
+; which relationship? Review the situation and explain in detail the
+motivation theory that fits the best in this situation with any other example.
+
+Evaluate the situation stated below and suggest the supporting theory to
+shape Sonia as a good leader.
+Q3 Sonia enjoys her job as sales Director of Amazon. she has been a stellar [10]
+CO-2: BL-5 sales person since she joined as an intern at Amazon. Her team has
+; demanding deadlines, rigorous trainings and high expectations and staff is
+young not very able or responsible staff. Which leadership approach would
+--- page 2 ---
+you suggest Sonia to follow to lead her staff? Explain it with the help‘of an
+appropriate leadership theory. :
+
+“Tt is said that company’s greatest potential for growth lies in areas of
+Q4 weakness. Instead, company should focus on strengths in order to grow” [10]
+CO-2; BL-6 Keeping in view the above statement devise an organizational
+
+development intervention to boost innovation in a company .
+
+Rajkumar Pharma, a market leader in the chemical industry for Agriculture
+has recently hired a new CEO. The new CEO, has previously worked in
+various international organizations and believes a lot in Workplace
+
+spirituality and wants to apply this concept in Rajkumar Pharma too. But
+Qs y P p ij
+the employees and management at the traditional pharma company are [10]
+CO-2; SO-; clueless about the same. Hence, the CEO has hired your services to make Y
+BL-6 the employees understand the importance and nuances of’ workplace
+spirituality and use them to their success. Prepare and propose a plan to the
+CEO.
+
+In the recent past, a well-known “Kitchen Appliances” brand noticed an
+alarming decrease in its market share from 21% to 17%. This organization
+conducted a survey and analyzed its results. It was noted that, although its
+products were of superior quality but the consumers were reluctant to buy
+its products due to its service gaps at various encounters (viz. installation,
+complaint handling, customer care response etc.).
+
+Q6
+CO-2: This organization noted that presently its service team were reluctant to | [10]
+BL-6 change, even with respect to existing marketing conditions (competitive
+market). Since it has been impacting organization’s financials, it was
+decided to change its service organization structure (viz. giving more
+empowerment to its front line service engineers in deciding the priorities of ~
+. service complaints). z
+Suggest new or suitable organization design and its functional roles?
+Q7 Explain 2 points each describing the advantages and disadvantages of the
+four types of Corporate Culture? [10]
+CO-1; BL-2
+````
+
 ## 2021-22 · Final-Exam · Sem 8 · paper 9e2c70cacad4
 
 - Departments: Common (all branches)
@@ -1939,6 +2232,79 @@ D. Appreciative Inquiry (7 marks )
 14
 
 14
+````
+
+## 2019-20 · Re-Exam · paper e636fa5be90b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ORGANISATIONAL BEHAVIOUR/Organizational Behaviour ,Re-exam 2018-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 14 November 2019
+- Text: ocr (1 page), mean OCR confidence 88.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All Stream) Year: IV Semester: VII
+
+Academic Year: 2019-20
+Subject: Organizational Behaviour
+Marks: 70 ~
+Time: 2.00 pm - 4.00 pm
+Durations: 2 (Hrs)
+
+No. of Pages: __|
+Re-Examination (2018-19)
+
+Date: 14 November 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+ex
+\ Sy
+
+4) All questions carry equal marks. 5 oe lo]
+5) Answer to each new question to be started on a fresh page. Bh Rehan ee wy,
+’ 6) Figures in brackets on the right hand side indicate full marks. S5> Sy
+
+_——
+ERS
+
+. F XWie
+7) Assume suitable data if necessary. Stalag UNIVERSE
+
+1. Your younger brother is joining P&G as an intern in marketing department. He has scored
+well in his graduation and has been a topper all through. But at this moment, He is confused
+and tensed about preparation for new assignment and competition that lies ahead in his new
+
+office. How will you motivate him or her? Which motivational theory or theories will be
+useful in this context? (14 marks)
+
+2. Evaluate the methods used to predict the personality of a prospective‘employee. Is it
+good for organizations to be composed of individuals with similar personalities? Why or
+Why not? (14 marks)
+
+3. What are the group properties and explain the group properties with appropriate
+examples? (14 Marks)
+
+4. Analyse the strategies adopted by an organization to transmit its culture to new entrants.
+(14 Marks)
+
+5. Explain different styles of leadership that can be used by. leaders in building high
+performance teams in organizations. (14 marks)
+
+6. List and explain any four common decision biases or errors. (14 marks)
+7. What is organizational structure? Describe any two common organizational designs. (14
+
+marks)
+
+|
 ````
 
 ## 2018-19 · Final-Exam · paper 16d69fdb1ed0
@@ -2294,79 +2660,6 @@ deterrent to work. Which theory of motivation supports this working beyond retir
 and striving to excel. (14 Marks)
 
 Page 2 of 2
-````
-
-## 2018-19 · Re-Exam · paper e636fa5be90b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ORGANISATIONAL BEHAVIOUR/Organizational Behaviour ,Re-exam 2018-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 14 November 2019
-- Text: ocr (1 page), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA TECH (All Stream) Year: IV Semester: VII
-
-Academic Year: 2019-20
-Subject: Organizational Behaviour
-Marks: 70 ~
-Time: 2.00 pm - 4.00 pm
-Durations: 2 (Hrs)
-
-No. of Pages: __|
-Re-Examination (2018-19)
-
-Date: 14 November 2019
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-ex
-\ Sy
-
-4) All questions carry equal marks. 5 oe lo]
-5) Answer to each new question to be started on a fresh page. Bh Rehan ee wy,
-’ 6) Figures in brackets on the right hand side indicate full marks. S5> Sy
-
-_——
-ERS
-
-. F XWie
-7) Assume suitable data if necessary. Stalag UNIVERSE
-
-1. Your younger brother is joining P&G as an intern in marketing department. He has scored
-well in his graduation and has been a topper all through. But at this moment, He is confused
-and tensed about preparation for new assignment and competition that lies ahead in his new
-
-office. How will you motivate him or her? Which motivational theory or theories will be
-useful in this context? (14 marks)
-
-2. Evaluate the methods used to predict the personality of a prospective‘employee. Is it
-good for organizations to be composed of individuals with similar personalities? Why or
-Why not? (14 marks)
-
-3. What are the group properties and explain the group properties with appropriate
-examples? (14 Marks)
-
-4. Analyse the strategies adopted by an organization to transmit its culture to new entrants.
-(14 Marks)
-
-5. Explain different styles of leadership that can be used by. leaders in building high
-performance teams in organizations. (14 marks)
-
-6. List and explain any four common decision biases or errors. (14 marks)
-7. What is organizational structure? Describe any two common organizational designs. (14
-
-marks)
-
-|
 ````
 
 ## 2017-18 · Final-Exam · paper 1f7b96689594
@@ -3697,6 +3990,146 @@ Pd
 ZN,
 ````
 
+## 2012-13 · Exam not stated · Trim 10 · paper 76b35754b09e
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ORGANISATION BEHEVIOUR/scan0020(1).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/10/2012
+- Text: ocr (1 page), mean OCR confidence 92.9
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineeri
+
+Programme: MBA (Tech) (All Stream) Year: IV ‘Trimester: X
+Academic Year : 2012-2013
+
+Subject: Organizational Behavior Marks: 50
+: Time: 2.00
+Date: 03/10/2012 Duration: 2 hrs.
+
+Final - Examination
+
+1
+
+QUESTION No.1 iS COMPULSARY
+OUT OF REMAINING QUESTIONS ATTEMPT ANY 4 QUESTIONS
+All THE QUESTIONS CARRY EQUAL MARKS (5*10=50)
+
+1. Do you think motivation theories are culture bound? Explain why or Why
+not?
+
+2. Explain the leadership model that integrates the leadership style and decision
+making approaches adopted by the leader.
+
+) 3. Describe the causes of conflict and explain five different styles of handling
+interpersonal conflicts
+
+4. What are the two main approaches to managing organizational change?
+5. Narrate the factors that influence the designing the structure of organizations.
+
+6. Explain the following with examples 1. Halo effect 2. Stereotyping 3.False
+fonsensus
+
+a
+````
+
+## 2012-13 · Exam not stated · Trim 4 · paper 2fe572dec097
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/ORGANIZATION BEHAVIOR/scan0004(11).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’s NMIMS
+
+% 1S ff
+Mukesh Patel School Of Technology Management & Engineering\”, has LY
+Programme: MCA Year: Il Trimester: IV ware
+Academic Year : 2012-2013
+
+. |
+
+Subject: ORGANIZATIONAL BEHAVIOR Marks: 100
+Time: 2.00pm To 5.00pm
+
+Date: 29/10/2012 Duration: 3 hrs °
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Q.No.1 is compulsory
+
+2. Out of remaining questions, attempt any 4 questions
+
+3. In all 5 questions to be attempted.
+
+4, All questions carry equal marks
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in bracket on the right hand side indicate full marks.
+
+Q.1. Read the following case study and answer the questions.
+
+Mr.Rao took over the office four months ago and has since initiated changes, all of which are
+good. His main intention in making the changes was that office should look more professional
+and employees should be facilitated to become more productive. Mr. Rao made changes like
+putting secretary’s desk close to their bosses. Previously they all used to sit in secretary’s pool
+and hail to walk quite a bit for taking dictations from bosses. He also initiated some layout
+changes and shuffled some staff members. The managers were. not asked before shuffling their
+staff.Vir. Rao also managed to purchase and installed computers in some areas for quick and
+accurate work. Due to this managers will not have to be dependent on the lower staff. Mr. Rao
+was taking all decisions and was trying the best possible ways for entire department but he could
+not understand why the staff members were not so enthusiastic and some actually seemed
+unhappy.
+
+Discuss why the changes did not produce desired results and suggest the ways to help Mr.Rao.
+[20]
+
+Vo
+--- page 2 ---
+Q2. Describe different leadership styles across the leadership grid.
+
+Q.3. How culture is transmitted to the employees in the organisation.
+
+Q.4. Explain any three theories of motivation
+
+Q.5.Explain : a) stages of group development b) groupthink and groupshift.
+Q.6. Write a note on the following ( Any Two) :
+
+a) Pitfalls in negotiations process and remedies
+
+b) Direct approach of conflict management
+
+c) Designing Technology based organizations
+
+%
+
+adil
+
+[20]
+
+[20]
+
+[20]
+
+[20]
+
+[10]
+
+[10]
+[10]
+````
+
 ## 2012-13 · Re-Exam · Trim 10 · paper 511c7a84bf6a
 
 - Departments: Chemical, Information Technology, Manufacturing
@@ -4590,9 +5023,9 @@ x x
 
 ## 2007-08 · Exam not stated · Trim 10 · paper 4b4e90cf7afe
 
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ORGANISATION BEHEVIOUR/2007-2008(128).pdf`
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ORGANISATION BEHEVIOUR/2007-2008(128).pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 93.2
 
@@ -4860,437 +5293,4 @@ lower hiring costs, are estimated to be around Rs. 10 lacs. Additional benefits 
 Chennai district has gained from a more stable workforce include 20 percent reduction in
 lost workdays due to work-related injuries and a drop from 4 percent,to | percent in
 packages delivered on wrong day or at the wrong time.
-````
-
-## Year not stated · Exam not stated · Trim 10 · paper 76b35754b09e
-
-- Departments: Chemical, Information Technology, Manufacturing
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM X/ORGANISATION BEHEVIOUR/scan0020(1).pdf` (+2 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 03/10/2012
-- Text: ocr (1 page), mean OCR confidence 92.9
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineeri
-
-Programme: MBA (Tech) (All Stream) Year: IV ‘Trimester: X
-Academic Year : 2012-2013
-
-Subject: Organizational Behavior Marks: 50
-: Time: 2.00
-Date: 03/10/2012 Duration: 2 hrs.
-
-Final - Examination
-
-1
-
-QUESTION No.1 iS COMPULSARY
-OUT OF REMAINING QUESTIONS ATTEMPT ANY 4 QUESTIONS
-All THE QUESTIONS CARRY EQUAL MARKS (5*10=50)
-
-1. Do you think motivation theories are culture bound? Explain why or Why
-not?
-
-2. Explain the leadership model that integrates the leadership style and decision
-making approaches adopted by the leader.
-
-) 3. Describe the causes of conflict and explain five different styles of handling
-interpersonal conflicts
-
-4. What are the two main approaches to managing organizational change?
-5. Narrate the factors that influence the designing the structure of organizations.
-
-6. Explain the following with examples 1. Halo effect 2. Stereotyping 3.False
-fonsensus
-
-a
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 859d1cfbe3f0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS ff oewes
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024 ss
-
-Program: MBA Tech Year: IV. Semester?
-
-Stream; ALL
-
-Subject: Organizational Behaviour
-Date:___22 /04 /2024
-
-Marks: 50
-
-Time: 2 hrs (10 am_to 12 noon)
-
-No. of Pages: 2
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [10]
-
-CO-1 ; BL-2 a. | Explain any 3 perceptual errors [3]
-CO- 1; BL-2 b. | Explain any one - Locus of Control or Self-Efficacy [2]
-CO- 1; BL-2 c. | Explain process of motivation * [3]
-CO- 1; BL-2 d. | Differentiate between Functional and Divisional structure [2]
-
-Projects often fail due to conflicts. Conflicts are often created because of
-Q2 unfair decisions taken by groups. What steps will you take in groups to
-
-ensure fair group decision making process using a very rational step by [10]
-CO-2; BL-3 step procedure? Apply the Rational model of decision making in your
-
-answer.
-
-Gopal recently joined a start-up which is into digital marketing. CEO has
-asked him to design a digital marketing campaign for one of its client.
-Q3 However, Gopal is not able to get the work done because team members | [10]
-CO-2: BL-4 don’t listen to him. He is very friendly to his team members (mainly
-, interns), motivates them, takes them on free lunches but still his team could
-
-not deliver on time.
---- page 2 ---
-i
-
-1) Analyze the situation based on Fiedler’s contingency theory. Identify
-
-causes for non-delivery. os (7)
-2) What will you do if you are the CEO of the company (keep Fiedler’s
-Contingency Theory in mind). Give reasons. (3)
-
-A company is undergoing a major technological transformation. Many of
-their services that were manually handled, are being revamped and updated
-Q4 to latest technology service that will reduce errors and bring down the time [10]
-CO-2; BL-5 for the operation by half. There is fear and uncertainty among employees.
-Using the Kurt Lewin’s Three Step Change Model, explain how the
-company should implement the change in its organization.
-
-a | Young Indians between age group of 30-40 are reporting burnout.
-
-5
-Q Explain the reasons for increasing stress levels amongst Indian Workforce
-CO-2; SO-; and [5]
-BL-3
-CO-2; SO-; b | Analyze the various approaches for handling this stress at individual and 5
-BL-4 organizational level [5]
-Geeta: Power and politics at the workplace is unavoidable. You can either
-play the game or get victimized. You can’t escape it.
-Gaurav: But it doesn’t have to get dirty. There are legitimate power tactics
-and illegitimate ones. I have nothing against power tactics, but we can still
-Q6 respect people for their individuality.
-pect peop
-CO-2; . [10]
-BL-5 Geeta: What are some power tactics that you are aware of and tell me how
-to use them?
-Explain any three power tactics (to Geeta) and compare and contrast them
-for being legitimate (ethical) or illegitimate (unethical).
-Riddhi has never explored workplace spirituality. Her boss Vidyanand has
-Q7 attended an international conference about Workplace Spirituality and
-5 wants Riddhi to create some initiative in their company around this theme. [10]
-CO-1; BL-6 What are your views on having a spiritual culture at workplace? How do
-
-you think Riddhi should go about designing a scheme in this direction?
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 0095d0e45335
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour_0095d0e453.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EWN
-Academic Year: 2022-2023
-
-Program: MBA Tech Year: [V_ Semester: VIII
-Stream; ALL
-
-Subject: Organizational Behaviour Time: 2 hrs (10 am_to 12 noon)
-Date:__27 / 4 /2023 No. of Pages: 2
-
-Marks: 50
-
-Final Examination [Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [10]
-CO-1 ; BL-1 a. | What are the consequences of stress at workplace 13]
-CO- 1; BL-2 b. | 5 ways to foster spirituality at workplace [3]
-CO- 1; BL-2 c. | Explain 5 Bases of Power [2]
-CO- 1; BL-2 d. | Compare Surface level diversity with Deep level Diversity [2]
-Mirinda graduated from college three years ago and has been working at
-XYZ Inc. ever since. A conscientious employee, she has consistently
-received good performance evaluations. She recently found out that a
-Q2 younger colleague, who was just recruited to her team, is drawing a higher [10]
-CO-2; BL-5 salary than she is for doing the same type of work. Following this discovery,
-Mirinda starts coming to work late and her productivity begins to suffer.
-Analyze the situation and describe the motivation theory that best explains
-Mirinda’s behavior.
-Q3 As an in-charge of a Malaysian cyber security project, present the stages
-i i f delivering th [10]
-your group members will pass through till the stage of delivering the
-CO-2; BL-3
-
-project and beyond that.
---- page 2 ---
-Suresh, is a very knowledgeable and well-read guy. He does his work
-diligently too and excels at what he does. But even after doing that, his career
-
-Q4 graph is not something to look at and even at his current company, he is at
-CO-2; SO-; the same position from the last 4 years. Tired and frustrated, he has contacted | [10]
-BL-3 you for help. Can you guide him about the concept of Impression
-
-Management and how can he use the same to his advantage?
-
-“There is no need for change when company is growing and successfully
-
-Q5 achieving its financial goals” Do you agree with the statement? Give reasons.
-
-sg 8 you ag)
-CO-2; Suggest some ways to remove resistance and to convince employees for | [10]
-BL-5 change.
-Q6
-CO-2; “Leadership is not always needed in all situations.” Comment [10]
-BL-5
-Q7 Explain in detail various building blocks for an Organization Structure? [10]
-CO-1; BL-2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper cb2b81ddefea
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Organizational Behaviour/Organizational Behaviour_cb2b81ddef.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 92.6
-
-````text
-SVKM’S NMIMS ‘
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGING
-Academic Year: 2022-2023
-
-Program: MBA Tech _— Year: [V_ Semester: Vu
-Stream; ALL
-
-Subject: Organizational Behaviour Time: 2 hrs (10 am_to 12 noon)
-Date:_0 1 | Buby 2023 No. of Pages: 2
-
-Marks: 50
-
-_ Re-Examination (2021-22 (2022-28)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-- 1) QuestionNo. 1 is compulsory.
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [10]
-CO-1 ; BL-2 a. | Explain various sources of stress for employees 3]
-CO- 1: BL-2 b. | Explain Kurt Lewin’s process of change [2]
-CO- 1; BL-2 c. | Describe 5 techniques of Impression Management 3]
-
-CO- 1; BL-2 d. | Explain Id, Ego & Superego of Fred’s psychoanalytic theory with example | [2]
-
-Sushil is looking for a new job. He used to be the company's top sales
-representative and was eagerly expecting to be promoted. However, one of
-
-Q the regional manager's friends was promoted to district manager instead. [10]
-CO-2: BL-5 Sushil’s dissatisfaction with his current job stems from a breakdown in
-; which relationship? Review the situation and explain in detail the
-motivation theory that fits the best in this situation with any other example.
-
-Evaluate the situation stated below and suggest the supporting theory to
-shape Sonia as a good leader.
-Q3 Sonia enjoys her job as sales Director of Amazon. she has been a stellar [10]
-CO-2: BL-5 sales person since she joined as an intern at Amazon. Her team has
-; demanding deadlines, rigorous trainings and high expectations and staff is
-young not very able or responsible staff. Which leadership approach would
---- page 2 ---
-you suggest Sonia to follow to lead her staff? Explain it with the help‘of an
-appropriate leadership theory. :
-
-“Tt is said that company’s greatest potential for growth lies in areas of
-Q4 weakness. Instead, company should focus on strengths in order to grow” [10]
-CO-2; BL-6 Keeping in view the above statement devise an organizational
-
-development intervention to boost innovation in a company .
-
-Rajkumar Pharma, a market leader in the chemical industry for Agriculture
-has recently hired a new CEO. The new CEO, has previously worked in
-various international organizations and believes a lot in Workplace
-
-spirituality and wants to apply this concept in Rajkumar Pharma too. But
-Qs y P p ij
-the employees and management at the traditional pharma company are [10]
-CO-2; SO-; clueless about the same. Hence, the CEO has hired your services to make Y
-BL-6 the employees understand the importance and nuances of’ workplace
-spirituality and use them to their success. Prepare and propose a plan to the
-CEO.
-
-In the recent past, a well-known “Kitchen Appliances” brand noticed an
-alarming decrease in its market share from 21% to 17%. This organization
-conducted a survey and analyzed its results. It was noted that, although its
-products were of superior quality but the consumers were reluctant to buy
-its products due to its service gaps at various encounters (viz. installation,
-complaint handling, customer care response etc.).
-
-Q6
-CO-2: This organization noted that presently its service team were reluctant to | [10]
-BL-6 change, even with respect to existing marketing conditions (competitive
-market). Since it has been impacting organization’s financials, it was
-decided to change its service organization structure (viz. giving more
-empowerment to its front line service engineers in deciding the priorities of ~
-. service complaints). z
-Suggest new or suitable organization design and its functional roles?
-Q7 Explain 2 points each describing the advantages and disadvantages of the
-four types of Corporate Culture? [10]
-CO-1; BL-2
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 2fe572dec097
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM IV/ORGANIZATION BEHAVIOR/scan0004(11).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29/10/2012
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS
-
-% 1S ff
-Mukesh Patel School Of Technology Management & Engineering\”, has LY
-Programme: MCA Year: Il Trimester: IV ware
-Academic Year : 2012-2013
-
-. |
-
-Subject: ORGANIZATIONAL BEHAVIOR Marks: 100
-Time: 2.00pm To 5.00pm
-
-Date: 29/10/2012 Duration: 3 hrs °
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-
-NB:
-
-1. Q.No.1 is compulsory
-
-2. Out of remaining questions, attempt any 4 questions
-
-3. In all 5 questions to be attempted.
-
-4, All questions carry equal marks
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in bracket on the right hand side indicate full marks.
-
-Q.1. Read the following case study and answer the questions.
-
-Mr.Rao took over the office four months ago and has since initiated changes, all of which are
-good. His main intention in making the changes was that office should look more professional
-and employees should be facilitated to become more productive. Mr. Rao made changes like
-putting secretary’s desk close to their bosses. Previously they all used to sit in secretary’s pool
-and hail to walk quite a bit for taking dictations from bosses. He also initiated some layout
-changes and shuffled some staff members. The managers were. not asked before shuffling their
-staff.Vir. Rao also managed to purchase and installed computers in some areas for quick and
-accurate work. Due to this managers will not have to be dependent on the lower staff. Mr. Rao
-was taking all decisions and was trying the best possible ways for entire department but he could
-not understand why the staff members were not so enthusiastic and some actually seemed
-unhappy.
-
-Discuss why the changes did not produce desired results and suggest the ways to help Mr.Rao.
-[20]
-
-Vo
---- page 2 ---
-Q2. Describe different leadership styles across the leadership grid.
-
-Q.3. How culture is transmitted to the employees in the organisation.
-
-Q.4. Explain any three theories of motivation
-
-Q.5.Explain : a) stages of group development b) groupthink and groupshift.
-Q.6. Write a note on the following ( Any Two) :
-
-a) Pitfalls in negotiations process and remedies
-
-b) Direct approach of conflict management
-
-c) Designing Technology based organizations
-
-%
-
-adil
-
-[20]
-
-[20]
-
-[20]
-
-[20]
-
-[10]
-
-[10]
-[10]
 ````

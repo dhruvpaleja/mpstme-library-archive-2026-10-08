@@ -16,13 +16,6 @@ Also filed as: `Basics of Electrical and Electronics Engineering`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_3de33fae33.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_82a600883f.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | B TECH | Basice Electrical and Electronics Engineering, Sem-I, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, BTech CSBS 7036, BTech CSE DS 7057, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | BTech AIML 7053 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
@@ -32,22 +25,13 @@ Also filed as: `Basics of Electrical and Electronics Engineering`
 | 2025-26 | Final-Exam | Question paper | Sem 1 | BTech CyberSecurity 7010 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | BTech EXTC 7006 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_849d6911d6.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech AI 7012, BTech AIDS 7056, BTech CS 7055, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, MBATech AI 7051, MBATech DS 7052, MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_3de33fae33.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026_82a600883f.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AIML 7053 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
@@ -64,26 +48,24 @@ Also filed as: `Basics of Electrical and Electronics Engineering`
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech AI 7051 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Basic Electrical and Electronics Engineering, Sem-I, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Basic of Electrical and Electronics Engineering, Sem-I, Final Exam 2024-25 & Re E_13df0bc7.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AIML 7053 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
@@ -102,22 +84,24 @@ Also filed as: `Basics of Electrical and Electronics Engineering`
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025_3183cf40d3.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech IT 7001 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech AIDS 7056 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CS 7055 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
@@ -134,6 +118,22 @@ Also filed as: `Basics of Electrical and Electronics Engineering`
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech AIDS 7056 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CS 7055 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7057 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025_3183cf40d3.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Civil 7005 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CyberSecurity 7010 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech DS 7009 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech EXTC 7006 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | BTech Mechanical 7003 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Mechatronics 7004 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf |
 | 2023 | — | Question paper | Sem 1 | B TECH | B Tech (CSE-DS), Basics of Electrical and Electronics Engineering, Sem I, 2023,20_64defea0.pdf |
 | 2023-24 | — | Question paper | Sem 2 | B TECH | Basic Electrical and Electronics Engineering, Sem-II, Batch 2022-23, 2023-24 &202_c9493498.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B TECH | Basic Electrical and Electronics Engineering, Sem-I, Year 2023-24 Re Exam.pdf |

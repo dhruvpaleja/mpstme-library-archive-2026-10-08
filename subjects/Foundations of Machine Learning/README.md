@@ -15,8 +15,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final + Re-Exam | Question paper | Sem 5, Sem 9 | B.TECH INTEGRATED / DATA SCIENCE, MBA TECH / DATA SCIENCE | Foundations of Machine Learning 2025-26 Final Batch 2023-24 ,2024-25 Re Exam.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Foundations of Machine Learning(702DB0C020)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech DS 7009, Integrated DS 7038, MBA TECH / DATA SCIENCE, MBATech DS 7052 | QP_Foundations of Machine Learning(702DB0C020)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech DS 7009, Integrated DS 7038, MBATech DS 7052 | ANS_Foundations of Machine Learning(702DB0C020)_2025-2026.pdf |
 | 2024-25 | — | Question paper | Sem 5 | MBA TECH / DATA SCIENCE | Foundations of Machine Learning, 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | MBA TECH / DATA SCIENCE | Foundations of Machine Learning , Re-exam 2022-23,2023-24,2024-25.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 5 | MBA TECH / DATA SCIENCE | Foundations of Machine Learning, Final ,Re-exam 2022-23.pdf |

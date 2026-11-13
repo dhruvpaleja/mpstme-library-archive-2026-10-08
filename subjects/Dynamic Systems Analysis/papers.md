@@ -1,6 +1,6 @@
 # Dynamic Systems Analysis: question papers in full
 
-3 unique papers · 2023-24 to 2025-26 · Mechatronics
+4 unique papers · 2022-23 to 2025-26 · Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -206,6 +206,7 @@ B, = —2senalhe B, = lice’
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/DYNAMIC SYSTEMS ANALYSIS/Dynamic Systems Analysis, Final Exam & Re Exam 2022-23, A Y 2023-24.pdf`
 - Printed on paper: duration hours: 3; exam date: 02/ 12/2023
 - Text: ocr (4 pages), mean OCR confidence 73.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS |
@@ -332,7 +333,6 @@ BL-5
 --- page 4 ---
 > Data Sheet ee
 LIF (t)] = F(s)
-Lyfe] =F(sta) = LIf(¢-t)]=F(syeS eet] =
 
 gnt1
 As 2 Aw
@@ -341,17 +341,14 @@ L[A cos(wt)] = = LIA sin(wt)] = Sue
 L[A cos(wt)e~*"] = Gratta® L[A sin(wt)e~“] = Wate
 
 Unit Delta Function Unit Step Function Unit Ramp Function
-d(t—t)) =O t¥ to u(t —t)) =O t< ty r(t—t)) =Ot< to
 
 =1t=ty =1t>t =(t—to) t= to
-L[8(t — ty)] = e~Sto Llu(t — to)] = Sesto Llu(t — to] = Gest
 
 H+ 2O_,xX+ w2x = f(t) x(0) = x9 (0) = Xp x(t) = x,(t) + xp(t)
 
 x(t) = e~$n"[a cos(wat) + B sin(wat)] é<1
 xp(t) = e~n"[A, + Ad] é=1
 
-xn (t) = AyelS@ntony§?—1 Jt + Agel -Son-V 57-4 Jt é>1
 
 Wg = Wny1— &
 
@@ -373,4 +370,182 @@ Ac = [wk-w7 | fo i [-2fonwlfs
 © [a2]? +[2F ono]?
 
 Be=
+````
+
+## 2022-23 · Re-Exam · paper f458f64a7b5d
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/DYNAMIC SYSTEM MODELIG AND ANALYSIS/Dynamic Systems Analysis, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 February 2023
+- Text: ocr (4 pages), mean OCR confidence 74.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech (Mechatronics) Year: Ill Semester : V
+
+AcademicY ear: 2022-2023
+
+Subject: D ic Systems Analysis
+: —_* » Marks: 100
+
+| Date : 01 February 2023 Time: 10.00 am - 1.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: 4
+
+Re-Examination (2022-23)
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4__ questions.
+©» 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+a“ Answer all questions. [20]
+CO-1,2 a.
+SO-1,2,7 Solve + 3x =5 x(0)=1 [5]
+BL-3 ‘
+b. Model the following force using elementary functions.
+
+l= ate
+CO-1,2,3 eNO tae
+SO-1,2,7 +—— Pee: [5]
+BL-4 we cout
+CO-1,2 c. For the system *+3x+ 25x = f(t), with x(0) =1andx(0) =2, 05]
+arn calculate the transfer function between f (t) and x(t) in the Laplace domain.
+CO-1,2,3 | d. . :
+SO-1,2,7 Calculate x(k) if x(k + 1) + 0.3 x(k) = 0 with x(0) = 1. {5]
+BL-4
+
+th
+--- page 2 ---
+Q2
+
+[20]
+
+CO-1,2,3 * Consider ¥ + 3% + 25x = 0 with x(0) = 1 and x(0) = 2. Calculate the [10]
+“i? free response.
+CO-1,2,3 | b. Consider X + 3x + 25x = —3cos(12t) with x(0) = 1 and x(0) = 2.
+ele Calcul ly the forced (10)
+BL-4 alculate only the forced response.
+es [20]
+
+a. Model the following non-smooth force using elementary functions. The
+
+pulse extends to infinity.
+CO-1,2,3
+SO- 10
+1,2,6,7 0]
+BL-5
+CO-1,2,3 | b. Consider X + 9X + 20x = 56(t) + 4u(t — 2) with x(0) = 1 and x(0) =
+S0-1,2,7 0. Calculate only the forced (0)
+BL-4 . Calculate only the forced response. .
+om [20]
+CO-1,2,3 | a.
+Consider ¥ + 3x + 15x = f(t) with x(0) = 1 and X(0) = 2. Calculate
+
+SO-1,2,7 ; [10]
+ara the magnitude and phase of the transfer function between f(t) and x(t).
+
+b. Consider M¥ + CX + Kx = f(t) with
+CO-1,2,3 _[2 0] ,_ [100 —20 _
+
+M [6 ak =([250 go jandc 0.002K.
+
+es ia
+
+BOI wet Noting that x(t) = [2] and f(t) = [f 1( 1, calculate the transfer [10]
+BL-4 x(t) fat)
+
+function between f(t) and x, (t).
+
+xy
+--- page 3 ---
+Q5 : [20]
+
+CO-1,2,3 | a.
+Consider the difference equation x(k + 2) + 0.1x(k + 1) — 0.2x(k) = 0
+SO-1,2,7 [10]
+with x(0) = 1 and x(1) = 1.2. Calculate x(k).
+
+BL-4
+CO-1,2,3 | b.
+SO-1,2,7 Calculate x(k) if x(k + 1) + 0.75 x(k) = 3 with x(0) = 1. [10]
+BL-5
+- [20]
+CO-1,2,3. | a.
+Calculate x(t) if X(s) = — 3 es + . ers,
+SO-1,2 s*+9s+20 S744 [10]
+BL-4
+CO-1,2,3 | b.
+. _ 45-3 gg 15g
+SO-1,2 Calculate x(t) if X(s) = PrereT tS + ope es, [10]
+BL-4
+= [20]
+z a. Consider M¥ + Cx + Kx = 0 with
+cles m=[F O] x =[20) [20] and C= 0.002K. Calculate the
+SO-1,2,7 0 41° —20 80 : : [10]
+natural frequencies and natural modes of vibration.
+BL-5
+CO-1,2,3 | b.
+
+Decouple the vector differential equation in a. into two scalar equations
+
+SO-1,2,7 oo — [10]
+assuming zero initial conditions. ;
+
+BL-S
+
+3/4
+--- page 4 ---
+Lif (t)e~"] = F(s +a)
+
+Data Sheet
+LIF (t)] = F(s)
+
+LIf(t—to)] = F(s)e* ee") =
+
+gnt1
+_ As . _ Aw
+LIA cos(wt)] = err LIA sin(wt)] = areas
+= A a = A
+Unit Delta Function Unit Step Function Unit Ramp Function
+Silt= ty =1t>ty =(t—to) t= ty
+X+ 2b, %4+ w2 x = f(t) x(0) = x9 X(0) = % x(t) = xn(t) + xp(t)
+xp (t) = e $n! fa cos(wat) + B sin(wat)] é<1
+Xn (t) = e~On"[A, + Ad] g=1
+Xp (t) = AyelSentonvs?-1]t 4 4, el-Fon-Ve?—1 Jt z>1
+Wg = WnV1— &
+F(s) + (s + 2& wy) x9 + Xo
+X(s) = 2 2
+S*+ 260,54 w2
+f(t) = f, cos(wt) f(t) = f-sin(wt)
+xp(t) = A, cos(wt) + B, sin(wt) xp(t) = A, cos(wt) + B, sin(wt)
+Ac = ete A, = —E2kenelfs
+
+[w2-w?]?+[2Fwnw]?
+
+[2fonw)fe
+
+c
+
+© [wk -w?]"+[2Fon00]?
+
+© [o3-w?]? + [28 ona}?
+
+B.= [wi-w? | fs
+5 [wr-w2] +[2Fon0}
+
+c~,
 ````

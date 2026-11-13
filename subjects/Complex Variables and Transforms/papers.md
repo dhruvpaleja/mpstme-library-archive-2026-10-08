@@ -602,6 +602,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/COMPLEX VARIALES AND TRANSFORMS/B Tech, Complex Variables and Transforms, Year 2025-26 Final Exam.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 75.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -649,7 +650,6 @@ CO-4; BL-3 c2(Z-D(z-2)
 » | [2f=1s.
 Q3 a. | Determine the analytic function whose imaginary part is, 6
 CO-3: BL-4 v(x, y) =4x° y—4a9° +. 3x7 -3y? p41.
-a) | pind se ceorsten Hosier sed tation of f(x)= 1” °<*<™ 18
 »| CO-3: BL-2 ind the complex Fourier series representation of f(x Ll away
 
 with period 27.
@@ -699,7 +699,6 @@ c. a
 CO-5,6; BL-3 Using Fourier Transform, solve: “te s@ +Ty=6(t).
 4 a
 «
-P RRRERA RAE 2 RRR REE
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper f04537defaae
@@ -1670,6 +1669,7 @@ FRR 2 RR
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/COMPLEX VARIALES AND TRANSFORMS/Complex Variables and Transforms Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 74.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -1713,7 +1713,6 @@ oy
 Ql .
 a. Find the constant a, b,c, d if 4
 CO-1; SO- :
-1; BL-1 S(2)=(% +axy+by’)+i(cex’ + dey + y’) is analytic.
 b. ii | 4
 CO-1; SO- Evaluate j z’dz along the path y=x.
 yoo| 1; BL-2 9
@@ -1734,7 +1733,6 @@ Evaluate L fe fesin3¢ a . o
 1; BL-2 0
 0-3: $0- Compute Taylor s or Laurent’s series expansion of
 | f(z) =———~ in region (i) |z|<1 (ii) 1<|z|<2.
-dusts fO=THGaay BBG lel] G 112]
 Q3
 : Find the analytic function whose imaginary part is
 CO-2; SO- yt penany’F
@@ -1798,6 +1796,7 @@ pr? 4g
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/COMPUTER/Sem_08/Complex Variables and Transforms/Complex Variables and Transforms Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 76.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 we,
@@ -1871,7 +1870,6 @@ CO-2; SO-1; BL-3 u+v=e(cosy+siny).
 
 142
 --- page 2 ---
-vb. | Fi i i =e*
 Ova: 80-4; B18 rel me ha form of Fourier series of f (x) e™ where 6
 c , Sz+7_. [8
 C0-3; $0-2; BL-4 Obtain Laurent’s series expansions for f(z) = Pusehe :
@@ -2531,6 +2529,251 @@ Hence, deduce that eu mz + aa te
 (2)
 ````
 
+## 2023-24 · Re-Exam · Sem 4 · paper c00ade7db5d0
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPLEX VARIABLE AND TRANSFORMS/Complex Variables & Transform, Re-exam 2022-2023.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 77.0
+
+````text
+' SVKM’S NMIMS CE
+‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+Academic Year: 2023-2024
+
+Program: B.Tech ( Computer Engineering/ Computer Science), Year: [1 Semester: Iv
+MBATech(Computer) .
+
+Subject: Complex Variables and Transforms Time: 3 hrs Us skadto 4% 00pm)
+Date:_ 6 / 7 /24. No. of Pages:02
+
+Marks: 100
+
+~
+“Qe- Examination 2° 42-23
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+a. | Find the constants a,b,c,d if f(z) =(x" +2axy + by’) +i(cx” +2dxy+y’) |4
+CO-1; SO-1; BL-1 :
+is analytic.
+| evaluate the i ife 1)dz along the straight line joining 1—i ‘
+‘ i Vvaluate the integra f+ along the straight line joining 1—/
+CO-1; SO-1; BL-2 : K ate e ’ e
+and 2+i.
+CO-1;S0-1;BL-1 | © | Write Laplace transform of rf +2¢-30? +4°)H(t- By |. 4
+a CO-1: $O- 1; BL-3 d. | Express f(x)= x|x| as Fourier series in (—1,1). 4
+e. . . k — for|x|<a 4
+CO-1; $O- 1; BL-2 Find the Fourier transform of f(x) = 0 for \x|>a°
+Q a. | Check whether the function f(z) = ze’ is analytic or not. If yes find its 6
+CO-2; $O-1; BL-3 derivative.
+b. 2 gi? 6
+CO-2; SO-1; BL-2 Find {e-se'a} 3
+t
+c. e 8
+Using Cauchy residue theorem evaluate [RE as, where C is
+CO-3; $O-2; BL-3 1 z(z-1)(z+3)
+|z=1+i=4. "3
+Q3 a. | Find the analytic function whose real part is u = xo —3xy74- 3x? -3y' +1, 6
+CO-2; SO-1; BL-3 also find its imaginary part.
+
+1|2
+--- page 2 ---
+: : 1, 0<x<1 6
+CO-2; SO-1; BL-3 Construct the complex form of Fourier series for f(x) = i
+0, 1<x<2
+“ Obtain Laurent’s expansion of f(z) = —_ Fe about z= 0 for
+CO-2; $0-2; BL-4 . 2(2-3)(z +2)
+(i) 2<|2|<3, (ii) |2[>3.
+Q4 a. | Find the bilinear transformation, which maps the points z =1,7,—1 into the | 6
+CO-2; SO-1; BL-2 points w =i,0,-i respectively.
+b. | Prove that the functions fi(x)=1 and f, (x) = x are orthogonal over 6
+C0-2; 0-1; BL-4 ( ~1, 1) . Determine the constants a and 6 such that the function
+f,(x) =-1+ ax +bx? is orthogonal to both f (x) and f(x) on that
+interval.
+c. | Using Laplace transform, solve the following differential equation 8
+CO-3; SO-2; BL-3
+
+(D? -3D+2)y = 4e”" » given that y(0) =—3 and y'(0)=5.
+
+a. 6
+es Apply method of partial fraction to find L" ——— .
+CO-2; SO-1; BL-3 (s—3)(s° +9)
+CO-2; $0-1;BL-3. | b- | Analyze Fourier series of f(x) = (2x—x) in[0,2z]. 6
+CO-2; $O-1;BL-2_ | ¢- Find the finite Fourier cosine and sine transform of f (x)=e"*,0<x<z. |8
+a. Evaluate the infinite integral using Laplace transform 6
+| Q6 «© 7
+CO-2; SO-2; BL-5 fer [fe sin 3u au
+0 0
+b.
+Use Cauchy’s Integral formula to evaluate /-———- —————~dz, where c is
+CO-3; SO-2; BL-3 2 (2-1 Ga )
+
+the circle |z|=3 =
+
+c. 2 8
+Using Fourier Series, solve the heat flow equation - =e a with
+it .
+C033 802; Bl-3 respect to the boundary conditions: w(0,¢) =0, u(z,t) =Oand
+
+u(x,0)= (xx-x*) :
+a. | Evaluate the Laplace transform of the piecewise function 6
+
+Q7 4()= {f- ly 1<r<2
+
+CO-2; SO-1; BL-3
+
+otherwise
+b. | Estimate the Fourier transform of the function 6
+a
+CO-2; $O-1; BL-3 x, [x\<a
+f(x)
+0, |x| za
+°- | Expand the function f(x) = xsin x as’ Fourier series in the interval 8
+CO-3; SO-2; BL-5 =2 1 1 1 1
+
+a
+—m Sx <a. Hence, deduce that
+
+=~ > +--+
+1:3 3-5 5-7 7-9
+
+2|2
+````
+
+## 2023-24 · Re-Exam · Sem 3 · paper 986df4aad7bb
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/COMPLEX VARIALES AND TRANSFORMS/Complex Variables & Transforms ,Re-exam 2022-23.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 / 02/24
+- Text: ocr (2 pages), mean OCR confidence 74.7
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024 j
+Program: B.Tech (Mechanical/Mechatronics/Civil/EXTC), Year: IT Semester: III |
+
+MBATech(Mechanical) oe
+
+Subject: Complex Variables and Transforms Time: 3 hrs (1os0pento 4200p )
+Date: 16 / 02/24 No. of Pages:02
+
+Marks: 100
+
+___ Re-Examination(2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+2) Out of remaining questions, attempt any _.4 questions.
+3)Inall___5_ questions to be attempted.
+
+a 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+: a a a : :
+
+CO-1: SO-1: BL-2 a State constant m if u = x* — my* — 2xy is harmonic. 4
+
+b. 4 piti :
+CO-1; $0-1; BL-2 Find J.” (x3 — y3 — ixy + y?)dz along the path y= x. '
+C0-1;S0-1;BL-1 | © | Write down L{sinté(t — 1/2)} and L{tH(t — 1)}. 4
+CO-1; $O- 1; BL-3 a. Express f(x) =x as a Fourier series in -7<x<z. 4
+
+e. | Find Fourier transform of 4
+
+“| 0-1; 80-1; BL-2 S(x)sk -a<x<a
+=0 Otherwise.
+
+Q ; a. _| Determine whether f(z) =e’ is analytic and if so find it’s derivative. 6
+CO-2; SO-1; BL-3 : :
+
+b. | Find the Laplace Transform of 6
+CO-2; SO-1; BL-2 f@=e 0<r<l
+
+=0 fol.
+© F 2z+1 =
+Apply Cauchy Residue theorem to find |————« where C is circle
+CO-3; SO-2; BL-3 co (Z+3)(z-2)
+\zj=4.
+
+3 a. | Determine analytic function whose real part is u = x*° —3xy’ +3x° -3y" 6
+CO-2; 0-1; BL-3
+
+Bs Use half range sine series for f(x) =2x—x? in (0,z). 6
+
+CO-2; SO-1; BL-3
+
+1|2
+--- page 2 ---
+c. | Compute Taylor’s or Laurent’s series expansion of 8
+}
+
+| CO-2; SO-2; BL-4 z-l : . . _
+f(2) =—————— in region (i) |z|<2 (ii) |z|>3.
+
+(z+1)(z-3)
+Q4 4 | Show that {cos x}®, is orthogonal on (0,27). 6
+CO-2; SO-1; BL-2
+b. | Find the image of the rectangular region bounded by 6
+CO-2; SO-1; BL-4 ‘ .
+x=0,y=0,x=1,y=2 under the transformation w= z+ 3i.
+e :
+CO-3; SO-2; BL-3 Apply Laplace transform to solve a y=t, y(0)=0. 8
+Qs * S+s—2. 6
+Use method of partial fraction to find L1{;——_———_}.
+CO-2; $O-1; BL-3 s(s+3)(s-2)
+b. | Express f(x) as Fourier series: . 6
+CO-2; SO-1; BL-3 f(xj=-1 -a<x<0
+=1 0<x<z.
+“ . oe a 1 0<x<1l 8
+0-2; $0-1; BL-2 Find Fourier-sine and cosine transform of f (x)= 0 x>l
+a. Ld St aod 6
+os Evaluate fe“ sin at.
+CO-2; SO-2; BL-5 ‘
+b. e? 6
+Apply suitable theorem to find f > dz where C is circle
+CO-3; SO-2; BL-3 alar3
+i) |z| = 2 ii) |zE4.
+°c. Determine the solution of one dimensional heat flow equation under the 8
+boundary conditions u(0,t) =u(/,t) =0,¢>0 and P
+0-3; 80-2; BL-3 u(x,0)=1—x for 0<x<l.
+(u(x,t) = (c, cos px +c, sin px) ort)
+a. eo : 6
+Qt Compute L™ zh
+CO-2; SO-1; BL-3 (s+)
+* | Calculate i Fourier transform of U 6
+€0-2; $0-1;BL3 alculate inverse Fourier transform 0 G aye +9) .
+® | Obtain Fourier series for f (x) =x in (-2,7) and hence evaluate 8
+CO-3; $O-2; 1-5 11d ,
+l-=4+s-r tee
+3 5 7
+
+2|2
+````
+
 ## 2023-24 · Re-Exam · Sem 8 · paper 8b3851bf0476
 
 - Departments: Computer Engineering
@@ -2801,6 +3044,7 @@ Hence, deduce that “a a +3 + 2 ten
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/COMPLEX VARIALES AND TRANSFORMS/Complex variables and Transforms, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
 - Text: ocr (2 pages), mean OCR confidence 79.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 >
@@ -2862,7 +3106,6 @@ CO-3; SO-2; BL-5 J (z-1)(z-2)
 Q3 a. | Determine analytic function whose imaginary part is v=3x’y—y’. 6
 CO-2; $O-1; BL-2
 b. | Test for half-range sine series, to prove 6
-ax ax f ; c H
 60910-44806 e* -e _2 Bie, See as
 e"-e* gzlatl a?+4 a?4+9
 in the interval 0<x<z.
@@ -3179,134 +3422,6 @@ CO-2; SO-1; BL-4 Find inverse Fourier transform of (+2 )(16+2) .
 CO-3: S0-2:BL-5 . Obtain half range Fourier cosine series for f (x) =(x-1)’ in (0,1).
 ````
 
-## 2022-23 · Re-Exam · Sem 4 · paper c00ade7db5d0
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/COMPLEX VARIABLE AND TRANSFORMS/Complex Variables & Transform, Re-exam 2022-2023.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 77.0
-
-````text
-' SVKM’S NMIMS CE
-‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-Academic Year: 2023-2024
-
-Program: B.Tech ( Computer Engineering/ Computer Science), Year: [1 Semester: Iv
-MBATech(Computer) .
-
-Subject: Complex Variables and Transforms Time: 3 hrs Us skadto 4% 00pm)
-Date:_ 6 / 7 /24. No. of Pages:02
-
-Marks: 100
-
-~
-“Qe- Examination 2° 42-23
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-a. | Find the constants a,b,c,d if f(z) =(x" +2axy + by’) +i(cx” +2dxy+y’) |4
-CO-1; SO-1; BL-1 :
-is analytic.
-| evaluate the i ife 1)dz along the straight line joining 1—i ‘
-‘ i Vvaluate the integra f+ along the straight line joining 1—/
-CO-1; SO-1; BL-2 : K ate e ’ e
-and 2+i.
-CO-1;S0-1;BL-1 | © | Write Laplace transform of rf +2¢-30? +4°)H(t- By |. 4
-a CO-1: $O- 1; BL-3 d. | Express f(x)= x|x| as Fourier series in (—1,1). 4
-e. . . k — for|x|<a 4
-CO-1; $O- 1; BL-2 Find the Fourier transform of f(x) = 0 for \x|>a°
-Q a. | Check whether the function f(z) = ze’ is analytic or not. If yes find its 6
-CO-2; $O-1; BL-3 derivative.
-b. 2 gi? 6
-CO-2; SO-1; BL-2 Find {e-se'a} 3
-t
-c. e 8
-Using Cauchy residue theorem evaluate [RE as, where C is
-CO-3; $O-2; BL-3 1 z(z-1)(z+3)
-|z=1+i=4. "3
-Q3 a. | Find the analytic function whose real part is u = xo —3xy74- 3x? -3y' +1, 6
-CO-2; SO-1; BL-3 also find its imaginary part.
-
-1|2
---- page 2 ---
-: : 1, 0<x<1 6
-CO-2; SO-1; BL-3 Construct the complex form of Fourier series for f(x) = i
-0, 1<x<2
-“ Obtain Laurent’s expansion of f(z) = —_ Fe about z= 0 for
-CO-2; $0-2; BL-4 . 2(2-3)(z +2)
-(i) 2<|2|<3, (ii) |2[>3.
-Q4 a. | Find the bilinear transformation, which maps the points z =1,7,—1 into the | 6
-CO-2; SO-1; BL-2 points w =i,0,-i respectively.
-b. | Prove that the functions fi(x)=1 and f, (x) = x are orthogonal over 6
-C0-2; 0-1; BL-4 ( ~1, 1) . Determine the constants a and 6 such that the function
-f,(x) =-1+ ax +bx? is orthogonal to both f (x) and f(x) on that
-interval.
-c. | Using Laplace transform, solve the following differential equation 8
-CO-3; SO-2; BL-3
-
-(D? -3D+2)y = 4e”" » given that y(0) =—3 and y'(0)=5.
-
-a. 6
-es Apply method of partial fraction to find L" ——— .
-CO-2; SO-1; BL-3 (s—3)(s° +9)
-CO-2; $0-1;BL-3. | b- | Analyze Fourier series of f(x) = (2x—x) in[0,2z]. 6
-CO-2; $O-1;BL-2_ | ¢- Find the finite Fourier cosine and sine transform of f (x)=e"*,0<x<z. |8
-a. Evaluate the infinite integral using Laplace transform 6
-| Q6 «© 7
-CO-2; SO-2; BL-5 fer [fe sin 3u au
-0 0
-b.
-Use Cauchy’s Integral formula to evaluate /-———- —————~dz, where c is
-CO-3; SO-2; BL-3 2 (2-1 Ga )
-
-the circle |z|=3 =
-
-c. 2 8
-Using Fourier Series, solve the heat flow equation - =e a with
-it .
-C033 802; Bl-3 respect to the boundary conditions: w(0,¢) =0, u(z,t) =Oand
-
-u(x,0)= (xx-x*) :
-a. | Evaluate the Laplace transform of the piecewise function 6
-
-Q7 4()= {f- ly 1<r<2
-
-CO-2; SO-1; BL-3
-
-otherwise
-b. | Estimate the Fourier transform of the function 6
-a
-CO-2; $O-1; BL-3 x, [x\<a
-f(x)
-0, |x| za
-°- | Expand the function f(x) = xsin x as’ Fourier series in the interval 8
-CO-3; SO-2; BL-5 =2 1 1 1 1
-
-a
-—m Sx <a. Hence, deduce that
-
-=~ > +--+
-1:3 3-5 5-7 7-9
-
-2|2
-````
-
 ## 2022-23 · Re-Exam · Sem 4 · paper 6e99a0b834fe
 
 - Departments: Computer Engineering
@@ -3477,123 +3592,6 @@ m—-x; O<xS7
 
 eolly 1
 8 Pr 3 zz
-````
-
-## 2022-23 · Re-Exam · Sem 3 · paper 986df4aad7bb
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHANICAL/III SEMESTER/COMPLEX VARIALES AND TRANSFORMS/Complex Variables & Transforms ,Re-exam 2022-23.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 / 02/24
-- Text: ocr (2 pages), mean OCR confidence 74.7
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024 j
-Program: B.Tech (Mechanical/Mechatronics/Civil/EXTC), Year: IT Semester: III |
-
-MBATech(Mechanical) oe
-
-Subject: Complex Variables and Transforms Time: 3 hrs (1os0pento 4200p )
-Date: 16 / 02/24 No. of Pages:02
-
-Marks: 100
-
-___ Re-Examination(2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-2) Out of remaining questions, attempt any _.4 questions.
-3)Inall___5_ questions to be attempted.
-
-a 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-: a a a : :
-
-CO-1: SO-1: BL-2 a State constant m if u = x* — my* — 2xy is harmonic. 4
-
-b. 4 piti :
-CO-1; $0-1; BL-2 Find J.” (x3 — y3 — ixy + y?)dz along the path y= x. '
-C0-1;S0-1;BL-1 | © | Write down L{sinté(t — 1/2)} and L{tH(t — 1)}. 4
-CO-1; $O- 1; BL-3 a. Express f(x) =x as a Fourier series in -7<x<z. 4
-
-e. | Find Fourier transform of 4
-
-“| 0-1; 80-1; BL-2 S(x)sk -a<x<a
-=0 Otherwise.
-
-Q ; a. _| Determine whether f(z) =e’ is analytic and if so find it’s derivative. 6
-CO-2; SO-1; BL-3 : :
-
-b. | Find the Laplace Transform of 6
-CO-2; SO-1; BL-2 f@=e 0<r<l
-
-=0 fol.
-© F 2z+1 =
-Apply Cauchy Residue theorem to find |————« where C is circle
-CO-3; SO-2; BL-3 co (Z+3)(z-2)
-\zj=4.
-
-3 a. | Determine analytic function whose real part is u = x*° —3xy’ +3x° -3y" 6
-CO-2; 0-1; BL-3
-
-Bs Use half range sine series for f(x) =2x—x? in (0,z). 6
-
-CO-2; SO-1; BL-3
-
-1|2
---- page 2 ---
-c. | Compute Taylor’s or Laurent’s series expansion of 8
-}
-
-| CO-2; SO-2; BL-4 z-l : . . _
-f(2) =—————— in region (i) |z|<2 (ii) |z|>3.
-
-(z+1)(z-3)
-Q4 4 | Show that {cos x}®, is orthogonal on (0,27). 6
-CO-2; SO-1; BL-2
-b. | Find the image of the rectangular region bounded by 6
-CO-2; SO-1; BL-4 ‘ .
-x=0,y=0,x=1,y=2 under the transformation w= z+ 3i.
-e :
-CO-3; SO-2; BL-3 Apply Laplace transform to solve a y=t, y(0)=0. 8
-Qs * S+s—2. 6
-Use method of partial fraction to find L1{;——_———_}.
-CO-2; $O-1; BL-3 s(s+3)(s-2)
-b. | Express f(x) as Fourier series: . 6
-CO-2; SO-1; BL-3 f(xj=-1 -a<x<0
-=1 0<x<z.
-“ . oe a 1 0<x<1l 8
-0-2; $0-1; BL-2 Find Fourier-sine and cosine transform of f (x)= 0 x>l
-a. Ld St aod 6
-os Evaluate fe“ sin at.
-CO-2; SO-2; BL-5 ‘
-b. e? 6
-Apply suitable theorem to find f > dz where C is circle
-CO-3; SO-2; BL-3 alar3
-i) |z| = 2 ii) |zE4.
-°c. Determine the solution of one dimensional heat flow equation under the 8
-boundary conditions u(0,t) =u(/,t) =0,¢>0 and P
-0-3; 80-2; BL-3 u(x,0)=1—x for 0<x<l.
-(u(x,t) = (c, cos px +c, sin px) ort)
-a. eo : 6
-Qt Compute L™ zh
-CO-2; SO-1; BL-3 (s+)
-* | Calculate i Fourier transform of U 6
-€0-2; $0-1;BL3 alculate inverse Fourier transform 0 G aye +9) .
-® | Obtain Fourier series for f (x) =x in (-2,7) and hence evaluate 8
-CO-3; $O-2; 1-5 11d ,
-l-=4+s-r tee
-3 5 7
-
-2|2
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper f590ec13ffe6

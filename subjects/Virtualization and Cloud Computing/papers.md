@@ -4,6 +4,83 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 5 · paper 6e23d764500a
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/B Tech, B Tech Intg, MBA Tech (DS), Virtualization and Cloud Computing, Sem- V, R_38f20b81.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 4 / 12/2025
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+‘> SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+ENGINEERING/
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: B Tech / MBA Tech / B Tech INTG - Year: III; V Semester: V, Ix
+
+Stream/s: DS : F
+Subject: Virtualization and Cloud Computing Time: 3 hrs (220. to 53 opm)
+
+Date: 4 / 12/2025 . . "No. of Pages: 2
+Marks: 100 , i
+
+Final Exam / Re-Examination
+(25-26) ( 2024-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use. .
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Compulsory
+
+1. Question 1- Gornbulson (5 Marks each)
+a. Explain EC2 (Elastic Compute Cloud)
+-b. List down the types of EC2 Instance in AWS
+c. Write down the difference between Memory optimized.and
+_ Storage optimized instance ;
+d. Specify the format of an EC2 instance which shows its
+configuration at a glance. Explain each part of the format.
+--- page 2 ---
+Answer Any 4 of the following
+
+2. Question 2 (10 Marks Each)
+a. Explain-ALB (Application Load Balancer)
+b. Explain NLB (Network Load Balancer)
+3. Question 3 (10 Marks Each)
+a. Explain types of storage available in AWS?
+b. Explain each feature and its uses separately
+4, Question 4 (10 Marks Each)
+a. Explain LAMBDA and its features
+b. How does LAMBDA work? List down the steps in detail
+‘5. Question 5 (10 Marks Each)
+a. List down the types of databases available in AWS
+b. Distinguish between AURORA & Dyanmo in AWS
+:6. Question 6 (10 Marks Each) :
+a. List down the steps to setup an EC2 server from console
+b. Difference between a Web socket and HTTP.Connection
+7. Question 7 (10 Marks Each)
+
+a. Explain IAM in AWS
+b. List down the features and Key components of IAM.
+````
+
 ## 2025-26 · Final + Re-Exam · Sem 5 · paper 9565d9b9d0ec
 
 - Departments: Data Science
@@ -797,7 +874,7 @@ BL-3 b) Amazon Sustainability Data Initiative
 
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 5 · paper bc31c4558d65
+## 2023-24 · Final + Re-Exam · Sem 5 · paper bc31c4558d65
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE
@@ -1131,137 +1208,7 @@ Private subnets that connect to the Internet.
 20
 ````
 
-## 2022-23 · Final-Exam · Sem 5 · paper 23e2e12054b6
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and Cloud Computing, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
-- Text: ocr (3 pages), mean OCR confidence 90.2
-
-````text
-|
-
-Fon
-
-Vn
-
-SVKM’s NMIMS ee unin
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B. Tech (Data Science) - Year: III Semester: V
-Subject: Virtualization and Cloud Computing .-
-
-Marks: 100 ~
-Date: 29 November 2022 Time: 10.00 am - 1.00 pm.
-
-Durations: 3 (Hrs)
-
-No. of Pages: QS
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use. :
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi
-
-Answer briefly: : é [20]
-Sol > a. Explain the four address types used in TCP/IP protocol suite. 5
-BL-2
-CO-3: b. What is the primary benefit of deploying an RDS database in a Read
-SO- 2: Replica configuration? 5
-BL-1
-CO-3 ; Cc, Write a short note on lambda and DynamoDB.
-SO-1; 5
-BL-1
-CO-2 ; d. Explain deployment models of cloud computing in detail.
-SO-1 ; ; 5
-BL-2
-Q2 a.
-CO-1: Define Computer network. Explain each layer of the OSI model in detail. 10
-SO-2; .
-BL-1
-
-\ /3,
---- page 2 ---
-CO-1;
-
-SO-2; Define Cloud computing along with examples. Write down the 0
-Bit characteristics of cloud computing in detail.
-Q3 Which of the IAM Security Tools allows clients to review permissions
-CO-2; granted to a user? 10
-SO-1;
-BL-1
-CO-2; Define virtualization. Explain the types of virtualization. Write down the
-aan importance of virtualization in cioud computing 10
-Q4
-CO-1; Which type of Cloud Computing does Amazon Elastic Compute Cloud 10
-SO-1; (EC2) represent? Explain that service in detail.
-BL-1
-CO-3: An e-commerce company has deployed an RDS database in a single
-SO-2; Availability Zone. The engineering team wants to ensure that in case of an
-BL-6 AZ outage, the database should continue working on the same endpoint | 10
-without any manual administrative intervention. Write down at least four
-points to provide the solutions for this use-case?
-ACRM application is facing user experience issues with users reporting
-frequent sign-in requests from the application. The application is currently
-Qs hosted on multiple EC2 instances behind an Application Load Balancer.
-The engineering team has identified the root cause as unhealthy servers
-CO-;2 causing session data to be lost. The team would like to implement a 10
-pa distributed in-memory cache-based session management solution. As a
-~ cloud solutions architect, which solutions would you recommend?
-CO-1;
-ne ‘ What is the use of IAM services in setting up any company? Explain the 10
-~ difference between user level security and data level security.
-Q6 Your company is evolving towards a microservice approach for their
-CO-3; website. The company plans to expose the website from the same load 10
-SO-1; balancer, linked to different target groups with different URLs, that are
-BL-3
-
-similar to these - checkout.mycorp.com, www.mycorp.com,
-
-Y>
---- page 3 ---
-mycorp.com/profile, and mycorp.com/search. As a Cloud Solutions
-Architect, which Load Balancer type do you recommend to achieve this
-routing feature with MINIMUM configuration and development effort?
-
-CO-2;
-SO-2; .
-BL-1 Write a short note on,Sage Maker, Amazon SES, Amazon Polly 10
-Q7 An organization would like to copy data across different Availability
-cond Zones (AZs) using EBS snapshots. Where are EBS snapshots stored in the
-3; ; SBle iniss Tide chedes 10
-80-2: AWS Cloud? Explain it in detail.
-BL-6
-A pharma company is working on developing a vaccine for the COVID-19
-CO-2: virus. The researchers at the company want to process the reference
-SO-1: healthcare data in an in-memory database that is highly available as well as
-BL-3 HIPAA compliant. As a solutions architect, which of the following AWS | 10
-
-services would you recommend for this task?
-
-: _X
-
-3
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 2cba964e9f9c
+## 2023-24 · Re-Exam · Sem 5 · paper 2cba964e9f9c
 
 - Departments: Data Science
 - Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
@@ -1560,257 +1507,7 @@ exposure to the public internet.
 20
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper ee7648f133db
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and Cloud Computing, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
-- Text: ocr (3 pages), mean OCR confidence 89.9
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
-SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-Program: B. Tech (Data Science) Year: III Semester : V
-
-J. AcademicY ear: 2022-2023
-/ Subject: Virtualization and Cloud Computing
-Marks: 100
-
-Time: 10.00 am - 1.00 pm
-Durations: 3 (Hrs)
-No. of Pages: 3
-
-Date : 03 February 2023
-
-Re-Examination (2022-23)
-
-Instructions: Candidates shouid read carefully the instructions printed on the question paper and on
-
-Mm the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3).In all__5__ questions to be attempted. :
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-Ql
-
-Answer briefly: [20]
-cos Explain the types of Hypervisor. Differentiate full virtualization and para
-SO-1 ; virtualization. 5
-BL-2
-a
-
-CO- 3; b. Define scalability and its types in detail along with examples.
-SO- 2; 5
-BL-1
-
-CO-3 ; &: . oo . .
-SO-1; Define topology and Explain different types of topology in detail. 5
-BL-1 :
-
-Son > a. Write a short note on SQS and SNS of AWS. 5
-BL-2
-
-Q2 a Explain TCP/IP model in detail. Discuss the comparison of TCP/IP model
-CO-1; with OSI model in detail. =
-SO-2; .
-BL-1
-
-Ys,
---- page 2 ---
-CO-1; Write down the issues of cloud computing. Explain the service model of
-SO-2; we .
-> cloud computing in detail.
-BL+1 pase 10
-A leading video streaming provider is migrating to AWS Cloud
-infrastructure for delivering its content to users across the world. The
-Q3 company wants to make sure that the solution supports at least a million
-CO-3: requests per second for its EC2 server farm. 10
-ae As a cloud solutions architect, which type of Elastic Load Balancer would
-you recommend as part of the solution stack?
-CO-2;
-a : Which of the following billing timeframes is applied when running a 10
-° Windows EC2 on-demand instance?
-The engineering team at an online fashion retailer uses AWS Cloud to
-manage its technology infrastructure. The EC2 server fleet is behind an
-Q4 Application Load Balancer and the fleet strength is managed by an Auto
-CO-3: Scaling group. Based on the historical data, the team is anticipating a huge
-SO-1- traffic spike during the upcoming Thanksgiving sale. 10
-BL-3 As an AWS solutions architect, what feature of the Auto Scaling group
-would you leverage so that the potential surge in traffic can be
-preemptively addressed?
-CO-3; . . . : . :
-SO-2: Which AWS database is an easily scalable relational database? Explain the
-BL-6 database in detail along with advantages and disadvantages 10
-Q5 A brand new startup would like to‘remove its need to manage the
-CO-:2 underlying infrastructure and focus on the deployment and management of 10
-SO-1; its applications. Which type of Cloud Computing does this refer to?
-BL-3
-CO-1; Which of the AWS services is an example of Software as a Service
-SO-1; (SaaS)? 10
-BL-1
-
->
---- page 3 ---
-Q6
-
-A big data analytics company is moving its IT infrastructure from an
-
-CO-3; on-premises data center to AWS Cloud. The company has some 10
-SO-1; server-bound software licenses that it wants to use on AWS. As a Cloud
-BL-3 Practitioner, which of the following EC2 instance types would you
-recommend to the company?
-‘The IT infrastructure at a university is deployed on AWS Cloud and it's
-experiencing a read-intensive workload. As a Cloud Practitioner, which
-CO-2; AWS service would you use to take the load off databases? Explain the
-SO-1; service in detail. 10
-BL-6 ,
-Q7 . Lo :
-Which of the following is the best way to protect your data from accidental
-CO-2; deletion on Amazon $3? 10.
-SO-2;
-BL-2
-CO-3;
-aie Write down the benefits over using RDS versus deploying DB on EC2 10
-
-; >|
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 2826de44902a
-
-- Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and cloud Computing, Sem-V, Year 2022-23, Special Re Exam.pdf`
-- Text: ocr (3 pages), mean OCR confidence 90.6
-
-````text
-SVKM’S NMIMS a
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2022-2023
-
-Program: B.Tech Stream ; Data Science_ Year: 3rd__ Semester: V__
-Subject: Virtualization and Cloud computing Time: 03 _ hrs (4L:00amto 2:00 pm
-Date:_419 /06/23 No. of Pages: 03 _
-
-Marks: «100
-
-Special Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-(he cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of the remaining questions, attempt any 4 _ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-CO-1 ; a.
-SO-1 ; List down the three categories of computer networks. 5
-
-BL-2
-
-a - ba b. Write down the benefits of using AWS Elastic Load Balancing (ELB)? 5
-
-+ BL-l
-
-CO-3 ; Cc. :
-SO-1; Write a short note on Amazon Polly and Sage Maker. 5
-BL-1
-CO-2 ; d. Explain service models of cloud computing in detail.
-SO-1 ; 5
-BL-2
-Q2 a. Define Network topology and Explain different types of topology in detail.
-oe Compare TCP/IP and OSI models in detail. 10
-BL-1
---- page 2 ---
-CO-1;
-
-SO-2; Explain the basic characteristics of virtualization. Write down the benefits
-BL-I re 10
-of virtualization.
-Q3 A startup would like to remove its need to manage the underlying
-CO-2: infrastructure and focus on deploying and managing its applications. 10
-SO-1: Which type of Cloud Computing does this refer to?
-BL-1
-CO-2;
-SO-1; Differentiate Cloud computing and Distributed computing. Discuss the
-BL-1 ; . ; 10
-issues of cloud computing in detail.
-Q4
-CO-2; ; . og. . . , 10
-S0-1. Define Hypervisor. Explain different types of hypervisors in detail.
-BL-1
-CO-3: The IT infrastructure at a university is deployed on AWS Cloud and it's
-SO-2; experiencing a read-intensive workload. As a Cloud Practitioner, which
-BL-6 AWS service would you use to take the load off databases? Explain the | 10
-service in detail.
-Q5
-CO-;2 Which type of Cloud Computing does Amazon Elastic Compute Cloud 10
-SO-1; (EC2) represent? Explain that service in detail.
-BL-3
-CO-3;
-i Write down the benefit of deploying an RDS database in a Read Replica 10
-° configuration.
-Q6
-CO-2; Explain the importance of IAM services in setting up any company. 10
-SO-1; Differentiate user-level security and data-level security.
-BL-3
-CO-2; A big data analytics company is moving its IT infrastructure from an on-
-ok premises data centre to AWS Cloud. The company has some server-bound 10
-
-software licenses that it wants to use on AWS. As a Cloud Practitioner,
-which type of EC2 instance would you recommend to the company?
---- page 3 ---
-Ct
-
--—
-
-A financial services firm uses a high-frequency trading system and wants
-to write the log files into Amazon S3. The system will also read these log
-files in parallel on a near real-time basis. The engineering team wants to
-address any data discrepancies that might arise when the trading system
-overwrites an existing log file and then tries to read that specific log file.
-Which of the following options describes the capabilities of Amazon $3
-
-Q7 relevant to this scenario? Explain the answer in detail.
-i. A process replaces an existing object and immediately tries to read it.
-re Until the change is fully propagated, Amazon $3 does not return any data | 10
-BL-6 ii. A process replaces an existing object and immediately tries to read it.
-Amazon $3 always returns the latest version of the object
-iii A process replaces an existing object and immediately tries to read it.
-Until the change is fully propagated, Amazon S3 might return the new data
-iv. A process replaces an existing object and immediately tries to read it.
-Until the change is fully propagated, Amazon $3 might return the previous
-data
-CO-2;
-SO-1;
-BL-3 Write down a short note on Lambda, Dynamo DB and SQS and SNS. 10
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 51ec1723023d
+## 2023-24 · Re-Exam · Sem 5 · paper 51ec1723023d
 
 - Departments: Data Science
 - Programmes: MBA TECH / DATA SCIENCE
@@ -2148,42 +1845,292 @@ and infrastructure
 components. 4.
 ````
 
-## Year not stated · Exam not stated · Sem 5 · paper 6e23d764500a
+## 2022-23 · Final-Exam · Sem 5 · paper 23e2e12054b6
 
 - Departments: Data Science
-- Programmes: B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/B Tech, B Tech Intg, MBA Tech (DS), Virtualization and Cloud Computing, Sem- V, R_38f20b81.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 4 / 12/2025
-- Text: ocr (2 pages), mean OCR confidence 90.2
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and Cloud Computing, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
+- Text: ocr (3 pages), mean OCR confidence 90.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-‘> SVKM’S NMIMS
+|
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-ENGINEERING/
+Fon
 
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
+Vn
 
-Program/s: B Tech / MBA Tech / B Tech INTG - Year: III; V Semester: V, Ix
+SVKM’s NMIMS ee unin
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Stream/s: DS : F
-Subject: Virtualization and Cloud Computing Time: 3 hrs (220. to 53 opm)
+Academic Year: 2022-23
 
-Date: 4 / 12/2025 . . "No. of Pages: 2
-Marks: 100 , i
+Programme: B. Tech (Data Science) - Year: III Semester: V
+Subject: Virtualization and Cloud Computing .-
 
-Final Exam / Re-Examination
-(25-26) ( 2024-25)
+Marks: 100 ~
+Date: 29 November 2022 Time: 10.00 am - 1.00 pm.
 
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use. .
+Durations: 3 (Hrs)
 
-1) Question No. 1 is compulsory.
+No. of Pages: QS
+Final Examination
 
-2) Out of remaining questions, attempt any 4 questions.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use. :
 
-3) In all 5 questions to be attempted.
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: : é [20]
+Sol > a. Explain the four address types used in TCP/IP protocol suite. 5
+BL-2
+CO-3: b. What is the primary benefit of deploying an RDS database in a Read
+SO- 2: Replica configuration? 5
+BL-1
+CO-3 ; Cc, Write a short note on lambda and DynamoDB.
+SO-1; 5
+BL-1
+CO-2 ; d. Explain deployment models of cloud computing in detail.
+SO-1 ; ; 5
+BL-2
+Q2 a.
+CO-1: Define Computer network. Explain each layer of the OSI model in detail. 10
+SO-2; .
+BL-1
+
+\ /3,
+--- page 2 ---
+CO-1;
+
+SO-2; Define Cloud computing along with examples. Write down the 0
+Bit characteristics of cloud computing in detail.
+Q3 Which of the IAM Security Tools allows clients to review permissions
+CO-2; granted to a user? 10
+SO-1;
+BL-1
+CO-2; Define virtualization. Explain the types of virtualization. Write down the
+aan importance of virtualization in cioud computing 10
+Q4
+CO-1; Which type of Cloud Computing does Amazon Elastic Compute Cloud 10
+SO-1; (EC2) represent? Explain that service in detail.
+BL-1
+CO-3: An e-commerce company has deployed an RDS database in a single
+SO-2; Availability Zone. The engineering team wants to ensure that in case of an
+BL-6 AZ outage, the database should continue working on the same endpoint | 10
+without any manual administrative intervention. Write down at least four
+points to provide the solutions for this use-case?
+ACRM application is facing user experience issues with users reporting
+frequent sign-in requests from the application. The application is currently
+Qs hosted on multiple EC2 instances behind an Application Load Balancer.
+The engineering team has identified the root cause as unhealthy servers
+CO-;2 causing session data to be lost. The team would like to implement a 10
+pa distributed in-memory cache-based session management solution. As a
+~ cloud solutions architect, which solutions would you recommend?
+CO-1;
+ne ‘ What is the use of IAM services in setting up any company? Explain the 10
+~ difference between user level security and data level security.
+Q6 Your company is evolving towards a microservice approach for their
+CO-3; website. The company plans to expose the website from the same load 10
+SO-1; balancer, linked to different target groups with different URLs, that are
+BL-3
+
+similar to these - checkout.mycorp.com, www.mycorp.com,
+
+Y>
+--- page 3 ---
+mycorp.com/profile, and mycorp.com/search. As a Cloud Solutions
+Architect, which Load Balancer type do you recommend to achieve this
+routing feature with MINIMUM configuration and development effort?
+
+CO-2;
+SO-2; .
+BL-1 Write a short note on,Sage Maker, Amazon SES, Amazon Polly 10
+Q7 An organization would like to copy data across different Availability
+cond Zones (AZs) using EBS snapshots. Where are EBS snapshots stored in the
+80-2: AWS Cloud? Explain it in detail.
+BL-6
+A pharma company is working on developing a vaccine for the COVID-19
+CO-2: virus. The researchers at the company want to process the reference
+SO-1: healthcare data in an in-memory database that is highly available as well as
+BL-3 HIPAA compliant. As a solutions architect, which of the following AWS | 10
+
+services would you recommend for this task?
+
+: _X
+
+3
+````
+
+## 2022-23 · Re-Exam · Sem 5 · paper ee7648f133db
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and Cloud Computing, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 February 2023
+- Text: ocr (3 pages), mean OCR confidence 89.9
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B. Tech (Data Science) Year: III Semester : V
+
+J. AcademicY ear: 2022-2023
+/ Subject: Virtualization and Cloud Computing
+Marks: 100
+
+Time: 10.00 am - 1.00 pm
+Durations: 3 (Hrs)
+No. of Pages: 3
+
+Date : 03 February 2023
+
+Re-Examination (2022-23)
+
+Instructions: Candidates shouid read carefully the instructions printed on the question paper and on
+
+Mm the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3).In all__5__ questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+Ql
+
+Answer briefly: [20]
+cos Explain the types of Hypervisor. Differentiate full virtualization and para
+SO-1 ; virtualization. 5
+BL-2
+a
+
+CO- 3; b. Define scalability and its types in detail along with examples.
+SO- 2; 5
+BL-1
+
+CO-3 ; &: . oo . .
+SO-1; Define topology and Explain different types of topology in detail. 5
+BL-1 :
+
+Son > a. Write a short note on SQS and SNS of AWS. 5
+BL-2
+
+Q2 a Explain TCP/IP model in detail. Discuss the comparison of TCP/IP model
+CO-1; with OSI model in detail. =
+SO-2; .
+BL-1
+
+Ys,
+--- page 2 ---
+CO-1; Write down the issues of cloud computing. Explain the service model of
+SO-2; we .
+> cloud computing in detail.
+BL+1 pase 10
+A leading video streaming provider is migrating to AWS Cloud
+infrastructure for delivering its content to users across the world. The
+Q3 company wants to make sure that the solution supports at least a million
+CO-3: requests per second for its EC2 server farm. 10
+ae As a cloud solutions architect, which type of Elastic Load Balancer would
+you recommend as part of the solution stack?
+CO-2;
+a : Which of the following billing timeframes is applied when running a 10
+° Windows EC2 on-demand instance?
+The engineering team at an online fashion retailer uses AWS Cloud to
+manage its technology infrastructure. The EC2 server fleet is behind an
+Q4 Application Load Balancer and the fleet strength is managed by an Auto
+CO-3: Scaling group. Based on the historical data, the team is anticipating a huge
+SO-1- traffic spike during the upcoming Thanksgiving sale. 10
+BL-3 As an AWS solutions architect, what feature of the Auto Scaling group
+would you leverage so that the potential surge in traffic can be
+preemptively addressed?
+CO-3; . . . : . :
+SO-2: Which AWS database is an easily scalable relational database? Explain the
+BL-6 database in detail along with advantages and disadvantages 10
+Q5 A brand new startup would like to‘remove its need to manage the
+CO-:2 underlying infrastructure and focus on the deployment and management of 10
+SO-1; its applications. Which type of Cloud Computing does this refer to?
+BL-3
+CO-1; Which of the AWS services is an example of Software as a Service
+SO-1; (SaaS)? 10
+BL-1
+
+>
+--- page 3 ---
+Q6
+
+A big data analytics company is moving its IT infrastructure from an
+
+CO-3; on-premises data center to AWS Cloud. The company has some 10
+SO-1; server-bound software licenses that it wants to use on AWS. As a Cloud
+BL-3 Practitioner, which of the following EC2 instance types would you
+recommend to the company?
+‘The IT infrastructure at a university is deployed on AWS Cloud and it's
+experiencing a read-intensive workload. As a Cloud Practitioner, which
+CO-2; AWS service would you use to take the load off databases? Explain the
+SO-1; service in detail. 10
+BL-6 ,
+Q7 . Lo :
+Which of the following is the best way to protect your data from accidental
+CO-2; deletion on Amazon $3? 10.
+SO-2;
+BL-2
+CO-3;
+aie Write down the benefits over using RDS versus deploying DB on EC2 10
+
+; >|
+````
+
+## 2022-23 · Re-Exam · Sem 5 · paper 2826de44902a
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/VIRTUALIZATION AND CLOUD COMPUTING/Virtualization and cloud Computing, Sem-V, Year 2022-23, Special Re Exam.pdf`
+- Text: ocr (3 pages), mean OCR confidence 90.6
+
+````text
+SVKM’S NMIMS a
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech Stream ; Data Science_ Year: 3rd__ Semester: V__
+Subject: Virtualization and Cloud computing Time: 03 _ hrs (4L:00amto 2:00 pm
+Date:_419 /06/23 No. of Pages: 03 _
+
+Marks: «100
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+(he cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of the remaining questions, attempt any 4 _ questions.
+
+3) In all___5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -2192,35 +2139,88 @@ paper and on the cover of the Answer Book, which is provided for their use. .
 6) Figures in brackets on the right-hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Compulsory
+Ql
+Answer briefly: [20]
 
-1. Question 1- Gornbulson (5 Marks each)
-a. Explain EC2 (Elastic Compute Cloud)
--b. List down the types of EC2 Instance in AWS
-c. Write down the difference between Memory optimized.and
-_ Storage optimized instance ;
-d. Specify the format of an EC2 instance which shows its
-configuration at a glance. Explain each part of the format.
+CO-1 ; a.
+SO-1 ; List down the three categories of computer networks. 5
+
+BL-2
+
+a - ba b. Write down the benefits of using AWS Elastic Load Balancing (ELB)? 5
+
++ BL-l
+
+CO-3 ; Cc. :
+SO-1; Write a short note on Amazon Polly and Sage Maker. 5
+BL-1
+CO-2 ; d. Explain service models of cloud computing in detail.
+SO-1 ; 5
+BL-2
+Q2 a. Define Network topology and Explain different types of topology in detail.
+oe Compare TCP/IP and OSI models in detail. 10
+BL-1
 --- page 2 ---
-Answer Any 4 of the following
+CO-1;
 
-2. Question 2 (10 Marks Each)
-a. Explain-ALB (Application Load Balancer)
-b. Explain NLB (Network Load Balancer)
-3. Question 3 (10 Marks Each)
-a. Explain types of storage available in AWS?
-b. Explain each feature and its uses separately
-4, Question 4 (10 Marks Each)
-a. Explain LAMBDA and its features
-b. How does LAMBDA work? List down the steps in detail
-‘5. Question 5 (10 Marks Each)
-a. List down the types of databases available in AWS
-b. Distinguish between AURORA & Dyanmo in AWS
-:6. Question 6 (10 Marks Each) :
-a. List down the steps to setup an EC2 server from console
-b. Difference between a Web socket and HTTP.Connection
-7. Question 7 (10 Marks Each)
+SO-2; Explain the basic characteristics of virtualization. Write down the benefits
+BL-I re 10
+of virtualization.
+Q3 A startup would like to remove its need to manage the underlying
+CO-2: infrastructure and focus on deploying and managing its applications. 10
+SO-1: Which type of Cloud Computing does this refer to?
+BL-1
+CO-2;
+SO-1; Differentiate Cloud computing and Distributed computing. Discuss the
+BL-1 ; . ; 10
+issues of cloud computing in detail.
+Q4
+CO-2; ; . og. . . , 10
+S0-1. Define Hypervisor. Explain different types of hypervisors in detail.
+BL-1
+CO-3: The IT infrastructure at a university is deployed on AWS Cloud and it's
+SO-2; experiencing a read-intensive workload. As a Cloud Practitioner, which
+BL-6 AWS service would you use to take the load off databases? Explain the | 10
+service in detail.
+Q5
+CO-;2 Which type of Cloud Computing does Amazon Elastic Compute Cloud 10
+SO-1; (EC2) represent? Explain that service in detail.
+BL-3
+CO-3;
+i Write down the benefit of deploying an RDS database in a Read Replica 10
+° configuration.
+Q6
+CO-2; Explain the importance of IAM services in setting up any company. 10
+SO-1; Differentiate user-level security and data-level security.
+BL-3
+CO-2; A big data analytics company is moving its IT infrastructure from an on-
+ok premises data centre to AWS Cloud. The company has some server-bound 10
 
-a. Explain IAM in AWS
-b. List down the features and Key components of IAM.
+software licenses that it wants to use on AWS. As a Cloud Practitioner,
+which type of EC2 instance would you recommend to the company?
+--- page 3 ---
+Ct
+
+-—
+
+A financial services firm uses a high-frequency trading system and wants
+to write the log files into Amazon S3. The system will also read these log
+files in parallel on a near real-time basis. The engineering team wants to
+address any data discrepancies that might arise when the trading system
+overwrites an existing log file and then tries to read that specific log file.
+Which of the following options describes the capabilities of Amazon $3
+
+Q7 relevant to this scenario? Explain the answer in detail.
+i. A process replaces an existing object and immediately tries to read it.
+re Until the change is fully propagated, Amazon $3 does not return any data | 10
+BL-6 ii. A process replaces an existing object and immediately tries to read it.
+Amazon $3 always returns the latest version of the object
+iii A process replaces an existing object and immediately tries to read it.
+Until the change is fully propagated, Amazon S3 might return the new data
+iv. A process replaces an existing object and immediately tries to read it.
+Until the change is fully propagated, Amazon $3 might return the previous
+data
+CO-2;
+SO-1;
+BL-3 Write down a short note on Lambda, Dynamo DB and SQS and SNS. 10
 ````

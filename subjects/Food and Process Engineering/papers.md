@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/food and process engineering/2010-2011(54).pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/01/2011
 - Text: ocr (3 pages), mean OCR confidence 93.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -20,7 +21,6 @@ Programme: MBA(Tech)-CHEMICAL Year: IV Trimester: XI
 Academic Year : 2010-2011
 
 ject: PROCESSING Marks: 100
-aah Roo? Time: 2.00 PMT 590 PM
 Date: 10/01/2011 Duration: 3 hrs. NS Logm ~~ a s
 Final - Examination ST MANES
 —

@@ -239,6 +239,352 @@ MZ o.00[ 0.01] 0.02] 0.03] 0.04] 0.05] 0.06] 0.07| 0.08| 0.09
 3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper de560b147261
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 13 April 2019
+- Text: ocr (2 pages), mean OCR confidence 84.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Progzam B. Tech (EXTC) Year: I Semester: IV
+“ Academic Year: 2018-2019 “ m
+-
+Subject: Probability and Random Processes Marks: 60
+4 ‘
+’ Date: 13 April 2019 Time2.00 pyyaG
+Duration: Ab
+
+Re-Examination (2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the q
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S5questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+al.
+
+a) A bag contains 6 white, 5 red and 7 black balls. If four balls are drawn at
+random one by one without replacement, find the probability of getting all
+white balls.
+
+b) The Joint Probability distribution of two random variable (X,Y) is 3
+given as _
+
+y |1].2]3 | 4
+Xx
+1 0.1] 0 [0.2] 0
+2 0 {01/0 | 0
+3 0.2 | 0 [0.3 | 0
+4 0 0 | O {01
+Find the Marginal Distribution of X andY? FindP(X < 2,Y < 4)?
+
+¢) Given a Random Process X(t) = A, A~U(0,1) find the mean and 3
+Autocorrelation ofX (t)?
+
+d) For the following pdf 3
+
+x2 *
+f= { xe z ,x20
+0, otherwise
+Find F (x) andE [X]?
+Q2.
+
+a) Consider the pdf f (x) = ae~l,-w0 <x <0, 6
+(i) Find CDF F(X),
+(ii) Find the relationship between a and b
+(iii) Find P(1 < x < 2)
+
+b) A lot contains 2% defective items. What would be the number of items 6
+in arandom sample so that the probability of finding at least one
+
+defective item in it is at least 0.9
+V2
+--- page 2 ---
+Q3.
+
+Qa.
+
+O5.
+
+a6.
+
+q7.
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+If X has uniform distribution in(—a,a) , a > 0, find a such that
+P(|X| < 1) = P(X] > 1)
+
+The average test marks in a class is 80. The standard deviation is 6. If
+the marks are distributed normally , how many students in a class of
+200 receives marks bétween 70 and 90
+
+Find Skewness and Kurtosis of the following pdf
+f= SPH, x >0
+
+_, Lo ke-*t#2V, x >0,y >0
+ne oi eof = (ter 2> 0
+The joint pdf of (x,y) is given by f(x) 0 " ptberniee
+
+(i) find k (ii) find P(X > 1,Y < 1), (X <Y)
+
+A random process is defined by X(t) = Asint + Bcost where A, B are
+independent random variables with zero mean and equal standard
+deviation. Show that the process is stationary of second order
+
+Find Power Spectral Density function of Ryx(t) = 3e Hl 4 Se-4ltl,
+
+For a random process with power spectrum
+@ . . :
+Sxx(@) = Tapes Find the Autocorrelation function of the process.
+
+Determine whether the random process X(t) = Acos(Wot ¥ 8)is
+WSS, where A, Wo are constants and @ is uniformally distributed over
+
+(0,277)
+
+Discuss the following
+a) WSS'b) Maximum Likelihood Estimate d) Mean Square Estimate
+
+A random Process X (t) = sin(wt + @), where ¢ is a random variable
+
+unifroamlly distributed in the interval (0,27), prove that
+
+CcOSWT
+
+cov[t,t +t] = Ryx(t,t +T).=
+
+2fa
+````
+
+## 2018-19 · Re-Exam · Sem 4 · paper 8fc4449a8bbe
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/Probability & random processes....Re-exam 16-17-18-19.pdf` (+1 identical copies)
+- Printed on paper: max marks: 70; exam date: 13 June 2019
+- Text: ocr (3 pages), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+J : SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech/ MBA Tech (EXTC) - Year: IL- Semester: IV~
+Academic Year: 2018-2019
+
+Subject: Probability and Random Processes - Marks: 70 %
+Date: 13 June 2019 - Time: 2.00
+
+No. of Pages:
+Re- Examination (2016- 17 /2017- 18/2018- 19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data if necessary.
+
+A
+
+Q.1) a) P(A) =0.3, P(B) =0.4,P(ANB)=0.2.
+
+If A and B are two events such that _ —- =
+"Find i.P(AUB) ii. P(A/B), iii. P(AUB)
+
+b) Avbag contains 7 red and 3 black balls and another bag contains 4 red and 5 black balls. One ball
+is transferred from the first bag to the second bag and then all balls are drawn from the second
+bag. If this ball happens to be red, find the probability that black ball was transferred.
+
+c) If the probability density function of a random variable X is
+
+kx(2—x),0<x <2, k>0"
+
+Find i. k, if. E(X)
+0, Elsewhere
+
+(s)={
+
+x
+
+d) IfXisa Random Variable with Mean 4 and Variance 3. Find P (X= 1).
+
+If X(t) =Ycos@t +Zsina@t, where Y and Z are two independent normal random variables
+Q.2)a) with E(Y)=£(Z) =0, E(Y’) = E(z? ) = 0° and w= const., prove that {X(0)} is a SSS
+process of order 2.
+b) f(x) =k? (1-x),0<x<1,k>0
+Acontinuous random variable X has density function
+Find k and P(|x- a) 2 2c).
+Where ys and o° are mean and variance of X.
+
+Q.3) a) If {x(a} is a WSS process with mean yw and-autocovriance function
+
+C.(e)= oe(1-H) for Osis,
+
+0, for |e|>t, Find the variance of the time average of
+
+Page 1 of 3
+
+(4)
+
+(4)
+
+(3)
+
+(3)
+
+(7)
+
+(7)
+
+(7)
+--- page 2 ---
+{x (1)} over (0, T). Also examine if the process {x(t)} is mean-ergodic.
+
+The marks obtained by students in a certain examination follow a normal distribution with
+b) mean 45 and standard deviation 10. If 1000 students appeared at an examination, calculate the
+
+7
+number of students scoring i. less than 40 marks, ii. More than 60 marks. (7)
+Q.4)a) The joint pdf of a two-dimensional RV (X, Y) is given by
+2
+f(xy) =x + = <x<2,0<Sy<2
+Find i. P(X >1),ii. aly <5}, iii, [x >1/¥ <3), (7)
+2 2
+w PCY <5/x > i), v. P(X <Y) vi P(X4+¥s1)
+b) The bivariate probability distribution of (X,Y) given below,
+xX / Y 1 2 3 4 5 6
+0 0 0 1/32 | 2/32 | 2/32 | 3/32
+1 1/16 | 1/16 | 1/8 1/8 | 1/8 1/8 (7)
+
+2 1/32 | 1/32 | 1/64 | 1/64| 0 | 2/24
+Find #: P(X $1), ii. P(Y $3), iii, P(Y $1, ¥ $3),
+iv. P(X S1/Y¥ $3), v.P(Y<3/X 1), vi. P(X+¥ <4)
+
+Q.5)a) Describe Random processes in terms of their averages and expected values giving definitions of
+each of the following: a. Mean b. Auto-correlation, c. auto-covariance, d.° Correlation (7)
+coefficient, e. cross-correlation, f. cross-covariance, g. cross correlation coefficient.
+
+b) The autocorrelation function of the Poisson increment process is
+
+2, for \t\>e
+
+R(r) = 2 le| Prove that it’s spectral density is
+av Afi -H) for |t|<e : (7)
+€ € ;
+4Asin’ (we / 2)
+S(@) = 221°6(@)+————
+(0) = 22276 (0) +
+Q.6) a) A distribution with unknown mean yw has variance equal to 1.5. Use central limit
+
+theorem to find how large a sample should be taken from the distribution in
+order that the probability will be at least 0.95 and that the sample mean willbe (7)
+within 0.5 of the population mean.
+
+b) If {X(t)} isa WSS and if
+Y(t)= Jaox( —u)du then prove that -
+iS, (0) =S,,(0)H*(o), Wv. 8, (0)=8,,(0) | (0)f
+Q.7)a) Explain the following
+
+i. Wide Sense stationary process (WSS), ii. Power Spectral Density (PSD), iii. Maximum (8)
+Likelihood estimate. iv. Probability Density Function (PDF)
+b) State and Prove any three properties of Auto-Correlation Function R(r) (6)
+
+Page 2 of 3
+--- page 3 ---
+TableC .
+
+§59) Standard Normal Distribution
+
+Numerical entries represent the probability that a standard normal random variable
+
+. X— jb
+is between 0 and z where z= I fs
+o
+
+z 0.00 0.01 0,02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+04 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+a2 9.0793 9.0832 9.0871 0.0910 9.0948 0.0987 0.1026 0.4064 OA103 OAH
+0.3 0.4179) + 0.4217 0.4255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4 0.1554 0.4591 0.1628 0.1664 0.1700 0.1736 0.4772 0.1808 0.1844 0.1879
+0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+0.6 0.2257 0.2281 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+07 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+6.8 6.2881 0.2910 0.2939 0.2967 0.2995 6.3023 6.3051 0.3078 6.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+11 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3780 0.3810 0.3830
+1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162. 0.4177
+1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
+15 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 “0.4515 0.4525 0.4535 0.4545
+17 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
+1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+19 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+24 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+22 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+23 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
+24 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+25 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4948 0.4951 0.4952
+26 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+27 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
+28 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+29 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+20 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4890
+34 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
+3.2 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
+3.3 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
+34 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
+
+884
+````
+
 ## 2017-18 · Final-Exam · Sem 4 · paper 61cad8d23d06
 
 - Departments: Electronics and Telecommunication
@@ -457,6 +803,7 @@ system is also WSS process.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 14-15 15-16 RE EXAM 2017-18 (1).pdf` (+2 identical copies)
 - Printed on paper: max marks: 60; exam date: 03 May 2018
 - Text: ocr (3 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 = SVKM’s NMIMS
@@ -548,7 +895,6 @@ Find the power spectral density of the random process where autocorrelation func
 
 R(t)=pe?!
 a tp w _ =
-If Sxy(w) = {- ro rast ast Herd
 0 otherwise
 
 ‘ Find the cross correlation function.
@@ -644,6 +990,7 @@ ze 3.0 4987 | .4987 | .4987 | .4988 | .4988 | .4989 | .4989 4989 | .4990 | .4990
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 16-17 RE EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 03 May 2018
 - Text: ocr (3 pages), mean OCR confidence 71.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’s NMIMS
@@ -779,7 +1126,6 @@ zoe] O4772- OA778 ~~ 04783 0.4788. 0.4793 0.4798 0.4803. «O.4B08- «0.4812. 0.4
 zi | 04821 0.4826 © 0.4830 0.4834 «= 0.4838 «0.442 «OBS 0.ABSO = 0.4854 = O.ABE7
 22 | 0.4961 . 0.4864... 0.4868. 0.4871 0.4875. 0.4878. 0.4881 0.4884 "0.4887 = 0.4890.
 23 | 04993 04896 o4898 += 04901-04904 «490s «4909» TY « S306
-4] oasie. 04920: 0.age2. 0.4825 Gaga?" d4g28" 0.4931 0.4982“ 0.agsd <0.4g36 ©
 25 | 04938 0.4940 = OAS41 «0.4943 0.4945 0.4845) 0.A9B ANS) OBST (0.4952
 “26 (0.4953 0.4955 0.4966. “0.4957. “Od9b9. 04960. O.4961° ~*- 0.4962. 0.4963. 0.4964
 27 | 04965 0.4966 04967 0.4968 «= 4969S .4970 97H «= 04972 «A973 (O.ASTA
@@ -794,6 +1140,375 @@ ai | o4990 04991 + s4ggi Ss dggi = 4992 Ss dgg2)= 0.992) 0.4992 0.4993 (0,4998
 3/3
 
 884
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper 469990fb12cd
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY_AND_RANDOM_PROCESSES_BATCH_14-15_15-16_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 June 2018
+- Text: ocr (2 pages), mean OCR confidence 86.2
+
+````text
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Batch: 2014-15/ 2015-16
+7 Academic Year: 2017-2018
+Subject: Probability and Random Processes
+a Marks: 60 <
+Date: 28 June 2018 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs) - :
+No. of Pages: O22
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all Squestions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+ql.
+a) Two cards are drawn from well-shuffled pack of 52 cards without (3)
+replacement. What is the probability that one is red queen and other is black
+king
+b) The p.m fof X is given in the table (3)
+Xx 0 1 2 3 4 5 6
+P(X) k 2k 5k 7k 9k 11k 13k
+Find (i) P(X < 4) (ii) P(X = 5) (iii) PB < X < 6)
+c) Given a Random ProcessX(t) = A, A~U(0,1) find the mean and (3)
+Autocorrelation ofX (t).
+d) Prove that Cov(a + bX,c + dY) = bdCov(X,Y) and (3)
+Cov(X + Y,Z) = Cov(X,Z) + Cov(Y,Z)
+Q2.
+a) If X is continuous random variable with pdf (6)
+_ (k(x—x7),x<0<2
+FO) = 0, otherwise find Wand PS 1)
+b) Find the probability that in tossing a fair coin 5 times, there will appear (6)
+(1) 3 heads (2) at least one head (3) not more than one tails
+Q3.
+
+a) Suppose that current in diode is assumed to follow a normal (6)
+distribution with mean of 10mA and a variance of 4mA . What is the
+probability that measurement will exceed12mA?
+
+5e*,0<sx<0 (6)
+
+b) The pdfof x is given by f(x) = { ; ne nen
+
+Find E[X],V[X]
+
+\ Jo
+--- page 2 ---
+Qa. a) Derive an expression for Mean of binomial Distribution (6)
+
+b) Ifthe Joint pdf of two dimensional random variable is given by (6)
+_(k(-—x-y),0<x<2,2<y<4 _.,.
+f(y) = { 0, a (i)Find the value of k
+(ii)P(X < 1,Y < 3),(iii)P(X + Y < 3)
+Qs.
+a) A random process is defined by X(t) = Asint + Bcost where A,B are (6)
+independent random variables with zero mean and equal standard
+deviation. Show that the process is stationary of second order
+b) Find Spectral Density function of Ry,(t) = ae~?!"!,a,b are constants (6)
+Qé6.
+a) Fora random process with power spectrum (6)
+w2
+Syx(@) = {* — lol = 2 ing the Autocorrelation function of the
+0, o.W
+process.
+b) Two random variable X and Y are defined asY = 4X + 9. Find the (6)
+correlation coefficient Between X and Y.
+Q7. a) Discuss the following a) Baye’s Theorem b) WSS c) Maximum (6)
+
+Likelihood estimate d) Mean square estimate
+
+b) A random variable X has a pdf f(x) = e~* for x = 0 show that (6)
+
+Chebyshev in equality gives P[|X — 1]] < > Show that actual
+
+probability is e~?
+
+2/ =
+````
+
+## 2017-18 · Re-Exam · Sem 4 · paper fbddcc9f8b21
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY_AND_RANDOM_PROCESSES_BATCH_16-17_RE_EXAM_.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 June 2018
+- Text: ocr (5 pages), mean OCR confidence 87.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+
+Batch: 2016-17
+ra Academic Year: 2017-2018
+
+Subject: Probability and Random Processes
+y Marks: 70 -~
+Date: 28 June 2018 Time: 10.00 am to 1.00 pm
+, 2 Durations: 3 (Hrs) _ a
+No. of Pages: _-9S*
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any__4 questions. ~
+3) In all__5__ questions to be attempted. | {
+4) All questions carry equal marks. __ : :
+5) Answer to each new question to be started ona reali page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary, —
+
+Ql. Attempt all questions. (14)
+A A bag contains eight red balls, four green balls, and eight yellow balls. A ball is drawn at random i)
+from the bag, and it is not a red ball. What is the probability that it is a green ball?
+
+B_ The CDF of the random variable X is given by : 3
+a x<0
+1 ee!
+Fy@y={*tz OS*S5
+il
+1 x> 5
+
+(i) Draw the graph of the CDF
+(ii) Compute P[X> %].
+
+C_ Let the random variable X represent the number of automobiles that are used for official business 4
+purposes on any given workday. The probability distribution for company A is
+
+x 1 2 3
+
+f(x) 0.3 0.4 0.3
+
+Je
+
+and that for company B is
+--- page 2 ---
+; x 0 i 2 3 4
+! f) [02 [01 [03 [03 lol
+
+)
+Show that the variance of the probability distribution for company B is greater than that for company
+A
+
+D_ Compute mean and variance for uniform distribution. 4
+
+Q2 A An electrical firm manufactures light bulbs that have a life, before burn-out, that is normally 7
+distributed with mean equal to 800 hours and a standard deviation of 40 hours. Find the probability
+that a bulb burns between 778 and 834 hours.
+
+B_ The joint density for the random variables (X, Y ), where Xis the unit temperature change and Yisthe 7
+proportion of spectrum shift that a certain atomic particle produces, is
+
+l0ry?, O<2<y<l,
+0, elsewhere.
+
+(i) Find the marginal densities and the conditional density f (y|x).
+
+(ii) Find the probability that the spectrum shifts more than half of the total observations, given that the
+temperature is increased by 0.25 unit.
+
+f(z.y) =
+
+Q3. A The joint PDF of the random variables X and Y is defined as follows: 7
+
+. se) V<x<02,y>0
+x,y) = ,
+Fry) 0 otherwise.
+
+(i) Find the marginal PDFs of X and Y.
+(ii) What is the covariance of X and Y?
+
+BA manufacturing firm employs three analytical plans for the design and development of a particular 7
+product. For cost reasons, all three are used at varying times. In fact, plans 1, 2, and 3 are used for
+
+30%, 20%, and 50% of the products, respectively. The defect rate is different for the three procedures
+as follows:
+
+P(D|P1) = 0.01, P(D|P2) = 0.03, P(D|P3) = 0.02,
+Where P(D|P/) is the probability of a defective product, given plan j. If a random product was
+
+observed and found to be defective, which plan was most likely used and thus responsible?
+
+Q4. A The probability that a patient recovers from a rare blood disease is 0.4. If 15 people are known to have 6
+
+—| contracted this disease, what is the probability that (a) at least 10 survive, (b) from 3 to 8 survive, and
+(c) exactly 5 survive?
+
+B_ Two random processes X(#) and Y(t) are defined as follows: 8
+
+‘ls
+
+X(t) = A cos(wt +6)
+--- page 3 ---
+Qs. A
+B
+Q6. A
+B
+Q7. A
+
+Y(t) = B sin(wt +8)
+
+Where A, B, and w are constants and 0 is a random variable that is uniformly distributed between 0
+and 2n. Find the cross correlation function of X(t) and Y(A).
+
+Discuss the properties of autocorrelation function for WSS processes.
+
+(i) Compute the variance of the random process X(/) whose autocorrelation function is given by
+
+4
+R = 25 + ——_,
+xXx (T) +1762
+
+(ii) A random process has the autocorrelation function
+
+477 +6
+R ene
+xXx) = y1
+
+Find the mean-square value, the mean value and the variance of the process.
+
+A stationary random process X(t) has the power spectral density
+
+24
+
+S ==
+A= 1G
+
+Find the mean-square value of the process.
+Explain central limit theorem.
+
+Write Short Notes on any two
+
+(i) Chebyshev Inequality
+
+(ii) Properties of power spectral density
+
+(iii) Unbiased estimator
+(iv) Maximum Likelihood Estimator
+--- page 4 ---
+Z—Talobe
+
+Table A.8 Normal Probability Table 735
+Area
+Table A.3 Arcas under the Normal Curve ; oz
+z -06 01 -02 -03 04 .05 -06 07 .08 -09
+
+—3.4 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0002
+—3.3 0.0005 0.0005 0.0005 0.0004 0.0004 0.0004 0.0004 0.0004 0.0004 0.0003
+—3.2 0.0007 0.0007 0.0006 0.0006 0.0006 0.0006 0.0006 0.0005 0.0005 0.0005
+,—-8.1 0.0010 0.0009 0.0009 0.0009 0.0008 0.0008 0.0008 -.0.0008 0.0007 0.0007
+—3.0 0.0013 0.0013 0.0013 0.0012 0.0012 0.0011 0.0011 0.0011 0.0010 0.0010
+
+—2.9 0.0019 0.0018 0.0018 0.0017 0.0016 0.0016 0.0015 0.0015 0.0014 0.0014
+—2.8 0.0026- 0.0025 0.0024 0.0023 0.0023 0.0022 0.0021 0.0021 0.0020 0.0019
+—2.7 0.0035 0.0034 0.0033 0.0032 0.0031 0.0030 0.0029 0.0028 0.0027 0.0026
+—2.6 0.0047 0.0045 0.0044 0.0043 0.0041 0.0040 0.0039 0.0038 0.0037 0.0036
+—2.5 0.0062 0.0060 0.0059 0.0057 0.0055 0.0054 0.0052 0.0051 0.0049 0.0048
+
+—2.4 0.0082 0.0080 0.0078 0.0075 0.0073 0.0071 0.0069 0.0068 0.0066 0.0064
+—2.3 0.0107 0.0104 0.0102 0.0099 0.0096 0.0094 0.0091 0.0089 0.0087 0.0084
+—2.2 0.0139 0.0186 0.0132 0.0129 0.0125 0.0122 0.0119 0.0116 0.0113 0.0110
+—2.1 0.0179 0.0174 0.0170 0.0166 0.0162 0.0158 0.0154 0.0150 0.0146 0.0143
+—2.0 0.0228 0.0222 0.0217 0.0212 0.0207 0.0202 0.0197 0.0192 0.0188 0.0183
+
+—1.9 0.0287 0.0281 0.0274 0.0268 0.0262 0.0256 0.0250 0.0244 0.0239 0.0233
+—1.8 0.0359 0.0351 0.0344 0.0336 0.0329 0.0322 0.0314 0.0307 0.0301 0.0294
+—1.7 0.0446 0.0436 0.0427 0.0418 0.0409 0.0401 0.0392 0.0384 0.0375 0.0367
+—1.6 0.0548 0.0537 0.0526 0.0516 0.0505 0.0495 0.0485 0.0475 0.0465 0.0455
+—1.5 0.0668 0.0655 0.0643 0.0630 0.0618 0.0606 0.0594 0.0582 0.0571 0.0559
+
+—1.4 0.0808 0.0793 0.0778 0.0764 0.0749 0.0735 0.0721 0.0708 0.0694 0.0681
+—1.3 0.0968 0.0951 0.0934 0.0918 0.0901 0.0885 0.0869 0.0853 0.0838 0.0823
+—1.2 0.1151 0.1131 0.1112 0.1093 0.1075 0.1056 0.1038 0.1020 0.1003 0.0985
+—1.1 0.1857 0.1885 0.1314 0.1292 0.1271 0.1251 0.1280 -0.1210 0.1190 =—:0.1170
+—1.0 0.1587 0.1562 0.1539 0.1515 0.1492 0.1469 0.1446 0.1423 0.1401 0.1379
+
+—0.9 0.1841 0.1814 0.1788 0.1762 0.1736 0.1711 0.1685 0.1660 0.1635 0.1611
+—0.8 0.2119 0.2090 0.2061 0.2033 0.2005 0.1977 0.1949 0.1922 0.1894 0.1867
+—0.7 0.2420 0.2389 0.2358 0.2327 0.2296 0.2266 0.2236 0.2206 0.2177 0.2148
+—0.6 0.2743 0.2709 0.2676 0:2643 0.2611 0.2578 0.2546 0.2514 0.2483 0.2451
+—0.5 0.3085 0.3050 0.3015 0.2981 0.2946 0.2912 0.2877 0.2843 0.2810 0.2776
+
+—0.4 0.3446 0.3409 0.3372 0.3336 0.3300 0.3264 0.3228 0.3192 0.3156 0.3121
+—0.3 0.3821 0.3783 0.3745 0.3707 0.3669 0.3632 0.3594 0.3557 0.3520 0.3483
+—0.2 0.4207 0.4168 0.4129 0.4090 0.4052 0.4013 0.3974 0.3936 0.3897 0.3859
+—0.1 0.4602 0.4562 0.4522 0.4483 0.4443 0.4404 0.4364 0.4325 0.4286 0.4247
+—0.0 0.5000 0.4960 0.4920 0.4880 0.4840 0.4801 0.4761 0.4721 0.4681 0.4641
+--- page 5 ---
+736 Appendix A Statistical Tables and Proofs
+
+Table A.3 (continued) Areas under the Normal Curve
+
+z -00 -01 -02 -03 -04 -05 -06 .07 -08 -09
+
+0.0 0.5000 0.5040 0.5080 0.5120 0.5160 0.5199 0.5239 0.5279 0.5319 0.5359
+0.1 0.5398 0.5438 0.5478 0.5517 0.5557 0.5596 0.5636 0.5675 0.5714 0.5753
+0.2 0.5793 0.5832 0.5871 0.5910 0.5948 0.5987 0.6026 0.6064 0.6103 0.6141
+0.3 0.6179 0.6217 0.6255 0.6293 0.6331 0.6368 0.6406 0.6443 0.6480 0.6517
+0.4 0.6554 0.6591 0.6628 0.6664 0.6700 0.6736 0.6772 0.6808 0.6844 0.6879
+
+0.5 0.6915 0.6950 0.6985 0.7019 0.7054 0.7088 0.7123 0.7157 0.7190 0.7224
+0.6 0.7257 0.7291 0.7324 0.7357 0.7389 0.7422 0.7454 0.7486 0.7517 0.7549
+0.7 0.7580 0.7611 0.7642 0.7673 0.7704 0.7734 0.7764 0.7794 0.7823 0.7852
+0.8 0.7881 0.7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.8106 0.8133
+0.9 0.8159 0.8186 0.8212 - 0.8238 0.8264 0.8289 0.8315 0.8340 0.8365 0.8389
+
+1.0 0.8413 0.8438 0.8461 0.8485 0.8508 0.8531 0.8554 0.8577 0.8599 0.8621
+1.1 0.8643 0.8665 0.8686 0.8708 0.8729 0.8749 0.8770 0.8790 0.8810 0.8830
+1.2 0.8849 0.8869 0.8888 0.8907 0.8925 0.8944 0.8962 0.8980 0.8997 0.9015
+1.3 0.9032 0.9049 0.9066 0.9082 0.9099 0.9115 0.9131 0.9147 0.9162 0.9177
+1.4 0.9192 0.9207 0.9222 0.9236 0.9251 0.9265 0.9279 0.9292 0.9306 0.9319
+
+1.5 0.9332 0.9345 0.9357 0.9370 0.9382 0.9394 0.9406 0.9418 0.9429 0.9441
+1.6 0.9452 0.9463 0.9474 0.9484 0.9495 0.9505 0.9515 0.9525 0.9535 0.9545
+1.7 0.9554 0.9564 0.9573 0.9582 0.9591 0.9599 0.9608 0.9616 0.9625 0.9633
+1.8 0.9641 0.9649 0.9656 0.9664 0.9671 0.9678 0.9686 0.9693 0.9699 0.9706
+1.9 0.9713 0.9719 0.9726 0.9732 0.9738 0.9744 0.9750 0.9756 0.9761 0.9767
+
+2.0 0.9772 0.9778 0.9783 0.9788 0.9793 0.9798 0.9803 0.9808 0.9812 0.9817
+2.1 0.9821 0.9826 0.9830 0.9834 0.9838 0.9842 0.9846 0.9850 0.9854 0.9857
+2.2 0.9861 0.9864 0.9868 0.9871 0.9875 0.9878 0.9881 0.9884 0.9887 0.9890
+2.3 0.9893 0.9896 0.9898 0.9901 0.9904 0.9906 0.9909 0.9911 0.9913 0.9916
+2.4 0.9918 0.9920 0.9922 0.9925 0.9927 0.9929 0.9931 0.9932 0.9934 0.9936
+
+2.5 0.9938 0.9940 0.9941 0.9943 0.9945 0.9946 0.9948 0.9949 0.9951 0.9952
+2.6 0.9953 0.9955 0.9956 0.9957 0.9959 0.9960 0.9961 0.9962 0.9963 0.9964
+2.7 0.9965 0.9966 0.9967 0.9968 0.9969 0.9970 0.9971 0.9972 0.9973 0.9974
+2.8 0.9974 0.9975 0.9976 0.9977 0.9977 0.9978 0.9979 0.9979 0.9980 0.9981
+2.9 0.9981 0.9982 0.9982 0.9983 0.9984 0.9984 0.9985 0.9985 0.9986 0.9986
+
+3.0 0.9987 0.9987 0.9987 0.9988 0.9988 0.9989 0.9989 0.9989 0.9990 0.9990
+3.1 0.9990 0.9991 0.9991 0.9991 0.9992 0.9992 0.9992 0.9992 0.9993 0.9993
+3.2 0.9993 0.9993 0.9994 0.9994 0.9994 0.9994 0.9994 0.9995 0.9995 0.9995
+3.3 0.9995 0.9995 0.9995 0.9996 0.9996 0.9996 0.9996 0.9996 0.9996 0.9997
+3.4 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9998
+
+ls
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 008ced36136f
@@ -1752,521 +2467,7 @@ z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 . 0.09
 Ale
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper fbddcc9f8b21
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY_AND_RANDOM_PROCESSES_BATCH_16-17_RE_EXAM_.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 28 June 2018
-- Text: ocr (5 pages), mean OCR confidence 87.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-
-Batch: 2016-17
-ra Academic Year: 2017-2018
-
-Subject: Probability and Random Processes
-y Marks: 70 -~
-Date: 28 June 2018 Time: 10.00 am to 1.00 pm
-, 2 Durations: 3 (Hrs) _ a
-No. of Pages: _-9S*
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any__4 questions. ~
-3) In all__5__ questions to be attempted. | {
-4) All questions carry equal marks. __ : :
-5) Answer to each new question to be started ona reali page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary, —
-
-Ql. Attempt all questions. (14)
-A A bag contains eight red balls, four green balls, and eight yellow balls. A ball is drawn at random i)
-from the bag, and it is not a red ball. What is the probability that it is a green ball?
-
-B_ The CDF of the random variable X is given by : 3
-a x<0
-1 ee!
-Fy@y={*tz OS*S5
-il
-1 x> 5
-
-(i) Draw the graph of the CDF
-(ii) Compute P[X> %].
-
-C_ Let the random variable X represent the number of automobiles that are used for official business 4
-purposes on any given workday. The probability distribution for company A is
-
-x 1 2 3
-
-f(x) 0.3 0.4 0.3
-
-Je
-
-and that for company B is
---- page 2 ---
-; x 0 i 2 3 4
-! f) [02 [01 [03 [03 lol
-
-)
-Show that the variance of the probability distribution for company B is greater than that for company
-A
-
-D_ Compute mean and variance for uniform distribution. 4
-
-Q2 A An electrical firm manufactures light bulbs that have a life, before burn-out, that is normally 7
-distributed with mean equal to 800 hours and a standard deviation of 40 hours. Find the probability
-that a bulb burns between 778 and 834 hours.
-
-B_ The joint density for the random variables (X, Y ), where Xis the unit temperature change and Yisthe 7
-proportion of spectrum shift that a certain atomic particle produces, is
-
-l0ry?, O<2<y<l,
-0, elsewhere.
-
-(i) Find the marginal densities and the conditional density f (y|x).
-
-(ii) Find the probability that the spectrum shifts more than half of the total observations, given that the
-temperature is increased by 0.25 unit.
-
-f(z.y) =
-
-Q3. A The joint PDF of the random variables X and Y is defined as follows: 7
-
-. se) V<x<02,y>0
-x,y) = ,
-Fry) 0 otherwise.
-
-(i) Find the marginal PDFs of X and Y.
-(ii) What is the covariance of X and Y?
-
-BA manufacturing firm employs three analytical plans for the design and development of a particular 7
-product. For cost reasons, all three are used at varying times. In fact, plans 1, 2, and 3 are used for
-
-30%, 20%, and 50% of the products, respectively. The defect rate is different for the three procedures
-as follows:
-
-P(D|P1) = 0.01, P(D|P2) = 0.03, P(D|P3) = 0.02,
-Where P(D|P/) is the probability of a defective product, given plan j. If a random product was
-
-observed and found to be defective, which plan was most likely used and thus responsible?
-
-Q4. A The probability that a patient recovers from a rare blood disease is 0.4. If 15 people are known to have 6
-
-—| contracted this disease, what is the probability that (a) at least 10 survive, (b) from 3 to 8 survive, and
-(c) exactly 5 survive?
-
-B_ Two random processes X(#) and Y(t) are defined as follows: 8
-
-‘ls
-
-X(t) = A cos(wt +6)
---- page 3 ---
-Qs. A
-B
-Q6. A
-B
-Q7. A
-
-Y(t) = B sin(wt +8)
-
-Where A, B, and w are constants and 0 is a random variable that is uniformly distributed between 0
-and 2n. Find the cross correlation function of X(t) and Y(A).
-
-Discuss the properties of autocorrelation function for WSS processes.
-
-(i) Compute the variance of the random process X(/) whose autocorrelation function is given by
-
-4
-R = 25 + ——_,
-xXx (T) +1762
-
-(ii) A random process has the autocorrelation function
-
-477 +6
-R ene
-xXx) = y1
-
-Find the mean-square value, the mean value and the variance of the process.
-
-A stationary random process X(t) has the power spectral density
-
-24
-
-S ==
-A= 1G
-
-Find the mean-square value of the process.
-Explain central limit theorem.
-
-Write Short Notes on any two
-
-(i) Chebyshev Inequality
-
-(ii) Properties of power spectral density
-
-(iii) Unbiased estimator
-(iv) Maximum Likelihood Estimator
---- page 4 ---
-Z—Talobe
-
-Table A.8 Normal Probability Table 735
-Area
-Table A.3 Arcas under the Normal Curve ; oz
-z -06 01 -02 -03 04 .05 -06 07 .08 -09
-
-—3.4 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0003 0.0002
-—3.3 0.0005 0.0005 0.0005 0.0004 0.0004 0.0004 0.0004 0.0004 0.0004 0.0003
-—3.2 0.0007 0.0007 0.0006 0.0006 0.0006 0.0006 0.0006 0.0005 0.0005 0.0005
-,—-8.1 0.0010 0.0009 0.0009 0.0009 0.0008 0.0008 0.0008 -.0.0008 0.0007 0.0007
-—3.0 0.0013 0.0013 0.0013 0.0012 0.0012 0.0011 0.0011 0.0011 0.0010 0.0010
-
-—2.9 0.0019 0.0018 0.0018 0.0017 0.0016 0.0016 0.0015 0.0015 0.0014 0.0014
-—2.8 0.0026- 0.0025 0.0024 0.0023 0.0023 0.0022 0.0021 0.0021 0.0020 0.0019
-—2.7 0.0035 0.0034 0.0033 0.0032 0.0031 0.0030 0.0029 0.0028 0.0027 0.0026
-—2.6 0.0047 0.0045 0.0044 0.0043 0.0041 0.0040 0.0039 0.0038 0.0037 0.0036
-—2.5 0.0062 0.0060 0.0059 0.0057 0.0055 0.0054 0.0052 0.0051 0.0049 0.0048
-
-—2.4 0.0082 0.0080 0.0078 0.0075 0.0073 0.0071 0.0069 0.0068 0.0066 0.0064
-—2.3 0.0107 0.0104 0.0102 0.0099 0.0096 0.0094 0.0091 0.0089 0.0087 0.0084
-—2.2 0.0139 0.0186 0.0132 0.0129 0.0125 0.0122 0.0119 0.0116 0.0113 0.0110
-—2.1 0.0179 0.0174 0.0170 0.0166 0.0162 0.0158 0.0154 0.0150 0.0146 0.0143
-—2.0 0.0228 0.0222 0.0217 0.0212 0.0207 0.0202 0.0197 0.0192 0.0188 0.0183
-
-—1.9 0.0287 0.0281 0.0274 0.0268 0.0262 0.0256 0.0250 0.0244 0.0239 0.0233
-—1.8 0.0359 0.0351 0.0344 0.0336 0.0329 0.0322 0.0314 0.0307 0.0301 0.0294
-—1.7 0.0446 0.0436 0.0427 0.0418 0.0409 0.0401 0.0392 0.0384 0.0375 0.0367
-—1.6 0.0548 0.0537 0.0526 0.0516 0.0505 0.0495 0.0485 0.0475 0.0465 0.0455
-—1.5 0.0668 0.0655 0.0643 0.0630 0.0618 0.0606 0.0594 0.0582 0.0571 0.0559
-
-—1.4 0.0808 0.0793 0.0778 0.0764 0.0749 0.0735 0.0721 0.0708 0.0694 0.0681
-—1.3 0.0968 0.0951 0.0934 0.0918 0.0901 0.0885 0.0869 0.0853 0.0838 0.0823
-—1.2 0.1151 0.1131 0.1112 0.1093 0.1075 0.1056 0.1038 0.1020 0.1003 0.0985
-—1.1 0.1857 0.1885 0.1314 0.1292 0.1271 0.1251 0.1280 -0.1210 0.1190 =—:0.1170
-—1.0 0.1587 0.1562 0.1539 0.1515 0.1492 0.1469 0.1446 0.1423 0.1401 0.1379
-
-—0.9 0.1841 0.1814 0.1788 0.1762 0.1736 0.1711 0.1685 0.1660 0.1635 0.1611
-—0.8 0.2119 0.2090 0.2061 0.2033 0.2005 0.1977 0.1949 0.1922 0.1894 0.1867
-—0.7 0.2420 0.2389 0.2358 0.2327 0.2296 0.2266 0.2236 0.2206 0.2177 0.2148
-—0.6 0.2743 0.2709 0.2676 0:2643 0.2611 0.2578 0.2546 0.2514 0.2483 0.2451
-—0.5 0.3085 0.3050 0.3015 0.2981 0.2946 0.2912 0.2877 0.2843 0.2810 0.2776
-
-—0.4 0.3446 0.3409 0.3372 0.3336 0.3300 0.3264 0.3228 0.3192 0.3156 0.3121
-—0.3 0.3821 0.3783 0.3745 0.3707 0.3669 0.3632 0.3594 0.3557 0.3520 0.3483
-—0.2 0.4207 0.4168 0.4129 0.4090 0.4052 0.4013 0.3974 0.3936 0.3897 0.3859
-—0.1 0.4602 0.4562 0.4522 0.4483 0.4443 0.4404 0.4364 0.4325 0.4286 0.4247
-—0.0 0.5000 0.4960 0.4920 0.4880 0.4840 0.4801 0.4761 0.4721 0.4681 0.4641
---- page 5 ---
-736 Appendix A Statistical Tables and Proofs
-
-Table A.3 (continued) Areas under the Normal Curve
-
-z -00 -01 -02 -03 -04 -05 -06 .07 -08 -09
-
-0.0 0.5000 0.5040 0.5080 0.5120 0.5160 0.5199 0.5239 0.5279 0.5319 0.5359
-0.1 0.5398 0.5438 0.5478 0.5517 0.5557 0.5596 0.5636 0.5675 0.5714 0.5753
-0.2 0.5793 0.5832 0.5871 0.5910 0.5948 0.5987 0.6026 0.6064 0.6103 0.6141
-0.3 0.6179 0.6217 0.6255 0.6293 0.6331 0.6368 0.6406 0.6443 0.6480 0.6517
-0.4 0.6554 0.6591 0.6628 0.6664 0.6700 0.6736 0.6772 0.6808 0.6844 0.6879
-
-0.5 0.6915 0.6950 0.6985 0.7019 0.7054 0.7088 0.7123 0.7157 0.7190 0.7224
-0.6 0.7257 0.7291 0.7324 0.7357 0.7389 0.7422 0.7454 0.7486 0.7517 0.7549
-0.7 0.7580 0.7611 0.7642 0.7673 0.7704 0.7734 0.7764 0.7794 0.7823 0.7852
-0.8 0.7881 0.7910 0.7939 0.7967 0.7995 0.8023 0.8051 0.8078 0.8106 0.8133
-0.9 0.8159 0.8186 0.8212 - 0.8238 0.8264 0.8289 0.8315 0.8340 0.8365 0.8389
-
-1.0 0.8413 0.8438 0.8461 0.8485 0.8508 0.8531 0.8554 0.8577 0.8599 0.8621
-1.1 0.8643 0.8665 0.8686 0.8708 0.8729 0.8749 0.8770 0.8790 0.8810 0.8830
-1.2 0.8849 0.8869 0.8888 0.8907 0.8925 0.8944 0.8962 0.8980 0.8997 0.9015
-1.3 0.9032 0.9049 0.9066 0.9082 0.9099 0.9115 0.9131 0.9147 0.9162 0.9177
-1.4 0.9192 0.9207 0.9222 0.9236 0.9251 0.9265 0.9279 0.9292 0.9306 0.9319
-
-1.5 0.9332 0.9345 0.9357 0.9370 0.9382 0.9394 0.9406 0.9418 0.9429 0.9441
-1.6 0.9452 0.9463 0.9474 0.9484 0.9495 0.9505 0.9515 0.9525 0.9535 0.9545
-1.7 0.9554 0.9564 0.9573 0.9582 0.9591 0.9599 0.9608 0.9616 0.9625 0.9633
-1.8 0.9641 0.9649 0.9656 0.9664 0.9671 0.9678 0.9686 0.9693 0.9699 0.9706
-1.9 0.9713 0.9719 0.9726 0.9732 0.9738 0.9744 0.9750 0.9756 0.9761 0.9767
-
-2.0 0.9772 0.9778 0.9783 0.9788 0.9793 0.9798 0.9803 0.9808 0.9812 0.9817
-2.1 0.9821 0.9826 0.9830 0.9834 0.9838 0.9842 0.9846 0.9850 0.9854 0.9857
-2.2 0.9861 0.9864 0.9868 0.9871 0.9875 0.9878 0.9881 0.9884 0.9887 0.9890
-2.3 0.9893 0.9896 0.9898 0.9901 0.9904 0.9906 0.9909 0.9911 0.9913 0.9916
-2.4 0.9918 0.9920 0.9922 0.9925 0.9927 0.9929 0.9931 0.9932 0.9934 0.9936
-
-2.5 0.9938 0.9940 0.9941 0.9943 0.9945 0.9946 0.9948 0.9949 0.9951 0.9952
-2.6 0.9953 0.9955 0.9956 0.9957 0.9959 0.9960 0.9961 0.9962 0.9963 0.9964
-2.7 0.9965 0.9966 0.9967 0.9968 0.9969 0.9970 0.9971 0.9972 0.9973 0.9974
-2.8 0.9974 0.9975 0.9976 0.9977 0.9977 0.9978 0.9979 0.9979 0.9980 0.9981
-2.9 0.9981 0.9982 0.9982 0.9983 0.9984 0.9984 0.9985 0.9985 0.9986 0.9986
-
-3.0 0.9987 0.9987 0.9987 0.9988 0.9988 0.9989 0.9989 0.9989 0.9990 0.9990
-3.1 0.9990 0.9991 0.9991 0.9991 0.9992 0.9992 0.9992 0.9992 0.9993 0.9993
-3.2 0.9993 0.9993 0.9994 0.9994 0.9994 0.9994 0.9994 0.9995 0.9995 0.9995
-3.3 0.9995 0.9995 0.9995 0.9996 0.9996 0.9996 0.9996 0.9996 0.9996 0.9997
-3.4 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9997 0.9998
-
-ls
-````
-
-## 2015-16 · Final-Exam · Sem 4 · paper c1feeb995850
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/Probability and Random Processes Batch 2015-16 Final.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
-- Text: ocr (2 pages), mean OCR confidence 88.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERS NAL “
-
-Programme: MBA. Tech (EXTC) Year: II Semester: IV J
-a ‘
-Academic Year: 2015-2016 *. OE
-
-*
-
-Subject : Probability and Random Processes r
-
-Marks: 60. ——
-Time : 2.00 pm to 5.00 pm
-
-Durations: 3 (hrs)
-Final-Examination
-
-Date : 05/05/2016 -
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No.1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Q.1. A Anurn contains 10 identical balls numbered 0, 1,... , 9. [6]
-A random experiment involves selecting a ball from the urn and noting the number of
-the ball. Find the probability of the following events:
-A = “number of ball selected is odd,”
-B = “number of bail selected is a multiple of 3,”
-C = “number of ball selected is less than 5,”
-Also AUB and AUBUC
-
-B State and explain properties of probability density function [6]
-Q.2 A The pdf of a random variable X is f(x) = 2x 0< x <1 find the pdf of Y=3X+1 (6]
-B Given the probability distribution of X , compute i) E(X) ii) EQ€Z) iii) E(2X+3) iv) [6]
-Var(2X+3) ECx
-x 3 -2 -1 0 1 2 3
-P(x) 0.05 0.1 0.3 0 0.3 0.15 0.4.
-Q.3 A Explain central limit theorem [6]
-B Explain Gaussian probability density function in detail [6]
-Q4 A __ The joint pdf of a random variable (X, Y) is given by [6]
-Fxy(x, y) = K(xt+y) for 0<x<2, 0<y<2
-ak] otherwise
-
-Where k is a constant.
-(a) Find the value of k.
-(b) Find the marginal pdf's of X and Y.
-(c) Are X and Y independent?
-B Explain with suitable example covariance and correlation of a random variable [6]
-Q.5 A __ Find mean and variance of binomial distribution [6]
-
-/2.
---- page 2 ---
-Q.6
-
-Q7
-
-If there are 5 symbols with probability as stated follows calculate P(S5) and entropy
-P(S1) =0.15, P(S2)=0.2, P(S3)=0.3, P(S4)=0.1
-
-Show that process X(t) = AcosAt + BsinAt, where A and B are random variables, is
-wide sense stationary if
-
-i) E(A) = E(B) = 0 ii) E(A)=E(B’) and iii) E(AB)=0;
-
-Explain maximum likelihood estimation
-
-Calculate mean squared error for following average time customer takes up to
-register complaint through IVRS system of MTNL t = (4, 4, 5, 5, 5, 5,4, 5, 4, 6, 3, 7)
-
-e) 5
-
-[6]
-
-[12]
-
-[6]
-[6]
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper cdca532d2329
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2015-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
-- Text: ocr (2 pages), mean OCR confidence 89.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE: i
-
-ati
-i oN
-
-\ LIBRARY f
-yal A
-+a —-/
-Marks: 60 ine
-
-Date : 05/05/2016 Time : 10.00 am to 1.00 pm
-Durations: 3 (hrs)
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Academic Year: 2015-2016
-
-Subject : Probability and Random Processes
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1) Question No.1 is compulsory.
-os 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql A An urn contains five balls numbered 1 to 5. [6]
-(i) Suppose we select two balls from the urn with replacement. How many
-distinct ordered pairs are possible? What is the probability that the two
-draws yield the same number?
-(ii) Suppose we select two balls in succession without replacement. How many
-distinct ordered pairs are possible? What is the probability that the first
-ball has a number larger than that of the second ball?
-B State and explain properties of cumulative distribution function [6]
-
-a Q.2. A Consider the binary communication channel shown in Fig. The channel input symbol [6]
-X may assume the state 0 or the state 1, and, similarly, the channel output symbol Y
-may assume either the state 0 or the state 1. Because of the channel noise, an input 0
-may convert to an output | and vice versa. The channel is characterized by the
-channel transition probabilities po,qo.p1 and qi, defined by
-Po= Ply [Xo] and py = Ply x,)
-do = P(yglXq) and = g, = PO, EX)
-
-© C9)
-
-a gr & Y
---- page 2 ---
-Q3
-
-Q.4
-
-Q:5
-
-Q.6
-
-Q7
-
-A
-
-A
-
-A
-
-where Xo, and x1, denote the events (X = 0) and (X = I), respectively, and yo and yi,
-“ denote the events (Y = 0) and (Y = J), respectively. Note that po, + qo, = 1=pi,+ qi.
-Let P (Xo) = 0.5, po = 0.1, and p; = 0.2.
-
-(i) Find P (yo) and P (yi).
-
-(ii) If a 0 was observed at the output, what is the probability that a 0 was the
-input state?
-
-(iii) If a 1 was observed at the output, what is the probability that a 1 was the
-input state?
-
-(iv) Calculate the probability of error P.
-
-Given the probability distribution of X , find the minimum value of k such that
-P(X Sk) >0.72. Also find P(1<X<4), P(1<X<4), P(3<X<5)
-x 0 1 2 3 4 5 6
-P(x) 0.1 0.17 0.32 0.12 0.2 0.07 0.02
-
-Explain Chebyshev’'s inequality
-Explain Rayleigh probability density function in detail
-
-The joint pdf of a random variable (X, Y) is given by
-Fxy(x, y) = K(xty) for 0<x<2, 0<y<2
-=0 otherwise
-Where k is a constant.
-(a) Find the value of k.
-(b) Find the marginal pdf's of X and Y.
-(c) Are X and Y independent?
-
-Explain with suitable example power spectral density and cross spectral density
-
-Find mean and variance of uniform distribution
-If there are 5 symbols with probability as stated follows calculate P(S5) and entropy
-P(S1) =0.2, P(S2)=0.2, P(S3)=0.3, P(S4)=0.1
-
-Show that process X(t) = Acos)t + BsinAt, where A and B are random variables, is
-wide sense stationary if
-
-i) E(A)=E(B)=0 ii) B(A2)=E(B?) and iii) E(AB)=0;
-
-Explain maximum likelihood estimation
-Calculate mean squared error for following 8 average times, customer takes up to
-register complaint through IVRS system of MTNL t = (2, 3, 5, 5, 4, 3, 5, 4)
-
-» »
-
-2/2.
-
-[6]
-
-[6]
-[6]
-
-[6]
-
-[6]
-
-[6]
-[6]
-
-[12]
-
-[6]
-[6]
-
-<<
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 7f770b603b5f
+## 2016-17 · Re-Exam · Sem 4 · paper 7f770b603b5f
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -2437,391 +2638,7 @@ Ld 0.3643 | 0.3665 | 0.3686 | 0.3708 | 0.3729 | 0.3749 | 0.3770 | 0.3790 | 0.381
 3 /;
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper de560b147261
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 13 April 2019
-- Text: ocr (2 pages), mean OCR confidence 84.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Progzam B. Tech (EXTC) Year: I Semester: IV
-“ Academic Year: 2018-2019 “ m
--
-Subject: Probability and Random Processes Marks: 60
-4 ‘
-’ Date: 13 April 2019 Time2.00 pyyaG
-Duration: Ab
-
-Re-Examination (2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the q
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S5questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-al.
-
-a) A bag contains 6 white, 5 red and 7 black balls. If four balls are drawn at
-random one by one without replacement, find the probability of getting all
-white balls.
-
-b) The Joint Probability distribution of two random variable (X,Y) is 3
-given as _
-
-y |1].2]3 | 4
-Xx
-1 0.1] 0 [0.2] 0
-2 0 {01/0 | 0
-3 0.2 | 0 [0.3 | 0
-4 0 0 | O {01
-Find the Marginal Distribution of X andY? FindP(X < 2,Y < 4)?
-
-¢) Given a Random Process X(t) = A, A~U(0,1) find the mean and 3
-Autocorrelation ofX (t)?
-
-d) For the following pdf 3
-
-x2 *
-f= { xe z ,x20
-0, otherwise
-Find F (x) andE [X]?
-Q2.
-
-a) Consider the pdf f (x) = ae~l,-w0 <x <0, 6
-(i) Find CDF F(X),
-(ii) Find the relationship between a and b
-(iii) Find P(1 < x < 2)
-
-b) A lot contains 2% defective items. What would be the number of items 6
-in arandom sample so that the probability of finding at least one
-
-defective item in it is at least 0.9
-V2
---- page 2 ---
-Q3.
-
-Qa.
-
-O5.
-
-a6.
-
-q7.
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-If X has uniform distribution in(—a,a) , a > 0, find a such that
-P(|X| < 1) = P(X] > 1)
-
-The average test marks in a class is 80. The standard deviation is 6. If
-the marks are distributed normally , how many students in a class of
-200 receives marks bétween 70 and 90
-
-Find Skewness and Kurtosis of the following pdf
-f= SPH, x >0
-
-_, Lo ke-*t#2V, x >0,y >0
-ne oi eof = (ter 2> 0
-The joint pdf of (x,y) is given by f(x) 0 " ptberniee
-
-(i) find k (ii) find P(X > 1,Y < 1), (X <Y)
-
-A random process is defined by X(t) = Asint + Bcost where A, B are
-independent random variables with zero mean and equal standard
-deviation. Show that the process is stationary of second order
-
-Find Power Spectral Density function of Ryx(t) = 3e Hl 4 Se-4ltl,
-
-For a random process with power spectrum
-@ . . :
-Sxx(@) = Tapes Find the Autocorrelation function of the process.
-
-Determine whether the random process X(t) = Acos(Wot ¥ 8)is
-WSS, where A, Wo are constants and @ is uniformally distributed over
-
-(0,277)
-
-Discuss the following
-a) WSS'b) Maximum Likelihood Estimate d) Mean Square Estimate
-
-A random Process X (t) = sin(wt + @), where ¢ is a random variable
-
-unifroamlly distributed in the interval (0,27), prove that
-
-CcOSWT
-
-cov[t,t +t] = Ryx(t,t +T).=
-
-2fa
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 469990fb12cd
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY_AND_RANDOM_PROCESSES_BATCH_14-15_15-16_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 28 June 2018
-- Text: ocr (2 pages), mean OCR confidence 86.2
-
-````text
-; SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Batch: 2014-15/ 2015-16
-7 Academic Year: 2017-2018
-Subject: Probability and Random Processes
-a Marks: 60 <
-Date: 28 June 2018 Time: 10.00 am to 1.00 pm
-
-Durations: 3 (Hrs) - :
-No. of Pages: O22
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all Squestions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-ql.
-a) Two cards are drawn from well-shuffled pack of 52 cards without (3)
-replacement. What is the probability that one is red queen and other is black
-king
-b) The p.m fof X is given in the table (3)
-Xx 0 1 2 3 4 5 6
-P(X) k 2k 5k 7k 9k 11k 13k
-Find (i) P(X < 4) (ii) P(X = 5) (iii) PB < X < 6)
-c) Given a Random ProcessX(t) = A, A~U(0,1) find the mean and (3)
-Autocorrelation ofX (t).
-d) Prove that Cov(a + bX,c + dY) = bdCov(X,Y) and (3)
-Cov(X + Y,Z) = Cov(X,Z) + Cov(Y,Z)
-Q2.
-a) If X is continuous random variable with pdf (6)
-_ (k(x—x7),x<0<2
-FO) = 0, otherwise find Wand PS 1)
-b) Find the probability that in tossing a fair coin 5 times, there will appear (6)
-(1) 3 heads (2) at least one head (3) not more than one tails
-Q3.
-
-a) Suppose that current in diode is assumed to follow a normal (6)
-distribution with mean of 10mA and a variance of 4mA . What is the
-probability that measurement will exceed12mA?
-
-5e*,0<sx<0 (6)
-
-b) The pdfof x is given by f(x) = { ; ne nen
-
-Find E[X],V[X]
-
-\ Jo
---- page 2 ---
-Qa. a) Derive an expression for Mean of binomial Distribution (6)
-
-b) Ifthe Joint pdf of two dimensional random variable is given by (6)
-_(k(-—x-y),0<x<2,2<y<4 _.,.
-f(y) = { 0, a (i)Find the value of k
-(ii)P(X < 1,Y < 3),(iii)P(X + Y < 3)
-Qs.
-a) A random process is defined by X(t) = Asint + Bcost where A,B are (6)
-independent random variables with zero mean and equal standard
-deviation. Show that the process is stationary of second order
-b) Find Spectral Density function of Ry,(t) = ae~?!"!,a,b are constants (6)
-Qé6.
-a) Fora random process with power spectrum (6)
-w2
-Syx(@) = {* — lol = 2 ing the Autocorrelation function of the
-0, o.W
-process.
-b) Two random variable X and Y are defined asY = 4X + 9. Find the (6)
-correlation coefficient Between X and Y.
-Q7. a) Discuss the following a) Baye’s Theorem b) WSS c) Maximum (6)
-
-Likelihood estimate d) Mean square estimate
-
-b) A random variable X has a pdf f(x) = e~* for x = 0 show that (6)
-
-Chebyshev in equality gives P[|X — 1]] < > Show that actual
-
-probability is e~?
-
-2/ =
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 46e0ca0c6e31
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 2015-16 RE EXAM.pdf` (+1 identical copies)
-- Printed on paper: exam date: 30 June 2016
-- Text: ocr (2 pages), mean OCR confidence 87.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV _
-
-Academic Year: 2015-16 we
-
-Batch: 2015-16 ggg na TEN
-Subject: Probability and Random Processes Mt x PsyrmMB
-Ti Pome ¥.-
-ion: 3 Hrs
-
-Date: 30 June 2016
-Re-Examination
-
-NB:
-
-1) Question No. 01 is compulsory
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Figures in Brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary.
-
-1. a Explain the concept of conditional probability and Independent 03
-event and Mutually exclusive events with suitable example.
-b ‘Define CDF and Mention its properties for continuous random 03
-
-variable
-c Write a short note on Maximum Likelihood Estimation. 03
-d = A random variable X assumes n values 1,2, ...,n with equal 03
-
-probability. If the ratio of Var(X) to E(X) is equal to 4. Find the
-value of n. What will be the value of n ifVAR(X) = E(X)
-2 a The power reflected by an aircraft that is received by aradarcan 06
-
-be described by an exponential random variable X. The
-x
-
-1 =
-probability density of X, is given by f(x) =}%0° “ *= 0
-
-0 x<0
-
-Where xo is the average power received by the radar
-(i) What is the probability that the radar will receive
-power larger than the power received on the average
-(ii) What is the probability that the radar will receive
-power less than the power received on the average
-
-b Verify that P(X) = >i = 1,2,3, ....00. is probability Mass 06
-function also find P(O < X < 5)
-
-3. a Obtain Moment generating function for binomial distribution. 06
-Hence derive an expression for mean and variance
-b Let X be a continuous random variable with p.d.f 06
-
-f(x) = kx?,0 <x < 2 find k and find P(0.2 < x < 0.5) and
-P(X = |X >)
-
-Yo
---- page 2 ---
-a ___ The Joint probability density function of (X,Y) is given by 06
-ayenY.
-fG.y) = {e* , O<x<2,y>0
-0 elsewhere
-
-(i) Find the Joint Cumulative distribution function
-(ii) Find Marginal pdf of X and Y
-(iii) | Are X and Y independent
-
-b Show that the Random process X(t) = Acos(wWot + 8) isa wide 06
-sense stationary if A and wa are constant and Gis uniformly
-distributed random variable in (0 ,27r)
-
-a Find the power spectral density of the WSS random process 06
-whose autocorrelation function R(t) = e~*!"lcosbr
-
-b Two beads are selected at random without repiacement from a 06
-bowl containing 4 blue 1 red and 2 black beads. Let X denote the
-number of red beads drawn , Y denote the number of black
-beads drawn : (i) Find the joint p.m-f of (X,Y), (ii) obtain the
-marginal p.m.f of X and Y (iii) Calculate P(X<Y)
-A random variable has following exponential probability density function 06
-f(x) = ke“
-Determine the value of k and the corresponding cumulative density function. Also
-sketch the waveforms of f(x) and F(x).
-
-b __ Find autocorrelation function for the power spectral density of 06
-WSS given below
-
-Syx(@) = 14+ w?; lw] <1
-
-0 3; lal >1
-
-a Find the characteristic function of a random variable X wit h 06
-uniform distribution in [-1,1]
-
-b A WSS random process X(t) with Autocorrelation function 06
-
-Ryy(t) = Ae~@!"! Where a and A are real positive constant, is
-applied to the input of an LTI system with impulse
-responseh(t) = e~”'u(t}, where b is a real positive constant.
-Find the Autocorrelation of the output y(t)of the system.+
-
-Yo y
-
-fa.
-
-2
-
-—>
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper de448e297110
+## 2016-17 · Re-Exam · Sem 4 · paper de448e297110
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -2989,297 +2806,108 @@ Za
 (06)
 ````
 
-## 2014-15 · Final-Exam · Sem 4 · paper 0d4edd670e28
+## 2015-16 · Final-Exam · Sem 4 · paper c1feeb995850
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBANOLITY AND RANDOM PROCESSES BATCH 2014-2015 FINAL.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (5 pages), mean OCR confidence 75.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/Probability and Random Processes Batch 2015-16 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
+- Text: ocr (2 pages), mean OCR confidence 88.8
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERS NAL “
 
-Programme: MBA Tech (EXTC) Year: Semester: IV
+Programme: MBA. Tech (EXTC) Year: II Semester: IV J
+a ‘
+Academic Year: 2015-2016 *. OE
 
-in
+*
 
-Academic Year: 2014-2015 jl ee Seiny "
+Subject : Probability and Random Processes r
 
-Subject: Probability and Random Processes Nn
-Marks: AUVuerd)
-Date: 06/05/2015 Time : Hb 9 DO pry}
-Durations:
+Marks: 60. ——
+Time : 2.00 pm to 5.00 pm
 
-au
+Durations: 3 (hrs)
 Final-Examination
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use
+Date : 05/05/2016 -
 
-1. Question No. 1 is compulsory
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-2. Out of the remaining questions, attempt any four questions
+NB:
 
-3. Inall5 questions to be attempted
+1) Question No.1 is compulsory.
 
-4, Answer to each question must be started on a new page
+2) Out of remaining questions, attempt any 4 questions.
 
-5. Figures on the right indicate full marks
+3) In all 5 questions to be attempted.
 
-Ql a i. | Asystem consisting of n separate components is said to be a series system if 03
-it functions when all n components function (Fig. 1). Assume that the
-components fail independently and that the probability of failure of
+4) All questions carry equal marks.
 
-component i is pi, i = 1, 2,..., n. Find the probability that the system
-functions.
-4S, HS, 4 $3 freer Sy
-Figure 1: Series Connections
-rs |
-LJ
-s
-Pa . . ~ " 2
-ii. A system consisting of n separate components is said to be an
-a parallel system if it functions when at least one of the —— LSs >t
-components functions (Fig. 2). Assume that the M4
-components fail independently and that the probability of °
-failure of component i is pi, i = 1, 2,..., n. Find the
-probability that the system functions.
-Figure 2: Parallel connection
-b. Whatis the difference between a random variable and random process? 03
-c. Prove: Ofx+y) = Olx-y) = 4Cov(X,Y) 03
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
 
-d. Why is the normal distribution considered an important distribution? The weights 03
-in pounds of parcels arriving at a package delivery company’s warehouse can be
-modeled by an N(5; 16) normal random variable, X (X is a normal random variable
-with py = 5 and o? = 16). What is the probability that a randomly selected parcel
-weighs more than 9 pounds?
+Q.1. A Anurn contains 10 identical balls numbered 0, 1,... , 9. [6]
+A random experiment involves selecting a ball from the urn and noting the number of
+the ball. Find the probability of the following events:
+A = “number of ball selected is odd,”
+B = “number of bail selected is a multiple of 3,”
+C = “number of ball selected is less than 5,”
+Also AUB and AUBUC
 
-fe
+B State and explain properties of probability density function [6]
+Q.2 A The pdf of a random variable X is f(x) = 2x 0< x <1 find the pdf of Y=3X+1 (6]
+B Given the probability distribution of X , compute i) E(X) ii) EQ€Z) iii) E(2X+3) iv) [6]
+Var(2X+3) ECx
+x 3 -2 -1 0 1 2 3
+P(x) 0.05 0.1 0.3 0 0.3 0.15 0.4.
+Q.3 A Explain central limit theorem [6]
+B Explain Gaussian probability density function in detail [6]
+Q4 A __ The joint pdf of a random variable (X, Y) is given by [6]
+Fxy(x, y) = K(xt+y) for 0<x<2, 0<y<2
+ak] otherwise
+
+Where k is a constant.
+(a) Find the value of k.
+(b) Find the marginal pdf's of X and Y.
+(c) Are X and Y independent?
+B Explain with suitable example covariance and correlation of a random variable [6]
+Q.5 A __ Find mean and variance of binomial distribution [6]
+
+/2.
 --- page 2 ---
-Q2
+Q.6
 
-Q3
+Q7
 
-Q4
+If there are 5 symbols with probability as stated follows calculate P(S5) and entropy
+P(S1) =0.15, P(S2)=0.2, P(S3)=0.3, P(S4)=0.1
 
-a
+Show that process X(t) = AcosAt + BsinAt, where A and B are random variables, is
+wide sense stationary if
 
-Consider the function given by 06
+i) E(A) = E(B) = 0 ii) E(A)=E(B’) and iii) E(AB)=0;
 
-0 ¥#<0
+Explain maximum likelihood estimation
 
-1 1
+Calculate mean squared error for following average time customer takes up to
+register complaint through IVRS system of MTNL t = (4, 4, 5, 5, 5, 5,4, 5, 4, 6, 3, 7)
 
-= <x<-
+e) 5
 
-F(x) = x+5 O<x 3
-1 =
+[6]
 
-~=9
+[12]
 
-i, “Sketch F(x) and show that F(x) has the properties of a cumulative
-distribution function
-
-ii. # IfX is the r.v. whose cdf is given by F(x), find (i). P(X < ), (ii) P(X > 1/4)
-‘A student doing a summer internship in a company was asked to model the lifetime 06
-of certain equipment that the company makes. After a series of tests, the student
-
-proposed that the lifetime of the equipment can be modeled by a random variable X
-that has the PDF
-
-‘xe 7*/10
-f (x) = 700 x2>10
-0” otherwise
-is Show that f (x) is a valid PDF.
-ii, What is the probability that the lifetime of the equipment exceeds 20?
-iii, What is the expected value of X?
-
-A certain form of cancer is known to be found in women over 60 with probability 06
-0.07. A blood test exists for the detection of the disease, but the test is not infallible.
-
-In fact, it is known that 10% of the time the test gives a false negative (i.e., the test
-incorrectly gives a negative result) and 5% of the time the test gives a false positive
-
-(i.e. incorrectly gives a positive result). If a woman over 60 is known to have taken
-
-the test and received a favorable (i.e., negative) result, what is the probability that
-
-she has the disease?
-
-i. State the conditions for a random trial to be considered as a Bernoulli 06
-trial.
-ii. If the probability that an applicant for a driver's license will pass the
-
-road test on any given trial is 0.8, what is the probability that he will
-finally pass the test (a) on the fourth trial and in (b) in fewer than 4 trials
-
-A box contains a mix of red and blue balls whose exact composition of red and blue 06
-balls is not known. If we draw 20 balls from the box with replacement and obtain 12
-
-red balls, what is the maximum-likelihood estimate of p, the probability of drawing a
-
-red ball?
-
-What you do understand by the term entropy? Assume that a random variable X 06
-takes on discrete values x1,X2,...,%, with probabilities p,, pp, ... »Pn vespectively.
-That is, P[X = x;] = pj, i= 1,2,...,n. Let X represent the outcome of a single roll
-
-of a fair die. What is the entropy of X in bits?
-
-2/5
---- page 3 ---
-Q5 a. Tworandom variables X and Y have the following joint PDF: 06
-—x(y+1) < ‘O<
-fiery) = [Re QsrsmGsysm
-0 otherwise
-Determine the conditional PDF of X given Y and the conditional PDF of Y given X
-
-b. Two events A and B are such that P[A] = 1/4, P[B|A] = 1/2, and P[A|B] =1/4. 06
-Let the random variable X be defined such that X = 1 if event A occurs and X = 0 if
-event A does not occur. Similarly, let the random variable Y be defined such that
-Y = 1if event B occurs and Y = 0 if event B does not occur.
-
-i. Find E[X] and the variance of X.
-ii. Find E[Y] and the variance of Y.
-iii. Find pyy and determine whether or not X and Y are uncorrelated.
-Q6 a. Thesample function X(t) of a stationary random process Y(t) is given by 06
-
-X(t) = Y(t) sin(wt + @)
-where w is a constant, Y(t) and 0 are statistically independent, and 6 is uniformly
-distributed between 0 and 2m. Find the autocorrelation function of X(t) in terms of
-Ryy(7)-
-b. Astationary random process X(t) has an autocorrelation function given by 06
-Ryx(t) = 2e7I1 + 4e7Hl
-Find the power spectral density of the process.
-
-Q7 a. Awide-sense stationary process X(t) is the input to a linear system whose impulse 06
-response is h(t) = 2e~7¢, t 2 0. If the autocorrelation function of the process is
-Ryx(t) = 4e7!*! and the output process is Y(t), find the following:
-i, The power spectral density of Y(t)
-ii, The cross-spectral power density Syy(w)
-
-b. Arandom process X(t) is defined by X(t) = Acost + Bsint,-«<t<ocowhereA 06
-and B are independent random variables each of which has a value -2 with
-probability 1/3 and a value 1 with probability 2/3. Show that X(t) is a wide sense
-stationary process.
-
-State any three properties of autocorrelation for a WSS Process.
-
-i
---- page 4 ---
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
-
-Z 00 01 02 03 04 05 06 07 08 09
-
-0.0 | .50000 50399 -50798 51197 31395 51994 -52392 252790 53188 53586
-0.1 | 53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
-0.2 | .57926 58317 58706 59095 59483 59871 60257 -60642 61026 61409
-0.3 | .61791 62172 62552 -62930 63307 -63683 64058 64431 -64803 -65173
-0.4 | .65542 65910 66276 66640. .67003 67364 67724 68082 68439 68793
-
-0.5 | .69146 69497 -69847 -70194 -70540 -70884 -71226 -71566 71904 72240
-0.6 | .72575 72907 -73237 -73565 -73891 74215 74537 .74857 75175 -75490
-0.7 | .75804 -76115 -76424 -76730 -77035 77337 -77637 77935 -78230 -78524
-0.8 | .78814 -79103 -79389 -79673 -79955 80234 -80511 .80785 -81057 81327
-
-U9 [| 81594 31859 82121 82381 82639 82894 3147 83398 835646 83891
-
-1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 — 85993 86214
-1.1 | .86433 -86650 86864   .87076 87286 87493 -87698 87900 88100 ~—- 88298
-1.2 | .88493 88686 88877 -89065 89251 89435 89617 89796 89973 90147
-1.3 | .90320 -90490 90658 -90824 90988 91149 -91309 91466 91621 91774
-1.4 | 91924 92073 92220 92364 92507 92647 -92785 92922 93056 93189
-
-1.5 | .93319 93448 93574 -93699 93822 93943 94062 94179 94295 94408
-1.6 | .94520 94630 94738 94845 94950 -95053 95154 95254 95352 95449
-1.7 | .95543 95637 95728 95818 95907 95994 96080 96164 = .96246 96327
-1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 — .96995 97062
-1.9 | 97128 97193 97257 -97320 97381 97441 97500 97558 97615-97670
-2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 = .98124 98169
-2.1 | .98214 98257 -98300 -98341 -98382 -98422 -98461 98500 98537 98574
-2.2 | .98610 98645 98679 98713 98745 98778 -98809 98840 — .98870 98899
-2.3] .98928 98956 -98983 99010 99036 -99061 99086 99111 99134 99158
-2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
-
-2.5 | .99379 -99396 99413 -99430 99446 99461 99477 — .99492 99506 99520
-2.6 | .99534 99547 99560 99573 99585 99598 99609 -99621 99632 99643
-2.7 | .99653 99664 99674 -99683 99693 ..99702 99711 99720 99728 99736
-2.8 | .99744 99752 99760 99767 99774 99781 -99788 99795 99801 99807
-2.9 | 99813 99819 99825 -99831 99836 99841 99846 -99851 99856 99861
-
-3.0 | .99865 99869 99874 -99878 99882 99886 -99889 -99893 99896 99900
-3.1 | .99903 -99906 99910 99913 99916 99918 99921 99924 99926 99929
-3.2 | .99931 99934 -99936 -99938 99940 59542 399944 $9946 90948 99950
-
-3.3 | .99952 99953 99955 99957 99958 —-.99960 99961 99962 99964 = 99965
-3.4 | .99966 _.99968 99969 .99970_—.99971 99972 99973 99974 9997599976
-
-3.5 | .99977 99978 99978 99979 99980 99981 99981 -99982 99983 99983
-3.6 | .99984 99985 99985 -99986 99986 99987 -99987 99988 —-.99988 99989
-3.7 | .99989 -99990 99990 -99990 9999] 99991 99992 99992 99992 99992
-3.8 | .99993 99993 99993 -99994 99994 99994 -99994 — .99995 99995 99995
-3.9 | 99995 99995 99996 99996 99996 99996 99996 99996 __.99997 99997
-
-(fs
---- page 5 ---
-STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
-
-Z 00 O01 02 -03 04 05 -06 07 -08 09
-
--3.9 | .00005 -00005 00004 -00004 -00004 -00004 -00004 00004 -00003 00003
--3.8 | .00007 .00007 -00007 00006 -00006 00006 -00006 -00005 00005 -00005
--3.7 | .00011 00010 00010 00010 00009 00009 00008 -00008 00008 00008
--3.6 | .00016 00015 00015 .00014 .00014 00013 -00013 00012 00012 -00011
--3.5 | .00023 00022 00022 00021 00020 00019 00019 -00018 00017 00017
-
--3.4 | .00034 00032 .00031 -00030 00029 -00028 -00027 -00026 00025 00024
--3.3 | .00048 00047 00045 00043 00042 .00040 00039 -00038 .00036 -00035
--3.2 | .00069 .00066 -00064 00062 00060 00058 .00056 .00054 .00052 -00050
--3.1 | .00097 -00094 00090 00087 00084 00082 00079 .00076 00074 .00071
--3.0_ {| .00135 -00i3) .00126 00122 00118 AGWUil4 OL: 00107 200164 G0160
-
--2.9 | .00187 00181 00175 00169 00164 -00159 00154 00149 00144 00139
--2.8 | .00256 00248 .00240 00233 00226 00219 00212 00205 00199 00193
--2.7 | .00347 00336 -00326 — .00317 -00307 .00298 00289 00280 = .00272 00264
--2.6 | .00466 -00453 00440 -00427 -00415 00402 00391 .00379 .00368 00357
--2.5 | .00621 00604 00587 00570 00554 00539 00523 -00508 00494 00480
-
--2.4 | .00820 00798 — ..00776 .00755 00734 00714 00695 00676 = .00657 00639
--2.3 | .01072 01044 -01017 00990 = .00964 00939 00914 00889 00866 00842
--2.2 | .01390 01355 01321 01287 01255 01222 -01191 01160 01130 .01101
--2.1 | .01786 01743 01700 01659 = 01618 01578 =. .01539 01500 = .01463 01426
--2.0 | .02275 02222 02169 02118 .02068 02018 01970 01923 01876 01831
-
--1.9 | .02872 02807 02743 02680 02619 02559 02500 02442 .02385 02330
--1.8 | .03593 .03515 03438 03362 03288 03216 03144 03074 .03005 02938
--1.7 | .04457 04363 04272 -04182 04093 04006 03920 03836 03754 03673
--1.6 | .05480 05370 -05262 05155 05050 04947 04846 04746 04648 04551
--1.5 | .0668) 06552 06426 06301 06178 06057 05938 05821 05705 05592
-
--1.4 | .08076 07927 .07780 07636 07493 07353 07215 07078 06944 06811
--1.3 | .09680 09510 09342 09176 09012 08851 08691 08534 -— .08379 08226
--1.2 | .11507 11314 11123 -10935 10749 10565 10383 -10204 = .10027 09853
--1.1 | .13567 -13350 -13136 12924 12714 12507 .12302 12100 = 11900 = .11702
--1.0 | .15866 15625 15386 15151 14917 14686 14457 14231 14007 13786
-
--0.9 | .18406 18141 17879 -17619 -17361 17106 16853 16602 16354 16109
--0.8 | .21186 .20897 20611 .20327 .20045 -19766 19489 19215 18943 18673
-~0.7 | 24196 23885 23576 .23270 .22965 22663 22363 22065 21770 21476
-0.6 | .27425 .27093 -26763 .26435 .26109 25785 25463 25143 24825 .24510
-0.5 | .30854 30503 30153 29806 .29460 29116 28774 28434 -28096 .27760
-
-0.4 | 34458 34090 33724 33360 = 32997 32636 32276 31918 31561 31207
--0.3 | .38209 37828 37448 37070 36693 36317 35942 35569 = .35197 34827
--0.2 | .42074 41683 41294 40905 40517 40129 39743 39358 38974 38591
--0.1 | .46017 45620 45224 44828 44433 -44038 43644 43251 42858 42465
-0.0 | .50000 49601 49202 48803 48405 48006 47608 47210 46812 46414
-
-~ =
+[6]
+[6]
 ````
 
-## 2014-15 · Re-Exam · Sem 4 · paper f9c4953770f0
+## 2015-16 · Re-Exam · Sem 4 · paper f9c4953770f0
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
@@ -3461,6 +3089,1019 @@ fie ck Oo Seaea pro {Ret ate PEIOS i
 ~A192~}-4207-= |: =4200-41--996-}—4051 b yees=|—a070-+} -apo9—|--ag9g castes
 ````
 
+## 2015-16 · Re-Exam · Sem 4 · paper cdca532d2329
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2015-16 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05/05/2016
+- Text: ocr (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE: i
+
+ati
+i oN
+
+\ LIBRARY f
+yal A
++a —-/
+Marks: 60 ine
+
+Date : 05/05/2016 Time : 10.00 am to 1.00 pm
+Durations: 3 (hrs)
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Academic Year: 2015-2016
+
+Subject : Probability and Random Processes
+
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+1) Question No.1 is compulsory.
+os 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Ql A An urn contains five balls numbered 1 to 5. [6]
+(i) Suppose we select two balls from the urn with replacement. How many
+distinct ordered pairs are possible? What is the probability that the two
+draws yield the same number?
+(ii) Suppose we select two balls in succession without replacement. How many
+distinct ordered pairs are possible? What is the probability that the first
+ball has a number larger than that of the second ball?
+B State and explain properties of cumulative distribution function [6]
+
+a Q.2. A Consider the binary communication channel shown in Fig. The channel input symbol [6]
+X may assume the state 0 or the state 1, and, similarly, the channel output symbol Y
+may assume either the state 0 or the state 1. Because of the channel noise, an input 0
+may convert to an output | and vice versa. The channel is characterized by the
+channel transition probabilities po,qo.p1 and qi, defined by
+Po= Ply [Xo] and py = Ply x,)
+do = P(yglXq) and = g, = PO, EX)
+
+© C9)
+
+a gr & Y
+--- page 2 ---
+Q3
+
+Q.4
+
+Q:5
+
+Q.6
+
+Q7
+
+A
+
+A
+
+A
+
+where Xo, and x1, denote the events (X = 0) and (X = I), respectively, and yo and yi,
+“ denote the events (Y = 0) and (Y = J), respectively. Note that po, + qo, = 1=pi,+ qi.
+Let P (Xo) = 0.5, po = 0.1, and p; = 0.2.
+
+(i) Find P (yo) and P (yi).
+
+(ii) If a 0 was observed at the output, what is the probability that a 0 was the
+input state?
+
+(iii) If a 1 was observed at the output, what is the probability that a 1 was the
+input state?
+
+(iv) Calculate the probability of error P.
+
+Given the probability distribution of X , find the minimum value of k such that
+P(X Sk) >0.72. Also find P(1<X<4), P(1<X<4), P(3<X<5)
+x 0 1 2 3 4 5 6
+P(x) 0.1 0.17 0.32 0.12 0.2 0.07 0.02
+
+Explain Chebyshev’'s inequality
+Explain Rayleigh probability density function in detail
+
+The joint pdf of a random variable (X, Y) is given by
+Fxy(x, y) = K(xty) for 0<x<2, 0<y<2
+=0 otherwise
+Where k is a constant.
+(a) Find the value of k.
+(b) Find the marginal pdf's of X and Y.
+(c) Are X and Y independent?
+
+Explain with suitable example power spectral density and cross spectral density
+
+Find mean and variance of uniform distribution
+If there are 5 symbols with probability as stated follows calculate P(S5) and entropy
+P(S1) =0.2, P(S2)=0.2, P(S3)=0.3, P(S4)=0.1
+
+Show that process X(t) = Acos)t + BsinAt, where A and B are random variables, is
+wide sense stationary if
+
+i) E(A)=E(B)=0 ii) B(A2)=E(B?) and iii) E(AB)=0;
+
+Explain maximum likelihood estimation
+Calculate mean squared error for following 8 average times, customer takes up to
+register complaint through IVRS system of MTNL t = (2, 3, 5, 5, 4, 3, 5, 4)
+
+» »
+
+2/2.
+
+[6]
+
+[6]
+[6]
+
+[6]
+
+[6]
+
+[6]
+[6]
+
+[12]
+
+[6]
+[6]
+
+<<
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 07e58abd4310
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM_07e58abd43.pdf`
+- Printed on paper: duration hours: 3; exam date: 05/12/2015
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2013-2014
+
+Academic Year: 2015-2016
+Agate Li Nia,,
+
+| Subject: Probability and Random processes / s a Ne
+
+af a
+Merks : 100 {a MPSTME Ye
+
+Date: 05/12/2015 Time   :2.00p Ree ae es,
+Duration : 3 (hrs) 4
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+ya 2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Ql Do as directed (20M)
+A. Define CDF. State and prove its 4 properties.
+B If8 fair coins are tossed simultaneously, what is the chance of getting at least 5
+heads?
+C Explain Random process.
+D Explain Entropy.
+Q.2. A IfX follows normal distribution with mean 10 and standard deviation 4, find (10M)
+(@)P(S<x<18) (ii) P(x < 12);
+Given: Area between z=0 and z=1.25 is 0.3944,
+= Area between z=0 and z=2 is 0.4772,
+Area between z=0 and z=0.5 is 0.1915
+
+B. Derive the expression for mean and variance of binomial distribution. (10M)
+Q.3 A Discuss autocorrelation function. State and prove its properties. (10M)
+B Find autocorrelation function for the power spectral density of WSS given (10M)
+below,
+b
+Sy (@) == (a ) 3
+aie dl a
+=0 >a
+
+Page 1/2
+--- page 2 ---
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+A
+
+A
+
+State and prove properties of power spectral density. Explain their importance. (10M)
+
+The daily consumption of electric power (in million kwh) in a random variable (10M)
+X with PDF
+x
+fey y) = kxe3, x > 0
+=0 , otherwise
+Find K, E(X) and the probability that on a given day the electric consumption
+is more than E(X).
+
+A two dimensional random variable has PDF of X and Y. (10M)
+fey y) =(2-x-y), OSxS10sysl
+=0 , otherwise
+
+Find: (i) Marginal PDF of X and Y.
+(ii) Var.(X) and Var.(Y)
+
+Explain SSS and WSS processes in detail. (10M)
+Derive and explain Bayes theorem. (10M)
+Discuss conditional probability and probability of independent events with an (10M)
+
+example.
+Write short notes on the following: (20M)
+
+Chebyshev’s Inequality
+
+Gaussian distribution
+
+Random variable
+
+Application of PRP in signal processing
+
+Page 2/2
+````
+
+## 2015-16 · Re-Exam · Sem 4 · paper 46e0ca0c6e31
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 2015-16 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: exam date: 30 June 2016
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV _
+
+Academic Year: 2015-16 we
+
+Batch: 2015-16 ggg na TEN
+Subject: Probability and Random Processes Mt x PsyrmMB
+Ti Pome ¥.-
+ion: 3 Hrs
+
+Date: 30 June 2016
+Re-Examination
+
+NB:
+
+1) Question No. 01 is compulsory
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in Brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+
+1. a Explain the concept of conditional probability and Independent 03
+event and Mutually exclusive events with suitable example.
+b ‘Define CDF and Mention its properties for continuous random 03
+
+variable
+c Write a short note on Maximum Likelihood Estimation. 03
+d = A random variable X assumes n values 1,2, ...,n with equal 03
+
+probability. If the ratio of Var(X) to E(X) is equal to 4. Find the
+value of n. What will be the value of n ifVAR(X) = E(X)
+2 a The power reflected by an aircraft that is received by aradarcan 06
+
+be described by an exponential random variable X. The
+x
+
+1 =
+probability density of X, is given by f(x) =}%0° “ *= 0
+
+0 x<0
+
+Where xo is the average power received by the radar
+(i) What is the probability that the radar will receive
+power larger than the power received on the average
+(ii) What is the probability that the radar will receive
+power less than the power received on the average
+
+b Verify that P(X) = >i = 1,2,3, ....00. is probability Mass 06
+function also find P(O < X < 5)
+
+3. a Obtain Moment generating function for binomial distribution. 06
+Hence derive an expression for mean and variance
+b Let X be a continuous random variable with p.d.f 06
+
+f(x) = kx?,0 <x < 2 find k and find P(0.2 < x < 0.5) and
+P(X = |X >)
+
+Yo
+--- page 2 ---
+a ___ The Joint probability density function of (X,Y) is given by 06
+ayenY.
+fG.y) = {e* , O<x<2,y>0
+0 elsewhere
+
+(i) Find the Joint Cumulative distribution function
+(ii) Find Marginal pdf of X and Y
+(iii) | Are X and Y independent
+
+b Show that the Random process X(t) = Acos(wWot + 8) isa wide 06
+sense stationary if A and wa are constant and Gis uniformly
+distributed random variable in (0 ,27r)
+
+a Find the power spectral density of the WSS random process 06
+whose autocorrelation function R(t) = e~*!"lcosbr
+
+b Two beads are selected at random without repiacement from a 06
+bowl containing 4 blue 1 red and 2 black beads. Let X denote the
+number of red beads drawn , Y denote the number of black
+beads drawn : (i) Find the joint p.m-f of (X,Y), (ii) obtain the
+marginal p.m.f of X and Y (iii) Calculate P(X<Y)
+A random variable has following exponential probability density function 06
+f(x) = ke“
+Determine the value of k and the corresponding cumulative density function. Also
+sketch the waveforms of f(x) and F(x).
+
+b __ Find autocorrelation function for the power spectral density of 06
+WSS given below
+
+Syx(@) = 14+ w?; lw] <1
+
+0 3; lal >1
+
+a Find the characteristic function of a random variable X wit h 06
+uniform distribution in [-1,1]
+
+b A WSS random process X(t) with Autocorrelation function 06
+
+Ryy(t) = Ae~@!"! Where a and A are real positive constant, is
+applied to the input of an LTI system with impulse
+responseh(t) = e~”'u(t}, where b is a real positive constant.
+Find the Autocorrelation of the output y(t)of the system.+
+
+Yo y
+
+fa.
+
+2
+
+—>
+````
+
+## 2014-15 · Exam not stated · Sem 4 · paper 662b7d37a0fa
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 200003.pdf`
+- Printed on paper: max marks: 100; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 89.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+Batch: 2013-14 an
+Academic Year: 2014-2015 ZL padi! 7
+Subject: Probability and Random Processes ‘s, :
+Marks: 100
+Date: 29/06/2015 Time: . 2.00 pm to §.00 pm.
+Durations: \)g*(hrs) cf
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1. oa. State the three axioms of probability. 04
+b. State and explain Bayes theorem. 04
+C. Write short notes on first order and second order statistics. 04
+d. Define binomial distribution. State its mean and variance. 04
+e. Explain the concept of stationary process. 04
+2 a. Suppose that a brand of light bulb lasts for an average of 2100 hours with standard 10
+
+deviation of 100 hours. What is the probability that the particular bulb lasts for more
+than 1950 hours. (Given: P(O0<z<1.5)=0.4332).
+b. Find the marginal probability density function and conditional density function of X 10
+and Y if the joint density function is
+fey %y) = xe*O") x > 0, y > 0
+Are X and Y independent ?
+
+3 a Suppose that a urn contains five white balls and seven red balls. Two balls are drawn at 10
+random from the urn without replacements.
+(i) What is the probability that both balls are white?
+(ii) What is the probability that the second ball is red?
+b. A two dimensional random variable (X,Y) has the following probability density funtion 10
+fxy GY) =2-x-y, 0<x<10<y<1
+Find the covariance between X and Y.
+
+a/2
+--- page 2 ---
+b.
+
+Find the power spectral density of the random process whose autocorrelation function
+isgiven R(t) = ent
+
+If X(t) is a WSS process whose autocorrelation function is given by R(t) = e
+where ais a real positive constant. If X(t) is applied to the input of the LTI system
+whose impulse response is h(t) = e~°* u(t), b is a real positive constant. Find power
+spectral density of the output of the LTI system.
+
+-altl
+,
+
+A random process X(t) is defined by X(t)=Acos(wt+®), where A and w are constant and
+8 is uniformly distributed over (0,2m). Check whether X(t) is a WSS process.
+Explain the concept of entropy of a random variable.
+
+A continous random variable has a pdf f(x) = 3x*,0 <x <1. Finda and b such that
+(i) P(X < a) = P(X > a) and P(X > b) = 0.05.
+
+The mean and variance of binomial distribution are 4 and 3 respectively. Find P(x21)
+
+The joint probability density function of (X,Y) is given as
+
+xX .
+
+-1 0 1
+¥
+-1 ie) ) 1/3
+0 ie) 1/3 0
+1 1/3 0 ie}
+
+Find the minimum mean square error linear estimator for Y given X.
+Explain the method of maximum likelyhood estimation.
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+````
+
+## 2014-15 · Final-Exam · Sem 4 · paper 289947ee8a5e
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), FINAL EX0001.pdf`
+- Printed on paper: duration hours: 3; exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II Semester: IV
+
+Penal
+Academic Year: 2014-2015 a ore
+/ er
+
+; ~
+/ Subject: Probability and Random Processes Ym “~
+j Marks: | 5/ go? 7°. 3 Ve
+Date: 06/05/2015 Time : \\ “St 2!00'pm to'5
+Durations, \3 (hrs) he
+Final-Examination Sa
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In ali 65 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1. a. State and explain with an example 03
+(i) Conditional probability
+(ii) Independent events
+b. Define probability density function (pdf) and mention its properties 03
+c. Define strict sense stationary and widesense stationary process. 03
+d. State and explain properties of cross correlation function. 03
+
+2. a. Ina factory four machines A, B, C and D produce 10%, 20%, 30% and 40% of the iterms 06
+repectively. The percentage of defective items produced by them is 5%, 4%, 3% and 2%
+respectively. An item selected at random is found to be defective. What is the
+probability that it was produced by machine B?
+
+b. Let X be a continous random variable with pdf f(x) = k.x.(1—x),0<x <1. 06
+Find k and determine b such that P(Xsb)=P(X2b). Also find distribution function.
+
+3 a Find mean and variance of binomial distribution. 06
+b. The joint probability density function of (X,Y) is given by 06
+1
+fay = zxe 0 <x<2,y>0
+= 0, elsewhere.
+(i) Find the joint cumulative distribution function.
+
+(ii) Find the marginal probability density function of X and Y.
+(iii) Are X and Y independent.
+
+* /2
+--- page 2 ---
+A random process is given by x(t) = Acos(w,(t) + @ ), where A, w,are constants and 06
+¢ is random variable uniform in (-1,7). Show that X(t) is a WSS process
+
+Explain power spectral density. State its important properties and prove any one 06
+property.
+Explain the method of maximum likelihood estimation. 06
+The joint probability density function of (X,Y) is 06
+
+xX
+
+-1 0 1
+
+Y
+
+-1 1/6 0 1/6
+
+0 0 1/3 0
+
+1 1/6 0 1/6
+
+Find the mini, mum mean square error linear estimator for Y given X.
+
+If random process is given by 06
+x(t) = Acos 2nt, where A is a random variable. Find the mean, autocorrelation.
+
+A transmission channel has per digit error probability of 0.01. Calculate the probability of 06
+more than one error in ten received digits using binomial distribution.
+
+Explain the concept of entropy with suitabkexample. 04
+
+State and explain central limit theorem 04
+
+Write note on Chebychev’s Inequality. 04
+x
+````
+
+## 2014-15 · Final-Exam · Sem 4 · paper 0d4edd670e28
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBANOLITY AND RANDOM PROCESSES BATCH 2014-2015 FINAL.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (5 pages), mean OCR confidence 75.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: Semester: IV
+
+in
+
+Academic Year: 2014-2015 jl ee Seiny "
+
+Subject: Probability and Random Processes Nn
+Marks: AUVuerd)
+Date: 06/05/2015 Time : Hb 9 DO pry}
+Durations:
+
+au
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use
+
+1. Question No. 1 is compulsory
+
+2. Out of the remaining questions, attempt any four questions
+
+3. Inall5 questions to be attempted
+
+4, Answer to each question must be started on a new page
+
+5. Figures on the right indicate full marks
+
+Ql a i. | Asystem consisting of n separate components is said to be a series system if 03
+it functions when all n components function (Fig. 1). Assume that the
+components fail independently and that the probability of failure of
+
+component i is pi, i = 1, 2,..., n. Find the probability that the system
+functions.
+4S, HS, 4 $3 freer Sy
+Figure 1: Series Connections
+rs |
+LJ
+s
+Pa . . ~ " 2
+ii. A system consisting of n separate components is said to be an
+a parallel system if it functions when at least one of the —— LSs >t
+components functions (Fig. 2). Assume that the M4
+components fail independently and that the probability of °
+failure of component i is pi, i = 1, 2,..., n. Find the
+probability that the system functions.
+Figure 2: Parallel connection
+b. Whatis the difference between a random variable and random process? 03
+c. Prove: Ofx+y) = Olx-y) = 4Cov(X,Y) 03
+
+d. Why is the normal distribution considered an important distribution? The weights 03
+in pounds of parcels arriving at a package delivery company’s warehouse can be
+modeled by an N(5; 16) normal random variable, X (X is a normal random variable
+with py = 5 and o? = 16). What is the probability that a randomly selected parcel
+weighs more than 9 pounds?
+
+fe
+--- page 2 ---
+Q2
+
+Q3
+
+Q4
+
+a
+
+Consider the function given by 06
+
+0 ¥#<0
+
+1 1
+
+= <x<-
+
+F(x) = x+5 O<x 3
+1 =
+
+~=9
+
+i, “Sketch F(x) and show that F(x) has the properties of a cumulative
+distribution function
+
+ii. # IfX is the r.v. whose cdf is given by F(x), find (i). P(X < ), (ii) P(X > 1/4)
+‘A student doing a summer internship in a company was asked to model the lifetime 06
+of certain equipment that the company makes. After a series of tests, the student
+
+proposed that the lifetime of the equipment can be modeled by a random variable X
+that has the PDF
+
+‘xe 7*/10
+f (x) = 700 x2>10
+0” otherwise
+is Show that f (x) is a valid PDF.
+ii, What is the probability that the lifetime of the equipment exceeds 20?
+iii, What is the expected value of X?
+
+A certain form of cancer is known to be found in women over 60 with probability 06
+0.07. A blood test exists for the detection of the disease, but the test is not infallible.
+
+In fact, it is known that 10% of the time the test gives a false negative (i.e., the test
+incorrectly gives a negative result) and 5% of the time the test gives a false positive
+
+(i.e. incorrectly gives a positive result). If a woman over 60 is known to have taken
+
+the test and received a favorable (i.e., negative) result, what is the probability that
+
+she has the disease?
+
+i. State the conditions for a random trial to be considered as a Bernoulli 06
+trial.
+ii. If the probability that an applicant for a driver's license will pass the
+
+road test on any given trial is 0.8, what is the probability that he will
+finally pass the test (a) on the fourth trial and in (b) in fewer than 4 trials
+
+A box contains a mix of red and blue balls whose exact composition of red and blue 06
+balls is not known. If we draw 20 balls from the box with replacement and obtain 12
+
+red balls, what is the maximum-likelihood estimate of p, the probability of drawing a
+
+red ball?
+
+What you do understand by the term entropy? Assume that a random variable X 06
+takes on discrete values x1,X2,...,%, with probabilities p,, pp, ... »Pn vespectively.
+That is, P[X = x;] = pj, i= 1,2,...,n. Let X represent the outcome of a single roll
+
+of a fair die. What is the entropy of X in bits?
+
+2/5
+--- page 3 ---
+Q5 a. Tworandom variables X and Y have the following joint PDF: 06
+—x(y+1) < ‘O<
+fiery) = [Re QsrsmGsysm
+0 otherwise
+Determine the conditional PDF of X given Y and the conditional PDF of Y given X
+
+b. Two events A and B are such that P[A] = 1/4, P[B|A] = 1/2, and P[A|B] =1/4. 06
+Let the random variable X be defined such that X = 1 if event A occurs and X = 0 if
+event A does not occur. Similarly, let the random variable Y be defined such that
+Y = 1if event B occurs and Y = 0 if event B does not occur.
+
+i. Find E[X] and the variance of X.
+ii. Find E[Y] and the variance of Y.
+iii. Find pyy and determine whether or not X and Y are uncorrelated.
+Q6 a. Thesample function X(t) of a stationary random process Y(t) is given by 06
+
+X(t) = Y(t) sin(wt + @)
+where w is a constant, Y(t) and 0 are statistically independent, and 6 is uniformly
+distributed between 0 and 2m. Find the autocorrelation function of X(t) in terms of
+Ryy(7)-
+b. Astationary random process X(t) has an autocorrelation function given by 06
+Ryx(t) = 2e7I1 + 4e7Hl
+Find the power spectral density of the process.
+
+Q7 a. Awide-sense stationary process X(t) is the input to a linear system whose impulse 06
+response is h(t) = 2e~7¢, t 2 0. If the autocorrelation function of the process is
+Ryx(t) = 4e7!*! and the output process is Y(t), find the following:
+i, The power spectral density of Y(t)
+ii, The cross-spectral power density Syy(w)
+
+and B are independent random variables each of which has a value -2 with
+probability 1/3 and a value 1 with probability 2/3. Show that X(t) is a wide sense
+stationary process.
+
+State any three properties of autocorrelation for a WSS Process.
+
+i
+--- page 4 ---
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
+
+Z 00 01 02 03 04 05 06 07 08 09
+
+0.0 | .50000 50399 -50798 51197 31395 51994 -52392 252790 53188 53586
+0.1 | 53983 -54380 54776 55172 55567 55962 56356 56749 57142 57535
+0.2 | .57926 58317 58706 59095 59483 59871 60257 -60642 61026 61409
+0.3 | .61791 62172 62552 -62930 63307 -63683 64058 64431 -64803 -65173
+0.4 | .65542 65910 66276 66640. .67003 67364 67724 68082 68439 68793
+
+0.5 | .69146 69497 -69847 -70194 -70540 -70884 -71226 -71566 71904 72240
+0.6 | .72575 72907 -73237 -73565 -73891 74215 74537 .74857 75175 -75490
+0.7 | .75804 -76115 -76424 -76730 -77035 77337 -77637 77935 -78230 -78524
+0.8 | .78814 -79103 -79389 -79673 -79955 80234 -80511 .80785 -81057 81327
+
+U9 [| 81594 31859 82121 82381 82639 82894 3147 83398 835646 83891
+
+1.0 | .84134 84375 84614 84849 85083 85314 85543 85769 — 85993 86214
+1.1 | .86433 -86650 86864   .87076 87286 87493 -87698 87900 88100 ~—- 88298
+1.2 | .88493 88686 88877 -89065 89251 89435 89617 89796 89973 90147
+1.3 | .90320 -90490 90658 -90824 90988 91149 -91309 91466 91621 91774
+1.4 | 91924 92073 92220 92364 92507 92647 -92785 92922 93056 93189
+
+1.5 | .93319 93448 93574 -93699 93822 93943 94062 94179 94295 94408
+1.6 | .94520 94630 94738 94845 94950 -95053 95154 95254 95352 95449
+1.7 | .95543 95637 95728 95818 95907 95994 96080 96164 = .96246 96327
+1.8 | .96407 96485 96562 96638 96712 96784 96856 96926 — .96995 97062
+1.9 | 97128 97193 97257 -97320 97381 97441 97500 97558 97615-97670
+2.0 | .97725 97778 97831 97882 97932 97982 -98030 98077 = .98124 98169
+2.1 | .98214 98257 -98300 -98341 -98382 -98422 -98461 98500 98537 98574
+2.2 | .98610 98645 98679 98713 98745 98778 -98809 98840 — .98870 98899
+2.3] .98928 98956 -98983 99010 99036 -99061 99086 99111 99134 99158
+2.4 | .99180 99202 99224 99245 99266 99286 99305 99324 99343 99361
+
+2.5 | .99379 -99396 99413 -99430 99446 99461 99477 — .99492 99506 99520
+2.6 | .99534 99547 99560 99573 99585 99598 99609 -99621 99632 99643
+2.7 | .99653 99664 99674 -99683 99693 ..99702 99711 99720 99728 99736
+2.8 | .99744 99752 99760 99767 99774 99781 -99788 99795 99801 99807
+2.9 | 99813 99819 99825 -99831 99836 99841 99846 -99851 99856 99861
+
+3.0 | .99865 99869 99874 -99878 99882 99886 -99889 -99893 99896 99900
+3.1 | .99903 -99906 99910 99913 99916 99918 99921 99924 99926 99929
+3.2 | .99931 99934 -99936 -99938 99940 59542 399944 $9946 90948 99950
+
+3.3 | .99952 99953 99955 99957 99958 —-.99960 99961 99962 99964 = 99965
+3.4 | .99966 _.99968 99969 .99970_—.99971 99972 99973 99974 9997599976
+
+3.5 | .99977 99978 99978 99979 99980 99981 99981 -99982 99983 99983
+3.6 | .99984 99985 99985 -99986 99986 99987 -99987 99988 —-.99988 99989
+3.7 | .99989 -99990 99990 -99990 9999] 99991 99992 99992 99992 99992
+3.8 | .99993 99993 99993 -99994 99994 99994 -99994 — .99995 99995 99995
+3.9 | 99995 99995 99996 99996 99996 99996 99996 99996 __.99997 99997
+
+(fs
+--- page 5 ---
+STANDARD NORMAL DISTRIBUTION: Table Values Represent AREA to the LEFT of the Z score.
+
+Z 00 O01 02 -03 04 05 -06 07 -08 09
+
+-3.9 | .00005 -00005 00004 -00004 -00004 -00004 -00004 00004 -00003 00003
+-3.8 | .00007 .00007 -00007 00006 -00006 00006 -00006 -00005 00005 -00005
+-3.7 | .00011 00010 00010 00010 00009 00009 00008 -00008 00008 00008
+-3.6 | .00016 00015 00015 .00014 .00014 00013 -00013 00012 00012 -00011
+-3.5 | .00023 00022 00022 00021 00020 00019 00019 -00018 00017 00017
+
+-3.4 | .00034 00032 .00031 -00030 00029 -00028 -00027 -00026 00025 00024
+-3.3 | .00048 00047 00045 00043 00042 .00040 00039 -00038 .00036 -00035
+-3.2 | .00069 .00066 -00064 00062 00060 00058 .00056 .00054 .00052 -00050
+-3.1 | .00097 -00094 00090 00087 00084 00082 00079 .00076 00074 .00071
+-3.0_ {| .00135 -00i3) .00126 00122 00118 AGWUil4 OL: 00107 200164 G0160
+
+-2.9 | .00187 00181 00175 00169 00164 -00159 00154 00149 00144 00139
+-2.8 | .00256 00248 .00240 00233 00226 00219 00212 00205 00199 00193
+-2.7 | .00347 00336 -00326 — .00317 -00307 .00298 00289 00280 = .00272 00264
+-2.6 | .00466 -00453 00440 -00427 -00415 00402 00391 .00379 .00368 00357
+-2.5 | .00621 00604 00587 00570 00554 00539 00523 -00508 00494 00480
+
+-2.4 | .00820 00798 — ..00776 .00755 00734 00714 00695 00676 = .00657 00639
+-2.3 | .01072 01044 -01017 00990 = .00964 00939 00914 00889 00866 00842
+-2.2 | .01390 01355 01321 01287 01255 01222 -01191 01160 01130 .01101
+-2.1 | .01786 01743 01700 01659 = 01618 01578 =. .01539 01500 = .01463 01426
+-2.0 | .02275 02222 02169 02118 .02068 02018 01970 01923 01876 01831
+
+-1.9 | .02872 02807 02743 02680 02619 02559 02500 02442 .02385 02330
+-1.8 | .03593 .03515 03438 03362 03288 03216 03144 03074 .03005 02938
+-1.7 | .04457 04363 04272 -04182 04093 04006 03920 03836 03754 03673
+-1.6 | .05480 05370 -05262 05155 05050 04947 04846 04746 04648 04551
+-1.5 | .0668) 06552 06426 06301 06178 06057 05938 05821 05705 05592
+
+-1.4 | .08076 07927 .07780 07636 07493 07353 07215 07078 06944 06811
+-1.3 | .09680 09510 09342 09176 09012 08851 08691 08534 -— .08379 08226
+-1.2 | .11507 11314 11123 -10935 10749 10565 10383 -10204 = .10027 09853
+-1.1 | .13567 -13350 -13136 12924 12714 12507 .12302 12100 = 11900 = .11702
+-1.0 | .15866 15625 15386 15151 14917 14686 14457 14231 14007 13786
+
+-0.9 | .18406 18141 17879 -17619 -17361 17106 16853 16602 16354 16109
+-0.8 | .21186 .20897 20611 .20327 .20045 -19766 19489 19215 18943 18673
+~0.7 | 24196 23885 23576 .23270 .22965 22663 22363 22065 21770 21476
+0.6 | .27425 .27093 -26763 .26435 .26109 25785 25463 25143 24825 .24510
+0.5 | .30854 30503 30153 29806 .29460 29116 28774 28434 -28096 .27760
+
+0.4 | 34458 34090 33724 33360 = 32997 32636 32276 31918 31561 31207
+-0.3 | .38209 37828 37448 37070 36693 36317 35942 35569 = .35197 34827
+-0.2 | .42074 41683 41294 40905 40517 40129 39743 39358 38974 38591
+-0.1 | .46017 45620 45224 44828 44433 -44038 43644 43251 42858 42465
+0.0 | .50000 49601 49202 48803 48405 48006 47608 47210 46812 46414
+
+~ =
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 12e2ebffa479
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 86.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: Il Semester: IV
+Batch: 2013-14 a —
+Academic Year: 2014-2015 spat w ma
+bject: Probability and Random Processes {or
+Subjec y Marks// r Qs rua a
+oy $ * c
+Date: 06/05/2015 Time: j 2.00, PpmnRY'S ,
+
+Duratidngs “3 (hrs) - AJ
+\ as
+
+SX digpe a
+P : SU eae
+Re-Examination SMES UN
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. | is compulsory.
+
+2 Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+53 Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:-
+A Two cards are drawn from a pack of fair cards. Find the probability that they will be both red or
+
+both pictures. 7
+B_ Define Random Variable and explain with suitable example. 5
+C_ Describe mean and variance of a random variable. 5
+D_ Write in short about entropy. 5
+E What do you mean by estimation of a random variable and mention it’s types. 5
+
+Q2 A The authorities of an university wish to form a committee of 4 engineers for inspecting the
+functioning of engineering colleges. 3 Electronics, 4 Mechanical, 2 Civil and 1 Computer
+
+Engineers showed interest to work as committee members. Find the probability that the 08
+committee consists of (i) One engineer of each branch, (ii) at least one Electronics Engineer.
+B_ Explain Cumulative Distribution Function (CDF) and Probability Density Function (PDF) with 2
+suitable example.
+Q3 A ‘X’ is anormal variate with mean 30 and standard deviation 5. Find the probabilities that
+(i) 26< XK < 40 (ii) X > 45 (ili) [X — 30| > 5
+Given Area between Z = 0 and 0.8 = 0.2881 10
+Area between Z = 0 and 2.0 = 0.4772
+Area between Z = 0 and 3.0 = 0.4987
+Area between Z = 0 and 1.0 = 0.3413
+B_ The probability distribution of a random variable is given by
+X : -2 —1 0 1 2 3
+10
+
+P(X=x): O71 k 0-2 2k 03 2k
+
+Find K, mean and variance.
+--- page 2 ---
+Q4°-A™ The joint probability function of two dimensional discrete random variable (X, Y) is given by
+
+SE See fee + 2y) forx=0,1L2andy=1,2,3,4
+Fxy) { 0 elsewhere
+
+Find the value of c, P (X = 2, Y = 3) and marginal probability density function of X and Y.
+B_ Write note on covariance and correlation of two dimensional random variables.
+
+Q5 A_ Show that the random process given by X (t) = A cos (@ot + ©) where A and @p are constants
+and e is uniformly distributed over (0, 2m) is wide sense stationary.
+s B_ Write note on cross correlation function and mention its properties.
+
+~~-=-Q6-~A~ Explain about spectral density function in relation with random variables.
+B_ Forarandom process X (t), R (r) = 1 + e*" find its power spectral density.
+
+Q7 A Write note on maximum likelihood estimation
+B_ The probability density function of (X, Y) is,
+Find minimum mean square error linear estimator for Y given X.
+
+a
+
+Be
+
+10
+
+10
+
+10
+
+10
+
+10
+10
+
+10
+
+10
+````
+
 ## 2014-15 · Re-Exam · Sem 4 · paper ac93aeb60337
 
 - Departments: Electronics and Telecommunication
@@ -3581,6 +4222,482 @@ Y
 2 | 02 | 02 | 02
 
 3 | 0 0.1 | 0.1
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 12d9914fafae
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 06/12/2014
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+
+Subject: Probability and Random processes
+
+oe
+
+ey , 4
+it {2,00 gor ta ae
+si ( 3 (hissk ARYW JS
+
+ae
+
+(3
+
+Date: 06/12/2014 Time:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
+book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh paper.
+6. Figures to the right indicate full marks.
+7. Assume suitable Data if necessary
+
+Ql A __ State and Explain Conditional probability & Joint probability ~ 10
+B_ Foracertain binary communication channel, the probability that a transmitted '0' is 10
+received as '0' is 0.9 while the probability that a transmitted 'I' is received as'1' is 0.8 If
+the probability of transmitting '0' is 0.45,
+find the probability that -
+(i) a 1 is received
+(ii) a 0 is received
+(iii) a 1 was transmitted given that 1 was received
+(iv) a 0 was transmitted given that 0 was received.
+
+Q2 A __ Define probability density function. State and prove properties of probability density 10
+
+function.
+B- Find mean and variance for Gaussian probability density function ; 10
+Q3. A _ The joint probability density function of two random variables is given by 10
+
+fxy (x,y) =4XY e+)"
+= 0 ; elsewhere
+(i) Find the marginal probability distributions of x and y
+
+(ii) Conditional density function of Y given that X=x and Conditional density function -
+of X given that Y=y
+
+(iii) Check independence of X & Y
+
+X> 0, y>0
+
+B Calculate entropy for six symbols with probability 3/8, 3/8, 1/8, 1/16, 1/32 , 1/32 10
+respectively.
+
+Q4 A Write short note on Power Spectral Density 10
+
+B_ At bank counter arrival time of 10 customers were recorded as follows 10
+
+2.4, 3, 3.6, 2.9, 3.4, 4, 5.3, 2.8, 3.2, 5.8
+The interval time can be considered as exponential random variable with parameter }.
+Find maximum likelihood estimation of 4
+
+‘
+--- page 2 ---
+Q5 A
+
+B
+Q6
+
+A
+
+B
+Q7_ A
+
+B
+
+What is Reyleigh probability density function explain in detail.
+
+Ifx and y are two independent exponential random variables with probability
+density functions:
+
+fx (x)=xe*;x>0
+
+and fly)=ye’;y>0
+
+Find the probability density function of z=x + y.
+
+Write short note on:
+Binomial distribution
+Mean square error
+
+A random process is given by
+
+X(t) = cos(at)
+
+Where @ is uniformly distributed between (0,00) and 0 is constant
+Check whether X(t) is WSS
+
+Explain with one example cross correlation
+
+10
+10
+
+10
+10
+
+10
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 5 · paper 667b9671d941
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2015
+- Text: ocr (2 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+Batch: 2013-14 tg
+Academic Year: 2014-2015 1A Bay i
+Subject: Probability and Random Processes VA “— Ne,
+Marks: 100 fia,’ «esTMEB y’
+Date: 12/06/2015 Time: 10.0 toi1300 4pih ¥ ),
+Durations: 3 (hrs, we
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q.1 Do as directed (20M)
+A Define CDF. State and prove its 4 properties.
+B A manufacturer knows from his experience that the resistance of resistors he
+produces is normally distributed with mean 100 ohm and standard deviation 2
+ohm. What percentage of resistor will have resistance between 98 and 102
+ohms? (Ares fromZs-O—4 3 0-34134)
+C Compare Random process and random variable.
+D Explain maximum likelihood estimation.
+Q.2 A A random process is given by X(t) =A cos(wot+¢) where A,w,are (10M)
+constants and ¢ is random variable with uniform distribution in(—z, 7).
+Show that X (7) is WSS.
+B_ Discuss autocorrelation function. State and prove its properties. (10M)
+
+Q.3. A Obtain the Moment generating function of binomial distribution. Hence derive (10M)
+the expression for mean and variance.
+B_ Check if the following function is PDF. Hence, find the marginal PDF of X (10M)
+and Y. ‘
+fy@y)=xty, O<x<s10<sysl
+
+Q.4_ A State and prove: (a) Total Probability Theorem (b) Bayes Theorem. (10M)
+
+Explain their importance with an example.
+
+
+Page 1/2
+
+bot ee
+XY Mung ae
+
+x
+--- page 2 ---
+B Fora discrete time sequence given below represent p.m.f for random variable (10M)
+n.Find(a)k = (b) P2<n<4) (C) P(n<2)
+
+3k 5(n-3)
+6@
+2.5k 5(1-2) 2.5k 8(n-4)
+2k &(m-1)
+k
+n
+o 1 2 3 4
+Q.5 A Find autocorrelation function for the power spectral density of WSS given (10M)
+below,
+b
+Sy (@) =—(a-|a)) slals a
+=0 s|o| >a
+B Illustrate the concept of entropy with an example. (10M)
+Q.6 A A WSS random process X(t) with autocorrelation function Ry, (t) = Ae" (10M)
+
+where A and a are real positive constant, is applied to the input of an LTI
+» system with impulse response h(t) =eu(r) , where b is a real positive
+
+constant. Find the autocorrelation of the output y(t) of the system.
+
+B The daily consumption of electric power (in million kwh) in a random variable (10M)
+X with PDF
+
+x
+fey (%,y) = kxe3, x >0
+=0 , otherwise
+Find K, E(X) and the probability that on a given day the electric consumption
+is more than E(X).
+Q.7 Write short notes on the following: (20M)
+
+A Chebyshev’s Inequality
+
+B_ Bernoulli’s trials
+
+C Minimum mean square estimation
+D_ SSS and WSS process
+
+Page 2/2
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper e652861aaf80
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: exam date: 06/05/2015
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+Batch: 2013-14
+Academic Year: 2014-2015 Aga eas
+ili C,H ~~ tig
+Subject: Probability and Random Processes f Sa i
+Mark€:@ f mPSTME AY
+Date: 06/05/2015 Time! 34 14000 ani’ ‘sign pm
+
+SS
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer book, which is provided for their use.
+
+NB:
+
+1. Question no. | is compulsory.
+
+2 Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4, All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets on the right hand side indicate full marks.
+
+Ql. Attempt any four questions:-
+A In the play oftwo dice, a person loses if the sum obtained is 2 or 4 or 12. He wins if the sum is
+
+5 or 11. Find the ratio of his probability of losing to the probability of winning in first throw. 4
+B_ Describe the terms Random Variable and Random Processes. 5
+C_ Define mean, variance and moment of a random variable. 5
+D_ Distinguish between Wide Sense Stationary and Strict Sense Stationary processes. 5
+E_ What do you mean by estimation of a random variable and mention it’s types? 5
+Q2 A _ Define Cumulative Distribution Function (CDF) and Probability Density Function (PDF) and 2
+mention the properties of both CDF, PDF.
+B_ The marks obtained by students in a college are normally distributed with mean 65 and variance
+25. If 3 students are selected at random from this college, what is the probability that at least 08
+one of them would have scored more than 75 marks?
+Given: Area from Z = 0 to 2 is 0.4772
+Q3 A Consider the following bivariate discrete probability distribution of (X,Y)
+0 | |
+10
+Evaluate P (X <2Y), P(X <1), P(X>Y/ Y> 1) and P(X*+ Y*<1)
+B_ Write noteson cross correlation function and mention its properties. 10
+
+Q4 A_ The joint probability function of two dimensional random variable (X, Y) is given by 10
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+A
+
+A
+
+A
+
+fyy (xy) = 4xy ore forx =O,y =O
+
+Find i) the marginal probability density function of X and Y.
+ii) the conditional density function of Y given that X = x and the conditional density
+function of X given that Y = y
+iii) Check for independence of X and Y
+Find the autocorrelation function of a random process given by X(t) = a cos (bt + y) where a, b
+are constants and Y is uniform random variable on (- n, 1)
+
+Find the power spectral density of the random process where autocorrelation function is
+RO) =e + alr]
+
+Explain about covariance and correlation of two dimensional random variables.
+
+Write note on linear time invariant systems.
+Write notes on entropy with example.
+
+The joint probability density function of (X, Y) is
+
+yr | ts 0 1
+=f 1/6 O 1/6
+0 0 1/3 0
+1 1/6 o .| 1/6
+
+Find the minimum mean square error linear estimator for Y given X.
+Write note on maximum likelihood estimation
+
+—__—_—_— *
+
+fx
+
+10
+
+10
+10
+
+10
+10
+
+10
+
+10
+````
+
+## 2014-15 · Re-Exam · Sem 4 · paper 0ff7f6862385
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/Probability and Random Processes Batch (2013-14) Re Exam.pdf`
+- Printed on paper: max marks: 100; exam date: 29/06/2015
+- Text: ocr (2 pages), mean OCR confidence 85.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+Academic Year: 2014-15 ea
+Batch: 2013-14 rh >, ¥
+f r Ws
+
+. eae a ( 3
+
+Subject : Probability and Random Processes Marks: 100: ‘5 <¥ ,
+Ti : 10.0¢ J
+
+Date : 29/06/2015 rations: 9 eR OPM
+
+Durations: 3 (hcBWarge” a0
+Re-Examination —— poli
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Ql Do as directed (20M)
+A Define PDF. State and prove its 4 properties.
+B If 10 fair coins are tossed simultaneously, what is the chance of getting at least
+7 heads?
+C Compare Random process and random variable.
+D Explain minimum mean square estimation.
+Q.2. A If X follows normal distribution with mean 10 and standard deviation 4, find (10M)
+@P(S<x<18) (ii)P(x<12);
+Given: Area between z=0 and z=1.25 is 0.3944,
+Area between z=0 and z=2 is 0.4772,
+Area between z=0 and z=0.5 is 0.1915
+
+B_ Discuss autocorrelation and auto-covariance function. State and prove its (10M)
+properties.
+Q.3. A Derive the expression for mean and variance of binomial distribution. (10M)
+B Find autocorrelation function for the power spectral density of WSS given (10M)
+below, ;
+b
+Sy (@) =~ (2-|a)) |o|<a
+=0 s|o| >a
+
+2 SEA SSE ESS EE SS SPS BES
+
+Page 1/2
+--- page 2 ---
+Q.4 A Define Power spectral density. State and prove its properties. Explain their (10M)
+importahce.
+
+B The daily consumption of electric power (in million kwh) in a random variable (10M)
+X with PDF
+
+x
+fry %y) = kxe3, x > 0
+=0 , otherwise
+Find K, E(X) and the probability that on a given day the electric consumption
+is more than E(X).
+
+Q.5 A A two dimensional random variable has PDF of X and Y. (10M)
+fey y) =(2-x-y) O<Sxs10sy<il
+=0 , otherwise
+Find: (i) Marginal PDF of X and Y.
+(ii) Var.(X) and Var.(Y)
+B Explain SSS and WSS processes in detail. (10M)
+
+Q.6 A A WSS random process X(t) with autocorrelation function R,,(r) = Ae (10M)
+where A and a are real positive constant, is applied to the input of an LT]
+system with impulse response h(t) =eu(r) , where b is a real positive
+
+constant. Find the autocorrelation of the output y(t) of the system.
+
+B Explain conditional probability and probability of independent events with an (10M)
+example.
+
+Q7 Write short notes on the following: (20M)
+
+A Chebyshev’s Inequality
+
+B_ Gaussian distribution
+
+C SSS and WSS process
+
+D Application of PRP in signal processing
+
+Page 2/2
 ````
 
 ## 2014-15 · Re-Exam · Sem 4 · paper 284c01197114
@@ -4001,119 +5118,6 @@ x
 2}
 ````
 
-## 2013-14 · Re-Exam · Sem 4 · paper 12e2ebffa479
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 86.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: Il Semester: IV
-Batch: 2013-14 a —
-Academic Year: 2014-2015 spat w ma
-bject: Probability and Random Processes {or
-Subjec y Marks// r Qs rua a
-oy $ * c
-Date: 06/05/2015 Time: j 2.00, PpmnRY'S ,
-
-Duratidngs “3 (hrs) - AJ
-\ as
-
-SX digpe a
-P : SU eae
-Re-Examination SMES UN
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. | is compulsory.
-
-2 Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-53 Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:-
-A Two cards are drawn from a pack of fair cards. Find the probability that they will be both red or
-
-both pictures. 7
-B_ Define Random Variable and explain with suitable example. 5
-C_ Describe mean and variance of a random variable. 5
-D_ Write in short about entropy. 5
-E What do you mean by estimation of a random variable and mention it’s types. 5
-
-Q2 A The authorities of an university wish to form a committee of 4 engineers for inspecting the
-functioning of engineering colleges. 3 Electronics, 4 Mechanical, 2 Civil and 1 Computer
-
-Engineers showed interest to work as committee members. Find the probability that the 08
-committee consists of (i) One engineer of each branch, (ii) at least one Electronics Engineer.
-B_ Explain Cumulative Distribution Function (CDF) and Probability Density Function (PDF) with 2
-suitable example.
-Q3 A ‘X’ is anormal variate with mean 30 and standard deviation 5. Find the probabilities that
-(i) 26< XK < 40 (ii) X > 45 (ili) [X — 30| > 5
-Given Area between Z = 0 and 0.8 = 0.2881 10
-Area between Z = 0 and 2.0 = 0.4772
-Area between Z = 0 and 3.0 = 0.4987
-Area between Z = 0 and 1.0 = 0.3413
-B_ The probability distribution of a random variable is given by
-X : -2 —1 0 1 2 3
-10
-
-P(X=x): O71 k 0-2 2k 03 2k
-
-Find K, mean and variance.
---- page 2 ---
-Q4°-A™ The joint probability function of two dimensional discrete random variable (X, Y) is given by
-
-SE See fee + 2y) forx=0,1L2andy=1,2,3,4
-Fxy) { 0 elsewhere
-
-Find the value of c, P (X = 2, Y = 3) and marginal probability density function of X and Y.
-B_ Write note on covariance and correlation of two dimensional random variables.
-
-Q5 A_ Show that the random process given by X (t) = A cos (@ot + ©) where A and @p are constants
-and e is uniformly distributed over (0, 2m) is wide sense stationary.
-s B_ Write note on cross correlation function and mention its properties.
-
-~~-=-Q6-~A~ Explain about spectral density function in relation with random variables.
-B_ Forarandom process X (t), R (r) = 1 + e*" find its power spectral density.
-
-Q7 A Write note on maximum likelihood estimation
-B_ The probability density function of (X, Y) is,
-: fxy(x, y)=xty for0<x<landO<y<1
-Find minimum mean square error linear estimator for Y given X.
-
-a
-
-Be
-
-10
-
-10
-
-10
-
-10
-
-10
-10
-
-10
-
-10
-````
-
 ## 2013-14 · Re-Exam · Sem 4 · paper 36b9423a14b1
 
 - Departments: Electronics and Telecommunication
@@ -4258,368 +5262,6 @@ xX
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 12d9914fafae
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 06/12/2014
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-
-Subject: Probability and Random processes
-
-oe
-
-ey , 4
-it {2,00 gor ta ae
-si ( 3 (hissk ARYW JS
-
-ae
-
-(3
-
-Date: 06/12/2014 Time:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
-book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each question to be started on a fresh paper.
-6. Figures to the right indicate full marks.
-7. Assume suitable Data if necessary
-
-Ql A __ State and Explain Conditional probability & Joint probability ~ 10
-B_ Foracertain binary communication channel, the probability that a transmitted '0' is 10
-received as '0' is 0.9 while the probability that a transmitted 'I' is received as'1' is 0.8 If
-the probability of transmitting '0' is 0.45,
-find the probability that -
-(i) a 1 is received
-(ii) a 0 is received
-(iii) a 1 was transmitted given that 1 was received
-(iv) a 0 was transmitted given that 0 was received.
-
-Q2 A __ Define probability density function. State and prove properties of probability density 10
-
-function.
-B- Find mean and variance for Gaussian probability density function ; 10
-Q3. A _ The joint probability density function of two random variables is given by 10
-
-fxy (x,y) =4XY e+)"
-= 0 ; elsewhere
-(i) Find the marginal probability distributions of x and y
-
-(ii) Conditional density function of Y given that X=x and Conditional density function -
-of X given that Y=y
-
-(iii) Check independence of X & Y
-
-X> 0, y>0
-
-B Calculate entropy for six symbols with probability 3/8, 3/8, 1/8, 1/16, 1/32 , 1/32 10
-respectively.
-
-Q4 A Write short note on Power Spectral Density 10
-
-B_ At bank counter arrival time of 10 customers were recorded as follows 10
-
-2.4, 3, 3.6, 2.9, 3.4, 4, 5.3, 2.8, 3.2, 5.8
-The interval time can be considered as exponential random variable with parameter }.
-Find maximum likelihood estimation of 4
-
-‘
---- page 2 ---
-Q5 A
-
-B
-Q6
-
-A
-
-B
-Q7_ A
-
-B
-
-What is Reyleigh probability density function explain in detail.
-
-Ifx and y are two independent exponential random variables with probability
-density functions:
-
-fx (x)=xe*;x>0
-
-and fly)=ye’;y>0
-
-Find the probability density function of z=x + y.
-
-Write short note on:
-Binomial distribution
-Mean square error
-
-A random process is given by
-
-X(t) = cos(at)
-
-Where @ is uniformly distributed between (0,00) and 0 is constant
-Check whether X(t) is WSS
-
-Explain with one example cross correlation
-
-10
-10
-
-10
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 667b9671d941
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2015
-- Text: ocr (2 pages), mean OCR confidence 85.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-14 tg
-Academic Year: 2014-2015 1A Bay i
-Subject: Probability and Random Processes VA “— Ne,
-Marks: 100 fia,’ «esTMEB y’
-Date: 12/06/2015 Time: 10.0 toi1300 4pih ¥ ),
-Durations: 3 (hrs, we
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Q.1 Do as directed (20M)
-A Define CDF. State and prove its 4 properties.
-B A manufacturer knows from his experience that the resistance of resistors he
-produces is normally distributed with mean 100 ohm and standard deviation 2
-ohm. What percentage of resistor will have resistance between 98 and 102
-ohms? (Ares fromZs-O—4 3 0-34134)
-C Compare Random process and random variable.
-D Explain maximum likelihood estimation.
-Q.2 A A random process is given by X(t) =A cos(wot+¢) where A,w,are (10M)
-constants and ¢ is random variable with uniform distribution in(—z, 7).
-Show that X (7) is WSS.
-B_ Discuss autocorrelation function. State and prove its properties. (10M)
-
-Q.3. A Obtain the Moment generating function of binomial distribution. Hence derive (10M)
-the expression for mean and variance.
-B_ Check if the following function is PDF. Hence, find the marginal PDF of X (10M)
-and Y. ‘
-fy@y)=xty, O<x<s10<sysl
-
-Q.4_ A State and prove: (a) Total Probability Theorem (b) Bayes Theorem. (10M)
-
-Explain their importance with an example.
-
-a ES Se SI SAE SE EE ETE EE SOE ESSERE TEE
-
-Page 1/2
-
-bot ee
-XY Mung ae
-
-x
---- page 2 ---
-B Fora discrete time sequence given below represent p.m.f for random variable (10M)
-n.Find(a)k = (b) P2<n<4) (C) P(n<2)
-
-3k 5(n-3)
-6@
-2.5k 5(1-2) 2.5k 8(n-4)
-2k &(m-1)
-k
-n
-o 1 2 3 4
-Q.5 A Find autocorrelation function for the power spectral density of WSS given (10M)
-below,
-b
-Sy (@) =—(a-|a)) slals a
-=0 s|o| >a
-B Illustrate the concept of entropy with an example. (10M)
-Q.6 A A WSS random process X(t) with autocorrelation function Ry, (t) = Ae" (10M)
-
-where A and a are real positive constant, is applied to the input of an LTI
-» system with impulse response h(t) =eu(r) , where b is a real positive
-
-constant. Find the autocorrelation of the output y(t) of the system.
-
-B The daily consumption of electric power (in million kwh) in a random variable (10M)
-X with PDF
-
-x
-fey (%,y) = kxe3, x >0
-=0 , otherwise
-Find K, E(X) and the probability that on a given day the electric consumption
-is more than E(X).
-Q.7 Write short notes on the following: (20M)
-
-A Chebyshev’s Inequality
-
-B_ Bernoulli’s trials
-
-C Minimum mean square estimation
-D_ SSS and WSS process
-
-Page 2/2
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 07e58abd4310
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 2013-14 RE EXAM_07e58abd43.pdf`
-- Printed on paper: duration hours: 3; exam date: 05/12/2015
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-2014
-
-Academic Year: 2015-2016
-Agate Li Nia,,
-
-| Subject: Probability and Random processes / s a Ne
-
-af a
-Merks : 100 {a MPSTME Ye
-
-Date: 05/12/2015 Time   :2.00p Ree ae es,
-Duration : 3 (hrs) 4
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-ya 2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Ql Do as directed (20M)
-A. Define CDF. State and prove its 4 properties.
-B If8 fair coins are tossed simultaneously, what is the chance of getting at least 5
-heads?
-C Explain Random process.
-D Explain Entropy.
-Q.2. A IfX follows normal distribution with mean 10 and standard deviation 4, find (10M)
-(@)P(S<x<18) (ii) P(x < 12);
-Given: Area between z=0 and z=1.25 is 0.3944,
-= Area between z=0 and z=2 is 0.4772,
-Area between z=0 and z=0.5 is 0.1915
-
-B. Derive the expression for mean and variance of binomial distribution. (10M)
-Q.3 A Discuss autocorrelation function. State and prove its properties. (10M)
-B Find autocorrelation function for the power spectral density of WSS given (10M)
-below,
-b
-Sy (@) == (a ) 3
-aie dl a
-=0 >a
-
-Page 1/2
---- page 2 ---
-Q.4
-
-Q.5
-
-Q.6
-
-Q.7
-
-A
-
-A
-
-State and prove properties of power spectral density. Explain their importance. (10M)
-
-The daily consumption of electric power (in million kwh) in a random variable (10M)
-X with PDF
-x
-fey y) = kxe3, x > 0
-=0 , otherwise
-Find K, E(X) and the probability that on a given day the electric consumption
-is more than E(X).
-
-A two dimensional random variable has PDF of X and Y. (10M)
-fey y) =(2-x-y), OSxS10sysl
-=0 , otherwise
-
-Find: (i) Marginal PDF of X and Y.
-(ii) Var.(X) and Var.(Y)
-
-Explain SSS and WSS processes in detail. (10M)
-Derive and explain Bayes theorem. (10M)
-Discuss conditional probability and probability of independent events with an (10M)
-
-example.
-Write short notes on the following: (20M)
-
-Chebyshev’s Inequality
-
-Gaussian distribution
-
-Random variable
-
-Application of PRP in signal processing
-
-Page 2/2
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper 06a93c941f03
 
 - Departments: Electronics and Telecommunication
@@ -4627,6 +5269,7 @@ Page 2/2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH EXTC 2013-14 RE EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07/12/2013
 - Text: ocr (1 page), mean OCR confidence 84.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 3s,
@@ -4681,7 +5324,6 @@ B Find autocorrelation function of random process X(t) = A cos (t+); where A & o
 is the random variable Uniform in [-z, 2], Is the process WSS?
 
 Q4 A What is auto correlation? Show that 10
-Rux(trte) = ELX(t) XC) }] - wCG) Ch)
 B The PDF of (X, Y) is fey VI = xty where OS4 LOosvel. 10
 Find the minimum MSE linear estimator for Y given X.
 Q5 A What is WSS process? If the two random processes X(t) & Y ( are defined by 12
@@ -4995,646 +5637,4 @@ a a
 
 05
 05
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper e652861aaf80
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-Batch: 2013-14
-Academic Year: 2014-2015 Aga eas
-ili C,H ~~ tig
-Subject: Probability and Random Processes f Sa i
-Mark€:@ f mPSTME AY
-Date: 06/05/2015 Time! 34 14000 ani’ ‘sign pm
-
-SS
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer book, which is provided for their use.
-
-NB:
-
-1. Question no. | is compulsory.
-
-2 Out of remaining questions, attempt any 4 questions.
-
-3. In all 5 questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figure in brackets on the right hand side indicate full marks.
-
-Ql. Attempt any four questions:-
-A In the play oftwo dice, a person loses if the sum obtained is 2 or 4 or 12. He wins if the sum is
-
-5 or 11. Find the ratio of his probability of losing to the probability of winning in first throw. 4
-B_ Describe the terms Random Variable and Random Processes. 5
-C_ Define mean, variance and moment of a random variable. 5
-D_ Distinguish between Wide Sense Stationary and Strict Sense Stationary processes. 5
-E_ What do you mean by estimation of a random variable and mention it’s types? 5
-Q2 A _ Define Cumulative Distribution Function (CDF) and Probability Density Function (PDF) and 2
-mention the properties of both CDF, PDF.
-B_ The marks obtained by students in a college are normally distributed with mean 65 and variance
-25. If 3 students are selected at random from this college, what is the probability that at least 08
-one of them would have scored more than 75 marks?
-Given: Area from Z = 0 to 2 is 0.4772
-Q3 A Consider the following bivariate discrete probability distribution of (X,Y)
-0 | |
-10
-Evaluate P (X <2Y), P(X <1), P(X>Y/ Y> 1) and P(X*+ Y*<1)
-B_ Write noteson cross correlation function and mention its properties. 10
-
-Q4 A_ The joint probability function of two dimensional random variable (X, Y) is given by 10
---- page 2 ---
-Q5
-
-Q6
-
-Q7
-
-A
-
-A
-
-A
-
-fyy (xy) = 4xy ore forx =O,y =O
-
-Find i) the marginal probability density function of X and Y.
-ii) the conditional density function of Y given that X = x and the conditional density
-function of X given that Y = y
-iii) Check for independence of X and Y
-Find the autocorrelation function of a random process given by X(t) = a cos (bt + y) where a, b
-are constants and Y is uniform random variable on (- n, 1)
-
-Find the power spectral density of the random process where autocorrelation function is
-RO) =e + alr]
-
-Explain about covariance and correlation of two dimensional random variables.
-
-Write note on linear time invariant systems.
-Write notes on entropy with example.
-
-The joint probability density function of (X, Y) is
-
-yr | ts 0 1
-=f 1/6 O 1/6
-0 0 1/3 0
-1 1/6 o .| 1/6
-
-Find the minimum mean square error linear estimator for Y given X.
-Write note on maximum likelihood estimation
-
-—__—_—_— *
-
-fx
-
-10
-
-10
-10
-
-10
-10
-
-10
-
-10
-````
-
-## 2013-14 · Re-Exam · Sem 4 · paper 0ff7f6862385
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/Probability and Random Processes Batch (2013-14) Re Exam.pdf`
-- Printed on paper: max marks: 100; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 85.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (EXTC) Year: II Semester: IV
-Academic Year: 2014-15 ea
-Batch: 2013-14 rh >, ¥
-f r Ws
-
-. eae a ( 3
-
-Subject : Probability and Random Processes Marks: 100: ‘5 <¥ ,
-Ti : 10.0¢ J
-
-Date : 29/06/2015 rations: 9 eR OPM
-
-Durations: 3 (hcBWarge” a0
-Re-Examination —— poli
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all five questions to be attempted.
-
-4. All question carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets indicates full marks.
-
-7. Illustrate your answers with neat labelled diagram wherever necessary.
-
-Ql Do as directed (20M)
-A Define PDF. State and prove its 4 properties.
-B If 10 fair coins are tossed simultaneously, what is the chance of getting at least
-7 heads?
-C Compare Random process and random variable.
-D Explain minimum mean square estimation.
-Q.2. A If X follows normal distribution with mean 10 and standard deviation 4, find (10M)
-@P(S<x<18) (ii)P(x<12);
-Given: Area between z=0 and z=1.25 is 0.3944,
-Area between z=0 and z=2 is 0.4772,
-Area between z=0 and z=0.5 is 0.1915
-
-B_ Discuss autocorrelation and auto-covariance function. State and prove its (10M)
-properties.
-Q.3. A Derive the expression for mean and variance of binomial distribution. (10M)
-B Find autocorrelation function for the power spectral density of WSS given (10M)
-below, ;
-b
-Sy (@) =~ (2-|a)) |o|<a
-=0 s|o| >a
-
-2 SEA SSE ESS EE SS SPS BES
-
-Page 1/2
---- page 2 ---
-Q.4 A Define Power spectral density. State and prove its properties. Explain their (10M)
-importahce.
-
-B The daily consumption of electric power (in million kwh) in a random variable (10M)
-X with PDF
-
-x
-fry %y) = kxe3, x > 0
-=0 , otherwise
-Find K, E(X) and the probability that on a given day the electric consumption
-is more than E(X).
-
-Q.5 A A two dimensional random variable has PDF of X and Y. (10M)
-fey y) =(2-x-y) O<Sxs10sy<il
-=0 , otherwise
-Find: (i) Marginal PDF of X and Y.
-(ii) Var.(X) and Var.(Y)
-B Explain SSS and WSS processes in detail. (10M)
-
-Q.6 A A WSS random process X(t) with autocorrelation function R,,(r) = Ae (10M)
-where A and a are real positive constant, is applied to the input of an LT]
-system with impulse response h(t) =eu(r) , where b is a real positive
-
-constant. Find the autocorrelation of the output y(t) of the system.
-
-B Explain conditional probability and probability of independent events with an (10M)
-example.
-
-Q7 Write short notes on the following: (20M)
-
-A Chebyshev’s Inequality
-
-B_ Gaussian distribution
-
-C SSS and WSS process
-
-D Application of PRP in signal processing
-
-Page 2/2
-````
-
-## Year not stated · Exam not stated · Sem 4 · paper 662b7d37a0fa
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), BATCH 200003.pdf`
-- Printed on paper: max marks: 100; exam date: 29/06/2015
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-Batch: 2013-14 an
-Academic Year: 2014-2015 ZL padi! 7
-Subject: Probability and Random Processes ‘s, :
-Marks: 100
-Date: 29/06/2015 Time: . 2.00 pm to §.00 pm.
-Durations: \)g*(hrs) cf
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In all 05 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. oa. State the three axioms of probability. 04
-b. State and explain Bayes theorem. 04
-C. Write short notes on first order and second order statistics. 04
-d. Define binomial distribution. State its mean and variance. 04
-e. Explain the concept of stationary process. 04
-2 a. Suppose that a brand of light bulb lasts for an average of 2100 hours with standard 10
-
-deviation of 100 hours. What is the probability that the particular bulb lasts for more
-than 1950 hours. (Given: P(O0<z<1.5)=0.4332).
-b. Find the marginal probability density function and conditional density function of X 10
-and Y if the joint density function is
-fey %y) = xe*O") x > 0, y > 0
-Are X and Y independent ?
-
-3 a Suppose that a urn contains five white balls and seven red balls. Two balls are drawn at 10
-random from the urn without replacements.
-(i) What is the probability that both balls are white?
-(ii) What is the probability that the second ball is red?
-b. A two dimensional random variable (X,Y) has the following probability density funtion 10
-fxy GY) =2-x-y, 0<x<10<y<1
-Find the covariance between X and Y.
-
-a/2
---- page 2 ---
-b.
-
-Find the power spectral density of the random process whose autocorrelation function
-isgiven R(t) = ent
-
-If X(t) is a WSS process whose autocorrelation function is given by R(t) = e
-where ais a real positive constant. If X(t) is applied to the input of the LTI system
-whose impulse response is h(t) = e~°* u(t), b is a real positive constant. Find power
-spectral density of the output of the LTI system.
-
--altl
-,
-
-A random process X(t) is defined by X(t)=Acos(wt+®), where A and w are constant and
-8 is uniformly distributed over (0,2m). Check whether X(t) is a WSS process.
-Explain the concept of entropy of a random variable.
-
-A continous random variable has a pdf f(x) = 3x*,0 <x <1. Finda and b such that
-(i) P(X < a) = P(X > a) and P(X > b) = 0.05.
-
-The mean and variance of binomial distribution are 4 and 3 respectively. Find P(x21)
-
-The joint probability density function of (X,Y) is given as
-
-xX .
-
--1 0 1
-¥
--1 ie) ) 1/3
-0 ie) 1/3 0
-1 1/3 0 ie}
-
-Find the minimum mean square error linear estimator for Y given X.
-Explain the method of maximum likelyhood estimation.
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-````
-
-## Year not stated · Final-Exam · Sem 4 · paper 289947ee8a5e
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/PROBABILITY AND RANDOM PROCESSES B TECH (EXTC), FINAL EX0001.pdf`
-- Printed on paper: duration hours: 3; exam date: 06/05/2015
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II Semester: IV
-
-Penal
-Academic Year: 2014-2015 a ore
-/ er
-
-; ~
-/ Subject: Probability and Random Processes Ym “~
-j Marks: | 5/ go? 7°. 3 Ve
-Date: 06/05/2015 Time : \\ “St 2!00'pm to'5
-Durations, \3 (hrs) he
-Final-Examination Sa
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 01 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
-3) In ali 65 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. a. State and explain with an example 03
-(i) Conditional probability
-(ii) Independent events
-b. Define probability density function (pdf) and mention its properties 03
-c. Define strict sense stationary and widesense stationary process. 03
-d. State and explain properties of cross correlation function. 03
-
-2. a. Ina factory four machines A, B, C and D produce 10%, 20%, 30% and 40% of the iterms 06
-repectively. The percentage of defective items produced by them is 5%, 4%, 3% and 2%
-respectively. An item selected at random is found to be defective. What is the
-probability that it was produced by machine B?
-
-b. Let X be a continous random variable with pdf f(x) = k.x.(1—x),0<x <1. 06
-Find k and determine b such that P(Xsb)=P(X2b). Also find distribution function.
-
-3 a Find mean and variance of binomial distribution. 06
-b. The joint probability density function of (X,Y) is given by 06
-1
-fay = zxe 0 <x<2,y>0
-= 0, elsewhere.
-(i) Find the joint cumulative distribution function.
-
-(ii) Find the marginal probability density function of X and Y.
-(iii) Are X and Y independent.
-
-* /2
---- page 2 ---
-A random process is given by x(t) = Acos(w,(t) + @ ), where A, w,are constants and 06
-¢ is random variable uniform in (-1,7). Show that X(t) is a WSS process
-
-Explain power spectral density. State its important properties and prove any one 06
-property.
-Explain the method of maximum likelihood estimation. 06
-The joint probability density function of (X,Y) is 06
-
-xX
-
--1 0 1
-
-Y
-
--1 1/6 0 1/6
-
-0 0 1/3 0
-
-1 1/6 0 1/6
-
-Find the mini, mum mean square error linear estimator for Y given X.
-
-If random process is given by 06
-x(t) = Acos 2nt, where A is a random variable. Find the mean, autocorrelation.
-
-A transmission channel has per digit error probability of 0.01. Calculate the probability of 06
-more than one error in ten received digits using binomial distribution.
-
-Explain the concept of entropy with suitabkexample. 04
-
-State and explain central limit theorem 04
-
-Write note on Chebychev’s Inequality. 04
-x
-````
-
-## Year not stated · Re-Exam · Sem 4 · paper 8fc4449a8bbe
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/PROBABILITY AND RANDOM PROCESSES/Probability & random processes....Re-exam 16-17-18-19.pdf` (+1 identical copies)
-- Printed on paper: max marks: 70; exam date: 13 June 2019
-- Text: ocr (3 pages), mean OCR confidence 84.3
-
-````text
-J : SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech/ MBA Tech (EXTC) - Year: IL- Semester: IV~
-Academic Year: 2018-2019
-
-Subject: Probability and Random Processes - Marks: 70 %
-Date: 13 June 2019 - Time: 2.00
-
-No. of Pages:
-Re- Examination (2016- 17 /2017- 18/2018- 19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data if necessary.
-
-A
-
-Q.1) a) P(A) =0.3, P(B) =0.4,P(ANB)=0.2.
-
-If A and B are two events such that _ —- =
-"Find i.P(AUB) ii. P(A/B), iii. P(AUB)
-
-b) Avbag contains 7 red and 3 black balls and another bag contains 4 red and 5 black balls. One ball
-is transferred from the first bag to the second bag and then all balls are drawn from the second
-bag. If this ball happens to be red, find the probability that black ball was transferred.
-
-c) If the probability density function of a random variable X is
-
-kx(2—x),0<x <2, k>0"
-
-Find i. k, if. E(X)
-0, Elsewhere
-
-(s)={
-
-x
-
-d) IfXisa Random Variable with Mean 4 and Variance 3. Find P (X= 1).
-
-If X(t) =Ycos@t +Zsina@t, where Y and Z are two independent normal random variables
-Q.2)a) with E(Y)=£(Z) =0, E(Y’) = E(z? ) = 0° and w= const., prove that {X(0)} is a SSS
-process of order 2.
-b) f(x) =k? (1-x),0<x<1,k>0
-Acontinuous random variable X has density function
-Find k and P(|x- a) 2 2c).
-Where ys and o° are mean and variance of X.
-
-Q.3) a) If {x(a} is a WSS process with mean yw and-autocovriance function
-
-C.(e)= oe(1-H) for Osis,
-
-0, for |e|>t, Find the variance of the time average of
-
-Page 1 of 3
-
-(4)
-
-(4)
-
-(3)
-
-(3)
-
-(7)
-
-(7)
-
-(7)
---- page 2 ---
-{x (1)} over (0, T). Also examine if the process {x(t)} is mean-ergodic.
-
-The marks obtained by students in a certain examination follow a normal distribution with
-b) mean 45 and standard deviation 10. If 1000 students appeared at an examination, calculate the
-
-7
-number of students scoring i. less than 40 marks, ii. More than 60 marks. (7)
-Q.4)a) The joint pdf of a two-dimensional RV (X, Y) is given by
-2
-f(xy) =x + = <x<2,0<Sy<2
-Find i. P(X >1),ii. aly <5}, iii, [x >1/¥ <3), (7)
-2 2
-w PCY <5/x > i), v. P(X <Y) vi P(X4+¥s1)
-b) The bivariate probability distribution of (X,Y) given below,
-xX / Y 1 2 3 4 5 6
-0 0 0 1/32 | 2/32 | 2/32 | 3/32
-1 1/16 | 1/16 | 1/8 1/8 | 1/8 1/8 (7)
-
-2 1/32 | 1/32 | 1/64 | 1/64| 0 | 2/24
-Find #: P(X $1), ii. P(Y $3), iii, P(Y $1, ¥ $3),
-iv. P(X S1/Y¥ $3), v.P(Y<3/X 1), vi. P(X+¥ <4)
-
-Q.5)a) Describe Random processes in terms of their averages and expected values giving definitions of
-each of the following: a. Mean b. Auto-correlation, c. auto-covariance, d.° Correlation (7)
-coefficient, e. cross-correlation, f. cross-covariance, g. cross correlation coefficient.
-
-b) The autocorrelation function of the Poisson increment process is
-
-2, for \t\>e
-
-R(r) = 2 le| Prove that it’s spectral density is
-av Afi -H) for |t|<e : (7)
-€ € ;
-4Asin’ (we / 2)
-S(@) = 221°6(@)+————
-(0) = 22276 (0) +
-Q.6) a) A distribution with unknown mean yw has variance equal to 1.5. Use central limit
-
-theorem to find how large a sample should be taken from the distribution in
-order that the probability will be at least 0.95 and that the sample mean willbe (7)
-within 0.5 of the population mean.
-
-b) If {X(t)} isa WSS and if
-Y(t)= Jaox( —u)du then prove that -
-i Ry (7) =R, (7) *h(-r), HR, (7) = RK, (7) *A(c),
-iS, (0) =S,,(0)H*(o), Wv. 8, (0)=8,,(0) | (0)f
-Q.7)a) Explain the following
-
-i. Wide Sense stationary process (WSS), ii. Power Spectral Density (PSD), iii. Maximum (8)
-Likelihood estimate. iv. Probability Density Function (PDF)
-b) State and Prove any three properties of Auto-Correlation Function R(r) (6)
-
-Page 2 of 3
---- page 3 ---
-TableC .
-
-§59) Standard Normal Distribution
-
-Numerical entries represent the probability that a standard normal random variable
-
-. X— jb
-is between 0 and z where z= I fs
-o
-
-z 0.00 0.01 0,02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
-0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
-04 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-a2 9.0793 9.0832 9.0871 0.0910 9.0948 0.0987 0.1026 0.4064 OA103 OAH
-0.3 0.4179) + 0.4217 0.4255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-0.4 0.1554 0.4591 0.1628 0.1664 0.1700 0.1736 0.4772 0.1808 0.1844 0.1879
-0.5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-0.6 0.2257 0.2281 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
-07 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
-6.8 6.2881 0.2910 0.2939 0.2967 0.2995 6.3023 6.3051 0.3078 6.3106 0.3133
-0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
-1.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
-11 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3780 0.3810 0.3830
-1.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
-1.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 0.4131 0.4147 0.4162. 0.4177
-1.4 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4279 0.4292 0.4306 0.4319
-15 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
-1.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 “0.4515 0.4525 0.4535 0.4545
-17 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 0.4616 0.4625 0.4633
-1.8 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
-19 0.4713 0.4719 0.4726 0.4732 0.4738 0.4744 0.4750 0.4756 0.4761 0.4767
-2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
-24 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
-22 0.4861 0.4864 0.4868 0.4871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
-23 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 0.4909 0.4911 0.4913 0.4916
-24 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
-25 0.4938 0.4940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4948 0.4951 0.4952
-26 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
-27 0.4965 0.4966 0.4967 0.4968 0.4969 0.4970 0.4971 0.4972 0.4973 0.4974
-28 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
-29 0.4981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
-20 0.4987 0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 0.4890
-34 0.4990 0.4991 0.4991 0.4991 0.4992 0.4992 0.4992 0.4992 0.4993 0.4993
-3.2 0.4993 0.4993 0.4994 0.4994 0.4994 0.4994 0.4994 0.4995 0.4995 0.4995
-3.3 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
-34 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
-
-884
 ````

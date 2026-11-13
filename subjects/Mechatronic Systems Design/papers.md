@@ -319,6 +319,7 @@ b | Explain in short Offline and Online Monitoring Systems. [10]
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/INDUSTRIAL AUTOMATION/Sem_01/MECHATRONICS SYSTEM DESIGN/Mechatronic Systems Design 2016-17 Final.pdf`
 - Printed on paper: exam date: 23 November 2016
 - Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -394,7 +395,6 @@ as shown below
 
 : “a Lim rt Swi +c},
 
-Paeeree een" Fey baecree Uf?
 
 ffi 9) Pivot
 
@@ -555,6 +555,7 @@ d) Fuzzy Logic
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/INDUSTRIAL AUTOMATION/Sem_01/MECHATRONICS SYSTEM DESIGN/Mechatronic Systems Design 2015-16 Final.pdf`
 - Printed on paper: exam date: 26/11/2015
 - Text: ocr (2 pages), mean OCR confidence 92.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -623,7 +624,6 @@ Explain basic architecture of 8086. Suggest any one interfacing scheme.
 
 Determine and explain the addressing modes of the following 8086
 instructions. i) PUSH BX ii) CALL BX iii) JMP DWORD PTR 6200 [BX]
-iv) OR OABCD [BX] [SI], CX v) INT O
 ````
 
 ## 2014-15 · Final-Exam · Sem 1 · paper bb5850889342

@@ -16,16 +16,16 @@ Also filed as: `COGNITIVE SCIENCE & ANALYSTICS`, `COGNITIVE SCIENCE AND ANAYTICS
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Cognitive Science & Analytics, Sem-VII, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CSBS | B Tech, Cognitive Science & Analytics, Sem-VI, Batch 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CSBS 7036 | QP_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Cognitive Science and Analytics, Sem-VII, Final Exam 2024-25.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Cognitive Science & Analytics, Sem-VII, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Congitive Science and Analytics, Sem-VII, Final Exam, A Y 2023-24.pdf |

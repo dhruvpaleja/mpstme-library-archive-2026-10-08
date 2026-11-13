@@ -1111,13 +1111,14 @@ BL-2,3
 2/r
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper 594c3a5acd54
+## 2022-23 · Final-Exam · Sem 7 · paper 594c3a5acd54
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Microwave and Antenna Theory/Microwave and Antenna Theory Batch 2022 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
 - Text: ocr (4 pages), mean OCR confidence 77.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 " SVKM’s NMIMS~ Vi
@@ -1268,7 +1269,6 @@ TOWARD LOAD —> <— TOWARD GENERATOR i
 “ef 1090807 06 05 04 08 02 0.1 0.05 oor lot 121314 15 16 17 1.81.9 2 25 3 45 10 ;
 Yo 09 08 07 06 0s 04, 03, , | 02 01 o|t 0.99 0.95, | 0.9 08 07 06 | 05 04 03 02 04 H
 CENTER '
-oo Ot, 02, , 03, ,, 04, 05, ,, 06, , 07... 08, |, 09 1 14 120043 4 15, NB 7, NB te i
 
 i
 ORIGIN

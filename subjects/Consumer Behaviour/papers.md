@@ -78,6 +78,185 @@ x
 1/1
 ````
 
+## 2012-13 · Exam not stated · Trim 15 · paper 7e4a14b5b4db
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONSUMER BEHEVIORES/Scan 003.pdf`
+- Printed on paper: duration hours: 2; exam date: 19/4/2013
+- Text: text (3 pages)
+
+````text
+\.
+SVKM's NMIMS
+Mukesh Patel School Of Technolorn Manamment
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
+Academic Year : 2012-2013
+I Subject:   CONSUMER BEHAVIOUR   Marks:
+Time:   10.30am To 12.30pm
+Date:   19/4/2013   Duration:   2   hrs.
+Final - Examination
+NOTE
+1) This paper consists of two sections A and B.
+2) Attempt any FOUR questions from Section-A and
+3) Section-B is compulsory.
+4) All questions carry equal marks.
+SECTION - 1
+Q. 1. What function do attitudes fulfill in consumer behavior? Briefly
+explain any one of the multiattribute models of attitudes and explain how
+you would use the understanding of this model in your marketing decisions
+Define consumer behavior and the decision process. Describe in brief the
+effect of internal determinants and external environment on the decision
+process.
+Q.2 What do you understand by Weber's law? How can you apply your
+knowledge of this law to suggest suitable pricing strategies for?
+(a) a pair of denim jeans ?
+(b) a tube of tooth-paste ?
+Q.3. How do marketers utilize the concept of stimulus generalization?
+Taking suitable examples, illustrate the possible applications of the
+concept? Differentiate between classical and operant conditioning?
+Q.4. You are the brand manager of a new line of weight auto focus
+economically priced digital camera. Describe how an understanding of
+the consumer behavior will help you in your segmentation strategy
+.What are the consumer behavior variables that are crucial to your
+understanding of this market?
+Q.5. Write short notes on anv three of the following:
+a) Theories of Personality
+b) Consumer Motivation
+c) Cognitive theory of learning
+d) Attitude change strategies
+e) Elaboration Likelihood Model
+--- page 2 ---
+SECTION - B (Compulsory)
+6. Read the case given below and answer the questions given at the end of the case.
+Attracting the Youth Segment
+Campbell Soup Company introduced its line of Chunky
+soups in Asia in late 90's. The product was geared to young
+people who were found to avoid the standard clear soup lines
+and were looking for something that tasted more like a meal.
+This heartier version of the soup containing more vegetables
+or meat in a heavier broth had done very well over the years
+with teens, particularly the young males in US market where
+it was the leading ready to serve food in super market.
+However, youth in Asia has been found to turn very often
+from soups to other foods for lunch and snacks, because of a
+high degree of prevalence of street food both traditional and
+contemporary. Cultural variable like food preferences and
+taste are also creating barriers for thc product. In addition,
+with the faster penetration of microwave ovens and pizzas
+and popcorn cooked in them by college going youth as
+alternative snacks. In addition competitive ready-to-serve
+soups both from international and local market are gaining
+prominence, either on the plank of being an internationally
+known name or supplying local flavors to suit the Asian
+palate. Campbell has resolved to reach the youth and college
+market. It conducted specialized research on college canteens,
+resulting in several interesting findings. First, only about 113
+students use the college food facilities for lunch and only
+about one in four eat there for dinner. With 70% of the
+students having access to a heater or oven the potential exist
+for heating up soup. In addition this group likes soup and
+therefore is willing to consume chicken noodle soup or a
+variant of the corn soup rather than having heavy, full plate
+lunch. The trends of consumption are also changing. Six out
+of 10 college students in the metropolitan cities are more
+involved in buying prepared food than in the past. The
+students are usually short of time, especially during
+semesters. Thus, these patterns would indicate that heating up
+a   soup for a snack or a quick meal could be perceived as being
+fast and easy and would be an attractive food choice for these
+students
+--- page 3 ---
+College youths are an attractive market segment for several
+reasons. First they are a sizeable population in a lot of the
+Asian countries especially in South Asian countries. Second
+compared to others in their age group students typically have
+a discretionary income. Third because this is the time that
+many individuals are for the first time trying independent
+living and making consumption decision by themselves,
+attracting them to Campbell brand could help to develop
+lifetime loyalty. Moreover, as university students, these
+consumers should become the leaders and innovators of
+tomorrow, enhancing the brands image in future.
+Campbell executives are also aware, however, that college
+students can be very difficult to reach and can be noticeable
+fickle in their brand choice behavior
+Questions:
+a) What in your view are the consumer behavior variables
+that the company should study before rolling out ts
+detailed marketing effort?
+b) Do you agree with the company's identification of the
+college going students as the most attractive segment? If
+the reference was specifically to the Indian market, which
+other segment would you suggest as being attractive for
+the company?
+c) Advise the company about appropriate promotional
+appeals to use for the product for the target segment of
+college student?
+````
+
+## 2011-12 · Exam not stated · Trim 15 · paper f0029508f8bd
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONSUMER BEHEVIORES/CONSUMER BEHAVIOUR 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
+- Text: ocr (1 page), mean OCR confidence 92.0
+
+````text
+aN — a
+
+\
+
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+
+Academic Year : 2011-2012
+
+Subject: CONSUMER BEHAVIOUR Marks: 50
+Time: 2.00 pm To 4.00 pm
+Date: 30/03/2012 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use.
+
+NB: 1. Answer any 5 questions
+2. Answer to each new question to be started on a fresh page.
+3. Figures in bracket indicate full marks.
+
+Q1. Explain the term ‘consumer attitude’. Can consumer attitude change ? Give examples of how
+marketers have tried changing attitude of consumers. (10)
+
+Q2. How does personality affect consumer behaviour ? Explain with examples. (10)
+
+Q3. Explain with examples how consumer behaviour is affected by involvement level of the
+consumer with the purchase. (10)
+
+ah. Define Fishbein’s Attitude model. Give an example illustrating this model. (10)
+
+Q5. Explain how Freudian theory and Social theory can be applied to understanding of consumer
+behaviour. (10)
+
+Q& By taking an example, explain the problem recognition stage in the consumer decision
+model, ie 0) .
+
+07 Explain the different types of consumer needs and motivation leading to consumer
+behaviour. (10)
+
+\
+
+Q®. What can a company do to design persuasive communication for the consumer ? (10)
+
+7
+mm
+
+)
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper 8494b83f0606
 
 - Departments: Common (all branches)
@@ -948,183 +1127,4 @@ of the following strategies for change in consumer attitude:
 . Achange strategy
 
 x - »
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper f0029508f8bd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONSUMER BEHEVIORES/CONSUMER BEHAVIOUR 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 30/03/2012
-- Text: ocr (1 page), mean OCR confidence 92.0
-
-````text
-aN — a
-
-\
-
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-
-Academic Year : 2011-2012
-
-Subject: CONSUMER BEHAVIOUR Marks: 50
-Time: 2.00 pm To 4.00 pm
-Date: 30/03/2012 Duration: 2 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the answer book, which is provided for their use.
-
-NB: 1. Answer any 5 questions
-2. Answer to each new question to be started on a fresh page.
-3. Figures in bracket indicate full marks.
-
-Q1. Explain the term ‘consumer attitude’. Can consumer attitude change ? Give examples of how
-marketers have tried changing attitude of consumers. (10)
-
-Q2. How does personality affect consumer behaviour ? Explain with examples. (10)
-
-Q3. Explain with examples how consumer behaviour is affected by involvement level of the
-consumer with the purchase. (10)
-
-ah. Define Fishbein’s Attitude model. Give an example illustrating this model. (10)
-
-Q5. Explain how Freudian theory and Social theory can be applied to understanding of consumer
-behaviour. (10)
-
-Q& By taking an example, explain the problem recognition stage in the consumer decision
-model, ie 0) .
-
-07 Explain the different types of consumer needs and motivation leading to consumer
-behaviour. (10)
-
-\
-
-Q®. What can a company do to design persuasive communication for the consumer ? (10)
-
-7
-mm
-
-)
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 7e4a14b5b4db
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/CONSUMER BEHEVIORES/Scan 003.pdf`
-- Printed on paper: duration hours: 2; exam date: 19/4/2013
-- Text: text (3 pages)
-
-````text
-\.
-SVKM's NMIMS
-Mukesh Patel School Of Technolorn Manamment
-Programme: MBA (Tech) -ALL STREAMS Year: V Trimester:
-Academic Year : 2012-2013
-I Subject:   CONSUMER BEHAVIOUR   Marks:
-Time:   10.30am To 12.30pm
-Date:   19/4/2013   Duration:   2   hrs.
-Final - Examination
-NOTE
-1) This paper consists of two sections A and B.
-2) Attempt any FOUR questions from Section-A and
-3) Section-B is compulsory.
-4) All questions carry equal marks.
-SECTION - 1
-Q. 1. What function do attitudes fulfill in consumer behavior? Briefly
-explain any one of the multiattribute models of attitudes and explain how
-you would use the understanding of this model in your marketing decisions
-Define consumer behavior and the decision process. Describe in brief the
-effect of internal determinants and external environment on the decision
-process.
-Q.2 What do you understand by Weber's law? How can you apply your
-knowledge of this law to suggest suitable pricing strategies for?
-(a) a pair of denim jeans ?
-(b) a tube of tooth-paste ?
-Q.3. How do marketers utilize the concept of stimulus generalization?
-Taking suitable examples, illustrate the possible applications of the
-concept? Differentiate between classical and operant conditioning?
-Q.4. You are the brand manager of a new line of weight auto focus
-economically priced digital camera. Describe how an understanding of
-the consumer behavior will help you in your segmentation strategy
-.What are the consumer behavior variables that are crucial to your
-understanding of this market?
-Q.5. Write short notes on anv three of the following:
-a) Theories of Personality
-b) Consumer Motivation
-c) Cognitive theory of learning
-d) Attitude change strategies
-e) Elaboration Likelihood Model
---- page 2 ---
-SECTION - B (Compulsory)
-6. Read the case given below and answer the questions given at the end of the case.
-Attracting the Youth Segment
-Campbell Soup Company introduced its line of Chunky
-soups in Asia in late 90's. The product was geared to young
-people who were found to avoid the standard clear soup lines
-and were looking for something that tasted more like a meal.
-This heartier version of the soup containing more vegetables
-or meat in a heavier broth had done very well over the years
-with teens, particularly the young males in US market where
-it was the leading ready to serve food in super market.
-However, youth in Asia has been found to turn very often
-from soups to other foods for lunch and snacks, because of a
-high degree of prevalence of street food both traditional and
-contemporary. Cultural variable like food preferences and
-taste are also creating barriers for thc product. In addition,
-with the faster penetration of microwave ovens and pizzas
-and popcorn cooked in them by college going youth as
-alternative snacks. In addition competitive ready-to-serve
-soups both from international and local market are gaining
-prominence, either on the plank of being an internationally
-known name or supplying local flavors to suit the Asian
-palate. Campbell has resolved to reach the youth and college
-market. It conducted specialized research on college canteens,
-resulting in several interesting findings. First, only about 113
-students use the college food facilities for lunch and only
-about one in four eat there for dinner. With 70% of the
-students having access to a heater or oven the potential exist
-for heating up soup. In addition this group likes soup and
-therefore is willing to consume chicken noodle soup or a
-variant of the corn soup rather than having heavy, full plate
-lunch. The trends of consumption are also changing. Six out
-of 10 college students in the metropolitan cities are more
-involved in buying prepared food than in the past. The
-students are usually short of time, especially during
-semesters. Thus, these patterns would indicate that heating up
-a   soup for a snack or a quick meal could be perceived as being
-fast and easy and would be an attractive food choice for these
-students
---- page 3 ---
-College youths are an attractive market segment for several
-reasons. First they are a sizeable population in a lot of the
-Asian countries especially in South Asian countries. Second
-compared to others in their age group students typically have
-a discretionary income. Third because this is the time that
-many individuals are for the first time trying independent
-living and making consumption decision by themselves,
-attracting them to Campbell brand could help to develop
-lifetime loyalty. Moreover, as university students, these
-consumers should become the leaders and innovators of
-tomorrow, enhancing the brands image in future.
-Campbell executives are also aware, however, that college
-students can be very difficult to reach and can be noticeable
-fickle in their brand choice behavior
-Questions:
-a) What in your view are the consumer behavior variables
-that the company should study before rolling out ts
-detailed marketing effort?
-b) Do you agree with the company's identification of the
-college going students as the most attractive segment? If
-the reference was specifically to the Indian market, which
-other segment would you suggest as being attractive for
-the company?
-c) Advise the company about appropriate promotional
-appeals to use for the product for the target segment of
-college student?
 ````

@@ -1137,214 +1137,7 @@ Page 3 of 3
 
 ````
 
-## 2022-23 · Final-Exam · paper 72ed33e606ee
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ELEMENTS OF AUTOMATION/Elements of Automation,Final,2022-23.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
-- Text: ocr (4 pages), mean OCR confidence 84.9
-
-````text
-_ SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23 Ne oe
-
-\ -? Programme: MBA Tech (All Stream) Year: IV Semester: VII
-| Subject: Elements of Automation
-“ Marks: 100
-Date: 01 December 2022 - Time: 2.00 pm - 5.00 pm |
-
-Durations: 3 (Hrs) ,
-
-No. of Pages: OY
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the questicn paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-2) Out of remaining questions, attempt any __4 __— questions.
-
-7) In all_5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1
-
-Answer briefly: [20]
-CO-3; a.
-SO-1; Levels of Automation [04]
-BL-1
-CO- 1; b. ;
-SO- 1: FRL unit Pneumatic System [04]
-BL-1
-CO- 3; G ;
-
-_LSO-1; Modular Mechatronics System. [04]
-BL-1
-CO-1; d.
-SO-1; Directional control valves with spool configurations. [04]
-BL-1
-CO- 3; e.
-SO- 1; Types of pneumatic compressors ; [04]
-BL-1
-A Summarize and state the following characteristics of sensor and
-
-Q2 transducers:
-
-i) Accuracy
-co-F sot ii) Repeatability [10]
-, iii) Speed of response
-BL- iv) Hy$Steresis
-
-v)__Calibration Error
-Q2 Enumerate a typical processing cycle of PLC.
-
-In a PLC total scan time is input response time + [10]
-CO-2; Program execution time + output response time.
-SO-1; Following is the timing diagram for PLC processing scan
---- page 2 ---
-BL-2
-
-cycle sequence. .
-' clas \
-
-por i i.e i sn ‘
-m1) jo Zi st
-OFF} H ro —! So
-jour mt pied m0 by i ee fouria! One ur}
-toy | ' ' ‘ i ' i
-1 ' to a ‘ ‘
-a H : H : :
-SCAN 4 | SCAN 2 | SCAN3 |
-1, 2 and 3 are inputs. Determine status of inputs ina PLC scan cycle.
-Q3
-co. Construct electrical relay ladder (only) logic diagram for signal storage 10]
-SO-1: using relays.
-BL-3
-a3 A thermocouple gives an output of 0.4mV/°C. What will be the
-cou: required number of bits when its output passes through an ADC if [10] OO
-SO-1: temperatures from 0 to 150°C are to be measured with a resolution of
-BL-3 0.5°C?
-a4 Show the symbol of the following components:
-aoa i) FRL unit ii) Pressure relief valve iii) Hydraulic pump iv) Compressor | [10]
-BL-3 v) 4/3 E spool double solenoid, spring return DCV
-Q4 Compare all the four drives available in the industrial automation
-CO-1: system. with respect to the following criterion 110}
-SO-1; Energy carrier, energy transfer, power density, efficiency and path
-alll accuracy
-Qs State the general state equation of gases. _|
-Sot State mathematically what is isochoric, isothermal and isobaric state [10]
-BL-2 of gases?
-Q5
-CO-2; Explain the term accuracy, repeatability and resolution as applied to [10]
-SO-1; Robotics. ;
-BL-6
-Q6 Answer the following questions:
-aoa 1) Choose the correct statement below about the ladder diagram | [10]
-BL-5 shown
-
-2)4
---- page 3 ---
-xt x : y1
-i wap 4
-
-‘At ‘OUT
-La
-
-a. Y1 switches on if X1 is off OR either X2 is on AND X3 is off
-b. Y1 switches on if X1 is on AND either X2 is off OR X3 is on
-c. Y1 switches on if X1 is on OR either X2 is off AND X3 is on
-d. Y1 switches on if X1 is off AND either X2 is on OR X3 is off
-
-2) Choose the incorrect statement below about the ladder diagram
-shown.
-
-iy if ‘i
-Li 4 -— OUT)
-Le
-
-v4 x4 Y2
-t {OUT)
-
-a. Y2 switches on if X1 is on AND X2 AND X4 are on.
-
-b. Y2 switches on if X1 is on AND X3 AND X4 are on
-
-c. Y2 switches on if X1 is off AND X2 AND X3 are off AND X4 is
-on.
-
-d. Y2 switches on if Y1 AND X4 are both on
-
-3) Choose the one correct statement below regarding the ladder
-diagram shown
-
-1 $2 alam
-mf 4h our
-alarm
-alzrm ligat
-ope : OUT)
-
-a. Closing switch S1 switches off the light
-b. When the alarm is on, so is the light.
-c. Closing S1 and S2 switches on the alarm.
-d. Closing switch S2 switches on the alarm
-4) Choose the one incorrect statement below regarding the ladder
-diagram shown.
-
-3/4
---- page 4 ---
-st sz ‘$3 : alam
-k rin AY oun)
-$1 ‘$2
-
-hey
-
-alarm
-
-a. When the alarm is switched on it keeps going until S3
-switches on.
-
-b. S1 and S2 form an exclusive or (XOR) function
-
-c. The alarm is switched on when S1 or S2 or S3 is on.
-
-d. The alarm is started when S1 or S2 is switched cn but not
-both together
-
-Given a square block with dimensions below:
-
-A= 1m?
-
-Q6 B A € oe
-CO-1; What is the gravitational pressure of liquid due to each of the [10]
-son , following:
-
-a) Two columns of 10 square blocks & another 20 square blocks.
-
-b) One column of 15 square blocks.
-
-c) Two columns of each 10 square blocks.
-Q7 .
-CO-2: A Explain On-delay and Off-delay timers with circuits in terms of 110]
-SO-1; potentiometer, capacitor and diode.
-BL-2
-Q7 B
-ee Explain Industry 4.0 concept and explain any one loT sensor [10]
-BL-4
-
-~ xX
-
-4/4
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 0ebcdcecd03d
+## 2022-23 · Exam not stated · Sem 8 · paper 0ebcdcecd03d
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1541,4 +1334,211 @@ Se pe Explain Industry 4.0 concept and explain any one loT sensor [10]
 BL-4
 
 —_
+````
+
+## 2022-23 · Final-Exam · paper 72ed33e606ee
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ELEMENTS OF AUTOMATION/Elements of Automation,Final,2022-23.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
+- Text: ocr (4 pages), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+_ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23 Ne oe
+
+\ -? Programme: MBA Tech (All Stream) Year: IV Semester: VII
+| Subject: Elements of Automation
+“ Marks: 100
+Date: 01 December 2022 - Time: 2.00 pm - 5.00 pm |
+
+Durations: 3 (Hrs) ,
+
+No. of Pages: OY
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the questicn paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+2) Out of remaining questions, attempt any __4 __— questions.
+
+7) In all_5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1
+
+Answer briefly: [20]
+CO-3; a.
+SO-1; Levels of Automation [04]
+BL-1
+CO- 1; b. ;
+SO- 1: FRL unit Pneumatic System [04]
+BL-1
+CO- 3; G ;
+
+_LSO-1; Modular Mechatronics System. [04]
+BL-1
+CO-1; d.
+SO-1; Directional control valves with spool configurations. [04]
+BL-1
+CO- 3; e.
+SO- 1; Types of pneumatic compressors ; [04]
+BL-1
+A Summarize and state the following characteristics of sensor and
+
+Q2 transducers:
+
+i) Accuracy
+co-F sot ii) Repeatability [10]
+, iii) Speed of response
+BL- iv) Hy$Steresis
+
+v)__Calibration Error
+Q2 Enumerate a typical processing cycle of PLC.
+
+In a PLC total scan time is input response time + [10]
+CO-2; Program execution time + output response time.
+SO-1; Following is the timing diagram for PLC processing scan
+--- page 2 ---
+BL-2
+
+cycle sequence. .
+' clas \
+
+por i i.e i sn ‘
+m1) jo Zi st
+OFF} H ro —! So
+toy | ' ' ‘ i ' i
+1 ' to a ‘ ‘
+a H : H : :
+SCAN 4 | SCAN 2 | SCAN3 |
+1, 2 and 3 are inputs. Determine status of inputs ina PLC scan cycle.
+Q3
+co. Construct electrical relay ladder (only) logic diagram for signal storage 10]
+SO-1: using relays.
+BL-3
+a3 A thermocouple gives an output of 0.4mV/°C. What will be the
+cou: required number of bits when its output passes through an ADC if [10] OO
+SO-1: temperatures from 0 to 150°C are to be measured with a resolution of
+BL-3 0.5°C?
+a4 Show the symbol of the following components:
+aoa i) FRL unit ii) Pressure relief valve iii) Hydraulic pump iv) Compressor | [10]
+BL-3 v) 4/3 E spool double solenoid, spring return DCV
+Q4 Compare all the four drives available in the industrial automation
+CO-1: system. with respect to the following criterion 110}
+SO-1; Energy carrier, energy transfer, power density, efficiency and path
+alll accuracy
+Qs State the general state equation of gases. _|
+Sot State mathematically what is isochoric, isothermal and isobaric state [10]
+BL-2 of gases?
+Q5
+CO-2; Explain the term accuracy, repeatability and resolution as applied to [10]
+SO-1; Robotics. ;
+BL-6
+Q6 Answer the following questions:
+aoa 1) Choose the correct statement below about the ladder diagram | [10]
+BL-5 shown
+
+2)4
+--- page 3 ---
+xt x : y1
+i wap 4
+
+‘At ‘OUT
+La
+
+a. Y1 switches on if X1 is off OR either X2 is on AND X3 is off
+b. Y1 switches on if X1 is on AND either X2 is off OR X3 is on
+c. Y1 switches on if X1 is on OR either X2 is off AND X3 is on
+d. Y1 switches on if X1 is off AND either X2 is on OR X3 is off
+
+2) Choose the incorrect statement below about the ladder diagram
+shown.
+
+iy if ‘i
+Li 4 -— OUT)
+Le
+
+v4 x4 Y2
+t {OUT)
+
+a. Y2 switches on if X1 is on AND X2 AND X4 are on.
+
+b. Y2 switches on if X1 is on AND X3 AND X4 are on
+
+c. Y2 switches on if X1 is off AND X2 AND X3 are off AND X4 is
+on.
+
+d. Y2 switches on if Y1 AND X4 are both on
+
+3) Choose the one correct statement below regarding the ladder
+diagram shown
+
+1 $2 alam
+mf 4h our
+alarm
+alzrm ligat
+ope : OUT)
+
+a. Closing switch S1 switches off the light
+b. When the alarm is on, so is the light.
+c. Closing S1 and S2 switches on the alarm.
+d. Closing switch S2 switches on the alarm
+4) Choose the one incorrect statement below regarding the ladder
+diagram shown.
+
+3/4
+--- page 4 ---
+st sz ‘$3 : alam
+k rin AY oun)
+$1 ‘$2
+
+hey
+
+alarm
+
+a. When the alarm is switched on it keeps going until S3
+switches on.
+
+b. S1 and S2 form an exclusive or (XOR) function
+
+c. The alarm is switched on when S1 or S2 or S3 is on.
+
+d. The alarm is started when S1 or S2 is switched cn but not
+both together
+
+Given a square block with dimensions below:
+
+A= 1m?
+
+Q6 B A € oe
+CO-1; What is the gravitational pressure of liquid due to each of the [10]
+son , following:
+
+a) Two columns of 10 square blocks & another 20 square blocks.
+
+b) One column of 15 square blocks.
+
+c) Two columns of each 10 square blocks.
+Q7 .
+CO-2: A Explain On-delay and Off-delay timers with circuits in terms of 110]
+SO-1; potentiometer, capacitor and diode.
+BL-2
+Q7 B
+ee Explain Industry 4.0 concept and explain any one loT sensor [10]
+BL-4
+
+~ xX
+
+4/4
 ````

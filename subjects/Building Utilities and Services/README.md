@@ -16,10 +16,10 @@ Also filed as: `BULDING UTILITES AND SERVIVES`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Building Utilities and Services(702CI0E001)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Building Utilities and Services(702CI0E001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | Building Utilities and Services, Sem-VII, Year 2025-2026 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Building Utilities and Services(702CI0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Building Utilities and Services(702CI0E001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Civil 7005 | ANS_Building Utilities and Services(702CI0E001)_2025-2026.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | Building Utilities and Services, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Final + Re-Exam, Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Building Utilities and Services, Sem-V, Batch 2022-23 Final Batc0001.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL, MBA TECH / CIVIL | Building Utilities and Services, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |

@@ -234,6 +234,134 @@ Differentiate between DSP Processor and General Purpose Processor. (3.5)
 Page 2 of 2
 ````
 
+## 2019-20 · Re-Exam · Sem 5 · paper 9642cd5d4640
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2019
+- Text: ocr (3 pages), mean OCR confidence 87.3
+
+````text
+MPSTME~
+
+LIBRARY
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+
+Academic Year: 2019-20
+Subject: Digital Signal Processing
+Marks: 60
+Date: 14 November 2019 Time: 10.00 am - 1.00 pm
+Durations: 3 (hrs)
+No. of Pages: 973
+Re-Examination (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. Attempt any FOUR from the followings. [04*03=12]
+1. Define mixed phase system. [03 Marks]
+2. Enlist 03 properties of DFT. . [03 Marks]
+3. Enlist the types of windowing techniques used in FIR filter. ' [03 Marks]
+4. Enlist 03 features of IIR filter. [03 Marks]
+5. Write a note on all pass filter. [03 Marks]
+6. What is the significance of quantization error in a signal . [03 Marks]
+OR
+6. Compare a digital signal processor with a general purpose processor. [03 Marks]
+
+Page 1 of 3
+--- page 2 ---
+Q2. Attempt the followings.
+
+1. Write a note on Comb filter. Also draw its magnitude response characteristic with M=10.
+
+[06 Marks]
+2. Determine the DFT of the sequence- [06 Marks]
+By
+sin {5 for-1<n<1
+0 otherwise
+Q3. Attempt from the followings.
+1. A low pass’filter has desired response as given below [04 Marks]
+
+ei3w 0<ws<=
+Ha(el) =
+ae 0 <<w <7
+
+Determine the filter coefficient h(n) for M=7, using type-1 frequency sampling technique.
+
+2. All pole analog filter have transfer function [04 Marks]
+
+1
+
+His) = (s2-45 St 6)
+
+Find H(z) by impulse invariant technique. Assume T=1sec.
+
+a
+
+3. Find 8-point DFT of the real sequence x(n) = (1,2,2,2,1,0,0,0) using decimation-in-frequency FFT
+algorithm. [04 Marks]
+
+Q4. Attempt the followings.
+
+|. A linear time invariant system is described by an input-output relation
+
+2y(n)- y(n-2)-4 y(n-3) = 3x(n-2)
+
+= Realize the system using direct form-II realization. [06 Marks]
+a 2. What do you mean by limit cycle oscillation? [03 Marks]
+3. Draw and explain the architecture of very long instruction word (VLIW) processor.
+[03 Marks]
+Page 2 of 3
+--- page 3 ---
+Q5. Attempt . : the followings.
+1. Perform circular convolution on two given sequences x{(n)={2,1,2,-1} x2(n)={1,2,3,4}
+t t [06 Marks]
+2. Design a linear phase FIR low pass filter of length 11 to meet the following characteristics-
+Cut off frequency = 100 Hz.
+Sampling frequency = 400 Hz. Use Hamming window. [06 Marks]
+
+Q6. Attempt the followings.
+1. Enlist 04 applications of DCT. [04 Marks]
+
+2. Realize the given system in cascade form [08 Marks]
+
+y(n) == y(n— 1) — 2 y(n— 2) +5 x(n 1) + x(n)
+
+Q7. Attempt the followings.
+1. Write a note on Notch Filter. [06 Marks]
+
+2. Design a digital Butterworth filter using the Bilinear transformation, satisfying the constraints-
+
+0.707 <1 HE”) |< 1-> for 0 <w et.
+
+: ‘i . 3
+| Hel”) | <0.2 for =’ <w<n.
+
+[06 Marks]
+
+with T=1 sec. Also realize the filter.
+
+Page 3 of 3
+````
+
 ## 2018-19 · Final + Re-Exam · Sem 5 · paper 9cbbbce9dd6a
 
 - Departments: Computer Engineering
@@ -1000,6 +1128,827 @@ b. State and prove the circular time shifting property of DFT. [7]
 Page | 2 2
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper 31552a2e2727
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 15-16 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+»
+
+\ SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B. Tech (EXTC) © Year: II Semester: V +
+
+Academic Year: 2018-2019 ~
+Subject: Digital Signal Processing / Marks: 60° ~
+Date 1 LO Teeny S0ne Time: 2.00 pm to 5.00 pm
+. Durations: 3 (hrs) +
+c y No. of Pages: 92—
+Re-examination (2015-16/ 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume _suitable data if necessary.
+
+Q.1 Attempt any THREE of the following (12)
+a Differentiate between FIR and IIR Filter. (04)
+b Why DFT is slow ? Explain. (04)
+c 1 (04)
+
+An antisymmetric filter has one zero at z= 3" What is the minimum order of
+
+this filter? Justify your answer.
+
+d Define Discrete cosine transform . Specify its any two application . (04)
+ata
+.2 08
+Q ‘ Design 5" order Linear Phase High Pass FIR filter with we = = using (08)
+ae hamming window function.
+b Compute circular convolution of x, [7]={3,2,1,2} and x,[n]={L2,1,2}. (04)
+Page 1 of 2
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Q.6
+
+Q7
+
+Given x[n]= {1, 2, 1, 2, 0, 2, 1,2}. Find X[k] by using DIT-FFT.
+Explain frequency warping in BLT.
+Let x[n] be four point sequence with X[k] = { 1, 2,3, 4 }. Find the DFT of the
+
+following sequences using X[k].
+(i) pinJ= x[-n] ii) qin] = x[-n+1] Git) r[n} = x[-n-1]
+
+Write a short note on MAC unit and pipelining in DSP Processor .
+
+A Digital ITR Low-Pass Filter required to meet the following specifications:
+Passband ripple :< 0.5dB Stopband attenuation: < 40 dB
+Passband edge : = 1.2 kHz Stopband edge : = 2.0 kHz
+Sample rate : = 8.0 kHz
+
+Determine the required filter order for
+
+(i) A Digital Butterworth Filter
+
+(ii) A Digital Chebyshev Filter
+
+Explain NOTCH filter in detail.
+
+One of the zeros of a third order causal linear phase High pass FIR filter lies at
+
+Z= 5 . Find the location of the other zeros and hence find the transfer function
+
+and impulse response of the filter.
+
+Discuss in detail about limit cycle oscillations in infinite impulse response
+digital filters with its types.
+
+Explain Energy Compaction property of DCT-2.
+Determine the Direct Form I and II for the second order filter given by
+
+y(n) = x(n) - 0.5x(n-1) + y(n-1) — 0.25 y(n-2).
+
+Page 2 of 2
+
+(08)
+(04)
+
+(06)
+
+(06)
+(08)
+
+(04)
+(06)
+
+(06)
+
+(04)
+(08)
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 29da0651635b
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: exam date: 24 November 2018
+- Text: ocr (2 pages), mean OCR confidence 87.6
+
+````text
+ro)
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+‘ Programme: B. Tech (EXTC) « Year: III « Semester: Vz
+
+Academic Year: 2018-2019,
+Subject: Digital Signal Processing
+
+Date: 24 November 2018 ~ Time: 1
+
+¢
+Re-examination (2015-16/ 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+Q1. Attempt any three questions from the followings
+a. Compare Low pass filter, High pass filter, also explain effect of limit cycle oscillation in an
+
+IR digital filter. [4]
+b. Enlist two properties of discrete Fourier transform (DFT)? Also compare DSP processor with
+
+general purpose processor. {4]
+.c. Enlist four properties of Direct form-I of a 2" order digital filter and four properties of
+
+direct form-II of a 2"4 order digital filter. [4]
+
+d. Only draw the frequency response of Rectangular, Hamming, Hanning and Blackman windows.
+Also only draw the frequency response of Low pass filter, High pass filter, Band pass filter and
+
+Band reject filter. [4]
+Q2. Attempt the followings.
+a. An FIR digital filter has the unit impulse response sequence [8]
+— h(n)={2,2,1}. Determine the output sequence in response to the input sequence
+x(n)={3,0,-2,0,2,1,0,-2,-1,0} using the overlap add convolution method.
+ate b. Mention in brief about a DSP processor with respect to architecture, MAC unit and
+pipelining. [4]
+Page 1 of 2
+--- page 2 ---
+Q3. Attempt the followings.
+a. Write the equations for Linearity property, Anti-periodic property, and symmetry
+
+property of discrete cosine transform. [6]
+b. Obtain direct form and cascade form realisation for the transfer function of an FIR system given by
+1 3 1 1
+= aw g-t 4 5-2)74 ~ 7-1 7-2
+H(z) =(1 42 +32 1 32 32 )
+Q4. Attempt the followings.
+a. Compute the DFT of below sequence using DIF-FFT method [6]
+x(n)= {1,2,4,8,16,32,64, 128}
+b. Design a linear phase FIR band stop filter to reject frequencies in the range 0.4p to [6]
+
+0.65p rad/sample, using rectangular window, by taking 7 samples of window sequence.
+
+Q5. Attempt the followings.
+a. For the analog transfer function [6]
+1
+H(s) = —————_
+= GEDErD
+Determine H(z) using impulse invariant technique. Assume T=1s
+
+b. Develop the cascade realization structure for the below expression [6]
+z, § 5-1, 1,-2
+=t—4+—-Z ~+--Z
+= 2
+H@= 6 24 24 24
+
+1. a.
+—o77-14=7-2
+1 32 +72
+Q6. Attempt the followings.
+
+a. Write a note on all pass system: (7]
+b. What do you mean by a mixed phase system. [2]
+c. Deduce an expression for quantization of IIR filter coefficients. B]
+
+Q7. Attempt the followings.
+a. Determine the zeros for the following FIR systems and indicate whether the system is minimum
+phase, maximum phase or mixed phase. [6]
+Hi(z)= 6+z71 — 27?
+
+H2)= 1- 271 -6 z~?
+
+_,.5,-1_3,-2
+H3(Z)= 1-5 Z 27
+H4z)= 1+2z71 —= 77-7
+3 3
+b. Draw and explain a digital signal processor of Harvard architecture type. [6]
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 3cbaa1cd1057
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing Re-exam 2016-17.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 January 2019
+- Text: ocr (2 pages), mean OCR confidence 87.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Computer) Year: III. Semester: V
+i Academic Year: 2018-2019
+“Subject: Digital Signal Processing Marks: 60
+
+Time: 2.00 pm to 5.00 pm
+Date: 19 January 2019 ~
+Durations: 3 (hrs)
+No. of Pages:_ a
+Re-examination (2016-17) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _t is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+A Write about following properties of Unit Impulse signal 4
+i. x[n]6[n — k] = x[k]6[n — k]
+, ii. Sum property Yi» S[n] =1
+B Determine the given signal is periodic or non-periodic. If Periodic compute 4
+its fundamental period
+
+In] - (eo)
+x[n] = sin Ti
+Cc What is Twiddle factor? What is its magnitude and angle? ~ 4
+
+Explain below properties of Twiddle Factor
+1. Symmetry Property
+2. Periodicity property
+
+Q2 Differentiate between
+
+A Even Signal and Odd Signal 3
+B Linear Convolution and Circular Convolution 3
+G Energy Signal and Power Signal 3
+D Analog Signal Processing and Digital Signal Processing 3
+Q3
+
+A Define sampling theorem. 4
+
+What happens when sampling theorem is not followed?
+Specify the sampling rate for the following signals.
+x(t) = sin(200zt)
+
+1/2
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+‘A
+
+Q7
+
+Prove
+x,[n] = X,(z), with ROC = R,;
+x2[n] = X2(z), with ROC = Rz
+x4[n] * x2[n] = X,(z)X2(z) with ROC R,N Rz
+Use above proof to find x, [n] * x2[n]?
+1 10<n<5
+Where x,[n] = {p21} and x2[n] = {5 elsewhere
+
+A causal discrete time LTI system is described by
+
+Where x[n] and y[n] are the input and the output of the system,
+respectively
+a. Determine the System Function H(z) for causal system functions.
+b. Find the impulse response h[n] of the system.
+c. Find the step response of the system.
+d. Realize direct form Structure for the H(z).
+
+Let x[n] = {0,1,2,3}. Compute its 4 Point DFT X(k),0 <k <3
+Let X(k) = {1,01,0}. Compute its 4 Point IDFT x[n],0 <n <3
+
+Perform the 4 Point circular convolution of the following two sequences
+using matrix method
+x,[n] = {1,2,2}
+x2[n] = {1,2,3,4}
+Compute 4 Point DFT X(k) using DIT-FFT algorithm of a length 4 sequence
+x[n], 0 <n S< 3. Draw the Butterfly diagram
+
+Design first order digital LPF with 3dB Cut Off frequency of w, = 0.257 by
+applying bilinear transformation to the analog butterworth filter
+
+1
+H(s) =>——
+Ss
+(1 + ~)
+Where ), is 3 dB cut off frequency of the analog filter.
+Determine frequency response of causal rectangular window which is given
+
+as
+_fl OsnsM-1
+inl) = io otherwise
+
+2/2
+
+12
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 510c1d5693ea
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Computer) Year: III * . Semester: V
+Academic Year: 2018-2019
+
+| Subject: Digital Signal Processing . Marks: 70
+
+Time: 2.00 pm to 5.00 pm ~
+Date: 19 January 2019 :
+Durations: 3 (hrs)
+
+No. of Pages: Z
+Re-examination (2017-18 / 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1)
+
+‘
+
+a) Find whether signal is energy or power signal. x(n) = (1/2)". ;n>0
+= 3" ;n<0 (4)
+
+b) Determine whether the system : y(n) = logio. x(n) is
+
+a) static or dynamic
+
+b) causal or non causal
+
+c) Linear or non linear
+
+d) time variant or time invariant (4)
+
+c) State the properties of ROC and explain its significance (3)
+d) Perform circular convolution using matrix method on the following sequences.
+x(n) ={1, 0.5, 1, 0.5, 1, 0.5, 1, 0.5}
+x(n) = { 0,1,2,3} (3)
+Q.2
+a) Obtain the inverse Z- Transform of the function
+
+X(Z)= _ 2 ; ROC: |z| >[a|
+(1-az7) (7)
+
+>
+--- page 2 ---
+b) Determine the impulse response and frequency response of the system described by the difference equation.
+
+yln] - (2) yn - 1] -Zyln - 2] = xin - 1] 7)
+
+Q3
+a) Calculate 8 pt DFT of x(n)= {1,2,1,2}. . (7)
+
+b) Compute the DFT of
+
+-0.5n
+
+x{n] =e ;Osns5 (7)
+
+Q.4
+
+a) Using bilinear transformation design a first order butterworth LPF with a 3dB cut off
+frequency of 0.2 rt. (7)
+
+b) Obtain the DF-I and parallel form of realization for the system.
+
+y(n) = —0.1y(n — 1) + 0.2 y(n — 2) + 3x(m) + 3.6x(n — 1) + 0.6x(n — 2) (7)
+Qs
+a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm. (7)
+b) Compare between Bilinear Transformation and Impulse invariance method. (7)
+Q.6
+
+a) Determine the Lattice form for an FIR filter which is given by difference equation.
+yn) = x(n) + Sx(n — 1) +3x(n— 2) +2x(n— 3). (7)
+b) Obtain DFT of a sequence x (n) = {2,2,2,2,1,1,1,1} using Decimation in Time FFT algorithm. (7)
+Q7
+a) The specification of the desired low pass filter is.
+
+0.8<|H((@)|<1.0 ;0<@<022
+IH((@)|<02 ;0.32<a<n
+
+Design the butterworth filter using impulse invariant transformation . (7)
+b) Write short note on i) quantization error in DFT. (3)
+ii) FIR filter design. (4)
+
+*
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper c9bb381081ab
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 2016-17.pdf`
+- Printed on paper: duration hours: 3; exam date: 22 November 2018
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
+
+Programme: MBA Tech (EXTC) Year: III Semester: V
+Academic Year: 2018-2019
+Subject: Digital Signal Processing
+
+Date: 22 November 2018
+
+Durations: 3 (hrs)
+No. of Pages: S2—
+
+Re Exam (2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Attempt any four of the following
+
+a. | Write a short note on comb filter. [3]
+
+b. | State & prove Time reversal property of DFT. [3]
+
+c. | Compare rectangular and hamming window. [3]
+
+Qi. d. | For the analog transfer function, H(s)= 2 / (s*+3s+2), determine H(z) using bilinear [3]
+transformation if T= 0.1 second
+
+e. | Compare DSP processor and general purpose processor. [3]
+
+f. | What is Digital Filter? Compare ITR and FIR filter. [3]
+
+g. | Write note on limit-cycle oscillations. [3]
+
+a. | Determine the response of the LTI system whose input x(n) and impulse response h(n) are | [6]
+Q2 given by x(n)={1,2,3,4} and h(n)={4,3,2,1}
+ial .
+
+b. | Write a short note on: (1) Digital resonator (2) Notch filter. [6]
+
+< a. | Determine the zeros for following FIR systems and indicate whether the system is [3]
+
+minimum phase, maximum phase or mixed phase.
+
+3
+Hi(z)=6+2z'!-z?, Ho(z)=1-z'!-6z?, Hy@2)=1-3 gi. 5 z?
+
+\[Bage
+--- page 2 ---
+Q3. An 8-point sequence is given by x(n)={2,1,2,1,1,2,1,2}.Compute 8-point DFT of x(n) by [7]
+Radix-2 DIT-FFT algorithm.
+What are applications of Discrete Cosine Transform? [2]
+Perform the Linear Convolution of the following sequence by overlap add method: | [7]
+x(n)={1,2,3,-1,-2,-3,4,5,6} and h(n)={2,1,-1}
+Q4. Compute circular convolution of the following two sequences using DFT. x(n)={1,2} and | [5]
+h(n)={2,1}.
+Design a linear phase FIR low pass filter using rectangular window with cutoff frequency | [6]
+@ -=0.2 x rad/sample and N=7.
+Qs Design a Butterworth digital IIR low pass filter using impulse invariant transformation by | [6]
+. taking sampling time T=1 second to satisfy the following specifications:
+0.707 < | H(e/”) | < 1.0 sfor 0<w <0.3x
+| H(eJ”) | < 0.2 sfor 0.75n<w <n
+Obtain Direct Form-II and Cascade structure realizations of the IIR System governed by [6]
+the equation, y(n) - ; y(n-1) - = y(n-2) = x(n).
+Q6. Realize the following FIR system with minimum number of multipliers. [6]
+1 3 1 1
+H(z)= es zi+—7%+-734+—274
+4 2 4 7 4
+Explain effect of Quantization in ITR and FIR systems. [6]
+Q7. Write a short note on VLIW architecture. [6]
+
+2|base
+
+aon
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper bacbb35c2a62
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 2016-170001.pdf`
+- Printed on paper: max marks: 60; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (EXTC) Year: Ill Semester : V
+] Academic Year: 2018-2019
+
+| Subject: Digital Signal Processing -- Marks: 60 -
+
+Time: 2.00 pm to 5.00 pm
+
+2019
+Date : 17 January Durations: 3 (hrs)
+
+No. of Pages: 2
+Re-examination (2016-17) -
+
+[nshenstinnns Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1. Do as directed. [12]
+a) Explain linear phase filters.
+b) Identify the type of Filter whose transfer finetion? is-
+
+H(z) =
+c) Discuss analog Butterworth filter and its properties.
+d) Find Inverse Fourier transform of sequence {10 -2+2j -2 -2+2j}.
+
+Q.2.
+
+a) Obtain the direct form —II implementation of LTI system with the following transfer function
+
+ry
+
+with required equations . [06]
+
+b) Explain Minimum phase, Maximum phase or mixed phase filters with example. [06]
+
+ifo
+--- page 2 ---
+Q3,
+
+a). Find DFT of the sequence using DIT-FFT - [06]
+xfn={1 2 3 4 1 2 3 4}; ;
+b). State and explain different properties of DFT with examples. [06]
+
+Q.4:a) Define Energy compaction in DCT. Hence, obtain DCT of the sequence, x[n]-{1, 2,1, 2}.
+[06]
+b) Compute the linear convolution using overlap save method of the following sequences.
+
+x[n]= [1, 2, -1, 2, 3, -2, -3,-1, 1, 1, 2,-1] and h[n]=[1, 2, 3]. [06]
+
+Q.5:.a) Design 6 order HPF with cutoff frequency @.=0.52x using frequency sampling method. [06]
+b) Design an IIR digital High pass filter using bilinear transformation that is maximally flat
+in the passband to meet following specifications: (T= 1 sec) [06]
+Pass Band Cut-off 0.20
+Pass Band Attenuation: 1.93 dB
+Stop Band Cut-off : 0.67
+Stop Band Attenuation : 13.97 dB
+
+Q.6: a) Derive the relation between analog and digital filter frequency when (i) Impulse Invariant
+
+Method and (ii) BLT method is used for filter design. [06]
+b) Explain different types of windows used in designing FIR filters. Compare frequency domain
+characteristics of windows functions. [06]
+Q.7: Write a: short notes on [12]
+a) Digital Resonator and Notch filter. ‘
+
+b) Position of definite zeros in Symmetric FIR filters.
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 8ca82a5d63b7
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
+- Text: ocr (2 pages), mean OCR confidence 86.9
+
+````text
+4
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (IT) Year: III Semester : V
+Academic Year: 2018-2019
+
+Subject: Digital Signal Processing — Marks: 70,
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 17 January 2019 .
+Durations: 3 (hrs)
+
+No. of Pages:_ OZ
+Re-examination (2017-18 / 2018-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and.on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+Ql. a. Test the stability of the LTI system, whose impulse response is given by
+h(n) = 0.2"u(n)
+b. What are the different types of filters based on impulse response?
+c. How many complex multiplications and additions are required for computing 64-point
+DFT using FFT algorithms?
+d. What is meant by impulse invariant method of designing HR filter?
+e. Explain Cross correlation and autocorrelation with proper expressions.
+f. Determine the transfer function of the LT] system defined by the equation:
+y(n) — 0.5y(n — 1) = x(n) + 0.4x(n — 1)
+g. Explain Symmetric and Antisymmetric signals. Determine whether the given signal is
+Symmetric or Antisymmetric.
+=)
+
+x(n) = sin (=
+
+Q2. a. Determine the response y(n), for n>=0 of the system described by the second order
+difference equation:
+y(n) — 4y(n—1) + 4y(n—- 2) = x(n) — x(n—-1)
+when the input is x(n) = (—1)"u(n) and the initial condition are y(—1) = y(—2) = 1.
+b. Consider a signal x (n) given by
+
+x(n) = (4) win) +(—4) wen,
+
+Determine X(z) and ROC.
+
+Page | 1
+faye
+
+[2]
+
+2]
+[2]
+
+[2]
+[2]
+[2]
+
+[2]
+
+[7]
+
+[7]
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7.
+
+In an LTI system the input x(n) = {1, 1, 1} and the impluse response h(n) = { —1,—-1}.
+Determine the response of LTI system by radix-2 DIT FFT.
+Determine the causal signal x (n) if its z-transforms X (z) is given by
+
+24+z
+(z-D@-3)
+Find the IDFT of X(k) = {0, 2+2j,-j4, 2—2j, 0, 24+2j, j4, 2—2j} using
+inverse Radix — 2 DIT — FFT Algorithm.
+
+X(a=
+
+For the given sequences x(n) = cos (=) and h(n) = 2". Compute the 4-point circular
+convolution using tabular method.
+Transform the analog filter transfer function H(s) into a digital filter Transfer function
+using impudse invariance technique. (Take T=1 sec)
+
+sta
+(s + a)? + b?
+Compute the DFT of the sample data sequence x(n) = { 1,1,2,2,3,3 } for N=5.
+
+H(s) =
+
+Design a FIR filter (low pass) with a desired frequency response
+
+‘ 3m 31
+
+H = ef3w. -—<w<—
+
+(w) =e ; ZPevsT
+ae 3m <
+
+=0; 7swst
+
+Use Hamming window with M = 7, also obtain the frequency response.
+
+Obtain a DF - I] and cascade realization for the system function:
+
+, 1+2z7
+OC Fa)
+
+Design a Butterworth filter using the Bilinear transformation for the following:
+
+0.707 < |H(e™”)| <1; O<swst
+|H(e”)| < 0.2; Swen
+
+(Take T = 1 sec)
+
+State properties of Z-transform with proper expressions.
+
+Page | 2
+
+[7]
+
+[7]
+
+[7]
+
+[7]
+
+[7]
+
+[7]
+[7]
+
+[7]
+
+[8]
+
+[6]
+````
+
 ## 2017-18 · Exam not stated · Sem 5 · paper d4b93cf11a60
 
 - Departments: Information Technology
@@ -1336,6 +2285,181 @@ b Explain the significance of Window technique. 7
 c Explain Linear Phase FIR filters. 7
 ````
 
+## 2017-18 · Final-Exam · Sem 5 · paper 3486be72bbab
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SYSTEM DESIGN (EXTC), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; exam date: 01 December 2017
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+
+va MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: B. Tech (EXTC) Year: III Semester: V \
+a - ‘
+
+Academic Year: 2017-2018
+
+Subject: Digital System Design { f i? sie Ge
+Marks: 70 - (i$ uU{BPRARYW Sf
+Date: 01 December 2017 Time: 2.00 pm ig°§.00 pm »
+Durations: 3 (Rr8)* o> a,
+No. of Pages: held aurea
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 __ questions.
+
+3) In all ___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+a
+
+Ql. Attempt the following questions:-
+
+a) | Explain Design flow of VHDL for designing of digital circuit. [4]
+
+b)| Define state diagram and state graph. [4]
+
+c) | Explain BIST. [4]
+
+d)| Write difference between signal and variable data objects. (2]
+
+Q2 Explain all different delay models of VHDL with example. [6]
+a)
+
+b) | Explain dataflow VHDL modelling style with coding of Full adder circuit. [8]
+
+Q3 a)| Write VHDL code for 4x1 multiplexer using behavioral modelling with If then else statement. | [8]
+
+> b)| Write VHDL code for 4 bit SISO (serial in serial out) shift register using structural modelling. | [6]
+aad Q4 a) | Design the sequential logic circuit for a single input single output system from the state [10]
+, diagram using D Flip flop. Analyze through state table and excitation table.
+--- page 2 ---
+b)| Explain following data types with example [4]
+
+i) Enumeration
+
+ii) Physical
+Q5 a) | Draw the state diagram for Mealy machine 110 sequence detector also describe the same [8]
+using VHDL code with behavioral modelling (use active low reset signal).
+b)| Write VHDL code for 1 bit magnitude comparator using behavioral modelling. [6]
+
+Q6 a) | By analyzing the sequential circuit obtain the equation for input and determine the state table | [6]
+and state diagram.
+
+b)| Explain the design flow of digital logic with FPGA (field programmable gate array). [8]
+Q7 a) | Write short note on Boundary scan standards. [7]
+b) | Write short note on CPLD architecture. [7]
+
+2h
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper a6aa77a9c4d5
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 30 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) ~ Year: IV» Semester: VII ~
+
+Academic Year: 2017-2018
+
+Subject: Digital Signal Processing »
+: ° Marks: 60 ~
+
+Date: 30 November 2017 Time: 10.00 am
+Durations: 3 (
+
+No. of Pages:
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q 1: Attempt the following questions (12)
+
+a) Compare time variant and time invariant system.
+
+b) Which is more sensitive network to finite word length?
+
+(i) Direct form-ll
+
+(ii) Cascade form
+
+Justify your answer.
+
+c) What is frequency warping in Bilinear transformation?
+
+d) Explain the symmetry properties of DFTs which provide basis for fast algorithms.
+
+Q 2: a) Indicate the number of stages, the number of complex multiplications at each stage, and the total
+
+number of multiplications required to compute 64-point FFT using radix-2 algorithm. (06)
+b) Perform circular, convolution of two sequences (06)
+x,(n) = {0.2,0.4,0.6,0,8,1,1.2,1.4} X2(n) = {0.1,0.3,0.5,0.7,0.9,1.1,1,3,1}
+cece
+a Q 3: a) Compare DCT and DFT. Hence Test the energy compaction property of DCT. (06)
+b) What are the finite word length effects or error in filters and rounding effect? (06)
+
+1/2
+--- page 2 ---
+Q4:- a) Derive Cooley- Tulkey’s Algorithm for DIF- FFT flow graph for N=4. (06)
+b) Enlist the different cases for the position of definite Zeros of a linear phase FIR filter. (06)
+
+Q5 a) Realize the following Transfer function using Cascade Realization & Parallel Realization
+
+~z7!y3 06
+H(z)= ne z_) (06)
+(= 52-327)
+b) Find digital filter H(z) by impulse - invariance method _ (06)
+H,(s)= 0.5(s +4)
+(s+)(s +2)
+Q6: a) Describe Finite Impulse response (FIR) filters design. Enlist the methods used for calculating FIR
+filter coefficients, also discuss the algorithm of FIR filter design using Window method. (06)
+
+b) Design a 24" orders low pass filter with its cutoff frequency is 0.27 rad/sec using rectangular
+window function.
+(06)
+Q7:- Write a note on: (12)
+
+~ a) Comparison of Butterworth, Chebyshev I &II filter design
+b) VLIW architecture
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 19f347592642
 
 - Departments: Computer Engineering
@@ -1489,6 +2613,117 @@ a)   Energy and power signals   7
 b)   Scaling and folding operation on discrete time signals   7
 c)   Relation between DFT and Z transform   7
 /
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 3c3c3fafb3fc
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (COMPUTER), BATCH 15-16, 16-17 RE EXAM(1) (1).pdf` (+4 identical copies)
+- Printed on paper: exam date: 22 November 2017
+- Text: ocr (2 pages), mean OCR confidence 86.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: III Semester: V
+
+Batch: 2015-16/ 2016-17
+Academic Year: 2017-2018
+
+Subject: Digital Signal Processing
+
+Date: 22 November 2017 Time: 2.0Q:5m, to 5.00 pin®
+Durations g\(hi rs) rr
+
+No. of ees gk -
+
+Re-Examination
+
+‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 a) Consider the analog signal x,(¢) = 3cos(100z7). (3)
+
+(i) Determine the minimum sampling rate required to avoid aliasing.
+(it) Suppose that the signal is sampled at the rate F; = 200 Hz. What is the discrete-time
+signal obtained after sampling?
+
+3,k=0 (3)
+L1<k<9
+
+(Y4f nee °
+Vex
+
+Determine the Z-transform of signal x2(”) = x1(-7) and state its ROC.
+
+b) Find 10-point inverse DFT of X(k) -|
+
+c) Consider the signal x, (7) =
+
+d) Discuss the concept of frequency warping in bilinear transformation. (3)
+— Q.2 a) Determine the convolution y(7) of the signals x(”) = (1/3) [7u(n) — nu(n-7)] and (6)
+. h(n) = u(n+2) — u(n-3), where u(n) is the unit step function.
+b) Prove the convolution property of Z-transform using only its definition. (3)
+a c) State following properties of DFT: (3)
+(i) Time reversal of sequence
+(ii) Circular time shift of sequence
+
+(iii) Circular frequency shift
+
+if
+--- page 2 ---
+4
+
+3 a) Three systems with impulse responses /y() = 6(n) — d(m-1), fo(n) = h(n), and h3(n) = (4)
+
+u(n) are connected in cascade. What is the impulse response (1) of the overall system?
+
+b) An IIR digital lowpass filter is required to meet following specifications: Passband ripple <= 0.5 (8)
+dB, Passband edge = 1.2 kHz, Stopband attenuation >= 40 dB, Stopband edge = 2 kHz, Sample
+rate = 8 kHz. Determine the required filter order for (i) a digital Butterworth filter and (ii) a
+digital Chebyshev filter.
+
+Q.4 * a) Obtain direct form I, direct form II, cascade and parallel structures for the following system: (8)
+Vn) = 0.5y(n-1) + 0.25y(n-2) + x(n) + x(n-1).
+b) A sequence x(n) = {a, b, c, d} has DFT X[k] = {1, 2, 3, 4}. Find x() using 4 point DIF-IFFT. (4)
+
+Q.5 a) Use the window design method to design a linear phase FIR filter of order N = 24 to approximate (6)
+the following ideal frequency response magnitude:
+
+Hie adh o| < 0.2%
+| ale |= 0, 0.22 <|o| <x
+
+b) Compute the 8-point DFT of the sequence x (1) = {0.5, 0.5, 0.5, 0.5, 0, 0, 0, 0} using radix-2 DIT (6)
+FFT algorithm.
+
+Q.6 a) Compute the convolution y (7) of x1(7) = {1, -2, 1} and xo(m) = {1, 1, 1, 1, 1, 1} using Z-transform. (6)
+Pp
+b) Prove the following properties of twiddle factor (6)
+(i) Wn k+N — Wn k
+(ii) Wn KtN2 =_Wn k
+(iii) = Wn = Wr *
+
+Q.7 a) An analog signal xa(t) = sin(480zr) + 3sin(720zt) is sampled 600 times per second. What are the (2)
+frequencies, in radians, in the resulting discrete-time signal x(”)?
+
+b) Determine the auto-correlation sequence of the signal x(n) = {1, 1, 2, 1}. (4)
+c) Explain DFT as a linear transformation matrix and show that Wy is an orthogonal matrix. (6)
+sat
+2
+1
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper f7cd7e291498
@@ -1696,6 +2931,102 @@ samples/ sec.
 Ee
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 7a0516576d41
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL_SIGNAL_PROCESSING_(COMPUTER)__BATCH_14-15_RE_EXAM_.pdf`
+- Printed on paper: max marks: 60; exam date: 22 November 2017
+- Text: ocr (2 pages), mean OCR confidence 85.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMPUTER) Year: III Semester: V
+Batch: 2014-15 ii
+yo Academic Year: 2017-2018 eg tTE 2? .
+ar ae aN ae *
+| Subject: Digital Signal Processing : ey . SS
+> an
+
+Marks: 60 34... .
+Time: 2. 0 Ba to 0
+Durationsy3"(a —)
+No. of Pages: e re yo
+So
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+. cover of the Answer Book, which is provided for their use. .
+
+Date: 22 November 2017
+
+Re-Examination
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. a. Find the periodicity of the DT signal x[n] = sin (= n) + cos) [2]
+b. Given x[n] = {1,2,3, —4,6} Plot the signal x[—n — 1]. [2]
+c. A continuous time signal is x(t) = 8 cos 200zt. Determine the minimum sampling rate. [2]
+
+And also find the discrete time signal obtained if sampling frequency is 400 Hz.
+
+d. Determine the power of the signal x[n] = u[n]; n > 0 [2]
+e. Compare FIR and IIR filters in brief. [2]
+f. Explain radix-2 FFT with butterfly flow-graph. [2]
+
+n
+Q2. 4 Find the convolution of the following signals: x(n) = (-) u(n) and h(n) = 3"u(n) [6]
+b. Consider the following Difference equation [6]
+3 1
+y(n) — gyn — 1) + gy(n — 2) = 2x(n— 1)
+Determine y(n) when x(n) = 6(n) and y(-1) = y(-2) =0.
+Q3. a. Explain the classification of Discrete Time Systems. [6]
+
+b. Find the transfer function and impulse response of the system (using z-transform) given by [6]
+
+x[n] =u[n}] and y[n] = 2"u[n]
+--- page 2 ---
+Q4. a. Find the z-transform and Sketch the ROC of the following signal [6]
+
+1)” 1\"
+x(n) = (- 5) u(n) + 3 (2) u(n)
+b. Using the Decimation in Frequency (DIF) FFT flow graph compute DFT of [6]
+_ x[n] = {1, 0.707, 0, - 0.707, - 1,- 0.707, 0, 0.707 }
+Q5. a. State and prove the following properties: [6]
+1. Periodicity property of DFT.
+2. Convolution theorem of z-transform.
+b. Find the Discrete Fourier transform (DFT) of the following sequences: [6]
+"1. x(n) = a", 0< a< 1. Find N point DFT.
+
+2. x(n) = cos (=). Find 4-point DFT.
+Q6. a. Find the circular convolution of the sequences using DFT and IDFT method. [6]
+x(n) = {1,0.5,0} and f(n) = {0.5,1,0}
+b. Find the Direct form —I and Direct form —II for the system described by the difference [6]
+equation,
+y(n) = x(n) + 0.3x(n- 1) - 0.4x(n - 2) - 0.8y(n- 1) + 0.7y(n - 2).
+Q7 a. ~-Ananalog filter has a transfer function : [6]
+H(s) = 10
+
+s*+ 75+ 10
+
+Design a digital filter equivalent to this using impulse invariant method for T=0.2.
+b. Design a linear phase FIR high pass filter using hamming window, with a cutoff frequency, [6]
+
+We = 0.82 rad/sample and N=7 samples.
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 528ed2ea38f9
 
 - Departments: Electrical
@@ -1826,6 +3157,230 @@ Q7 Write short notes on any two (14)
 : oe.
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 0a6df09fcb02
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (EXTC), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 29 November 2017
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+
+Batch: 2014-15
+] Academic Year: 2017-2018
+
+6
+
+Subject: Digital Signal Processing
+
+Marks: 60 ; st =~ ~~
+Date: 29 November 2017 Time: 2.00 pm»to-5.00 pm - a
+
+Durations: 3 fhts), » )¢ a3 }e
+
+No. of Pages Qecnanv Ps
+Re-Examination Qa <a y
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+NB:
+
+1. Question no. | is compulsory.
+
+2. Out of remaining questions attempt any four questions.
+
+3. Inall attempt five questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to the new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q. 1. (a) An LTI is described by the following transfer function, (<b>)
+H(z) =(1- Iz") (1- 0.52") (1- 22") ;
+Draw its poles and zeroes. Determine the difference equation.
+(b) Transfer function of a discrete time filter is given by
+H(z) = (1+ 0.52) (1+ 0.82")
+Realize it using Direct Form I structure.
+(c) Compute DFT of a sequence x(n) using FFT algorithm where x(n) = {1, 3, 1, 2}
+(d) Compare FIR and IIR digital filters.
+(e) Impulse response of the filters are shown below. Determine whether each of the following filters
+is linear phase filter or not.
+(i) h(n) = {2, 1, 3, 1, 2}
+(ii) h(n) = {-1, -3, -3, -1}
+
+Q2. (a) State whether each of the following filters is I[R/ FIR, and stable/ unstable. Filter are described as
+follows. (6)
+(i) y(n) = y(n-1) + x(n) — x(n-1)
+(ii) y(n) = -3x(n) - x(n-1) — 2x(n-2)
+
+ital
+
+(iii) y(n) — y(n-2) = 2x(n) — 4x(n-1) — 6x(n-2)
+gris (b) Impulse response of an IIR filter is given by H(z) = (1 - 0.5z') (1+ 0.2z"'). Sketch magnitude and
+7 phase response of the filter (6)
+
+Vo
+--- page 2 ---
+Q3. (a) Describe the overlap and save method of long data filtering. (6)
+
+(b) List and explain two properties of DFT. (6)
+Q4. (a) Draw butterfly diagram for a 4-point DIT-DFT. How many computations are required for 4-point
+and 8-point DFT? (6)
+
+(b) Compute DFT of the following sequence (6)
+
+x(n) = {1, -2, 2, 3, 2, 0, 0, -1}
+QS. (a) A Discrete Time system has the following transfer function. (6)
+H(z) = (1-5z! +6z7)/ (1-1.52z' + 0.5 z?)
+Draw a structure for the system using Direct Form II and cascade.
+
+(b) Design a high pass FIR filter with 5 coefficients for the cutoff frequency of 0.4 rad/sec. Use
+Hamming window. (6)
+
+Q6. (a) Describe widowing method for the design of FIR filters. Explain various types of windows. (6)
+
+b) Design a 3" order low pass Butterworth filter with cutoff fre uency of 40 rad/sec. 6
+g q
+
+Q7. (a) Determine circular convolution between the following sequences. (6)
+x(n) = {2, 1,3, 2} and y(n) = {-2, -1, 4, 5}
+
+(b) Write a short note on any one of the following. (6)
+(i) DSP processor
+(ii) Bilinear transformation
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 97eaf2a00e81
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (EXTC), BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 29 November 2017
+- Text: ocr (2 pages), mean OCR confidence 86.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: III Semester: V
+
+, Batch: 2015-16/ 2016-17 _
+
+Academic Year: 2017-2018
+
+Subject: Digital Signal Processing
+
+Marks: 60 ,
+Date: 29 November 2017 Time: 2.00 fe to 5.0@ pot = 4
+7 Durations:;3
+No. of Pag
+Re-Examination aad ¥
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Ql Attempt any four : (Three marks each) (12)
+a Comparison of linear and circular convolution
+b Define energy compaction property of DCT
+c Let x(n) = {0 1 2 3}. Compute its 4 point DFT X(k)
+d Compute the magnitude response of a filter with system f function
+Hi)=1+ zi+z24¢2342t+75 47% 427478
+
+e Differentiate between DSP and General Purpose Processors.
+
+Q2 a Letx(n)=(nt1), 0< 09, and h (n) = {1 0-1}. Implement the overlap add method to (6)
+compute y (n) = x (n)*h (n), Assume length of each block as five.
+b Write a short note on (6)
+i. Comb filter and notch filter
+ii. All pass filter
+iii. Minimum, maximum phase filter
+
+Q3 a Compute IDFT of the sequence (6)
+X (k) = {4, 1-j2.414, 0, 1-j0.414, 0, 14+j0.414, 0, 1+j2.414} using DIF algorithm.
+b For given x;(n) and x2(n) compute circular convolution for N = 5 using graphical (6)
+method
+
+x(n) = 6(n) + d(n— 1) — 6(n— 2) — d(n— 3)
+xo(n) = 6(n) — 6(n— 2) + 5(n—- 4)
+
+Q4 a Design a linear phase FIR digital low pass filter of unity gain for the following (6)
+gee specifications:
+¢ cut off frequency = 1.2 rad/sample
+e¢ Window Type is Hamming
+e Length of window N=9
+
+ilo
+--- page 2 ---
+Q5
+
+Q6
+
+Q7
+
+Using Frequency Sampling Method design a Low Pass Filter with following
+specification Sampling frequency: 18 KHz.
+
+Pass band frequency: 0 —-5 KHz
+Determine filter coefficients for N = 9
+
+Design a Butterworth filter using bilinear transformation for the following
+specifications 0.8<|H(e)|<1 0<w<0.22
+|H(el®)|<0.2 O6n<w<n
+Distinguish between Butterworth and Chebyshev (Type I) filter
+Explain in brief procedures for digitizing the transfer function of an analog filter
+
+An FIR filter is described by the difference equation
+y(n) = 2x(n) + = x(n-1) + : x(n-2) + : x(n-3) Determine its Lattice form
+Realize the given system in the following forms (i) Direct Form II (ii) Parallel Form
+ig "
+1t+52
+2
+
+(1- rly i?) (1- alt 52?)
+
+H(z)=
+
+Write short note on (any four)
+i. VLIW Architecture
+ii. Pipelining
+iii. Limit cycle oscillations
+iv. Effect of round off noise in digital filter
+v. Quantization error
+
+(6)
+
+(6)
+
+GB)
+(3)
+(6)
+
+(6)
+
+(12)
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 2974f73c780a
 
 - Departments: Electronics and Telecommunication
@@ -1921,6 +3476,123 @@ b Write short note on : (6)
 i. Pipelining
 
 ii. Limit cycle oscillations
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 612798f77653
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 31 May 2018
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Computer) Year: III Semester: V
+
+Batch: 2016-17 -
+Academic Year: 2017-2018
+
+Subject: Digital Signal Processing ~
+Marks: 60
+
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: _OZ—
+
+Date: 31 May 2018~
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+. 1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions-carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. Attempt any three.
+a. Determine the whether the following system is: [4]
+y(n) = ax*(n)
+a) Linear or nonlinear b) Time Invariant or Time variant c) Causal or
+non-causal (with proper expressions in each case)
+b. Explain the twiddle factor in DFT and its importance in DFT calculations and write [4]
+twiddle factor matrix for N=4.
+c. Compare Analog and digital filters in brief. [4]
+d. Explain correlation and what is the difference between cross correlation and [4]
+autocorrelation?
+Q2. a. Determine the inverse z-transform of the following using partial fraction: [6]
+1- 527
+H(z)
+(1 + <2 + =2-?)
+b. Calculate the linear convolution of the following signals and verify the result by [6]
+
+performing circular convolution (result should be same for both cases), use tabular method
+
+for computing linear and circular convolution.
+x(n) ={1,2,3} and h(n) = {2,1}
+
+t]peee
+--- page 2 ---
+Q3.
+
+Q4.
+
+Q5.
+
+Q6.
+
+Q7
+
+Determine the response of the system using z-transform: {6]
+y(n) = 0.6yn — 1) — 0.08y(n — 2) + x(n)
+where input x(n)=u(n) and initial condition are zero.
+Determine the z-transform of the following signal with ROC. : [6]
+x(n) = n7u(n)
+Using the Decimation In Frequency FFT flow graph compute DFT of [6]
+x(n) = {1, 0.707, 0, -0.707, —1, —0.707, 0, 0.707} for N=8
+
+Obtain the Direct form-I and Direct form-II realization for the system [6]
+
+y(n) = ~Sy(n —1) tay —2) + ayn 3) + x(n) + 3x(n — 1) + 2x(n — 2)
+
+Perform the circular convolution of two sequences using graphical method, [6]
+xi(n) = { 2,1, 2,-1} and x2(n)= { 1, 2,3, 4}
+Compute the four point DFT of the following sequence: [6]
+
+1
+x(n) =, Ocsn<2
+
+=0, else.
+
+Plot the magnitude and phase spectrum of X(k).
+Explain the Impulse Invariant Transformation and Bilinear Transformation Techniques for [6]
+HR filter design (with proper expressions).
+Design a linear phase FIR low pass filter using rectangular window by taking 7 samples of [6]
+window sequence and with a cutoff frequency we =0.27 rad/sample.
+State and prove the following properties of z-transform: [6]
+
+a) Convolution Theorem of z-transform.
+
+b) Time reversal property of DFT.
+Explain the following signals (with proper expressions): [6]
+(a) Periodic and non-periodic signals
+(b) Even and odd signals.
+
+(c) Causal and non-causal signals
+
+2|\page
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper e4de9931f958
@@ -2064,117 +3736,6 @@ c / -T Sue -e A
 w, wi Ty
 
 2|Rag
-````
-
-## 2017-18 · Re-Exam · Sem 5 · paper 510c1d5693ea
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 19 January 2019
-- Text: ocr (2 pages), mean OCR confidence 88.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Computer) Year: III * . Semester: V
-Academic Year: 2018-2019
-
-| Subject: Digital Signal Processing . Marks: 70
-
-Time: 2.00 pm to 5.00 pm ~
-Date: 19 January 2019 :
-Durations: 3 (hrs)
-
-No. of Pages: Z
-Re-examination (2017-18 / 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1)
-
-‘
-
-a) Find whether signal is energy or power signal. x(n) = (1/2)". ;n>0
-= 3" ;n<0 (4)
-
-b) Determine whether the system : y(n) = logio. x(n) is
-
-a) static or dynamic
-
-b) causal or non causal
-
-c) Linear or non linear
-
-d) time variant or time invariant (4)
-
-c) State the properties of ROC and explain its significance (3)
-d) Perform circular convolution using matrix method on the following sequences.
-x(n) ={1, 0.5, 1, 0.5, 1, 0.5, 1, 0.5}
-x(n) = { 0,1,2,3} (3)
-Q.2
-a) Obtain the inverse Z- Transform of the function
-
-X(Z)= _ 2 ; ROC: |z| >[a|
-(1-az7) (7)
-
->
---- page 2 ---
-b) Determine the impulse response and frequency response of the system described by the difference equation.
-
-yln] - (2) yn - 1] -Zyln - 2] = xin - 1] 7)
-
-Q3
-a) Calculate 8 pt DFT of x(n)= {1,2,1,2}. . (7)
-
-b) Compute the DFT of
-
--0.5n
-
-x{n] =e ;Osns5 (7)
-
-Q.4
-
-a) Using bilinear transformation design a first order butterworth LPF with a 3dB cut off
-frequency of 0.2 rt. (7)
-
-b) Obtain the DF-I and parallel form of realization for the system.
-
-y(n) = —0.1y(n — 1) + 0.2 y(n — 2) + 3x(m) + 3.6x(n — 1) + 0.6x(n — 2) (7)
-Qs
-a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm. (7)
-b) Compare between Bilinear Transformation and Impulse invariance method. (7)
-Q.6
-
-a) Determine the Lattice form for an FIR filter which is given by difference equation.
-yn) = x(n) + Sx(n — 1) +3x(n— 2) +2x(n— 3). (7)
-b) Obtain DFT of a sequence x (n) = {2,2,2,2,1,1,1,1} using Decimation in Time FFT algorithm. (7)
-Q7
-a) The specification of the desired low pass filter is.
-
-0.8<|H((@)|<1.0 ;0<@<022
-IH((@)|<02 ;0.32<a<n
-
-Design the butterworth filter using impulse invariant transformation . (7)
-b) Write short note on i) quantization error in DFT. (3)
-ii) FIR filter design. (4)
-
-*
 ````
 
 ## 2016-17 · Final-Exam · Sem 5 · paper 2a162817d47f
@@ -2627,33 +4188,31 @@ c) What is the Frequency response? Explain its properties.
 d) Compare Energy signal and Power signal.
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 3c3c3fafb3fc
+## 2016-17 · Re-Exam · Sem 5 · paper adccd2bffe2f
 
 - Departments: Computer Engineering
 - Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (COMPUTER), BATCH 15-16, 16-17 RE EXAM(1) (1).pdf` (+4 identical copies)
-- Printed on paper: exam date: 22 November 2017
-- Text: ocr (2 pages), mean OCR confidence 86.7
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (COMP), RE EXAM.pdf`
+- Printed on paper: exam date: 06 December 2016
+- Text: ocr (2 pages), mean OCR confidence 89.7
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
+
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (COMPUTER) Year: III Semester: V
+Programme : B. Tech (COMPUTER
+Saiek sebie Gone ) Year : III Semester: V
 
-Batch: 2015-16/ 2016-17
-Academic Year: 2017-2018
+Academic Year : 2016-2017 |
 
-Subject: Digital Signal Processing
+Subject : Digital Signal Processing
 
-Date: 22 November 2017 Time: 2.0Q:5m, to 5.00 pin®
-Durations g\(hi rs) rr
-
-No. of ees gk -
+Date : 06 December 2016
 
 Re-Examination
 
-‘Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
 1) Question No. 1 is compulsory.
@@ -2662,567 +4221,267 @@ of the Answer Book, which is provided for their use.
 
 3) In all 5 questions to be attempted.
 
-5) Answer to each new question to be started on a fresh page.
+4) All questions carry equal marks.
+-5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
 
-Q.1 a) Consider the analog signal x,(¢) = 3cos(100z7). (3)
+Ql Answer the following questions. Mks
+A Compare the number of complex additions and complex multiplications in the direct computation 4
+of DFT and the FFT algorithm for an 8 point sequence.
+B Explain linear filtering of long sequence using DFT. 4
 
-(i) Determine the minimum sampling rate required to avoid aliasing.
-(it) Suppose that the signal is sampled at the rate F; = 200 Hz. What is the discrete-time
-signal obtained after sampling?
+C Compare FIR and IIR digital Filter. 4
 
-3,k=0 (3)
-L1<k<9
+Q2 A_ State whether ramp sequence is energy signal or power signal. Calculate corresponding energy or 6
+average power as the case may be.
 
-(Y4f nee °
-Vex
-
-Determine the Z-transform of signal x2(”) = x1(-7) and state its ROC.
-
-b) Find 10-point inverse DFT of X(k) -|
-
-c) Consider the signal x, (7) =
-
-d) Discuss the concept of frequency warping in bilinear transformation. (3)
-— Q.2 a) Determine the convolution y(7) of the signals x(”) = (1/3) [7u(n) — nu(n-7)] and (6)
-. h(n) = u(n+2) — u(n-3), where u(n) is the unit step function.
-b) Prove the convolution property of Z-transform using only its definition. (3)
-a c) State following properties of DFT: (3)
-(i) Time reversal of sequence
-(ii) Circular time shift of sequence
-
-(iii) Circular frequency shift
-
-if
+B Compute the correlation of the following signal and comment on the result. 6
+x(n)= {1,0,0,0} y(n)= {0,1,0,0}
 --- page 2 ---
-4
+Q3 A_ Find the values of x(0) and x() if X(z) is as given below: —- 6
 
-3 a) Three systems with impulse responses /y() = 6(n) — d(m-1), fo(n) = h(n), and h3(n) = (4)
+2
 
-u(n) are connected in cascade. What is the impulse response (1) of the overall system?
+Zz
+z>-1.22+0.2
 
-b) An IIR digital lowpass filter is required to meet following specifications: Passband ripple <= 0.5 (8)
-dB, Passband edge = 1.2 kHz, Stopband attenuation >= 40 dB, Stopband edge = 2 kHz, Sample
-rate = 8 kHz. Determine the required filter order for (i) a digital Butterworth filter and (ii) a
-digital Chebyshev filter.
+B Proof the differentiation property of Z-transform. 6
 
-Q.4 * a) Obtain direct form I, direct form II, cascade and parallel structures for the following system: (8)
-Vn) = 0.5y(n-1) + 0.25y(n-2) + x(n) + x(n-1).
-b) A sequence x(n) = {a, b, c, d} has DFT X[k] = {1, 2, 3, 4}. Find x() using 4 point DIF-IFFT. (4)
+Q4 A’ Compute DFT of four point sequence x(n)= {0,1,2,3}. 6
 
-Q.5 a) Use the window design method to design a linear phase FIR filter of order N = 24 to approximate (6)
-the following ideal frequency response magnitude:
+B_ System function of initially relaxed causal system is given by 6
 
-Hie adh o| < 0.2%
-| ale |= 0, 0.22 <|o| <x
+0-+ (240-6) €-O-6)
+z*-oO\VZ-0-72
 
-b) Compute the 8-point DFT of the sequence x (1) = {0.5, 0.5, 0.5, 0.5, 0, 0, 0, 0} using radix-2 DIT (6)
+1) Find the corresponding difference equation of system,
+2) Realize the filter using parallel form.
+
+He =
+
+Q5 A_ LTI system with impulse response h(n)=26(n)-6(n-2) is fed with an input 6
+x(n)=8(n) +26(n-2).Find output y(n).
+
+B_ Explain Frequency warping with suitable diagram. 6
+
+Q6 A The analog transfer function of low pass a is 6
+WO= oro
+
+And its bandwidth is lrad/sec. Design the digital filter using BLT method whose cutoff
+frequency is 20x and sampling time is 0.0167sec; by considering warping effect.
+
+B_ Design a linear phase FIR low pass filter of order seven with cut-off frequency Irad/sec 6
+using rectangular window.
+
+Q7 A Obtain DFT of a sequence x(n)={0.5,0.5,0.5,0.5,0,0,0,0} -Using decimation in frequency 6
 FFT algorithm.
 
-Q.6 a) Compute the convolution y (7) of x1(7) = {1, -2, 1} and xo(m) = {1, 1, 1, 1, 1, 1} using Z-transform. (6)
-Pp
-b) Prove the following properties of twiddle factor (6)
-(i) Wn k+N — Wn k
-(ii) Wn KtN2 =_Wn k
-(iii) = Wn = Wr *
-
-Q.7 a) An analog signal xa(t) = sin(480zr) + 3sin(720zt) is sampled 600 times per second. What are the (2)
-frequencies, in radians, in the resulting discrete-time signal x(”)?
-
-b) Determine the auto-correlation sequence of the signal x(n) = {1, 1, 2, 1}. (4)
-c) Explain DFT as a linear transformation matrix and show that Wy is an orthogonal matrix. (6)
-sat
-2
-1
+B_ Explain analog to digital conversion of signals with suitable diagram. 6
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 97eaf2a00e81
+## 2016-17 · Re-Exam · Sem 5 · paper 4632210dc16c
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (EXTC), BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 29 November 2017
-- Text: ocr (2 pages), mean OCR confidence 86.4
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (2 pages), mean OCR confidence 87.8
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (EXTC) Year: III Semester: V
+Programme : B. Tech (EXTC) Year : II
+Batch : 2014-2015
 
-, Batch: 2015-16/ 2016-17 _
+Academic Year : 2016-2017
+Subject : Digital Signal Processing
 
-Academic Year: 2017-2018
+Date : 01 December 2016
 
-Subject: Digital Signal Processing
+Re-Examination
 
-Marks: 60 ,
-Date: 29 November 2017 Time: 2.00 fe to 5.0@ pot = 4
-7 Durations:;3
-No. of Pag
-Re-Examination aad ¥
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+1) Question No. __1__ is compulsory.
 
-1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any Hp questions.
 
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) In all_S_ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
 
-7) Assume suitable data if necessary.
+Ql Answer any three of the following questions. [12]
+A What is Discrete Hilbert Transform? Why it is used? [4]
+B_ Explain the relationship of Discrete Fourier Transform to Discrete time Fourier Transform and Z [4]
+Transform.
+CA fourth order antisymmetric, linear phase filter has all real zeros. One of them is located at [4]
 
-Ql Attempt any four : (Three marks each) (12)
-a Comparison of linear and circular convolution
-b Define energy compaction property of DCT
-c Let x(n) = {0 1 2 3}. Compute its 4 point DFT X(k)
-d Compute the magnitude response of a filter with system f function
-Hi)=1+ zi+z24¢2342t+75 47% 427478
+0.5. What may be the locations of remaining three zero? Find the transfer function of this
+filter and identify the filter type based on pass band.
 
-e Differentiate between DSP and General Purpose Processors.
+D Compare IIR & FIR filter. [4]
+E_ Explain the energy compaction property of DCT with an example. [4]
+F Explain minimum phase, maximum phase and mixed phase system. [4]
+Q2 A __ Determine circular convolution of the two sequences using graphical method. [6]
 
-Q2 a Letx(n)=(nt1), 0< 09, and h (n) = {1 0-1}. Implement the overlap add method to (6)
-compute y (n) = x (n)*h (n), Assume length of each block as five.
-b Write a short note on (6)
-i. Comb filter and notch filter
-ii. All pass filter
-iii. Minimum, maximum phase filter
+x(n] = {1,2,1,2}
+h{n] = {1,2,0,1}
 
-Q3 a Compute IDFT of the sequence (6)
-X (k) = {4, 1-j2.414, 0, 1-j0.414, 0, 14+j0.414, 0, 1+j2.414} using DIF algorithm.
-b For given x;(n) and x2(n) compute circular convolution for N = 5 using graphical (6)
-method
+B The difference equation of the system is given by [6]
+— 3 1
+y(n) + ree —l)+ rs y(n— 2) = x(n) + x(n-1)
+se (i) Determine transfer function
+(ii) Find impulse response of the system
 
-x(n) = 6(n) + d(n— 1) — 6(n— 2) — d(n— 3)
-xo(n) = 6(n) — 6(n— 2) + 5(n—- 4)
+(iii) | Show Direct form-I and Direct Form II realization.
 
-Q4 a Design a linear phase FIR digital low pass filter of unity gain for the following (6)
-gee specifications:
-¢ cut off frequency = 1.2 rad/sample
-e¢ Window Type is Hamming
-e Length of window N=9
+_Q3. A Using DIF-FFT, find DFT of the following sequence. [8]
 
-ilo
+Ve
 --- page 2 ---
-Q5
+x(n) = { 1,3,— 2, 4,1, 4,— 2,3}
 
-Q6
+B_ Explain frequency warping in bilinear transformation. [4]
+Q4. A Prove symmetry property and periodicity property of twiddle factor. [6]
+B Ifx(n) = (n) + 8(n—1) +8 (n-2) [6]
 
-Q7
+(a) Find X(e")
 
-Using Frequency Sampling Method design a Low Pass Filter with following
-specification Sampling frequency: 18 KHz.
+(b) Find X[k] 4 point DFT ( Do not use FFT)
+(c) Show that DFT is sampled version of X(e”)
 
-Pass band frequency: 0 —-5 KHz
-Determine filter coefficients for N = 9
+Q5 A __ The desired response of a low pass filter is [6]
 
-Design a Butterworth filter using bilinear transformation for the following
-specifications 0.8<|H(e)|<1 0<w<0.22
-|H(el®)|<0.2 O6n<w<n
-Distinguish between Butterworth and Chebyshev (Type I) filter
-Explain in brief procedures for digitizing the transfer function of an analog filter
+eg ia for =3% < ws 3B
+< |wl<az
 
-An FIR filter is described by the difference equation
-y(n) = 2x(n) + = x(n-1) + : x(n-2) + : x(n-3) Determine its Lattice form
-Realize the given system in the following forms (i) Direct Form II (ii) Parallel Form
-ig "
-1t+52
-2
+Ha(el”) =
 
-(1- rly i?) (1- alt 52?)
+Determine H (e™) for M=7 using Hamming Window.
 
-H(z)=
+B Determine the ouput response of the system using overlap add method where the input [6]
+and impulse response is given by x(n) = { 1,-2,-3,4,4,5,5,6,7,8,9,1,2,3} and h(n) =
+{1,2,1}.
+Qé6. A A Digital LPF is required to meet the following specifications [6]
+Pass band ripple < 1 dB Pass band edge = 4 KHz
+Stop band attenuation > 40 dB Stop band edge = 6 KHz
 
-Write short note on (any four)
-i. VLIW Architecture
-ii. Pipelining
-iii. Limit cycle oscillations
-iv. Effect of round off noise in digital filter
-v. Quantization error
+Sampling rate = 24 KHz
 
-(6)
+(i) Determine the order of the Butterworth filter which meets the above specifications.
+(ii) Determine the cut off frequency of the filter.
+B_ Explain Gibbs phenomenon.How it can be removed? [6]
 
-(6)
-
-GB)
-(3)
-(6)
-
-(6)
-
-(12)
+Q7. Write Short Notes on any two [12]
+A _ Difference between DSP processor and general purpose processor.
+B Coefficient quantization in IIR systems.
+C Digital resonators.
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 31552a2e2727
+## 2016-17 · Re-Exam · Sem 5 · paper 3bd5ae2921a0
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 15-16 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (2 pages), mean OCR confidence 87.2
 
 ````text
-»
-
-\ SVKM’S NMIMS
+—
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme : B. Tech (EXTC) Year : Ill Semester: V
 
-Program: B. Tech (EXTC) © Year: II Semester: V +
+Batch : 2015-2016
+Academic Year : 2016-2017
 
-Academic Year: 2018-2019 ~
-Subject: Digital Signal Processing / Marks: 60° ~
-Date 1 LO Teeny S0ne Time: 2.00 pm to 5.00 pm
-. Durations: 3 (hrs) +
-c y No. of Pages: 92—
-Re-examination (2015-16/ 2016-17)
+Subject : Digital Signal Processing
+Date : 01 December 2016
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
+
+NB:
 
 1) Question No. 1 is compulsory.
 
-2) Out of remaining questions, attempt any 4 questions.
+2) Out of remaining questions, attempt any FOUR questions.
 
-3) In all 5 questions to be attempted.
+3) In all FIVE questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume _suitable data if necessary.
 
-Q.1 Attempt any THREE of the following (12)
-a Differentiate between FIR and IIR Filter. (04)
-b Why DFT is slow ? Explain. (04)
-c 1 (04)
+7) Assume suitable data, if required.
 
-An antisymmetric filter has one zero at z= 3" What is the minimum order of
+Ql Attempt any THREE of the following (12)
+
+a | Determine whether the following systems are of Minimum Phase, Miximum- (4)
+Phase or Mixed Phase type.
+
+i) H\(z) =z +2z-8
+
+ii) Hy @)=32 +52-4
+
+2
+b | For DFT pair shown below, compute the valiea of the (4)
+boxed quantities. PRG 5
+q(In] = {Q, 3, -4, 2, 0, 1} Qik] = (4,0, 4495. 8, O, 4-j1.73
+| }
+© | se hist} (4)
+
+An antisymmetric filter has one zero at z= am? What is the minimum order of
 
 this filter? Justify your answer.
 
-d Define Discrete cosine transform . Specify its any two application . (04)
-ata
-.2 08
-Q ‘ Design 5" order Linear Phase High Pass FIR filter with we = = using (08)
-ae hamming window function.
-b Compute circular convolution of x, [7]={3,2,1,2} and x,[n]={L2,1,2}. (04)
-Page 1 of 2
+d | Explain Mapping of points from s-plane to z-plane when BLT Method is used (4)
+for filter design.
+
+ps Q.2 | a | Plot Magnitude Spectrum and Phase Spectrum of following given signal: (8)
+x[n={3 212 3]
+
+b | Compute circular convolution of x, [rl= 3.21.2} and x, [r)= 12.1.2} (4)
+
++f
 --- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Q.6
-
-Q7
-
-Given x[n]= {1, 2, 1, 2, 0, 2, 1,2}. Find X[k] by using DIT-FFT.
-Explain frequency warping in BLT.
-Let x[n] be four point sequence with X[k] = { 1, 2,3, 4 }. Find the DFT of the
-
-following sequences using X[k].
-(i) pinJ= x[-n] ii) qin] = x[-n+1] Git) r[n} = x[-n-1]
-
-Write a short note on MAC unit and pipelining in DSP Processor .
-
-A Digital ITR Low-Pass Filter required to meet the following specifications:
-Passband ripple :< 0.5dB Stopband attenuation: < 40 dB
-Passband edge : = 1.2 kHz Stopband edge : = 2.0 kHz
-Sample rate : = 8.0 kHz
-
-Determine the required filter order for
-
-(i) A Digital Butterworth Filter
-
-(ii) A Digital Chebyshev Filter
-
-Explain NOTCH filter in detail.
-
-One of the zeros of a third order causal linear phase High pass FIR filter lies at
-
-Z= 5 . Find the location of the other zeros and hence find the transfer function
-
-and impulse response of the filter.
-
-Discuss in detail about limit cycle oscillations in infinite impulse response
-digital filters with its types.
-
-Explain Energy Compaction property of DCT-2.
-Determine the Direct Form I and II for the second order filter given by
-
-y(n) = x(n) - 0.5x(n-1) + y(n-1) — 0.25 y(n-2).
-
-Page 2 of 2
-
-(08)
-(04)
-
-(06)
-
-(06)
-(08)
-
-(04)
-(06)
-
-(06)
-
-(04)
-(08)
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 29da0651635b
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: exam date: 24 November 2018
-- Text: ocr (2 pages), mean OCR confidence 87.6
-
-````text
-ro)
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-‘ Programme: B. Tech (EXTC) « Year: III « Semester: Vz
-
-Academic Year: 2018-2019,
-Subject: Digital Signal Processing
-
-Date: 24 November 2018 ~ Time: 1
-
-¢
-Re-examination (2015-16/ 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary.
-
-Q1. Attempt any three questions from the followings
-a. Compare Low pass filter, High pass filter, also explain effect of limit cycle oscillation in an
-
-IR digital filter. [4]
-b. Enlist two properties of discrete Fourier transform (DFT)? Also compare DSP processor with
-
-general purpose processor. {4]
-.c. Enlist four properties of Direct form-I of a 2" order digital filter and four properties of
-
-direct form-II of a 2"4 order digital filter. [4]
-
-d. Only draw the frequency response of Rectangular, Hamming, Hanning and Blackman windows.
-Also only draw the frequency response of Low pass filter, High pass filter, Band pass filter and
-
-Band reject filter. [4]
-Q2. Attempt the followings.
-a. An FIR digital filter has the unit impulse response sequence [8]
-— h(n)={2,2,1}. Determine the output sequence in response to the input sequence
-x(n)={3,0,-2,0,2,1,0,-2,-1,0} using the overlap add convolution method.
-ate b. Mention in brief about a DSP processor with respect to architecture, MAC unit and
-pipelining. [4]
-Page 1 of 2
---- page 2 ---
-Q3. Attempt the followings.
-a. Write the equations for Linearity property, Anti-periodic property, and symmetry
-
-property of discrete cosine transform. [6]
-b. Obtain direct form and cascade form realisation for the transfer function of an FIR system given by
-1 3 1 1
-= aw g-t 4 5-2)74 ~ 7-1 7-2
-H(z) =(1 42 +32 1 32 32 )
-Q4. Attempt the followings.
-a. Compute the DFT of below sequence using DIF-FFT method [6]
-x(n)= {1,2,4,8,16,32,64, 128}
-b. Design a linear phase FIR band stop filter to reject frequencies in the range 0.4p to [6]
-
-0.65p rad/sample, using rectangular window, by taking 7 samples of window sequence.
-
-Q5. Attempt the followings.
-a. For the analog transfer function [6]
-1
-H(s) = —————_
-= GEDErD
-Determine H(z) using impulse invariant technique. Assume T=1s
-
-b. Develop the cascade realization structure for the below expression [6]
-z, § 5-1, 1,-2
-=t—4+—-Z ~+--Z
-= 2
-H@= 6 24 24 24
-
-1. a.
-—o77-14=7-2
-1 32 +72
-Q6. Attempt the followings.
-
-a. Write a note on all pass system: (7]
-b. What do you mean by a mixed phase system. [2]
-c. Deduce an expression for quantization of IIR filter coefficients. B]
-
-Q7. Attempt the followings.
-a. Determine the zeros for the following FIR systems and indicate whether the system is minimum
-phase, maximum phase or mixed phase. [6]
-Hi(z)= 6+z71 — 27?
-
-H2)= 1- 271 -6 z~?
-
-_,.5,-1_3,-2
-H3(Z)= 1-5 Z 27
-H4z)= 1+2z71 —= 77-7
-3 3
-b. Draw and explain a digital signal processor of Harvard architecture type. [6]
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 9642cd5d4640
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 November 2019
-- Text: ocr (3 pages), mean OCR confidence 87.3
-
-````text
-MPSTME~
-
-LIBRARY
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-
-Academic Year: 2019-20
-Subject: Digital Signal Processing
-Marks: 60
-Date: 14 November 2019 Time: 10.00 am - 1.00 pm
-Durations: 3 (hrs)
-No. of Pages: 973
-Re-Examination (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1. Attempt any FOUR from the followings. [04*03=12]
-1. Define mixed phase system. [03 Marks]
-2. Enlist 03 properties of DFT. . [03 Marks]
-3. Enlist the types of windowing techniques used in FIR filter. ' [03 Marks]
-4. Enlist 03 features of IIR filter. [03 Marks]
-5. Write a note on all pass filter. [03 Marks]
-6. What is the significance of quantization error in a signal . [03 Marks]
-OR
-6. Compare a digital signal processor with a general purpose processor. [03 Marks]
-
-Page 1 of 3
---- page 2 ---
-Q2. Attempt the followings.
-
-1. Write a note on Comb filter. Also draw its magnitude response characteristic with M=10.
-
-[06 Marks]
-2. Determine the DFT of the sequence- [06 Marks]
-By
-sin {5 for-1<n<1
-0 otherwise
-Q3. Attempt from the followings.
-1. A low pass’filter has desired response as given below [04 Marks]
-
-ei3w 0<ws<=
-Ha(el) =
-ae 0 <<w <7
-
-Determine the filter coefficient h(n) for M=7, using type-1 frequency sampling technique.
-
-2. All pole analog filter have transfer function [04 Marks]
-
-1
-
-His) = (s2-45 St 6)
-
-Find H(z) by impulse invariant technique. Assume T=1sec.
-
-a
-
-3. Find 8-point DFT of the real sequence x(n) = (1,2,2,2,1,0,0,0) using decimation-in-frequency FFT
-algorithm. [04 Marks]
-
-Q4. Attempt the followings.
-
-|. A linear time invariant system is described by an input-output relation
-
-2y(n)- y(n-2)-4 y(n-3) = 3x(n-2)
-
-= Realize the system using direct form-II realization. [06 Marks]
-a 2. What do you mean by limit cycle oscillation? [03 Marks]
-3. Draw and explain the architecture of very long instruction word (VLIW) processor.
-[03 Marks]
-Page 2 of 3
---- page 3 ---
-Q5. Attempt . : the followings.
-1. Perform circular convolution on two given sequences x{(n)={2,1,2,-1} x2(n)={1,2,3,4}
-t t [06 Marks]
-2. Design a linear phase FIR low pass filter of length 11 to meet the following characteristics-
-Cut off frequency = 100 Hz.
-Sampling frequency = 400 Hz. Use Hamming window. [06 Marks]
-
-Q6. Attempt the followings.
-1. Enlist 04 applications of DCT. [04 Marks]
-
-2. Realize the given system in cascade form [08 Marks]
-
-y(n) == y(n— 1) — 2 y(n— 2) +5 x(n 1) + x(n)
-
-Q7. Attempt the followings.
-1. Write a note on Notch Filter. [06 Marks]
-
-2. Design a digital Butterworth filter using the Bilinear transformation, satisfying the constraints-
-
-0.707 <1 HE”) |< 1-> for 0 <w et.
-
-: ‘i . 3
-| Hel”) | <0.2 for =’ <w<n.
-
-[06 Marks]
-
-with T=1 sec. Also realize the filter.
-
-Page 3 of 3
+[Q.3
+
+Given x[n] = (1, 2, 3, 4, 4, 3, 2,1}. Find X[k} by using DIT-FFT.
+
+(8)
+Define Discrete cosine transform . Specify its any two application . (4)
+Q.4 Let x[n] be four point sequence with X[k] = { 1, 2, 3, 4 }. Find the DFT of the | (6)
+following sequences using X[k] ty
+G) p{n] = x[n-1] (ii) q{n] = 2 x[n-2] (iii) r[n] = x[n]+2x[n—
+1]+3x[n—2]
+6
+Design 5" order Linear Phase Low Pass FIR filter with We = 7 using (6)
+hamming window function.
+Q.5 Design a Digital Butterworth filter that satisfies the following constraint using | (12)
+Bilinear Transformation Assume T;= 1 sec’
+09 < |He™/|<10 fr 0< w< xe
+Ine) 1<02 for 3n4<wen
+Q.6 One of the zeros of a causal linear phase FIR filter is at 0.5 260. Show the (6)
+locations of the other zeros and hence find transfer function and impulse
+response of the filter.
+Determine the Direct Form] and II for the second order filter given by (6)
+y(n) = 2b coswWo y(n-1) — b* y(n-2) + x(n) — coswo x(n-1)
+Q.7 Write a short note on MAC unit and pipelining in DSP Processor . (6)
+Explain NOTCH filter in detail. (6)
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper fe8881290060
@@ -3353,435 +4612,102 @@ phase.
 ye
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 612798f77653
+## 2016-17 · Re-Exam · Sem 5 · paper 686662bda097
 
 - Departments: Computer Engineering
 - Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 31 May 2018
-- Text: ocr (2 pages), mean OCR confidence 89.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital Signal Processing Batch 2015-16 Re Exam.pdf`
+- Printed on paper: exam date: 28 November 2016
+- Text: ocr (2 pages), mean OCR confidence 84.1
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+nt
 
-Programme: MBA Tech (Computer) Year: III Semester: V
-
-Batch: 2016-17 -
-Academic Year: 2017-2018
-
-Subject: Digital Signal Processing ~
-Marks: 60
-
-Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs)
-No. of Pages: _OZ—
-
-Date: 31 May 2018~
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-. 1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions-carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. Attempt any three.
-a. Determine the whether the following system is: [4]
-y(n) = ax*(n)
-a) Linear or nonlinear b) Time Invariant or Time variant c) Causal or
-non-causal (with proper expressions in each case)
-b. Explain the twiddle factor in DFT and its importance in DFT calculations and write [4]
-twiddle factor matrix for N=4.
-c. Compare Analog and digital filters in brief. [4]
-d. Explain correlation and what is the difference between cross correlation and [4]
-autocorrelation?
-Q2. a. Determine the inverse z-transform of the following using partial fraction: [6]
-1- 527
-H(z)
-(1 + <2 + =2-?)
-b. Calculate the linear convolution of the following signals and verify the result by [6]
-
-performing circular convolution (result should be same for both cases), use tabular method
-
-for computing linear and circular convolution.
-x(n) ={1,2,3} and h(n) = {2,1}
-
-t]peee
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q7
-
-Determine the response of the system using z-transform: {6]
-y(n) = 0.6yn — 1) — 0.08y(n — 2) + x(n)
-where input x(n)=u(n) and initial condition are zero.
-Determine the z-transform of the following signal with ROC. : [6]
-x(n) = n7u(n)
-Using the Decimation In Frequency FFT flow graph compute DFT of [6]
-x(n) = {1, 0.707, 0, -0.707, —1, —0.707, 0, 0.707} for N=8
-
-Obtain the Direct form-I and Direct form-II realization for the system [6]
-
-y(n) = ~Sy(n —1) tay —2) + ayn 3) + x(n) + 3x(n — 1) + 2x(n — 2)
-
-Perform the circular convolution of two sequences using graphical method, [6]
-xi(n) = { 2,1, 2,-1} and x2(n)= { 1, 2,3, 4}
-Compute the four point DFT of the following sequence: [6]
-
-1
-x(n) =, Ocsn<2
-
-=0, else.
-
-Plot the magnitude and phase spectrum of X(k).
-Explain the Impulse Invariant Transformation and Bilinear Transformation Techniques for [6]
-HR filter design (with proper expressions).
-Design a linear phase FIR low pass filter using rectangular window by taking 7 samples of [6]
-window sequence and with a cutoff frequency we =0.27 rad/sample.
-State and prove the following properties of z-transform: [6]
-
-a) Convolution Theorem of z-transform.
-
-b) Time reversal property of DFT.
-Explain the following signals (with proper expressions): [6]
-(a) Periodic and non-periodic signals
-(b) Even and odd signals.
-
-(c) Causal and non-causal signals
-
-2|\page
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 3cbaa1cd1057
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital signal processing Re-exam 2016-17.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 19 January 2019
-- Text: ocr (2 pages), mean OCR confidence 87.7
-
-````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme : MBA. Tech (Computer) Year : I Semester :V
+Batch : 2015-16
 
-Program: MBA Tech (Computer) Year: III. Semester: V
-i Academic Year: 2018-2019
-“Subject: Digital Signal Processing Marks: 60
+] Academic Year : 2016-2017 ee \tOTE
 
-Time: 2.00 pm to 5.00 pm
-Date: 19 January 2019 ~
-Durations: 3 (hrs)
-No. of Pages:_ a
-Re-examination (2016-17) —
+_ ‘ : us
+ject : ‘ocessin: Mar "
+Subject : Digital Signal Pr gz Marks ae Ma <
+Date : 28 November 2016 Duratiang (3
+A 7 Y ' hee
+Re-Examination SS Wiees
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _t is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql
-A Write about following properties of Unit Impulse signal 4
-i. x[n]6[n — k] = x[k]6[n — k]
-, ii. Sum property Yi» S[n] =1
-B Determine the given signal is periodic or non-periodic. If Periodic compute 4
-its fundamental period
-
-In] - (eo)
-x[n] = sin Ti
-Cc What is Twiddle factor? What is its magnitude and angle? ~ 4
-
-Explain below properties of Twiddle Factor
-1. Symmetry Property
-2. Periodicity property
-
-Q2 Differentiate between
-
-A Even Signal and Odd Signal 3
-B Linear Convolution and Circular Convolution 3
-G Energy Signal and Power Signal 3
-D Analog Signal Processing and Digital Signal Processing 3
-Q3
-
-A Define sampling theorem. 4
-
-What happens when sampling theorem is not followed?
-Specify the sampling rate for the following signals.
-x(t) = sin(200zt)
-
-1/2
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-‘A
-
-Q7
-
-Prove
-x,[n] = X,(z), with ROC = R,;
-x2[n] = X2(z), with ROC = Rz
-x4[n] * x2[n] = X,(z)X2(z) with ROC R,N Rz
-Use above proof to find x, [n] * x2[n]?
-1 10<n<5
-Where x,[n] = {p21} and x2[n] = {5 elsewhere
-
-A causal discrete time LTI system is described by
-
-yin] —Syln— 1] + 5yln — 2] = xtn]
-Where x[n] and y[n] are the input and the output of the system,
-respectively
-a. Determine the System Function H(z) for causal system functions.
-b. Find the impulse response h[n] of the system.
-c. Find the step response of the system.
-d. Realize direct form Structure for the H(z).
-
-Let x[n] = {0,1,2,3}. Compute its 4 Point DFT X(k),0 <k <3
-Let X(k) = {1,01,0}. Compute its 4 Point IDFT x[n],0 <n <3
-
-Perform the 4 Point circular convolution of the following two sequences
-using matrix method
-x,[n] = {1,2,2}
-x2[n] = {1,2,3,4}
-Compute 4 Point DFT X(k) using DIT-FFT algorithm of a length 4 sequence
-x[n], 0 <n S< 3. Draw the Butterfly diagram
-
-Design first order digital LPF with 3dB Cut Off frequency of w, = 0.257 by
-applying bilinear transformation to the analog butterworth filter
-
-1
-H(s) =>——
-Ss
-(1 + ~)
-Where ), is 3 dB cut off frequency of the analog filter.
-Determine frequency response of causal rectangular window which is given
-
-as
-_fl OsnsM-1
-inl) = io otherwise
-
-2/2
-
-12
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper c9bb381081ab
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 2016-17.pdf`
-- Printed on paper: duration hours: 3; exam date: 22 November 2018
-- Text: ocr (2 pages), mean OCR confidence 89.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
-
-Programme: MBA Tech (EXTC) Year: III Semester: V
-Academic Year: 2018-2019
-Subject: Digital Signal Processing
-
-Date: 22 November 2018
-
-Durations: 3 (hrs)
-No. of Pages: S2—
-
-Re Exam (2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
-1) Question No. 1 is compulsory.
+NB:
 
-2) Out of remaining questions, attempt any 4 questions.
+1) Question No. One is compulsory. ,
 
-3) In all 5 questions to be attempted.
+2) Out of remaining questions, attempt any four questions,
 
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Attempt any four of the following
-
-a. | Write a short note on comb filter. [3]
-
-b. | State & prove Time reversal property of DFT. [3]
-
-c. | Compare rectangular and hamming window. [3]
-
-Qi. d. | For the analog transfer function, H(s)= 2 / (s*+3s+2), determine H(z) using bilinear [3]
-transformation if T= 0.1 second
-
-e. | Compare DSP processor and general purpose processor. [3]
-
-f. | What is Digital Filter? Compare ITR and FIR filter. [3]
-
-g. | Write note on limit-cycle oscillations. [3]
-
-a. | Determine the response of the LTI system whose input x(n) and impulse response h(n) are | [6]
-Q2 given by x(n)={1,2,3,4} and h(n)={4,3,2,1}
-ial .
-
-b. | Write a short note on: (1) Digital resonator (2) Notch filter. [6]
-
-< a. | Determine the zeros for following FIR systems and indicate whether the system is [3]
-
-minimum phase, maximum phase or mixed phase.
-
-3
-Hi(z)=6+2z'!-z?, Ho(z)=1-z'!-6z?, Hy@2)=1-3 gi. 5 z?
-
-\[Bage
---- page 2 ---
-Q3. An 8-point sequence is given by x(n)={2,1,2,1,1,2,1,2}.Compute 8-point DFT of x(n) by [7]
-Radix-2 DIT-FFT algorithm.
-What are applications of Discrete Cosine Transform? [2]
-Perform the Linear Convolution of the following sequence by overlap add method: | [7]
-x(n)={1,2,3,-1,-2,-3,4,5,6} and h(n)={2,1,-1}
-Q4. Compute circular convolution of the following two sequences using DFT. x(n)={1,2} and | [5]
-h(n)={2,1}.
-Design a linear phase FIR low pass filter using rectangular window with cutoff frequency | [6]
-@ -=0.2 x rad/sample and N=7.
-Qs Design a Butterworth digital IIR low pass filter using impulse invariant transformation by | [6]
-. taking sampling time T=1 second to satisfy the following specifications:
-0.707 < | H(e/”) | < 1.0 sfor 0<w <0.3x
-| H(eJ”) | < 0.2 sfor 0.75n<w <n
-Obtain Direct Form-II and Cascade structure realizations of the IIR System governed by [6]
-the equation, y(n) - ; y(n-1) - = y(n-2) = x(n).
-Q6. Realize the following FIR system with minimum number of multipliers. [6]
-1 3 1 1
-H(z)= es zi+—7%+-734+—274
-4 2 4 7 4
-Explain effect of Quantization in ITR and FIR systems. [6]
-Q7. Write a short note on VLIW architecture. [6]
-
-2|base
-
-aon
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper bacbb35c2a62
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 2016-170001.pdf`
-- Printed on paper: max marks: 60; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (EXTC) Year: Ill Semester : V
-] Academic Year: 2018-2019
-
-| Subject: Digital Signal Processing -- Marks: 60 -
-
-Time: 2.00 pm to 5.00 pm
-
-2019
-Date : 17 January Durations: 3 (hrs)
-
-No. of Pages: 2
-Re-examination (2016-17) -
-
-[nshenstinnns Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
+3) In all five questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary,
 
-Q 1. Do as directed. [12]
-a) Explain linear phase filters.
-b) Identify the type of Filter whose transfer finetion? is-
+Q1 Attempt any four (2)
+a) Compare the DIR and FIR filters,
+b) What is the importance of poles in design of digital filter?
+c) State the initial and final value theorems with regards to Z transform:
+d) What is BIBO stability? What is condition to be satisfied for stability?
+€) What is bin spacing in DFT?
 
-H(z) =
-c) Discuss analog Butterworth filter and its properties.
-d) Find Inverse Fourier transform of sequence {10 -2+2j -2 -2+2j}.
+Q 2a) Determine the overall impulse response of the interconnected discrete time systems shown below.
+hy(n)=a"u(n) y(n) =6(n—-1) Ag (n) = d(n- 2)
 
-Q.2.
+—| Ay(@m) » a2)
 
-a) Obtain the direct form —II implementation of LTI system with the following transfer function
+—»| 3s hy)
+a (06)
+Q 2 b) Explain energy and power signal’. Determine whether the signal x(n) = @" u(n) is power and
+pas Energy signal: . (06)
 
-ry
-
-with required equations . [06]
-
-b) Explain Minimum phase, Maximum phase or mixed phase filters with example. [06]
-
-ifo
+~jJ2-
 --- page 2 ---
-Q3,
+Q3a) Determine the response y(n), n = 0 of the system described by the second order difference
+Equation, y() + 0.2y(m — 1) — 0.03y(m — 2) = x(n) + 0.4x(n — 1) when the input signal is
+x(n) = 0.2"u(n) and with initial conditions y(—2) = 0 y(-1) = 0.5 : (06)
 
-a). Find DFT of the sequence using DIT-FFT - [06]
-xfn={1 2 3 4 1 2 3 4}; ;
-b). State and explain different properties of DFT with examples. [06]
+b) Test the stability of the system governed by the difference equation y(n) = x(n) + by(n — 1)
+where [bl <1. (06)
 
-Q.4:a) Define Energy compaction in DCT. Hence, obtain DCT of the sequence, x[n]-{1, 2,1, 2}.
-[06]
-b) Compute the linear convolution using overlap save method of the following sequences.
+Q 4a) Compute circular convolution of the following two sequences using DFT
+x(n) ={0101} x2(n) = {1212}. (06)
 
-x[n]= [1, 2, -1, 2, 3, -2, -3,-1, 1, 1, 2,-1] and h[n]=[1, 2, 3]. [06]
+b) State the properties of twiddle factor and explain their use to compute the twiddle factor matrix
+for N=4. (06)
 
-Q.5:.a) Design 6 order HPF with cutoff frequency @.=0.52x using frequency sampling method. [06]
-b) Design an IIR digital High pass filter using bilinear transformation that is maximally flat
-in the passband to meet following specifications: (T= 1 sec) [06]
-Pass Band Cut-off 0.20
-Pass Band Attenuation: 1.93 dB
-Stop Band Cut-off : 0.67
-Stop Band Attenuation : 13.97 dB
+Q5 a) An 8 point sequence is given by x(n) = {2,1,2,1,1,2,1,2} compute 8 point DFT of x(n) by radix 2
 
-Q.6: a) Derive the relation between analog and digital filter frequency when (i) Impulse Invariant
+DIT-FFT (06)
+b) Determine the impulse response and frequency response of the LTI system described by
+y(n) = x(n) + by(n ~ 1). (06)
+Q 6a) Design a linear phase of FIR high-pass filter using hamming window with the cut-off frequency
+w, = 0.87 rad/sample and N=7. (06)
+b) Design a Butterworth digital IR low-pass filter using bilinear transformation by taking T=0.1 sec
+to satisfy the following specifications, (06)
 
-Method and (ii) BLT method is used for filter design. [06]
-b) Explain different types of windows used in designing FIR filters. Compare frequency domain
-characteristics of windows functions. [06]
-Q.7: Write a: short notes on [12]
-a) Digital Resonator and Notch filter. ‘
+06s |H(e)| <1 for0<w<035n
 
-b) Position of definite zeros in Symmetric FIR filters.
+|H(e”)|<0.1 for0.?nswen
+Q7: Write short notes on (any four) (12)
+1) Direct form J and II realization
+2) Frequency Transformation
+3) Frequency sampling method for design of FIR filter
+4) Advantages of FFT over DFT
+5) Properties of correiation
+6) Analog to Digital and Digital to Analog Conversion
+
+— az—-
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 3d631b19eb0a
@@ -4201,101 +5127,538 @@ c) Relationship between z-transform and DFT?
 d) Auto correlation and cross correlation.
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 3bd5ae2921a0
+## 2015-16 · Re-Exam · Sem 5 · paper 677b7d893299
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2014-15 RE EXAM0001(1).pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 June 2016
+- Text: ocr (2 pages), mean OCR confidence 79.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN NG
+
+SVEKM’s NMIMS (ee
+
+; 4 MPST Ba Fr
+| Programme: B.Tech (Computer) Year: II Semester: V Bf LIBRA “ts ‘e
+! i, 7 2a. ’
+: —s Ne Ve
+Academic Year: 2015-16 eae
+a RO,
+Batch: 2014-15 Marks:60 ees
+Subject: Digital Signal Processing Time: 2.00 pm - 5.00 pm
+Date: 09 June 2016 : Durations: 3 (hrs)
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use
+1. Question No. 1 is compulsory
+2. Out of the remaining questions, attempt any four questions
+3. Inall 5 questions to be attempted
+4. Answer to each question must be started on a new page
+
+ra 5. Figures on the right indicate full marks
+
+1 Attempt any four
+A. Consider the analog signals x(t) = 3cos[2m(20t)] and y(t) = 3cos[27(70t)]. Find the’ 03
+sampling frequency so that 70 Hz signal is an alias of the 20 Hz signal.
+
+B_ State and prove whether the following signals are energy or power signals. 03
+i. 6[n]
+ii. u[n] .
+C_ Explain Frequency warping effect in bilinear transformation? 03
+D_ Explain initial and final value theorem in Z domain 03
+
+E Compare the number of complex additions and complex multiplications in the direct 03
+computation of DFT and the FFT algorithm for an 8 point sequence.
+
+2 A A causal first-order digital filter is described by the system equation 06
+H[z] =b 1+bz
+Be OTF art
+i. Fora = 0.5 and b = 0.6 sketch the pole-zero pattern. Is the system stable? Why?
+iii For a=—0.5 and b=0.5 determine by so that the maximum value of
+|H(w)| = 1
+B Explain overlap-save and overlap add method. 06
+3 A Compute the 8-point DFT of the sequence using the DIT — FFT aigorithm 96
+
+x(n) = % 1,0,0,1,1, 0,0}
+
+B The first five points of the 8-point DFT of a real-valued sequence are 03
+oe 2+ 3j,0,1- 5,0}. Determine the remaining three points. State the property used.
+
+C Determine circular convolution of the sequences using the time domain approach 03
+x,(1) = i 2,3, 1}
+
+x2(n) = {4,3, 2,2}
+t
+
+4 A Determine the Z-transform and sketch the ROC of the following signal 06
+x[n] = (a)" cos(wn) u[n]
+
+i/o
+--- page 2 ---
+B Compute the correlation of the following pairs of signals and comment on the result 06 ’
+i; x,[n] = Oe 0,0, 0} X2[n] = ee 1, 0,0} :
+
+ii. x,[n] = {1, 0,0, 0} x9[n] = {0,0,0,1}
+ay t
+
+5 A. Realize the following system using direct form I, direct form II, cascade and parallel 06
+
+forms:
+H@) = 1—3271 +227
+2) = 740322 — 0.12
+B Determine the impulse response of discrete time LT] system defined by
+y(n) — 4y(n- 1) +4y(M- 2) = x— 1)
+
+06
+
+6 A Design a digital Butterworth filter that satisfies the following constraint using Bilinear 06
+Transformation. Assume T = Is.
+0.707 < |H(e/#)| <1 O<w<n/2
+JH(e/”)| < 0.2 3n/4S WS 2
+B. By means of DFT and IDFT determine the response of an FIR filter with impulse 06
+response h[n] = {1,2,3} and input sequence x[n] = (1, 2,2,13
+
+7 A. A low pass filter is to be designed with the following desired frequency response 06
+Ha(el®@) =e, —3n/4 <0 < 30/4
+=0, 3nr/4<lo| sa
+Determine the filter coefficients h(n) for M= 7 using a Hamming Window
+06
+
+B Compare FIR v/s IIR Filter
+
+
+2/2
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 3d0063055b4c
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 01 December 2016
-- Text: ocr (2 pages), mean OCR confidence 87.2
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 87.5
 
 ````text
-—
-SVKM’S NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme : B. Tech (EXTC) Year : Ill Semester: V
 
-Batch : 2015-2016
-Academic Year : 2016-2017
+Programme: B. Tech (EXTC) Year: III Semester: V
 
-Subject : Digital Signal Processing
-Date : 01 December 2016
+Batch: 2014-2015
+Academic Year: 2015-2016
+
+Subject: Digital Signal Processing
+Marks:
+
+Date: 02/12/2015 Time:
+Duration:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+NB:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions attempt any four questions.
+3. In all attempt five questions to be attempted.
+4. All questions carry equal marks
+5. Answer to the new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+cMiereg aiey Bet ;
+Q. 15 (a) An LTI is described by the following transfer function, @ 2)
+H(z) = (1+ 1.2z) /(- 0.4z")
+Draw its poles and zeroes. Determine the difference equation. Is it a Low pass / High pass / Band
+pass / Band reject filter?
+(b) Difference equation of a discrete time filter is given by
+y(n) = 2x(n) — 4x(n-1) +5x(n-2) — 4x(n-3) + 2x(n-4).
+Realize it using minimum number of components.
+(c) Compute DFT of a sequence x(n) using FFT algorithm where
+x@) = xi(n) + x2(n)
+x(n) = {-2, 3, -1, 4}
+- x2(n) = {4}, 4, 5). 3}
+(d) Draw pole and zeroes of a second order low pass Butterworth filter with cut off frequency of 1.5
+rad. Also determine transfer function, H(s) of the filter.
+(e) Determine transfer function and difference equation of a digital resonator which gives maximum
+magnitude at frequency w= 0.5z.
+
+Q2. (a) State whether each of the following filters is IR/ FIR, Linear phase/ non Linear Phase, (O06
+Minimum/Maximum/ Mixed phase and stable/ unstable . Filter are described as follows
+@ y(n) — 2y(n-1) = 2x(n) — 3x(n-1)
+—, (ii) 3y(n) = - x(n) + 4 x(n-1) — 4x(n-2) + x(n-3)
+Git) ya) = x(n) — 1.6x(n-1) — 0.8x(n-2)
+
+= PAGE 4 OF 2
+--- page 2 ---
+(b) Impulse response of a linear phase FIR filter is given by h(n) = { 3, 4, -1, 4,3}. Sketch magnitude
+
+and phase response of the filter (06)
+Q3. (a) Describe the overlap and add method of long data filtering. (06)
+(b) Compute DCT of the following sequence, x(n) = {4, 3, 3, 2}. Also justify energy compaction for
+the DCT coefficients (06)
+Q4. (a) Write short notes on (06)
+
+(i) Comb filter
+(ii) Architecture of DSP processor
+(b) Compute DFT of the following sequence using DIF-FFT (o 1)
+x(n) = {2, -1, 4, 3, 2, -2, 0, 1}
+Using property only compute DFT of x,(n), where x)(n) = 3 x1(a) + x(n)
+Q5. (a) A DT system is shown below (06)
+
+H,(2) y(n)
+x(n) H3(z) -———>
+
+H(z)
+
+3-477 1-0.527+ =
+H,@) = me H(z) = a H3(z) = 2-52
+
+Draw a structure for the overall system using Direct Form II, cascade and transpose Direct Form I.
+
+(b) Design a high pass FIR filter with 7 coefficients for the following specifications. Pass band edge
+frequency 0.4 kHz. Sampling frequency is 2k Hz. Use Hamming window. Determine delay,
+order, stop band attenuation and transition bandwidth of the filter. (06)
+
+Q6. (a) Draw a Lattice structure for an FIR filter with the following transfer function (0 6)
+H(z) =3 + 42 - 22° + 62°
+Is it a minimum phase filter?
+
+(b) Design a low pass Butterworth filter to meet the following specifications. (06)
+Use Bilinear transformation. 2dB passband attenuation at a frequency of 20 rad/sec and
+atleast 10 dB stopband at 30 rad/sec.
+
+Q7. (a) Using IFFT compute x(n) for X(k) = {3, 6+2), -4+j, 2, 5,2, -4-j, 6-2j}. Determine the number of
+multiplications and additions for IDFT using direct computation and using IFFT. Compare it with
+
+the computations required for a 512-point sequence. (08)
+(b) Difference equation of an LTI system is given below
+y(n) + 3/4y(n-1) + 1/8 y(n-2) = x(n) + x(n+1) (06)
+Determine transfer function and squared magnitude response. Sketch squared magnitude
+response.
+
+xy —
+
+—e
+
+page 2 OF 2
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 6d64133bff07
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 02/12/2015
+- Text: ocr (2 pages), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: Ill Semester: V
+Batch: 2013-2014
+Academic Year: 2015-2016 VA gait TE a
+
+FO PN gr
+
+Subject: Digital Signal Processing yf f mePStTME Ne
+
+Marks =: 100 (rizr RY ‘
+Date: 02/12/2015 Time 2 2.0 ne 00 pm 4§, > 4
+Pac
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB.
+
+1. Question no 1 is compulsory.
+
+2. Out of remaining questions, attempt any FOUR questions.
+
+3. In all FIVE questions to be attempted.
+
+4, All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure on right indicate full marks.
+
+Q.1) Solve any four (20)
+
+a) Find whether signal is energy or power signal. x(n) = u (n)
+
+b) Determine whether the following system is, linear or non linear, causal or non causal, time
+variant or not.
+y(n) = Trunc [x(n)] .
+
+c) State the properties of ROC and explain its significance
+
+d) Explain DFT as a linear transformation matrix
+
+e) Write a short note on Digital Sinusoidal Oscillator.
+
+Q.2
+a) Realize the FIR System in direct form and cascade form
+H(z) = (1+0.5z"!) (1+0.5z'!+ 0.2527) (10)
+b) Derive and explain the following properties of DFT
+i. Circular time Shift of a sequence
+ii. Circular Frequency shift of a sequence (10)
+Q3
+ay Derive the Bilinear Transformation relationship of mapping of s plane to z plane. Hence
+explain the relationship of analog and digital poles. (10)
+
+b) DFT of a sequence x(n) is given by X(k) = {6, 0, -2, 0}
+i. Determine x(n)
+ii. Plot xi (n) if Xi (kK) is X(k) . e?#?
+iii. Determine Circular Auto correlation of x(n) using DFT and IDFT only. (10)
+
+fo
+--- page 2 ---
+Q4
+
+a) Find N point DFT of x (n) = cos (2zk0n/N) by formula method (10)
+b) Ifx (n)=86(n) + &(n -1)+ &(n -2) find
+i) X (e)
+ii) X(k) four point DFT
+iii) Show that DFT is sampled version of |X(e®)| (10)
+Q.5
+a Find the linear convolution using overlap slave method of the following sequences:
+x(n) = {1, -1, 2, -2, 3, -3, 4, -4} & h(n)= {-1,1}. (10)
+b. Define DCT. Hence explain relationship between DCT1 and DCT 2 with its
+applications. (10)
+Q.6
+a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm with equations at each
+siage (N=8.) (10)
+b) Obtain DFT of a sequence x (n) = {2, 2, 2, 2, 1,1,1,1}using Decimation in Time
+FFT algorithm. (10)
+Q.7
+a) Compare General Purpose processor with DSP Processor. Hence explain the architecture
+of a General DSP Processor (10)
+b) Explain short note on VLIW Architecture and On-chip Peripherals. (10)
+
+jo
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 0ebc70cd7e45
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 June 2016
+- Text: ocr (1 page), mean OCR confidence 87.6
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG a.
+
+v ‘
+x
+MPSTME }”
+
+P. amme: B.Tech (EXTC) Year: II Semester: V
+rogr ( Bi LinRary <
+Academic Year: 2015-16 oN Ig
+6 i RES
+Marks:60 OS ee
+
+Batch: 2014-15
+Subject: Digital Signal Processing
+Date: 11 June 2016
+
+Time: 2.00 pm - 5.00 pm
+Durations: 3 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. All question carry equal marks.
+
+4. Answer to each new question to be started on a fresh page.
+
+5. Figure in brackets indicates full marks.
+
+Q 1. Do as directed. [12]
+a) Calculate Inverse Fourier transform of sequence {12 1-5i-2 1+5i}.
+- b) Find the Difference equation of DT system and Identify the type of Filter whose transfer function is
+Zz
+H(z) =
+(2) z-0.5 .
+
+c) Explain the frequency warping in BLT.
+d) Compare DSP processor and Micro-processor.
+
+Q.2.
+a) Explain Frequency Response of a filter with an example. [06]
+b) Determine the ZEROs and Indicate whether system is Minimum phase, Maximum phase or mixed
+phase. [06]
+(i) hi(n) =[1 2 -8] (ii) ho(n)= [1 5/2 -3/2]
+(iii) h3(n)=[1 -1 -6] (iv) ha(n)= [3 1/2 -1/2]
+Q3.
+a). Find DFT of the sequence using DIT-FFT + [06]
+xfnf={l 1 1 1 1 2 3° 4};
+b State. and prove different properties of DFT. [06]
+Q.4:a) Obtain DCT of the sequence x[n]={1, 2,3, 2}. Explain the energy compaction property of
+~ DCT. [06]
+b) Explain overlap-add and overlap-save methods with examples. [06]
+Q.5:a) Design 6" order HPF with cutoff frequency @.=0.52n using frequency sampling method. [06]
+b) Given, Ap=1.93dB, As=13.97dB, @p=0.6 x, @=0.2 1, Design digital Buttorworth fiiter
+and show realization diagram. [06]
+
+Q.6: a) Derive the relation between analog and digital filter frequency when (i) Impulse Invariant
+Method and (ii) BLT method is used for filter design. [06]
+
+ae 7
+b) What is a window in FIR filter design and why is it necessary. Draw different types of
+windows used in designing FIR filters. Compare frequency domain characteristics of
+aa windows functions. [06]
+
+Q.7 : Write a short notes on [12]
+a) All pass filter
+b) Quantization error
+c) Need of special architecture for DSP
+d) Linear Phase FIR filters
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper 38639e99d1b2
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM_38639e99d1.pdf`
+- Printed on paper: max marks: 60; exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 86.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Electronics) Year: IV Semester: VII
+Batch: 2014-2015
+Academic Year: 2015-2016 ——
+VA gett TE oF Ran,
+
+Subject: Digital Signal Processing if i Sr “< Me
+Marks: 60: | 7, PSTM Se
+Date: 28/11/2015 Time: eee h.00%m) S | ;
+Duration: es We 4§ 3
+ie ”
 
 Re-Examination
 
 Instruction: Candidates should read carefully the instructions printed on the question paper and
 on the cover of the Answer Book, which is provided for their use.
 
-NB:
+1) Question No. | is compulsory.
 
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
+rr 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 are questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-
 7) Assume suitable data, if required.
 
-Ql Attempt any THREE of the following (12)
+QI. Attempt any four of the following. (| 2)
 
-a | Determine whether the following systems are of Minimum Phase, Miximum- (4)
-Phase or Mixed Phase type.
+(a) Explain DSP Processor and its architecture.
+(b) Write short note on Digital Sinuso idal Oscillator with its applications.
+(c) The first five points of an 8-point DFT of a real-valued sequence are {0.25, 0.125 - j
+0.3018, 0, 0.125 —j0.0518, 0} Determine the remaining three points.
+(a) Why Direct form-II is preferred over Direct form-1. Give an example to support your
+& argument.
+(e) Enlist the advantages and disadvantages of Digital Signal Processing over Analog Signal
 
-i) H\(z) =z +2z-8
+Processing.
 
-ii) Hy @)=32 +52-4
+Q2.
 
-2
-b | For DFT pair shown below, compute the valiea of the (4)
-boxed quantities. PRG 5
-q(In] = {Q, 3, -4, 2, 0, 1} Qik] = (4,0, 4495. 8, O, 4-j1.73
-| }
-© | se hist} (4)
+(a) Determine the coefficients of a linear phase FIR filter which is represented by the
+following difference equation when the following conditions have also been specified:
 
-An antisymmetric filter has one zero at z= am? What is the minimum order of
-
-this filter? Justify your answer.
-
-d | Explain Mapping of points from s-plane to z-plane when BLT Method is used (4)
-for filter design.
-
-ps Q.2 | a | Plot Magnitude Spectrum and Phase Spectrum of following given signal: (8)
-x[n={3 212 3]
-
-b | Compute circular convolution of x, [rl= 3.21.2} and x, [r)= 12.1.2} (4)
-
-+f
+=n ylr] = boz[n] — b:2[n — 1] - b3a[n + 2]
+i (i) The filter completely rejects a frequency component at 27/3.
+(ii) The frequency response is normalized such that H(O)=1. (6 )
 --- page 2 ---
-[Q.3
+(b) Compute the linear convolution of two sequences defined as follows using Circular
 
-Given x[n] = (1, 2, 3, 4, 4, 3, 2,1}. Find X[k} by using DIT-FFT.
+convolution.
+z[n] = u[n] —uln — 3]
+A[r] = uln — 1] = un — 2) — uln — 4) —uln — 5]
+(6)
+Q3.
 
-(8)
-Define Discrete cosine transform . Specify its any two application . (4)
-Q.4 Let x[n] be four point sequence with X[k] = { 1, 2, 3, 4 }. Find the DFT of the | (6)
-following sequences using X[k] ty
-G) p{n] = x[n-1] (ii) q{n] = 2 x[n-2] (iii) r[n] = x[n]+2x[n—
-1]+3x[n—2]
-6
-Design 5" order Linear Phase Low Pass FIR filter with We = 7 using (6)
-hamming window function.
-Q.5 Design a Digital Butterworth filter that satisfies the following constraint using | (12)
-Bilinear Transformation Assume T;= 1 sec’
-09 < |He™/|<10 fr 0< w< xe
-Ine) 1<02 for 3n4<wen
-Q.6 One of the zeros of a causal linear phase FIR filter is at 0.5 260. Show the (6)
-locations of the other zeros and hence find transfer function and impulse
-response of the filter.
-Determine the Direct Form] and II for the second order filter given by (6)
-y(n) = 2b coswWo y(n-1) — b* y(n-2) + x(n) — coswo x(n-1)
-Q.7 Write a short note on MAC unit and pipelining in DSP Processor . (6)
-Explain NOTCH filter in detail. (6)
+(a) Define Discrete Fourier Transform? How it is different from DTFT? Also, compute the
+
+4-point DFT of the sequence {1, 2, 4, 8} & compute the IDFT of your result and verify
+(6)
+
+the given input sequence.
+
+(b) Explain the concept of Overlap Add.method and perform the linear convolution between
+the following sequences: x{n] = {1, 2, -1, 2, 3, -2, -3,-1, 1, 1, 2, -1} & h{n] = {]1, 2, 3}.
+(6)
+
+Q4.
+
+(a) Obtain the DFT of the following sequence using DIF-FFT algorithm. C6)
+x [n] = {0.5, 0.5, 0.5, 0.5, 0, 0, 0, 0}
+
+(b) Using Bilinear transformation, design a Butterworth filter which satisfies the following
+
+conditions:
+0.8 <= |H(e”)| <L0<w<0.27
+
+|H(e!”)| <0.2;0.67 Sw Sa
+(6)
+Q35.
+
+_(a) The transfer function of a discrete time LTI system has been given as follows. Draw the
+
+cascade and parallel realization.
+
+_ get
+H(2) =="
+
+1—0.22Z-!-—0.15z7°
+
+(6)
+
+(b) Explain the steps involved in the design of a FIR filter using windowing method. ( 6)
+
+aE
+--- page 3 ---
+Q6.
+(a) Consider a FIR filter with the system function as given below. Sketch the lattice
+
+realization of the filter.
+
+H(z) =1—2.8827) + 3.404827? + 1.74273 + 0.4274
+(6)
+(b) Explain any three properties of DFT with their proof. C6)
+Q7. Write short notes on any 4 of the following: (12)
+
+(a) DSP processor v/s General purpose processor.
+
+(b) Effect of round-off noise in digital filters.
+
+(c) VLIW architecture.
+
+(d) Programmable DSP with RISC & CISC architectures.
+(e) Notch Filter.
+
+(f) Relationship between DFT, DCT-I & DCT-I.
+
+ay
 ````
 
 ## 2015-16 · Re-Exam · Sem 7 · paper e4234ff60d37
@@ -4405,104 +5768,6 @@ b) Explain the effect of round off noise in digital filters. [04]
 
 (> fe
 2/2
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 686662bda097
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Digital Signal Processing/Digital Signal Processing Batch 2015-16 Re Exam.pdf`
-- Printed on paper: exam date: 28 November 2016
-- Text: ocr (2 pages), mean OCR confidence 84.1
-
-````text
-nt
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme : MBA. Tech (Computer) Year : I Semester :V
-Batch : 2015-16
-
-] Academic Year : 2016-2017 ee \tOTE
-
-_ ‘ : us
-ject : ‘ocessin: Mar "
-Subject : Digital Signal Pr gz Marks ae Ma <
-Date : 28 November 2016 Duratiang (3
-A 7 Y ' hee
-Re-Examination SS Wiees
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. One is compulsory. ,
-
-2) Out of remaining questions, attempt any four questions,
-
-3) In all five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary,
-
-Q1 Attempt any four (2)
-a) Compare the DIR and FIR filters,
-b) What is the importance of poles in design of digital filter?
-c) State the initial and final value theorems with regards to Z transform:
-d) What is BIBO stability? What is condition to be satisfied for stability?
-€) What is bin spacing in DFT?
-
-Q 2a) Determine the overall impulse response of the interconnected discrete time systems shown below.
-hy(n)=a"u(n) y(n) =6(n—-1) Ag (n) = d(n- 2)
-
-—| Ay(@m) » a2)
-
-—»| 3s hy)
-a (06)
-Q 2 b) Explain energy and power signal’. Determine whether the signal x(n) = @" u(n) is power and
-pas Energy signal: . (06)
-
-~jJ2-
---- page 2 ---
-Q3a) Determine the response y(n), n = 0 of the system described by the second order difference
-Equation, y() + 0.2y(m — 1) — 0.03y(m — 2) = x(n) + 0.4x(n — 1) when the input signal is
-x(n) = 0.2"u(n) and with initial conditions y(—2) = 0 y(-1) = 0.5 : (06)
-
-b) Test the stability of the system governed by the difference equation y(n) = x(n) + by(n — 1)
-where [bl <1. (06)
-
-Q 4a) Compute circular convolution of the following two sequences using DFT
-x(n) ={0101} x2(n) = {1212}. (06)
-
-b) State the properties of twiddle factor and explain their use to compute the twiddle factor matrix
-for N=4. (06)
-
-Q5 a) An 8 point sequence is given by x(n) = {2,1,2,1,1,2,1,2} compute 8 point DFT of x(n) by radix 2
-
-DIT-FFT (06)
-b) Determine the impulse response and frequency response of the LTI system described by
-y(n) = x(n) + by(n ~ 1). (06)
-Q 6a) Design a linear phase of FIR high-pass filter using hamming window with the cut-off frequency
-w, = 0.87 rad/sample and N=7. (06)
-b) Design a Butterworth digital IR low-pass filter using bilinear transformation by taking T=0.1 sec
-to satisfy the following specifications, (06)
-
-06s |H(e)| <1 for0<w<035n
-
-|H(e”)|<0.1 for0.?nswen
-Q7: Write short notes on (any four) (12)
-1) Direct form J and II realization
-2) Frequency Transformation
-3) Frequency sampling method for design of FIR filter
-4) Advantages of FFT over DFT
-5) Properties of correiation
-6) Analog to Digital and Digital to Analog Conversion
-
-— az—-
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 13dfa47f0918
@@ -4700,6 +5965,152 @@ e) A/D Conversion
 af
 ````
 
+## 2014-15 · Final-Exam · Sem 5 · paper 505abf29aa4d
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), 204-15 FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 04/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (EXTC) Year: III Semester: V
+
+esTiTUTE OF Bay a
+Se ty,
+£7 MPSTM a
+LN 20pm 4 RY Je
+
+wa is,
+
+‘a Ay,
+
+: Mona aK "4
+
+Academic Year: 2014-2015
+
+Subject : Digital Signal Processing
+
+Marks: 100
+Date : 04/12/2014 Time : 2.00 p
+
+Durations: 3
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer book, which is provided for their use.
+
+1. Question no.1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets on the right hand side indicate full marks for a question.
+
+Ql. (a The frequency response of a system is given by (20)
+H(W) = (1-rele™) (1- ree")
+Determine its magnitude and phase response.
+
+(b) Compute circular convolution of
+x(n) = {3,2,1,2} and x2(n) = {1,2,1,2}
+
+(c) An FIR filter has zeroes at +2, +j and —j. Determine its transfer function and realize the
+same.
+
+(d) The frequency response of an FIR filter is given below.
+H(W) =e”, O<|wi<F
+= 0, elsewhere
+Determine order, cut off frequency and stop band alternation if Hamming window is usd.
+
+(e) Determine the zeros for the following FIR systems and indicate whether the system is
+minimum phase, maximum phase or mixed phase.
+(i) H,(z)=6+Z73-Z7?
+
+(ii) H2(z)=1-Z-1-z?
+Q2. (a) Perform the circular convolution of the following sequences using DFT & IDFT.
+x(n)={1, 1, 2, 1}.
+
+h(n)={1, 2, 3, 4} (10)
+
+(b) Find the IDFT of the following sequence (10)
+x(n)={8, 1-j2.4, 0, 1-70.4, 0, 1+j0.4, 0, 1+j2.4} using DIF-FFT algorithm.
+
+1/2,
+--- page 2 ---
+Q3.
+
+Q4.
+
+QS.
+
+Q6.
+
+Q7.
+
+(a) Poles and zeroes of an LTI discrete time system are as follows.
+Zeros are at 1.1 and -0.9
+Poles are at 0.8 e+/047
+Compute and sketch magnitude and phase response of the filter.
+
+(b) Explain quantization effect on the coefficients of FIR filters.
+
+(a) Design a Low pass FIR Filter with length 7, cut off frequency of 1.5kHz and sampling
+
+(10)
+
+(10)
+
+frequency of 5kHz using Hamming Window. Also determine the frequency response. (10)
+
+(b) Differentiate general purpose and DSP processors. Explain pipelining effect and (10)
+MAC unit in DSP processor.
+
+(a) Design a Butterworth Digital IIR low pass filter using bilinear transformation by (10)
+
+taking the sampling time of T=0.1 second to satisfy the following specifications.
+
+0.6 <|H(e™”)| < 1.0 hr 0S w<0.350
+jH(e”)| < 0.1 hr 0.72 Sw <n
+
+(b) If DFT of a sequence x(n) is given by XCK) = {1, 2, 3, 2}. Compute DFT of the (10)
+
+following signals
+x,(n) = x(n + 2)
+x(n) = x(n) e™?
+
+(a) Obtain Direct Form I Realization for the system described by the difference equation
+y(n)=0.5y(n-1) - 0.25y(n-2) + x(n)+ 0.4x(n-1). Also Determine the Direct From-II
+realization for the following System
+y(n)= - 0.ly(n-1) + 0.72y(n-2) + 0.7x(n) - 0.25x(n-2).
+
+(b) Sketch pole zero locations for digital resonator, comb filter, notch and all pass filter
+of minimum order.
+
+(a) Compute DCT for the following sequence
+x(n) = {4, 3, 2, 1}
+Prove that DCT coefficients justify the energy compaction.
+
+(b) An FIR filter has zeroes located at -0.4, -2.5 and -1. Determine transfer function
+and difference equation for the same. Is it a linear phase filter? Realize it Identify
+the type of filter based on its passband.
+
+(10)
+
+(10)
+
+(10)
+
+(10)
+````
+
 ## 2014-15 · Final-Exam · Sem 7 · paper a158a56e3784
 
 - Departments: Electronics
@@ -4707,6 +6118,7 @@ af
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS) 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28/11/2014
 - Text: ocr (2 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4784,7 +6196,6 @@ B. Realise the following system functions using minimum number of multipliers:
 
 F = 1,-1,1,-24,1,-34,1,-4 -5
 
-(i) H@)=1+ 52 a le i A +2
 
 i) H@)= (+24) (144244527424) [1OMARKS]
 Q6. A. Design a Butterworth digital IIR lowpass filter using impulse invariant transformation by
@@ -4906,6 +6317,179 @@ v) Cross and auto correlation (20 marks)
 , x
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper fa020a1a98e2
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (COMP) BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 29/11/2014
+- Text: ocr (2 pages), mean OCR confidence 80.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (COMP) Year: III Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Digital Signal Processing
+Marks:
+Date: 29/11/2014 Time:
+Duration
+
+Re-Examination
+
+Instru ctions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory. .
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. Inall 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Ql
+a)
+b)
+c)
+d)
+e)
+f)
+Q2 a)
+
+b)
+
+Q3 a)
+b)
+
+Q4t a)
+
+b)
+
+Qs a)
+
+Attempt any four
+
+State and prove whether the following signals are energy signals or power signals 5
+(i) 5)
+Gi) u(n)
+
+Prove that Y78x?(n)=L18 x,2(n)+h22x,7(n), where x,(n) and x,(n) are the even and odd 5
+parts of x(n).
+
+Explain efficient computation of FFT over DFT. 5
+Compare FIR and IIR digital filters. 5
+Explain Gibbs phenomena and frequency warping effect with respect to digital filters. 5
+Explain Region of convergence and Give properties of ROC of Z transform 5
+
+For a given sequence x(i)=[1 2 2 1J,correlate the signal with itself. Compute the Cross Co- 10
+rrelation with y(n) = [1,1,1,1]
+
+Compute Circular convolution by linear convolution using graphical method and verify the 10
+same by tabular method.
+
+x(n) = [1,2,1,1,] h(n) = [1,1,2,1]
+
+Explain bit reversal property of DIT-FFT. Compute the 4 point DFT of x(n) = [1,0,0,1] 10
+using DIT FFT algorithm
+
+If x(n) = a" cos wn u(n), Find the X(z) using properties of z transform. 10
+Determine x(n) by using partial fraction expansion 10
+
+1-z~1 :
+
+H(z) = Troaptcoapez» ROC: 0,3<|z/<0.4
+
+Explain Overlap add and Overlap Save Method. 10
+The difference equation of the system is given by — 10
+
+3
+
+3. ~. 7 ‘ i, :
+y(n) + —¥(a-1)4+—vin-Dax@M@exM-)
+. re R-
+(i) Determine transfer function
+
+(ii) Plot poles and zero diagram
+--- page 2 ---
+Q6
+
+Q7
+
+b)
+
+a)
+
+b)
+
+a)
+
+b)
+
+(iii)Draw Direct form-l, Direct Form IJ,cascade and parallel realization.
+By means of DFT and IDFT determine the response of a FIR filter with impulse response
+h(n) = [1,2,3] and input sequence x(n) = (1,2,2,1]
+
+Design a Digital Butterworth filter that satisfies the following constraint using Bilinear
+Transformation Assume Ts = | sec.
+0.9 <|HCejw)|<1.0 for Osw<n/2
+
+|H(ej w)|<0.2 for 32/4<wsa
+
+- Compute IDFT using DIT-FFT algorithm
+
+X(k) = [2,1,251,2,1,2.1]
+
+The desired response of a low pass filter is
+i _73y¢ . 3
+iw, [ere for SEs ws 3b
+gq (er pss ap . 4
+[. 4 2£<jwlsaa
+q 4
+
+Determine H (™) for M=7 using Hamming Window.
+The Hamming Window function is
+
+“Agn } f g< i 1)
+; POs ns -
+Tj for q 5
+
+last —0.46 cos |
+whal= | \ Af -
+[0 Orherwise
+
+A causal DT system has transfer function H(z) such that H(z) = H(z) Ha (2).
+The pole-zero diagram of H1(z) and H2 (z) is ds follows :-
+
+Hiy(z) F(z) |
+-13 | os -a5s |
+
+(i) Find the transfer function of total system.
+
+(ii) Find difference equation of system.
+
+(ii) Find the response of the system to the input x(n) = (-1/2)" un) .
+
+(iv) What is magnitude and phase response of the system at w= 0 and w=.
+
+x x
+
+10
+
+10-
+
+jo
+
+10
+
+10
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper 2db0b6c7b7f8
 
 - Departments: Computer Engineering
@@ -5005,414 +6589,114 @@ stop-band edge : 5 kHz . Stop-band edge is 42 dB and sampling frequency is 20 kH
 %%
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 677b7d893299
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2014-15 RE EXAM0001(1).pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 09 June 2016
-- Text: ocr (2 pages), mean OCR confidence 79.5
-
-````text
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN NG
-
-SVEKM’s NMIMS (ee
-
-; 4 MPST Ba Fr
-| Programme: B.Tech (Computer) Year: II Semester: V Bf LIBRA “ts ‘e
-! i, 7 2a. ’
-: —s Ne Ve
-Academic Year: 2015-16 eae
-a RO,
-Batch: 2014-15 Marks:60 ees
-Subject: Digital Signal Processing Time: 2.00 pm - 5.00 pm
-Date: 09 June 2016 : Durations: 3 (hrs)
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use
-1. Question No. 1 is compulsory
-2. Out of the remaining questions, attempt any four questions
-3. Inall 5 questions to be attempted
-4. Answer to each question must be started on a new page
-
-ra 5. Figures on the right indicate full marks
-
-1 Attempt any four
-A. Consider the analog signals x(t) = 3cos[2m(20t)] and y(t) = 3cos[27(70t)]. Find the’ 03
-sampling frequency so that 70 Hz signal is an alias of the 20 Hz signal.
-
-B_ State and prove whether the following signals are energy or power signals. 03
-i. 6[n]
-ii. u[n] .
-C_ Explain Frequency warping effect in bilinear transformation? 03
-D_ Explain initial and final value theorem in Z domain 03
-
-E Compare the number of complex additions and complex multiplications in the direct 03
-computation of DFT and the FFT algorithm for an 8 point sequence.
-
-2 A A causal first-order digital filter is described by the system equation 06
-H[z] =b 1+bz
-Be OTF art
-i. Fora = 0.5 and b = 0.6 sketch the pole-zero pattern. Is the system stable? Why?
-iii For a=—0.5 and b=0.5 determine by so that the maximum value of
-|H(w)| = 1
-B Explain overlap-save and overlap add method. 06
-3 A Compute the 8-point DFT of the sequence using the DIT — FFT aigorithm 96
-
-x(n) = % 1,0,0,1,1, 0,0}
-
-B The first five points of the 8-point DFT of a real-valued sequence are 03
-oe 2+ 3j,0,1- 5,0}. Determine the remaining three points. State the property used.
-
-C Determine circular convolution of the sequences using the time domain approach 03
-x,(1) = i 2,3, 1}
-
-x2(n) = {4,3, 2,2}
-t
-
-4 A Determine the Z-transform and sketch the ROC of the following signal 06
-x[n] = (a)" cos(wn) u[n]
-
-i/o
---- page 2 ---
-B Compute the correlation of the following pairs of signals and comment on the result 06 ’
-i; x,[n] = Oe 0,0, 0} X2[n] = ee 1, 0,0} :
-
-ii. x,[n] = {1, 0,0, 0} x9[n] = {0,0,0,1}
-ay t
-
-5 A. Realize the following system using direct form I, direct form II, cascade and parallel 06
-
-forms:
-H@) = 1—3271 +227
-2) = 740322 — 0.12
-B Determine the impulse response of discrete time LT] system defined by
-y(n) — 4y(n- 1) +4y(M- 2) = x— 1)
-
-06
-
-6 A Design a digital Butterworth filter that satisfies the following constraint using Bilinear 06
-Transformation. Assume T = Is.
-0.707 < |H(e/#)| <1 O<w<n/2
-JH(e/”)| < 0.2 3n/4S WS 2
-B. By means of DFT and IDFT determine the response of an FIR filter with impulse 06
-response h[n] = {1,2,3} and input sequence x[n] = (1, 2,2,13
-
-7 A. A low pass filter is to be designed with the following desired frequency response 06
-Ha(el®@) =e, —3n/4 <0 < 30/4
-=0, 3nr/4<lo| sa
-Determine the filter coefficients h(n) for M= 7 using a Hamming Window
-06
-
-B Compare FIR v/s IIR Filter
-
-Se sk ok ae ok a ok ok ae ok a ok ake
-
-2/2
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 7a0516576d41
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL_SIGNAL_PROCESSING_(COMPUTER)__BATCH_14-15_RE_EXAM_.pdf`
-- Printed on paper: max marks: 60; exam date: 22 November 2017
-- Text: ocr (2 pages), mean OCR confidence 85.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMPUTER) Year: III Semester: V
-Batch: 2014-15 ii
-yo Academic Year: 2017-2018 eg tTE 2? .
-ar ae aN ae *
-| Subject: Digital Signal Processing : ey . SS
-> an
-
-Marks: 60 34... .
-Time: 2. 0 Ba to 0
-Durationsy3"(a —)
-No. of Pages: e re yo
-So
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-. cover of the Answer Book, which is provided for their use. .
-
-Date: 22 November 2017
-
-Re-Examination
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. a. Find the periodicity of the DT signal x[n] = sin (= n) + cos) [2]
-b. Given x[n] = {1,2,3, —4,6} Plot the signal x[—n — 1]. [2]
-c. A continuous time signal is x(t) = 8 cos 200zt. Determine the minimum sampling rate. [2]
-
-And also find the discrete time signal obtained if sampling frequency is 400 Hz.
-
-d. Determine the power of the signal x[n] = u[n]; n > 0 [2]
-e. Compare FIR and IIR filters in brief. [2]
-f. Explain radix-2 FFT with butterfly flow-graph. [2]
-
-n
-Q2. 4 Find the convolution of the following signals: x(n) = (-) u(n) and h(n) = 3"u(n) [6]
-b. Consider the following Difference equation [6]
-3 1
-y(n) — gyn — 1) + gy(n — 2) = 2x(n— 1)
-Determine y(n) when x(n) = 6(n) and y(-1) = y(-2) =0.
-Q3. a. Explain the classification of Discrete Time Systems. [6]
-
-b. Find the transfer function and impulse response of the system (using z-transform) given by [6]
-
-x[n] =u[n}] and y[n] = 2"u[n]
---- page 2 ---
-Q4. a. Find the z-transform and Sketch the ROC of the following signal [6]
-
-1)” 1\"
-x(n) = (- 5) u(n) + 3 (2) u(n)
-b. Using the Decimation in Frequency (DIF) FFT flow graph compute DFT of [6]
-_ x[n] = {1, 0.707, 0, - 0.707, - 1,- 0.707, 0, 0.707 }
-Q5. a. State and prove the following properties: [6]
-1. Periodicity property of DFT.
-2. Convolution theorem of z-transform.
-b. Find the Discrete Fourier transform (DFT) of the following sequences: [6]
-"1. x(n) = a", 0< a< 1. Find N point DFT.
-
-2. x(n) = cos (=). Find 4-point DFT.
-Q6. a. Find the circular convolution of the sequences using DFT and IDFT method. [6]
-x(n) = {1,0.5,0} and f(n) = {0.5,1,0}
-b. Find the Direct form —I and Direct form —II for the system described by the difference [6]
-equation,
-y(n) = x(n) + 0.3x(n- 1) - 0.4x(n - 2) - 0.8y(n- 1) + 0.7y(n - 2).
-Q7 a. ~-Ananalog filter has a transfer function : [6]
-H(s) = 10
-
-s*+ 75+ 10
-
-Design a digital filter equivalent to this using impulse invariant method for T=0.2.
-b. Design a linear phase FIR high pass filter using hamming window, with a cutoff frequency, [6]
-
-We = 0.82 rad/sample and N=7 samples.
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 0a6df09fcb02
+## 2014-15 · Re-Exam · Sem 5 · paper 4f717c1ba484
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (EXTC), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 29 November 2017
-- Text: ocr (2 pages), mean OCR confidence 89.8
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 11/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.0
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
 Programme: B. Tech (EXTC) Year: III Semester: V
-
-Batch: 2014-15
-] Academic Year: 2017-2018
-
-6
-
+Batch: 2013-14
+Academic Year: 2014-2015 Pn
 Subject: Digital Signal Processing
+Marks:
+Date: 11/06/2015 Time:
 
-Marks: 60 ; st =~ ~~
-Date: 29 November 2017 Time: 2.00 pm»to-5.00 pm - a
+Durations: 3 (hrs}\ oN
 
-Durations: 3 fhts), » )¢ a3 }e
+A e,
+Oe
 
-No. of Pages Qecnanv Ps
-Re-Examination Qa <a y
+Re-Examination SMa 9
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-NB:
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB.
 
-1. Question no. | is compulsory.
+1. Question no 1 is compulsory.
 
-2. Out of remaining questions attempt any four questions.
+2. Out of remaining questions, attempt any FOUR questions.
 
-3. Inall attempt five questions to be attempted.
+3. In all FIVE questions to be attempted.
 
-4. All questions carry equal marks.
+4, All questions carry equal marks.
 
-5. Answer to the new question to be started on a fresh page.
+5. Answer to each new question to be started on a fresh page.
 
-6. Figures in brackets on the right hand side indicate full marks.
+6. Figure on right indicate full marks.
 
-Q. 1. (a) An LTI is described by the following transfer function, (<b>)
-H(z) =(1- Iz") (1- 0.52") (1- 22") ;
-Draw its poles and zeroes. Determine the difference equation.
-(b) Transfer function of a discrete time filter is given by
-H(z) = (1+ 0.52) (1+ 0.82")
-Realize it using Direct Form I structure.
-(c) Compute DFT of a sequence x(n) using FFT algorithm where x(n) = {1, 3, 1, 2}
-(d) Compare FIR and IIR digital filters.
-(e) Impulse response of the filters are shown below. Determine whether each of the following filters
-is linear phase filter or not.
-(i) h(n) = {2, 1, 3, 1, 2}
-(ii) h(n) = {-1, -3, -3, -1}
+7. Assume suitable data if necessary.
 
-Q2. (a) State whether each of the following filters is I[R/ FIR, and stable/ unstable. Filter are described as
-follows. (6)
-(i) y(n) = y(n-1) + x(n) — x(n-1)
-(ii) y(n) = -3x(n) - x(n-1) — 2x(n-2)
+Q.1) Solve any four (20)
 
-ital
+a) Find whether signal is energy or power signal. x(n) = u (n)
 
-(iii) y(n) — y(n-2) = 2x(n) — 4x(n-1) — 6x(n-2)
-gris (b) Impulse response of an IIR filter is given by H(z) = (1 - 0.5z') (1+ 0.2z"'). Sketch magnitude and
-7 phase response of the filter (6)
+b) Determine whether the following system is time variant or not.
+y(n) = x(n) . cos @o.n
 
-Vo
+c) State the properties of ROC and explain its significance
+
+d) Explain digital sinusoidal oscillator.
+
+e) Perform circular convolution using matrix method on the following sequences.
+xi(n)={1, 4, 0.6, 0.8, 1.6} :
+x2(n) = { 0.1, 0.3, 0.5, 3.4 }
+
+Q.2
+a) Write a note on BIBO stability and ROC. Hence find the transfer function and
+
+corresponding impulse response of the system if the system has gain 4, two zeroes at
+origin and two complex conjugates poles at 0.5 e#!* (10)
+
+b) Obtain the inverse Z- Transform of the function
+
+X(Z) = z(z+2) - ; x(n)= left handed system
+(z2 +0.4 Z -1.2) (10)
+
+4/2
 --- page 2 ---
-Q3. (a) Describe the overlap and save method of long data filtering. (6)
+Q.3
+a) FIR filter have impulse response as given below. Classify them as minimum phase,
+maximum phase or mixed phase
+i) hy (n) = {1,0.707, 0.25}
+ii) ho(n) = {1,1.414,1}
 
-(b) List and explain two properties of DFT. (6)
-Q4. (a) Draw butterfly diagram for a 4-point DIT-DFT. How many computations are required for 4-point
-and 8-point DFT? (6)
+ili) hg (n) = £1,-5,6} (10)
+b) Obtain 8 pt DFT of {1,1,1,1}. Assume imaginary part is zero and hence sketch
+maginitude and phase of X(K) (10)
+Q.4
+a) Find N point DFT of x (n) =a" :0<n<N-l ; (10)
+b) Ifx (n)=6(n) + (nm -1)+ 8m -2) find
+i) X (e)
+ii) X(k) four point DFT
+iii) Show that DFT is sampled version of |X(e)| (10)
+Q.5
+a) Using bilinear transformation design a first order butterworth LPF with a 3dB cut off
+frequency of 0.2 x (10)
 
-(b) Compute DFT of the following sequence (6)
+b. Design a normalized linear phase filter having the phase delay of t= 4 and at least 40 dB
+attenuation in the stopband. Also obtain the magnitude / frequency response of the filter.
 
-x(n) = {1, -2, 2, 3, 2, 0, 0, -1}
-QS. (a) A Discrete Time system has the following transfer function. (6)
-H(z) = (1-5z! +6z7)/ (1-1.52z' + 0.5 z?)
-Draw a structure for the system using Direct Form II and cascade.
+(10)
 
-(b) Design a high pass FIR filter with 5 coefficients for the cutoff frequency of 0.4 rad/sec. Use
-Hamming window. (6)
+Q.6
+a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm (10)
 
-Q6. (a) Describe widowing method for the design of FIR filters. Explain various types of windows. (6)
+b) Obtain DFT of a sequence x (n) = {1,0,1,0,1,0,1,0} using Decimation in Time
 
-b) Design a 3" order low pass Butterworth filter with cutoff fre uency of 40 rad/sec. 6
-g q
+FFT algorithm. (10)
 
-Q7. (a) Determine circular convolution between the following sequences. (6)
-x(n) = {2, 1,3, 2} and y(n) = {-2, -1, 4, 5}
+Q.7
+a) Explain VLIW architecture and hence data processing capabilities. (10)
+b) Explain the NOTCH filter r: (10)
 
-(b) Write a short note on any one of the following. (6)
-(i) DSP processor
-(ii) Bilinear transformation
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 4632210dc16c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 14-15 RE EXAM.pdf`
-- Printed on paper: exam date: 01 December 2016
-- Text: ocr (2 pages), mean OCR confidence 87.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (EXTC) Year : II
-Batch : 2014-2015
-
-Academic Year : 2016-2017
-Subject : Digital Signal Processing
-
-Date : 01 December 2016
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. __1__ is compulsory.
-
-2) Out of remaining questions, attempt any Hp questions.
-
-3) In all_S_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer any three of the following questions. [12]
-A What is Discrete Hilbert Transform? Why it is used? [4]
-B_ Explain the relationship of Discrete Fourier Transform to Discrete time Fourier Transform and Z [4]
-Transform.
-CA fourth order antisymmetric, linear phase filter has all real zeros. One of them is located at [4]
-
-0.5. What may be the locations of remaining three zero? Find the transfer function of this
-filter and identify the filter type based on pass band.
-
-D Compare IIR & FIR filter. [4]
-E_ Explain the energy compaction property of DCT with an example. [4]
-F Explain minimum phase, maximum phase and mixed phase system. [4]
-Q2 A __ Determine circular convolution of the two sequences using graphical method. [6]
-
-x(n] = {1,2,1,2}
-h{n] = {1,2,0,1}
-
-B The difference equation of the system is given by [6]
-— 3 1
-y(n) + ree —l)+ rs y(n— 2) = x(n) + x(n-1)
-se (i) Determine transfer function
-(ii) Find impulse response of the system
-
-(iii) | Show Direct form-I and Direct Form II realization.
-
-_Q3. A Using DIF-FFT, find DFT of the following sequence. [8]
-
-Ve
---- page 2 ---
-x(n) = { 1,3,— 2, 4,1, 4,— 2,3}
-
-B_ Explain frequency warping in bilinear transformation. [4]
-Q4. A Prove symmetry property and periodicity property of twiddle factor. [6]
-B Ifx(n) = (n) + 8(n—1) +8 (n-2) [6]
-
-(a) Find X(e")
-
-(b) Find X[k] 4 point DFT ( Do not use FFT)
-(c) Show that DFT is sampled version of X(e”)
-
-Q5 A __ The desired response of a low pass filter is [6]
-
-eg ia for =3% < ws 3B
-< |wl<az
-
-Ha(el”) =
-
-Determine H (e™) for M=7 using Hamming Window.
-
-B Determine the ouput response of the system using overlap add method where the input [6]
-and impulse response is given by x(n) = { 1,-2,-3,4,4,5,5,6,7,8,9,1,2,3} and h(n) =
-{1,2,1}.
-Qé6. A A Digital LPF is required to meet the following specifications [6]
-Pass band ripple < 1 dB Pass band edge = 4 KHz
-Stop band attenuation > 40 dB Stop band edge = 6 KHz
-
-Sampling rate = 24 KHz
-
-(i) Determine the order of the Butterworth filter which meets the above specifications.
-(ii) Determine the cut off frequency of the filter.
-B_ Explain Gibbs phenomenon.How it can be removed? [6]
-
-Q7. Write Short Notes on any two [12]
-A _ Difference between DSP processor and general purpose processor.
-B Coefficient quantization in IIR systems.
-C Digital resonators.
+2/2.
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 16439606cabe
@@ -5422,6 +6706,7 @@ C Digital resonators.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 14-15 RE EXAM_16439606ca.pdf`
 - Printed on paper: exam date: 11/06/2015
 - Text: ocr (2 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 pws
@@ -5437,7 +6722,6 @@ Subject: Digital Signal Processing
 
 Marks:
 
-f Mi P § y TRE R ie
 Date: 11/06/2015 Time a Bdyin® ¥ Js ;
 Durations
 
@@ -5542,202 +6826,248 @@ ye "2 2
 PAGE 2 oF 2
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper 3d0063055b4c
+## 2014-15 · Re-Exam · Sem 5 · paper 80cc162a10ec
 
 - Departments: Electronics and Telecommunication
 - Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 87.5
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 04/12/2014
+- Text: ocr (1 page), mean OCR confidence 89.5
+
+````text
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: II] Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+
+Subject: Digital Signal Processing
+
+Date: 04/12/2014
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
+book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each question to be started on a fresh paper.
+6. Figures to the right indicate full marks.
+7. Assume suitable Data if necessary
+
+Ql A _ Find convolution of X(n)=({3, 2, 1,2} & h(n)={1, 2, 1, 2} 10
+B Find DFT of X(n)={1, 1, 1, 1, 1, 1, 0, 0} 10
+Q2 Find DF-1,DF-2, Cascade & Parallel from realization of the system 20
+
+y(n) = -0.1 y(n-1) + 0.2y(n-2) + 3x(n) +3.6x(n-1) + 0.6x(n-2)
+
+Q3 Design a butterworth & Chebyshev filter using parameters 20
+Ap=3dB in 0<@<0.27
+As=25dB in 0.452<a<z
+
+Q4 A Explain with example energy compaction property of DCT 10
+B_ Explain effect of quantization in digital filters with example 10
+Q5 A Compare DSP with general purpose processor 10
+B__ Write a short note on PDSP with RISC & CISC 10
+Q6
+A Compare Maximum, Minimum & Mixed phased system ‘ 10
+B Explain Frequency transformations (e.g. low pass to high pass etc.) 10
+Q7 A __ State and prove any 5 properties of DFT 10
+B Explain Digital FIR filter design using windowing technique. 10
+RnR
+````
+
+## 2014-15 · Re-Exam · Sem 7 · paper 6fb30d4250e1
+
+- Departments: Electronics
+- Programmes: B TECH / ELECTRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 28/11/2014
+- Text: ocr (2 pages), mean OCR confidence 82.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (EXTC) Year: III Semester: V
+Programme: B. Tech (Electronics) Year: IV Semester: VII
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Digital Signal Processing oat OTE Nap, .
+Marks: Loo ————, Bay. y
+Date: 28/11/2014 Time: 10.96 anne Toop ye
+Durations: lixsl- IBRARY ds
 
-Batch: 2014-2015
-Academic Year: 2015-2016
+Owe we,
 
-Subject: Digital Signal Processing
-Marks:
+Re- : : 7 *
+Re-Examination “nas Tice
 
-Date: 02/12/2015 Time:
-Duration:
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+J. Question No]. is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. ‘Answer to cach new question to be started on a fresh page.
+6. ‘Figures in brackets on the right hand side indicate full marks.
 
-Re-Examination
+Ql Attempt any four (5 marks each) 20
+(a) Comparison of linear and circular convolution
+(b) Write a short note on
+i. Comb filter and notch filter
+ii. All pass filter
+iii. Minimum, maximum phase filter
+(c) Define DCT and its relation with Fourier Transform
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the answer book, which is provided for their use.
-NB:
-1. Question no. 1 is compulsory.
-2. Out of remaining questions attempt any four questions.
-3. In all attempt five questions to be attempted.
-4. All questions carry equal marks
-5. Answer to the new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-cMiereg aiey Bet ;
-Q. 15 (a) An LTI is described by the following transfer function, @ 2)
-H(z) = (1+ 1.2z) /(- 0.4z")
-Draw its poles and zeroes. Determine the difference equation. Is it a Low pass / High pass / Band
-pass / Band reject filter?
-(b) Difference equation of a discrete time filter is given by
-y(n) = 2x(n) — 4x(n-1) +5x(n-2) — 4x(n-3) + 2x(n-4).
-Realize it using minimum number of components.
-(c) Compute DFT of a sequence x(n) using FFT algorithm where
-x@) = xi(n) + x2(n)
-x(n) = {-2, 3, -1, 4}
-- x2(n) = {4}, 4, 5). 3}
-(d) Draw pole and zeroes of a second order low pass Butterworth filter with cut off frequency of 1.5
-rad. Also determine transfer function, H(s) of the filter.
-(e) Determine transfer function and difference equation of a digital resonator which gives maximum
-magnitude at frequency w= 0.5z.
+(a) Compute 4 point DFT using DIT -FFT algorithm for x(n)=[1 2 -1 -2]
+{e) Compare IIR and FIR filters
 
-Q2. (a) State whether each of the following filters is IR/ FIR, Linear phase/ non Linear Phase, (O06
-Minimum/Maximum/ Mixed phase and stable/ unstable . Filter are described as follows
-@ y(n) — 2y(n-1) = 2x(n) — 3x(n-1)
-—, (ii) 3y(n) = - x(n) + 4 x(n-1) — 4x(n-2) + x(n-3)
-Git) ya) = x(n) — 1.6x(n-1) — 0.8x(n-2)
+(f) Write short note on
+i. Limit cycle oscillations
+ii. | Overflow oscillations
+iii, | Quantization error
+2 (a) Compute the output y(n) of a filter using overlap add method ,with impulse response 10
+h(n)= {1, 0, 1} and x(n) ={-1, 2, -1, 0, 1, 3, -2, 1, -3, -2, -1, 0, -2}
+(b) Explain Causality and Stability for a LTI system. State and prove conditions for causality 10
+and stability.
 
-= PAGE 4 OF 2
+Q3 (a) Compute IDFT of the sequence using DIT algorithm 10
+X(k) = [8,1+j2, 1-j, 0, 1, 0, 1+j, 1-j2]
+
+{b) Determine the impulse response h(n) for the system described by the second order 10
+difference equation : y(n) - 4y(n-1) + 4y(n-2) = x(n-1)
+
+VQ.
 --- page 2 ---
-(b) Impulse response of a linear phase FIR filter is given by h(n) = { 3, 4, -1, 4,3}. Sketch magnitude
+Q4 (a) Compute circular convolution of
+graphical me
+sequence
 
-and phase response of the filter (06)
-Q3. (a) Describe the overlap and add method of long data filtering. (06)
-(b) Compute DCT of the following sequence, x(n) = {4, 3, 3, 2}. Also justify energy compaction for
-the DCT coefficients (06)
-Q4. (a) Write short notes on (06)
+{b) Designa digital bandpass IIR filte:
 
-(i) Comb filter
-(ii) Architecture of DSP processor
-(b) Compute DFT of the following sequence using DIF-FFT (o 1)
-x(n) = {2, -1, 4, 3, 2, -2, 0, 1}
-Using property only compute DFT of x,(n), where x)(n) = 3 x1(a) + x(n)
-Q5. (a) A DT system is shown below (06)
+Technique for the specifications given
+Pass band attenuation =
 
-H,(2) y(n)
-x(n) H3(z) -———>
+Stop band attenuation =
 
-H(z)
+thod. Also find linear conv
 
-3-477 1-0.527+ =
-H,@) = me H(z) = a H3(z) = 2-52
+2, 3} using
 
-Draw a structure for the overall system using Direct Form II, cascade and transpose Direct Form I.
+= J, -1, 2, 3} and x2(n) = {0, 1,
+xr the same
 
-(b) Design a high pass FIR filter with 7 coefficients for the following specifications. Pass band edge
-frequency 0.4 kHz. Sampling frequency is 2k Hz. Use Hamming window. Determine delay,
-order, stop band attenuation and transition bandwidth of the filter. (06)
+x(n)
+olution from circular convolution fo
++ of Butterworth type using Bilinear Transform
+below :
 
-Q6. (a) Draw a Lattice structure for an FIR filter with the following transfer function (0 6)
-H(z) =3 + 42 - 22° + 62°
-Is it a minimum phase filter?
+2 dB for 800 Hz< f< 1000 Hz
 
-(b) Design a low pass Butterworth filter to meet the following specifications. (06)
-Use Bilinear transformation. 2dB passband attenuation at a frequency of 20 rad/sec and
-atleast 10 dB stopband at 30 rad/sec.
+20 dB for 0<f< 400 Hz and 2000 Hz<f<@
 
-Q7. (a) Using IFFT compute x(n) for X(k) = {3, 6+2), -4+j, 2, 5,2, -4-j, 6-2j}. Determine the number of
-multiplications and additions for IDFT using direct computation and using IFFT. Compare it with
+Sampling frequency = 8 KHz
 
-the computations required for a 512-point sequence. (08)
-(b) Difference equation of an LTI system is given below
-y(n) + 3/4y(n-1) + 1/8 y(n-2) = x(n) + x(n+1) (06)
-Determine transfer function and squared magnitude response. Sketch squared magnitude
-response.
+Qs (a) Explain the concept of L
 
-xy —
+(b) , Determine the coefficients
+sample response and a frequency
 
-—e
+inear Phase Filter and its importance
+ofa linear phase filter of length 13 which has a symmetri
 
-page 2 OF 2
-````
+ic unit
 
-## 2014-15 · Re-Exam · Sem 5 · paper 0ebc70cd7e45
+response that satisfies the condition
 
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 11 June 2016
-- Text: ocr (1 page), mean OCR confidence 87.6
+H(k)=1 for k=0 to 2
+=0 for k=3 to5
 
-````text
-SVKM’s NMIMS
+Q6 (a) The desired response of a low pass filter is
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG a.
+,@
 
-v ‘
-x
-MPSTME }”
+Hae )=4
+; 9
 
-P. amme: B.Tech (EXTC) Year: II Semester: V
-rogr ( Bi LinRary <
-Academic Year: 2015-16 oN Ig
-6 i RES
-Marks:60 OS ee
+-32 - BF
 
-Batch: 2014-15
-Subject: Digital Signal Processing
-Date: 11 June 2016
+{ ,-jaw jor SDews
 
-Time: 2.00 pm - 5.00 pm
-Durations: 3 (hrs)
-Re-Examination
+3 4
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+32 xe 1S
+<{wyjs 2
 
-1. Question No. 1 is compulsory.
+4
 
-2. Out of remaining questions, attempt any four questions.
+Determine H (e) for M=7 using Hamming Window.
+The Hamming Window function is
 
-3. All question carry equal marks.
+Tl...
 
-4. Answer to each new question to be started on a fresh page.
+. 054-046 cos |
+an] =
 
-5. Figure in brackets indicates full marks.
+1g
 
-Q 1. Do as directed. [12]
-a) Calculate Inverse Fourier transform of sequence {12 1-5i-2 1+5i}.
-- b) Find the Difference equation of DT system and Identify the type of Filter whose transfer function is
-Zz
-H(z) =
-(2) z-0.5 .
+L
 
-c) Explain the frequency warping in BLT.
-d) Compare DSP processor and Micro-processor.
+{ 277 |
 
-Q.2.
-a) Explain Frequency Response of a filter with an example. [06]
-b) Determine the ZEROs and Indicate whether system is Minimum phase, Maximum phase or mixed
-phase. [06]
-(i) hi(n) =[1 2 -8] (ii) ho(n)= [1 5/2 -3/2]
-(iii) h3(n)=[1 -1 -6] (iv) ha(n)= [3 1/2 -1/2]
-Q3.
-a). Find DFT of the sequence using DIT-FFT + [06]
-xfnf={l 1 1 1 1 2 3° 4};
-b State. and prove different properties of DFT. [06]
-Q.4:a) Obtain DCT of the sequence x[n]={1, 2,3, 2}. Explain the energy compaction property of
-~ DCT. [06]
-b) Explain overlap-add and overlap-save methods with examples. [06]
-Q.5:a) Design 6" order HPF with cutoff frequency @.=0.52n using frequency sampling method. [06]
-b) Given, Ap=1.93dB, As=13.97dB, @p=0.6 x, @=0.2 1, Design digital Buttorworth fiiter
-and show realization diagram. [06]
+(Af -1
 
-Q.6: a) Derive the relation between analog and digital filter frequency when (i) Impulse Invariant
-Method and (ii) BLT method is used for filter design. [06]
+jor 2 n= QUE - i}
 
-ae 7
-b) What is a window in FIR filter design and why is it necessary. Draw different types of
-windows used in designing FIR filters. Compare frequency domain characteristics of
-aa windows functions. [06]
+Orhervise |
 
-Q.7 : Write a short notes on [12]
-a) All pass filter
-b) Quantization error
-c) Need of special architecture for DSP
-d) Linear Phase FIR filters
+{b) Draw the lattice structure realization of the given IIR filter:
+
+ae
+
+4 1 978
+. g-r 7+ Wz 7
+Hitz) =: =7 - =,
+4+ 0.22 °° O =
+Qi fa) 7 qaQ87a2 7
+Hiz} = : =o. =< Fe
+
+TR ee.
+
+(qe P27 Tage
+
+Implement this transfer function using
+i. Direct Form I realization
+ii. Direct Form II realization
+iii. | Cascade realization
+iv. Parallel realization
+
+(b) Write short notes on
+
+i. | Windowing method of FIR digital filter design
+ii. VLIW Architecture
+
+10
+
+10
+
+10
+10
+
+10
+
+i
+
+0
+
+10
+
+10
 ````
 
 ## 2014-15 · Re-Exam · Sem 7 · paper 039799d151a2
@@ -5890,134 +7220,112 @@ en a
 %
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper 38639e99d1b2
+## 2014-15 · Re-Exam · Sem 5 · paper 732a58a26643
 
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS), BATCH 2014-15 RE EXAM_38639e99d1.pdf`
-- Printed on paper: max marks: 60; exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 86.4
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2013-14 RE EXAM_732a58a266.pdf`
+- Printed on paper: max marks: 100; exam date: 27/11/2014
+- Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Electronics) Year: IV Semester: VII
-Batch: 2014-2015
-Academic Year: 2015-2016 ——
-VA gett TE oF Ran,
+Programme: MBA Tech (IT) Year: Ill Semester: V
+Academic Year: 2014-15 Batch: 2013-14
+CaRANOTE BF ge
+Subject : Digital Signal Processing LO L/
+| Marks: 100/ or ae A
+Time : 10.Q0razh to p.0Q- Rim,
 
-Subject: Digital Signal Processing if i Sr “< Me
-Marks: 60: | 7, PSTM Se
-Date: 28/11/2015 Time: eee h.00%m) S | ;
-Duration: es We 4§ 3
-ie ”
+Date : 27/11/2014 a
+THIBRARKE i
 
-Re-Examination
+a
+Ae
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Durations
+Re - Examination
 
-1) Question No. | is compulsory.
+Instructions: 1.Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on right hand side indicate full marks.
+7. Scientific calculator is allowed.
+8. Graph paper is to be provided.
 
-rr 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 are questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data, if required.
+Q1.Answer any four (5 marks each)
 
-QI. Attempt any four of the following. (| 2)
+1. Differentiate between Continuous Time and Discrete Time Signal, Explain processes of conversion?
+2. State applications of digital filters , what are the benefits of Digital filter over analog filter?
+3. Draw and explain primitive Discrete time signals and state it’s importance in DSP?
+4. Using the partial fraction method determine x(n) for
+X(z)= 2437"
+(14z")(1+0.5 z')(1- 0.252")
 
-(a) Explain DSP Processor and its architecture.
-(b) Write short note on Digital Sinuso idal Oscillator with its applications.
-(c) The first five points of an 8-point DFT of a real-valued sequence are {0.25, 0.125 - j
-0.3018, 0, 0.125 —j0.0518, 0} Determine the remaining three points.
-(a) Why Direct form-II is preferred over Direct form-1. Give an example to support your
-& argument.
-(e) Enlist the advantages and disadvantages of Digital Signal Processing over Analog Signal
+5. Determine the impulse response for the cascade of two LTI systems having impulse responses
+3,\n n
+hi (n) = GC )’u(n) and h2 (n) = (0.2) u(n)
+6. Differentiate between FIR filter vs IIR filter.
 
-Processing.
+Q2)a ) State definition of Causal and Noncausal System. ( 5 marks )
+Test the causality of the following system
 
-Q2.
+y(n)=x(n)+2x(n+2)
+"| b) State requirement of stability? ;
+ea Test the stability of LTI system, whose impulse response are ( 5 marks )
+n n
+a) h(n}= 0.1" u(n) +2" u(n) b)h(n)= 0.4 u(n+3)
 
-(a) Determine the coefficients of a linear phase FIR filter which is represented by the
-following difference equation when the following conditions have also been specified:
+c) State difference between linear and circular convolution? (10 marks)
+Perform circular convolution two sequence x1(n) and x2(n) where
+X1(n)={0.2,0.4,0.6,0.8,1.0,1.2,1.4,1.6} and x2(n)={0.1,0.3,0.5,0.7,0.9,1.1,1.3,1.5}
 
-=n ylr] = boz[n] — b:2[n — 1] - b3a[n + 2]
-i (i) The filter completely rejects a frequency component at 27/3.
-(ii) The frequency response is normalized such that H(O)=1. (6 )
+4/2
 --- page 2 ---
-(b) Compute the linear convolution of two sequences defined as follows using Circular
+Q3) 1) Determine the response of LTI system when the input sequence x(n)={-1,2,2,2,-1} by radix 2 DIT FFT.
+The impulse response of the system is h(n)=(-1,1,-1,1} (20 marks)
+Or
 
-convolution.
-z[n] = u[n] —uln — 3]
-A[r] = uln — 1] = un — 2) — uln — 4) —uln — 5]
-(6)
-Q3.
+uency of 1.5kHz and sampling frequency of 7kHz with 7
 
-(a) Define Discrete Fourier Transform? How it is different from DTFT? Also, compute the
+1)Design a FIR highpass filter with cutoff freq
+the frequency response and verify the design by sketching
 
-4-point DFT of the sequence {1, 2, 4, 8} & compute the IDFT of your result and verify
-(6)
+samples using Fourier series method. Determine
+the magnitude response?(use graph paper) (20 marks)
 
-the given input sequence.
+Q4) 1)Determine the impulse response h(n) for the system described by the second-order difference
 
-(b) Explain the concept of Overlap Add.method and perform the linear convolution between
-the following sequences: x{n] = {1, 2, -1, 2, 3, -2, -3,-1, 1, 1, 2, -1} & h{n] = {]1, 2, 3}.
-(6)
+equation, y(n}+4y(n-1)+3y(n-2)=x(n-1) using z-transform ? (10 marks)
 
-Q4.
+2)State five classifications of Discrete time system with it’s properties and suitable examples?(10 marks)
 
-(a) Obtain the DFT of the following sequence using DIF-FFT algorithm. C6)
-x [n] = {0.5, 0.5, 0.5, 0.5, 0, 0, 0, 0}
+ce, x(n)={2,3,4,5},sketch the magnitude and phase spectrum. (10)
 
-(b) Using Bilinear transformation, design a Butterworth filter which satisfies the following
+Q5) 1) Compute the DFT of the sequen
+y response of Linear Phase FIR filters? (10 marks)
 
-conditions:
-0.8 <= |H(e”)| <L0<w<0.27
+2) Draw and explain Ideal Frequenc
+Q6)1) Sketch the pole zero diagram for the transfer function and state stability factor of the system
+(10 marks)
+-1 a
+H(z)= 1-7*-627
 
-|H(e!”)| <0.2;0.67 Sw Sa
-(6)
-Q35.
+4-1.757141.2527-0.375z>
 
-_(a) The transfer function of a discrete time LTI system has been given as follows. Draw the
+2) The transfer function of a system is given by
 
-cascade and parallel realization.
+H(z) = (2-27)(4-27)’
 
-_ get
-H(2) =="
+Realize the system in cascade structure. (10 marks)
 
-1—0.22Z-!-—0.15z7°
+(1-227)(5-3z +22")
 
-(6)
-
-(b) Explain the steps involved in the design of a FIR filter using windowing method. ( 6)
-
-aE
---- page 3 ---
-Q6.
-(a) Consider a FIR filter with the system function as given below. Sketch the lattice
-
-realization of the filter.
-
-H(z) =1—2.8827) + 3.404827? + 1.74273 + 0.4274
-(6)
-(b) Explain any three properties of DFT with their proof. C6)
-Q7. Write short notes on any 4 of the following: (12)
-
-(a) DSP processor v/s General purpose processor.
-
-(b) Effect of round-off noise in digital filters.
-
-(c) VLIW architecture.
-
-(d) Programmable DSP with RISC & CISC architectures.
-(e) Notch Filter.
-
-(f) Relationship between DFT, DCT-I & DCT-I.
-
-ay
+2) a
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper 9240dafdcb69
@@ -6534,179 +7842,6 @@ X(z) = ---—----4-----
 2)2,
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper fa020a1a98e2
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (COMP) BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 29/11/2014
-- Text: ocr (2 pages), mean OCR confidence 80.7
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (COMP) Year: III Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Digital Signal Processing
-Marks:
-Date: 29/11/2014 Time:
-Duration
-
-Re-Examination
-
-Instru ctions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 is compulsory. .
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Ql
-a)
-b)
-c)
-d)
-e)
-f)
-Q2 a)
-
-b)
-
-Q3 a)
-b)
-
-Q4t a)
-
-b)
-
-Qs a)
-
-Attempt any four
-
-State and prove whether the following signals are energy signals or power signals 5
-(i) 5)
-Gi) u(n)
-
-Prove that Y78x?(n)=L18 x,2(n)+h22x,7(n), where x,(n) and x,(n) are the even and odd 5
-parts of x(n).
-
-Explain efficient computation of FFT over DFT. 5
-Compare FIR and IIR digital filters. 5
-Explain Gibbs phenomena and frequency warping effect with respect to digital filters. 5
-Explain Region of convergence and Give properties of ROC of Z transform 5
-
-For a given sequence x(i)=[1 2 2 1J,correlate the signal with itself. Compute the Cross Co- 10
-rrelation with y(n) = [1,1,1,1]
-
-Compute Circular convolution by linear convolution using graphical method and verify the 10
-same by tabular method.
-
-x(n) = [1,2,1,1,] h(n) = [1,1,2,1]
-
-Explain bit reversal property of DIT-FFT. Compute the 4 point DFT of x(n) = [1,0,0,1] 10
-using DIT FFT algorithm
-
-If x(n) = a" cos wn u(n), Find the X(z) using properties of z transform. 10
-Determine x(n) by using partial fraction expansion 10
-
-1-z~1 :
-
-H(z) = Troaptcoapez» ROC: 0,3<|z/<0.4
-
-Explain Overlap add and Overlap Save Method. 10
-The difference equation of the system is given by — 10
-
-3
-
-3. ~. 7 ‘ i, :
-y(n) + —¥(a-1)4+—vin-Dax@M@exM-)
-. re R-
-(i) Determine transfer function
-
-(ii) Plot poles and zero diagram
---- page 2 ---
-Q6
-
-Q7
-
-b)
-
-a)
-
-b)
-
-a)
-
-b)
-
-(iii)Draw Direct form-l, Direct Form IJ,cascade and parallel realization.
-By means of DFT and IDFT determine the response of a FIR filter with impulse response
-h(n) = [1,2,3] and input sequence x(n) = (1,2,2,1]
-
-Design a Digital Butterworth filter that satisfies the following constraint using Bilinear
-Transformation Assume Ts = | sec.
-0.9 <|HCejw)|<1.0 for Osw<n/2
-
-|H(ej w)|<0.2 for 32/4<wsa
-
-- Compute IDFT using DIT-FFT algorithm
-
-X(k) = [2,1,251,2,1,2.1]
-
-The desired response of a low pass filter is
-i _73y¢ . 3
-iw, [ere for SEs ws 3b
-gq (er pss ap . 4
-[. 4 2£<jwlsaa
-q 4
-
-Determine H (™) for M=7 using Hamming Window.
-The Hamming Window function is
-
-“Agn } f g< i 1)
-; POs ns -
-Tj for q 5
-
-last —0.46 cos |
-whal= | \ Af -
-[0 Orherwise
-
-A causal DT system has transfer function H(z) such that H(z) = H(z) Ha (2).
-The pole-zero diagram of H1(z) and H2 (z) is ds follows :-
-
-Hiy(z) F(z) |
--13 | os -a5s |
-
-(i) Find the transfer function of total system.
-
-(ii) Find difference equation of system.
-
-(ii) Find the response of the system to the input x(n) = (-1/2)" un) .
-
-(iv) What is magnitude and phase response of the system at w= 0 and w=.
-
-x x
-
-10
-
-10-
-
-jo
-
-10
-
-10
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper cdceeead42d7
 
 - Departments: Computer Engineering
@@ -6842,270 +7977,6 @@ x — ¥
 Pray
 
 10
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 4f717c1ba484
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 11/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: III Semester: V
-Batch: 2013-14
-Academic Year: 2014-2015 Pn
-Subject: Digital Signal Processing
-Marks:
-Date: 11/06/2015 Time:
-
-Durations: 3 (hrs}\ oN
-
-A e,
-Oe
-
-Re-Examination SMa 9
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB.
-
-1. Question no 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure on right indicate full marks.
-
-7. Assume suitable data if necessary.
-
-Q.1) Solve any four (20)
-
-a) Find whether signal is energy or power signal. x(n) = u (n)
-
-b) Determine whether the following system is time variant or not.
-y(n) = x(n) . cos @o.n
-
-c) State the properties of ROC and explain its significance
-
-d) Explain digital sinusoidal oscillator.
-
-e) Perform circular convolution using matrix method on the following sequences.
-xi(n)={1, 4, 0.6, 0.8, 1.6} :
-x2(n) = { 0.1, 0.3, 0.5, 3.4 }
-
-Q.2
-a) Write a note on BIBO stability and ROC. Hence find the transfer function and
-
-corresponding impulse response of the system if the system has gain 4, two zeroes at
-origin and two complex conjugates poles at 0.5 e#!* (10)
-
-b) Obtain the inverse Z- Transform of the function
-
-X(Z) = z(z+2) - ; x(n)= left handed system
-(z2 +0.4 Z -1.2) (10)
-
-4/2
---- page 2 ---
-Q.3
-a) FIR filter have impulse response as given below. Classify them as minimum phase,
-maximum phase or mixed phase
-i) hy (n) = {1,0.707, 0.25}
-ii) ho(n) = {1,1.414,1}
-
-ili) hg (n) = £1,-5,6} (10)
-b) Obtain 8 pt DFT of {1,1,1,1}. Assume imaginary part is zero and hence sketch
-maginitude and phase of X(K) (10)
-Q.4
-a) Find N point DFT of x (n) =a" :0<n<N-l ; (10)
-b) Ifx (n)=6(n) + (nm -1)+ 8m -2) find
-i) X (e)
-ii) X(k) four point DFT
-iii) Show that DFT is sampled version of |X(e)| (10)
-Q.5
-a) Using bilinear transformation design a first order butterworth LPF with a 3dB cut off
-frequency of 0.2 x (10)
-
-b. Design a normalized linear phase filter having the phase delay of t= 4 and at least 40 dB
-attenuation in the stopband. Also obtain the magnitude / frequency response of the filter.
-
-(10)
-
-Q.6
-a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm (10)
-
-b) Obtain DFT of a sequence x (n) = {1,0,1,0,1,0,1,0} using Decimation in Time
-
-FFT algorithm. (10)
-
-Q.7
-a) Explain VLIW architecture and hence data processing capabilities. (10)
-b) Explain the NOTCH filter r: (10)
-
-2/2.
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 80cc162a10ec
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 04/12/2014
-- Text: ocr (1 page), mean OCR confidence 89.5
-
-````text
-SVKM’s NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: II] Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-
-Subject: Digital Signal Processing
-
-Date: 04/12/2014
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
-book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each question to be started on a fresh paper.
-6. Figures to the right indicate full marks.
-7. Assume suitable Data if necessary
-
-Ql A _ Find convolution of X(n)=({3, 2, 1,2} & h(n)={1, 2, 1, 2} 10
-B Find DFT of X(n)={1, 1, 1, 1, 1, 1, 0, 0} 10
-Q2 Find DF-1,DF-2, Cascade & Parallel from realization of the system 20
-
-y(n) = -0.1 y(n-1) + 0.2y(n-2) + 3x(n) +3.6x(n-1) + 0.6x(n-2)
-
-Q3 Design a butterworth & Chebyshev filter using parameters 20
-Ap=3dB in 0<@<0.27
-As=25dB in 0.452<a<z
-
-Q4 A Explain with example energy compaction property of DCT 10
-B_ Explain effect of quantization in digital filters with example 10
-Q5 A Compare DSP with general purpose processor 10
-B__ Write a short note on PDSP with RISC & CISC 10
-Q6
-A Compare Maximum, Minimum & Mixed phased system ‘ 10
-B Explain Frequency transformations (e.g. low pass to high pass etc.) 10
-Q7 A __ State and prove any 5 properties of DFT 10
-B Explain Digital FIR filter design using windowing technique. 10
-RnR
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 6d64133bff07
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH EXTC), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 02/12/2015
-- Text: ocr (2 pages), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (EXTC) Year: Ill Semester: V
-Batch: 2013-2014
-Academic Year: 2015-2016 VA gait TE a
-
-FO PN gr
-
-Subject: Digital Signal Processing yf f mePStTME Ne
-
-Marks =: 100 (rizr RY ‘
-Date: 02/12/2015 Time 2 2.0 ne 00 pm 4§, > 4
-Pac
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB.
-
-1. Question no 1 is compulsory.
-
-2. Out of remaining questions, attempt any FOUR questions.
-
-3. In all FIVE questions to be attempted.
-
-4, All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure on right indicate full marks.
-
-Q.1) Solve any four (20)
-
-a) Find whether signal is energy or power signal. x(n) = u (n)
-
-b) Determine whether the following system is, linear or non linear, causal or non causal, time
-variant or not.
-y(n) = Trunc [x(n)] .
-
-c) State the properties of ROC and explain its significance
-
-d) Explain DFT as a linear transformation matrix
-
-e) Write a short note on Digital Sinusoidal Oscillator.
-
-Q.2
-a) Realize the FIR System in direct form and cascade form
-H(z) = (1+0.5z"!) (1+0.5z'!+ 0.2527) (10)
-b) Derive and explain the following properties of DFT
-i. Circular time Shift of a sequence
-ii. Circular Frequency shift of a sequence (10)
-Q3
-ay Derive the Bilinear Transformation relationship of mapping of s plane to z plane. Hence
-explain the relationship of analog and digital poles. (10)
-
-b) DFT of a sequence x(n) is given by X(k) = {6, 0, -2, 0}
-i. Determine x(n)
-ii. Plot xi (n) if Xi (kK) is X(k) . e?#?
-iii. Determine Circular Auto correlation of x(n) using DFT and IDFT only. (10)
-
-fo
---- page 2 ---
-Q4
-
-a) Find N point DFT of x (n) = cos (2zk0n/N) by formula method (10)
-b) Ifx (n)=86(n) + &(n -1)+ &(n -2) find
-i) X (e)
-ii) X(k) four point DFT
-iii) Show that DFT is sampled version of |X(e®)| (10)
-Q.5
-a Find the linear convolution using overlap slave method of the following sequences:
-x(n) = {1, -1, 2, -2, 3, -3, 4, -4} & h(n)= {-1,1}. (10)
-b. Define DCT. Hence explain relationship between DCT1 and DCT 2 with its
-applications. (10)
-Q.6
-a) Derive the butterfly diagram for Radix -2 in DIF FFT algorithm with equations at each
-siage (N=8.) (10)
-b) Obtain DFT of a sequence x (n) = {2, 2, 2, 2, 1,1,1,1}using Decimation in Time
-FFT algorithm. (10)
-Q.7
-a) Compare General Purpose processor with DSP Processor. Hence explain the architecture
-of a General DSP Processor (10)
-b) Explain short note on VLIW Architecture and On-chip Peripherals. (10)
-
-jo
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper 16dfc510eb39
@@ -7265,194 +8136,6 @@ Explain Quantization Noise
 04
 ````
 
-## 2013-14 · Re-Exam · Sem 7 · paper 6fb30d4250e1
-
-- Departments: Electronics
-- Programmes: B TECH / ELECTRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 28/11/2014
-- Text: ocr (2 pages), mean OCR confidence 82.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Electronics) Year: IV Semester: VII
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Digital Signal Processing oat OTE Nap, .
-Marks: Loo ————, Bay. y
-Date: 28/11/2014 Time: 10.96 anne Toop ye
-Durations: lixsl- IBRARY ds
-
-Owe we,
-
-Re- : : 7 *
-Re-Examination “nas Tice
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-J. Question No]. is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. ‘Answer to cach new question to be started on a fresh page.
-6. ‘Figures in brackets on the right hand side indicate full marks.
-
-Ql Attempt any four (5 marks each) 20
-(a) Comparison of linear and circular convolution
-(b) Write a short note on
-i. Comb filter and notch filter
-ii. All pass filter
-iii. Minimum, maximum phase filter
-(c) Define DCT and its relation with Fourier Transform
-
-(a) Compute 4 point DFT using DIT -FFT algorithm for x(n)=[1 2 -1 -2]
-{e) Compare IIR and FIR filters
-
-(f) Write short note on
-i. Limit cycle oscillations
-ii. | Overflow oscillations
-iii, | Quantization error
-2 (a) Compute the output y(n) of a filter using overlap add method ,with impulse response 10
-h(n)= {1, 0, 1} and x(n) ={-1, 2, -1, 0, 1, 3, -2, 1, -3, -2, -1, 0, -2}
-(b) Explain Causality and Stability for a LTI system. State and prove conditions for causality 10
-and stability.
-
-Q3 (a) Compute IDFT of the sequence using DIT algorithm 10
-X(k) = [8,1+j2, 1-j, 0, 1, 0, 1+j, 1-j2]
-
-{b) Determine the impulse response h(n) for the system described by the second order 10
-difference equation : y(n) - 4y(n-1) + 4y(n-2) = x(n-1)
-
-VQ.
---- page 2 ---
-Q4 (a) Compute circular convolution of
-graphical me
-sequence
-
-{b) Designa digital bandpass IIR filte:
-
-Technique for the specifications given
-Pass band attenuation =
-
-Stop band attenuation =
-
-thod. Also find linear conv
-
-2, 3} using
-
-= J, -1, 2, 3} and x2(n) = {0, 1,
-xr the same
-
-x(n)
-olution from circular convolution fo
-+ of Butterworth type using Bilinear Transform
-below :
-
-2 dB for 800 Hz< f< 1000 Hz
-
-20 dB for 0<f< 400 Hz and 2000 Hz<f<@
-
-Sampling frequency = 8 KHz
-
-Qs (a) Explain the concept of L
-
-(b) , Determine the coefficients
-sample response and a frequency
-
-inear Phase Filter and its importance
-ofa linear phase filter of length 13 which has a symmetri
-
-ic unit
-
-response that satisfies the condition
-
-H(k)=1 for k=0 to 2
-=0 for k=3 to5
-
-Q6 (a) The desired response of a low pass filter is
-
-,@
-
-Hae )=4
-; 9
-
--32 - BF
-
-{ ,-jaw jor SDews
-
-3 4
-
-32 xe 1S
-<{wyjs 2
-
-4
-
-Determine H (e) for M=7 using Hamming Window.
-The Hamming Window function is
-
-Tl...
-
-. 054-046 cos |
-an] =
-
-1g
-
-L
-
-{ 277 |
-
-(Af -1
-
-jor 2 n= QUE - i}
-
-Orhervise |
-
-{b) Draw the lattice structure realization of the given IIR filter:
-
-ae
-
-4 1 978
-. g-r 7+ Wz 7
-Hitz) =: =7 - =,
-4+ 0.22 °° O =
-Qi fa) 7 qaQ87a2 7
-Hiz} = : =o. =< Fe
-
-TR ee.
-
-(qe P27 Tage
-
-Implement this transfer function using
-i. Direct Form I realization
-ii. Direct Form II realization
-iii. | Cascade realization
-iv. Parallel realization
-
-(b) Write short notes on
-
-i. | Windowing method of FIR digital filter design
-ii. VLIW Architecture
-
-10
-
-10
-
-10
-10
-
-10
-
-i
-
-0
-
-10
-
-10
-````
-
 ## 2013-14 · Re-Exam · Sem 7 · paper 9483fc63ca8a
 
 - Departments: Electronics
@@ -7460,6 +8143,7 @@ i
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ELECTRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (ELECTRONICS), BATCH 2013-14 RE EXAM_9483fc63ca.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2014
 - Text: ocr (2 pages), mean OCR confidence 84.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7561,7 +8245,6 @@ ii)Let p(m)={1,2,3,4,1,2,3,4} Find P(K)using X(K).
 
 a) A low pass filter is to be designed with the desired frequency response (10)
 jo\_ -j20 — 4
-Ht, (e )= e i), <a@< A
 =0 "A <@<n
 
 Determine filter coefficients h, (n) if the window function is defined as
@@ -7581,6 +8264,243 @@ d)All pass, minimum and maximum phase filter
 e)VLIW architecture
 
 K x
+````
+
+## 2013-14 · Re-Exam · Trim 7 · paper d5313c7cb54d
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2011-12 RE EXAM0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
+- Text: ocr (1 page), mean OCR confidence 91.6
+
+````text
+Programme:MBA Tech (IT) Year: III
+Academic Year: 2013-14
+Subject : Digital Signal Processing
+
+Date :10/12/2013
+
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING~...
+
+Trimester:
+
+Batch:2011-12* ¢
+
+Marks: 100 S
+
+Time : 10.00 am to
+
+Durations:3 (hrs)
+Re-Examination
+
+VII
+
+LOO pm
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
+book, which is provided for their use.
+
+NB:
+
+Ql
+
+Q2
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+A
+
+Question No.1 is compulsory.
+
+Out of the remaining questions, attempt any 4 questions.
+In all 5 questions to be attempted.
+
+All questions carry equal marks.
+
+Answer to each question to be started on a fresh paper.
+Figures to the right indicate full marks.
+
+Assume suitable Data if necessary
+
+Find correlation of X(n)={1, 2, 1, 2} & h(n)={2, 1, 2,1}
+Find DFT of X(n)={1, 1, 2, 2, 1, 1, 2, 2}
+
+Explain properties of Z.T & D.F.T.
+
+Design a butterworth IIR filter using parameters
+Ap=SdB in 0<<0.21
+As=20dB in 0.451<o<
+
+Explain classification of signals
+Explain Digital to Analog converter
+
+Find Z.T. of discrete time system givn by
+Y(n) = 3*Y(n-1) + 2*X(n) + X(n-1) + 4*X(n-2)
+Explain effect of quantization of DFT
+
+Why FFT requires less computations DFT
+Compare IIR with FIR structure
+
+Explain frequency transformations
+Explain Digital FIR filter design using windowing technique.
+
+4/2.
+
+10
+10
+
+20
+
+20
+
+10
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+10
+````
+
+## 2013-14 · Re-Exam · Trim 7 · paper eb9676151e24
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2011-12 RE EXAM0004.pdf`
+- Printed on paper: exam date: 17/06/2014
+- Text: ocr (3 pages), mean OCR confidence 84.3
+
+````text
+}
+
+SVKM’s NMIMS
+
+R — MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year: Ill Trimester: VII
+Academic Year: 2013-14 : Batch : 2011-12
+
+Subject : Digital Signal Processing
+Date : 17/06/2014
+
+Re - Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Attempt any four out of remaining six questions.
+
+3. In all 5 questions to be attempted
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on fresh page.
+
+6. Figures in bracket on the right hand side indicate full marks.
+7. Assume suitable data where-ever required
+
+Q1.Answer any four (5 marks each) (20)
+
+1. Explain the concept of radix 2 FFT and define DIT and DIF.
+
+2 What is the stability requirement for the System?
+
+3. Express how FFT is efficient algorithm for DFT computation.
+
+4. Explain primitive discrete time signal with waveform and expression.
+5. Draw butterfly diagram for 8 point FFT?
+
+6. Explain properties of Z-transform.
+
+Q2-A) Classify and solve following discrete-time signals.
+
+(10)
+
+1) x(n) = cosa
+
+2) x(n) = ee
+
+V3
+
+3) Determine its values and sketch it
+x =(n-1)
+
+B) If input x(n) = {1,2,3} and output of the system
+--- page 2 ---
+PP y(n) = { 1,5/2,4,3/2} Find the impulse response of the system in cascade and
+parallel form.
+
+(10)
+Q3-A) Find inverse z-transform of the function X(z) and plot the sequence x(n).
+Rigy= 2 ee (10)
+Zz +4z4+3
+B) Find DFT of x(n) = {1+5j, 2+6j, 34-7), 4+8}} (10)
+Q4-A) Given x(n) = { 0, 1, 2, 3, 4, 5, 6, 7}. Find X(k) using DIT FFT. (10)
+
+B) Using partial fraction expansion method finds inverse Z transform of following system
+
+given by-
+Z (Z-4Z45)
+FS warns (10)
+(Z-1) (Z-2) (Z-3)
+For ROC being |Z|>3, 2<|Z|<3, |Z|<2
+Q5-A) Obtain linear phase realization
+H@Z)=%2+ Vz" +1/4 27? +% 23 (10)
+
+B) An all pole IIR filter has reflection coefficients kl= 4, k2= 1/3, k3=1/4. Determine the
+direct form IIR filter has reflections and realize this system. (10)
+
+Q6-A) A digital low pass filter is required to meet the following specification:
+Pass band ripple: <1 dB
+
+Pass band edge :4 kHz
+
+Stop band attenuation :. 40 dB\
+Stop band edge: 6 khz
+Sample rate: 24 kHz ; .
+
+Use the above method to determine the order of the Butterworth filter which meets above
+specification. (10)
+
+B) Find the DFT of the following sequences using DIT-FFT.
+
+X(n) = {1,2,3,4} (10)
+
+%
+--- page 3 ---
+. TT,
+Cis va wha Ae,
+N%&
+
+Q7- Write a short note on-(ANY TWO)
+
+A] Signal Classification
+
+B] 8-point inverse decimination in frequency FFT
+C] TIR-Filter
+D] Quantization effect
+
+x
 ````
 
 ## 2013-14 · Re-Exam · Sem 5 · paper ee71fba84e45
@@ -7703,112 +8623,211 @@ Yo _
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 732a58a26643
+## 2012-13 · Exam not stated · Trim 7 · paper 44f98a5eab3a
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2013-14 RE EXAM_732a58a266.pdf`
-- Printed on paper: max marks: 100; exam date: 27/11/2014
-- Text: ocr (2 pages), mean OCR confidence 88.2
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/scan0011(5).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/9/2012
+- Text: ocr (2 pages), mean OCR confidence 83.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+ww
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+
+Programme: MBA (Tech.) (I~ T) Year: Il Trimester: VII
+Academic Year : 2012-2013
+Batch: 2011-2012
+Subject: Digital Signal Processing Marks: 100
+Time: 10.00 am To 1.00 pm
+Date: 28/9/2012 Duration: 3 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+
+paper and on the cover of the answer book, which is provided for their use.
+
+NB:
+1. Question No.1 is compulsory. ;
+2. Out of the remaining questions, attempt any 4 questions.
+3. Inall 5 questions to be attempted.
+4. Answer to each question to be started on‘a fresh paper.
+5. Figures to the right indicate full ica
+
+Q. No. - 4 ~ Question Marks
+1 a. Any discrete time signal i is periodic signal only is its frequency is ~ 05
+ratio of two integers. Justify
+b. | Why frequency domain sampling is required? 05
+c. The direct-form II-structure is preferred over the direct-form I 05
+structure because it requires only ; about half the number of
+; multiplications. Justify °°
+4. Shifting and folding operations are commutative operations. Justify 05
+2 a. Explain and discuss the following properties of z-transform. 10
+(i) Initial value theorem and (ii) Convolution in time domain.
+b. Determine the sequence x(n) whose z-transform is given by: 10
+- 3-427
+*O)= 352741579 .
+j Also specify ROC if system is (i) Stable (ii) Causal (iii) Anti-causal
+a, a. Compute the DFT of the sequence x(n) = £1, 2, 3, 4, 4, 3, 2, 1 } 10
+ra _.» using DIT FFT algorithm.
+b. Describe the classification of systems along with one suitable 10
+example for each class.
+4. a. _ Test the following systems for linearity, stability, causality, 10
+
+" dynamicity and time/shift invariance. (Solve any 2)
+L Thx@] =e
+2. y(n)=ax(n) tb
+3. y(n) = x(n) cos(mn)
+--- page 2 ---
+at
+
+~S
+
+yv)
+
+Determine the forced response of the following system.
+y(n) - 4 y(n-1) - 1/8 y(n-2) = x(n) + x(n-1) where x(n) =(1/8)" u(n).
+Assume zero initial conditions.
+Explain in brief the ‘Gibbs oscillations’ and ‘frequency warping
+effect.’
+Explain the property of ‘Time reversal of the sequence’ with respect
+- to DFT. :
+What are the disadvantages of impulse invariant mapping technique
+used in designing of IIR filter?
+Compare FIR and IIR filters.
+Write the expression for Kaiser window function and explain the
+steps involved in FIR filter design.
+Determine the linear convolution and circular convolution of the
+sequences, x(n) = {1, 2, 3, 4} and h(n) = {8, 7, 6, 5}
+Design the symmetric filter if H, le! °)- e*” for | @|S a
+a EMER AN 0. - otherwise.
+Make the use of using Hanning window if the length of the filter
+should be 7 and wc = 1 rad/sec.
+
+
+10
+
+10
+10
+05
+
+05
+10
+
+10
+
+10
+````
+
+## 2012-13 · Exam not stated · Trim 7 · paper 7e33e802d22c
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/scan0014(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/09/2012
+- Text: ocr (2 pages), mean OCR confidence 84.9
 
 ````text
 SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (IT) Year: Ill Semester: V
-Academic Year: 2014-15 Batch: 2013-14
-CaRANOTE BF ge
-Subject : Digital Signal Processing LO L/
-| Marks: 100/ or ae A
-Time : 10.Q0razh to p.0Q- Rim,
+_-~ Mukesh Patel School Of Technology Management & Engineering
+Progfamme: MBA (Tech) -I. T./COMP Year: II] Trimester: VII
 
-Date : 27/11/2014 a
-THIBRARKE i
+Academic Year : 2012-2013
+
+Subject: DIGITAL SIGNAL PROCESSING Marks: 100
+Time: 10.00am To 1.
+Date: 28/09/2012 Duration: 3 hrs.
+
+Final - Examination
+
+NB: 1) Question No. 1 is compulsory
+2) Answer to each new question to be started on a fresh page
+3) Figure in brackets indicates full marks
+4) Attempt any FOUR questions from the remaining questions
+
+Q1 a) Calculate auto correlation of the signal x(n) = @Q"u (n) where 0<a<1. (5)
+b) State and prove circular time shift property in Discrete Fourier Transform. (5)
+€) Obtain linear convolution of two sequences x(n) =u(n)—u(n—3),
+
+h(n) =u(n—1)+u(n—2)—u(n—4)~u(n—5) using circular convolution. (5)
+d) State and prove the relationship between Z-transform and DFT. (5)
+
+1
+Q.2 a) Asystem is described by difference equation y(7) = > y(n-1)+x(n). input to the system
+
+is (3) u(n) and initial condition is y(-1) =1. Determine (10)
+i) zero input response
+} ii) zero state response
+iii) total response
+b) Show pole zero diagram for a function h(n) = (0.8)" , OsSns7 (10)
+Q.3 a) Consider the finite length sequence x(m)=5(n)+26(n-5) - (10)
+
+i) Find 10 point DFT of x(n).
+it Find y(n) such that ¥(K)=W,°*X (K)
+
+Wa a sequence x(n)={(1+57),(3-6/),(2+7/),(-2-8/)} (10)
+i) Find X(K). .
+ii) Let p(n) ={1,3,2,-2} and q(n) ={5,-6,7,8} find P(K) and Q(K) using X(K) and
+not otherwise.
+
+He
+--- page 2 ---
+Q4
+
+Qs
+
+a6
+
+a7|
+
+a) Obtain Direct form |, Direct form il, Cascade and Parallel structure for the system described by
+
+y(n) =-0.1y(n-1)+ 0.72y(n - 2)+0.7x(x) —0.252x(n ~2) (10)
+b) Find x(n) considering all possible region of convergence. (10)
+1
+*() 3058
+
+a) Given x(n) = {3,2,1,2} (10)
+i) Find X(K) using DIT-FFT algorithm.
+ii) Let p(n) ={3,0,2,0,1,0,2,0}. Find P(K) using X(K).
+
+b) Derive the radix-2 DIT-FFT for a 8 point DFT. (10)
+a) Convert the analog filter with system function (10)
+H,(s)= vin BA into a digital IIR filter by means of BLT. Resonant frequency of
+
+(s+0.1) +16
+
+a digital filter is given as @, = *,
+
+b) Determine the unit sample response A(n) of a linear-phase FIR filter of length 7 =4 FOR
+
+which the frequency response at @ =0 and @= A is specified as
+
+a\ 1
+H,(0)=1 H,| —|=— (10)
+(0) (4)=3
+Write short notes on (any four) (20)
+
+a) Linear convolution using overlap and add method
+
+b) Classification of signals
+
+¢) Unilateral Z-transform
+
+d) FFT is cornputationally efficient than DFT, Justify. &
+e) FIR filter realization
+
+} . % =
 
 a
-Ae
 
-Durations
-Re - Examination
-
-Instructions: 1.Question no. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5 questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on right hand side indicate full marks.
-7. Scientific calculator is allowed.
-8. Graph paper is to be provided.
-
-Q1.Answer any four (5 marks each)
-
-1. Differentiate between Continuous Time and Discrete Time Signal, Explain processes of conversion?
-2. State applications of digital filters , what are the benefits of Digital filter over analog filter?
-3. Draw and explain primitive Discrete time signals and state it’s importance in DSP?
-4. Using the partial fraction method determine x(n) for
-X(z)= 2437"
-(14z")(1+0.5 z')(1- 0.252")
-
-5. Determine the impulse response for the cascade of two LTI systems having impulse responses
-3,\n n
-hi (n) = GC )’u(n) and h2 (n) = (0.2) u(n)
-6. Differentiate between FIR filter vs IIR filter.
-
-Q2)a ) State definition of Causal and Noncausal System. ( 5 marks )
-Test the causality of the following system
-
-y(n)=x(n)+2x(n+2)
-"| b) State requirement of stability? ;
-ea Test the stability of LTI system, whose impulse response are ( 5 marks )
-n n
-a) h(n}= 0.1" u(n) +2" u(n) b)h(n)= 0.4 u(n+3)
-
-c) State difference between linear and circular convolution? (10 marks)
-Perform circular convolution two sequence x1(n) and x2(n) where
-X1(n)={0.2,0.4,0.6,0.8,1.0,1.2,1.4,1.6} and x2(n)={0.1,0.3,0.5,0.7,0.9,1.1,1.3,1.5}
-
-4/2
---- page 2 ---
-Q3) 1) Determine the response of LTI system when the input sequence x(n)={-1,2,2,2,-1} by radix 2 DIT FFT.
-The impulse response of the system is h(n)=(-1,1,-1,1} (20 marks)
-Or
-
-uency of 1.5kHz and sampling frequency of 7kHz with 7
-
-1)Design a FIR highpass filter with cutoff freq
-the frequency response and verify the design by sketching
-
-samples using Fourier series method. Determine
-the magnitude response?(use graph paper) (20 marks)
-
-Q4) 1)Determine the impulse response h(n) for the system described by the second-order difference
-
-equation, y(n}+4y(n-1)+3y(n-2)=x(n-1) using z-transform ? (10 marks)
-
-2)State five classifications of Discrete time system with it’s properties and suitable examples?(10 marks)
-
-ce, x(n)={2,3,4,5},sketch the magnitude and phase spectrum. (10)
-
-Q5) 1) Compute the DFT of the sequen
-y response of Linear Phase FIR filters? (10 marks)
-
-2) Draw and explain Ideal Frequenc
-Q6)1) Sketch the pole zero diagram for the transfer function and state stability factor of the system
-(10 marks)
--1 a
-H(z)= 1-7*-627
-
-4-1.757141.2527-0.375z>
-
-2) The transfer function of a system is given by
-
-H(z) = (2-27)(4-27)’
-
-Realize the system in cascade structure. (10 marks)
-
-(1-227)(5-3z +22")
-
-2) a
+be
 ````
 
 ## 2012-13 · Re-Exam · Trim 7 · paper f8264c8fc78a
@@ -7979,118 +8998,6 @@ D eaaiabiaianiaiaaaye Kereerasnerenenn
 10
 ````
 
-## 2011-12 · Re-Exam · Trim 7 · paper d5313c7cb54d
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2011-12 RE EXAM0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/12/2013
-- Text: ocr (1 page), mean OCR confidence 91.6
-
-````text
-Programme:MBA Tech (IT) Year: III
-Academic Year: 2013-14
-Subject : Digital Signal Processing
-
-Date :10/12/2013
-
-SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING~...
-
-Trimester:
-
-Batch:2011-12* ¢
-
-Marks: 100 S
-
-Time : 10.00 am to
-
-Durations:3 (hrs)
-Re-Examination
-
-VII
-
-LOO pm
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the answer
-book, which is provided for their use.
-
-NB:
-
-Ql
-
-Q2
-Q3
-
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-A
-
-Question No.1 is compulsory.
-
-Out of the remaining questions, attempt any 4 questions.
-In all 5 questions to be attempted.
-
-All questions carry equal marks.
-
-Answer to each question to be started on a fresh paper.
-Figures to the right indicate full marks.
-
-Assume suitable Data if necessary
-
-Find correlation of X(n)={1, 2, 1, 2} & h(n)={2, 1, 2,1}
-Find DFT of X(n)={1, 1, 2, 2, 1, 1, 2, 2}
-
-Explain properties of Z.T & D.F.T.
-
-Design a butterworth IIR filter using parameters
-Ap=SdB in 0<<0.21
-As=20dB in 0.451<o<
-
-Explain classification of signals
-Explain Digital to Analog converter
-
-Find Z.T. of discrete time system givn by
-Y(n) = 3*Y(n-1) + 2*X(n) + X(n-1) + 4*X(n-2)
-Explain effect of quantization of DFT
-
-Why FFT requires less computations DFT
-Compare IIR with FIR structure
-
-Explain frequency transformations
-Explain Digital FIR filter design using windowing technique.
-
-4/2.
-
-10
-10
-
-20
-
-20
-
-10
-10
-
-10
-
-10
-
-10
-
-10
-
-10
-10
-````
-
 ## 2011-12 · Re-Exam · Trim 7 · paper a23c9ca1f7e4
 
 - Departments: Information Technology
@@ -8188,131 +9095,6 @@ aS Saree
 of.
 ````
 
-## 2011-12 · Re-Exam · Trim 7 · paper eb9676151e24
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING BATCH 2011-12 RE EXAM0004.pdf`
-- Printed on paper: exam date: 17/06/2014
-- Text: ocr (3 pages), mean OCR confidence 84.3
-
-````text
-}
-
-SVKM’s NMIMS
-
-R — MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year: Ill Trimester: VII
-Academic Year: 2013-14 : Batch : 2011-12
-
-Subject : Digital Signal Processing
-Date : 17/06/2014
-
-Re - Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No.1 is compulsory.
-
-2. Attempt any four out of remaining six questions.
-
-3. In all 5 questions to be attempted
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on fresh page.
-
-6. Figures in bracket on the right hand side indicate full marks.
-7. Assume suitable data where-ever required
-
-Q1.Answer any four (5 marks each) (20)
-
-1. Explain the concept of radix 2 FFT and define DIT and DIF.
-
-2 What is the stability requirement for the System?
-
-3. Express how FFT is efficient algorithm for DFT computation.
-
-4. Explain primitive discrete time signal with waveform and expression.
-5. Draw butterfly diagram for 8 point FFT?
-
-6. Explain properties of Z-transform.
-
-Q2-A) Classify and solve following discrete-time signals.
-
-(10)
-
-1) x(n) = cosa
-
-2) x(n) = ee
-
-V3
-
-3) Determine its values and sketch it
-x =(n-1)
-
-B) If input x(n) = {1,2,3} and output of the system
---- page 2 ---
-PP y(n) = { 1,5/2,4,3/2} Find the impulse response of the system in cascade and
-parallel form.
-
-(10)
-Q3-A) Find inverse z-transform of the function X(z) and plot the sequence x(n).
-Rigy= 2 ee (10)
-Zz +4z4+3
-B) Find DFT of x(n) = {1+5j, 2+6j, 34-7), 4+8}} (10)
-Q4-A) Given x(n) = { 0, 1, 2, 3, 4, 5, 6, 7}. Find X(k) using DIT FFT. (10)
-
-B) Using partial fraction expansion method finds inverse Z transform of following system
-
-given by-
-Z (Z-4Z45)
-FS warns (10)
-(Z-1) (Z-2) (Z-3)
-For ROC being |Z|>3, 2<|Z|<3, |Z|<2
-Q5-A) Obtain linear phase realization
-H@Z)=%2+ Vz" +1/4 27? +% 23 (10)
-
-B) An all pole IIR filter has reflection coefficients kl= 4, k2= 1/3, k3=1/4. Determine the
-direct form IIR filter has reflections and realize this system. (10)
-
-Q6-A) A digital low pass filter is required to meet the following specification:
-Pass band ripple: <1 dB
-
-Pass band edge :4 kHz
-
-Stop band attenuation :. 40 dB\
-Stop band edge: 6 khz
-Sample rate: 24 kHz ; .
-
-Use the above method to determine the order of the Butterworth filter which meets above
-specification. (10)
-
-B) Find the DFT of the following sequences using DIT-FFT.
-
-X(n) = {1,2,3,4} (10)
-
-%
---- page 3 ---
-. TT,
-Cis va wha Ae,
-N%&
-
-Q7- Write a short note on-(ANY TWO)
-
-A] Signal Classification
-
-B] 8-point inverse decimination in frequency FFT
-C] TIR-Filter
-D] Quantization effect
-
-x
-````
-
 ## 2011-12 · Re-Exam · Trim 7 · paper ebb69e16ac0f
 
 - Departments: Information Technology
@@ -8408,6 +9190,119 @@ Transformation.Assume T=Is.
 XK
 
 2/2
+````
+
+## 2010-11 · Exam not stated · Trim 5 · paper 6c3b6a470af1
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/DIGITAL SIGNAL PROCESSING/DIGITAL COMMUNICATION.pdf`
+- Printed on paper: duration hours: 3; exam date: 09/05/2011
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & En
+Programme: MBA (TECH)-Telecom Year: II Trimester:
+
+Academic Year : 2010-2011
+
+Subject: Digital Communication Marks: *
+Time: :
+Date: 09/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+N.B. (1). Answer to each new question to be started on fresh page
+(2). Assume suitable data if required.
+(3).Q.1 is compulsory.
+(4). Solve any four from remaining questions.
+
+Q.1 Solve any Five. 20
+A Explain in brief Shannon’s channel capacity and Shannon’s Hartley theorem.
+B_ Discuss Nyquist criteria for zero symbol interference.
+C_ Write properties of Line coding techniques.
+D Define Power spectral density. Draw PSD of BPSK signal.
+E Define coherent detection. Write its advantages and disadvantages.
+F DMS X has four symbols x1,x2,x3,x4 with p(x) =1/2, p(x2) =1/2, p(x3) =1/2, p(xa)
+=1/4.Construct Shannon-Fano code.
+G_ Define Entropy, Weight of code, Minimum distance, Constraint length.
+
+Q.2 A Discuss transmitter, receiver, and signal space representation of QPSK. 10
+
+B_ Explain Delta modulation and its drawbacks. 10
+
+Q.3. A Explain how phase continuity is achieved in MSK with the help of suitable 10
+expressions.
+
+B_ Find out the generator matrix for systematic (7,4)cyclic code if G(p)=P?+P+1. 10
+
+Q.4 A A(6,3) linear block code is generated according to the following generator matrix. 10
+
+G= 100 101
+010 111
+001 110
+
+Determine Parity Check Matrix.
+Find all valid code words.
+Find Minimum distance.
+For a particular codeword transmitted, the received codeword is 101100.Find
+corresponding data word transmitted.
+
+B_ Find transmitter and receiver of PCM system in detail with help of suitable diagram. 10
+What is transmission bandwidth in PCM?
+
+Yo.
+--- page 2 ---
+0.5
+
+Q.6
+
+Q.7
+
+A
+
+A
+
+What is Matched filter? Derive the expression for probability of error of Matched
+filter.
+
+A system has an alphabet of eight letters Xi where i = 1,2,3.......... 6 with
+probability 0.4,0.25,0.15,0.1,0.05,0.05.Use Huffman coding to determine binary
+code for the source output. Also find average no. of binary digits per source letter,
+Entropy, Efficiency, Redundancy.
+
+A convolution encoder is described by
+
+g1=[100],g2 =[101],g3 =[ 111]
+
+Draw encoder diagram. Draw code tree, code trellis and state diagram.
+Compare
+
+Orthogonal and Non-orthogonal BFSK.
+
+PCM,DPCM,DM and ADM.
+
+Write short Notes on (any Four)
+QAM
+
+Gram-Schmidt Orthogonalisation
+Correlator
+
+OFDM
+
+DEPSK
+
+10
+
+10
+
+10
+
+10
+
+20
 ````
 
 ## 2009-10 · Exam not stated · Trim 5 · paper 1b8e422fd79e
@@ -8755,6 +9650,7 @@ x(n) = { 1,1,0,1,0} and h(n) = {1,-2,-3,4} using tabulation method
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/DIGITAL SIGNAL PROCESSING/2007-2008 II.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 82.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 y.
@@ -8771,7 +9667,6 @@ a
 a
 SUBJECT:- Digital Signal Processing MAX. MARKS:- I}
 COURSE:- MBA-TECH II YR. TRIM DURATION;- 3 Hour 5
-pale — FistoFt- ' ee ATS a2. wpm
 
 1. This question paper contains seven questions. Students should answer five questions. “ >,
 2. Question No.1 is compulsory. /,
@@ -9144,6 +10039,7 @@ bao
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/DIGITAL SIGNAL PROCESSING/2005-2006(28).pdf` (+1 identical copies)
 - Printed on paper: max marks: 10; exam date: 20/01/06
 - Text: ocr (2 pages), mean OCR confidence 85.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ _ fc cS INN
@@ -9153,7 +10049,6 @@ _ _ fc cS INN
 NARSEE MONJEE INSTITUTE OF MANAGEMENT AND HIGHER STUDIES
 (DEEMED UNIVERSITY) tome .)
 
-ped alts abo wCLT & Telecommunice
 Course: MBA (Tech) Ww year Tam: V- ‘a’ c0s-06)
 
 Sub: Digital Signal Processing Marks: 10 VE <I Ls,
@@ -9220,899 +10115,4 @@ H(S) =1 , T=2s (10)
 Or
 
 Explain the block diagram of DSP system.
-````
-
-## Year not stated · Exam not stated · Trim 5 · paper 6c3b6a470af1
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/DIGITAL SIGNAL PROCESSING/DIGITAL COMMUNICATION.pdf`
-- Printed on paper: duration hours: 3; exam date: 09/05/2011
-- Text: ocr (2 pages), mean OCR confidence 92.3
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & En
-Programme: MBA (TECH)-Telecom Year: II Trimester:
-
-Academic Year : 2010-2011
-
-Subject: Digital Communication Marks: *
-Time: :
-Date: 09/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-N.B. (1). Answer to each new question to be started on fresh page
-(2). Assume suitable data if required.
-(3).Q.1 is compulsory.
-(4). Solve any four from remaining questions.
-
-Q.1 Solve any Five. 20
-A Explain in brief Shannon’s channel capacity and Shannon’s Hartley theorem.
-B_ Discuss Nyquist criteria for zero symbol interference.
-C_ Write properties of Line coding techniques.
-D Define Power spectral density. Draw PSD of BPSK signal.
-E Define coherent detection. Write its advantages and disadvantages.
-F DMS X has four symbols x1,x2,x3,x4 with p(x) =1/2, p(x2) =1/2, p(x3) =1/2, p(xa)
-=1/4.Construct Shannon-Fano code.
-G_ Define Entropy, Weight of code, Minimum distance, Constraint length.
-
-Q.2 A Discuss transmitter, receiver, and signal space representation of QPSK. 10
-
-B_ Explain Delta modulation and its drawbacks. 10
-
-Q.3. A Explain how phase continuity is achieved in MSK with the help of suitable 10
-expressions.
-
-B_ Find out the generator matrix for systematic (7,4)cyclic code if G(p)=P?+P+1. 10
-
-Q.4 A A(6,3) linear block code is generated according to the following generator matrix. 10
-
-G= 100 101
-010 111
-001 110
-
-Determine Parity Check Matrix.
-Find all valid code words.
-Find Minimum distance.
-For a particular codeword transmitted, the received codeword is 101100.Find
-corresponding data word transmitted.
-
-B_ Find transmitter and receiver of PCM system in detail with help of suitable diagram. 10
-What is transmission bandwidth in PCM?
-
-Yo.
---- page 2 ---
-0.5
-
-Q.6
-
-Q.7
-
-A
-
-A
-
-What is Matched filter? Derive the expression for probability of error of Matched
-filter.
-
-A system has an alphabet of eight letters Xi where i = 1,2,3.......... 6 with
-probability 0.4,0.25,0.15,0.1,0.05,0.05.Use Huffman coding to determine binary
-code for the source output. Also find average no. of binary digits per source letter,
-Entropy, Efficiency, Redundancy.
-
-A convolution encoder is described by
-
-g1=[100],g2 =[101],g3 =[ 111]
-
-Draw encoder diagram. Draw code tree, code trellis and state diagram.
-Compare
-
-Orthogonal and Non-orthogonal BFSK.
-
-PCM,DPCM,DM and ADM.
-
-Write short Notes on (any Four)
-QAM
-
-Gram-Schmidt Orthogonalisation
-Correlator
-
-OFDM
-
-DEPSK
-
-10
-
-10
-
-10
-
-10
-
-20
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 44f98a5eab3a
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/scan0011(5).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/9/2012
-- Text: ocr (2 pages), mean OCR confidence 83.8
-
-````text
-ww
-
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Programme: MBA (Tech.) (I~ T) Year: Il Trimester: VII
-Academic Year : 2012-2013
-Batch: 2011-2012
-Subject: Digital Signal Processing Marks: 100
-Time: 10.00 am To 1.00 pm
-Date: 28/9/2012 Duration: 3 hrs.
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-
-paper and on the cover of the answer book, which is provided for their use.
-
-NB:
-1. Question No.1 is compulsory. ;
-2. Out of the remaining questions, attempt any 4 questions.
-3. Inall 5 questions to be attempted.
-4. Answer to each question to be started on‘a fresh paper.
-5. Figures to the right indicate full ica
-
-Q. No. - 4 ~ Question Marks
-1 a. Any discrete time signal i is periodic signal only is its frequency is ~ 05
-ratio of two integers. Justify
-b. | Why frequency domain sampling is required? 05
-c. The direct-form II-structure is preferred over the direct-form I 05
-structure because it requires only ; about half the number of
-; multiplications. Justify °°
-4. Shifting and folding operations are commutative operations. Justify 05
-2 a. Explain and discuss the following properties of z-transform. 10
-(i) Initial value theorem and (ii) Convolution in time domain.
-b. Determine the sequence x(n) whose z-transform is given by: 10
-- 3-427
-*O)= 352741579 .
-j Also specify ROC if system is (i) Stable (ii) Causal (iii) Anti-causal
-a, a. Compute the DFT of the sequence x(n) = £1, 2, 3, 4, 4, 3, 2, 1 } 10
-ra _.» using DIT FFT algorithm.
-b. Describe the classification of systems along with one suitable 10
-example for each class.
-4. a. _ Test the following systems for linearity, stability, causality, 10
-
-" dynamicity and time/shift invariance. (Solve any 2)
-L Thx@] =e
-2. y(n)=ax(n) tb
-3. y(n) = x(n) cos(mn)
---- page 2 ---
-at
-
-~S
-
-yv)
-
-Determine the forced response of the following system.
-y(n) - 4 y(n-1) - 1/8 y(n-2) = x(n) + x(n-1) where x(n) =(1/8)" u(n).
-Assume zero initial conditions.
-Explain in brief the ‘Gibbs oscillations’ and ‘frequency warping
-effect.’
-Explain the property of ‘Time reversal of the sequence’ with respect
-- to DFT. :
-What are the disadvantages of impulse invariant mapping technique
-used in designing of IIR filter?
-Compare FIR and IIR filters.
-Write the expression for Kaiser window function and explain the
-steps involved in FIR filter design.
-Determine the linear convolution and circular convolution of the
-sequences, x(n) = {1, 2, 3, 4} and h(n) = {8, 7, 6, 5}
-Design the symmetric filter if H, le! °)- e*” for | @|S a
-a EMER AN 0. - otherwise.
-Make the use of using Hanning window if the length of the filter
-should be 7 and wc = 1 rad/sec.
-
-fee ee ee 2 2 OK A RR og MERA RR AE A RE EK
-
-10
-
-10
-10
-05
-
-05
-10
-
-10
-
-10
-````
-
-## Year not stated · Exam not stated · Trim 7 · paper 7e33e802d22c
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/DIGITAL SIGNAL PROCESSING/scan0014(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 28/09/2012
-- Text: ocr (2 pages), mean OCR confidence 84.9
-
-````text
-SVKM’s NMIMS
-
-_-~ Mukesh Patel School Of Technology Management & Engineering
-Progfamme: MBA (Tech) -I. T./COMP Year: II] Trimester: VII
-
-Academic Year : 2012-2013
-
-Subject: DIGITAL SIGNAL PROCESSING Marks: 100
-Time: 10.00am To 1.
-Date: 28/09/2012 Duration: 3 hrs.
-
-Final - Examination
-
-NB: 1) Question No. 1 is compulsory
-2) Answer to each new question to be started on a fresh page
-3) Figure in brackets indicates full marks
-4) Attempt any FOUR questions from the remaining questions
-
-Q1 a) Calculate auto correlation of the signal x(n) = @Q"u (n) where 0<a<1. (5)
-b) State and prove circular time shift property in Discrete Fourier Transform. (5)
-€) Obtain linear convolution of two sequences x(n) =u(n)—u(n—3),
-
-h(n) =u(n—1)+u(n—2)—u(n—4)~u(n—5) using circular convolution. (5)
-d) State and prove the relationship between Z-transform and DFT. (5)
-
-1
-Q.2 a) Asystem is described by difference equation y(7) = > y(n-1)+x(n). input to the system
-
-is (3) u(n) and initial condition is y(-1) =1. Determine (10)
-i) zero input response
-} ii) zero state response
-iii) total response
-b) Show pole zero diagram for a function h(n) = (0.8)" , OsSns7 (10)
-Q.3 a) Consider the finite length sequence x(m)=5(n)+26(n-5) - (10)
-
-i) Find 10 point DFT of x(n).
-it Find y(n) such that ¥(K)=W,°*X (K)
-
-Wa a sequence x(n)={(1+57),(3-6/),(2+7/),(-2-8/)} (10)
-i) Find X(K). .
-ii) Let p(n) ={1,3,2,-2} and q(n) ={5,-6,7,8} find P(K) and Q(K) using X(K) and
-not otherwise.
-
-He
---- page 2 ---
-Q4
-
-Qs
-
-a6
-
-a7|
-
-a) Obtain Direct form |, Direct form il, Cascade and Parallel structure for the system described by
-
-y(n) =-0.1y(n-1)+ 0.72y(n - 2)+0.7x(x) —0.252x(n ~2) (10)
-b) Find x(n) considering all possible region of convergence. (10)
-1
-*() 3058
-
-a) Given x(n) = {3,2,1,2} (10)
-i) Find X(K) using DIT-FFT algorithm.
-ii) Let p(n) ={3,0,2,0,1,0,2,0}. Find P(K) using X(K).
-
-b) Derive the radix-2 DIT-FFT for a 8 point DFT. (10)
-a) Convert the analog filter with system function (10)
-H,(s)= vin BA into a digital IIR filter by means of BLT. Resonant frequency of
-
-(s+0.1) +16
-
-a digital filter is given as @, = *,
-
-b) Determine the unit sample response A(n) of a linear-phase FIR filter of length 7 =4 FOR
-
-which the frequency response at @ =0 and @= A is specified as
-
-a\ 1
-H,(0)=1 H,| —|=— (10)
-(0) (4)=3
-Write short notes on (any four) (20)
-
-a) Linear convolution using overlap and add method
-
-b) Classification of signals
-
-¢) Unilateral Z-transform
-
-d) FFT is cornputationally efficient than DFT, Justify. &
-e) FIR filter realization
-
-} . % =
-
-a
-
-be
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 505abf29aa4d
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (EXTC), 204-15 FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 04/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (EXTC) Year: III Semester: V
-
-esTiTUTE OF Bay a
-Se ty,
-£7 MPSTM a
-LN 20pm 4 RY Je
-
-wa is,
-
-‘a Ay,
-
-: Mona aK "4
-
-Academic Year: 2014-2015
-
-Subject : Digital Signal Processing
-
-Marks: 100
-Date : 04/12/2014 Time : 2.00 p
-
-Durations: 3
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer book, which is provided for their use.
-
-1. Question no.1 is compulsory.
-
-2. Out of remaining questions, attempt any 4 questions.
-
-3. Inall 5 questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figure in brackets on the right hand side indicate full marks for a question.
-
-Ql. (a The frequency response of a system is given by (20)
-H(W) = (1-rele™) (1- ree")
-Determine its magnitude and phase response.
-
-(b) Compute circular convolution of
-x(n) = {3,2,1,2} and x2(n) = {1,2,1,2}
-
-(c) An FIR filter has zeroes at +2, +j and —j. Determine its transfer function and realize the
-same.
-
-(d) The frequency response of an FIR filter is given below.
-H(W) =e”, O<|wi<F
-= 0, elsewhere
-Determine order, cut off frequency and stop band alternation if Hamming window is usd.
-
-(e) Determine the zeros for the following FIR systems and indicate whether the system is
-minimum phase, maximum phase or mixed phase.
-(i) H,(z)=6+Z73-Z7?
-
-(ii) H2(z)=1-Z-1-z?
-Q2. (a) Perform the circular convolution of the following sequences using DFT & IDFT.
-x(n)={1, 1, 2, 1}.
-
-h(n)={1, 2, 3, 4} (10)
-
-(b) Find the IDFT of the following sequence (10)
-x(n)={8, 1-j2.4, 0, 1-70.4, 0, 1+j0.4, 0, 1+j2.4} using DIF-FFT algorithm.
-
-1/2,
---- page 2 ---
-Q3.
-
-Q4.
-
-QS.
-
-Q6.
-
-Q7.
-
-(a) Poles and zeroes of an LTI discrete time system are as follows.
-Zeros are at 1.1 and -0.9
-Poles are at 0.8 e+/047
-Compute and sketch magnitude and phase response of the filter.
-
-(b) Explain quantization effect on the coefficients of FIR filters.
-
-(a) Design a Low pass FIR Filter with length 7, cut off frequency of 1.5kHz and sampling
-
-(10)
-
-(10)
-
-frequency of 5kHz using Hamming Window. Also determine the frequency response. (10)
-
-(b) Differentiate general purpose and DSP processors. Explain pipelining effect and (10)
-MAC unit in DSP processor.
-
-(a) Design a Butterworth Digital IIR low pass filter using bilinear transformation by (10)
-
-taking the sampling time of T=0.1 second to satisfy the following specifications.
-
-0.6 <|H(e™”)| < 1.0 hr 0S w<0.350
-jH(e”)| < 0.1 hr 0.72 Sw <n
-
-(b) If DFT of a sequence x(n) is given by XCK) = {1, 2, 3, 2}. Compute DFT of the (10)
-
-following signals
-x,(n) = x(n + 2)
-x(n) = x(n) e™?
-
-(a) Obtain Direct Form I Realization for the system described by the difference equation
-y(n)=0.5y(n-1) - 0.25y(n-2) + x(n)+ 0.4x(n-1). Also Determine the Direct From-II
-realization for the following System
-y(n)= - 0.ly(n-1) + 0.72y(n-2) + 0.7x(n) - 0.25x(n-2).
-
-(b) Sketch pole zero locations for digital resonator, comb filter, notch and all pass filter
-of minimum order.
-
-(a) Compute DCT for the following sequence
-x(n) = {4, 3, 2, 1}
-Prove that DCT coefficients justify the energy compaction.
-
-(b) An FIR filter has zeroes located at -0.4, -2.5 and -1. Determine transfer function
-and difference equation for the same. Is it a linear phase filter? Realize it Identify
-the type of filter based on its passband.
-
-(10)
-
-(10)
-
-(10)
-
-(10)
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 3486be72bbab
-
-- Departments: Electronics and Telecommunication
-- Programmes: B TECH / EXTC
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/EXTC/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SYSTEM DESIGN (EXTC), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; exam date: 01 December 2017
-- Text: ocr (2 pages), mean OCR confidence 90.2
-
-````text
-SVKM’s NMIMS
-
-va MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Programme: B. Tech (EXTC) Year: III Semester: V \
-a - ‘
-
-Academic Year: 2017-2018
-
-Subject: Digital System Design { f i? sie Ge
-Marks: 70 - (i$ uU{BPRARYW Sf
-Date: 01 December 2017 Time: 2.00 pm ig°§.00 pm »
-Durations: 3 (Rr8)* o> a,
-No. of Pages: held aurea
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 __ questions.
-
-3) In all ___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-a
-
-Ql. Attempt the following questions:-
-
-a) | Explain Design flow of VHDL for designing of digital circuit. [4]
-
-b)| Define state diagram and state graph. [4]
-
-c) | Explain BIST. [4]
-
-d)| Write difference between signal and variable data objects. (2]
-
-Q2 Explain all different delay models of VHDL with example. [6]
-a)
-
-b) | Explain dataflow VHDL modelling style with coding of Full adder circuit. [8]
-
-Q3 a)| Write VHDL code for 4x1 multiplexer using behavioral modelling with If then else statement. | [8]
-
-> b)| Write VHDL code for 4 bit SISO (serial in serial out) shift register using structural modelling. | [6]
-aad Q4 a) | Design the sequential logic circuit for a single input single output system from the state [10]
-, diagram using D Flip flop. Analyze through state table and excitation table.
---- page 2 ---
-b)| Explain following data types with example [4]
-
-i) Enumeration
-
-ii) Physical
-Q5 a) | Draw the state diagram for Mealy machine 110 sequence detector also describe the same [8]
-using VHDL code with behavioral modelling (use active low reset signal).
-b)| Write VHDL code for 1 bit magnitude comparator using behavioral modelling. [6]
-
-Q6 a) | By analyzing the sequential circuit obtain the equation for input and determine the state table | [6]
-and state diagram.
-
-b)| Explain the design flow of digital logic with FPGA (field programmable gate array). [8]
-Q7 a) | Write short note on Boundary scan standards. [7]
-b) | Write short note on CPLD architecture. [7]
-
-2h
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper a6aa77a9c4d5
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 30 November 2017
-- Text: ocr (2 pages), mean OCR confidence 90.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) ~ Year: IV» Semester: VII ~
-
-Academic Year: 2017-2018
-
-Subject: Digital Signal Processing »
-: ° Marks: 60 ~
-
-Date: 30 November 2017 Time: 10.00 am
-Durations: 3 (
-
-No. of Pages:
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q 1: Attempt the following questions (12)
-
-a) Compare time variant and time invariant system.
-
-b) Which is more sensitive network to finite word length?
-
-(i) Direct form-ll
-
-(ii) Cascade form
-
-Justify your answer.
-
-c) What is frequency warping in Bilinear transformation?
-
-d) Explain the symmetry properties of DFTs which provide basis for fast algorithms.
-
-Q 2: a) Indicate the number of stages, the number of complex multiplications at each stage, and the total
-
-number of multiplications required to compute 64-point FFT using radix-2 algorithm. (06)
-b) Perform circular, convolution of two sequences (06)
-x,(n) = {0.2,0.4,0.6,0,8,1,1.2,1.4} X2(n) = {0.1,0.3,0.5,0.7,0.9,1.1,1,3,1}
-cece
-a Q 3: a) Compare DCT and DFT. Hence Test the energy compaction property of DCT. (06)
-b) What are the finite word length effects or error in filters and rounding effect? (06)
-
-1/2
---- page 2 ---
-Q4:- a) Derive Cooley- Tulkey’s Algorithm for DIF- FFT flow graph for N=4. (06)
-b) Enlist the different cases for the position of definite Zeros of a linear phase FIR filter. (06)
-
-Q5 a) Realize the following Transfer function using Cascade Realization & Parallel Realization
-
-~z7!y3 06
-H(z)= ne z_) (06)
-(= 52-327)
-b) Find digital filter H(z) by impulse - invariance method _ (06)
-H,(s)= 0.5(s +4)
-(s+)(s +2)
-Q6: a) Describe Finite Impulse response (FIR) filters design. Enlist the methods used for calculating FIR
-filter coefficients, also discuss the algorithm of FIR filter design using Window method. (06)
-
-b) Design a 24" orders low pass filter with its cutoff frequency is 0.27 rad/sec using rectangular
-window function.
-(06)
-Q7:- Write a note on: (12)
-
-~ a) Comparison of Butterworth, Chebyshev I &II filter design
-b) VLIW architecture
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper adccd2bffe2f
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/DIGITAL SIGNAL PROCESSING/DIGITAL SIGNAL PROCESSING B TECH (COMP), RE EXAM.pdf`
-- Printed on paper: exam date: 06 December 2016
-- Text: ocr (2 pages), mean OCR confidence 89.7
-
-````text
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme : B. Tech (COMPUTER
-Saiek sebie Gone ) Year : III Semester: V
-
-Academic Year : 2016-2017 |
-
-Subject : Digital Signal Processing
-
-Date : 06 December 2016
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
--5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer the following questions. Mks
-A Compare the number of complex additions and complex multiplications in the direct computation 4
-of DFT and the FFT algorithm for an 8 point sequence.
-B Explain linear filtering of long sequence using DFT. 4
-
-C Compare FIR and IIR digital Filter. 4
-
-Q2 A_ State whether ramp sequence is energy signal or power signal. Calculate corresponding energy or 6
-average power as the case may be.
-
-B Compute the correlation of the following signal and comment on the result. 6
-x(n)= {1,0,0,0} y(n)= {0,1,0,0}
---- page 2 ---
-Q3 A_ Find the values of x(0) and x() if X(z) is as given below: —- 6
-
-2
-
-Zz
-z>-1.22+0.2
-
-B Proof the differentiation property of Z-transform. 6
-
-Q4 A’ Compute DFT of four point sequence x(n)= {0,1,2,3}. 6
-
-B_ System function of initially relaxed causal system is given by 6
-
-0-+ (240-6) €-O-6)
-z*-oO\VZ-0-72
-
-1) Find the corresponding difference equation of system,
-2) Realize the filter using parallel form.
-
-He =
-
-Q5 A_ LTI system with impulse response h(n)=26(n)-6(n-2) is fed with an input 6
-x(n)=8(n) +26(n-2).Find output y(n).
-
-B_ Explain Frequency warping with suitable diagram. 6
-
-Q6 A The analog transfer function of low pass a is 6
-WO= oro
-
-And its bandwidth is lrad/sec. Design the digital filter using BLT method whose cutoff
-frequency is 20x and sampling time is 0.0167sec; by considering warping effect.
-
-B_ Design a linear phase FIR low pass filter of order seven with cut-off frequency Irad/sec 6
-using rectangular window.
-
-Q7 A Obtain DFT of a sequence x(n)={0.5,0.5,0.5,0.5,0,0,0,0} -Using decimation in frequency 6
-FFT algorithm.
-
-B_ Explain analog to digital conversion of signals with suitable diagram. 6
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper 8ca82a5d63b7
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/DIGITAL SIGNAL PROCESSING/Digital signal processing Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
-- Text: ocr (2 pages), mean OCR confidence 86.9
-
-````text
-4
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (IT) Year: III Semester : V
-Academic Year: 2018-2019
-
-Subject: Digital Signal Processing — Marks: 70,
-
-Time: 2.00 pm to 5.00 pm
-
-Date: 17 January 2019 .
-Durations: 3 (hrs)
-
-No. of Pages:_ OZ
-Re-examination (2017-18 / 2018-19) —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and.on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume -suitable data if necessary.
-Ql. a. Test the stability of the LTI system, whose impulse response is given by
-h(n) = 0.2"u(n)
-b. What are the different types of filters based on impulse response?
-c. How many complex multiplications and additions are required for computing 64-point
-DFT using FFT algorithms?
-d. What is meant by impulse invariant method of designing HR filter?
-e. Explain Cross correlation and autocorrelation with proper expressions.
-f. Determine the transfer function of the LT] system defined by the equation:
-y(n) — 0.5y(n — 1) = x(n) + 0.4x(n — 1)
-g. Explain Symmetric and Antisymmetric signals. Determine whether the given signal is
-Symmetric or Antisymmetric.
-=)
-
-x(n) = sin (=
-
-Q2. a. Determine the response y(n), for n>=0 of the system described by the second order
-difference equation:
-y(n) — 4y(n—1) + 4y(n—- 2) = x(n) — x(n—-1)
-when the input is x(n) = (—1)"u(n) and the initial condition are y(—1) = y(—2) = 1.
-b. Consider a signal x (n) given by
-
-x(n) = (4) win) +(—4) wen,
-
-Determine X(z) and ROC.
-
-Page | 1
-faye
-
-[2]
-
-2]
-[2]
-
-[2]
-[2]
-[2]
-
-[2]
-
-[7]
-
-[7]
---- page 2 ---
-Q3.
-
-Q4.
-
-Q5.
-
-Q6.
-
-Q7.
-
-In an LTI system the input x(n) = {1, 1, 1} and the impluse response h(n) = { —1,—-1}.
-Determine the response of LTI system by radix-2 DIT FFT.
-Determine the causal signal x (n) if its z-transforms X (z) is given by
-
-24+z
-(z-D@-3)
-Find the IDFT of X(k) = {0, 2+2j,-j4, 2—2j, 0, 24+2j, j4, 2—2j} using
-inverse Radix — 2 DIT — FFT Algorithm.
-
-X(a=
-
-For the given sequences x(n) = cos (=) and h(n) = 2". Compute the 4-point circular
-convolution using tabular method.
-Transform the analog filter transfer function H(s) into a digital filter Transfer function
-using impudse invariance technique. (Take T=1 sec)
-
-sta
-(s + a)? + b?
-Compute the DFT of the sample data sequence x(n) = { 1,1,2,2,3,3 } for N=5.
-
-H(s) =
-
-Design a FIR filter (low pass) with a desired frequency response
-
-‘ 3m 31
-
-H = ef3w. -—<w<—
-
-(w) =e ; ZPevsT
-ae 3m <
-
-=0; 7swst
-
-Use Hamming window with M = 7, also obtain the frequency response.
-
-Obtain a DF - I] and cascade realization for the system function:
-
-, 1+2z7
-OC Fa)
-
-Design a Butterworth filter using the Bilinear transformation for the following:
-
-0.707 < |H(e™”)| <1; O<swst
-|H(e”)| < 0.2; Swen
-
-(Take T = 1 sec)
-
-State properties of Z-transform with proper expressions.
-
-Page | 2
-
-[7]
-
-[7]
-
-[7]
-
-[7]
-
-[7]
-
-[7]
-[7]
-
-[7]
-
-[8]
-
-[6]
 ````

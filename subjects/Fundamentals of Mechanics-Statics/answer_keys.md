@@ -2,13 +2,14 @@
 
 Answer keys and model answers published on the portal, newest first.
 
-## 2023-24 · Re-Exam · Sem 2 · Answer key · paper a042fc22656d
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper a042fc22656d
 
 - Departments: Computer Engineering
 - Programmes: Integrated Computer 7032
 - Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_Computer_7032/Fundamentals of Mechanics-Statics/ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: mixed (7 pages), mean OCR confidence 64.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -135,7 +136,6 @@ w
 2 ¥) i NA <_ e
 Ne
 200
-apphyeng Lam's theorem 7 (Ne-tse) _ Ne
 z = a Se ee
 wy BE ond 5 encre-0) #090
 2°° sin qo sin(Gor®)
@@ -271,13 +271,14 @@ is the arithmetic mean position of all the points in the surface of the figure.
 ********** 7 **********
 ````
 
-## 2023-24 · Re-Exam · Sem 2 · Answer key · paper 7feaf9ccca33
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 7feaf9ccca33
 
 - Departments: Data Science
 - Programmes: Integrated DS 7038
 - Source: `02_Question_Papers/2023/Sem_02/Re-Exam/Integrated_DS_7038/Fundamentals of Mechanics-Statics/ANS_Fundamentals of Mechanics-Statics(701ME0C010)_2023-2024.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: mixed (7 pages), mean OCR confidence 64.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -404,7 +405,6 @@ w
 2 ¥) i NA <_ e
 Ne
 200
-apphyeng Lam's theorem 7 (Ne-tse) _ Ne
 z = a Se ee
 wy BE ond 5 encre-0) #090
 2°° sin qo sin(Gor®)

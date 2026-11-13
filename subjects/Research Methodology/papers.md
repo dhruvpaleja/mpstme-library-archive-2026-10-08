@@ -2253,6 +2253,124 @@ II. Research is more about the journey than destination
 [10]
 ````
 
+## 2023-24 · Final + Re-Exam · Sem 6 · paper fb18c4bf7b51
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RESEARCH METHODOLOGY/Research Methodology, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
+Academic Year: 2023-2024
+Program/s: B.Tech./MBATech. Year: III Semester: VI
+Stream/s :All Applicable Streams
+
+Subject: Research Methodology Time: 34 _ hrs (2:d0puto 5:00 pa)
+
+Date:_3o/ 4 _/ 2024 No. of Pages:_2
+
+Marks: 100
+Final Examination/Re-Examination ( 2022-23) ©
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Attempt Any Four
+a.
+Explain how does a well-defined research problem contribute to the overall
+success of a research study?
+‘Explain the significance of a research hypothesis in research journey [20]
+Cc. . . ss
+> CO1:804:BL2 3 Differentiate between Descriptive and Explanatory Research
+"Discuss the importance of References and Citations in research
+e.
+Discuss various methods of Data Scaling
+a. Discuss different phases of research [10]
+
+Q2
+b. A researcher wants to conduct research on biodiversity in Assam.
+CO1;S04;BL4 . . . . [10]
+Discuss how the literature survey is to be conducted for this research
+
+Q3 a. Discuss various forms of research communication [10].
+
+CO3; SO4;BL2 b. Explain different methods of Data Sampling [10]
+
+a. A research is to be carried out on “Remote Work Productivity and Job [10]
+Satisfaction”
+
+Q4
+--- page 2 ---
+4
+
+CO2; SO4;BL2 Compare the outcome of qualitative and quantitative research to be
+conducted for this research title
+
+Explain the IMRaD form of writing the research article [10]
+
+Dr. Rodriguez, a clinical psychologist, has been working with college
+students for several years and has observed an increasing demand for mental
+health support on campus.
+
+While there is existing research on mental health interventions for college
+
+students, Dr. Rodriguez has identified a potential research gap related to the
+
+efficacy of mindfulness-based interventions specifically tailored to address
+
+the stressors and. mental health ‘challenges faced by first-year students
+Q5 transitioning to college life.
+
+C02; SO4;BL4 Numerous studies have investigated various mental health interventions for
+college students, including cognitive-behavioral therapy, group counseling,
+and online support platforms. However, the majority of these studies offer
+generalized interventions without focusing on the unique stressors and
+adjustment issues experienced by first-year students during their transition
+to college. :
+
+a. Identify the research gaps in the above case study [10]
+
+b. Formulate the research questions for the case study mentioned above [10]
+
+Q6 a. Discuss various methods of Data Collection [10]
+
+CO2; SO4;BL4 b. Explain the various phases of research with an appropriate example. [10]
+
+a. Write a research proposal for conducting following research [10]
+
+Developing AI-Based Systems for Early Detection of Cybersecurity Threats
+in IoT Networks
+
+OR
+
+Investigating Patterns of Social Mobility and Inequality in Urban vs. Rural
+Areas
+
+Q7
+CO3; SO4;BL2
+
+b. Comment on [10]
+
+1. Data Authentication
+2. Research is more about the journey than destination
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 702a94586ac3
 
 - Departments: Common (all branches)
@@ -2521,228 +2639,7 @@ CO-3,
 BL-5
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper fb18c4bf7b51
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RESEARCH METHODOLOGY/Research Methodology, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 91.0
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE
-Academic Year: 2023-2024
-Program/s: B.Tech./MBATech. Year: III Semester: VI
-Stream/s :All Applicable Streams
-
-Subject: Research Methodology Time: 34 _ hrs (2:d0puto 5:00 pa)
-
-Date:_3o/ 4 _/ 2024 No. of Pages:_2
-
-Marks: 100
-Final Examination/Re-Examination ( 2022-23) ©
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Attempt Any Four
-a.
-Explain how does a well-defined research problem contribute to the overall
-success of a research study?
-‘Explain the significance of a research hypothesis in research journey [20]
-Cc. . . ss
-> CO1:804:BL2 3 Differentiate between Descriptive and Explanatory Research
-"Discuss the importance of References and Citations in research
-e.
-Discuss various methods of Data Scaling
-a. Discuss different phases of research [10]
-
-Q2
-b. A researcher wants to conduct research on biodiversity in Assam.
-CO1;S04;BL4 . . . . [10]
-Discuss how the literature survey is to be conducted for this research
-
-Q3 a. Discuss various forms of research communication [10].
-
-CO3; SO4;BL2 b. Explain different methods of Data Sampling [10]
-
-a. A research is to be carried out on “Remote Work Productivity and Job [10]
-Satisfaction”
-
-Q4
---- page 2 ---
-4
-
-CO2; SO4;BL2 Compare the outcome of qualitative and quantitative research to be
-conducted for this research title
-
-Explain the IMRaD form of writing the research article [10]
-
-Dr. Rodriguez, a clinical psychologist, has been working with college
-students for several years and has observed an increasing demand for mental
-health support on campus.
-
-While there is existing research on mental health interventions for college
-
-students, Dr. Rodriguez has identified a potential research gap related to the
-
-efficacy of mindfulness-based interventions specifically tailored to address
-
-the stressors and. mental health ‘challenges faced by first-year students
-Q5 transitioning to college life.
-
-C02; SO4;BL4 Numerous studies have investigated various mental health interventions for
-college students, including cognitive-behavioral therapy, group counseling,
-and online support platforms. However, the majority of these studies offer
-generalized interventions without focusing on the unique stressors and
-adjustment issues experienced by first-year students during their transition
-to college. :
-
-a. Identify the research gaps in the above case study [10]
-
-b. Formulate the research questions for the case study mentioned above [10]
-
-Q6 a. Discuss various methods of Data Collection [10]
-
-CO2; SO4;BL4 b. Explain the various phases of research with an appropriate example. [10]
-
-a. Write a research proposal for conducting following research [10]
-
-Developing AI-Based Systems for Early Detection of Cybersecurity Threats
-in IoT Networks
-
-OR
-
-Investigating Patterns of Social Mobility and Inequality in Urban vs. Rural
-Areas
-
-Q7
-CO3; SO4;BL2
-
-b. Comment on [10]
-
-1. Data Authentication
-2. Research is more about the journey than destination
-````
-
-## 2022-23 · Final-Exam · Sem 5 · paper 0f10f18a53dd
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/RESEARCH METHODOLOGY/Research Methodology, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2022-23
-
-Programme: B. Tech (All Stream) Year: III Semester: V
-Subject: Research Methodology
-
-Marks: 100
-Date: 01 December 2022 Time: 2.00 pm - 5.00 pm
-
-Durations: 3 (Hrs)
-No. of Pages: _O2
-Final Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-_2) Out of remaining questions, attempt any __4__ questions.
-yInall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly:
-a. ‘Research is a scientific process’. Comment on the statement in the light of the
-CO-1;SO-4;BL-5 steps taken by you in your project
-: : [20]
-CO-2:S0-4;BL-2 6. Discuss the parameters of research design
-CO-3;S0-4;BL-2 © Compare quantitative and qualitative research
-CO-1;S0-4;BL-2. 4. Discuss the various ingredients of research
-2 a. |Ilustrate the types of “Hypotheses. What role do the hypothesis play in research? [10]
-9-2;S0-4;BL-2_b. Explain the different types of research [10]
-a. ‘Research is what everybody has seen and to think what nobody has thought’.
-Q3 Illustrate the statement in the light of significance of review of related literature [10]
-CO-2:S0-4:BL-2 and how it gives direction to the research.
-b. Discuss the term research design with examples. [10]
-Q4 a. : ° i [10]
-C0-2:S0-4:BL-2 Discuss various methods of data collection.
-CO-1;SO-4;BL-2_ b. Discuss the phases of research with examples [10]
-Q5 Discuss ethics in publication and plagiarism [10]
-CO-3;SO-4;BL-2 - 10
-b. Discuss IMRaD format with an example [10]
-Q6 a. Is it necessary to communicate the research? Explain in detail the various modes [10]
-
-CO-2;SO0-4;BL-3 of communicating research with their merits and demerits
-
-Page 1 of 2
---- page 2 ---
-Draft a research design for the following problem statement:
-
-In the process of manufacturing Product A certain parts need to be transported
-from one assembly line to the next and installed by hand. The incremental loss in
-efficiency means that Company B has not been meeting its production goals this
-year. To reduce the need for manual transport of parts, conveyor belts and
-mechanical robot arms should be installed between assembly lines.
-
-[10]
-
-Q7
-CO-2; SO-4;BL-5
-
-Identify the research gap in the following study
-
-Article 1: To study the axial behavior and cyclic behavior of multi-partition
-composite shear walls, six axially loaded specimens were tested, and two
-specimens were tested under horizontal cyclic load.
-
-Scope
-
-Six rectangular multi-partition composite shear walls were tested under axial load.
-Two composite shear walls subjected to cyclic load under high axial load ratio
-were tested.
-
-[10]
-
-~
-
-CO-3;SO-4;BL-5
-
-Comment on
-1. Research integrity
-2. Ethical practices in research
-
-[10]
-
-v4
-
-Page 2 of 2
-````
-
-## 2022-23 · Re-Exam · Sem 6 · paper 474234e76f08
+## 2023-24 · Re-Exam · Sem 6 · paper 474234e76f08
 
 - Departments: Common (all branches)
 - Programmes: B TECH, MBA TECH
@@ -2849,6 +2746,220 @@ Q7 b. Comment on [10]
 CO3;S04;BL2 1. Data Verification
 
 2. Research is more about the journey than destination
+````
+
+## 2022-23 · Exam not stated · Sem 6 · paper 6c5d9a24d7f5
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RESEARCH METHODOLOGY/Research Methodology.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+Program: B.Tech./MBATech Stream ;All streams
+Subject: Research Methodology *
+Date:_©4/05/23 . No. of Pages:_2
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1} Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) Inall___5__ questions to be attempted.
+/A) All questions carry equal marks.
+») Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+
+a. Research is the careful consideration of study regarding a particular concern or
+problem using scientific methods. Comment on the statement in the light of the
+steps taken by you in your project
+
+CO-1; SO-4;BL-5
+
+[20]
+CO: 280-45T2 b. Discuss the term Research integrity
+CO-3:S0-4;BL-2 © Compare quantitative and qualitative research
+CO-1;S0-4;BL-2 4. Discuss the various ingredients of research
+Q2 a. Draw a flow chart for the steps to be followed for conducting research. [10]
+0-2;S0-4;BL-2_b. Explain the different types of literature surveys [10]
+7 a. ‘A literature review helps researchers to compare and contrast existing research on
+a particular topic to draw better conclusions from it.’
+Q3 Illustrate the statement in the light of significance of review of related literature [10]
+CO-2;SO-4;BL-2 and how it gives direction to the research.
+b. Discuss IMRaD format with an example. [10]
+4 a. What is the difference between field experiment and lab experiment? Answer this
+eS S0-4:BL-2 question in light of your respective research topic [10]
+CO-1;SO-4; BL-2. _b. Discuss various methods of data collection. [10]
+--- page 2 ---
+Q5
+CO-2; SO-4; BL
+
+Discuss the functions and types of hypotheses
+
+[10]
+
+b. Is research communication necessary? Explain in detail the various modes of
+
+communicating research with their merits and demerits
+Ld
+
+[10]
+
+Q6
+CO-2;SO-4;BL-3
+
+a. Discuss the phases of research with examples...
+
+[10]
+
+b. Draft a research design for the following problem statement:
+
+Many of today’s global scientific challenges require the joint involvement of
+researchers from different disciplinary backgrounds. Such interdisciplinary
+research teams face many challenges resulting from differences in training and
+scientific culture. Interdisciplinary education programs are required to train truly
+interdisciplinary scientists with respect to the critical factor skills and
+competences.
+
+[10]
+
+Q7
+CO-2; SO-4;BL-5
+
+a. Identify the research gaps in the following study
+
+Travel behavior today has shifted from global consumerism to a more meaningful
+and personalized experience. This has amplified the demand for heritage tourism,
+Tourists are also seeking transformative travel experiences which lead to positive
+changes in their values and attitudes. Some have identified that heritage tourism
+is responding towards fulfilling the transformation needs of tourists.
+
+However, the lack of empirical evidence on the contribution of transformative
+heritage tourism in changing the personal values of tourists is restricting the
+formulation of strategies that can boost its growth.
+
+[10]
+
+CO-3;SO-4;BL-5
+
+b. Comment on
+1. Publication Ethics
+2. Plagiarism.
+
+[10]
+````
+
+## 2022-23 · Final-Exam · Sem 5 · paper 0f10f18a53dd
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/RESEARCH METHODOLOGY/Research Methodology, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B. Tech (All Stream) Year: III Semester: V
+Subject: Research Methodology
+
+Marks: 100
+Date: 01 December 2022 Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _O2
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+_2) Out of remaining questions, attempt any __4__ questions.
+yInall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly:
+a. ‘Research is a scientific process’. Comment on the statement in the light of the
+CO-1;SO-4;BL-5 steps taken by you in your project
+: : [20]
+CO-2:S0-4;BL-2 6. Discuss the parameters of research design
+CO-3;S0-4;BL-2 © Compare quantitative and qualitative research
+CO-1;S0-4;BL-2. 4. Discuss the various ingredients of research
+2 a. |Ilustrate the types of “Hypotheses. What role do the hypothesis play in research? [10]
+9-2;S0-4;BL-2_b. Explain the different types of research [10]
+a. ‘Research is what everybody has seen and to think what nobody has thought’.
+Q3 Illustrate the statement in the light of significance of review of related literature [10]
+CO-2:S0-4:BL-2 and how it gives direction to the research.
+b. Discuss the term research design with examples. [10]
+Q4 a. : ° i [10]
+C0-2:S0-4:BL-2 Discuss various methods of data collection.
+CO-1;SO-4;BL-2_ b. Discuss the phases of research with examples [10]
+Q5 Discuss ethics in publication and plagiarism [10]
+CO-3;SO-4;BL-2 - 10
+b. Discuss IMRaD format with an example [10]
+Q6 a. Is it necessary to communicate the research? Explain in detail the various modes [10]
+
+CO-2;SO0-4;BL-3 of communicating research with their merits and demerits
+
+Page 1 of 2
+--- page 2 ---
+Draft a research design for the following problem statement:
+
+In the process of manufacturing Product A certain parts need to be transported
+from one assembly line to the next and installed by hand. The incremental loss in
+efficiency means that Company B has not been meeting its production goals this
+year. To reduce the need for manual transport of parts, conveyor belts and
+mechanical robot arms should be installed between assembly lines.
+
+[10]
+
+Q7
+CO-2; SO-4;BL-5
+
+Identify the research gap in the following study
+
+Article 1: To study the axial behavior and cyclic behavior of multi-partition
+composite shear walls, six axially loaded specimens were tested, and two
+specimens were tested under horizontal cyclic load.
+
+Scope
+
+Six rectangular multi-partition composite shear walls were tested under axial load.
+Two composite shear walls subjected to cyclic load under high axial load ratio
+were tested.
+
+[10]
+
+~
+
+CO-3;SO-4;BL-5
+
+Comment on
+1. Research integrity
+2. Ethical practices in research
+
+[10]
+
+v4
+
+Page 2 of 2
 ````
 
 ## 2018-19 · Exam not stated · paper 81ff8a458730
@@ -3193,445 +3304,7 @@ Q.7. Mention all hall marks (main distinguishing characteristics) of scientific 
 THREE of them in detail with examples. (12 Marks)
 ````
 
-## 2017-18 · Re-Exam · paper 9ee569e74272
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2017-18 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 29 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.9
-
-````text
-SVKM’s NMIMS
-/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VII
-
-Batch: 2017-18
-Academic Year: 2017-2018
-
-Subject: Research Methodology
-
-Marks: 60 *
-Date: 29 May 2018: Time: 10.00 am to 12.00 noon
-Durations: 2 (Hrs)
-
-No. of Pages: OZ
-Re-Examination 7
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q1. Read the case and answer the questions that follow.
-
-As the business grows in terms of size and revenue, they face the inevitable challenge of managing their
-human resources. In order to execute well-informed business decisions, managers need to understand the
-work being done on the front line of the business with a special reference to the employee’s satisfaction,
-which is essential to the success of any business. Therefore, keeping employees satisfied with their careers
-should be the major priority for every employer. There are numerous reasons for employees to be
-discouraged with their jobs which lead them to resign; the reasons include high stress, lack of
-communication within the company, lack of recognition or limited opportunity for growth. Management
-should actively seek to improve these factors if they hope to lower their turnover rate. Research studies
-have shown that motivated and satisfied employees tend to contribute more in terms of organizational
-productivity and maintaining a commitment to customer satisfaction.
-
-a. Develop the research question for the above situation. (4 Marks)
-
-b. Formulate the theoretical framework and develop appropriate hypotheses for the same. (8 Marks)
-
-be
---- page 2 ---
-\
-
-x
-\
-
-Q.2.What are the types of data used in empirical research? Discuss the guidelines of questionnaire design. \
-_ (12 Marks) \
-
-/ Q.3.Discuss the SEVEN STEPS involved in hypothetico — deductive method and explain each one of them
-in short with examples.(12 marks)
-
-Q.4.What is a research proposal? Explain what are the steps involved in developing it. (12 Marks)
-
-Q.5. A study compared the effects of four 1-month point-of-purchase promotions on sales. The unit sales for
-five stores using all four promotions in different months follow. (12 Marks)
-
-Free Sample 78 87 81 89 85
-One-Pack Gift [94 * a1 87 90 - 88
-Cents off 73 78 69 83 76
-Refund by mail | 79 83 78 69 81
-
-a. Calculate the mean unit sales for each promotion and then determine the grand mean. (2 Marks)
-b. Estimate the population variance using the between-column variance. (3 Marks)
-
-c. Estimate the population variance using the within-column variance computed from the variance
-within samples. (3 Marks) .
-
-d. Calculate the F ratio. At the 0.01 level of significance, do the promotions produce different effects
-on sales? (Hint: F statistics is 5.29 at 1% with 3 DF in the numerator and 16 DF in the denominator).
-(4 Marks)
-
-Q.6. Answer the following questions (2*6 = 12 Marks)
-
-a. Describe the steps involved in sampling design. (6 Marks)
-
-b. What are null and alternative hypothesis? Explain Type I error and Type II error. (6 Marks)
-Q.7. Answer the following questions (2*6 = 12 Marks)
-
-a. What is case study Research? Discuss the criteria for evaluating case study. (6 Marks)
-
-b. Explain the importance of technology in research projects. (6 Marks)
-
-2/_
-````
-
-## 2016-17 · Exam not stated · paper ee34e33cbd15
-
-- Departments: PhD Research
-- Programmes: PhD
-- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2016-17.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (1 page), mean OCR confidence 94.3
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management and Engineering
-Programme: Pre-Ph.D. Course Work (Academic Year: 2016-17)
-Term End Examination
-
-Subject: Research Methodology Date: 24" December 2016
-
-Time: 10:00 am to 01:00 pm Marks: 100°
-
-N. B.—1. Attempt any five questions. All questions carry equal marks.
-
-2. Illustrate your answer wherever necessary.
-
-Q.1.
-
-Discuss Research as a Scientific Process and the objectives of your research in detail.
-
-Q.2. Define and classify types of variables with reference to your research. How is concept map
-prepared?
-Q3. Explain sampling design and discuss different techniques of sampling.
-
-Q.4. Explain the steps in hypothesis testing with reference to your research.
-
--Q.5. Explain various points covered in annotated bibliography. How does it help researcher in
-reviewing related literature?
-
-Q.6. Describe various effects impacting internal validity of experimental designs. How will you
-control these effects in research?
-
-Q.7. Explain the use of Inferential Statistics in Hypothesis Testing with reference to your research.
-
-Q. 8. Describe the characteristics of data scales and various statistical techniques that could be used
-with these data scales.
-````
-
-## 2016-17 · Final-Exam · paper 16965f2c59a3
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2016-17 Final.pdf`
-- Printed on paper: exam date: 05 December 2016
-- Text: ocr (5 pages), mean OCR confidence 70.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (All Streams) Year: IV Semester: VII
-
-Academic Year: 2016-2017
-
-Le gutta oP
-Subject : Research Methodology ¢ ar ne SS
-Marks: 663
-Date : 05 December 2016 Time : 10. Ot ani 9 £406 bode
-4 Duratio: “Nor
-
-Final-Examination
-
-* >
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-1. Read the case and answer the questions that follows:
-The director of human resources of a manufacturing firm wants to offer stress
-management seminars to the personnel who experience high levels of stress. He
-conjectures that three groups are most prone to stress: the workmen who constantly
-handle dangerous chemicals, the foremen who are held responsible for production quotas,
-and the counselors who day in and day out listen to the problems of the employees,
-internalize them and offer them counsel, with no idea of how much they have really
-helped the clients.
-Q1. Develop the research question for the above situation:
-Q2. Discuss the theoretical framework mentioning the variables, clearly justifying
-the same.
-Q3. Develop appropriate hypotheses for the same.
-(12 marks)
-2. Explain the significance of reliability and validity in a research process. Explain how
-
-Cronbach’s alpha is helpful for the reliability of a research. (12 Marks)
-3. Explain briefly on;
-(i) What is type I error and type II error? Elaborate these with an example.(6 Marks)
-
-tp.
---- page 2 ---
-(ii) When you should use Z test and t test? (6 Marks)
-
-4. Briefly discuss the types of variables with appropriate examples. Also explain the
-various scaling techniques used for the measurement of variables. (12 Marks)
-
-5. A large corporate hires most of its employees from the two major universities in the area.
-Over the last year, they have been given a test to the newly graduated students entering
-the corporate to determine which school, if either seems to educate its students better.
-Based on the following scores (out of 100 possible points), help the personnel office of
-the corporate determine whether the schools differ in quality. Use Mann-Whitney U test
-with a 10% level of significance. (Zrapie=+/-1.645). (12 Marks)
-
-School A 97 | 69|-73| 84} 76] 92| 90| 88] 84| 87 | 93
-School B 88} 99] 65| 69] 97] 84] 85} 89| 91] 90] 87 | 91 | 72
-
-6. An organization conducts a study to assess its employees’ perception about opening a
-childcare facility in its premises. With this objective in mind, develop an appropriate
-questionnaire for the study. Also discuss the sampling design giving justification.
-
-(12 marks)
-
-7. Write short notes on any two: (2x6 marks = 12 marks)
-
-a. Significance of literature review in research
-b. Discuss briefly the hallmarks of scientific research
-c. Discuss research design and its applications
-
-2] 2
---- page 3 ---
-ppendix Tab
-
-i
-
-0.4875 of area
-
-XAMPLE: TO FIND THE AREA UNDER THE CURVE
-
-ETWEEN THE MEAN AND A POINT 2.24 STANDARD Mean 2228 |
-EVIATIONS TO THE RIGHT OF THE MEAN, LOOK UP APPENDIX TABLE 1 AREAS UNDER
-HE VALUE OPPOSITE 2.2 AND UNDER 0.04 IN THE THE STANDARD NORMAL PROBABILITY
-ABLE; 0.4875 OF THE AREA UNDER THE CURVE LIES DISTRIBUTION BETWEEN THE MEAN |
-
-ETWEEN THE MEAN AND A z VALUE OF 2.24. AND POSITIVE VALUES OF z —_
-ee OF
-
-Zz 0.00 0.01 0.02 0.03 0.04
-9.0 0.0000 0.0040 0.0080 0.0120 0.0160
-9.1 0.0398 0.0438 | 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
-3.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
-3.35 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
-24° 0.1554 0.1591 0.162 0.1664
-
-0.05 0.06 0.07 0.08 0.09
-0.0199 0.0239 0.0279 0.0319 0.0359 |
-
-0.1700 0.1736 0.1772 0.1808 0.1844 0.1879 |
-5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
-).6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 -0.2454 0.2486 0.2517 ..0.2549
-1.7 0.2580 0.2611 0.2642 0.2673 :
-
-0.2704 0.2734 0.2764 0.2794 0.2823 0.2852 |
-8 0.2881 0.2910 0.2939 (0).2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133 |
-
-/9 0.3159 0.3186 = 0.3212-—-0.3238 0.3264 0.3289 0.3315. 0.3349 0.3365 0.3389
-‘0 03413 03438 = 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599
-lL 0.3643 0.3665 #3708 0.3729 0.3749 0.3770 «0.3790
-2 0.3849 0.3869 9.3907 0.3925 0.3944 0.3962
-3 0032 0.4049 94082 0.4099 0411S 0.4131 0.49.47 0.4162 0.4177
-4 04192 0.4207 0.4222 -9.4936 0.4251 0.4265 0.4279 9.499 0.4306 = 0.4319 I
-> 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.444, |
-‘6 04452» 04463 9.4474 Qaaga 04495 0.4505 0.4515 0.4525 0.4535 0.4545
-7 04554 04564 1.4573 0.4589 94591 0.4599 0.4608 0.46] 4 0.4625 0.4633 |
-8 04641 0.4649 0.4656 4664 04671 0.46 94686 0.4693 0.4699 “0.4706
-9 04713 O.4T7L9 6 G4A732— 9.4738 94750 04750 0.4761 0.4767 |
-0 04772 0.4778 UATS8 0.4793 04803 04808 0.4812 g.4gi7_ |
-1 0.4821 0.4826 0.4830 | 94N34 0.4838 Gaga 0.4846 0.4850 0.4854 0.457 |
-2 0.4861 0.4864 O.4268
-
-O4s7] 0.4875 OANT8 0.4881 Q.4884 0.4887 0.4890:
-3 0.4893 0.4896 0.4898 G 490} 0.4904 0.4909 04911 0.4913 04916 |
-
-4 0.4918 0.4920 0.4922 6.4995 0.4927 0.4931 9.4932 0.4934 0.4936
-> 04938 0.4940 0.494] G 4943 0.4945 0.4946 0.4948 0.4949 0.495] 0.4952
-
-9 0.4953 0.4955 0.4956 (4957 0.4959 0.4960 9.4961 0.4962 0.4963 0.4964
-7 0.4965 0.4966 0.4967 0.4968 0.4969 C497 0.497] 0.4972
-3 0.4974 9.4975 0.4976 Q 4077
-
-0.3621 |
-0.3810 0.3830 |
-3980 0.3997 0.4015
-
-0.4973 0.4974
-
-0.4977 0.4979 0.4979 0.4980 0.4981
-
-? 0.4981 0.4982 G.4984 04985 G4985 04986 0.4986
-) 0.4987 9.4987 0.4988
-
-94989 0.4989 0.4990 0.4990 4
---- page 4 ---
-“Ts 7
-SSlaaamenu
-23 eM eaASCraANME HER BASH AMt nen wae
-83 SS2RaN8aRSnxee
-Ak
-HeMESNAM Sear eS
-wleeeEega Neaecscanu-v
-FSAshiSesserek GPs hssssSagsgszzgsegeg
-FSB SSssSsst aS assgrRggegeisg’
-CAAA YSex saa k¥ sr agasgane sere ase SSP eaaHsZ
-Anam aananamaeegGsryerved¢s
-a en ee ae ee
-Qs eeSBPFaeaegsrvawrueveansanvge =
-HSLRSGGSSeSzFaResesestnggrrcresssgsgasg
-Sor ats tSragarne snes sa eRESesare& a
-NNANNAARHAAKAARBSASTS ge
-|
-é ‘
-i{% oan
-wiles & vy se base eanc
-SRR SSa5 eregos
-2 eegye Yanan
-JEISSBRRlSSRSRaRresesRSsSICeaerasg
-g[fJaose kr atayn seat ges ee esses Fa
-- NANA AAARHRRAR %
-8
-a
-oun o>
-eSlSSaee8hs@spraagznaaavanan
-IS SRRSSSSSSSFSSSESS SESESSTERSR
-‘ Flaw oraSdanavsyurt sata ee etsexzsetaeaxrtagssyg
-. ze > ao AS a - oO
-<a NANSGAaAash ASRARSRSS
-3S
-2g SS
-“> aAaqa 2
-pa elg a Seaesggnavn-u—w
-f S $28 ag s se 4
-~ sle-aSagRggsga SeRgeangese gi exgoronas
-LY ama F¥uraoantdae ow GSS SB erezera
-[=aad Sa soto wo
-
-Pen A
-
-Q
-e wanmscanatoaantrernaarveeruesngeonevg
-
-Ss SISSSSFSLRAASSRSSSASSHRSRZLLE YS SSF ASKS
-BStTSSnSCaeHnrgneertatsenntantreawveata
-
-> SIS SCR ANMMn tT HEE Kr BASH NAN THOME BAaASIAA G
-
-<2
-
-= Conary NoraANnNoHMRe ST BRENnAtTABS
-ha Pay SIZ HBSSLSRSSSSRSGRELRSSFLES SES TEASE
-S —HSRARSSRSEGARHASRHARSREETAGeSVTATaAr 4
-SSS SSBF RC RAKES HSK KC wBASSHEN AY HY HCN BBA S
---- page 5 ---
-Table A5.07: Critical Values for the Wilcoxon/Mann-Whitney Test (u)
-
-Nondirectional a=.05 (Directional a=.025) j
-
-n2 Et
-mn 1 2 3 4 5 6 7 8 9 10 11 12 13°14 15 16 17 18 19 20.
-1 - = ee eee - - - - 4!
-2 - - - - = - - 0 0 0 0 1 1 1 1 1 2 2 2 2
-3 - - - - 0 1 4 2 2 3 3 4 4 5 5 6 6 7 7 8)
-4- - - 0 1414 2 3 4 4 5 6 7 8 9 10 11 11 12 13 13,
-5 - - 0 1 2 3 5 6 7 8 9 11 12 13 14 15 17 18 19 20;
-6 - - 14 2 3 5 6 8 10 11 13 14 16 17 19 21 22 24 v5] 27.
-7 - - 14 3 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34
-8 - 0 2 4 6 8 10 13 15 17 19 22 24 26 29 31 34 36 38 44:
-9 - 0 2 4 7 10 12 15 17 21 23 26 28 31 34 37 39 42 45 48
-10 - O 3 5 8 11 14 17 20 23 26 29 33 36 39 42 45 48 52 55)
-i117 - 0 3 6 9 13 16 19 23 26 30 33 37 40 44 47 51 55 58 62
-12 - 1 #4 7 1141 14 18 22 26 29 33 37 41 45 49 53 57 61 65 69!
-13 - 1 #4 8 12 16 20 24 28 33 37 41 45 50 54 59 63 67 72 76,
-14 - 1 #5 9 13 17 22 26 31 36 40 45 50 55 59 64 67 74 78 83!
-15 - 1 5 10 14 19 24 29 34 39 44 49 54 59 64 70 75 80 85 90;
-16 - 1 #6 11 15 21 26 31 37 42 47 53 59 64 70 75 8&1 86 92 98)
-17 - 2 6 11 17 22 28 34 39 45 51 57 63 67 75 81 87 83 99 105
-18 - 2 7 #12 18 24 30 36 42 48 55 61 67 74 80 86 93 99 106 112
-19 - 2 7 13 19 25 32 38 45 52 58 65 72 78 85 92 99 106 113 119
-20 - 2 8 #14 20 27 34 41 48 55 62 69 76 83 90 98 105 112 119 12%
-Nondirectional a=.01 (Directional a=.005)
-Ng
-
-n 1 2 3 4 5 6 7 8 9 10 11:12 13°14 «15 16 17 18 19 20,
-
-7 = = « s & S   & © © & » © © =» fo
-
-2 - ee ee eee ee eee 8
-B- - = 3 = = = - 0 0 0 4 4 41 2 2 2 2 3 8
-4 - - - 0 01 1 2 2 3 3 4 5 5 6 6 7 8
-5 - - 0 4114 2 3 4 5 6 7 7 8 9 10 11 12 «18
-6 - - - 0 1 2 3 4 5 6 7 9 10 11 12 13 15 16 17 18
-7 - - - 0 1 3 4 6 7 9 10 12 13 15 16 18 19 21 22 24
-B - - - 41 2 4 6 7 9 11 13 15 17 18 20 22 24 26 28 30
-9 - - 0 1 3 5 7 9-41 13 16 18 20 22 24 27 29 31 33 36
-10 - - 0 2 4 6 9 11 13 16 18 21 24 26 29 31 34 37 39 42)
-11 - - 0 2 5 7 10 13 16 18 21 24 27 30 33 36 39 42 45 46)
-12 - - 1 3 6 9 12 15 18 21 24 27 31 34 37 41 44 47 51 54
-13 - - 14 3 7 10 13 17 20 24 27 31 34 38 42 45 49 53 56 60
-14 - - 1 4 7 11 15 18 22 26 30 34 38 42 46 50 54 58 63 67
-145 - - 2 5 8 12 16 20 24 29 33 37 42 46 51 55 60 64 69 73
-16 - - 2 5 9 13 18 22 27 31 36 41 45 50 55 60 65 70 74 79
-17 - - 2 6 10 15 19 24 29 34 39 4h 49 54 60 65 70 75 81 86
-18 - - 2 6 11 16 21 26 31 37 42 47 53 58 64 70 75 81 87 92!
-19 - 0 3 7 12 17 22 28 33 39 45 51 56 63 69 74 81 87 93 99
-20 - 0 3 8 13 18 24 30 36 42 46 54 60 67 73 79 86 92 99 105
-
-Uout is the lesser of the two calculated test statistics (U; & U2). If Uont $ Ucrit, reject Ho. :
-Dashes (-) indicate that the sample size is too small to reject the Null Hypothesis at the chosen a ievel.
-
-If n > 20 this table cannot be used. A p can be computed for Uoyt, using the normal distribution approximation: |
-
-7 | Ys (""4)| |
-````
-
-## 2016-17 · Re-Exam · paper a5390ff6363e
+## 2017-18 · Re-Exam · paper a5390ff6363e
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -3903,6 +3576,438 @@ IUobt _(n1nlz) I
 \   12
 ````
 
+## 2017-18 · Re-Exam · paper 9ee569e74272
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2017-18 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 29 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VII
+
+Batch: 2017-18
+Academic Year: 2017-2018
+
+Subject: Research Methodology
+
+Marks: 60 *
+Date: 29 May 2018: Time: 10.00 am to 12.00 noon
+Durations: 2 (Hrs)
+
+No. of Pages: OZ
+Re-Examination 7
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q1. Read the case and answer the questions that follow.
+
+As the business grows in terms of size and revenue, they face the inevitable challenge of managing their
+human resources. In order to execute well-informed business decisions, managers need to understand the
+work being done on the front line of the business with a special reference to the employee’s satisfaction,
+which is essential to the success of any business. Therefore, keeping employees satisfied with their careers
+should be the major priority for every employer. There are numerous reasons for employees to be
+discouraged with their jobs which lead them to resign; the reasons include high stress, lack of
+communication within the company, lack of recognition or limited opportunity for growth. Management
+should actively seek to improve these factors if they hope to lower their turnover rate. Research studies
+have shown that motivated and satisfied employees tend to contribute more in terms of organizational
+productivity and maintaining a commitment to customer satisfaction.
+
+a. Develop the research question for the above situation. (4 Marks)
+
+b. Formulate the theoretical framework and develop appropriate hypotheses for the same. (8 Marks)
+
+be
+--- page 2 ---
+\
+
+x
+\
+
+Q.2.What are the types of data used in empirical research? Discuss the guidelines of questionnaire design. \
+_ (12 Marks) \
+
+/ Q.3.Discuss the SEVEN STEPS involved in hypothetico — deductive method and explain each one of them
+in short with examples.(12 marks)
+
+Q.4.What is a research proposal? Explain what are the steps involved in developing it. (12 Marks)
+
+Q.5. A study compared the effects of four 1-month point-of-purchase promotions on sales. The unit sales for
+five stores using all four promotions in different months follow. (12 Marks)
+
+Free Sample 78 87 81 89 85
+One-Pack Gift [94 * a1 87 90 - 88
+Cents off 73 78 69 83 76
+Refund by mail | 79 83 78 69 81
+
+a. Calculate the mean unit sales for each promotion and then determine the grand mean. (2 Marks)
+b. Estimate the population variance using the between-column variance. (3 Marks)
+
+c. Estimate the population variance using the within-column variance computed from the variance
+within samples. (3 Marks) .
+
+d. Calculate the F ratio. At the 0.01 level of significance, do the promotions produce different effects
+on sales? (Hint: F statistics is 5.29 at 1% with 3 DF in the numerator and 16 DF in the denominator).
+(4 Marks)
+
+Q.6. Answer the following questions (2*6 = 12 Marks)
+
+a. Describe the steps involved in sampling design. (6 Marks)
+
+b. What are null and alternative hypothesis? Explain Type I error and Type II error. (6 Marks)
+Q.7. Answer the following questions (2*6 = 12 Marks)
+
+a. What is case study Research? Discuss the criteria for evaluating case study. (6 Marks)
+
+b. Explain the importance of technology in research projects. (6 Marks)
+
+2/_
+````
+
+## 2016-17 · Exam not stated · paper ee34e33cbd15
+
+- Departments: PhD Research
+- Programmes: PhD
+- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2016-17.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (1 page), mean OCR confidence 94.3
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management and Engineering
+Programme: Pre-Ph.D. Course Work (Academic Year: 2016-17)
+Term End Examination
+
+Subject: Research Methodology Date: 24" December 2016
+
+Time: 10:00 am to 01:00 pm Marks: 100°
+
+N. B.—1. Attempt any five questions. All questions carry equal marks.
+
+2. Illustrate your answer wherever necessary.
+
+Q.1.
+
+Discuss Research as a Scientific Process and the objectives of your research in detail.
+
+Q.2. Define and classify types of variables with reference to your research. How is concept map
+prepared?
+Q3. Explain sampling design and discuss different techniques of sampling.
+
+Q.4. Explain the steps in hypothesis testing with reference to your research.
+
+-Q.5. Explain various points covered in annotated bibliography. How does it help researcher in
+reviewing related literature?
+
+Q.6. Describe various effects impacting internal validity of experimental designs. How will you
+control these effects in research?
+
+Q.7. Explain the use of Inferential Statistics in Hypothesis Testing with reference to your research.
+
+Q. 8. Describe the characteristics of data scales and various statistical techniques that could be used
+with these data scales.
+````
+
+## 2016-17 · Final-Exam · paper 16965f2c59a3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2016-17 Final.pdf`
+- Printed on paper: exam date: 05 December 2016
+- Text: ocr (5 pages), mean OCR confidence 70.8
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA. Tech (All Streams) Year: IV Semester: VII
+
+Academic Year: 2016-2017
+
+Le gutta oP
+Subject : Research Methodology ¢ ar ne SS
+Marks: 663
+Date : 05 December 2016 Time : 10. Ot ani 9 £406 bode
+4 Duratio: “Nor
+
+Final-Examination
+
+* >
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+1. Read the case and answer the questions that follows:
+The director of human resources of a manufacturing firm wants to offer stress
+management seminars to the personnel who experience high levels of stress. He
+conjectures that three groups are most prone to stress: the workmen who constantly
+handle dangerous chemicals, the foremen who are held responsible for production quotas,
+and the counselors who day in and day out listen to the problems of the employees,
+internalize them and offer them counsel, with no idea of how much they have really
+helped the clients.
+Q1. Develop the research question for the above situation:
+Q2. Discuss the theoretical framework mentioning the variables, clearly justifying
+the same.
+Q3. Develop appropriate hypotheses for the same.
+(12 marks)
+2. Explain the significance of reliability and validity in a research process. Explain how
+
+Cronbach’s alpha is helpful for the reliability of a research. (12 Marks)
+3. Explain briefly on;
+(i) What is type I error and type II error? Elaborate these with an example.(6 Marks)
+
+tp.
+--- page 2 ---
+(ii) When you should use Z test and t test? (6 Marks)
+
+4. Briefly discuss the types of variables with appropriate examples. Also explain the
+various scaling techniques used for the measurement of variables. (12 Marks)
+
+5. A large corporate hires most of its employees from the two major universities in the area.
+Over the last year, they have been given a test to the newly graduated students entering
+the corporate to determine which school, if either seems to educate its students better.
+Based on the following scores (out of 100 possible points), help the personnel office of
+the corporate determine whether the schools differ in quality. Use Mann-Whitney U test
+with a 10% level of significance. (Zrapie=+/-1.645). (12 Marks)
+
+School A 97 | 69|-73| 84} 76] 92| 90| 88] 84| 87 | 93
+School B 88} 99] 65| 69] 97] 84] 85} 89| 91] 90] 87 | 91 | 72
+
+6. An organization conducts a study to assess its employees’ perception about opening a
+childcare facility in its premises. With this objective in mind, develop an appropriate
+questionnaire for the study. Also discuss the sampling design giving justification.
+
+(12 marks)
+
+7. Write short notes on any two: (2x6 marks = 12 marks)
+
+a. Significance of literature review in research
+b. Discuss briefly the hallmarks of scientific research
+c. Discuss research design and its applications
+
+2] 2
+--- page 3 ---
+ppendix Tab
+
+i
+
+0.4875 of area
+
+XAMPLE: TO FIND THE AREA UNDER THE CURVE
+
+ETWEEN THE MEAN AND A POINT 2.24 STANDARD Mean 2228 |
+EVIATIONS TO THE RIGHT OF THE MEAN, LOOK UP APPENDIX TABLE 1 AREAS UNDER
+HE VALUE OPPOSITE 2.2 AND UNDER 0.04 IN THE THE STANDARD NORMAL PROBABILITY
+ABLE; 0.4875 OF THE AREA UNDER THE CURVE LIES DISTRIBUTION BETWEEN THE MEAN |
+
+ETWEEN THE MEAN AND A z VALUE OF 2.24. AND POSITIVE VALUES OF z —_
+ee OF
+
+Zz 0.00 0.01 0.02 0.03 0.04
+9.0 0.0000 0.0040 0.0080 0.0120 0.0160
+9.1 0.0398 0.0438 | 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+3.2 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+3.35 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+24° 0.1554 0.1591 0.162 0.1664
+
+0.05 0.06 0.07 0.08 0.09
+0.0199 0.0239 0.0279 0.0319 0.0359 |
+
+0.1700 0.1736 0.1772 0.1808 0.1844 0.1879 |
+5 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+).6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 -0.2454 0.2486 0.2517 ..0.2549
+1.7 0.2580 0.2611 0.2642 0.2673 :
+
+0.2704 0.2734 0.2764 0.2794 0.2823 0.2852 |
+8 0.2881 0.2910 0.2939 (0).2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133 |
+
+/9 0.3159 0.3186 = 0.3212-—-0.3238 0.3264 0.3289 0.3315. 0.3349 0.3365 0.3389
+‘0 03413 03438 = 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599
+lL 0.3643 0.3665 #3708 0.3729 0.3749 0.3770 «0.3790
+2 0.3849 0.3869 9.3907 0.3925 0.3944 0.3962
+3 0032 0.4049 94082 0.4099 0411S 0.4131 0.49.47 0.4162 0.4177
+4 04192 0.4207 0.4222 -9.4936 0.4251 0.4265 0.4279 9.499 0.4306 = 0.4319 I
+> 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.444, |
+‘6 04452» 04463 9.4474 Qaaga 04495 0.4505 0.4515 0.4525 0.4535 0.4545
+7 04554 04564 1.4573 0.4589 94591 0.4599 0.4608 0.46] 4 0.4625 0.4633 |
+8 04641 0.4649 0.4656 4664 04671 0.46 94686 0.4693 0.4699 “0.4706
+9 04713 O.4T7L9 6 G4A732— 9.4738 94750 04750 0.4761 0.4767 |
+0 04772 0.4778 UATS8 0.4793 04803 04808 0.4812 g.4gi7_ |
+1 0.4821 0.4826 0.4830 | 94N34 0.4838 Gaga 0.4846 0.4850 0.4854 0.457 |
+2 0.4861 0.4864 O.4268
+
+O4s7] 0.4875 OANT8 0.4881 Q.4884 0.4887 0.4890:
+3 0.4893 0.4896 0.4898 G 490} 0.4904 0.4909 04911 0.4913 04916 |
+
+4 0.4918 0.4920 0.4922 6.4995 0.4927 0.4931 9.4932 0.4934 0.4936
+> 04938 0.4940 0.494] G 4943 0.4945 0.4946 0.4948 0.4949 0.495] 0.4952
+
+9 0.4953 0.4955 0.4956 (4957 0.4959 0.4960 9.4961 0.4962 0.4963 0.4964
+7 0.4965 0.4966 0.4967 0.4968 0.4969 C497 0.497] 0.4972
+3 0.4974 9.4975 0.4976 Q 4077
+
+0.3621 |
+0.3810 0.3830 |
+3980 0.3997 0.4015
+
+0.4973 0.4974
+
+0.4977 0.4979 0.4979 0.4980 0.4981
+
+? 0.4981 0.4982 G.4984 04985 G4985 04986 0.4986
+) 0.4987 9.4987 0.4988
+
+94989 0.4989 0.4990 0.4990 4
+--- page 4 ---
+“Ts 7
+SSlaaamenu
+23 eM eaASCraANME HER BASH AMt nen wae
+83 SS2RaN8aRSnxee
+Ak
+HeMESNAM Sear eS
+wleeeEega Neaecscanu-v
+FSAshiSesserek GPs hssssSagsgszzgsegeg
+FSB SSssSsst aS assgrRggegeisg’
+Anam aananamaeegGsryerved¢s
+a en ee ae ee
+Qs eeSBPFaeaegsrvawrueveansanvge =
+HSLRSGGSSeSzFaResesestnggrrcresssgsgasg
+NNANNAARHAAKAARBSASTS ge
+|
+é ‘
+i{% oan
+wiles & vy se base eanc
+SRR SSa5 eregos
+2 eegye Yanan
+JEISSBRRlSSRSRaRresesRSsSICeaerasg
+- NANA AAARHRRAR %
+8
+a
+oun o>
+eSlSSaee8hs@spraagznaaavanan
+IS SRRSSSSSSSFSSSESS SESESSTERSR
+‘ Flaw oraSdanavsyurt sata ee etsexzsetaeaxrtagssyg
+<a NANSGAaAash ASRARSRSS
+3S
+2g SS
+“> aAaqa 2
+pa elg a Seaesggnavn-u—w
+[=aad Sa soto wo
+
+Pen A
+
+Q
+e wanmscanatoaantrernaarveeruesngeonevg
+
+Ss SISSSSFSLRAASSRSSSASSHRSRZLLE YS SSF ASKS
+BStTSSnSCaeHnrgneertatsenntantreawveata
+
+> SIS SCR ANMMn tT HEE Kr BASH NAN THOME BAaASIAA G
+
+<2
+
+= Conary NoraANnNoHMRe ST BRENnAtTABS
+ha Pay SIZ HBSSLSRSSSSRSGRELRSSFLES SES TEASE
+S —HSRARSSRSEGARHASRHARSREETAGeSVTATaAr 4
+SSS SSBF RC RAKES HSK KC wBASSHEN AY HY HCN BBA S
+--- page 5 ---
+Table A5.07: Critical Values for the Wilcoxon/Mann-Whitney Test (u)
+
+Nondirectional a=.05 (Directional a=.025) j
+
+n2 Et
+mn 1 2 3 4 5 6 7 8 9 10 11 12 13°14 15 16 17 18 19 20.
+1 - = ee eee - - - - 4!
+2 - - - - = - - 0 0 0 0 1 1 1 1 1 2 2 2 2
+3 - - - - 0 1 4 2 2 3 3 4 4 5 5 6 6 7 7 8)
+4- - - 0 1414 2 3 4 4 5 6 7 8 9 10 11 11 12 13 13,
+5 - - 0 1 2 3 5 6 7 8 9 11 12 13 14 15 17 18 19 20;
+6 - - 14 2 3 5 6 8 10 11 13 14 16 17 19 21 22 24 v5] 27.
+7 - - 14 3 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34
+8 - 0 2 4 6 8 10 13 15 17 19 22 24 26 29 31 34 36 38 44:
+9 - 0 2 4 7 10 12 15 17 21 23 26 28 31 34 37 39 42 45 48
+10 - O 3 5 8 11 14 17 20 23 26 29 33 36 39 42 45 48 52 55)
+i117 - 0 3 6 9 13 16 19 23 26 30 33 37 40 44 47 51 55 58 62
+12 - 1 #4 7 1141 14 18 22 26 29 33 37 41 45 49 53 57 61 65 69!
+13 - 1 #4 8 12 16 20 24 28 33 37 41 45 50 54 59 63 67 72 76,
+14 - 1 #5 9 13 17 22 26 31 36 40 45 50 55 59 64 67 74 78 83!
+15 - 1 5 10 14 19 24 29 34 39 44 49 54 59 64 70 75 80 85 90;
+16 - 1 #6 11 15 21 26 31 37 42 47 53 59 64 70 75 8&1 86 92 98)
+17 - 2 6 11 17 22 28 34 39 45 51 57 63 67 75 81 87 83 99 105
+18 - 2 7 #12 18 24 30 36 42 48 55 61 67 74 80 86 93 99 106 112
+19 - 2 7 13 19 25 32 38 45 52 58 65 72 78 85 92 99 106 113 119
+20 - 2 8 #14 20 27 34 41 48 55 62 69 76 83 90 98 105 112 119 12%
+Nondirectional a=.01 (Directional a=.005)
+Ng
+
+n 1 2 3 4 5 6 7 8 9 10 11:12 13°14 «15 16 17 18 19 20,
+
+7 = = « s & S   & © © & » © © =» fo
+
+2 - ee ee eee ee eee 8
+B- - = 3 = = = - 0 0 0 4 4 41 2 2 2 2 3 8
+4 - - - 0 01 1 2 2 3 3 4 5 5 6 6 7 8
+5 - - 0 4114 2 3 4 5 6 7 7 8 9 10 11 12 «18
+6 - - - 0 1 2 3 4 5 6 7 9 10 11 12 13 15 16 17 18
+7 - - - 0 1 3 4 6 7 9 10 12 13 15 16 18 19 21 22 24
+B - - - 41 2 4 6 7 9 11 13 15 17 18 20 22 24 26 28 30
+9 - - 0 1 3 5 7 9-41 13 16 18 20 22 24 27 29 31 33 36
+10 - - 0 2 4 6 9 11 13 16 18 21 24 26 29 31 34 37 39 42)
+11 - - 0 2 5 7 10 13 16 18 21 24 27 30 33 36 39 42 45 46)
+12 - - 1 3 6 9 12 15 18 21 24 27 31 34 37 41 44 47 51 54
+13 - - 14 3 7 10 13 17 20 24 27 31 34 38 42 45 49 53 56 60
+14 - - 1 4 7 11 15 18 22 26 30 34 38 42 46 50 54 58 63 67
+145 - - 2 5 8 12 16 20 24 29 33 37 42 46 51 55 60 64 69 73
+16 - - 2 5 9 13 18 22 27 31 36 41 45 50 55 60 65 70 74 79
+17 - - 2 6 10 15 19 24 29 34 39 4h 49 54 60 65 70 75 81 86
+18 - - 2 6 11 16 21 26 31 37 42 47 53 58 64 70 75 81 87 92!
+19 - 0 3 7 12 17 22 28 33 39 45 51 56 63 69 74 81 87 93 99
+20 - 0 3 8 13 18 24 30 36 42 46 54 60 67 73 79 86 92 99 105
+
+Uout is the lesser of the two calculated test statistics (U; & U2). If Uont $ Ucrit, reject Ho. :
+Dashes (-) indicate that the sample size is too small to reject the Null Hypothesis at the chosen a ievel.
+
+If n > 20 this table cannot be used. A p can be computed for Uoyt, using the normal distribution approximation: |
+
+7 | Ys (""4)| |
+````
+
 ## 2016-17 · Re-Exam · paper 97fb181c724d
 
 - Departments: Common (all branches)
@@ -3910,6 +4015,7 @@ IUobt _(n1nlz) I
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2015-16,2016-17 Re-exam.pdf`
 - Printed on paper: max marks: 12
 - Text: ocr (6 pages), mean OCR confidence 76.0
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4125,26 +4231,20 @@ y 0.4981 0.4982 i GAOR4 4985 0.4986 0.4986
 --- page 5 ---
 s
 si 7
-Be["N ete ere acran ener ansramenonen
 52 ==FANNRARRRRSVOO
 Ak
 wI2 SPR ERKNOvannae Hw
 S\SSSRBSSSLSRSSTESSSaSRSBszrgygren
-SFIS RUBEN S eS ene Sra sReSSLQOSASSEABSRARS
-“NANA AAAMARARRRS TYP Yess
 w#le oe Ooeeenu eae ne
 SISLSFHSSLSRssnrsagerencanvga =
 SISM@HRBtassseeSryagaHRRsrlSssSnggrtge st szrasgsge
-sien array er agen ke Sees te eSB SRsagsers
 
 SIs ae2stEsgSsapervanvvonayg
 
 Fars o-
 gs i a
-MS2ReFSe4seHaRS Sg sage SsSeEsSR2aereen
 g mM raraAteessainn = oSereoStYarrte Rogar
 ~=sF=annag ag 2 mon Cras = ai wh
-s a A mF x ai
 F THR ARR ERAS Sa
 <
 
@@ -4156,7 +4256,6 @@ So es S&es z o
 
 SSLYSIReRUCysenSgQgggesseS Rs a2 agsseses5e
 
-Nwteragdnay ar sa ltdae ese SIZ SRBSrTRgrgsesys
 ZSagse4neea aagges2oa
 
 HSasRVysseegteltsazreres
@@ -4168,21 +4267,18 @@ ower ear d sees seo st Geesartasek zany
 siS@exqoqgregxeseagadeyxesaapvwrvsrnaecnranueg
 
 ZBISSSSsgashrRertesegasegcs
-BSow~eoeneseaeanagneer ar Ssaryyrngtresqgge tay
 S\S Satna HE SK BASHA HH EH ER BAAS H A
 
 SS aSSSSHSSYSSSPSeresanesszenrgraee
 Ries al con S At = Fret uynrak a
 —NMSARSSRSELSHRSRARSRS asgSgeqgAayrareregya
 
-soot tnann tytn er Kr weassrnn ye Fer Kew aS
 
 cs i]
 2 a
 SuISSHRASSSSHSLERSKE SIM SNSRBRVASaReA
 Munloounsayraoona > RQErESsRrRgrcrgnaRalres
 BSISHSSR = SSR RARaRRQaSRarVSgnsseRrgres
-Beje SSS HAA MMF HOKE KEATS SHANKS AY HESS
 ¢
 § :
 £
@@ -4195,7 +4291,6 @@ BSssss SSHSRRSSSSRILSES
 
 SISSASRAISZRERSSSSLRAEALARCRSSHsZSRSSES
 
-SleossSsrttddaa ehh SERA da SSH dam ARES
 
 ny
 aes<SeoudeotTnganvuwwanmranDsanannrnonawevtwoanwonm
@@ -4273,122 +4368,7 @@ Qh
 é/e
 ````
 
-## 2015-16 · Exam not stated · paper 38e2cb1431f0
-
-- Departments: PhD Research
-- Programmes: PhD
-- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2015-16.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (1 page), mean OCR confidence 87.2
-
-````text
-; SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & Engineering
-
-Ph. D. 2015-16
-
-Research Methodology
-Final Examination
-Date: 234 Dec 2015 : Time : 3.00 hrs
-Marks: 100
-NB: . 1). Attempt any five questions.
-
-2). All questions carry equal marks.
-
-3). This is an open book and open notes examination.
-
-I. ‘Research is a scientific process’. Comment on the statement in the light of the steps taken
-by you in your project.
-
-2. ‘Research is a formalized curiosity’ --- Comment on the statement in the light of how
-objectives have given directions to formalize your research project.
-
-3. ‘Research is what everybody has seen and to think what nobody has thought’. Illustrate the
-statement in the light of significance of review of related literature and how it gives
-direction to your research.
-
-4. ‘Science requires replicable tests involving measurable variables’ --- Comment on the
-statement bringing out significance of different types of variables in scientific research
-project.
-
-5. How does concept map give direction to your research? What role does annotated
-bibliography play in the development of concept map?
-
-6. How do hypotheses help researcher build theory? Explain with reference to your research.
-
-7. Explain various effects in Experiments. Why is it necessary to control these effects? How
-are these controlled?
-
-8. Explain the use of Inferential Statistics in hypothesis testing with reference to your research.
-
-FOGG CRAG RRO RICE OR ACR IR A OR SR ROR ROR A ARC COR ROR CR OR aR ARR A oR oR CR oR a a oR ok ao ok
-````
-
-## 2015-16 · Final-Exam · paper f1e77275dc58
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2015-16 Final.pdf`
-- Printed on paper: exam date: 27/11/2015
-- Text: ocr (1 page), mean OCR confidence 96.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA. Tech (All Streams) Year: IV Semester: VII
-Academic Year: 2015-2016
-Subject: Research Methodology
-
-Marks
-Date: 27/11/2015 Time
-
-Durations
-
-Final-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question p
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-
-Q.1. Employees’ credit unions face a lot of problems. This particular credit union wants to
-determine the reasons why employees join the credit union, determine members awareness of
-credit union services, and measures attitudes and beliefs about how effectively the credit
-union is operated. A research was conducted to study the problem. (12 marks)
-
-e For the above situation, define the research problem, identify the variables, develop a
-theoretical framework, and formulate the hypotheses.
-e Develop a research proposal for the above situation?
-
-Q.2.What is the significance of a critical literature review in research? Why is appropriate
-citation important? (12 marks)
-
-Q.3.What is grounded theory? Describe the main steps in qualitative data analysis. (12 marks)
-Q.4. Discuss the different types of research designs with examples. (12 marks)
-
-Q.5.A company wants to investigate the initial reactions of heavy soft-drink users to a new “all
-natural” soft drink. Identify the relevant population for research in this case and suggest an
-appropriate sampling design, explaining why it is appropriate? (12 marks)
-
-Q.6.What are the factors affecting reliability in a research process? Explain how Cronbach’s
-alpha is helpful for assessing the reliability of a research. (12 Marks)
-Q.7. Distinguish between a Type | and Type II error. What are the factors that determine the
-
-choice of appropriate statistical technique? (12 marks)
-````
-
-## 2015-16 · Re-Exam · paper 503c1aa2462b
+## 2016-17 · Re-Exam · paper 503c1aa2462b
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -4487,509 +4467,122 @@ Q.7. Write short notes on any two of the following - (12 marks)
 — afar
 ````
 
-## 2015-16 · Re-Exam · paper b952fec52fda
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2015-16 Re Exam_b952fec52f.pdf`
-- Printed on paper: max marks: 60; exam date: 09 June 2016
-- Text: ocr (3 pages), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 8 ENGINEERING
-
-Programme: MBA Tech (All Streams) Year: IV Semester: VII
-
-Academic Year: 2015-16 Hmm
-Batch: 2015-16 VA UOTE OF age ~
-
-ONIN ca
-
-Subject: Research Methodology f, Marks: 60 >
-‘ Time: 2.00 pm} 2. 0 pm
-Date: 09 June 2016 A bisions: bia
-Re-Examination non a CF
-
-= 4
-eas GET
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) Inall 5 questions to be attempted.
-
-4) Answer to each new question to be started ona fresh page.
-
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume suitable data, if necessary
-
-Ql. (12 marks)
-
-A company is launching a new product and is interested in knowing its prospects of a successful
-launch. This brand has existing competitors in the market and although considered a high end
-product may have many middle income buyers. The Marketing Manager of the company is
-
-interested in identifying the relevant variables that could influence the sale of his product.
-
-In this context develop a theoretical framework on this issue. The framework should include —
-a) ‘A specification and definition of an appropriate dependent variable.
-b) Conceptual model that describes the relationship between the dependent and at least one
-independent variable and either moderating or mediating variable.
-
-c) A theory as why you would expect these relationships to exist.
-
-=a d) An appropriate number of testable hypotheses.
-
-se wo
-
-Explain the research process for basic and applied research.
-
-1/3
-
-(12 marks)
---- page 2 ---
-Q3. (12 marks)
-
-‘The President of a company suspects that most of the five hundred male and female employee of
-the organization are somewhat alienated from the work. He is also of the view that those that are
-more involved (less alienated) are also the ones who experience greater satisfaction with their
-work lives.
-
-Design a Questionnaire the President could use to test his hypothesis.
-
-Q4. (12marks)
-
-Develop an ordinal scale with 7 items for consumer preferences for different brands of tea.
-
-QS.
-
-a) In what way may an estimate be less meaningful because of 6 marks »
-1. A high confidence level.
-2. A narrow confidence interval.
-Support your answer with an example.
-
-b) Suppose a university is performing a survey of the annual earnings of last 6 marks
-years graduates from its business school. It knows from the past experience that the
-standard deviation of the annual earnings of the entire population (1000) of these
-graduates is about $1500. How large a sample size should the university take in order to
-estimate the mean annual earnings of last year’s class within $500 and at a 95 percent
-confidence level.
-
-Q6. (12 marks)
-
-To see whether Silicon chip sales are independent of where the economy is in the business cycle,
-data have been collected on the weekly sales of a Silicon Valley firm, and on whether the
-economy was rising to a cycle peak, at a cycle peak, falling to a cycle trough, or at a cycle
-trough. The results are:
-
-WEEKLY CHIP SALE
-
-High Medium Low Total
-Economy
-At peak 20 7 3 30
-At Trough 30 40 30 100
-Rising 20 8 2 30
-Falling 30 5 5 40
-Total 100 60 40 200
-
-| 3
---- page 3 ---
-a) State the null and alternative hypothesis.
-b) Calculate the sample ¢? values.
-c) At the 0.10 significance level, what is your conclusion?
-
-Q7. Write short notes on any two of the following - (2x6 = 12 marks)
-
-1) Samples designs.
-2) Grounded Theory.
-3) Type land Type Il errors.
-
-* *f
-
-3]3
-````
-
-## 2014-15 · Exam not stated · paper 2b1d9a57d589
+## 2015-16 · Exam not stated · paper 38e2cb1431f0
 
 - Departments: PhD Research
 - Programmes: PhD
-- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2014-15.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/1/2015
-- Text: ocr (2 pages), mean OCR confidence 95.0
+- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2015-16.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (1 page), mean OCR confidence 87.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-®
+; SVKM’s NMIMS
 
-SVKM NMIMS
+Mukesh Patel School of Technology Management & Engineering
 
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-PROGRAMME- PHD YEAR-2014-15
+Ph. D. 2015-16
 
-SEMESTER- , ACADEMIC YEAR — 2014-15
-SUBJECT: Research Methodology DATE: 3/1/2015
-MARKS: 100
+Research Methodology
+Final Examination
+Date: 234 Dec 2015 : Time : 3.00 hrs
+Marks: 100
+NB: . 1). Attempt any five questions.
 
-TIME: 3 Hrs.
+2). All questions carry equal marks.
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
+3). This is an open book and open notes examination.
 
-NB:
+I. ‘Research is a scientific process’. Comment on the statement in the light of the steps taken
+by you in your project.
 
-1) Question No. 1 is compulsory.
+2. ‘Research is a formalized curiosity’ --- Comment on the statement in the light of how
+objectives have given directions to formalize your research project.
 
-2) Out of remaining questions, attempt any Four questions.
+3. ‘Research is what everybody has seen and to think what nobody has thought’. Illustrate the
+statement in the light of significance of review of related literature and how it gives
+direction to your research.
 
-3) In all five questions to be attempted. |
+4. ‘Science requires replicable tests involving measurable variables’ --- Comment on the
+statement bringing out significance of different types of variables in scientific research
+project.
 
-4) Answer to each new question to be started on a fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary
+5. How does concept map give direction to your research? What role does annotated
+bibliography play in the development of concept map?
 
-1. Suppose you design a research project that concerns all of the students of your university. In groups
-of four, decide on a sample size and discuss how you could use the probability and nonprobability
-sampling methods. Discuss the potential problems and possible solutions to the problems.
+6. How do hypotheses help researcher build theory? Explain with reference to your research.
 
-(20 Marks)
+7. Explain various effects in Experiments. Why is it necessary to control these effects? How
+are these controlled?
 
-2. What is the difference between field experiment and lab experiment? Answer this question in the
+8. Explain the use of Inferential Statistics in hypothesis testing with reference to your research.
 
-light of your respective research topic.
-(20 Marks)
-
-3. Why is it important to consider basic design issues before conducting the study and even as early as
-at the time of formulating the research question?
-(20 Marks)
-4. Pete’s Powerful Pills (PPP) has branched out and is now promoting a vaccine which is supposed to
-prevent statisticitis, a nasty disease afflicting students at the local University. They are trying to
-convince the university’s health center that the vaccine is worth stocking. The campus health center
-has agreed to stock and administer the vaccine if it sells well enough, at least = 50 vaccines per
-week. PPP arranges for the health center to conduct a 36 week trial with the goal of convincing the
-center to stock the vaccine. They find that the center has administered an average of X = 55 vaccines
-per week over that period with a standard deviation of ox= 6.99. Write down the steps for testing
-hypothesis with a 95% confidence interval. (ZTable=1.96) (20 Marks)
-
-5. Explain Solomon Four-Group Design with your respective research topic? (20 Marks)
---- page 2 ---
-Marks score by the students in three division out of 60 marks
-
-A
-47 46 48 47 46 47 46 46
-48 48 48 50 50 46 46 48
-B
-41 42 41 43 41 41 39 40
-39 |. 42 40 37 39 37 38| . 38
-38 37 38 38 38 37 38
-Cc
-36 37 36 36 36 35 38 37
-
-35 36 36 35 36 34 34
-
-Compare the three distributions and report the mean, median, mode, standard deviation and mean
-deviation along with your graph. What are the most important differences among the three
-division? (20 Marks)
-
-Breaking strengths of 150 spot weds was measured in Newton and group into bands of 20 Nas
-
-shown
-
-Range 16-180 180-200 200-220 220-240 240-260 260-280 280-300 300-320
-Frequency 2 6 10 28 50 31 15 8
-
-Calculate Coefficient of Skewedness (20 Marks)
 ````
 
-## 2014-15 · Final-Exam · paper 013dd8e56e8e
+## 2015-16 · Final-Exam · paper f1e77275dc58
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2014-15 Final.pdf`
-- Printed on paper: max marks: 50; exam date: 28/11/2014
-- Text: ocr (5 pages), mean OCR confidence 84.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2015-16 Final.pdf`
+- Printed on paper: exam date: 27/11/2015
+- Text: ocr (1 page), mean OCR confidence 96.0
 
 ````text
-oe Ss 2 o Rengsc eines 3 a
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-: SVKM’s NMIMS
-pee PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Pogaaiae MBA Tech (ALL STREAMS) Year: IV Semester: VII
-
-| 3 Academic Year: 2014-15
+Programme: MBA. Tech (All Streams) Year: IV Semester: VII
+Academic Year: 2015-2016
 Subject: Research Methodology
-; : as Marks: 50
-Date: 28/11/2014 Time: 2.00 pm to 4.00 pm
-‘ Durations 2-(hrs)° ~~ ---
-Final+Examination
 
-Instruction: Candidates should read carefully the instructions printed on the quesy sper and.on thie® ve 2
-cover of the Answer Book, which is provided for their use. Y f8)
+Marks
+Date: 27/11/2015 Time
 
-NB:
+Durations
 
-1) Question No. 1 is compulsory.
+Final-Examination
 
-2) Out of remaining questions, attempt any Four questions.
+Instruction: Candidates should read carefully the instructions printed on the question p
+on the cover of the Answer Book, which is provided for their use.
 
-3) In-all Five questions to be attempted. .
+1) Question No. | is compulsory.
 
-4) Answer to each new question to be started ona fresh page.
-5) Figures in brackets on the right hand side indicate full marks.
-6) Assume Suitable data if necessary
+2) Out of remaining questions, attempt any 4 questions.
 
-Q. 1 A) Explain what precision and confidence are and how they influence sample size. (5.Marks)
-Q. 1 B) Explain the concept of (P/ (1-P)) ina logistic regression and why it is used in predicting
-probability in logistic regression procedure. (5 Marks)
+3) In all S questions to be attempted.
 
-Q. 2 A production manager wants to assess the reactions of the blue-colour workers in his department
-& (Including foreman) to the introduction of computer — integrated manufacturing (CIM) systems. He is
-particularly interested to know how they would perceive the effects of CIM on —
-a) . Their future jobs.
-b) Additional training that they will have to receive.
-c) Future job advancement.
-Design five questions for each segment, for the Production Manager. How would you check the rel iability
-of thesé questionnaires? (10 Marks)
+4) All questions carry equal marks.
 
-Q. 3 The relationship between nominal exchange rate and relative price. from the annual
-observations from 1990 to 2004, the following regression results were obtained, where-
-Y=Exchange rate of Germany mark to the US dollar (EUR/$) and X= ratio of the US consumer
-price index to the German consumer price index, that is , X represents relative price in the two
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
 
-countries.
-od F.=6.682 - 4.318X. 1? =0.654
-Se= (1:22).: €1/33 (10Marks)
-Bex a) Interpret this regression. How would you interpret r*
+Q.1. Employees’ credit unions face a lot of problems. This particular credit union wants to
+determine the reasons why employees join the credit union, determine members awareness of
+credit union services, and measures attitudes and beliefs about how effectively the credit
+union is operated. A research was conducted to study the problem. (12 marks)
 
-b) Does the negative value of X. make economic sense?
+e For the above situation, define the research problem, identify the variables, develop a
+theoretical framework, and formulate the hypotheses.
+e Develop a research proposal for the above situation?
 
-a o
---- page 2 ---
-ee
+Q.2.What is the significance of a critical literature review in research? Why is appropriate
+citation important? (12 marks)
 
-c). Suppose we were to redefine X as the ratio of German CPI to the U.S CPI. Would
-that change the sign of X? And Why?
+Q.3.What is grounded theory? Describe the main steps in qualitative data analysis. (12 marks)
+Q.4. Discuss the different types of research designs with examples. (12 marks)
 
-Q. 4 Twoequally-competent groups of 10 salespersons were imparted training by two different methods
-A and B. The following data gives sales of a brand of paint, in 5 kg. tins, per week per salesperson
+Q.5.A company wants to investigate the initial reactions of heavy soft-drink users to a new “all
+natural” soft drink. Identify the relevant population for research in this case and suggest an
+appropriate sampling design, explaining why it is appropriate? (12 marks)
 
-after one month of receiving the training. Test whether both the methods of imparting training are
-equally effective.
+Q.6.What are the factors affecting reliability in a research process? Explain how Cronbach’s
+alpha is helpful for assessing the reliability of a research. (12 Marks)
+Q.7. Distinguish between a Type | and Type II error. What are the factors that determine the
 
-Training Training
-
-Salesman | Method | Salesman | Method
-Sr: No A Sr. No B
-
-1 1,500 1 1,340
-
-2 1,540 2 1,300
-
-3 1,860 3 1,620
-
-4 1,230 4 1,070
-
-5 1,370 5 1,210
-
-6 1,550 6 1,170
-
-7 1,840 7 950
-
-8 1,250 8 1,380
-
-9 1,300 9 1,460
-
-10 1,710 10 1,030
-
-Analyze the data with the Mann-Whitney U-Test at 5 % level of significant (U taie=23) (10 Marks)
-
-Q. 5 A company entering in the healthcare insurance sector wants to decide the price for their
-healthcare product. They considered four attributes for this. The attributes and their levels is
-given below.
-
-Charges Is third party | Age for Amount
-: cover Insured
-
-1500 Yes <50 1LK
-
-2000 No 50 to 60 2LK
-
-2500 . 60 to 70 3 Lk
-
-3000
-
-The variables were coded as follows
-Charges X1 X2 X3
-1500 1 0 0 Third party x4
-2000 ) 1 ) Yes 1
-2500 0 ) 1 No a
-3000 -1 -1 -1
-Age x5 X6 Amount insured x7 X8
-<50 4 0 1Lk 1 0
-50 to 60 0 1 2 Lk 0 1
-60 and above -1 -1 3 Lk -1 -1
-
-Note that the rankings are assumed to be best is highest
-
-.
---- page 3 ---
-Output for “Medicare”
-
-Model Summary
-Adjusted R: Std. Error of the
-| Model R R Square Square Estimate
-1 924(a) 853 834 8.51766
-a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, xl
-ANOVA(b)
-Model Sum of Squares df Mean Square FE Sig.
-1 Regression 26527316 8 3315.914 45.705 000(a)
-Residual 4570.684 3 72.551 3
-Total 31098.000 1
-a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, x]
-b Dependent Variable: y
-Coefficients(a)
-Standardized
-Unstandardized Coefficients Coefficients
-Model B Std. Error Beta t Sig.
-1 (Constant) 35.753 1.320 27.089 000
-xl 21.888 3.137 563 6.978 .000.
-2 6.067 1.638 232 3.703 000
-x3 -8.727 2.116 -.280 4.124 000
-x4 828 1.095 .040 756 .000
-x5 -4.324 1.738 -.165 -2.487 016
-7 x6 -1.529 1.490 -.064 -1.026 000
-xT -10.257 1.284 -.409 -7.990 .000
-x8 -4.006 1.408 -.160 2.846 006
-
-a Dependent Variable: y
-
-Answer following
-a) Find the utility for each attribute at each level and Comment on the output
-b) Find the percentage. utility for each attribute.
-c) Draw the graph of the utility for each attribute
-
-d) . Which of the attribute is most important while considering the medical insurance? Why?
-(10 Marks)
-
-Q. 6A purchase officer has shortlisted of its suppliers. Following variables are considered
-1. Total annual business from the company (AN_ business)
-2. Rating given to the supplier (Rating)
-
-4 3. Amount given as guarantee (Guarantee)
-4. Credit Period (créditperiod)
-pe Output is as follows
-Cluster...
-
-Centroid Linkage
-
-Agglomeration Schedule
-
-Shs
---- page 4 ---
-Cluster Combined _... Stage Cluster First Appears
-
-Stage Cluster 1 Cluster 2 Coefficients Cluster 1 Cluster 2 Next Stage
-
-1 12 13] ~ 035 0 ) 5
-2 7 | ~ 053 0 ty) 4|
-3 5 6] 086 0 0 7
-4 2 7, 112 0 2 9
-5 3 12] ~ 135 ) 1 6
-6 3 11} 2n 5 ) 10
-7 1 5] 220 0 3 8
-8 1 15 we 262 7 0 1
-9 2 8] 437 4 0 12
-10 3 40] 658 6 0 14|
-4 1 4, 851 8 ) 13
-12 : 14} 984 9 0 13
-13 1 of 8.019 1 12 14
-14 1 #3 9.867 13 10 0
-
-eek
-
-*~**e* * HDT ERARCHICAL CLUSTER ANALYSIS5S*
-
-* * * Dendrogram using Centroid Method
-Rescaled Distance Cluster Combine
-
-CASE 0 5 10 15 20 25
-Label Nuit! -+-spe se : So a ae a Sa te Seal +
-Case 12 12
-Case 13 13
-Case 3 3
-Case 11 DD fe EE +
-Case 10 10 |
-Case 5 5 |
-Case 6 6 |
-Case 1 i |
-Case 15 15 ite |
-
-Case 4 4 | |
-Case 7 7 : t------- +
-Case 9 9 1, |
-Case 2 2 |
-Case 8 8 lel ‘ Lee aati +
-Case 14 14
-ANOVA
-Oneway
-N .| .Mean. Std. Deviation Minimum Maximum
-An_Business 1 5 1040.0000 114.01754 900.00} - 1200.00
-2 5 166.0000 42.19005 100.00 200.00)
-3 5 344.0000 36.46917 300.00 400.00
-Total 15 516.6667 396.20822 100.00 1200.00
-Rating 1 . 5 5.5000 0.50000 5.00 6.00)
-2 5 2.4000 0.50000 1.00 2.00)
-3 5 6.6000 0.45005 6.00 8.00)
-Total 15 4.83333 0.68886: 1.00) 8.00)
-
-4s”
---- page 5 ---
-|Garantee 1 SL 108.0000 52.15362 80.00 200.00
-
-VAs 5 47.0000 48.42520]' 10.00 100.00
-3 5 350.0000 * 36.05551 300.00 400.00)
-Total gee 168.3333 141.99681 10.00 400.00
-Creditperiod 1 sind) 15.0000 5.00000 10.00 20.00)
-2. 5 48.6000 84.63923 10.00 50.00)
-3 5 96.0000 71.27412 30.00 120.00)
-Totat™"~ 15) 53:2000]""""_94.54663, : 10.00 120.00
-Levene Statistic dft
-(An_Business 4.115 2
-Rating + 184 2:
-Garantee : .783| 2 posagt
-‘Creditperiod 2479 2
-ANOVA
-Sig.
-An_Business Between Groups .000
-Within Groups
-i Total
-Rating Between Groups : .000
-Within Groups
-Total
-Garantee Between Groups .000
-Within Groups
-Total
-Creditperiod Between Groups .000
-
-Within Groups
-Total
-
-The officer wants to classify these 15 suppliers into homogenous groups and understand more
-about the groups. A cluster analysis was performed on the data and also the ANOVA was done
-on the output of cluster analysis.
-What are the groups formed? Who are the members of the group (give case number)? What
-would you conclude from ANOVA? What are characteristics of the each group?
-Can you use any other technique (than ANOVA) to test validity of the cluster analysis?
-
-=| (10 Marks)
+choice of appropriate statistical technique? (12 marks)
 ````
 
-## 2014-15 · Re-Exam · paper d8ac61111e07
+## 2015-16 · Re-Exam · paper d8ac61111e07
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -5271,6 +4864,508 @@ Builder_rating 0.174 0.149 0.193
 3801.974 3795.921 3806.468
 
 17
+````
+
+## 2015-16 · Re-Exam · paper b952fec52fda
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology Batch 2015-16 Re Exam_b952fec52f.pdf`
+- Printed on paper: max marks: 60; exam date: 09 June 2016
+- Text: ocr (3 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT 8 ENGINEERING
+
+Programme: MBA Tech (All Streams) Year: IV Semester: VII
+
+Academic Year: 2015-16 Hmm
+Batch: 2015-16 VA UOTE OF age ~
+
+ONIN ca
+
+Subject: Research Methodology f, Marks: 60 >
+‘ Time: 2.00 pm} 2. 0 pm
+Date: 09 June 2016 A bisions: bia
+Re-Examination non a CF
+
+= 4
+eas GET
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) Answer to each new question to be started ona fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume suitable data, if necessary
+
+Ql. (12 marks)
+
+A company is launching a new product and is interested in knowing its prospects of a successful
+launch. This brand has existing competitors in the market and although considered a high end
+product may have many middle income buyers. The Marketing Manager of the company is
+
+interested in identifying the relevant variables that could influence the sale of his product.
+
+In this context develop a theoretical framework on this issue. The framework should include —
+a) ‘A specification and definition of an appropriate dependent variable.
+b) Conceptual model that describes the relationship between the dependent and at least one
+independent variable and either moderating or mediating variable.
+
+c) A theory as why you would expect these relationships to exist.
+
+=a d) An appropriate number of testable hypotheses.
+
+se wo
+
+Explain the research process for basic and applied research.
+
+1/3
+
+(12 marks)
+--- page 2 ---
+Q3. (12 marks)
+
+‘The President of a company suspects that most of the five hundred male and female employee of
+the organization are somewhat alienated from the work. He is also of the view that those that are
+more involved (less alienated) are also the ones who experience greater satisfaction with their
+work lives.
+
+Design a Questionnaire the President could use to test his hypothesis.
+
+Q4. (12marks)
+
+Develop an ordinal scale with 7 items for consumer preferences for different brands of tea.
+
+QS.
+
+a) In what way may an estimate be less meaningful because of 6 marks »
+1. A high confidence level.
+2. A narrow confidence interval.
+Support your answer with an example.
+
+b) Suppose a university is performing a survey of the annual earnings of last 6 marks
+years graduates from its business school. It knows from the past experience that the
+standard deviation of the annual earnings of the entire population (1000) of these
+graduates is about $1500. How large a sample size should the university take in order to
+estimate the mean annual earnings of last year’s class within $500 and at a 95 percent
+confidence level.
+
+Q6. (12 marks)
+
+To see whether Silicon chip sales are independent of where the economy is in the business cycle,
+data have been collected on the weekly sales of a Silicon Valley firm, and on whether the
+economy was rising to a cycle peak, at a cycle peak, falling to a cycle trough, or at a cycle
+trough. The results are:
+
+WEEKLY CHIP SALE
+
+High Medium Low Total
+Economy
+At peak 20 7 3 30
+At Trough 30 40 30 100
+Rising 20 8 2 30
+Falling 30 5 5 40
+Total 100 60 40 200
+
+| 3
+--- page 3 ---
+a) State the null and alternative hypothesis.
+b) Calculate the sample ¢? values.
+c) At the 0.10 significance level, what is your conclusion?
+
+Q7. Write short notes on any two of the following - (2x6 = 12 marks)
+
+1) Samples designs.
+2) Grounded Theory.
+3) Type land Type Il errors.
+
+* *f
+
+3]3
+````
+
+## 2014-15 · Exam not stated · paper 2b1d9a57d589
+
+- Departments: PhD Research
+- Programmes: PhD
+- Source: `02_Question_Papers/Legacy/PhD/RESEARCH METHODOLOGY/RESEARCH METHODOLOGY 2014-15.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 3/1/2015
+- Text: ocr (2 pages), mean OCR confidence 95.0
+
+````text
+®
+
+SVKM NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+PROGRAMME- PHD YEAR-2014-15
+
+SEMESTER- , ACADEMIC YEAR — 2014-15
+SUBJECT: Research Methodology DATE: 3/1/2015
+MARKS: 100
+
+TIME: 3 Hrs.
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all five questions to be attempted. |
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary
+
+1. Suppose you design a research project that concerns all of the students of your university. In groups
+of four, decide on a sample size and discuss how you could use the probability and nonprobability
+sampling methods. Discuss the potential problems and possible solutions to the problems.
+
+(20 Marks)
+
+2. What is the difference between field experiment and lab experiment? Answer this question in the
+
+light of your respective research topic.
+(20 Marks)
+
+3. Why is it important to consider basic design issues before conducting the study and even as early as
+at the time of formulating the research question?
+(20 Marks)
+4. Pete’s Powerful Pills (PPP) has branched out and is now promoting a vaccine which is supposed to
+prevent statisticitis, a nasty disease afflicting students at the local University. They are trying to
+convince the university’s health center that the vaccine is worth stocking. The campus health center
+has agreed to stock and administer the vaccine if it sells well enough, at least = 50 vaccines per
+week. PPP arranges for the health center to conduct a 36 week trial with the goal of convincing the
+center to stock the vaccine. They find that the center has administered an average of X = 55 vaccines
+per week over that period with a standard deviation of ox= 6.99. Write down the steps for testing
+hypothesis with a 95% confidence interval. (ZTable=1.96) (20 Marks)
+
+5. Explain Solomon Four-Group Design with your respective research topic? (20 Marks)
+--- page 2 ---
+Marks score by the students in three division out of 60 marks
+
+A
+47 46 48 47 46 47 46 46
+48 48 48 50 50 46 46 48
+B
+41 42 41 43 41 41 39 40
+39 |. 42 40 37 39 37 38| . 38
+38 37 38 38 38 37 38
+Cc
+36 37 36 36 36 35 38 37
+
+35 36 36 35 36 34 34
+
+Compare the three distributions and report the mean, median, mode, standard deviation and mean
+deviation along with your graph. What are the most important differences among the three
+division? (20 Marks)
+
+Breaking strengths of 150 spot weds was measured in Newton and group into bands of 20 Nas
+
+shown
+
+Range 16-180 180-200 200-220 220-240 240-260 260-280 280-300 300-320
+Frequency 2 6 10 28 50 31 15 8
+
+Calculate Coefficient of Skewedness (20 Marks)
+````
+
+## 2014-15 · Final-Exam · paper 013dd8e56e8e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2014-15 Final.pdf`
+- Printed on paper: max marks: 50; exam date: 28/11/2014
+- Text: ocr (5 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+oe Ss 2 o Rengsc eines 3 a
+
+: SVKM’s NMIMS
+pee PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Pogaaiae MBA Tech (ALL STREAMS) Year: IV Semester: VII
+
+| 3 Academic Year: 2014-15
+Subject: Research Methodology
+; : as Marks: 50
+Date: 28/11/2014 Time: 2.00 pm to 4.00 pm
+‘ Durations 2-(hrs)° ~~ ---
+Final+Examination
+
+Instruction: Candidates should read carefully the instructions printed on the quesy sper and.on thie® ve 2
+cover of the Answer Book, which is provided for their use. Y f8)
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In-all Five questions to be attempted. .
+
+4) Answer to each new question to be started ona fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary
+
+Q. 1 A) Explain what precision and confidence are and how they influence sample size. (5.Marks)
+Q. 1 B) Explain the concept of (P/ (1-P)) ina logistic regression and why it is used in predicting
+probability in logistic regression procedure. (5 Marks)
+
+Q. 2 A production manager wants to assess the reactions of the blue-colour workers in his department
+& (Including foreman) to the introduction of computer — integrated manufacturing (CIM) systems. He is
+particularly interested to know how they would perceive the effects of CIM on —
+a) . Their future jobs.
+b) Additional training that they will have to receive.
+c) Future job advancement.
+Design five questions for each segment, for the Production Manager. How would you check the rel iability
+of thesé questionnaires? (10 Marks)
+
+Q. 3 The relationship between nominal exchange rate and relative price. from the annual
+observations from 1990 to 2004, the following regression results were obtained, where-
+Y=Exchange rate of Germany mark to the US dollar (EUR/$) and X= ratio of the US consumer
+price index to the German consumer price index, that is , X represents relative price in the two
+
+countries.
+od F.=6.682 - 4.318X. 1? =0.654
+Se= (1:22).: €1/33 (10Marks)
+Bex a) Interpret this regression. How would you interpret r*
+
+b) Does the negative value of X. make economic sense?
+
+a o
+--- page 2 ---
+ee
+
+c). Suppose we were to redefine X as the ratio of German CPI to the U.S CPI. Would
+that change the sign of X? And Why?
+
+Q. 4 Twoequally-competent groups of 10 salespersons were imparted training by two different methods
+A and B. The following data gives sales of a brand of paint, in 5 kg. tins, per week per salesperson
+
+after one month of receiving the training. Test whether both the methods of imparting training are
+equally effective.
+
+Training Training
+
+Salesman | Method | Salesman | Method
+
+1 1,500 1 1,340
+
+2 1,540 2 1,300
+
+3 1,860 3 1,620
+
+4 1,230 4 1,070
+
+5 1,370 5 1,210
+
+6 1,550 6 1,170
+
+7 1,840 7 950
+
+8 1,250 8 1,380
+
+9 1,300 9 1,460
+
+10 1,710 10 1,030
+
+Analyze the data with the Mann-Whitney U-Test at 5 % level of significant (U taie=23) (10 Marks)
+
+Q. 5 A company entering in the healthcare insurance sector wants to decide the price for their
+healthcare product. They considered four attributes for this. The attributes and their levels is
+given below.
+
+Charges Is third party | Age for Amount
+: cover Insured
+
+1500 Yes <50 1LK
+
+2000 No 50 to 60 2LK
+
+2500 . 60 to 70 3 Lk
+
+3000
+
+The variables were coded as follows
+Charges X1 X2 X3
+1500 1 0 0 Third party x4
+2000 ) 1 ) Yes 1
+2500 0 ) 1 No a
+3000 -1 -1 -1
+Age x5 X6 Amount insured x7 X8
+<50 4 0 1Lk 1 0
+50 to 60 0 1 2 Lk 0 1
+60 and above -1 -1 3 Lk -1 -1
+
+Note that the rankings are assumed to be best is highest
+
+.
+--- page 3 ---
+Output for “Medicare”
+
+Model Summary
+Adjusted R: Std. Error of the
+| Model R R Square Square Estimate
+1 924(a) 853 834 8.51766
+a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, xl
+ANOVA(b)
+Model Sum of Squares df Mean Square FE Sig.
+1 Regression 26527316 8 3315.914 45.705 000(a)
+Residual 4570.684 3 72.551 3
+Total 31098.000 1
+a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, x]
+b Dependent Variable: y
+Coefficients(a)
+Standardized
+Unstandardized Coefficients Coefficients
+Model B Std. Error Beta t Sig.
+1 (Constant) 35.753 1.320 27.089 000
+xl 21.888 3.137 563 6.978 .000.
+2 6.067 1.638 232 3.703 000
+x3 -8.727 2.116 -.280 4.124 000
+x4 828 1.095 .040 756 .000
+x5 -4.324 1.738 -.165 -2.487 016
+7 x6 -1.529 1.490 -.064 -1.026 000
+xT -10.257 1.284 -.409 -7.990 .000
+x8 -4.006 1.408 -.160 2.846 006
+
+a Dependent Variable: y
+
+Answer following
+a) Find the utility for each attribute at each level and Comment on the output
+b) Find the percentage. utility for each attribute.
+c) Draw the graph of the utility for each attribute
+
+d) . Which of the attribute is most important while considering the medical insurance? Why?
+(10 Marks)
+
+Q. 6A purchase officer has shortlisted of its suppliers. Following variables are considered
+1. Total annual business from the company (AN_ business)
+2. Rating given to the supplier (Rating)
+
+4 3. Amount given as guarantee (Guarantee)
+4. Credit Period (créditperiod)
+pe Output is as follows
+Cluster...
+
+Centroid Linkage
+
+Agglomeration Schedule
+
+Shs
+--- page 4 ---
+Cluster Combined _... Stage Cluster First Appears
+
+Stage Cluster 1 Cluster 2 Coefficients Cluster 1 Cluster 2 Next Stage
+
+1 12 13] ~ 035 0 ) 5
+2 7 | ~ 053 0 ty) 4|
+3 5 6] 086 0 0 7
+4 2 7, 112 0 2 9
+5 3 12] ~ 135 ) 1 6
+6 3 11} 2n 5 ) 10
+7 1 5] 220 0 3 8
+8 1 15 we 262 7 0 1
+9 2 8] 437 4 0 12
+10 3 40] 658 6 0 14|
+4 1 4, 851 8 ) 13
+12 : 14} 984 9 0 13
+13 1 of 8.019 1 12 14
+14 1 #3 9.867 13 10 0
+
+eek
+
+*~**e* * HDT ERARCHICAL CLUSTER ANALYSIS5S*
+
+* * * Dendrogram using Centroid Method
+Rescaled Distance Cluster Combine
+
+CASE 0 5 10 15 20 25
+Label Nuit! -+-spe se : So a ae a Sa te Seal +
+Case 12 12
+Case 13 13
+Case 3 3
+Case 11 DD fe EE +
+Case 10 10 |
+Case 5 5 |
+Case 6 6 |
+Case 1 i |
+Case 15 15 ite |
+
+Case 4 4 | |
+Case 7 7 : t------- +
+Case 9 9 1, |
+Case 2 2 |
+Case 8 8 lel ‘ Lee aati +
+Case 14 14
+ANOVA
+Oneway
+N .| .Mean. Std. Deviation Minimum Maximum
+An_Business 1 5 1040.0000 114.01754 900.00} - 1200.00
+2 5 166.0000 42.19005 100.00 200.00)
+3 5 344.0000 36.46917 300.00 400.00
+Total 15 516.6667 396.20822 100.00 1200.00
+Rating 1 . 5 5.5000 0.50000 5.00 6.00)
+2 5 2.4000 0.50000 1.00 2.00)
+3 5 6.6000 0.45005 6.00 8.00)
+Total 15 4.83333 0.68886: 1.00) 8.00)
+
+4s”
+--- page 5 ---
+|Garantee 1 SL 108.0000 52.15362 80.00 200.00
+
+VAs 5 47.0000 48.42520]' 10.00 100.00
+3 5 350.0000 * 36.05551 300.00 400.00)
+Total gee 168.3333 141.99681 10.00 400.00
+Creditperiod 1 sind) 15.0000 5.00000 10.00 20.00)
+2. 5 48.6000 84.63923 10.00 50.00)
+3 5 96.0000 71.27412 30.00 120.00)
+Totat™"~ 15) 53:2000]""""_94.54663, : 10.00 120.00
+Levene Statistic dft
+(An_Business 4.115 2
+Rating + 184 2:
+Garantee : .783| 2 posagt
+‘Creditperiod 2479 2
+ANOVA
+Sig.
+An_Business Between Groups .000
+Within Groups
+i Total
+Rating Between Groups : .000
+Within Groups
+Total
+Garantee Between Groups .000
+Within Groups
+Total
+Creditperiod Between Groups .000
+
+Within Groups
+Total
+
+The officer wants to classify these 15 suppliers into homogenous groups and understand more
+about the groups. A cluster analysis was performed on the data and also the ANOVA was done
+on the output of cluster analysis.
+What are the groups formed? Who are the members of the group (give case number)? What
+would you conclude from ANOVA? What are characteristics of the each group?
+Can you use any other technique (than ANOVA) to test validity of the cluster analysis?
+
+=| (10 Marks)
 ````
 
 ## 2014-15 · Re-Exam · paper 9305555b17d5
@@ -6349,115 +6444,4 @@ the same job. Please note that t value for 8 degrees of freedom at 95% confidenc
 2.306, (8 marks)
 
 KK
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper 6c5d9a24d7f5
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/RESEARCH METHODOLOGY/Research Methodology.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2022-2023
-Program: B.Tech./MBATech Stream ;All streams
-Subject: Research Methodology *
-Date:_©4/05/23 . No. of Pages:_2
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1} Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 _ questions.
-3) Inall___5__ questions to be attempted.
-/A) All questions carry equal marks.
-») Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly:
-
-a. Research is the careful consideration of study regarding a particular concern or
-problem using scientific methods. Comment on the statement in the light of the
-steps taken by you in your project
-
-CO-1; SO-4;BL-5
-
-[20]
-CO: 280-45T2 b. Discuss the term Research integrity
-CO-3:S0-4;BL-2 © Compare quantitative and qualitative research
-CO-1;S0-4;BL-2 4. Discuss the various ingredients of research
-Q2 a. Draw a flow chart for the steps to be followed for conducting research. [10]
-0-2;S0-4;BL-2_b. Explain the different types of literature surveys [10]
-7 a. ‘A literature review helps researchers to compare and contrast existing research on
-a particular topic to draw better conclusions from it.’
-Q3 Illustrate the statement in the light of significance of review of related literature [10]
-CO-2;SO-4;BL-2 and how it gives direction to the research.
-b. Discuss IMRaD format with an example. [10]
-4 a. What is the difference between field experiment and lab experiment? Answer this
-eS S0-4:BL-2 question in light of your respective research topic [10]
-CO-1;SO-4; BL-2. _b. Discuss various methods of data collection. [10]
---- page 2 ---
-Q5
-CO-2; SO-4; BL
-
-Discuss the functions and types of hypotheses
-
-[10]
-
-b. Is research communication necessary? Explain in detail the various modes of
-
-communicating research with their merits and demerits
-Ld
-
-[10]
-
-Q6
-CO-2;SO-4;BL-3
-
-a. Discuss the phases of research with examples...
-
-[10]
-
-b. Draft a research design for the following problem statement:
-
-Many of today’s global scientific challenges require the joint involvement of
-researchers from different disciplinary backgrounds. Such interdisciplinary
-research teams face many challenges resulting from differences in training and
-scientific culture. Interdisciplinary education programs are required to train truly
-interdisciplinary scientists with respect to the critical factor skills and
-competences.
-
-[10]
-
-Q7
-CO-2; SO-4;BL-5
-
-a. Identify the research gaps in the following study
-
-Travel behavior today has shifted from global consumerism to a more meaningful
-and personalized experience. This has amplified the demand for heritage tourism,
-Tourists are also seeking transformative travel experiences which lead to positive
-changes in their values and attitudes. Some have identified that heritage tourism
-is responding towards fulfilling the transformation needs of tourists.
-
-However, the lack of empirical evidence on the contribution of transformative
-heritage tourism in changing the personal values of tourists is restricting the
-formulation of strategies that can boost its growth.
-
-[10]
-
-CO-3;SO-4;BL-5
-
-b. Comment on
-1. Publication Ethics
-2. Plagiarism.
-
-[10]
 ````

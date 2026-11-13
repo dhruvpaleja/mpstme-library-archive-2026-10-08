@@ -171,6 +171,229 @@ Q. 6 @) Answer the following (Any 1)
 313
 ````
 
+## 2011-12 · Exam not stated · Trim 5 · paper 9951a1911b77
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/JAVA AND WEB TECHNOLOGIES/JAVA AND WEB TECHNOLOGIES 201112.pdf`
+- Printed on paper: exam date: 04/02/2012
+- Text: ocr (3 pages), mean OCR confidence 91.4
+
+````text
+\ — SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Eng
+
+Programme: MCA Year: Il Trimester:f f ¢
+i Academic Year : 2011-2012 f3 ;
+: *{ NMPir > UA versity iF
+j ¥ = 1L0@vns 26.
+ti JAVA & WEB TECHNOLOGIES Marks: {t g
+sil Time: |, (2. ooh hint 5. 0
+Date: 04/02/2012 Duration:\ eS, a J
+Final - Examination on han et '4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+Cover of the Answer Book, which is provided for their use.
+NB: 1. Question No. | is compulsory.
+
+2. Out of remaining 5 questions, attempt any 4 questions. In all attempt 5 questions,
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets indicates full marks.
+6. Give examples wherever required.
+
+Q.1(a) Attempt the following [10]
+1 Which type of exception does a sleep() method throw?
+(a) ArithmeticException (b) NullPointerException
+(c) ArrayIndexOutOfBoundsException (d) InterruptedException
+
+2 Where do you place the onsubmit event handler?
+
+(a) Ina submit <input> element.
+
+(b) In the closing </form> tag
+
+(c) In the form control that calls the submit event.
+
+(d) In the opening <form> tag.
+3 What will happen when you try to compile the following code?
+i Interface test {int CHECK;}
+
+} (a) run time error (b) compile time error
+(c) will compile but not execute (d) will compile and execute.
+4 Which methods are called as soon as an applet is loaded?
+(a) init, start, paint (b) init, start (c) init (d) start, paint, stop
+5 What are the two types of exceptions available in Java?
+(a)checked and compiled (b) uncheck and compiled
+(c) checked and unchecked (d) compiled and non compiled
+6 Java does not support
+(a) Operator overloading (b) Pointers
+@ Global variables (d) All of the above
+\ 7 Jfyou create a data member or method that is___, it can be used within its own class
+ran any classes extended from that class.
+(a) private (b) public (c) protected * (d) both b and c
+.8 Which of the following tag is not written in the <head>
+(a) title (b) table (c) script (d) meta
+
+9 Which of the following syntax is used to include DTD in your XML document?
+(a) <DOCTYPE root-elementfelelment-declarations]>
+(b) <DOCTYPE root-element(elelment-declarations)>
+(c) <!DOCTYPE root-element[elelment-declarations]>
+(d) <!DOCTYPE [elelment-declarations]>
+10 Which of the following properties is used to change the background color?
+(a) bgcolor: red —_(b) color: red (c) background: red (d) background-color: red
+
+Ys
+--- page 2 ---
+Q. 3a)
+
+~
+Answer the following (Any 5)
+
+Distinguish between get and post method of form tag.
+
+What is thread priority? How can it be set for a thread?
+
+Explain the use of this keyword.
+
+Explain the difference between instance variable and class variable.
+With example explain any | way of taking input from the user.
+Explain anchor tag with example
+
+Explain any two attribute of body tag.
+
+Answer the following (Any 2)
+
+What are constructors used for? Can constructors be overloaded? Write a program in
+support of your answer.
+
+Create a class named Employee with following details Data member (name, address,
+age, gender) method (display). Create another class FullTimeEmployee that inherits the
+Employee glass having data member salary, bonus (which is 20 % of salary ),
+designation, total salary, method display which calculate total salary and print all the
+details. Create another class PartTimeEmployee that inherits the Employee class having
+data member working hours, rateperhour. It has method display which calculate pay and
+display all details. Create objects of derived classes and test it. Use appropriate
+constructors. :
+
+Explain object oriented concepts with respect to java. What makes java a platform
+independent language? Give steps for how to compile and run java program.
+
+Answer the following (Any 2)
+
+Write an HTML page to create the following list
+
+e MCA
+e MBA
+1, HR
+2. Systems
+3. Finance
+e MSc
+
+Distinguish between String and StringBuffer class.
+Explain the use of final keyword with example.
+
+Answer the following (Any 2)
+
+What is an interface? Explain its use with example? How is it different from an abstract
+class? :
+
+Explain nested class with example.
+
+Write a program to generate power Series 1, 4, 9, 16, 25...till n°, using command line
+argument.
+
+Answer the following (Any 2)
+
+Explain thread life cycle. Which are two ways to implement multi threading concept in
+java explain any 1 with example.
+
+Explain the concept of exception handling with example.
+
+Explain how the concept of overriding of method with example. How it is different from
+overloading.
+
+b
+
+[20]
+
+[06]
+
+[14]
+
+[20]
+--- page 3 ---
+a) Answer the following (Any 2) {08}
+
+} What is the use of final keyword? Explain it.
+
+2 What is a Package? Why package is needed? Give syntax for how to include a package
+and create a package.
+
+3 Explain image tag and frame tag with example
+
+Q.5(b) Attempt the following (Any 1) [12]
+
+1 What is an applet? Explain life cycle of applet? How it is different from an application?
+Create an applet which will draw any 3 shapes and display message on the screen.
+
+2. Create a form with header “Calculating Area/Perimeter of Selected Figure” a text box to
+accept your name, a menu selection with options circle, rectangle & square, two
+textboxes to accept two numbers labeled num! & num2, a text area, a reset button
+“Clear” & a button “Calculate”.
+
+JavaScript Validations:
+
+a, The name textbox should not be left blank.
+
+b. The textbox num] should not be left blank.
+
+c. Ifno menu selection is made then by default square should be selected.
+
+d. The textbox num2 should not to be left blank only when circle or rectangle menu
+selection made.
+
+e. The textboxes num! & num2 should accept only positive nonzero numeric values.
+
+f. When all validations correct then display the following in the textarea.
+
+Name :
+
+Menu selected option :
+
+Num! : Num2 ;
+
+Area : Perimeter :
+
+Q.6(a) Answer the following (Any 2) {10]
+
+1 Explain HTML DOM in detail.
+
+\2 Explain Web Browser Architecture.
+
+}3 Create the following on First Page with font as Times Roman size 10. The table contents
+should be center justified , The first column and first row filled with red color, text
+Black & the rest of the table should be blue and text color white :
+
+Flowers | Colors; Petals | Thorns
+
+Rose Five Bight Yes
+Pituna Six No
+Sunflower Nine
+Q. 6 (b) Answer the following (Any 1) [10]
+
+‘I Wet is XML? Explain how XML is different than HTML. Create an XML file which
+stores Employee detail (SSN number, name, age, qualification, salary). Write DTD for
+the same. :
+
+2 What is Cascading Style sheet? Its types? Explain it with example.
+
+<——
+
+3
+````
+
 ## 2010-11 · Exam not stated · Trim 5 · paper 8cbfebf1f484
 
 - Departments: Computer Applications (MCA)
@@ -791,227 +1014,4 @@ Sleep interval for thread tl and t2. Message per cycle and No. of cycle.
 x oe
 
 ~~
-````
-
-## Year not stated · Exam not stated · Trim 5 · paper 9951a1911b77
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM V/JAVA AND WEB TECHNOLOGIES/JAVA AND WEB TECHNOLOGIES 201112.pdf`
-- Printed on paper: exam date: 04/02/2012
-- Text: ocr (3 pages), mean OCR confidence 91.4
-
-````text
-\ — SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Eng
-
-Programme: MCA Year: Il Trimester:f f ¢
-i Academic Year : 2011-2012 f3 ;
-: *{ NMPir > UA versity iF
-j ¥ = 1L0@vns 26.
-ti JAVA & WEB TECHNOLOGIES Marks: {t g
-sil Time: |, (2. ooh hint 5. 0
-Date: 04/02/2012 Duration:\ eS, a J
-Final - Examination on han et '4
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-
-Cover of the Answer Book, which is provided for their use.
-NB: 1. Question No. | is compulsory.
-
-2. Out of remaining 5 questions, attempt any 4 questions. In all attempt 5 questions,
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figure in brackets indicates full marks.
-6. Give examples wherever required.
-
-Q.1(a) Attempt the following [10]
-1 Which type of exception does a sleep() method throw?
-(a) ArithmeticException (b) NullPointerException
-(c) ArrayIndexOutOfBoundsException (d) InterruptedException
-
-2 Where do you place the onsubmit event handler?
-
-(a) Ina submit <input> element.
-
-(b) In the closing </form> tag
-
-(c) In the form control that calls the submit event.
-
-(d) In the opening <form> tag.
-3 What will happen when you try to compile the following code?
-i Interface test {int CHECK;}
-
-} (a) run time error (b) compile time error
-(c) will compile but not execute (d) will compile and execute.
-4 Which methods are called as soon as an applet is loaded?
-(a) init, start, paint (b) init, start (c) init (d) start, paint, stop
-5 What are the two types of exceptions available in Java?
-(a)checked and compiled (b) uncheck and compiled
-(c) checked and unchecked (d) compiled and non compiled
-6 Java does not support
-(a) Operator overloading (b) Pointers
-@ Global variables (d) All of the above
-\ 7 Jfyou create a data member or method that is___, it can be used within its own class
-ran any classes extended from that class.
-(a) private (b) public (c) protected * (d) both b and c
-.8 Which of the following tag is not written in the <head>
-(a) title (b) table (c) script (d) meta
-
-9 Which of the following syntax is used to include DTD in your XML document?
-(a) <DOCTYPE root-elementfelelment-declarations]>
-(b) <DOCTYPE root-element(elelment-declarations)>
-(c) <!DOCTYPE root-element[elelment-declarations]>
-(d) <!DOCTYPE [elelment-declarations]>
-10 Which of the following properties is used to change the background color?
-(a) bgcolor: red —_(b) color: red (c) background: red (d) background-color: red
-
-Ys
---- page 2 ---
-Q. 3a)
-
-~
-Answer the following (Any 5)
-
-Distinguish between get and post method of form tag.
-
-What is thread priority? How can it be set for a thread?
-
-Explain the use of this keyword.
-
-Explain the difference between instance variable and class variable.
-With example explain any | way of taking input from the user.
-Explain anchor tag with example
-
-Explain any two attribute of body tag.
-
-Answer the following (Any 2)
-
-What are constructors used for? Can constructors be overloaded? Write a program in
-support of your answer.
-
-Create a class named Employee with following details Data member (name, address,
-age, gender) method (display). Create another class FullTimeEmployee that inherits the
-Employee glass having data member salary, bonus (which is 20 % of salary ),
-designation, total salary, method display which calculate total salary and print all the
-details. Create another class PartTimeEmployee that inherits the Employee class having
-data member working hours, rateperhour. It has method display which calculate pay and
-display all details. Create objects of derived classes and test it. Use appropriate
-constructors. :
-
-Explain object oriented concepts with respect to java. What makes java a platform
-independent language? Give steps for how to compile and run java program.
-
-Answer the following (Any 2)
-
-Write an HTML page to create the following list
-
-e MCA
-e MBA
-1, HR
-2. Systems
-3. Finance
-e MSc
-
-Distinguish between String and StringBuffer class.
-Explain the use of final keyword with example.
-
-Answer the following (Any 2)
-
-What is an interface? Explain its use with example? How is it different from an abstract
-class? :
-
-Explain nested class with example.
-
-Write a program to generate power Series 1, 4, 9, 16, 25...till n°, using command line
-argument.
-
-Answer the following (Any 2)
-
-Explain thread life cycle. Which are two ways to implement multi threading concept in
-java explain any 1 with example.
-
-Explain the concept of exception handling with example.
-
-Explain how the concept of overriding of method with example. How it is different from
-overloading.
-
-b
-
-[20]
-
-[06]
-
-[14]
-
-[20]
---- page 3 ---
-a) Answer the following (Any 2) {08}
-
-} What is the use of final keyword? Explain it.
-
-2 What is a Package? Why package is needed? Give syntax for how to include a package
-and create a package.
-
-3 Explain image tag and frame tag with example
-
-Q.5(b) Attempt the following (Any 1) [12]
-
-1 What is an applet? Explain life cycle of applet? How it is different from an application?
-Create an applet which will draw any 3 shapes and display message on the screen.
-
-2. Create a form with header “Calculating Area/Perimeter of Selected Figure” a text box to
-accept your name, a menu selection with options circle, rectangle & square, two
-textboxes to accept two numbers labeled num! & num2, a text area, a reset button
-“Clear” & a button “Calculate”.
-
-JavaScript Validations:
-
-a, The name textbox should not be left blank.
-
-b. The textbox num] should not be left blank.
-
-c. Ifno menu selection is made then by default square should be selected.
-
-d. The textbox num2 should not to be left blank only when circle or rectangle menu
-selection made.
-
-e. The textboxes num! & num2 should accept only positive nonzero numeric values.
-
-f. When all validations correct then display the following in the textarea.
-
-Name :
-
-Menu selected option :
-
-Num! : Num2 ;
-
-Area : Perimeter :
-
-Q.6(a) Answer the following (Any 2) {10]
-
-1 Explain HTML DOM in detail.
-
-\2 Explain Web Browser Architecture.
-
-}3 Create the following on First Page with font as Times Roman size 10. The table contents
-should be center justified , The first column and first row filled with red color, text
-Black & the rest of the table should be blue and text color white :
-
-Flowers | Colors; Petals | Thorns
-
-Rose Five Bight Yes
-Pituna Six No
-Sunflower Nine
-Q. 6 (b) Answer the following (Any 1) [10]
-
-‘I Wet is XML? Explain how XML is different than HTML. Create an XML file which
-stores Employee detail (SSN number, name, age, qualification, salary). Write DTD for
-the same. :
-
-2 What is Cascading Style sheet? Its types? Explain it with example.
-
-<——
-
-3
 ````

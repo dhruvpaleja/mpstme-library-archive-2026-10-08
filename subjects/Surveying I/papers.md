@@ -444,6 +444,231 @@ ae
 07
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper c1be423625eb
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I BATCH 16-17, 17-18 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 24 November 201
+- Text: ocr (2 pages), mean OCR confidence 89.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: II Semester: III a
+rail
+
+Academic Year: 2018-2019
+
+Subject: Surveying-I fs/ Mpom, '
+- Marks:\70 jy, SE > EN
+Date: 24 November 201% i
+
+00 pm to'5.00%pm 7.)
+Durations;3 (hrs) —
+
+No. of Page$ts uy cQQy Soe"
+Re-examination (2016-17 / 2017-18) | i
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all 5° questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q.1 | Attempt the following:- (14)
+a) | General principle of surveying.
+b) | Two point problem in plane table
+c) | Uses of contours
+d) | Temporary adjustments of a prismatic compass.
+
+Q.2 | What is contouring? Write different characteristics of contours with examples. (07)
+a)
+b) | The following consecutive readings were observed with level, the instrument having (07)
+
+been moved forward after third, seventh and ninth readings:
+1.505, 2.015, 2.890, 0.570, 1.125, 1.900, 2.710, 0.620, 1.960, 1.100, 1.950
+The first reading was taken with the staff held upon a benchmark of elevation 99.500.
+Calculate the reduced levels of all points. Apply usual checks. Find also the difference
+
+ane in level between the first and the last points.
+--- page 2 ---
+a3)
+
+Q.3 | What is ranging? What are the methods of ranging? Explain in detail along with neat (07)
+a) | sketches.
+b) | What are different tape corrections? Write formulae. (03)
+¢) | What does traversing means? Explain open and closed traverse. (04)
+
+Q.4 | A 20 m tape was used in catenary at a temperature of 352 under a pull of 20 Kg. The (07)
+a) | tape was standardized at a temperature of 252 with a pull of 10 kg. If the weight of
+tape is 0.850 kg, cross-sectional area of tape is 0.03 cm?, Young’s modulus of steel is
+2.1x10°kg/em?, coefficient of thermal expansion is 11.2x10° per @ . If the measured
+length was 960 m, find the true length.
+
+b) | The following bearings were observed at a place where local attraction was suspected. Find the (07)
+corrected bearings of the lines. ,
+
+Line. Fore Bearing Back Bearing
+
+Q.5 | Explain reciprocal levelling, also derive an expression for difference in levels between | (07)
+a) | two points on opposite banks of a river.
+
+b) | What are the temporary adjustments of a theodolite? Explain in detail. (07)
+Q.6 | What is plane tabling? What are its different methods? Explain any two. (07)
+a)
+
+b) | What do you understand by bearing of a line? Explain types of bearing, also (07)
+
+differentiate between W.C.B and Q.B. system with neat sketch.
+2 Ss
+
+Q.7 | A closed traverse was conducted round an obstacle and the following observations (07)
+a) | were made.
+
+Line | Length (meter) | Back Bearing
+
+AB 335 181°18”
+BC 2 ?
+
+CD 408 35736"
+DA 828 264°58"
+
+Calculate the length and bearing of line EA.
+b) | A series of offsets were taken from a chain line to a curved boundary line at intervals of | (07)
+20 meters in the following order:
+1.10, 2.50, 4.00, 3.55, 3.95, 3.70, 3.85, 5.45 m.
+Compute the area between the chain line, the curved boundary and the end offsets by
+
+caaiaaeecael .
+a) Average ordinate rule
+b) Trapezoidal rule, and
+8 c) Simpson’s rule
+®
+
+— s
+````
+
+## 2018-19 · Re-Exam · Sem 3 · paper bd657bd3448d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I BATCH 2016-17 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 23 January 2019
+- Text: ocr (2 pages), mean OCR confidence 91.9
+
+````text
+: SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B. Tech (Civil) Year: II Semester : III
+a Academic Year: 2018-2019 “ 2
+Subject: Surveying-I Marks:
+; Time:
+Date : 23 January 2019 L DuratiNes
+No. of
+
+Re-examination (2016-17 / 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql) Attempt all (14)
+a) Explain Plane surveying and Geodetic Surveying. (3)
+b) Define i) whole circle bearing 2) Reduce bearing 3) back bearing 4) Isogonic lines (4)
+c) Explain Orientation in plane tabling. (2)
+d) Define i) contour interval ii) horizontal equivalent. (2)
+e) Define i) Diaphragm ii) sensitivity of bubble tube iii) line of collimation. (3)
+Q2)a) Explain direct ranging and indirect ranging with neat sketch. (7)
+b) A line was measured by a 20 m chain which was accurate before starting the day work. (7)
+
+After chaining 900m, the chain was found to be 6cm too long. After chaining a total
+distance of 1575m, the chain was found to be 14cm too long. Find the true distance of
+
+the line.
+Q3)a) What are the different methods of plane tabling? Explain any one with sketch. (7)
+b) The following are the fore bearing and back bearing of the sides of a closed traverse. (7)
+Calculate the interior angle of the traverse. ‘
+Side FB BB
+AB N45°30°E S45" 30°W
+BC S60°E N60" W
+CD $10° 30° W N10° 30°E
+DA N75°45° W $75°45°E
+Q4) a) What is the reciprocal leveling? Explain with neat sketch. (7)
+
+I.
+--- page 2 ---
+b) The following Consecutive reading were taken with a leveling instrument at interval of (7)
+20m
+2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m.
+the instrument was shifted after the fourth and eight readings. The last reading was
+taken on a BM of RL 110.200m. find the RLs of all the points. Use rise & fall method.
+
+Q5) a) What are the method of contouring? Explain square method with neat sketch. (7)
+
+b) - Explain in detail repetition and reiteration method of theodolite traversing. (7)
+
+Q6) a) The following offsets are taken from a survey line to a curved boundary line. (7)
+Distance (m) |.0 5 10 15 20 30 40 60 80
+
+Offset(m) 25 3.8 4.6 5.2 6.1 4.7 5.8 3.9 2.2
+
+Find the area between the survey line, the curved boundary line and the first and last
+
+offsets by (1) Trapezoidal rule (2) Simpsons rule.
+
+b) The area enclosed by the contours in a lake is as follows. (7)
+Contour (m) | 280 285 290 295 300
+Area (m) 2050 8400 16300 24600 31500
+
+Calculate the volume of water between the contours 280m and 300m by (1) trapezoidal
+formula (2) prismoidal formula.
+
+Q7) a) Following records are obtained in a traverse survey. Where the length and bearing of the (8)
+
+last line were not recorded. Compute the length and bearing of line DA.
+
+Line Length (m) Bearing
+
+AB : 75.50 3024
+
+BC 180.50 11036
+
+CD 60.25 21030
+
+DA ? ?
+— b) Explain curvature correction, refraction correction, combine correction. (3)
+a c) Explain procedure of measuring vertical angle by theodolite. (3)
+
+ay
+````
+
 ## 2018-19 · Re-Exam · Sem 3 · paper 4c71a4c45b7b
 
 - Departments: Civil
@@ -451,6 +676,7 @@ ae
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I BATCH 2018-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
 - Text: ocr (2 pages), mean OCR confidence 92.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -515,7 +741,6 @@ Line Fore Bearing | Back Bearing
 AB S 40° 30'E S 40° 30'E
 BC S 60° 00'E S 60° 40'E
 cD SS°45'E S7° OO'E
-DA N 80°00’ W N 81°30’ W.
 
 “ b) Aman at a position 10m above sea level observes a peak of a hill. The distance between the man and
 the hill is 80km. Find the height of the hill.
@@ -557,6 +782,121 @@ c) Explain the sources of error in levelling.
 2h,
 ````
 
+## 2018-19 · Re-Exam · Sem 3 · paper 019fc6b98f57
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/Surveying-I , Re-exam 2017-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
+- Text: ocr (2 pages), mean OCR confidence 93.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech/ MBA Tech (Civil) Year: I
+Academic Year: 2018-19 .
+Subject: Surveying-I Marks: 70
+
+Semester : TI] -~
+
+Date : 23 January 2019 Lf Time: 2.00 pm to 5.00 pm »~
+
+‘ Durations:3 (hrs)
+a No. of Pages:_ O2—
+Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-1 ae
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1. a) Enlist the advantages and disadvantages of plane tabling. 3
+b) Enlist two formulae for calculation of volume of the earth work. 3
+c) Define: (i) Transiting (ii) Theodolite (iii) Bench Mark (iv) Line of collimation. 4
+d) Enlist four characteristics of contours. 4
+
+2. a) The fore bearing of line AB, BC, CD, DE, EA are given in table.
+
+Find included interior angles A, B,C, D, E: 8
+Line AB BC cD DE EA
+Fore Bearing | 150° 15' 20° 15! 290° 30! 210° 00' 120°30'
+6
+
+b) Explain prismatic compass with a neat sketch.
+
+3. a) A chain line AB intersects a pond. Two points P and Q are taken on the chain line on opposite sidesof 6
+the pond. A line PR 200m long is set out on the left of PQ and another line PS, 250m long is set out on
+the right of PQ. Points Q, Rand S are in the same straight line. QS and QR are 100 and 150m long
+respectively. Calculate the length of PQ.
+
+b) Explain Radiation method and intersection method of plain table surveying. 4
+
+c) Explain chain corrections with formulae’s. 4
+
+af
+--- page 2 ---
+a) Following observations were observed in traversing, with a compass in an area where local
+attraction was suspected. Find the amounts of local attraction at different stations and corrected
+fore bearing and back bearings of the lines if the declination is 10° W:
+
+Line Fore Bearing | Back Bearing
+AB S 40° 30'E S 40° 30'E
+BC S 60° 00'E S 60° 40'E
+cD SS°45'E S7° OO'E
+
+b) Aman at a position 10m above sea level observes a peak of a hill. The distance between the man and
+the hill is 80km. Find the height of the hill.
+
+c) Explain reciprocal levelling with neat sketch.
+
+a) The consecutive readings were taken with a dumpy level. 1.755, 1.950, 1.920, 3.840, 2.340, 1.340,
+2.185, 1.850, 1.575, 3.545, 1.895, 2.100 and 1.350. The level was shifted after 3°, 7 and 11" reading.
+The first reading was taken on Bench mark of R.L. 249.20 m, use rise and fall method to calculate
+reduced level of all points. Apply usual checks.
+
+b) A levelling instrument was set up exactly midway between two pegs A and B, 100m apart. The staff
+readings on A and B were 1.875 and 1.790 respectively. The instrument was then set up at a distance of
+10m from A on the line AB. The respective staff readings were 1.630 and 1.560. Calculate the correct
+staff reading on A and B when the line of collimation is exactly horizontal.
+
+a) The record of a closed traverse is given below, with two distances missing. Calculate the length of BC
+and EA.
+
+Line AB BC cD DE EA
+Length(m) 100.5 ? ~ 75.0 50.5 ?
+WCB 45°20’ 70°25’ 160°50’ 218°45’ 312°15'
+
+b) The following offsets are taken from a survey line to curve boundary line. Find the area between
+survey lines. 1) Trapezoidal rule 2) Simpsons rule.
+Distance (m) 0 6 12 18 24 30 36
+Offsets(m) 5.4 4.5 3.6 2.7 1.8 2.25 3.15
+
+a) Calculate latitudes, departure and closing errors for the following traverse and adjust using
+Bowditch’s rule.
+
+Line AB BC cD DE EA
+Length(m) 80 220 150 159 235
+WCB 30°00’ 62°25’ 192°00’ 266°40’ 321°42’
+
+b) Explain the repetition and reiteration method of measuring horizontal angle by theodolite traversing.
+c) Explain the sources of error in levelling.
+
+2,
+````
+
 ## 2017-18 · Final-Exam · Sem 3 · paper 85b632dd5df0
 
 - Departments: Civil
@@ -564,6 +904,7 @@ c) Explain the sources of error in levelling.
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I (CIVIL), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 28 November 2017
 - Text: ocr (2 pages), mean OCR confidence 85.2
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -578,7 +919,6 @@ Subject: Surveying -I ~ nis iW & iM ae
 Marks: 70 - gw ON
 Date: 28 November 2017 ~ Time: 10.00 affito 1.00 te Ye »
 Durations:/8 fir bay wd RY NE ;
-No. of Pag A ay, Ge
 is Nem, Jat fy
 
 . er gyro meee G
@@ -618,10 +958,6 @@ C) The following bearings were observed at a’place where local attraction was 
 Find the corrected bearings of the lines.
 
 Line Fore Bearing Back Bearing
-AB S 46°00’ E N 45°30’ W
-BC S 60°00’ E N 60°00’ W
-CD S 4°50’ E N 3°20’ W
-DA N 83°30" W S 85°30’ E
 Q. 40) What i is correction for curvature and refraction in levelling? (7)
 “Derive as expression for curvature, refraction and combined correction.
 _b) Explain the “Rise-and-Fall” and “Collimation” method with neat sketch and example. (7)
@@ -630,7 +966,6 @@ Q5 5 (\\The following successive readings were taken with a dumpy level along a 
 common intervals of 30 m. The first reading was taken ona chainage 190 m. The RL of
 the second change point was 127.215 m. The instrument was shifted after third and
 seventh readings. Calculate the RLs of all the points using rise-and-fall system.
-3.725 m, 3.290 m, 2.880m, 3.100 m, 2.340m, 0.905 m, 2.440 m, 1.195 m, 2.225 m,
 3.120 m and 3.900 m.
 
 b) Explain different temporary adjustments for a theodolite and sources of errors in (7)
@@ -966,257 +1301,33 @@ c) Explain Local attraction.
 7h
 ````
 
-## 2017-18 · Re-Exam · Sem 3 · paper c1be423625eb
+## 2017-18 · Re-Exam · Sem 3 · paper 7adac3537d61
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I BATCH 16-17, 17-18 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 24 November 201
-- Text: ocr (2 pages), mean OCR confidence 89.7
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING-I (CIVIL), BATCH 16-17 RE-EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 28 November 2017
+- Text: ocr (3 pages), mean OCR confidence 91.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
-. MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: II Semester: III a
-rail
-
-Academic Year: 2018-2019
-
-Subject: Surveying-I fs/ Mpom, '
-- Marks:\70 jy, SE > EN
-Date: 24 November 201% i
-
-00 pm to'5.00%pm 7.)
-Durations;3 (hrs) —
-
-No. of Page$ts uy cQQy Soe"
-Re-examination (2016-17 / 2017-18) | i
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) In all 5° questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume suitable data if necessary.
-
-Q.1 | Attempt the following:- (14)
-a) | General principle of surveying.
-b) | Two point problem in plane table
-c) | Uses of contours
-d) | Temporary adjustments of a prismatic compass.
-
-Q.2 | What is contouring? Write different characteristics of contours with examples. (07)
-a)
-b) | The following consecutive readings were observed with level, the instrument having (07)
-
-been moved forward after third, seventh and ninth readings:
-1.505, 2.015, 2.890, 0.570, 1.125, 1.900, 2.710, 0.620, 1.960, 1.100, 1.950
-The first reading was taken with the staff held upon a benchmark of elevation 99.500.
-Calculate the reduced levels of all points. Apply usual checks. Find also the difference
-
-ane in level between the first and the last points.
---- page 2 ---
-a3)
-
-Q.3 | What is ranging? What are the methods of ranging? Explain in detail along with neat (07)
-a) | sketches.
-b) | What are different tape corrections? Write formulae. (03)
-¢) | What does traversing means? Explain open and closed traverse. (04)
-
-Q.4 | A 20 m tape was used in catenary at a temperature of 352 under a pull of 20 Kg. The (07)
-a) | tape was standardized at a temperature of 252 with a pull of 10 kg. If the weight of
-tape is 0.850 kg, cross-sectional area of tape is 0.03 cm?, Young’s modulus of steel is
-2.1x10°kg/em?, coefficient of thermal expansion is 11.2x10° per @ . If the measured
-length was 960 m, find the true length.
-
-b) | The following bearings were observed at a place where local attraction was suspected. Find the (07)
-corrected bearings of the lines. ,
-
-Line. Fore Bearing Back Bearing
-AB S 45°30’ E N 45°30’ W
-BC S 60°00’ E N 60°40’ W
-CD S 5°30’ E N 3°20’? W
-DA N 83°30’ W S 85°00’ E
-
-Q.5 | Explain reciprocal levelling, also derive an expression for difference in levels between | (07)
-a) | two points on opposite banks of a river.
-
-b) | What are the temporary adjustments of a theodolite? Explain in detail. (07)
-Q.6 | What is plane tabling? What are its different methods? Explain any two. (07)
-a)
-
-b) | What do you understand by bearing of a line? Explain types of bearing, also (07)
-
-differentiate between W.C.B and Q.B. system with neat sketch.
-2 Ss
-
-Q.7 | A closed traverse was conducted round an obstacle and the following observations (07)
-a) | were made.
-
-Line | Length (meter) | Back Bearing
-
-AB 335 181°18”
-BC 2 ?
-
-CD 408 35736"
-DA 828 264°58"
-
-Calculate the length and bearing of line EA.
-b) | A series of offsets were taken from a chain line to a curved boundary line at intervals of | (07)
-20 meters in the following order:
-1.10, 2.50, 4.00, 3.55, 3.95, 3.70, 3.85, 5.45 m.
-Compute the area between the chain line, the curved boundary and the end offsets by
-
-caaiaaeecael .
-a) Average ordinate rule
-b) Trapezoidal rule, and
-8 c) Simpson’s rule
-®
-
-— s
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper bd657bd3448d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I BATCH 2016-17 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 23 January 2019
-- Text: ocr (2 pages), mean OCR confidence 91.9
-
-````text
-: SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Program: B. Tech (Civil) Year: II Semester : III
-a Academic Year: 2018-2019 “ 2
-Subject: Surveying-I Marks:
-; Time:
-Date : 23 January 2019 L DuratiNes
-No. of
+Programme: B.Tech (CIVIL) . Year: I~ Semester: III -
 
-Re-examination (2016-17 / 2017-18)
+Batch: 2016-17 ~
+Academic Year: 2017-2018 -
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+ae a
 
-1) Question No. lis compulsory.
+Subject: Surveying - 1 < ea BE .
+Marks: 7Qg NR Rls
+Date: 28 November 2017 Time: 1000°am to 1 Og a
 
-2) Out of remaining questions, attempt any 4 questions.
+Durations: 3 (hrs)
 
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql) Attempt all (14)
-a) Explain Plane surveying and Geodetic Surveying. (3)
-b) Define i) whole circle bearing 2) Reduce bearing 3) back bearing 4) Isogonic lines (4)
-c) Explain Orientation in plane tabling. (2)
-d) Define i) contour interval ii) horizontal equivalent. (2)
-e) Define i) Diaphragm ii) sensitivity of bubble tube iii) line of collimation. (3)
-Q2)a) Explain direct ranging and indirect ranging with neat sketch. (7)
-b) A line was measured by a 20 m chain which was accurate before starting the day work. (7)
-
-After chaining 900m, the chain was found to be 6cm too long. After chaining a total
-distance of 1575m, the chain was found to be 14cm too long. Find the true distance of
-
-the line.
-Q3)a) What are the different methods of plane tabling? Explain any one with sketch. (7)
-b) The following are the fore bearing and back bearing of the sides of a closed traverse. (7)
-Calculate the interior angle of the traverse. ‘
-Side FB BB
-AB N45°30°E S45" 30°W
-BC S60°E N60" W
-CD $10° 30° W N10° 30°E
-DA N75°45° W $75°45°E
-Q4) a) What is the reciprocal leveling? Explain with neat sketch. (7)
-
-I.
---- page 2 ---
-b) The following Consecutive reading were taken with a leveling instrument at interval of (7)
-20m
-2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m.
-the instrument was shifted after the fourth and eight readings. The last reading was
-taken on a BM of RL 110.200m. find the RLs of all the points. Use rise & fall method.
-
-Q5) a) What are the method of contouring? Explain square method with neat sketch. (7)
-
-b) - Explain in detail repetition and reiteration method of theodolite traversing. (7)
-
-Q6) a) The following offsets are taken from a survey line to a curved boundary line. (7)
-Distance (m) |.0 5 10 15 20 30 40 60 80
-
-Offset(m) 25 3.8 4.6 5.2 6.1 4.7 5.8 3.9 2.2
-
-Find the area between the survey line, the curved boundary line and the first and last
-
-offsets by (1) Trapezoidal rule (2) Simpsons rule.
-
-b) The area enclosed by the contours in a lake is as follows. (7)
-Contour (m) | 280 285 290 295 300
-Area (m) 2050 8400 16300 24600 31500
-
-Calculate the volume of water between the contours 280m and 300m by (1) trapezoidal
-formula (2) prismoidal formula.
-
-Q7) a) Following records are obtained in a traverse survey. Where the length and bearing of the (8)
-
-last line were not recorded. Compute the length and bearing of line DA.
-
-Line Length (m) Bearing
-
-AB : 75.50 3024
-
-BC 180.50 11036
-
-CD 60.25 21030
-
-DA ? ?
-— b) Explain curvature correction, refraction correction, combine correction. (3)
-a c) Explain procedure of measuring vertical angle by theodolite. (3)
-
-ay
-````
-
-## 2017-18 · Re-Exam · Sem 3 · paper 019fc6b98f57
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/Surveying-I , Re-exam 2017-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
-- Text: ocr (2 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: B.Tech/ MBA Tech (Civil) Year: I
-Academic Year: 2018-19 .
-Subject: Surveying-I Marks: 70
-
-Semester : TI] -~
-
-Date : 23 January 2019 Lf Time: 2.00 pm to 5.00 pm »~
-
-‘ Durations:3 (hrs)
-a No. of Pages:_ O2—
-Re-examination B.Tech (2018-19) / MBA Tech (2017-18/2018-1 ae
+Re-Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
@@ -1234,79 +1345,139 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-1. a) Enlist the advantages and disadvantages of plane tabling. 3
-b) Enlist two formulae for calculation of volume of the earth work. 3
-c) Define: (i) Transiting (ii) Theodolite (iii) Bench Mark (iv) Line of collimation. 4
-d) Enlist four characteristics of contours. 4
+Qi:
+a. Describe the temporary adjustment of a theodolite. (03)
+b. Define local attraction. Explain how is it detected and adjusted. (03)
+&. Describe orientation in plane tabling. (02)
+d. State the sources of error in levelling. (02)
+e. Define surveying. Mention its uses. (02)
+f. Describe about planimeter in brief. (02)
+Q2.
+a. A 30m steel tape was standardized at a temperature of 20°C and under a pull of 10kg. The tape was (07)
+used in a catenary to fix a distance of 28m between two points at 40°C and under a pull of 5 kg. Given
+that the cross-sectional area of the tape= 0.02cm’, total weight 470g, Young’s modulus of steel =
+2.1x10° kg/cm’, and coefficient of linear expansion= 11x10° per °C,
+a) Find the correct distance between the points.
+b) Find the value of pull for which the measured distance would be equal to the correct distance.
+b. The following consecutive readings were taken with a level and 4m levelling staff on a continuously (07)
 
-2. a) The fore bearing of line AB, BC, CD, DE, EA are given in table.
+sloping ground at common intervals of 30m.
+0.905 (on A), 1.745, 2.345, 3.125, 3.725, 0.545, 1.390, 2.055, 2.955, 3.455, 0.595, 1.015, 1.850, 2.655,
 
-Find included interior angles A, B,C, D, E: 8
-Line AB BC cD DE EA
-Fore Bearing | 150° 15' 20° 15! 290° 30! 210° 00' 120°30'
-6
+and 2.945 (onB). The instrument is shifted after 8" and 12" reading.
+The RL of A was 395.500. Calculate the RLs of different points with the check.
 
-b) Explain prismatic compass with a neat sketch.
-
-3. a) A chain line AB intersects a pond. Two points P and Q are taken on the chain line on opposite sidesof 6
-the pond. A line PR 200m long is set out on the left of PQ and another line PS, 250m long is set out on
-the right of PQ. Points Q, Rand S are in the same straight line. QS and QR are 100 and 150m long
-respectively. Calculate the length of PQ.
-
-b) Explain Radiation method and intersection method of plain table surveying. 4
-
-c) Explain chain corrections with formulae’s. 4
-
-af
+1/3
 --- page 2 ---
-a) Following observations were observed in traversing, with a compass in an area where local
-attraction was suspected. Find the amounts of local attraction at different stations and corrected
-fore bearing and back bearings of the lines if the declination is 10° W:
+Q.3.
 
-Line Fore Bearing | Back Bearing
-AB S 40° 30'E S 40° 30'E
-BC S 60° 00'E S 60° 40'E
-cD SS°45'E S7° OO'E
-DA N 80°00’ W N 81°30’ W
+Q.4.
 
-b) Aman at a position 10m above sea level observes a peak of a hill. The distance between the man and
-the hill is 80km. Find the height of the hill.
+Q5.
 
-c) Explain reciprocal levelling with neat sketch.
+The formation width of a certain cutting is 8m and the side slope is 1 : 1. The surface of the ground has (07)
+a uniform slope of | in 10. If the depths of cutting at the centers of three sections 40m apart are 2, 3 and
+4 m respectively, find the volume of the earth work.
 
-a) The consecutive readings were taken with a dumpy level. 1.755, 1.950, 1.920, 3.840, 2.340, 1.340,
-2.185, 1.850, 1.575, 3.545, 1.895, 2.100 and 1.350. The level was shifted after 3°, 7 and 11" reading.
-The first reading was taken on Bench mark of R.L. 249.20 m, use rise and fall method to calculate
-reduced level of all points. Apply usual checks.
+An incomplete traverse table is obtained as follows: (07)
+Line Length (m) Bearing
+AB 100.0 ?
+BC 80.5 140°30”
+CD 60.0 220°30’
+DA ? 310°15’
 
-b) A levelling instrument was set up exactly midway between two pegs A and B, 100m apart. The staff
-readings on A and B were 1.875 and 1.790 respectively. The instrument was then set up at a distance of
-10m from A on the line AB. The respective staff readings were 1.630 and 1.560. Calculate the correct
-staff reading on A and B when the line of collimation is exactly horizontal.
+Calculate the length of DA and bearing of AB.
 
-a) The record of a closed traverse is given below, with two distances missing. Calculate the length of BC
-and EA.
+Explain with neat sketch the procedure of solving a two point problem in plane table surveying. (05)
+The following fore and back bearing were observed while traversing an area with a compass: (05)
+Side FB BB
+RS N_ 73°00’ W S. 72°15’ E
+ST N 12°45°E S 13°15’ W
+TP. N_ 60°00’ E S 59°15’ W
+Find the corrected bearing of the line.
+The following are the fore and back bearings of the sides of a closed traverse: (04)
+Side FB BB
+AB 150°15’ 330°15’
+BC 20°30’ 200°30°
+CD 295°45’ 115°45’
+DE 218°0’ 38°0°
+EA 120°30” 300°30°
 
-Line AB BC cD DE EA
-Length(m) 100.5 ? ~ 75.0 50.5 ?
-WCB 45°20’ 70°25’ 160°50’ 218°45’ 312°15'
+Calculate the interior angles of the traverse.
 
-b) The following offsets are taken from a survey line to curve boundary line. Find the area between
-survey lines. 1) Trapezoidal rule 2) Simpsons rule.
-Distance (m) 0 6 12 18 24 30 36
-Offsets(m) 5.4 4.5 3.6 2.7 1.8 2.25 3.15
+Explain with neat sketch, direct method of contouring. (05)
 
-a) Calculate latitudes, departure and closing errors for the following traverse and adjust using
-Bowditch’s rule.
+A levelling instrument was set up exactly midway between two pegs A and B, 100m apart. The staff (05)
+reading on A and B were 1.875 and 1.790 respectively. The instrument was then set up at a distance of
 
-Line AB BC cD DE EA
-Length(m) 80 220 150 159 235
-WCB 30°00’ 62°25’ 192°00’ 266°40’ 321°42’
+10m from A on the line AB. The respective staff reading were 1.630 and 1.560.
 
-b) Explain the repetition and reiteration method of measuring horizontal angle by theodolite traversing.
-c) Explain the sources of error in levelling.
+Calculate the correct staff reading on A and B when the line of collimation is exactly horizontal.
 
-2,
+The line of sight from two stations A and B just grazes the sea level. If the height of A and B above sea (04)
+level are 100 and 150m respectively, find the distance AB. (diameter of earth= 12,880 km)
+
+2/3
+--- page 3 ---
+Q6.
+
+Q.7.
+
+A survey line CD intersects a building. To overcome the obstacle, a perpendicular DE, 87m long is set
+out at D. From E, two lines EF and EG are set out at angles of 50° and 65° respectively with ED. Find
+the lengths EF and EG such that points F and G fall on the prolongation of CD, @lso find the
+obstructed distance DF.
+
+Differentiate between radiation and intersection methods of plane tabling.
+
+The following offsets are taken from a survey line to a curved boundary line:
+Distance (m) 0 5 10 15 20 30 40 60 80
+Offset (m) 2.50 | 3.80 4.60 5.20 6.10 4.70 5.80 3.90 2.20
+Find the area between the survey line, the curved boundary line, and the first and the last offsets by
+(a) Trapezoidal rule
+(b) Simpson’s rule
+
+Enter the field book according to the following field notes:
+
+(a) Chainage of line AB is 68.5m
+
+(b) The offsets to the river at the right of chainage are:
+Chainage: 5, 25, 40, 60 m
+Offsets: 13, 17, 19, 19.5m
+
+(c) A church is 10m perpendicular from 50 m chainage to the left of the chain line.
+
+(d) The corners of a building are 9 and 13 m from 5 and 18m chainage to the left of the chain line.
+The building is 7m wide.
+
+(e) A electric post is 10m perpendicular from 65m chainage to the left.
+
+Describe the process of repetition and reiteration for measuring horizontal angle by theodolite.
+
+ABCDA is a closed traverse in which the bearing of DA and length of BC have not been recorded. The
+rest of the field records are as follows:
+
+Line Length (m) Bearing
+AB 338 181°18’
+BC ? 90°00’
+CD 408 357936"
+DA : 828 2?
+
+Find the missing data.
+
+3/3
+
+(04)
+
+(05)
+
+(05)
+
+(05)
+
+(05)
+
+(04)
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 886711a0d6c9
@@ -1838,6 +2009,124 @@ d) Explain Two-point problem in plane table surveying (4)
 _ — —— +
 ````
 
+## 2016-17 · Re-Exam · Sem 3 · paper dd334d697c37
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I B TECH (CIVIL), BATCH 14-15. 15-16 RE EXAM.pdf`
+- Printed on paper: exam date: 05 December 2016
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme :.B. Tech (CIVIL) Year : II Semestary aN
+Batch : 2014-2015 / 2015-2016 genes —*
+Academic Year : 2016-2017
+‘a a PSTMB ee
+
+Subject : Surveying-I Matt fOBRARYW Je ; |
+; Tim -00 am toy pn
+Date : 05 December 2016 Durat A
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+QI Answer the following questions. 12 marks
+a What is the differential levelling and profile levelling? 3 marks
+b Explain Orientation. 3 marks
+c Define 1) True meridian 2) R.L. 3) telescope normal 3 marks
+d Explain method of chaining on sloping ground. 3 marks
+Q2_ Answer the following questions. 12 marks
+a Draw the sketch of dumpy level and explain each part. 6 marks
+b Explain error and mistakes in chaining. 6 marks
+Q3 Answer the following questions. 12 marks
+a Explain with neat sketch characteristics of contouring. 4 marks
+
+b A road at constant R.L. of 180 runs North to south. The ground East to 8 marks
+west is level. The surface level along the centre line of the road are
+follows. compute the volume of cutting , given that the width at formation
+level is 8m and the side slope 1.5 to 1
+Chainge | 0 30 60 90 120 150 180
+in mtr.
+Level in | 183.50.} 182.45 | 182.15 | 181.55 | 180.95 | 182.05 | 180.80
+
+ieee mtr.
+
+4/2
+--- page 2 ---
+Q4 Answer the following questions. : 12
+
+a Following are the fore bearing and back bearing of the sides of a closed 8 marks
+traverse. Calculate the interior angle of the traverse. -
+
+Side FB BB
+
+AB N45°30°E S45° 30°W
+
+BC S 60°E N 60° W
+
+CD $10° 30’ W N10° 30°E
+
+DA N75°45? W $75°45°E
+b What are the accessories for linear measurements in surveying? 4 marks
+Q5 Answer the following questions. 12 marks
+
+a The record of a closed traverse is given below, with t two distance missing. 8 marks
+
+Calculate the length of BC & EA.
+
+Line Length (m) bearing
+
+AB 100.5 N3030E
+
+BC ? S45E
+
+CD 75 S4030W
+
+DE 50.5 S60W
+
+EA ? N4015W
+b Explain procedure of measuring vertical angle. 4 marks
+Q6 Answer the following questions. 12 marks
+
+a The following Consecutive reading were taken with a levelling instrument 8 marks
+at interval of 20m. 2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985,
+0.435, 1.630, 2.255 and 3.630m. The instrument was shifted after the
+fourth and eight readings. The last reading was taken on a BM of RL
+110.200m. Find the RLs of all the points.
+
+b Explain temporary adjustment of prismatic compass. 4 marks
+
+Q7 Answer the following questions. 12 marks
+
+a What is the reciprocal leveling? Explain with neat sketch. 4 marks
+
+b Explain Indirect method of contouring using squares’ 4 marks
+
+c What are the different methods of plain tabling? Explain traversing _ 4marks
+method with sketch. plane
+
+2) 2
+````
+
 ## 2016-17 · Re-Exam · Sem 3 · paper df479229144f
 
 - Departments: Civil
@@ -1845,6 +2134,7 @@ _ — —— +
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I CIVIL BATCH 16-17 RE EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 01 June 2017
 - Text: ocr (3 pages), mean OCR confidence 88.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1883,7 +2173,6 @@ and on the cover of the Answer Book, which is provided for their use.
 
 7. Assume Suitable data if necessary.
 
-ress REESE ara Cee eee eee ES
 
 Ql Attempt any four of the following: (14)
 a) Difference between plane surveying and geodetic surveying.
@@ -1976,184 +2265,204 @@ b) Simpson’s rule
 ee
 ````
 
-## 2016-17 · Re-Exam · Sem 3 · paper 7adac3537d61
+## 2016-17 · Re-Exam · Sem 4 · paper f50ada524437
 
 - Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING-I (CIVIL), BATCH 16-17 RE-EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 28 November 2017
-- Text: ocr (3 pages), mean OCR confidence 91.9
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/SURVEYING I/Surveying I Batch 2015-2016 Re Exam.pdf`
+- Printed on paper: exam date: 12 July 2017
+- Text: ocr (2 pages), mean OCR confidence 93.9
 
 ````text
-SVKM’s NMIMS
+SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B.Tech (CIVIL) . Year: I~ Semester: III -
+‘ Academic Year: 2016-2017
+Program: B. Tech Integrated (Civil) Year: II
 
-Batch: 2016-17 ~
-Academic Year: 2017-2018 -
+Batch: 2015-16
+Subject: Surveying-I
+Date : 12 July 2017
 
-ae a
+Semester:IV
 
-Subject: Surveying - 1 < ea BE .
-Marks: 7Qg NR Rls
-Date: 28 November 2017 Time: 1000°am to 1 Og a
+Duration:3 ‘hrs
+No. of Pagésk.
+<e
 
-Durations: 3 (hrs)
+RE - EXAMINATION
 
-Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+1. Question No. 1 (one) is compulsory.
 
-1) Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 (four) questions.
+
+3. In all 5 (five) questions are to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+l. a. i. Define the term line of collimation. ($x 2)
+ii. Explain direct ranging.
+iii. What are the different types of benchmark?
+iv. Explain the difference between face right and face left.
+v. Define true meridian.
+vi. Explain the difference between geodetic and plane surveying.
+vii. Explain the term Orientation.
+
+2. a. The distance between two stations was 1000 m when measured with a 20 m €
+chain. The same distance when measured with a 30 m chain was found to be
+1215 m. If the 20 m chain was 0.05 m too long, what was the error in the 30 m
+
+chain?
+b. Explain the procedure of measuring horizontal angle by reiteration method. 6
+3. a. The following records are obtained in a traverse survey, where the length and é
+bearing of the last line were not recorded. Compute the length and bearing of
+line DA
+Line Length Bearing
+AB 75.50 m 30°24’
+BC 180.50 m 110°36’
+CD 60.25 m 210930’
+DA ? ?
+b. Explain radial contouring and how it is carried out. 6
+
+4)p
+--- page 2 ---
+Calculate the volume by the prismoidal and trapezoidal formulae.
+
+Formation width: 10 m
+
+Side slopes: 2.5:1 in cutting and 2:1 in filling
+
+Traverse slope : 1 in 4
+
+The depth of cutting at the centre is 0.75 m, 1.0 m and 1.5 m at three sections,
+20 m apart. Calculate the volume in the 40 m length.
+
+Explain the essential parts of the theodolite.
+
+The following consecutive readings were taken with a levelling instrument at
+interval of 20 m. 2.275, 1.735, 0.515, 3.450, 2.800, 2.080, 1.900, 0.986, 0.450,
+1.650, 2.250 and 3.630 m. The instrument was shifted after the fourth and eighth
+readings. The last reading was taken on a BM of RL 110 m. Find the RLs of all
+the points.
+
+Explain the possible obstacles that are encountered in theodolite surveying.
+
+Write short notes on any two of the following:
+i. Area calculations with planimeter
+
+ii. Procedure to calculate height of building with a theodolite
+
+iii. Simpson’s rule
+
+iv. Applications of contour maps in civil nengineering
+
+v. Difference between prismatic compass and surveyor’s compass
+
+Explain any one method of measuring distance between two points with “Plane
+Table Surveying”
+Derive the expressions for curvature and refraction corrections.
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 00d79a275634
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/SURVEYING I/Surveying I Batch 2015-2016 Re Exam_00d79a2756.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS 4 .¥
+
+ah 2X
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Academic Year: 2016 - 2017
+Program: B. Tech Integrated (CIVIL)
+
+Year:II Semester:IV
+
+Batch: 2015-16 Marks: 60
+Subject: Surveying -I Time: (10.00 am to 1.00 pm)
+Date : 13 May 2017 Duration:3 hrs
+
+No. of Pages: 7 _
+RE - EXAMINATION
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. _1_ is compulsory.
 
 2) Out of remaining questions, attempt any 4 questions.
 
-3) In all 5 questions to be attempted.
+3) In all S questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Qi:
-a. Describe the temporary adjustment of a theodolite. (03)
-b. Define local attraction. Explain how is it detected and adjusted. (03)
-&. Describe orientation in plane tabling. (02)
-d. State the sources of error in levelling. (02)
-e. Define surveying. Mention its uses. (02)
-f. Describe about planimeter in brief. (02)
-Q2.
-a. A 30m steel tape was standardized at a temperature of 20°C and under a pull of 10kg. The tape was (07)
-used in a catenary to fix a distance of 28m between two points at 40°C and under a pull of 5 kg. Given
-that the cross-sectional area of the tape= 0.02cm’, total weight 470g, Young’s modulus of steel =
-2.1x10° kg/cm’, and coefficient of linear expansion= 11x10° per °C,
-a) Find the correct distance between the points.
-b) Find the value of pull for which the measured distance would be equal to the correct distance.
-b. The following consecutive readings were taken with a level and 4m levelling staff on a continuously (07)
+QI. | (a) Differentiate between Plane and geodetic surveying. . 03
+(b) Write short note on indirect ranging. 03
+(c) Write any four characteristics of contour. 03
+(d) State the ‘purpose of levelling. : 03
 
-sloping ground at common intervals of 30m.
-0.905 (on A), 1.745, 2.345, 3.125, 3.725, 0.545, 1.390, 2.055, 2.955, 3.455, 0.595, 1.015, 1.850, 2.655,
+Q2. | (a) A steel tape 30 m long was standardized at 20°C with a pull of 10 kg. Find the true 06
+length of the line ifmeasured length =400 m. Mean temperature during measurement
+=45°C Pull exerted=14 kg, weight of the tape=0.8kg E=2.1x10°kg/cm? Coefficient of
+expansion for tape=11*10°°. Cross sectional area of tape=.04 cm?.
 
-and 2.945 (onB). The instrument is shifted after 8" and 12" reading.
-The RL of A was 395.500. Calculate the RLs of different points with the check.
+(b)State advantages and disadvantage of plane table surveying. 06
+Q3. | (a)Explain methods of contouring. 06
+(b)Following is the page of level book, where the readings taken by level are given. 06
 
-1/3
+Using HI method find out the reduced levels for different station. Instrument is changed
+after 4rth and 7" readings.
+
+0.355,0.485, 0.625,1.755,1.895,2.350,1.780,0.345,0.685, 1.230,2.150 BM=255.00 m
+
+Vee
 --- page 2 ---
-Q.3.
+Q4. | (a)The following perpendicular offsets were taken from chain line to a hedge.
 
-Q.4.
+Distance | 0 5 10 15 20 25 30 35 40 45
 
-Q5.
+Offset 5.40 | 5.75 | 4.33 | 1.70 | 4.20 | 1.80 | 3.10 | 4.50 | 3.70 | 2.80
 
-The formation width of a certain cutting is 8m and the side slope is 1 : 1. The surface of the ground has (07)
-a uniform slope of | in 10. If the depths of cutting at the centers of three sections 40m apart are 2, 3 and
-4 m respectively, find the volume of the earth work.
+Calculate area by Trapezoidal & Simpsons.
 
-An incomplete traverse table is obtained as follows: (07)
-Line Length (m) Bearing
-AB 100.0 ?
-BC 80.5 140°30”
-CD 60.0 220°30’
-DA ? 310°15’
+06
 
-Calculate the length of DA and bearing of AB.
+(c)Describe the various components for theodolite with sketch. 06
+Q5. | (a) Classify different types of surveying with sketch. 06
+(b)Explain different types of levelling, explain any three. 06
+Q6. | (a)The following bearings were measured by compass. Check and correct it. 10
+Line FB BB
+AB S 37°30° E N 35°30°W
+BC S$44°35°W N42°10’E
+CD N 73°00°W S71°15’E
+DE N12°45’E $12°45°W
+EA N59°00°E $59°00°W
+(b)Define Fore bearing and back bearing with sketch. 02
+Q7. | (a) What are the obstacles in chaining explain in detail. 06
+(b) Explain Repetition and Reiteration method for theodolite for calculation of 06
 
-Explain with neat sketch the procedure of solving a two point problem in plane table surveying. (05)
-The following fore and back bearing were observed while traversing an area with a compass: (05)
-Side FB BB
-PQ S 37°30’ E N 37°30? W
-QR S 43°15’ W N 44°19’ E
-RS N_ 73°00’ W S. 72°15’ E
-ST N 12°45°E S 13°15’ W
-TP. N_ 60°00’ E S 59°15’ W
-Find the corrected bearing of the line.
-The following are the fore and back bearings of the sides of a closed traverse: (04)
-Side FB BB
-AB 150°15’ 330°15’
-BC 20°30’ 200°30°
-CD 295°45’ 115°45’
-DE 218°0’ 38°0°
-EA 120°30” 300°30°
+horizontal angle.
 
-Calculate the interior angles of the traverse.
-
-Explain with neat sketch, direct method of contouring. (05)
-
-A levelling instrument was set up exactly midway between two pegs A and B, 100m apart. The staff (05)
-reading on A and B were 1.875 and 1.790 respectively. The instrument was then set up at a distance of
-
-10m from A on the line AB. The respective staff reading were 1.630 and 1.560.
-
-Calculate the correct staff reading on A and B when the line of collimation is exactly horizontal.
-
-The line of sight from two stations A and B just grazes the sea level. If the height of A and B above sea (04)
-level are 100 and 150m respectively, find the distance AB. (diameter of earth= 12,880 km)
-
-2/3
---- page 3 ---
-Q6.
-
-Q.7.
-
-A survey line CD intersects a building. To overcome the obstacle, a perpendicular DE, 87m long is set
-out at D. From E, two lines EF and EG are set out at angles of 50° and 65° respectively with ED. Find
-the lengths EF and EG such that points F and G fall on the prolongation of CD, @lso find the
-obstructed distance DF.
-
-Differentiate between radiation and intersection methods of plane tabling.
-
-The following offsets are taken from a survey line to a curved boundary line:
-Distance (m) 0 5 10 15 20 30 40 60 80
-Offset (m) 2.50 | 3.80 4.60 5.20 6.10 4.70 5.80 3.90 2.20
-Find the area between the survey line, the curved boundary line, and the first and the last offsets by
-(a) Trapezoidal rule
-(b) Simpson’s rule
-
-Enter the field book according to the following field notes:
-
-(a) Chainage of line AB is 68.5m
-
-(b) The offsets to the river at the right of chainage are:
-Chainage: 5, 25, 40, 60 m
-Offsets: 13, 17, 19, 19.5m
-
-(c) A church is 10m perpendicular from 50 m chainage to the left of the chain line.
-
-(d) The corners of a building are 9 and 13 m from 5 and 18m chainage to the left of the chain line.
-The building is 7m wide.
-
-(e) A electric post is 10m perpendicular from 65m chainage to the left.
-
-Describe the process of repetition and reiteration for measuring horizontal angle by theodolite.
-
-ABCDA is a closed traverse in which the bearing of DA and length of BC have not been recorded. The
-rest of the field records are as follows:
-
-Line Length (m) Bearing
-AB 338 181°18’
-BC ? 90°00’
-CD 408 357936"
-DA : 828 2?
-
-Find the missing data.
-
-3/3
-
-(04)
-
-(05)
-
-(05)
-
-(05)
-
-(05)
-
-(04)
+Zh
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper f8e70ae556af
@@ -2466,26 +2775,31 @@ e)Difference between Simpsons Rule and Trapezoidal Rule. (3)
 3/3
 ````
 
-## 2015-16 · Re-Exam · Sem 3 · paper dd334d697c37
+## 2015-16 · Re-Exam · Sem 3 · paper ca31c1eeb276
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I B TECH (CIVIL), BATCH 14-15. 15-16 RE EXAM.pdf`
-- Printed on paper: exam date: 05 December 2016
-- Text: ocr (2 pages), mean OCR confidence 91.0
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (3 pages), mean OCR confidence 89.2
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Ye SVKM’s NMIMS
+_MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme :.B. Tech (CIVIL) Year : II Semestary aN
-Batch : 2014-2015 / 2015-2016 genes —*
-Academic Year : 2016-2017
-‘a a PSTMB ee
+Programme: B. Tech (Civil) Year: I Semester: III
+Batch: 2014-2015
 
-Subject : Surveying-I Matt fOBRARYW Je ; |
-; Tim -00 am toy pn
-Date : 05 December 2016 Durat A
+Academic Year: 2015-2016
+
+gatitere om,
+
+aia
+Subject: Surveying -I 3; a7 wee)
+Date: 05/12/2015 Time: 1 Ratan ARK iF
+Duration: 3 fe) 7
+Cr aeRO
+a
 
 Re-Examination
 
@@ -2493,95 +2807,95 @@ Instruction: Candidates should read carefully the instructions printed on the qu
 cover of the Answer Book, which is provided for their use.
 
 NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 04 questions.
-
+1) Question No. 01 is compulsory.
+> 2) Out of remaining questions, attempt any 04 questions.
 3) In all 05 questions to be attempted.
-
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+7) Assume Suitable data if necessary
 
-QI Answer the following questions. 12 marks
-a What is the differential levelling and profile levelling? 3 marks
-b Explain Orientation. 3 marks
-c Define 1) True meridian 2) R.L. 3) telescope normal 3 marks
-d Explain method of chaining on sloping ground. 3 marks
-Q2_ Answer the following questions. 12 marks
-a Draw the sketch of dumpy level and explain each part. 6 marks
-b Explain error and mistakes in chaining. 6 marks
-Q3 Answer the following questions. 12 marks
-a Explain with neat sketch characteristics of contouring. 4 marks
+Q1) Attempt all \2
+a) Difference between plain surveying and geodetic survey.
 
-b A road at constant R.L. of 180 runs North to south. The ground East to 8 marks
-west is level. The surface level along the centre line of the road are
-follows. compute the volume of cutting , given that the width at formation
-level is 8m and the side slope 1.5 to 1
-Chainge | 0 30 60 90 120 150 180
-in mtr.
-Level in | 183.50.} 182.45 | 182.15 | 181.55 | 180.95 | 182.05 | 180.80
+b) Method of chaining on sloping ground.
 
-ieee mtr.
+c) Explain with neat sketch Cross-staff.
 
-4/2
+d) Orientation by backsighting .
+
+a
+
+Q2) a) the following are the bearing in traversing, with a compass, an area where local
+attraction was suspected. Calculate the interior angle of the traverse and correct them if
+
+necessary. : 6
+Line FB BB
+AB 150° 330°
+BC 230° 30° 48°
+cD 306° 15” 127° 45°
+— DE 298° 120°
+
+EA + 49° 30° 229° 30°
+
+b) Advantages & Disadvantages of plane table 2%
+
+c) Explain GTS bench mark & permanent bench mark a
 --- page 2 ---
-Q4 Answer the following questions. : 12
+Q3) a) The following consecutive reading were taken with a levelling instrament at intervals
 
-a Following are the fore bearing and back bearing of the sides of a closed 8 marks
-traverse. Calculate the interior angle of the traverse. -
+of 20m.
 
-Side FB BB
+2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m
+the instrument was shifted after the fourth and eighth readings. The last reading was
+taken on a BM of RL 110.200m. Find the RLs all the points by rise -fall method. (6)
 
-AB N45°30°E S45° 30°W
+b) Use of contour map and its characteristics. (6)
 
-BC S 60°E N 60° W
+Q4) a) the following offsets are taken from a survey line to a curved boundary line.
 
-CD $10° 30’ W N10° 30°E
+Distance | 0 5 10 15 20 30 40 60 80
 
-DA N75°45? W $75°45°E
-b What are the accessories for linear measurements in surveying? 4 marks
-Q5 Answer the following questions. 12 marks
+offset Pa) 3.8 460 |5.20 |610 |4.70 |5.8 3.9 2d
 
-a The record of a closed traverse is given below, with t two distance missing. 8 marks
+Find the area between the survey line, the curved boundary line, and the first and the last
+offsets by:
 
-Calculate the length of BC & EA.
+1. the trapezoidal rule
 
-Line Length (m) bearing
+2. Simpson’ rule 6
+b) Reiteration Method x
+c) Draw symbol for i)
 
-AB 100.5 N3030E
+1. wire fencing
+2. railway line
+3. Embankment
+4. Cutting
 
-BC ? S45E
+5. Main station
 
-CD 75 S4030W
+Q5) a) The following records are obtained in a traverse survey, where the length and bearing
 
-DE 50.5 S60W
+of the last line were not recorded, compute the length and bearing of line DA. 6
+Line Length Bearing
+AB 75.50 30°24”
+BC 180.50 110°36”
+CD 60.25 210°30”
+DA ? ?
+b) Explain direct method of contour. 2
+c) Reciprocal Levelling a
 
-EA ? N4015W
-b Explain procedure of measuring vertical angle. 4 marks
-Q6 Answer the following questions. 12 marks
+2/3
+--- page 3 ---
+a) Sources of Error in theodolite 5
 
-a The following Consecutive reading were taken with a levelling instrument 8 marks
-at interval of 20m. 2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985,
-0.435, 1.630, 2.255 and 3.630m. The instrument was shifted after the
-fourth and eight readings. The last reading was taken on a BM of RL
-110.200m. Find the RLs of all the points.
+b) Explain prismatic compass with neat sketch 5
 
-b Explain temporary adjustment of prismatic compass. 4 marks
+b) Temporary adjustment of Theodoliie Q
+Q7) a) which are the points consider while selecting the survey station? 2
+b) Procedure of setting up plane table over a station =
 
-Q7 Answer the following questions. 12 marks
-
-a What is the reciprocal leveling? Explain with neat sketch. 4 marks
-
-b Explain Indirect method of contouring using squares’ 4 marks
-
-c What are the different methods of plain tabling? Explain traversing _ 4marks
-method with sketch. plane
-
-2) 2
+c) Explain Different types of levelling operations S
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper 5151a86e7ab1
@@ -2591,6 +2905,7 @@ method with sketch. plane
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I CIVIL BATCH 14-15 15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 14 June 2016
 - Text: ocr (2 pages), mean OCR confidence 93.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2665,7 +2980,6 @@ traverse. Calculate the interior angle of the traverse.
 
 Side FB BB
 AB N45°30°E S45° 30°W
-BC S 60° E N 60° W
 CD S10° 30? W N10° 30°E
 DA N75°45’ W S75°45°E
 
@@ -2724,206 +3038,6 @@ DB
 4 marks
 
 4 marks
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper f50ada524437
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/SURVEYING I/Surveying I Batch 2015-2016 Re Exam.pdf`
-- Printed on paper: exam date: 12 July 2017
-- Text: ocr (2 pages), mean OCR confidence 93.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-‘ Academic Year: 2016-2017
-Program: B. Tech Integrated (Civil) Year: II
-
-Batch: 2015-16
-Subject: Surveying-I
-Date : 12 July 2017
-
-Semester:IV
-
-Duration:3 ‘hrs
-No. of Pagésk.
-<e
-
-RE - EXAMINATION
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1. Question No. 1 (one) is compulsory.
-
-2. Out of remaining questions, attempt any 4 (four) questions.
-
-3. In all 5 (five) questions are to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-7. Assume Suitable data if necessary.
-
-l. a. i. Define the term line of collimation. ($x 2)
-ii. Explain direct ranging.
-iii. What are the different types of benchmark?
-iv. Explain the difference between face right and face left.
-v. Define true meridian.
-vi. Explain the difference between geodetic and plane surveying.
-vii. Explain the term Orientation.
-
-2. a. The distance between two stations was 1000 m when measured with a 20 m €
-chain. The same distance when measured with a 30 m chain was found to be
-1215 m. If the 20 m chain was 0.05 m too long, what was the error in the 30 m
-
-chain?
-b. Explain the procedure of measuring horizontal angle by reiteration method. 6
-3. a. The following records are obtained in a traverse survey, where the length and é
-bearing of the last line were not recorded. Compute the length and bearing of
-line DA
-Line Length Bearing
-AB 75.50 m 30°24’
-BC 180.50 m 110°36’
-CD 60.25 m 210930’
-DA ? ?
-b. Explain radial contouring and how it is carried out. 6
-
-4)p
---- page 2 ---
-Calculate the volume by the prismoidal and trapezoidal formulae.
-
-Formation width: 10 m
-
-Side slopes: 2.5:1 in cutting and 2:1 in filling
-
-Traverse slope : 1 in 4
-
-The depth of cutting at the centre is 0.75 m, 1.0 m and 1.5 m at three sections,
-20 m apart. Calculate the volume in the 40 m length.
-
-Explain the essential parts of the theodolite.
-
-The following consecutive readings were taken with a levelling instrument at
-interval of 20 m. 2.275, 1.735, 0.515, 3.450, 2.800, 2.080, 1.900, 0.986, 0.450,
-1.650, 2.250 and 3.630 m. The instrument was shifted after the fourth and eighth
-readings. The last reading was taken on a BM of RL 110 m. Find the RLs of all
-the points.
-
-Explain the possible obstacles that are encountered in theodolite surveying.
-
-Write short notes on any two of the following:
-i. Area calculations with planimeter
-
-ii. Procedure to calculate height of building with a theodolite
-
-iii. Simpson’s rule
-
-iv. Applications of contour maps in civil nengineering
-
-v. Difference between prismatic compass and surveyor’s compass
-
-Explain any one method of measuring distance between two points with “Plane
-Table Surveying”
-Derive the expressions for curvature and refraction corrections.
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 00d79a275634
-
-- Departments: Civil
-- Programmes: B.TECH INTEGRATED / CIVIL
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/CIVIL/Sem_04/SURVEYING I/Surveying I Batch 2015-2016 Re Exam_00d79a2756.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
-- Text: ocr (2 pages), mean OCR confidence 91.4
-
-````text
-SVKM’S NMIMS 4 .¥
-
-ah 2X
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
-
-Academic Year: 2016 - 2017
-Program: B. Tech Integrated (CIVIL)
-
-Year:II Semester:IV
-
-Batch: 2015-16 Marks: 60
-Subject: Surveying -I Time: (10.00 am to 1.00 pm)
-Date : 13 May 2017 Duration:3 hrs
-
-No. of Pages: 7 _
-RE - EXAMINATION
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-QI. | (a) Differentiate between Plane and geodetic surveying. . 03
-(b) Write short note on indirect ranging. 03
-(c) Write any four characteristics of contour. 03
-(d) State the ‘purpose of levelling. : 03
-
-Q2. | (a) A steel tape 30 m long was standardized at 20°C with a pull of 10 kg. Find the true 06
-length of the line ifmeasured length =400 m. Mean temperature during measurement
-=45°C Pull exerted=14 kg, weight of the tape=0.8kg E=2.1x10°kg/cm? Coefficient of
-expansion for tape=11*10°°. Cross sectional area of tape=.04 cm?.
-
-(b)State advantages and disadvantage of plane table surveying. 06
-Q3. | (a)Explain methods of contouring. 06
-(b)Following is the page of level book, where the readings taken by level are given. 06
-
-Using HI method find out the reduced levels for different station. Instrument is changed
-after 4rth and 7" readings.
-
-0.355,0.485, 0.625,1.755,1.895,2.350,1.780,0.345,0.685, 1.230,2.150 BM=255.00 m
-
-Vee
---- page 2 ---
-Q4. | (a)The following perpendicular offsets were taken from chain line to a hedge.
-
-Distance | 0 5 10 15 20 25 30 35 40 45
-
-Offset 5.40 | 5.75 | 4.33 | 1.70 | 4.20 | 1.80 | 3.10 | 4.50 | 3.70 | 2.80
-
-Calculate area by Trapezoidal & Simpsons.
-
-06
-
-(c)Describe the various components for theodolite with sketch. 06
-Q5. | (a) Classify different types of surveying with sketch. 06
-(b)Explain different types of levelling, explain any three. 06
-Q6. | (a)The following bearings were measured by compass. Check and correct it. 10
-Line FB BB
-AB S 37°30° E N 35°30°W
-BC S$44°35°W N42°10’E
-CD N 73°00°W S71°15’E
-DE N12°45’E $12°45°W
-EA N59°00°E $59°00°W
-(b)Define Fore bearing and back bearing with sketch. 02
-Q7. | (a) What are the obstacles in chaining explain in detail. 06
-(b) Explain Repetition and Reiteration method for theodolite for calculation of 06
-
-horizontal angle.
-
-Zh
 ````
 
 ## 2015-16 · Re-Exam · Sem 4 · paper 2babdd26edca
@@ -3070,6 +3184,72 @@ queen paren
 3 marks
 
 —~
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper fe6122e50d79
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/Surveying I Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 03/12/2015
+- Text: ocr (1 page), mean OCR confidence 92.2
+
+````text
+: SVKM’s NMIMS
+Sy MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year:Il Semester: III
+Academic Year: 2015 - 16
+
+Batch:2013-14
+
+Subject : Surveying - I
+
+Date :03/12/2015
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 (one) is compulsory.
+
+2) Out of remaining questions, attempt any four (4) questions.
+3) In all 5 (Five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+1. a. Draw a diagram of a 30 m chain 5
+b. i. The FB ofa line is 145°30’. What is its BB? 5xXD
+ii. What is the basic difference between a prismatic compass and a surveyor’s
+compass?
+
+iii. What do you mean by departure?
+iv. What are the instruments used in plane table levelling?
+v. What is the instrument axis in a theodolite?
+
+2. a. A steel tape was exactly 30 m long at 20°C when supported throughout its length under 10
+a pull of 10 kg. A line was measured with this tape under a pull of 15 kg and at a mean
+temperature of 32°C and found to be 780 m long. The cross sectional area of the tape
+was 0.03 cm? and its total weight was 0.693 kg.a for steel is 11 x 10° per °C and E for
+steel is 2.1 x 10°kg/cm?. Compute the true length of the line. If the tape was supported
+during measurement at every 30 m and every 15 m.
+
+b. Explain the process of closed traverse compass surveying using internal angles. 10
+3. a. Write a short note on the theodolite survey 10
+b. Give an account of the various errors encountered in theodolite surveying. 10
+4. a. Howis adjustment of closing error done? 10
+b. The following readings were obtained while describing the perimeter of a triangle of 10
+
+size 15 m x 10 cm with the anchor point inside the rectangle and the tracing arm set to
+the natural scale (M=100).IR = 0.686; FR= 9.976. The zero of the counting disc passed
+
+1/2
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper a33c64cf7aa2
@@ -3453,6 +3633,7 @@ e) | Procedure to measure height of a building with theodolite
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I B TECH (CIVIL), BATCH 14-15 RE EXAM.pdf`
 - Printed on paper: exam date: 13/06/2015
 - Text: ocr (2 pages), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3472,7 +3653,6 @@ Re-Examination MS Unt
 Instruction: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
 
-NB: ce a a oa a
 
 1) Question No. 01 is compulsory.
 
@@ -3586,127 +3766,237 @@ e) Procedure to measure horizontal angle with theodolite
 12
 ````
 
-## 2014-15 · Re-Exam · Sem 3 · paper ca31c1eeb276
+## 2014-15 · Re-Exam · Sem 3 · paper 6d037353d745
 
 - Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_03/SURVEYING I/SURVEYING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (3 pages), mean OCR confidence 89.2
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/SURVEYING I BATCH 2013-14 RE EXAM_6d037353d7.pdf`
+- Printed on paper: max marks: 10; exam date: 05/12/2014
+- Text: ocr (2 pages), mean OCR confidence 88.2
 
 ````text
-Ye SVKM’s NMIMS
-_MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Civil) Year: I Semester: III
-Batch: 2014-2015
+UMS AY
 
-Academic Year: 2015-2016
+Programme: MBA Tech (CIVIL) Year: II Semester: III
+Academic Year: 2014-15 : Batch: 2013-14
+Subject : Surveying - I wr Reap,
+“~ dy,
+Marks: 10 Ne
+Date : 05/12/2014 Time : 2.0444 (ame MB)
+Durations: reg YE }
+Re - Examination Le
+~ Ay pr a
 
-gatitere om,
+Instructions:
 
-aia
-Subject: Surveying -I 3; a7 wee)
-Date: 05/12/2015 Time: 1 Ratan ARK iF
-Duration: 3 fe) 7
-Cr aeRO
-a
+1) Question No ONE is compulsory.
+
+2) Out of remaining questions, attempt ANY FOUR questions.
+3) In all FIVE questions to be attempted.
+
+4) Figures in the right hand side indicate full marks.
+
+Q.1 Solve Any 4 20
+a Explain Direct Ranging
+b_ Explain Errors in surveying
+c Explain Principle of compass surveying
+d Explain Orientation
+e State Trapezoidal and Simpson’s rule
+
+Q.2.a Explain obstacles in chaining with neat sketches 10
+Q2.b Explain chain corrections with formulae’s 10
+Q3.a Explain Local attraction with examples 10
+Q.3.b Following are the bearings of the lines of a traverse ABCDA are given below. 10
+Line, AB BC CD DA
+Bearings 70°30° 120°45” 223°30° 320°47°
+Find the Interior Angles at A, B, C & D.
+Q.4.a Derive the expression for curvature and refraction correction 10
+Q.4.b Some observations are missing from the page of the level book shown in 10
+figure.
+
+Find the missing readings from the available data and checks.
+Station | BS IS FS RISE | FALL RL REMARKS
+
+1 3.250 249.260 BM
+2 1.755 2 0.75 cP
+3 ; 1.950
+
+4 ? 1.920 CP
+5 2.340 1.5
+
+6 ? 1.0
+
+7 1.850 2.185 j cP
+8 1.575
+
+9 9
+
+10 ? 1.895 | 1.650 CP
+11 1.350 | 0.750
+
+4 [2
+--- page 2 ---
+Q5.a
+Q.5.b
+
+Q6.a
+
+Q.6.b
+
+Q7.a
+Q.7.b
+
+Explain characteristics of contour
+Find the volume by the prismoidal and trapezoidal formulae:
+Formation width=9m
+Side slopes=1.5:1m in cutting and 2:1 in filling
+Traverse slope=1 in 4
+The depth of cutting at the centre is 0.5m, 1.0m and 1.5m at three sections
+20m apart.
+Find the volume in the 40m length.
+The table below gives the lengths and bearings of the lines of a traverse
+ABCDE, the length and bearing of EA having been omitted. Calculate the
+length and bearing of the line EA.
+
+Line | Length (m) | Bearing
+
+AB 204.0 87°30"
+
+BC | 226.0 | 20°20’
+
+cD 187.0 | 280°0”
+
+DE 192.0 210°3’
+
+EA ? ?
+Calculate latitudes ,departure and closing errors for the following traverse and
+adjust using Transit Rule.
+
+Line Length (m) WCB
+
+AB 89.31 45°10’
+BC 219.76 72°05’
+CD 151.18 161°52”
+DE 159.10 228°43”
+EA 232.26 300°42”
+
+Explain the essential parts of the theodolite
+Explain the Accessories of the Plane Table Surveying
+
+10
+10
+
+10
+
+10
+
+10
+
+“10
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 252d9fdd5cfd
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/SURVEYING I BATCH 2013-2014 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2015
+- Text: ocr (3 pages), mean OCR confidence 90.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (CIVIL) Year:II Semester: III
+Academic Year: 2014-15
+Batch:2013-14
+
+Subject :Surveying - I Marks:100
+Time : 2.00pm - 5.00pm
+Date : 12/06/2015 Durations:3 (hrs
 
 Re-Examination
 
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
 NB:
-1) Question No. 01 is compulsory.
-> 2) Out of remaining questions, attempt any 04 questions.
-3) In all 05 questions to be attempted.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary
 
-Q1) Attempt all \2
-a) Difference between plain surveying and geodetic survey.
+Ql | Answer the following Questions 20
+a | Explain reduce ievei, bench mark, line of coilimation and back side. 4
+b | Explain true meridian and whole circle bearing. 4
+c | What is the orientation in the plane table? 4
+d_ | Uses of contour map. 4
+e | Explain plane and geodetic surveying. : 4
 
-b) Method of chaining on sloping ground.
+Q2 | Solve 20
+,__ | Explain procedure of setting up plane table in detain with neat sketch. 8
+b What is the temporary adjustment of prismatic compass? 6
+ce | Explain curvature correction, refraction correction, combine correction. 6
 
-c) Explain with neat sketch Cross-staff.
+Q3 Solve fe 20
 
-d) Orientation by backsighting .
-
-a
-
-Q2) a) the following are the bearing in traversing, with a compass, an area where local
-attraction was suspected. Calculate the interior angle of the traverse and correct them if
-
-necessary. : 6
-Line FB BB
-AB 150° 330°
-BC 230° 30° 48°
-cD 306° 15” 127° 45°
-— DE 298° 120°
-
-EA + 49° 30° 229° 30°
-
-b) Advantages & Disadvantages of plane table 2%
-
-c) Explain GTS bench mark & permanent bench mark a
+What are the methods of contouring? Explain squire method with neat sketch?
 --- page 2 ---
-Q3) a) The following consecutive reading were taken with a levelling instrament at intervals
+The following Consecutive reading were taken with a leveling instrument at interval of 20m
 
-of 20m.
+2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m. The
 
-2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m
-the instrument was shifted after the fourth and eighth readings. The last reading was
-taken on a BM of RL 110.200m. Find the RLs all the points by rise -fall method. (6)
-
-b) Use of contour map and its characteristics. (6)
-
-Q4) a) the following offsets are taken from a survey line to a curved boundary line.
-
-Distance | 0 5 10 15 20 30 40 60 80
-
-offset Pa) 3.8 460 |5.20 |610 |4.70 |5.8 3.9 2d
-
-Find the area between the survey line, the curved boundary line, and the first and the last
-offsets by:
-
-1. the trapezoidal rule
-
-2. Simpson’ rule 6
-b) Reiteration Method x
-c) Draw symbol for i)
-
-1. wire fencing
-2. railway line
-3. Embankment
-4. Cutting
-
-5. Main station
-
-Q5) a) The following records are obtained in a traverse survey, where the length and bearing
-
-of the last line were not recorded, compute the length and bearing of line DA. 6
-Line Length Bearing
-AB 75.50 30°24”
-BC 180.50 110°36”
-CD 60.25 210°30”
-DA ? ?
-b) Explain direct method of contour. 2
-c) Reciprocal Levelling a
-
-2/3
+12
+instrument was shifted after the fourth and eight readings. The last reading was taken on a
+BM of RL 110.200m. Find the RLs of all the points.
+Q4 Solve 20
+The following offsets are taken from a survey line to a curved boundary line.
+Distance (m) | 0 5 10 15 20 30 40 60 80
+a Offset(m) 2.5 3.8 4.6 5.2 6.1 47 5.8 3.9 2.2 10
+Find the area between the survey line, the curved boundary line and the first and last
+offsets.
+(1) Trapezoidal rule (2) Simpsons rule.
+The area enclosed by the contours in a lake is as follows.
+Contour (m) | 270 275 280 285 290
+b Area (m) 2050 8400 16300 24600 31500 i
+i
+Calculate the volume of water between the contours 270m and 290m by (1) trapezoidal
+formula (2) prismoidal formula.
+Q5 Solve 20
+The record of a closed traverse is given below, with two distance missing. Calculate the
+length of BC & EA.
+Line Length (m) bearing
+a AB 100.5 N3030E 10
+BC ? S45E
+CD 75 S$4030W
+DE 50.5 “S60W
+EA 2 -N4015W
+b_ | Explain repetition method of theodolite. 10
 --- page 3 ---
-a) Sources of Error in theodolite 5
+Q6 Solve 20
+a | What are different types of level? Explain-dumpy level with neat sketch. 10
+The following are the fore and back bearing of the sides of a closed traverse .calculate the
+interior angle of the traverse.
+Side FB BB
+u AB 150015 33015" 10
+BC 20°30" 200°30°
+CD 295°45° 115°45°
+DE 218° 38°
+EA 120°30° 300°30°
+Q7 Solve 20
+a | What are the obstacles in chaining explain in detail. 6
+b_ | Explain direct ranging and indirect ranging with neat sketch. 8
+c | What are the advantages and disadvantages of plain tabling? 6
 
-b) Explain prismatic compass with neat sketch 5
-
-b) Temporary adjustment of Theodoliie Q
-Q7) a) which are the points consider while selecting the survey station? 2
-b) Procedure of setting up plane table over a station =
-
-c) Explain Different types of levelling operations S
+73
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 8a1210f67bff
@@ -4203,239 +4493,6 @@ p x
 3)3
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper 6d037353d745
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/SURVEYING I BATCH 2013-14 RE EXAM_6d037353d7.pdf`
-- Printed on paper: max marks: 10; exam date: 05/12/2014
-- Text: ocr (2 pages), mean OCR confidence 88.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-UMS AY
-
-Programme: MBA Tech (CIVIL) Year: II Semester: III
-Academic Year: 2014-15 : Batch: 2013-14
-Subject : Surveying - I wr Reap,
-“~ dy,
-Marks: 10 Ne
-Date : 05/12/2014 Time : 2.0444 (ame MB)
-Durations: reg YE }
-Re - Examination Le
-~ Ay pr a
-
-Instructions:
-
-1) Question No ONE is compulsory.
-
-2) Out of remaining questions, attempt ANY FOUR questions.
-3) In all FIVE questions to be attempted.
-
-4) Figures in the right hand side indicate full marks.
-
-Q.1 Solve Any 4 20
-a Explain Direct Ranging
-b_ Explain Errors in surveying
-c Explain Principle of compass surveying
-d Explain Orientation
-e State Trapezoidal and Simpson’s rule
-
-Q.2.a Explain obstacles in chaining with neat sketches 10
-Q2.b Explain chain corrections with formulae’s 10
-Q3.a Explain Local attraction with examples 10
-Q.3.b Following are the bearings of the lines of a traverse ABCDA are given below. 10
-Line, AB BC CD DA
-Bearings 70°30° 120°45” 223°30° 320°47°
-Find the Interior Angles at A, B, C & D.
-Q.4.a Derive the expression for curvature and refraction correction 10
-Q.4.b Some observations are missing from the page of the level book shown in 10
-figure.
-
-Find the missing readings from the available data and checks.
-Station | BS IS FS RISE | FALL RL REMARKS
-
-1 3.250 249.260 BM
-2 1.755 2 0.75 cP
-3 ; 1.950
-
-4 ? 1.920 CP
-5 2.340 1.5
-
-6 ? 1.0
-
-7 1.850 2.185 j cP
-8 1.575
-
-9 9
-
-10 ? 1.895 | 1.650 CP
-11 1.350 | 0.750
-
-4 [2
---- page 2 ---
-Q5.a
-Q.5.b
-
-Q6.a
-
-Q.6.b
-
-Q7.a
-Q.7.b
-
-Explain characteristics of contour
-Find the volume by the prismoidal and trapezoidal formulae:
-Formation width=9m
-Side slopes=1.5:1m in cutting and 2:1 in filling
-Traverse slope=1 in 4
-The depth of cutting at the centre is 0.5m, 1.0m and 1.5m at three sections
-20m apart.
-Find the volume in the 40m length.
-The table below gives the lengths and bearings of the lines of a traverse
-ABCDE, the length and bearing of EA having been omitted. Calculate the
-length and bearing of the line EA.
-
-Line | Length (m) | Bearing
-
-AB 204.0 87°30"
-
-BC | 226.0 | 20°20’
-
-cD 187.0 | 280°0”
-
-DE 192.0 210°3’
-
-EA ? ?
-Calculate latitudes ,departure and closing errors for the following traverse and
-adjust using Transit Rule.
-
-Line Length (m) WCB
-
-AB 89.31 45°10’
-BC 219.76 72°05’
-CD 151.18 161°52”
-DE 159.10 228°43”
-EA 232.26 300°42”
-
-Explain the essential parts of the theodolite
-Explain the Accessories of the Plane Table Surveying
-
-10
-10
-
-10
-
-10
-
-10
-
-“10
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 252d9fdd5cfd
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/SURVEYING I BATCH 2013-2014 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06/2015
-- Text: ocr (3 pages), mean OCR confidence 90.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year:II Semester: III
-Academic Year: 2014-15
-Batch:2013-14
-
-Subject :Surveying - I Marks:100
-Time : 2.00pm - 5.00pm
-Date : 12/06/2015 Durations:3 (hrs
-
-Re-Examination
-
-NB:
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Ql | Answer the following Questions 20
-a | Explain reduce ievei, bench mark, line of coilimation and back side. 4
-b | Explain true meridian and whole circle bearing. 4
-c | What is the orientation in the plane table? 4
-d_ | Uses of contour map. 4
-e | Explain plane and geodetic surveying. : 4
-
-Q2 | Solve 20
-,__ | Explain procedure of setting up plane table in detain with neat sketch. 8
-b What is the temporary adjustment of prismatic compass? 6
-ce | Explain curvature correction, refraction correction, combine correction. 6
-
-Q3 Solve fe 20
-
-What are the methods of contouring? Explain squire method with neat sketch?
---- page 2 ---
-The following Consecutive reading were taken with a leveling instrument at interval of 20m
-
-2.375, 1.730, 0.615, 3.450, 2.835, 2.070, 1.835, 0.985, 0.435, 1.630, 2.255 and 3.630m. The
-
-12
-instrument was shifted after the fourth and eight readings. The last reading was taken on a
-BM of RL 110.200m. Find the RLs of all the points.
-Q4 Solve 20
-The following offsets are taken from a survey line to a curved boundary line.
-Distance (m) | 0 5 10 15 20 30 40 60 80
-a Offset(m) 2.5 3.8 4.6 5.2 6.1 47 5.8 3.9 2.2 10
-Find the area between the survey line, the curved boundary line and the first and last
-offsets.
-(1) Trapezoidal rule (2) Simpsons rule.
-The area enclosed by the contours in a lake is as follows.
-Contour (m) | 270 275 280 285 290
-b Area (m) 2050 8400 16300 24600 31500 i
-i
-Calculate the volume of water between the contours 270m and 290m by (1) trapezoidal
-formula (2) prismoidal formula.
-Q5 Solve 20
-The record of a closed traverse is given below, with two distance missing. Calculate the
-length of BC & EA.
-Line Length (m) bearing
-a AB 100.5 N3030E 10
-BC ? S45E
-CD 75 S$4030W
-DE 50.5 “S60W
-EA 2 -N4015W
-b_ | Explain repetition method of theodolite. 10
---- page 3 ---
-Q6 Solve 20
-a | What are different types of level? Explain-dumpy level with neat sketch. 10
-The following are the fore and back bearing of the sides of a closed traverse .calculate the
-interior angle of the traverse.
-Side FB BB
-u AB 150015 33015" 10
-BC 20°30" 200°30°
-CD 295°45° 115°45°
-DE 218° 38°
-EA 120°30° 300°30°
-Q7 Solve 20
-a | What are the obstacles in chaining explain in detail. 6
-b_ | Explain direct ranging and indirect ranging with neat sketch. 8
-c | What are the advantages and disadvantages of plain tabling? 6
-
-73
-````
-
 ## 2013-14 · Re-Exam · Sem 3 · paper 4cdabb5319e1
 
 - Departments: Civil
@@ -4548,70 +4605,4 @@ DE 250 +250.00 0.00
 EA 320 -154.90 -280.00
 
 Balance the traverse by Bowditch’s method
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper fe6122e50d79
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/III SEMESTER/SURVEYING I/Surveying I Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 03/12/2015
-- Text: ocr (1 page), mean OCR confidence 92.2
-
-````text
-: SVKM’s NMIMS
-Sy MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (CIVIL) Year:Il Semester: III
-Academic Year: 2015 - 16
-
-Batch:2013-14
-
-Subject : Surveying - I
-
-Date :03/12/2015
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 (one) is compulsory.
-
-2) Out of remaining questions, attempt any four (4) questions.
-3) In all 5 (Five) questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-1. a. Draw a diagram of a 30 m chain 5
-b. i. The FB ofa line is 145°30’. What is its BB? 5xXD
-ii. What is the basic difference between a prismatic compass and a surveyor’s
-compass?
-
-iii. What do you mean by departure?
-iv. What are the instruments used in plane table levelling?
-v. What is the instrument axis in a theodolite?
-
-2. a. A steel tape was exactly 30 m long at 20°C when supported throughout its length under 10
-a pull of 10 kg. A line was measured with this tape under a pull of 15 kg and at a mean
-temperature of 32°C and found to be 780 m long. The cross sectional area of the tape
-was 0.03 cm? and its total weight was 0.693 kg.a for steel is 11 x 10° per °C and E for
-steel is 2.1 x 10°kg/cm?. Compute the true length of the line. If the tape was supported
-during measurement at every 30 m and every 15 m.
-
-b. Explain the process of closed traverse compass surveying using internal angles. 10
-3. a. Write a short note on the theodolite survey 10
-b. Give an account of the various errors encountered in theodolite surveying. 10
-4. a. Howis adjustment of closing error done? 10
-b. The following readings were obtained while describing the perimeter of a triangle of 10
-
-size 15 m x 10 cm with the anchor point inside the rectangle and the tracing arm set to
-the natural scale (M=100).IR = 0.686; FR= 9.976. The zero of the counting disc passed
-
-1/2
 ````

@@ -2639,6 +2639,7 @@ interact to facilitate container management?
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Cloud Computing/QP_Cloud Computing(703IT0C003)_2024-2025_ca06eec2c0.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKMs NMIMS
@@ -3008,6 +3009,101 @@ labelled diagram in detail.
 FR DR KK
 ````
 
+## 2024-25 · Re-Exam · Sem 6 · paper d643b483a514
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Semester VI, Batch 2021-22 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 81.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B Tech Year: II Semester: VI
+Stream/s: IT .
+Subject: Cloud Computing Time: 3 hrs. (2PM to 5PM)
+Date:_10 / 05/2025 No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.’_1__~_ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+ee | Explain the concept and advantages of Service Availability Zones. [5]
+mt OE be Compare Hosted Hypervisor and Bare Metal Hypervisor with example. [5]
+nin © | c, | What are the major use cases of Hybrid Cloud Model? [5]
+ea | ad. | Discuss common pricing models used by cloud service providers. (5)
+@ Explain the architecture and working of Service Provisioning Markup 10
+C02; SO- | 2 | TV anguage (SPML) A
+6; BL-3 saint ).
+Q2 .
+CO-4;SO- | -b. | Draw and describe a unified storage system in a cloud environment. [10]
+6; BL-3
+Q3 : . F
+C0-4: $0- a Illustrate and explain Full Backup and Incremental Backup techniques [10]
+
+, “| used in cloud platforms.
+
+6; BL-3
+Q3 : Haas
+CO-3: SO- b What are key compute resource management techniques adopted in cloud [10]
+6: BL3 ‘| computing? Explain. :
+--- page 2 ---
+Q Explain the use and working of Web Content Filtering in the Security-as- [10]
+
+CO-2; SO- a... it
+6: BL-3 a-Service model.
+1 Q4
+
+CO-4; SO- b. | Describe with diagrams the two types of file systems used in hypervisors. [10]
+6; BL-3
+Qs : As , bee ‘ Arn
+
+: List and explain the important activities in the Service Termination Phase [10]
+CO-2; SO- a. ;
+
+of cloud lifecycle.
+6; BL-3
+aoe 50- b Illustrate the mapping of VLANs and VSANs in an FCoE SAN [10]
+‘ * | architecture. : :
+6; BL-3
+Q6 With neat diagrams, explain these components in an FCoE
+CO-4; SO- a. | SAN:Converged Network Adapters (CNAs), Software FCoE Adapter, [10]
+6; BL-4 FCoE Switches, Cables, and FCoE Storage Ports.
+ae Gas. loth What is the software-defined approach in cloud environments? Mention its | [10]
+6: BL-3 advantages.
+Be 4: SO- s Explain the different Categories of Cloud Service Brokers with suitable [10]
+H ‘| examples.
+6; BL-3
+Q7 F : : : t : 5 :
+What is a Virtual Appliance in cloud computing? Discuss its role and [10]
+
+CO-3; SO- [es
+é: BL-3 benefits.
+````
+
 ## 2024-25 · Re-Exam · Sem 7 · paper 9f813e806c3f
 
 - Departments: Computer Engineering, Data Science, Information Technology
@@ -3117,6 +3213,121 @@ CO-1;S0-2; | >: Explain the following virtual resources: Virtual Machine, VM Fil
 BL-5 Console, VM Template and VM Network
 
 2 of 2
+````
+
+## 2023-24 · Exam not stated · Sem 8 · paper c05a63bdc40e
+
+- Departments: Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / EXTC, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/CLOUD COMPUTING/Cloud Computing.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 86.0
+
+````text
+trlete Aoms
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+
+/ SCHOOL OF TECHNOLOGY MANAGEMENT“
+Academic Year: 2023-2024
+Program/s: MBA Tech/ B.Tech Year: [V/IT Semester: VIII/VI
+Stream/s : Information Technology/EXTC/AI and DS
+Subject: Cloud Computing _ Time: 3 hrs (2260 pm To 5200 gry.)
+Date:_29 / 04 / 2024 No. of Pages: 032
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 —_ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Answer briefly:
+
+-1; | 4% " 5 .
+= * Compare Bare Metal Hypervisor and Hosted Hypervisor (5 unique points) [05]
+oa 3 b. | Write the difference between Network Storm Control and Traffic Shaping. [05]
+co-1; | © | Illustrate the working of FCIP networking in Cloud [05]
+BL-2 .
+CO: d. | Analyze the impact of implementing firewall in a public cloud environment on network [05]
+BL-4 traffic management.
+02 a. | Explain significance of Authentication, Authorization, and Auditing and design a security
+Cou: framework for a cloud platform that integrates authentication, authorization, and auditing, | [10]
+BL-2 ensuring that the platform can resist common security threats.
+Q2 b. | Using suitable diagram explain cloud computing. Also explain the essential
+CO-1; as [10]
+BL-2 characteristics of Cloud.
+Q3 a. | Discuss a multi-layered security strategy to protect a cloud environment against Distributed [10]
+a r Denial of Service (DDoS) attacks, including preventive measures. ,
+Q3 b. ; :
+Oi: Elaborate the benefits of Cloud Computing [10]
+BL-2_
+
+4/2
+--- page 2 ---
+i
+
+‘. Be
+Q4 | a. | Using suitable diagram explain the Kubernetes cluster model and highlight the significance
+CO - 2; of each component: va
+BL-2
+
+Qa. (..
+
+co - 1;
+“BL-2
+
+Explain the concept of zoning alongwith its types in Cloud [10]
+
+Q5 a.
+
+CO -2;
+BL-4
+
+Analyze -the benefits and drawbacks of container orchestration tools like Docker. [10]
+
+Co-1;
+
+Discuss the RAID techniques? How are they used to classify various RAID levels. . [10]
+BL-2 .
+
+Q6 a.
+CO - 2;
+
+Discuss the key compute resource management techniques [10]
+BL-3 :
+
+Q6 b.
+
+CO - 2;
+
+Using suitable diagram explain the mapping considerations of VLANs and VSANs_| [10]
+BL-3 P
+
+CO.- 2; Using suitable diagram explain the role of Unified Managei in Cloud [10]
+BL-3 ;
+
+Q7 b.
+
+CO - 2;
+BL-3
+
+Explain the two types of file systems supported by hypervisors in Cloud [10]
+
+2/2
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · paper 6e5bb1bb71e7
@@ -3523,6 +3734,249 @@ hypervisor’s file system manage such files?
 FOCI GIG IG AGC IGG GIGI ICICI ICICI 3 C321 2k ok 28 ok cok kc ak oi a ok 2 ok ak ok a ak ak ok ak ak ok ok ae
 ````
 
+## 2023-24 · Re-Exam · Sem 6 · paper 2ce66659c9df
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Sem-VI, Batch 2021-22, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+
+Academic Year: 2023-2024
+Program: B TECH. Stream : IT
+
+INEERING
+
+Year: III Semester: VI
+Subject: Cloud Computing
+
+: Time: 03 hrs (.2:00 PM to 5:00 PM)
+Date: s/ 7/24
+
+No. of Pages: 03
+Marks: 100
+
+RE-Examination 2021-22
+
+Instructions: Candidates should read
+
+carefully the instructions
+of the Answer Book, which is provide
+
+printed on the question paper and on the cover
+d for their use.
+
+*» 1) Question No. _l___ is compulsory.
+| 2) Out of remaining questions, attempt any__4 questions.
+3) Inall__5_ questions to be attempted.
+| 4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+What are some key standardization efforts in cloud
+
+initiatives like OCCI, CIMI, CDMI, and CA
+vendor neutrality,
+
+computing, and how do
+MP contribute to interoperability,
+and improved management of cloud resources?
+
+What are the primary advantages of adopting cloud computing, and how do they
+contribute to enhancing business Operations, scalability, flexibility, cost-
+effectiveness, and innovation within organizations?
+Explain various RAID (Redundant Arra
+commonly employed in cloud com
+enhance data availability, reliability,
+systems.
+
+Describe the Port Binding and Fabric Bindi
+cloud computing,
+effectiveness in
+
+y of Independent Disks) techniques
+puting environments, detailing - how they
+and performance within distributed storage
+
+ng security mechanisms utilized in
+
+elucidating their respective roles, implementation methods, and
+ensuring network security and access control within cloud
+
+environments.
+
+Examine and analyze five critical factors that must be carefully considered and
+addressed during the construction of cloud infrastructure, discussing their
+significance, potential impacts, and implications on scalab
+
+ility, security,
+performance, cost management, and compliance,
+--- page 2 ---
+Q2
+
+CO- 2
+SO-6
+BL-4
+
+Compare and contrast the following:
+i) Bare Metal Hypervisor vs. Hosted Hypervisor ‘
+
+ii) Block Level vs. File Level storage systems
+
+[10]
+
+Q3
+
+CO-2
+SO- 6
+BL-4
+
+Explain the concept of the software-defined approach, outlining its key
+
+functions and benefits in resource management within a technological context.
+
+[10]
+
+Q3
+
+CO-4
+SO- 6
+BL- 3
+
+Explain third-party cloud authentication methods involving either a Key
+Distribution Center (KDC) or an identity provider, detailing their roles and
+
+processes in authenticating users and ensuring secure access to cloud services.
+
+[10]
+
+Q4
+
+CO-2
+SO- 6
+BL- 2
+
+Describe the significance of resource pooling in cloud computing. Provide
+examples to justify its importance:
+
+i) Explain how resource pooling enables the aggregation of processing power
+and memory capacity, ensuring efficient utilization across multiple users or
+applications.
+
+ii) Illustrate how resource pooling facilitates the consolidation of storage in a
+block-based storage system, allowing for flexible allocation and optimal
+utilization of storage resources.
+
+[10]
+
+Q4
+
+CO-4
+SO- 6
+BL-4
+
+Propose a service model suitable for an e-commerce startup aiming to prioritize
+its core competencies over security management. Recommend a cloud service
+model where the startup can obtain identity management, web security, and email
+
+security from the Cloud Service Provider (CSP).
+
+{10]
+
+Qs
+
+CO- 4
+SO- 6
+BL- 4
+
+Illustrate methods for implementing redundancy at the component level to
+safeguard compute and storage systems, ensuring high availability and fault
+
+tolerance.
+
+[10]
+
+Q5
+
+Cco- 4
+SO-6
+BL-5
+
+Explain the fundamental design strategies essential for ensuring application
+resiliency within cloud environments, highlighting their significance in
+
+maintaining system availability, fault tolerance, and continuous operation.
+
+[10]
+
+Q6
+
+CO- 4
+jf SO- 6
+
+BL- 6
+
+Analyze and evaluate the diverse array of cloud interface standards aimed at
+enhancing portability and interoperability among numerous cloud service
+providers, emphasizing their role in fostering seamless integration and facilitating
+
+smooth data exchange and application migration.
+
+[10]
+
+a
+--- page 3 ---
+Q6
+
+CO- 4
+SO- 6
+BL- 4
+
+Enumerate the importance of web services, and elaborate on two specific web
+services utilized in cloud computing that enable interoperability, among diverse
+
+software applications operating on various platforms.
+
+[10]
+
+Q7
+
+CO- 4
+SO- 6
+BL-3
+
+How could you compare and contrast the features, capabilities, and suitability of
+
+different Platform as a Service (PaaS) platforms mentioned in seven PaaS
+
+platforms to Build and Host Your Modern Applications" for specific application
+
+development needs and organizational requirements?
+
+[10]
+
+Q7
+
+CO- 4
+SO-6
+BL-4
+
+In crafting a virtualization strategy, how do you amalgamate the virtual layer,
+virtualization software, resource pool, and virtual resources to construct an
+
+adaptive infrastructure, optimizing resource utilization and enhancing operational
+
+efficiency within diverse IT landscapes?
+
+£10]
+````
+
 ## 2023-24 · Re-Exam · Sem 7 · paper fb231f552c6d
 
 - Departments: Computer Engineering
@@ -3766,7 +4220,7 @@ B. Design considerations on Azure Cloud
 POQL 2 of S
 ````
 
-## 2022 · Final-Exam · Sem 7 · paper d9f9f409e1b0
+## 2022-23 · Final-Exam · Sem 7 · paper d9f9f409e1b0
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -3864,6 +4318,149 @@ BL -3;
 virtual box.
 
 Jo
+````
+
+## 2022-23 · Re-Exam · Sem 6 · paper d06b4c6c3ed1
+
+- Departments: Information Technology
+- Programmes: B TECH / I T, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Sem-VI, Batch 2021-22, Re Exam_d06b4c6c3e.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 85.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B Tech/MBA Tech Stream : IT Year: III Semester: VI
+
+Subject: Cloud Computing Time: _3___ hrs @:00pm to 5:oopm)
+Date:_24 /04 /2023 . No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. ;
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly:
+
+co-1; a.
+SO- 6; Discuss the use cases of Hybrid Cloud Model [05]
+BL-2
+
+oe b. | Illustrate the common chargeback models used by cloud consumers to pay the service [05]
+
+BL-2 provider
+
+(> | CO-2; Gs . : . .
+SO-6; Differentiate between — Bare Metal Hypervisor and Hosted Hypervisor [05]
+BL-2
+co-4; | d. : a : ~~
+SO -6; What is the significance of Service Availability Zones? [05]
+BL-2
+
+Q2 a.
+
+cO-2; Draw and explain the unified storage system in brief [10]
+SO- 6;
+
+BL- 3
+
+Q2 b.
+
+cO-4; Draw and explain the working of Service Provisioning Markup Language (SPML) [10]
+SO - 6;
+
+BL-3
+
+Q3 a. | Draw and explain the two key backup methods used in Cloud [10]
+
+1/2
+--- page 2 ---
+cO-4;
+SO - 6;
+BL-3
+
+Q3 b.
+
+cO-3; Illustrate the various key compute resource management techniques [10]
+SO - 6;
+
+BL-3
+
+Q4 a.
+
+CO-2; Draw and explain the two types of file systems supported by most hypervisors [10]
+SO-6;
+
+BL-3
+
+Q4 b.
+
+CO -4; Illustrate the deployment of Web content Filtering provided in Security as Service model [10]
+SO- 6;
+
+BL-3
+
+Q5 a.
+
+so "E Draw and explain how VLANs and VSANs are mapped in an FCoE SAN ‘ [10]
+
+BL-3
+
+Q5 b.
+
+CO -4; Enlist the activities in the service termination phase of cloud lifecycle [10]
+SO - 6;
+BL-3
+
+co-1; Draw and explain the following FCoE SAN components - Converged Network Adapters [10]
+SO- 6; (CNAs), Software FCoE adapter, FCoE switches, cables, and FCoE storage ports.
+BL- 3
+
+CO - 3; Discuss the functionalities of the software defined approach alongwith its advantages [10]
+SO - 6;
+BL-3
+
+Q7 Write Short Notes on
+
+CO=1; , P e
+50-6; a Categories of Cloud Service Broker [05]
+
+BL- 2
+
+CO- 2; . . A
+SO- 6; " Virtual Appliance [05]
+
+BL-2
+
+co-3; |c. ; .
+50-6; © | Quality of Service approaches in Cloud [05]
+
+BL-2
+
+CO -4; .
+50-6; a. | Kerberos [05]
+
+BL-2
+
+2/2
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 24357f55944f
@@ -4226,487 +4823,6 @@ ea ; cloud that allows interoperation between different software applications ru
 BL- Low on a variety of platforms
 ````
 
-## 2021-22 · Re-Exam · Sem 6 · paper 2ce66659c9df
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Sem-VI, Batch 2021-22, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 92.8
-
-````text
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
-
-Academic Year: 2023-2024
-Program: B TECH. Stream : IT
-
-INEERING
-
-Year: III Semester: VI
-Subject: Cloud Computing
-
-: Time: 03 hrs (.2:00 PM to 5:00 PM)
-Date: s/ 7/24
-
-No. of Pages: 03
-Marks: 100
-
-RE-Examination 2021-22
-
-Instructions: Candidates should read
-
-carefully the instructions
-of the Answer Book, which is provide
-
-printed on the question paper and on the cover
-d for their use.
-
-*» 1) Question No. _l___ is compulsory.
-| 2) Out of remaining questions, attempt any__4 questions.
-3) Inall__5_ questions to be attempted.
-| 4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-What are some key standardization efforts in cloud
-
-initiatives like OCCI, CIMI, CDMI, and CA
-vendor neutrality,
-
-computing, and how do
-MP contribute to interoperability,
-and improved management of cloud resources?
-
-What are the primary advantages of adopting cloud computing, and how do they
-contribute to enhancing business Operations, scalability, flexibility, cost-
-effectiveness, and innovation within organizations?
-Explain various RAID (Redundant Arra
-commonly employed in cloud com
-enhance data availability, reliability,
-systems.
-
-Describe the Port Binding and Fabric Bindi
-cloud computing,
-effectiveness in
-
-y of Independent Disks) techniques
-puting environments, detailing - how they
-and performance within distributed storage
-
-ng security mechanisms utilized in
-
-elucidating their respective roles, implementation methods, and
-ensuring network security and access control within cloud
-
-environments.
-
-Examine and analyze five critical factors that must be carefully considered and
-addressed during the construction of cloud infrastructure, discussing their
-significance, potential impacts, and implications on scalab
-
-ility, security,
-performance, cost management, and compliance,
---- page 2 ---
-Q2
-
-CO- 2
-SO-6
-BL-4
-
-Compare and contrast the following:
-i) Bare Metal Hypervisor vs. Hosted Hypervisor ‘
-
-ii) Block Level vs. File Level storage systems
-
-[10]
-
-Q3
-
-CO-2
-SO- 6
-BL-4
-
-Explain the concept of the software-defined approach, outlining its key
-
-functions and benefits in resource management within a technological context.
-
-[10]
-
-Q3
-
-CO-4
-SO- 6
-BL- 3
-
-Explain third-party cloud authentication methods involving either a Key
-Distribution Center (KDC) or an identity provider, detailing their roles and
-
-processes in authenticating users and ensuring secure access to cloud services.
-
-[10]
-
-Q4
-
-CO-2
-SO- 6
-BL- 2
-
-Describe the significance of resource pooling in cloud computing. Provide
-examples to justify its importance:
-
-i) Explain how resource pooling enables the aggregation of processing power
-and memory capacity, ensuring efficient utilization across multiple users or
-applications.
-
-ii) Illustrate how resource pooling facilitates the consolidation of storage in a
-block-based storage system, allowing for flexible allocation and optimal
-utilization of storage resources.
-
-[10]
-
-Q4
-
-CO-4
-SO- 6
-BL-4
-
-Propose a service model suitable for an e-commerce startup aiming to prioritize
-its core competencies over security management. Recommend a cloud service
-model where the startup can obtain identity management, web security, and email
-
-security from the Cloud Service Provider (CSP).
-
-{10]
-
-Qs
-
-CO- 4
-SO- 6
-BL- 4
-
-Illustrate methods for implementing redundancy at the component level to
-safeguard compute and storage systems, ensuring high availability and fault
-
-tolerance.
-
-[10]
-
-Q5
-
-Cco- 4
-SO-6
-BL-5
-
-Explain the fundamental design strategies essential for ensuring application
-resiliency within cloud environments, highlighting their significance in
-
-maintaining system availability, fault tolerance, and continuous operation.
-
-[10]
-
-Q6
-
-CO- 4
-jf SO- 6
-
-BL- 6
-
-Analyze and evaluate the diverse array of cloud interface standards aimed at
-enhancing portability and interoperability among numerous cloud service
-providers, emphasizing their role in fostering seamless integration and facilitating
-
-smooth data exchange and application migration.
-
-[10]
-
-a
---- page 3 ---
-Q6
-
-CO- 4
-SO- 6
-BL- 4
-
-Enumerate the importance of web services, and elaborate on two specific web
-services utilized in cloud computing that enable interoperability, among diverse
-
-software applications operating on various platforms.
-
-[10]
-
-Q7
-
-CO- 4
-SO- 6
-BL-3
-
-How could you compare and contrast the features, capabilities, and suitability of
-
-different Platform as a Service (PaaS) platforms mentioned in seven PaaS
-
-platforms to Build and Host Your Modern Applications" for specific application
-
-development needs and organizational requirements?
-
-[10]
-
-Q7
-
-CO- 4
-SO-6
-BL-4
-
-In crafting a virtualization strategy, how do you amalgamate the virtual layer,
-virtualization software, resource pool, and virtual resources to construct an
-
-adaptive infrastructure, optimizing resource utilization and enhancing operational
-
-efficiency within diverse IT landscapes?
-
-£10]
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper d06b4c6c3ed1
-
-- Departments: Information Technology
-- Programmes: B TECH / I T, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Sem-VI, Batch 2021-22, Re Exam_d06b4c6c3e.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 85.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B Tech/MBA Tech Stream : IT Year: III Semester: VI
-
-Subject: Cloud Computing Time: _3___ hrs @:00pm to 5:oopm)
-Date:_24 /04 /2023 . No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (Batch 2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. ;
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly:
-
-co-1; a.
-SO- 6; Discuss the use cases of Hybrid Cloud Model [05]
-BL-2
-
-oe b. | Illustrate the common chargeback models used by cloud consumers to pay the service [05]
-
-BL-2 provider
-
-(> | CO-2; Gs . : . .
-SO-6; Differentiate between — Bare Metal Hypervisor and Hosted Hypervisor [05]
-BL-2
-co-4; | d. : a : ~~
-SO -6; What is the significance of Service Availability Zones? [05]
-BL-2
-
-Q2 a.
-
-cO-2; Draw and explain the unified storage system in brief [10]
-SO- 6;
-
-BL- 3
-
-Q2 b.
-
-cO-4; Draw and explain the working of Service Provisioning Markup Language (SPML) [10]
-SO - 6;
-
-BL-3
-
-Q3 a. | Draw and explain the two key backup methods used in Cloud [10]
-
-1/2
---- page 2 ---
-cO-4;
-SO - 6;
-BL-3
-
-Q3 b.
-
-cO-3; Illustrate the various key compute resource management techniques [10]
-SO - 6;
-
-BL-3
-
-Q4 a.
-
-CO-2; Draw and explain the two types of file systems supported by most hypervisors [10]
-SO-6;
-
-BL-3
-
-Q4 b.
-
-CO -4; Illustrate the deployment of Web content Filtering provided in Security as Service model [10]
-SO- 6;
-
-BL-3
-
-Q5 a.
-
-so "E Draw and explain how VLANs and VSANs are mapped in an FCoE SAN ‘ [10]
-
-BL-3
-
-Q5 b.
-
-CO -4; Enlist the activities in the service termination phase of cloud lifecycle [10]
-SO - 6;
-BL-3
-
-co-1; Draw and explain the following FCoE SAN components - Converged Network Adapters [10]
-SO- 6; (CNAs), Software FCoE adapter, FCoE switches, cables, and FCoE storage ports.
-BL- 3
-
-CO - 3; Discuss the functionalities of the software defined approach alongwith its advantages [10]
-SO - 6;
-BL-3
-
-Q7 Write Short Notes on
-
-CO=1; , P e
-50-6; a Categories of Cloud Service Broker [05]
-
-BL- 2
-
-CO- 2; . . A
-SO- 6; " Virtual Appliance [05]
-
-BL-2
-
-co-3; |c. ; .
-50-6; © | Quality of Service approaches in Cloud [05]
-
-BL-2
-
-CO -4; .
-50-6; a. | Kerberos [05]
-
-BL-2
-
-2/2
-````
-
-## 2021-22 · Re-Exam · Sem 6 · paper d643b483a514
-
-- Departments: Information Technology
-- Programmes: B TECH / I T
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/VI SEMESTER/CLOUD COMPUTING/Cloud Computing, Semester VI, Batch 2021-22 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 81.8
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Program/s: B Tech Year: II Semester: VI
-Stream/s: IT .
-Subject: Cloud Computing Time: 3 hrs. (2PM to 5PM)
-Date:_10 / 05/2025 No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No.’_1__~_ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-ee | Explain the concept and advantages of Service Availability Zones. [5]
-mt OE be Compare Hosted Hypervisor and Bare Metal Hypervisor with example. [5]
-nin © | c, | What are the major use cases of Hybrid Cloud Model? [5]
-ea | ad. | Discuss common pricing models used by cloud service providers. (5)
-@ Explain the architecture and working of Service Provisioning Markup 10
-C02; SO- | 2 | TV anguage (SPML) A
-6; BL-3 saint ).
-Q2 .
-CO-4;SO- | -b. | Draw and describe a unified storage system in a cloud environment. [10]
-6; BL-3
-Q3 : . F
-C0-4: $0- a Illustrate and explain Full Backup and Incremental Backup techniques [10]
-
-, “| used in cloud platforms.
-
-6; BL-3
-Q3 : Haas
-CO-3: SO- b What are key compute resource management techniques adopted in cloud [10]
-6: BL3 ‘| computing? Explain. :
---- page 2 ---
-Q Explain the use and working of Web Content Filtering in the Security-as- [10]
-
-CO-2; SO- a... it
-6: BL-3 a-Service model.
-1 Q4
-
-CO-4; SO- b. | Describe with diagrams the two types of file systems used in hypervisors. [10]
-6; BL-3
-Qs : As , bee ‘ Arn
-
-: List and explain the important activities in the Service Termination Phase [10]
-CO-2; SO- a. ;
-
-of cloud lifecycle.
-6; BL-3
-aoe 50- b Illustrate the mapping of VLANs and VSANs in an FCoE SAN [10]
-‘ * | architecture. : :
-6; BL-3
-Q6 With neat diagrams, explain these components in an FCoE
-CO-4; SO- a. | SAN:Converged Network Adapters (CNAs), Software FCoE Adapter, [10]
-6; BL-4 FCoE Switches, Cables, and FCoE Storage Ports.
-ae Gas. loth What is the software-defined approach in cloud environments? Mention its | [10]
-6: BL-3 advantages.
-Be 4: SO- s Explain the different Categories of Cloud Service Brokers with suitable [10]
-H ‘| examples.
-6; BL-3
-Q7 F : : : t : 5 :
-What is a Virtual Appliance in cloud computing? Discuss its role and [10]
-
-CO-3; SO- [es
-é: BL-3 benefits.
-````
-
 ## 2015-16 · Final-Exam · Sem 8 · paper 96af54f4a1ac
 
 - Departments: Information Technology
@@ -5014,119 +5130,4 @@ Q.7) a) Explain the resource optimization techniques for compute in cloud (10)
 b) What are the benefits of storage virtualization (10)
 
 ® x
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper c05a63bdc40e
-
-- Departments: Electronics and Telecommunication, Information Technology
-- Programmes: MBA TECH / EXTC, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/EXTC/VIII SEMESTER/CLOUD COMPUTING/Cloud Computing.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 86.0
-
-````text
-trlete Aoms
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-
-/ SCHOOL OF TECHNOLOGY MANAGEMENT“
-Academic Year: 2023-2024
-Program/s: MBA Tech/ B.Tech Year: [V/IT Semester: VIII/VI
-Stream/s : Information Technology/EXTC/AI and DS
-Subject: Cloud Computing _ Time: 3 hrs (2260 pm To 5200 gry.)
-Date:_29 / 04 / 2024 No. of Pages: 032
-
-Marks: 100
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 —_ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 Answer briefly:
-
--1; | 4% " 5 .
-= * Compare Bare Metal Hypervisor and Hosted Hypervisor (5 unique points) [05]
-oa 3 b. | Write the difference between Network Storm Control and Traffic Shaping. [05]
-co-1; | © | Illustrate the working of FCIP networking in Cloud [05]
-BL-2 .
-CO: d. | Analyze the impact of implementing firewall in a public cloud environment on network [05]
-BL-4 traffic management.
-02 a. | Explain significance of Authentication, Authorization, and Auditing and design a security
-Cou: framework for a cloud platform that integrates authentication, authorization, and auditing, | [10]
-BL-2 ensuring that the platform can resist common security threats.
-Q2 b. | Using suitable diagram explain cloud computing. Also explain the essential
-CO-1; as [10]
-BL-2 characteristics of Cloud.
-Q3 a. | Discuss a multi-layered security strategy to protect a cloud environment against Distributed [10]
-a r Denial of Service (DDoS) attacks, including preventive measures. ,
-Q3 b. ; :
-Oi: Elaborate the benefits of Cloud Computing [10]
-BL-2_
-
-4/2
---- page 2 ---
-i
-
-‘. Be
-Q4 | a. | Using suitable diagram explain the Kubernetes cluster model and highlight the significance
-CO - 2; of each component: va
-BL-2
-
-Qa. (..
-
-co - 1;
-“BL-2
-
-Explain the concept of zoning alongwith its types in Cloud [10]
-
-Q5 a.
-
-CO -2;
-BL-4
-
-Analyze -the benefits and drawbacks of container orchestration tools like Docker. [10]
-
-Co-1;
-
-Discuss the RAID techniques? How are they used to classify various RAID levels. . [10]
-BL-2 .
-
-Q6 a.
-CO - 2;
-
-Discuss the key compute resource management techniques [10]
-BL-3 :
-
-Q6 b.
-
-CO - 2;
-
-Using suitable diagram explain the mapping considerations of VLANs and VSANs_| [10]
-BL-3 P
-
-CO.- 2; Using suitable diagram explain the role of Unified Managei in Cloud [10]
-BL-3 ;
-
-Q7 b.
-
-CO - 2;
-BL-3
-
-Explain the two types of file systems supported by hypervisors in Cloud [10]
-
-2/2
 ````

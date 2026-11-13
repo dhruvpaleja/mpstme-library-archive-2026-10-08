@@ -1,10 +1,146 @@
 # Advance Mathematics: question papers in full
 
-8 unique papers · 2010-11 to 2012-13 · Civil, Information Technology
+8 unique papers · 2010-11 to 2014-15 · Civil, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2012-13 · Re-Exam · Trim 4 · paper 2f88fe87259d
+## 2014-15 · Re-Exam · Trim 4 · paper 42ed3b4bbc27
+
+- Departments: Civil, Information Technology
+- Programmes: MBA TECH / CIVIL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/ADVANCE MATHEMATICES/Advanced Mathematics I batch 2012-13 Re Exam0001(2).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; exam date: 12/12/2014
+- Text: ocr (2 pages), mean OCR confidence 77.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: I Trimester: IV
+
+Academic Year: 2014-15
+
+Batch:2012-13
+
+Subject : Advanced Mathematics — I Marks:50
+Time : 2.00] ori ¢ 4.1
+Date :12/12/2014 Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+a) Question No. i is compulsory.
+b) Out of remaining six questions, attempt any 4 questions. _
+c) Ali questions carry equai marks.
+d) Answer to each new question to be started on a fresh page.
+e) Figures on right indicate full marks.
+
+Q.1 (a) Verify Cayley-Hamilton theorem for the matrix (5)
+2 -1 1
+A=|-1 2 —-1| andhence find 47.
+1 -1 2
+(b) . (5)
+Using convolution theorem find c' ——; |-
+(s?+4)
+Q2 (a 12 , 5
+(a) If =|) At find 4’, 4°, A”! using Cayley-Hamilton theorem. ©)
+(b) | f-2 2 -37: (5)
+If A=| 2. 1. —6|, find a similarity transformation that
+|-1 -2 0
+diagonalises the matrix A.
+Q.3 (a) Using Laplace transforms, find the solution of (5)
+2
+ge Fa Z 4 134- 2-8(t), x(0)=2 and x(0)=0.
+(b) (5)
+
+Using Laplace transforms evaluate fe“( (1+2¢ -P ar ) H(t—Nat .
+0
+
+1/2,
+--- page 2 ---
+Q.4
+
+Q5
+
+Q.6
+
+Q.7
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+(a)
+
+(b)
+
+atic form to canonical form by orthogonal
+
+Reduce following quadr
+transformation, 3x2 +5? $32 —2yzt 22x — 2xy,
+
+1 0 50
+If A= , find A’.
+0 3
+
+t, 0<t<a
+
+Find the Laplace transform of f= and
+Qa-t,a<t<2a
+
+f(t)= f (t+2a).
+
+4-38
+Find L'| |.
+(s+4)?
+quadratic form to canonical form by congruent
+24 4x,x, + 6%; —2%3%-
+
+r
+
+Reduce following
+transformation, 3x; +2x)° +5
+
+3/2 1/2
+If A= , find e4 .
+1/2 3/2
+
+Express the following function as Heaviside unit step function and
+
+find its Laplace transform -
+
+" 0, O<t<2
+fO (t—2)’,t >2
+
+(6)
+
+(5)
+
+(5)
+
+(5)
+
+(5)
+
+(5)
+
+(5)
+
+(5)
+````
+
+## 2013-14 · Re-Exam · Trim 4 · paper 2f88fe87259d
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
@@ -109,7 +245,7 @@ X
 ofa
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 83f2f93c1186
+## 2013-14 · Re-Exam · Trim 4 · paper 83f2f93c1186
 
 - Departments: Civil, Information Technology
 - Programmes: MBA TECH / CIVIL, MBA TECH / I T
@@ -260,142 +396,6 @@ Q 6.   m   t+t
 0
 ````
 
-## 2012-13 · Re-Exam · Trim 4 · paper 42ed3b4bbc27
-
-- Departments: Civil, Information Technology
-- Programmes: MBA TECH / CIVIL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/ADVANCE MATHEMATICES/Advanced Mathematics I batch 2012-13 Re Exam0001(2).pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; exam date: 12/12/2014
-- Text: ocr (2 pages), mean OCR confidence 77.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (ALL STREAMS) Year: I Trimester: IV
-
-Academic Year: 2014-15
-
-Batch:2012-13
-
-Subject : Advanced Mathematics — I Marks:50
-Time : 2.00] ori ¢ 4.1
-Date :12/12/2014 Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-a) Question No. i is compulsory.
-b) Out of remaining six questions, attempt any 4 questions. _
-c) Ali questions carry equai marks.
-d) Answer to each new question to be started on a fresh page.
-e) Figures on right indicate full marks.
-
-Q.1 (a) Verify Cayley-Hamilton theorem for the matrix (5)
-2 -1 1
-A=|-1 2 —-1| andhence find 47.
-1 -1 2
-(b) . (5)
-Using convolution theorem find c' ——; |-
-(s?+4)
-Q2 (a 12 , 5
-(a) If =|) At find 4’, 4°, A”! using Cayley-Hamilton theorem. ©)
-(b) | f-2 2 -37: (5)
-If A=| 2. 1. —6|, find a similarity transformation that
-|-1 -2 0
-diagonalises the matrix A.
-Q.3 (a) Using Laplace transforms, find the solution of (5)
-2
-ge Fa Z 4 134- 2-8(t), x(0)=2 and x(0)=0.
-(b) (5)
-
-Using Laplace transforms evaluate fe“( (1+2¢ -P ar ) H(t—Nat .
-0
-
-1/2,
---- page 2 ---
-Q.4
-
-Q5
-
-Q.6
-
-Q.7
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-(a)
-
-(b)
-
-atic form to canonical form by orthogonal
-
-Reduce following quadr
-transformation, 3x2 +5? $32 —2yzt 22x — 2xy,
-
-1 0 50
-If A= , find A’.
-0 3
-
-t, 0<t<a
-
-Find the Laplace transform of f= and
-Qa-t,a<t<2a
-
-f(t)= f (t+2a).
-
-4-38
-Find L'| |.
-(s+4)?
-quadratic form to canonical form by congruent
-24 4x,x, + 6%; —2%3%-
-
-r
-
-Reduce following
-transformation, 3x; +2x)° +5
-
-3/2 1/2
-If A= , find e4 .
-1/2 3/2
-
-Express the following function as Heaviside unit step function and
-
-find its Laplace transform -
-
-" 0, O<t<2
-fO (t—2)’,t >2
-
-(6)
-
-(5)
-
-(5)
-
-(5)
-
-(5)
-
-(5)
-
-(5)
-
-(5)
-````
-
 ## 2011-12 · Exam not stated · Trim 4 · paper 57497c7f6e07
 
 - Departments: Civil, Information Technology
@@ -403,9 +403,9 @@ fO (t—2)’,t >2
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CIVIL/TRIM IV/ADVANCE MATHEMATICES/ADVANCED MATHEMATICS I 2011-12.pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 4/11/2011
 - Text: ocr (2 pages), mean OCR confidence 77.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
-ses ee ie sl a ON :
 SVKM’s NMIMS Va
 
 Mukesh Patel School Of Technology Management & Engingering
@@ -623,6 +623,7 @@ c) D?x +3x—2y =0,D?x+ D’y—3x+5y=0,
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/ADVANCE MATHEMATICES/advanced mathematics 2010-2011.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 29/10/2010
 - Text: ocr (2 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 sees oss
@@ -700,7 +701,6 @@ d*y
 ; ; eae As @ (e) co)
 b) Solve using Laplace transform => aS e = 421 a; (0) = 9 be Ors [5]
 
-atone + 13y = 0, PST Taam y=3 and = 7
 
 24 a2eS
 Q.5. a) Find the eigen values and eigen veds of the matrix A = F Leal | [5]

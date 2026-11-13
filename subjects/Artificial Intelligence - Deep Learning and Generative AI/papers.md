@@ -258,6 +258,7 @@ removing Cross-Attention from a Transformer-based architecture.
 - Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/ARTIFICIAL INTELLIGENT/SEM II/Artificial Intelligence - Deep Learning_7071ba3b/Artificial Intelligence - Deep Learning & Generative AI Batch 2024-25 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: ocr (3 pages), mean OCR confidence 87.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
@@ -393,7 +394,6 @@ $0-2: level architecture diagram.
 
 BL-4
 
-FIC IGGIGK Dik ack kd
 
 My
 --- page 3 ---
@@ -446,5 +446,4 @@ BL-1 4 translation and image-captioning models. Finally, discuss the impact of
 
 removing Cross-Attention from a Transformer-based architecture.
 
-FOGG iio dak kkk
 ````

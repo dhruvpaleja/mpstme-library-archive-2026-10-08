@@ -1,8 +1,69 @@
 # Fundamentals of Economics: question papers in full
 
-7 unique papers · 2021-22 to 2024-25 · Common (all branches), Computer Science and Business Systems
+7 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 2 · paper d6571b9f7f26
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/FUNDAMENTALS OF ECONOMICS/B Tech, Fundamentals of Economics, Sem-II, Batch 2022-23 & 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 July 2026
+- Text: ocr (1 page), mean OCR confidence 93.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Academic Year: 2025-26
+Program: B Tech (CSBS) :
+Year: I Semester: I]
+
+Subject: Fundamentals of Economics 7
+Time: 10.00 am to 1.00 pm (3 hrs)
+Date : 03 July 2026
+
+No. of Pages:__1
+Marks: 100
+
+Re-Exam (2022-23/2024-25)
+
+Instructions;
+1. This question paper contains 1 pages.
+
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+
+4. Q.1 is compulsory
+
+5. Out of Q.2, attempt any 4 questions
+
+6. All questions carry equal marks
+
+7. Assume suitable data if necessary
+
+Q.1) Compulsory
+1) Explain the consumer surplus.
+2) Analyse properties of indifference curves. :
+3) Evaluate national income concepts and their limitations.
+4) Evaluate monetary policy tools.
+Q. 2) Attempt any
+1) A: Analyse income and substitution effects
+B. Analyse methods of national income measurement.
+2) A. Explain consumer equilibrium using IC approach.
+B. Explain the Keynesian theory of Determination of National income.
+3) A. Critically examine elasticity of demand and its role in pricing decisions.
+B. Explain the functions of RBI.
+4) A. Explain the Law of variable proportion with the three stages.
+B. Evaluate interaction of money & goods markets.
+5) A. Analyse short-run vs long-run cost curves.
+B. Explain credit creation by banks.
+6) A. How the prices are determining under Oligopoly Market?
+B. Explain the difference between voluntary and involuntary Unemployment.
+
+FRR 7 RRR
+````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 5fafb6ee79a3
 
@@ -71,67 +132,6 @@ CO:-1&3, BL-Analyze   a. Why do companies in an oligopoly often follow price cha
 competitors?
 CO:-2&3, BL- Evaluate   b. What is the role of the central government in an economy?   10
 ********** 2 **********
-````
-
-## 2024-25 · Re-Exam · Sem 2 · paper d6571b9f7f26
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/FUNDAMENTALS OF ECONOMICS/B Tech, Fundamentals of Economics, Sem-II, Batch 2022-23 & 2024-25, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 July 2026
-- Text: ocr (1 page), mean OCR confidence 93.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Academic Year: 2025-26
-Program: B Tech (CSBS) :
-Year: I Semester: I]
-
-Subject: Fundamentals of Economics 7
-Time: 10.00 am to 1.00 pm (3 hrs)
-Date : 03 July 2026
-
-No. of Pages:__1
-Marks: 100
-
-Re-Exam (2022-23/2024-25)
-
-Instructions;
-1. This question paper contains 1 pages.
-
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-
-4. Q.1 is compulsory
-
-5. Out of Q.2, attempt any 4 questions
-
-6. All questions carry equal marks
-
-7. Assume suitable data if necessary
-
-Q.1) Compulsory
-1) Explain the consumer surplus.
-2) Analyse properties of indifference curves. :
-3) Evaluate national income concepts and their limitations.
-4) Evaluate monetary policy tools.
-Q. 2) Attempt any
-1) A: Analyse income and substitution effects
-B. Analyse methods of national income measurement.
-2) A. Explain consumer equilibrium using IC approach.
-B. Explain the Keynesian theory of Determination of National income.
-3) A. Critically examine elasticity of demand and its role in pricing decisions.
-B. Explain the functions of RBI.
-4) A. Explain the Law of variable proportion with the three stages.
-B. Evaluate interaction of money & goods markets.
-5) A. Analyse short-run vs long-run cost curves.
-B. Explain credit creation by banks.
-6) A. How the prices are determining under Oligopoly Market?
-B. Explain the difference between voluntary and involuntary Unemployment.
-
-FRR 7 RRR
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 639d5044a7f9

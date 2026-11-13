@@ -113,6 +113,7 @@ CO-4 ; BL- Describe customer responsibilities during acceptance testing (any 4).
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOFTWARE QULAITY ASSURANCE AND TESTING/B Tech, Software Quality Assurance and Testing, 4th Year, Sem-VIII, Year 2021-22,_43a987ae.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
 - Text: ocr (1 page), mean OCR confidence 89.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 .
@@ -148,7 +149,6 @@ Qu Answer briefly: [20]
 rs 30-5 a Explain McCall’s software quality factors?
 CO- ; SO- ; b. Design a Test case for “Library Management System”. Test case should be designed in the tabular
 BL- format for any one module of the system.
-CO- ; SO- ; c F 5 5 A
 BL- Differentiate between Reactive and Proactive Risk management?
 oo! SO; a What is a defect? Explain the root causes of defects?
 Q2 a. What challenges are faced by testers during SDLC? Explain in detail.
@@ -185,6 +185,7 @@ t/
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOFTWARE QULAITY ASSURANCE AND TESTING/Software Quality Assurance and Testing, Sem-VIII, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 June 2022
 - Text: ocr (1 page), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 .
@@ -217,7 +218,6 @@ Instructions: Candidates should read carefully the instructions printed on the q
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 Qi Answer briefly: (20]
-CO- ; SO-; a. ; Le yj , . a?
 BL- Define Customer’s view of quality. Explain the core components of Quality? 7
 CO- ; SO- ; b. Design a Test case for “Online Airline reservation System”. Test case should be designed in the tabular
 BL- format for any one module of the system.
@@ -1013,6 +1013,79 @@ My
 7]
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 1e60dd538142
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOFTWARE QULAITY ASSURANCE AND TESTING/SOFTWARE QUALITY ASSURANCE AND TESTING B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 13/05/2016
+- Text: ocr (1 page), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Computer) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch: 2014-15
+
+Subject: Software Quality Assurance & Testing Marks: 60
+Time: 10.0
+
+Date: 13/05/2016 Durations:
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all S questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary
+
+Q.1 a) Designa Test case for “Airline Reservation System”. Test case should be designed in the tabular [6]
+format for any one module of the system.
+
+b) Describe cultural change requirement for quality Improvement. [6]
+
+Q.2 a) Whatare the challenges faced by testers during testing the software? [6]
+
+b) Differentiate between Standards and Guidelines. [6]
+
+Q.3 a) Explain cost of quality with respect to green Money, Blue Money and Red Money. [6]
+
+b) How testing can be done during software development life cycle? Explain in detail by considering [6]
+
+“Airline Reservation System”as an example.
+Q.4 a) What is configuration management? Discuss various rights given to different users for a configuration [6]
+library.
+
+b) _ List and explain in brief the risks faced by users while implementing “Airline Reservation system”. [6]
+
+Q.5 a) Differentiate between verification and validation. Which one is more important for quality product? [6]
+
+b) Explain defect management process approach. [6]
+
+comet Q.6 a) Why Acceptance testing is done? Describe customer responsibilities during Acceptance. {6]
+b) Differentiate between alpha, beta and gamma testing. [6]
+
+Q.7 a) How'Q' type organizations are different from 'q' type? How to covert ‘g' type organization into 'Q'? [6]
+
+b) List and explain in brief TQM principles suitable for testing “Airline Reservation System”. [6]
+````
+
 ## 2015-16 · Re-Exam · Sem 2 · paper c80426186503
 
 - Departments: Computer Engineering
@@ -1293,79 +1366,6 @@ Q.6 a) Describe Gamma Testing in detail. What are the advantages and disadvantag
 b) What factors must be considered during acceptance testing? Explain with example. [6]
 Q.7 a) How severity and priority are defined in case of the failure of the system [6]
 b) What are the qualities of good testers? Explain. [6]
-````
-
-## 2014-15 · Re-Exam · Sem 8 · paper 1e60dd538142
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/COMPUTER/Sem_08/SOFTWARE QULAITY ASSURANCE AND TESTING/SOFTWARE QUALITY ASSURANCE AND TESTING B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 13/05/2016
-- Text: ocr (1 page), mean OCR confidence 92.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Computer) Year: IV Semester: VIII
-Academic Year: 2015-16
-
-Batch: 2014-15
-
-Subject: Software Quality Assurance & Testing Marks: 60
-Time: 10.0
-
-Date: 13/05/2016 Durations:
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all S questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary
-
-Q.1 a) Designa Test case for “Airline Reservation System”. Test case should be designed in the tabular [6]
-format for any one module of the system.
-
-b) Describe cultural change requirement for quality Improvement. [6]
-
-Q.2 a) Whatare the challenges faced by testers during testing the software? [6]
-
-b) Differentiate between Standards and Guidelines. [6]
-
-Q.3 a) Explain cost of quality with respect to green Money, Blue Money and Red Money. [6]
-
-b) How testing can be done during software development life cycle? Explain in detail by considering [6]
-
-“Airline Reservation System”as an example.
-Q.4 a) What is configuration management? Discuss various rights given to different users for a configuration [6]
-library.
-
-b) _ List and explain in brief the risks faced by users while implementing “Airline Reservation system”. [6]
-
-Q.5 a) Differentiate between verification and validation. Which one is more important for quality product? [6]
-
-b) Explain defect management process approach. [6]
-
-comet Q.6 a) Why Acceptance testing is done? Describe customer responsibilities during Acceptance. {6]
-b) Differentiate between alpha, beta and gamma testing. [6]
-
-Q.7 a) How'Q' type organizations are different from 'q' type? How to covert ‘g' type organization into 'Q'? [6]
-
-b) List and explain in brief TQM principles suitable for testing “Airline Reservation System”. [6]
 ````
 
 ## 2013-14 · Final-Exam · Sem 2 · paper 3ac8f1d62636

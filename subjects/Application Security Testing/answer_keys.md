@@ -457,6 +457,7 @@ implemented to prevent such vulnerabilities.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CyberSecurity_7010/Application Security Testing/ANS_Application Security Testing(702IT0E017)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: mixed (19 pages), mean OCR confidence 38.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS

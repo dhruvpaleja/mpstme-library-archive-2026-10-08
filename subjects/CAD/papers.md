@@ -271,7 +271,7 @@ d) Similarity coefficient matrix
 2/2_
 ````
 
-## 2011 · Exam not stated · Trim 12 · paper 0d10b6470664
+## 2010-11 · Exam not stated · Trim 12 · paper 0d10b6470664
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL
@@ -330,9 +330,10 @@ simulator
 - Programmes: MBA TECH / CHEMICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/CAD/2007-2008(134).pdf`
 - Text: ocr (2 pages), mean OCR confidence 43.6
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
-veh (¢ rewrcal) X- Trims Few | Maye pecs Bf AAD.
 De aK oe va) ae
 
 QG-O9.0F -
@@ -344,11 +345,8 @@ Assume Suitable sata if nee ss avy >
 NHIMS University oe JE), 2-0 =-00pH,
 
 Ad. (4) Give G4 EXO dle each a
-d) tebe ake & Du creaky Sfete wedte!
 
-ii) Qrobetei li she ad Detervanisthe ro del :
 
-(6) Explaiu tre term " Devi Stent Reescte',
 ‘2 Expler Wk SigniB cance CB)
 
 <9) (lar ic 4 Hessian Mahix .§
@@ -361,13 +359,11 @@ Het, +14 —% F pti, +2 FE sg G)
 “f HGP FA FH Gy — A MA =o --@)_
 Ao XctXgtgt Mqatla & =o ~&),
 
-AcrXg +95 Agt AZata+AHe =o —@®),
 
 2 _
 Way FHL APNG HIS =o —&)
 2. _ _—
 
-AP Ag +N 49 + F 10 =O CH)
 
 — @&)
 
@@ -378,30 +374,23 @@ s = —@
 Kit AAA at Au tang 7 =O A),
 > 4905 4 =o Cr),
 Anat 4 My + Ag Mir e ,
-Lew mary Whepe tet Varabtes com be Choter Thaw
-iy Reper Dont var albdes'
 
 if Ay 7 PaaS & Hyy form a set
 
 AlSe fine ae Choice G) Wy Az KG
 
 ay a Sch 4 i wdepe da”
-yarnates 1S Covet Tush fy OP ay emower Gott sr elite
 
 Anat $75. @o)
 QB. Ta the set 4 eirarion
 ‘ ) pe det yaricttes.
-Cui tedate precedence ovtex
 
 Q. A.@) (Nl~at is dhe Sigmificante 4. eg wees 4 free Sem Vu
-gy Design prstlon (ii) Gmulation protler. Elaberte (2)
 
 Ly) Obteny A eevecs eDan by CO) Mixer (ii) G Shall de
 ‘ Ox) Gheaw Sli ae 3 (8)
 
-4 O. 2: Aste au cpp pote Cet +
 awh Bo tre St ad ekbkean &
-for Seg penhe Selithen . 22 Lebews Go).
 
 (bed
 --- page 2 ---
@@ -409,10 +398,8 @@ for Seg penhe Selithen . 22 Lebews Go).
 =
 ~
 
-wate aon Tee couplet]
 
 OS. For a leat €x et
-Ser ae eaypah ad \ LohFy shag vers 4 fresom
 Aus En Vavialtes & Dutlhre 4 6s)
 fo)
 
@@ -425,7 +412,6 @@ Davi the ff w &
 
 [Asi St book fore Fogh F TA enh fy pear Cpream
 
-OD & te Ss egrenhe| yrekirlar cchowwe dor
 
 Sims prlahbo . (22) :
 

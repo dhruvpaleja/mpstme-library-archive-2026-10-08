@@ -158,6 +158,7 @@ obi
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/INDUSTRIAL ROBOTICS & MOTION CONTROL/Industrial Robotics & Motion Control, Sem-VII, Final Exam 2024-25.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 70.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -305,14 +306,11 @@ pt)
 
 ae abouts
 Bo “Sas ta ce off -tte sora
-2 sol ae Hers . 44 Anis of eoratien . ae
 jc 42 (Yen) d at
 tel | e aa Distance braved by the Heap
 ee dn be Serew votatlon —
 
-Eos Tec ENG eo G44 )Gemy 4
 
-+ Gl % ot) Ge My =x tet)
 “se +n coats oF. the Sore.
 --- page 6 ---
 vs
@@ -325,6 +323,7 @@ vs
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_07/INDUSTRIAL ROBOTICS & MOTION CONTROL/Industrial Robotics & Motion Control, Sem-VII, Final Exam, A Y 2023-24.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (6 pages), mean OCR confidence 72.6
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS F
@@ -474,13 +473,11 @@ TB Ott)
 
 S do! , Ton. ¢ Mass MoL of He pulley
 s About Heir anis of vor ig
-Aga) Ph OL? Vina Dartghitg censtan
 Perradle) toy Pur bearing Pow dos at thee
 Fadlsy 2 ie | bias 2 _ tet
 4 Eos [ JovaTon i] By [D.+DL)6=tR )
 SUPPORT
 
-Tact Mans Mok of the sorew aboudt
 44 Onis of avbation
 $= Car) d
 At Distance travelled by the Heap
@@ -489,7 +486,6 @@ a
 
 dn one serew Votation
 
-EoM 2 Tee )y + GCA XTGemy F
 
 + GlM, &) Yc yy = “ERtt)
 Te t Mean -rochius of tac gopew.
@@ -504,7 +500,6 @@ Cosk - Ys &
 TB Brelintd ak om angle p with @
 
 L do) + Tort My “16 6+ rE Pde d6 iS EB
-PS Trtlined at awarale 6 with Y-anis
 
 dsc (3% = )y + GCA) Vx May + My toc GU48)5 z
 i {aes (% as 8 + [Pech Fea HF Eke)

@@ -1,8 +1,386 @@
 # Financial Analysis and Working Capital Management: question papers in full
 
-18 unique papers · 2015-16 to 2023-24 · Common (all branches)
+18 unique papers · 2015-16 to 2025-26 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Exam not stated · paper 450768161da0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Management_450768161d.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 90.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-26 /
+Program/s: MBA Tech . Year: IV Semester: VII
+Stream/s ; All Streams/M EcH / civil
+
+Subject: Financial Analysis and Working Capital Management Time: 2 hrs (jo:ooeto l2nay
+Date:_24 / 1/2025 No. of Pages: 04
+Marks: 50 ,
+
+Re-Examination ( 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi. Answer briefly: "| [10]
+
+a. The following information has been extracted from the Balance Sheet of
+Neelam Ltd as on 31st March, 2025:
+
+Particulars Amount (2)
+Current Assets 9,00,000
+Inventory “ |.3,00,000 [03]
+Current Liabilities 5,00,000
+co-1;
+SO-; ’ | You are required to:
+BL , ~ | a) Calculate the Current Ratio
+Understan b) Calculate the Quick Ratio
+d c) Compute the Working Capital
+
+From the following information, compute the Net Operating Cycle of Meera
+Ltd for the year ended 31st March, 2025:
+
+Particulars Amount 103}
+Raw Material consumed during the year %72,00,000
+Average Stock of Raw Material 224,00,000
+
+| Average Credit extended to Debtors 50 days
+
+Average Credit period allowed by Suppliers 35 days
+
+Page 1 of 4
+--- page 2 ---
+Classify the following transactions into Operating, Investing, and
+
+Financing Activities as per AS-3 (Cash Flow Statement):
+
+During the financial year, Ridhi Ltd carried out the following transactions:
+1. Purchased new machinery for production.
+2. Received dividend on investments.
+3. Issued equity shares for cash.
+4. Paid rent for office premises.
+
+[04]
+
+The following information has been extracted from the financial statements of
+
+Kavya Industries Ltd for the year ended 31st March, 2025:
+
+Q2 Particulars Ane) nt
+CO- 3; SO- Sales Revenue | 30,00,000
+i. Cost of Goods Sold 21,00,000
+BL- Apply Operating Expenses : 3,00,000
+Net Profit after Tax 3,60,000 {10}
+Equity Share Capital 8,00,000
+Reserves and Surplus -4,00,000
+10% Debentures . 2,00,000
+Fixed Assets _ 12,00,000
+You are required to calculate the following ratios:
+a) Debt-Equity Ratio
+b) Gross Profit Ratio
+c) Net Profit Ratio
+d) Earnings per Share (EPS) (Assume 80,000 equity shares of =10 each)
+e) Fixed Asset Turnover ratio : ; ,
+Riya Sharma, Delhi plans to start a new trading business and provides the
+03 following information. Prepare an estimate of working capital requirements: [10]
+_ Estimated annual sales = 780 units
+CO- 2; SO- Selling price per unit = %120
+Cost price of goods purchased = 270 per unit
+
+; BL- Apply
+
+Labour = 220 per unit
+
+Overhead cost = 25 per unit
+
+Average credit period allowed by suppliers = 5 weeks
+
+Average credit period allowed to customers = 7 weeks
+
+Average stock holding in-terms of sales requirement = 10 weeks
+Delay in payment of labour and overhead cost = 3 weeks
+
+Allow 10% of computed figure for contingencies
+
+Estimated cash.and bank balance = 28,000
+
+Insurance premium on stock for next year = 76,000 (to be paid in advance this
+
+year)
+Sales and purchases are evenly spread throughout the year
+
+Page 2 of 4
+--- page 3 ---
+Prisha Ltd wishes to prepare a cash budget for the period July to September,
+when it will be mainly manufacturing for stock. As a management intern, you
+are required to prepare the cash budget for the firm.
+
+The following information is available: _
+
+Q4
+CO- 4; SO- Particulars Sales (2) Purchases (%) | Wages (2%)
+; May 28,00,000 20,00,000 | 2,80,000
+BL- Apply June 30,00,000 22,00,000 3,00,000
+July 32,00,000 24,00,000 3,20,000 :
+August 35,00,000 26,00,000 3,50,000 [10]
+September 38,00,000 28,00,000 3,80,000
+Additional Information:
+a) 25% of sales are for cash.
+b) 60% of credit sales are realized in the month following sales, and the
+remaining 40% in the second month following sales.
+c) 30% of purchases are for cash.
+d) Creditors are paid in the month following the month of F purchase.
+e) Wages are paid with a lag of 1 month.
+-f) 12% Interest on Loan of %12,00,000 is due in the month of July.
+g) Dividend of 8% on Preference Capital of %3,00,000 is receivable in
+September.
+h) Estimated Cash at Bank on 1st July = %50,000
+Qs Apex Ltd-is evaluating a proposal to liberalize its credit policy in order to [10]
+boost sales. . ;
+CO- 3; SO- .
+; At present, the company sells 60,000 units @ %80 each. The variable cost per
+BL- _{ unit is $50, while the average cost per unit is 70. The average collection
+, ' | period is 2 months, which is expected to increase to 3 months under the
+Analysis proposed policy.
+
+Currently, collection expenses amount to 25,000, which are likely to increase |
+by 230,000 if the new policy is adopted. Bad debts, presently 4% of sales, are
+expected to rise to 6%. However, sales volume is projected to increase by
+15,000 units under the new policy.
+
+The company requires a return of 12% on its investment in receivables.
+
+You are required to examine whether the new credit policy should be adopted
+
+or not. Support. your conclusion with detailed calculations and reasoning.
+
+Page 3 of 4
+--- page 4 ---
+Alpha Industries manufactures a special product “Zenith.” The following
+
+particulars were collected for the current year:
+
+Monthly demand of Zed, 2400 units
+
+Q6
+C0-2: S0-; Cost of placing an order, Rs 150
+BL- Apply Annual carrying cost per unit, Rs 20
+Normal usage, 120 units per week [10]
+Maximum usage, 150 units per week.
+Minimum usage, 90 units per week
+Reorder period, 3 to 5 weeks
+Compute from the above: .
+| (a) Reorder quantity, (b) Reorder level, (c) Minimum level,
+(d) Maximum level, and (e) Average stock level.
+Q7 Write Short Notes on:
+co- 1; SO- | a, Trade Credit [10]
+| BL-
+Understand | >- | Operating cycle
+
+Page 4 of 4
+````
+
+## 2024-25 · Re-Exam · paper 0d7465cdd5e3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis & working Capital Management, Re-exam (2022-23,2023-24).pdf` (+1 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+
+Program: MBA Tech Year: 1V Semester: VII
+
+Stream/s: All Streams
+
+Subject: Financial Analysis and Working Capital Management Time: 2 hours (10.00am to 12.00pm)
+
+Date:. 13/ 02/2025 No. of Pages: 04 pages
+
+Marks: 50
+Re-Examination (2022-23, 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [10]
+a. | Explain the purpose of Valuation Ratios [02]
+b. | Explain the significance of cash management in a business? [02]
+
+CO- 1; SO- ‘x ; a
+
+- BL- c Explain is the operating cycle, and how does it impact a company's cash flow and 02
+
+ae =m * | working capital management? [02]
+
+Understan
+
+d
+
+Classify the transactions into Operating, Investing and Financing Activities.
+1. Ina financial year company issues borrowed sum of Rs 1,00,000 from SBI.
+2. Paid salaries to employees Rs 5,000
+d, | 3. Company pays interest to SBI at 12% amounting to Rs 12,000 [04]
+4. Company spent Rs 10,000 on installation of machinery
+
+Page 1 of 4
+--- page 2 ---
+[ RST National has Gross Profit Ratio = 40%, Net Profit Ratio = 18%, Return on Equity
+Ratio = 15%, Return on Assets Ratio = 10% and Return on Capital Employed Ratio =
+10 times.
+You are working as a finance manager of CDF National and you are required compare
+its performance with its competitor and comment on its profitability based on above
+mentioned ratios.
+Liabilities Amount Assets Amount
+Equity Share Capital
+(at the rate of 10 each) 1,638,000 | Fixed Assets 3,276,000
+Q2 12% Preference Share
+CO-2; SO-; Capital 1,146,000 | Bills Receivables 214,000 | [10]
+BL- Apply 8% Debenture 985,000 | Debtors 295,000
+Creditors 212,000 | Inventory 393,000
+Bills Payable 132,000 | Prepaid Expenses 82,000
+Outstanding Expenses 147,000
+4,260,000 4,260,000
+Sales 2130000
+COGS 1491000
+Tax rate 40%
+You are supplied with the following information in respect of Ashi Ltd for the
+ensuing year:
+Cost structure is as follows:
+i. Raw material — 24
+ii. Direct wages —5
+iii. Overheads —7
+a. Production of the year - 72,000 units
+Q3 b. Finished goods in store - 2 months
+CO-2; SO-; c. Raw material in store - 1 months’ consumption [10]
+BL- Apply d. Production process - 1 month
+
+e. Credit allowed by creditors - 2 months
+f. Credit given to debtors -2 months
+
+g. Selling price per unit - Rs 40
+
+h. Cash balance available is 30,000
+
+There is a regular production and sales cycle and Wages and Overheads accrue
+evenly. Wages and Overheads are paid in the next month of accrual. Material is
+introduced in the beginning of the production cycle. You are required to
+ascertain its working capital requirement.
+
+Page 2 of 4
+--- page 3 ---
+fe Prepare a cash budget for January-March from the following information:
+The estimated sales and expenses are as follows:
+
+Particulars Nov. Dec. Jan. Feb. March
+
+Sales (Rs) 1,80,000 | 1,98,000 | 1,08,000 | 90,000 1,35,000
+
+Office and Administrative
+
+Overheads (Rs) 27,000 | 27,000} 21,600 | 21,600.} 21,600
+
+[ Selling expenses (Rs) 24,300 | 24,300 | 18,900 | 27,000 | 21,600
+Q4 Further information is given below:
+CO-4; SO-; a. 20 percent of the sales are on cash and balance on credit. 50 percent of the [10]
+BL- credit sales are collected in the month following the sales, 50 percent in the
+Analyse second month. ,
+
+b. Material is purchased one month in advance and is 50% of sales. Suppliers
+allow two months’ credit.
+
+c. The time-lag in the payment of Office and Administrative Overheads is one-
+third of a month and of Selling expenses, one month.
+
+d. Taxes Paid in the month of January Rs. 5,000.
+
+e. Interest paid on Debentures Rs 40,000 in January.
+
+f. Cash balance at the end of December is Rs 35,000.
+
+XYZ Corporation is considering relaxing its present credit policy and is in the process
+of evaluating alternative policy. The firm is required to give a return of 25 per cent on
+the investment in accounts receivable. The company’s variable costs are 70 per cent of
+the selling price. Given the following information, which is a better option?
+
+Qs Particulars Present policy Policy option I
+CO-3; SO-5 Annual credit sales Rs 50,00,000 [| Rs 60,00,000 [10]
+BL- Apply
+
+Accounts receivable turnover ratio 4 times 3 times
+
+Bad debt losses 1,50,000 3,00,000
+Q6
+oe er Answer briefly: [10]
+Analyse
+
+A company uses an item for which the following data is available:
+e Daily usage: 50 units
+e Lead time: 10 days
+a e Maximum usage: 60 units per day [6]
+e Minimum usage: 40 units per day
+e Reorder quantity: 1,000 units
+Calculate: Reorder level, Maximum level, Minimum level, and Average stock level
+
+The following financing transactions took place during the year for ABC Ltd. Prepare
+
+the cash flow from financing activities:
+1. Issued new shares and raised $500,000 in cash.
+
+2. Paid dividends of %50,000.
+
+Page 3 of 4
+--- page 4 ---
+3. Repaid a long-term loan of 200,000.
+4. Issued bonds worth %300,000.
+5. Paid interest of 30,000 on bonds.
+
+Q7
+co S0-; Write Short notes on: [10]
+Remember
+a. | Factoring [08]
+b. | Cash Credit 105}
+
+Page 4 of 4
+````
 
 ## 2023-24 · Re-Exam · paper a831f482cf7d
 
@@ -217,187 +595,454 @@ nd
 Page 4 of 4
 ````
 
-## 2023-24 · Re-Exam · paper 0d7465cdd5e3
+## 2022-23 · Exam not stated · paper a02e12baecb7
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis & working Capital Management, Re-exam (2022-23,2023-24).pdf` (+1 identical copies)
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 89.4
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 16 November 2022
+- Text: ocr (4 pages), mean OCR confidence 91.3
+
+````text
+oy
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY. MANAGEMENT & ENGINEERING /
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2022-23
+
+_ f
+
+Programme: MBA Tech (All Stream) - Year: IV ’ Semester: VII -
+
+Subject: Financial Analysis and Working Capital Management -
+Marks: 50 -
+Date: 16 November 2022 - ; Time: 2.00 pm - 4.00 pin -
+
+Durations: 2 (Hrs) -
+
+No. of Pages: olf
+
+Final Examination
+
+— Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to éach new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+= Answer briefly: ; [10]
+a.
+A company earns a profit before tax of Rs 20 million and declares a dividend of Rs 2
+CO- 3; SO-; per share. The company’s share capital consists of Rs 5 million shares of Rs.10 [03]
+BL- Apply each. The price of the share is Rs. 50 on the stock exchange. The tax rate applicable
+to the company is 30%. Calculate Dividend Payout Ratio and Dividend Yield ratio
+b. . [03]
+From the following information compute the Net Operating Cycle
+Raw Material Inventory consumed during the year Rs 6,00,000
+Average Stock of raw material Rs 50,000
+Pre =a, Cost of sales Rs 10,00,000 ,
+: Average Debtors Rs 2,50,000
+Average credit period-availed 1.5 month
+G . [04]
+Classify the transactions into Operating, Investing and Financing Activities.
+i. In a financial year company earned commission of Rs. 10,000.
+CO-1;S0-; > ii. Interest received on bonds of XYZ company Rs. 40,000
+BL- iii. | Company decided to buy back shares to increase proportionate holding of
+Understand promoters .
+
+iv. Company receives Rs. 80,000 from debtors during financial year 2022-23.
+
+Page 1 of 4
+--- page 2 ---
+Q2 MJK Ltd.’s financial information is provided below: [10]
+
+CO-3; SO-;
+BL- Analyse Excerpt from the Balance Sheet Excerpt from the Profit Statement
+
+2021 2022 2022
+
+Cash 2,00,000 1,60,000 Sales 40,00,000
+
+Sundry
+
+Debtors 3,20,000   4,00,000 (COGS) 28,00,000
+
+Receivables 2,00,000 3,20,000 . (Interest) 1,60,000
+
+Inventory 18,40,000 21,60,000 EBT 10,40,000
+
+Prepaid ,
+
+Expenses 28,000 12,000 (Taxes @50%) 5,20,000
+
+Total
+
+Current
+
+Assets 25,88,000 30,52,000 PAT 5,20,000
+
+Total -
+
+Assets 56,00,000 64,00,000
+
+Current
+
+liabilities 6,40,000 = 8,00,000
+
+Long term
+
+borrowings 16,00,000 16,00,000
+
+Share
+
+Capital 20,00,000 20,00,000
+
+Retained
+
+earnings 4,68,000 8,12,000
+
+As the sales manager of a prominent international company that supplies a unique
+raw material, you have received an inquiry from MJK Ltd to purchase your
+products. Compute NP Margin, ROCE, Debt Equity, Interest Coverage Ratios
+Competing Firms have the following averages:
+
+Interest
+
+Coverage 5 times
+Debt to equity 0.7:1
+Net profit
+
+margin 10%
+ROCE 20%
+
+Using financial ratios, analyze MJK Ltd.’s creditworthiness as a long-term
+customer. Elaborate on your decision.
+
+Page 2 of 4
+--- page 3 ---
+8 [10]
+
+Zomex Ltd. provides the following budget figure for the next year :
+
+hear Budgeted Production 1,56,000 Units per annum
+7 Element of Cost
+
+~ Raw Material Rs. 30 per unit
+Labour Rs. 12.5 per unit
+Overheads Rs. 7.5 per unit
+Total Cost Rs. 50 per unit
+Selling Expenses Rs. 5 per unit
+Cost of Sales Rs. 55 per unit
+Profit Rs. 25 per unit
+Selling Price Rs. 80 per unit
+
+Raw material is in stock, on average for 4 weeks.
+
+Materials are in process, on average for 2 weeks.
+
+Finished goods are in stock, on average for 4 weeks.
+
+oo : Credit allowed by suppliers of raw material is 4 weeks.
+
+Credit allowed to customers is 8 weeks.
+
+Lag in payment of wages one and half week.
+
+Lag in payment of overheads is 1 week.
+
+It is necessary to hold cash of Rs. 50,000.
+
+It may be noted that production is carried on evenly during the year and wages and
+overheads accrue similarly. Prepare a statement showing working capital
+requirement using Cash Cost Approach. Add 10% to your computed figure for
+contingencies.
+
+From the following forecast of income and expenditure, prepare a cash budget for
+
+oa (10)
+the months January to March.
+
+CO-4; SO-; . F "
+
+BL- Apply Month   |Credit Sales Gieale _ Wages Manufacturing
+Purchases Expenses
+
+November 30,000 15,000 3,000 1,150
+
+December 35,000 20,000 3,200 1,225
+
+en January 25,000 15,000 2,500 990
+
+February 30,000 20,000 3,000. 1,050
+
+March 35,000 22,500 2,400 1,100
+
+Additional! information is as follows: |
+
+a) 70% of the credit sales are collected in the month following the sales, 30 % in
+the second month.
+
+b) Capital expenditure to be incurred: Plant purchased on 15th January for Rs.
+10,000 and the payments are to be made in monthly installments of Rs. 2,500
+each.
+
+c) The creditors are allowing a credit of 2 months.
+
+d) Wages are paid on the 1st on the next month.
+
+e) Lag in payment of manufacturing expenses is one month.
+
+f) Balance of cash in hand on 1st January is Rs. 15,000.
+
+Page 3 of 4
+--- page 4 ---
+A firm is currently selling a product @ Rs 20 per unit. The most recent annual sales
+
+Q5 were 50,000 units. The variable cost per unit is Rs 12 and the average cost per unit, | [10]
+CO-3;SO-; given a sales volume of 50,000 units, is Rs 16. The average collection period may be
+BL- Analyse assumed to be 30 days.
+Assume that the firm is contemplating allowing 2 per cent discount for payment
+within 10 days after a credit purchase. If discounts are offered, sales will increase by
+15 per cent, and the average collection period will drop to 15 days. Assume bad debt
+expenses will not be affected; the return on investment expected by the firm is 15
+per cent; 70 per cent of the total sales will be on discount. Examine the new credit
+policy and suggest whether new policy shall be put in place or not? Justify your
+reason with working.
+Justify your reason with working. (Assume 360 days in a year)
+Explain the consequences of a credit policy that is too strict?
+Two components P and Q used in manufacture of “R” are as follows: 1061
+Q6 Normal Usage 900 units per week each
+0-2; $O-; Maximum Usage 1350 units per week each
+BL- Apply Minimum Usage 450 units per week each
+Re-order Quantity : P - 7,200 units; Q - 10,800 units
+Re-order period P — 4 to 6 weeks; Q—2 to 4 weeks
+Calculate for each component:
+a) Re-order level
+b) Minimum stock level
+c) Maximum stock level
+0-1; S05
+BL- Write down the usefulness of Cash flow statement {04]
+Understand
+Q7 Write Short Notes on the following Sources of Working Capital Financing
+i SO-; i. Bill Discounting [10]
+Understand
+
+ii. Commercial Paper
+
+Page 4 of 4
+
+“—~
+````
+
+## 2022-23 · Exam not stated · paper 368c8130bdcd
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Mgmt.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/6/23
+- Text: ocr (5 pages), mean OCR confidence 93.2
 
 ````text
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2022-2023
 
-Academic Year: 2024-2025
-
-Program: MBA Tech Year: 1V Semester: VII
-
-Stream/s: All Streams
-
-Subject: Financial Analysis and Working Capital Management Time: 2 hours (10.00am to 12.00pm)
-
-Date:. 13/ 02/2025 No. of Pages: 04 pages
+Program: MBA Tech Stream : All Streams Year: IV 4.” Semester: VII
+Subject: Financial Analysis and Working Capital Management Time: 2 hrs (Hs 0pamto 4 $00pn-)
+Date: 12/6/23 No. of Pages: 05
 
 Marks: 50
-Re-Examination (2022-23, 2023-24)
+
+Special Re- Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
+1) Question No. 1___ is compulsory.
+2) Out of remaining questions, attempt any __4__ questions.
+-~ 3)Inall__5_ questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right-hand side indicate full marks.
+6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql Answer briefly: [10]
-a. | Explain the purpose of Valuation Ratios [02]
-b. | Explain the significance of cash management in a business? [02]
+Ql
 
-CO- 1; SO- ‘x ; a
+Answer briefly: [10]
+CO- 3: a. ABC Company has net sales Rs 5,00,000. COGS is Rs 3,00,000.
+SO- ; Operating Expenses is Rs 1,13,000.
+BL- What is its GP margin and Operating ratio aa
+Apply
+{03}
+b. From the following information compute the Net Operating Cycle .
+M |0O?: Raw Material Inventory consumed during the year Rs 85,00,000
+“ Average Stock of raw material Rs 29,00,000
+Average Credit extended to Debtors is 60 days
+Apply
+Average Credit period extended by Suppliers is 40 days
+CO-1; Classify the transactions into Operating, Investing and Financing Activities. [04]
+SO-; G In a financial year company purchased an equipment.
+BL- Company received Interest on Bonds
+Understan Company decided to repay loan
+d Company Paid Salary to its employees
 
-- BL- c Explain is the operating cycle, and how does it impact a company's cash flow and 02
+Page 1 of 5
+--- page 2 ---
+Q2
 
-ae =m * | working capital management? [02]
+CO-3; SO- [10]
 
+3 In the FY 2022-23 , Jiny Ltd has recorded a Total Sale of Rs 55,00,000.
+
+i Following information are available for Jiny Ltd along with various ratio relevant to
+the particular industry it belongs to. Compare ratios of Jiny Ltd with the given
+
+industry norms and give your comments about strengths and weakness of Jiny Ltd
+
+Balance Sheet of Jiny Ltd as on 31st March 2023
+
+Sources of Funds Rs
+Equity Share Capital 22,00,000
+Reserves & Surplus 2,00,000
+10% Debenture 4,60,000
+Current Liabilities
+
+Sundry Creditors 3,30,000
+Bills Payable 4,40,000
+Other Current Liabilities 2,20,000
+Total Capital Employed 38,50,000
+Application of Funds Rs
+Fixed Assets 12,10,000
+Current Assets
+
+Cash 4,40,000
+Sundry Debtors 5,50,000
+Stock 16,50,000
+Total Assets 38,50,000
+Ratios Industry Norms
+
+Current Ratio 3.5%1
+
+Long Term Debt to Equity 0.15:1
+
+Receivables Turnover 15 times
+
+Page 2 of 5
+--- page 3 ---
+Q3
+
+CO-3; SO-;
+BL- A Firm is contemplating to have lenient collection policy. At present the firm is
+Analyse selling 50,000 units @ Rs 60 each. The variable cost is Rs 20 per unit while the
+average cost is Rs 50 per unit. Average collection period is 1.5 months which can
+increase to 2 months if new policy is followed. Currently the collection expenses are
+Rs 15,000 which may go up by Rs 20000. Bad debts which are now at 5% of sales will eal
+increase to 7% of Sales, however the sales volume is likely to increase by 10,000
+units should the new policy be followed. If the Required return of the company is
+10%, Examine the new credit policy and suggest whether new policy shall be put in
+place or not? Justify your reason with working.
+Azmi Ltd. provides the following budget figure for the next year:
+Qt Budgeted Production 24,000 Units per annum
+CO-2; SO- [10]
+; BL- Element of Cost Rs per unit
+Apply Raw Material Rs50
+Labour Rs 30
+Overheads Rs 20
+
+Selling Price Rs. 200 per unit
+
+Raw material is in stock on average for 3 months
+
+Materials are in process, on average for 1 month.
+
+Finished goods are in stock, on average 2 months.
+
+Credit allowed by suppliers of raw material is 1 month.
+
+Credit allowed to customers is 1.5 months.
+
+Lag in payment of wages 1/2 month.
+
+Lag in payment of overheads is 1 month.
+
+It is necessary to hold cash of Rs. 50,000.
+
+It may be noted that production is carried on evenly during the year. Material cost is
+incurred in full while and wages and overheads are estimated to incur 50% of the
+cost each.
+
+Prepare a statement showing working capital requirement
+
+Page 3 of 5
+--- page 4 ---
+Saurashtra Co. Ltd. wishes to arrange overdraft facilities with its bankers from the
+
+Q5 period August to October 2023 when it will be manufacturing mostly for stock.
+nh Prepare a cash budget for the above period from the following data given below:
+Manufacturing
+expenses Other expenses
+Month Sales (Rs) | Purchases (Rs) | ( Rs) (Rs )
+June 1,80,000 1,24,800 3,000 16,000
+July 1,92,000 1,44,000 4,000 19,000
+August 1,08,000 2,43,000 3,000 28,000
+September 1,74,000 2,46,000 4,500 19,000 [10]
+October 1,26,000 2,68,000 5,000 21,500
+Additional Information:
+(a) Cash on hand 1-08-2023 Rs 50,000.
+(b) 50% of sales are for cash and the remaining 50% is collected in the following
+month
+(c ) Creditors extend 2 months credit after materials purchased.
+(d ) Lag in payment of manufacturing expenses half month.
+(e) Lag in payment of other expenses one month.
+Q6 a.
+
+r A manufacturer buys certain equipment form suppliers at Rs. 30 per unit. Total
+aie annual needs are 800 units. The following further data are available: [06]
+BL- Apply
+
+Annual return on investments 10%
+
+Rent, insurance, storing per unit per year Rs. 1
+
+Cost of placing an order Rs. 100
+
+Required:
+
+Calculate the economic order quantity of raw materials.
+Advice the number of orders to be placed in a year
+What would be the sum of Ordering and Carrying costs.
+
+Page 4 of 5
+--- page 5 ---
+CO-1; SO-;
+
+a Explain the various Cash Flow under Financing Activities [04]
 Understan
 
 d
 
-Classify the transactions into Operating, Investing and Financing Activities.
-1. Ina financial year company issues borrowed sum of Rs 1,00,000 from SBI.
-2. Paid salaries to employees Rs 5,000
-d, | 3. Company pays interest to SBI at 12% amounting to Rs 12,000 [04]
-4. Company spent Rs 10,000 on installation of machinery
+Q7 Write Short Notes on the following Sources of Working Capital Financing
 
-Page 1 of 4
---- page 2 ---
-[ RST National has Gross Profit Ratio = 40%, Net Profit Ratio = 18%, Return on Equity
-Ratio = 15%, Return on Assets Ratio = 10% and Return on Capital Employed Ratio =
-10 times.
-You are working as a finance manager of CDF National and you are required compare
-its performance with its competitor and comment on its profitability based on above
-mentioned ratios.
-Liabilities Amount Assets Amount
-Equity Share Capital
-(at the rate of 10 each) 1,638,000 | Fixed Assets 3,276,000
-Q2 12% Preference Share
-CO-2; SO-; Capital 1,146,000 | Bills Receivables 214,000 | [10]
-BL- Apply 8% Debenture 985,000 | Debtors 295,000
-Creditors 212,000 | Inventory 393,000
-Bills Payable 132,000 | Prepaid Expenses 82,000
-Outstanding Expenses 147,000
-4,260,000 4,260,000
-Sales 2130000
-COGS 1491000
-Tax rate 40%
-You are supplied with the following information in respect of Ashi Ltd for the
-ensuing year:
-Cost structure is as follows:
-i. Raw material — 24
-ii. Direct wages —5
-iii. Overheads —7
-a. Production of the year - 72,000 units
-Q3 b. Finished goods in store - 2 months
-CO-2; SO-; c. Raw material in store - 1 months’ consumption [10]
-BL- Apply d. Production process - 1 month
+CO-1; SO-; i. Commercial Paper
 
-e. Credit allowed by creditors - 2 months
-f. Credit given to debtors -2 months
+BL- ii. Factoring [10]
+Understan
 
-g. Selling price per unit - Rs 40
+d
 
-h. Cash balance available is 30,000
-
-There is a regular production and sales cycle and Wages and Overheads accrue
-evenly. Wages and Overheads are paid in the next month of accrual. Material is
-introduced in the beginning of the production cycle. You are required to
-ascertain its working capital requirement.
-
-Page 2 of 4
---- page 3 ---
-fe Prepare a cash budget for January-March from the following information:
-The estimated sales and expenses are as follows:
-
-Particulars Nov. Dec. Jan. Feb. March
-
-Sales (Rs) 1,80,000 | 1,98,000 | 1,08,000 | 90,000 1,35,000
-
-Office and Administrative
-
-Overheads (Rs) 27,000 | 27,000} 21,600 | 21,600.} 21,600
-
-[ Selling expenses (Rs) 24,300 | 24,300 | 18,900 | 27,000 | 21,600
-Q4 Further information is given below:
-CO-4; SO-; a. 20 percent of the sales are on cash and balance on credit. 50 percent of the [10]
-BL- credit sales are collected in the month following the sales, 50 percent in the
-Analyse second month. ,
-
-b. Material is purchased one month in advance and is 50% of sales. Suppliers
-allow two months’ credit.
-
-c. The time-lag in the payment of Office and Administrative Overheads is one-
-third of a month and of Selling expenses, one month.
-
-d. Taxes Paid in the month of January Rs. 5,000.
-
-e. Interest paid on Debentures Rs 40,000 in January.
-
-f. Cash balance at the end of December is Rs 35,000.
-
-XYZ Corporation is considering relaxing its present credit policy and is in the process
-of evaluating alternative policy. The firm is required to give a return of 25 per cent on
-the investment in accounts receivable. The company’s variable costs are 70 per cent of
-the selling price. Given the following information, which is a better option?
-
-Qs Particulars Present policy Policy option I
-CO-3; SO-5 Annual credit sales Rs 50,00,000 [| Rs 60,00,000 [10]
-BL- Apply
-
-Accounts receivable turnover ratio 4 times 3 times
-
-Bad debt losses 1,50,000 3,00,000
-Q6
-oe er Answer briefly: [10]
-Analyse
-
-A company uses an item for which the following data is available:
-e Daily usage: 50 units
-e Lead time: 10 days
-a e Maximum usage: 60 units per day [6]
-e Minimum usage: 40 units per day
-e Reorder quantity: 1,000 units
-Calculate: Reorder level, Maximum level, Minimum level, and Average stock level
-
-The following financing transactions took place during the year for ABC Ltd. Prepare
-
-the cash flow from financing activities:
-1. Issued new shares and raised $500,000 in cash.
-
-2. Paid dividends of %50,000.
-
-Page 3 of 4
---- page 4 ---
-3. Repaid a long-term loan of 200,000.
-4. Issued bonds worth %300,000.
-5. Paid interest of 30,000 on bonds.
-
-Q7
-co S0-; Write Short notes on: [10]
-Remember
-a. | Factoring [08]
-b. | Cash Credit 105}
-
-Page 4 of 4
+Page 5 of 5
 ````
 
 ## 2022-23 · Re-Exam · paper 3c566f357a0b
@@ -820,6 +1465,249 @@ b. Factoring. (7 Marks)
 14
 ````
 
+## 2019-20 · Re-Exam · paper 8954760f05ed
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis & working ....Re-exam 16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 11 November 2019
+- Text: ocr (4 pages), mean OCR confidence 92.9
+
+````text
+Se
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All Stream) Year: IV Semester: VII
+
+Academic Year: 2019-20
+Subject: Financial Analysis and Working Capital Management
+cv Marks: 60
+Date: 11 November 2019 Time: 2.00 pm - 4.00pm
+a Durations: 2 (Hrs) “
+No. of Pages: ~
+Re-Examination (2016-17/ 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. ;
+2) Out of remaining questions, attempt any 4 questions.
+* 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume suitable data if necessary. a
+
+Q.1. Short answer questions: (3 x 04 = 12 Marks)
+a. Calculate Return on Equity Ratio from the following information:
+
+1000 Equity shares @ of Rs.10 each Rs. 10,000
+
+2000, 5% preference share @ of Rs. 10 each Rs. 20,000
+
+Reserves Rs. 5,000 .
+
+Net profit before interest and Tax Rs. 10,000
+
+Interest ‘Rs. 2,000
+
+Taxes Rs. 3,000
+
+b. Find out the economic ordering quantity (EOQ) from the following particulars.
+Annual usage: 12,000 units
+Cost of material per unit Rs. 40
+Cost of Placing and receiving one order: Rs.60
+Annual carrying cost of one unit: 10% of inventory value.
+
+c. From the following information extracted from the books of a company, compute the
+operating cycle in days.
+
+Period Covered 360 days
+Average period of credit allowed by suppliers 20 days
+Average total of debtors outstanding Rs. 24,000
+
+Page 1lof4
+--- page 2 ---
+Raw Material Consumption Rs. 2,20,000
+
+Total Production cost Rs. 5,00,000
+
+Total Cost of Sales Rs. 5,25,000
+
+Sales for the year Rs. 8,00,000
+
+Value of Average stock maintained: ;
+
+Raw Materials Rs.16,000
+
+Work-in-Progress Rs17,500
+
+Finished Goods Rs.13,000
+Q.2. With the help of the following ratios regarding Indu Ltd., Prepare a balance sheet of the
+company for the year ended 31“ March 2019 (12 Marks)
+
+Current Ratio Ded
+
+Liquidity Ratio 1)
+
+Net Working Capital 6,00,000
+
+Stock Turnover Ratio 6 times
+
+Gross Profit Ratio 20%
+
+Fixed Asset Turnover Ratio 2 times
+
+Debt Collection period 2 Months
+
+Fixed Assets to Shareholders fund 0.80
+Reserve & Surplus to Share Capital 1:2
+
+Debt Equity Ratio 1:5
+
+Cash at Bank at the end the year was Rs. 1,00,000.
+
+Q. 3. You are supplied with the following information in respect of XYZ Ltd for the ensuing
+year: 8 (12 Marks)
+a. The cost structure is as follows:
+i. Raw material — 50% of the selling price
+
+ii. Direct wages — 10% of the selling price
+
+iii. | Manufacturing overheads — 16% of the selling price a
+
+iv. Selling overheads — 4% of the selling price
+
+v. Production of the year — 1,44,000 units
+
+b. Finished goods in-store - 3 months
+
+c. Raw material in store - 2 months’ consumption
+d. Production process - | month
+
+e. Credit allowed by creditors - 2 months
+
+f. Credit is given to debtors -3 months
+
+g. Selling price per unit - Rs 50
+
+There is a regular production and sales cycle and wages overheads accrue evenly. Wages are
+
+paid in the next month of accrual. Material is introduced at the beginning of the production cycle.
+You are required to ascertain its working capital requirement.
+
+Page 2 of 4
+--- page 3 ---
+Q.4, Prepare a Cash-Budget of a company for April, May and June 2019 using the following
+
+information: (12 Marks)
+Month Sales Purchases Wages
+January 160000 90000 40000
+February 160000 80000 36000
+March 150000 84000 44000
+April 180000 100000 48000
+May 170000 90000 40000
+June 160000 70000 36000
+
+You are further informed that:
+
+(a) 10% of the purchases and 20% of the sales are for cash
+
+(b) The average collection period of the company is 2 month and the credit purchases are
+paid off regularly after one month
+
+(c) Wages are paid half monthly.
+
+(d) Payment of installment of Machinery purchased is due in June Rs. 6,000.
+
+(e) Cash and Bank Balance as of April were Rs. 30,000 and the company wants to keep it at
+the end of every month approximately this figure, the excess cash being put it fixed
+deposits in the bank.
+
+Q.5. Prepare cash flow statement from the following balance sheet of NM Engineering Ltd for
+
+the year 31/12/2019: (12 Marks)
+Particulars 31/12/2018 | 31/12/2019
+Equity and Liabilities:
+Share Capital 17,00,000 | _18,35,000
+Reserves 40,000 83,700
+Profit and Loss Appropriation 1,00,000 1,30,000
+Alc ape
+Provision for Dividends 70,000 50,000
+Creditors 1,00,000 95,000
+Bank overdraft 8,000 18,000
+Bills payable 14,000 13,000-|
+Mortgage loan 10,000 70,000
+Total 20,42,000 | 22,94,700
+Assets: a
+Building 8,00,000 | _10,00,000
+a Plant & Machinery 2,50,000 | _3,70,000
+Furniture 5,000 6,000 |
+Goodwill 3,00,000 3,43,700
+Cash 2,000 2,200 |
+Inventories 4,00,000 3,43,700
+Debtors 1,00,000 45,000 |
+Bills Receivables 8,000 9,000 |
+Page 3 of 4
+--- page 4 ---
+Investment 1,64,000 1,70,000
+
+Prepaid Expenses 3,000 3,100
+
+Preliminary Expenses 10,000 2,000
+
+Total 20,42,000 | 22,94,700. |:
+Adjustments:
+
+1. Depreciation is charged on buildings at 3% of cost Rs.9,00,000. On Plant and Machinery
+at 8% of cost Rs.4,00,000. On Furniture at 5% of cost Rs.8,000.
+2.. The investment was purchased and interest received Rs.3,000.was used in writing down
+
+the book value of investments.
+3. The declared dividend for 2018 was paid and the interim dividend of Rs.20,000 was paid
+
+out of Profit and Loss Appropriation A/c
+
+Q.6. (2*06=12 Marks)
+
+a. A trader whose current sales in the region are of Rs.6,00,000 per:annum and an average
+
+collection period of 30day wants to pursue a more liberal policy to improve sales. A study made
+_ by a management consultant reveals the following information:
+
+Credit Policy | Increase in the Increase in Default cost
+collection period | sales (Rs.) anticipated
+A 30 days 48,000 2%.
+
+The selling price per unit is Rs.3. The variable cost per unit is Rs.2. The current bad debt loss is
+1%. The required return on additional investment is 20%. Assume 360 days in a year. Which of
+the above policies would you recommend and why? :
+
+b. Calculate the minimum stock level, maximum stock level, re-ordering level and average stock
+level from the following information:
+
+(i) Minimum consumption = 200 units per day
+
+(ii) Maximum consumption = 300 units per day
+
+(iii) Normal consumption = 240 units per day
+
+(iv) Re-order period = 10-15 days
+
+(v) Re-order quantity = 3,000 units
+
+(vi) Normal re-order period = 12 days
+
+Q.7. Write Notes On: (3 x 04 = 12 Marks)
+a. Trade Credit |
+b. Commercial Paper
+c. Factoring
+
+Page 40f 4
+````
+
 ## 2018-19 · Final-Exam · paper 33ed2d9ba4e0
 
 - Departments: Common (all branches)
@@ -1033,6 +1921,235 @@ Additional information:
 Q.7. Write short notes on: (07x 2=14)
 a. Commercial Papers
 b. Trade Credit
+
+Page 4 of 4
+````
+
+## 2018-19 · Re-Exam · paper bf2da1bea2b0
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and working capital Re-exam 16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 January 2019
+- Text: ocr (4 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (All Streams) : Year: IV Semester : VII
+Academic Year: 2018-2019
+
+Subject: Financial Analysis and Working Capital Management Marks: 60
+, Time: 2.00 pm to 4.00 pm
+Durations:2 (hrs) -
+
+No. of Pages:_ Lf _
+
+Re-examination (2016-17/2017-18)
+
+Date: 18 January 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+
+Qu. : (3 x 04 = 12 Marks)
+a. Given that Earnings per share = Rs.50; Dividend Payout ratio = 40%; Dividend Yield
+=3.2%. What is the market Price of the equity share?
+
+b. A firm’s inventory planning period is one year. Its inventory requirement for this period
+is 1,600 units. Assume that its acquisition costs Rs.50 per order. The carrying costs are
+expected to be Re. | per unit per year.
+
+The firm can procure inventories in various lots as follows:
+a) 1,600 units b) 800 units c) 400 units d) 200 units
+Which of these order quantities are economic order quantities?
+
+ce. From the following information extracted from the books of a company, compute the
+operating cycle in days.
+Particulars : Amounts
+Period Covered 360 days
+
+Page 1 of 4
+--- page 2 ---
+Average period of Credit allowed by suppliers 30 days
+
+Average debtors outstanding 9,600
+Raw material consupmtion during the year 88,000
+Total Production Cost 2,00,000
+Total Cost of Sales 2,10,000
+Sales for the year 3,20,000
+Value of Average Stock Maintained:
+
+Raw material 6,400
+Work in Progress inventory 7,000
+Finished Goods 5,200
+
+Q.2. From the following particulars prepare the balance sheet of Mohan and Co. for the year
+ended 31% March 2018 (12 Marks)
+
+Current Ratio 2:1
+
+Working Capital 4,00,000
+
+Capital Block to Current Assets 3:2
+
+Fixed Asset to Turnover 1:3
+
+Sales Cash/Credit 1:2
+
+Stock Velocity 2 Months
+
+Creditors Velocity 2 months
+
+Debtors Velocity 3 months
+
+Capital Block: Net profit 10% of Turnover
+Reserve 2.5% of Turnover
+Debentures/Share Capital 1:2
+
+Gross profit Ratio 25%,
+
+Cash at the end of the year is Rs.1,00,000 and Provision for foes during the year is Rs.1,00,000.
+
+Q.3. The following annual figures relates to XYZ co. for the year March 2018. (12 Marks)
+Sales (at two months credit) 18,00,000
+
+Materials consumed (supplier extend two months credit) | 4,50,000
+
+Wages paid (monthly in arrear) 3,60,000
+
+Manufacturing expenses outstanding at the end of the 40,000/month
+
+year
+
+(cash expenses are paid one month in arrear)
+
+Total Administrative expenses paid as above 1,20,000
+
+Sales Promotion expenses, paid quarterly in advance 60,000
+
+The company sells its products on gross profit of 25% counting depreciation as part of the cost of
+production. It keeps one months’ stock each of raw materials and finished goods and cash
+
+balance of Rs. 50,000.
+
+Assuming 20% safety margin, work out the working capital requirements of the company on
+cash cost basis. Ignore Work in process.
+
+Page 2 of 4
+--- page 3 ---
+Q.4. A company expects to have Rs. 56,250 cash in hand on 1“ April 2017 and requires
+estimate of cash position during three months, April to June 2017. The following information is supplied
+
+(12 Marks)
+
+to you.
+
+Months Sales | Purchases | Wages | Factory Expenses | Office Expenses | Selling Expenses
+
+February | 1,12,500 67,500 | 13,500 11,250 9,000 6,750
+March 1,26,000 72,000 | 14,625 12,375 9,000 6,750
+April 1,35,000 78,750 | 15,750 13,500 9,000 7,875
+May 1,80,0Q0 90,000 | 20,250 16,875 9,000 9,855
+June 2,02,500 | - 90,000 | 21,375 21,000 9,000 10,500
+
+Other information:
+1. Period of credit allowed by suppliers is 2 months.
+2. 20% of sales is for cash and period of credit allowed to customers for credit sales is one month.
+
+3. Delay in payment of all expenses — 1 month.
+4, Income tax of Rs. 86,250 is due to be paid on June 15, 2017.
+5. Plant has been ordered to be received and paid in May 2017; it will cost Rs. 80,000.
+
+Q.5. From the following information, prepare Cash Flow Statement for “X” Ltd. (12 Marks)
+Particulars 31st March 2018 | 31st March 2017
+I. Equity and Liabilities
+1. Shareholders’ Funds
+
+a. Equity Share Capital 3,50,000 2,50,000
+b. Surplus in P&L Account 1,75,000 _ 1,00,000.
+2. Non-Current liabilities
+
+Long term borrowings: Bank Loan 25,000 50,000
+3. Current Liabilities
+
+a. Trade Payables _ 22,500 25000
+b. Outstanding rent 3,500 2,500
+c. Proposed Dividend 35,000 25,000
+d. Provision for Taxation 25,000 15,000
+Total 6,36,000 4,67,500
+II. Assets
+
+1. Non- current assets
+a. Fixed Assets
+i. Tangible assets
+
+Equipment _ 1,15,000 1,00,000
+Furniture 1,35,000 1,50,000
+ii. Intangible assets
+
+Patents 47,500 50,000
+b. Non- Current investments 50,000
+
+Page 3 of 4
+--- page 4 ---
+2. Current Assets
+
+a. Inventories 65,000 25,000
+b. Trade Receivables 60,000 40,000
+c. Cash 13,500 2,500
+d. Bank Balance 1,50,000 1,00,000
+Total 636,000 4,67,500
+
+Additional Details:
+1. During the year equipment costing Rs 40,000 was purchased.
+
+2. Loss on sale of equipment amounted to Rs 2,500.
+3. Depreciation of Rs 7,500 and Rs 15,000 was charged on equipment and furniture.
+
+Q.6. (08 Marks)
+
+a. A firm is currently selling a product @ 10 per unit. The most recent annual sales (all credit)
+were 30,000 units. The variable cost per unit is Rs. 6, and the average cost per unit, given a sales
+volume of 30,000units, is Rs.8. The total fixed cost is Rs.60,000. The average collection period
+
+may be assumed to be 30days.
+
+The firm is contemplating a relaxation on credit standards that is expected to result in 15%
+increase in unit sales; the average collection period would increase to 45days with no change in
+bad debt expenses. It is also expected that increased sales result in additional net working capital
+to the extent of Rs.10,000. The increase in collection expenses may be assumed to be negligible.
+The required return on investment is 15%. Should the firm relax the credit standards?
+
+b. Following data relates to ABC Company assuming 360 days in year; calculate: (04 Marks)
+
+(i) Re-order level (ii) Maximum level (iii) Minimum level (iv) Average Stock level
+Annual Consumption: 36000 units
+Re-order quantity: 600 units
+Re-order period: 6 to 8 days
+Maximum usage: 200 units
+Minimum usage: 40 units
+
+Q.7. Write short notes on: (04 x 3 =12 Marks)
+
+a. Bank Overdraft
+b. Trade Credit
+c. Commercial Paper
 
 Page 4 of 4
 ````
@@ -1258,6 +2375,190 @@ a. Factoring
 b. Bank Credit
 
 Page 4 of 4
+````
+
+## 2018-19 · Re-Exam · paper 0038cb69bef1
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial analysis....Re-exam 2016-17,2017-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 November 2018
+- Text: ocr (3 pages), mean OCR confidence 93.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech ( All Streams) ~ Year: IV ~ Semester: VII ~
+
+Academic Year: 2018-2019 ~~
+
+Subject: Financial Analysis and Working Capital Management
+Marks: 60-
+Date: 19 November 2018 /“ Time: 2.00 pm - 4.00 pm ~
+Durations: 2 Hrsv
+B
+
+. _ No. of Pages :
+Re-Examination (2016-17/2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. :
+
+Q.1 a. (6 Marks)
+From the following information extracted from the books of a company, compute the cash cycle in days.
+
+Period Covered 360 days
+
+Average period of credit allowed by suppliers 30 days
+
+Average total of debtors outstanding Rs. 48,000
+
+Raw Material Consumption Rs. 4,40,000
+
+Total Production cost ; Rs. 10,00,000
+
+Total Cost of Sales Rs. 10,50,000
+
+Sales for the year Rs. 16,00,000
+
+Value of Average stock maintained:
+
+Raw Materials Rs.32,000
+
+Work-in-Progress Rs.35,000
+
+Finished Goods Rs.26,000
+
+b. Monra Company requires 8200 units of a certain item per week. The purchase price per unit is Rs 32. The
+carrying cost per year is 20% of inventory value and fixed cost per order is Rs 1000. What is the E0Q? How
+many times per year will inventory be ordered? (6 Marks)
+--- page 2 ---
+Q.2. A firm is contemplating stricter collection policies. The following details are available: (12 Marks)
+
+At present, the firm is selling 30,000 units on credit at a price of Rs. 30 each; The variable cost per unit is Rs. 20
+while the average cost per unit is Rs. 25, Average collection period is 60 days, Collection expenses amount to Rs.
+10,000, Bad debts are 3%.
+
+If the collection procedures are tightened, additional collection charges amounting to Rs. 20,000 would be required,
+bad debts will be 1%. The collection period will be 40 days; Sales volume is likely to decline by 400 units. Assuming
+a 20% rate of return on investment, what would be your recommendation? Should the firm implement the decisions?
+
+Q.3. The following annual figures relates to XYZ co. (12 Marks)
+Sales (at two months credit) 18,00,000
+
+Materials consumed (supplier extend two months credit) 4,50,000
+
+Wages paid (monthly in arrear) 3,60,000
+
+Manufacturing expenses outstanding at the end of the year 40,000/month
+
+(cash expenses are paid one month in arrear)
+
+Total Administrative expenses paid as above 1,20,000
+
+Sales Promotion expenses, paid quarterly in advance 60,000
+
+The company sells its products on gross profit of 25% counting depreciation as part of the cost of
+production. It keeps one months’ stock each of raw materials and finished goods and cash balance of Rs.
+50,000.Assuming 20% safety margin, work out the working capital requirements of the company on cash
+
+cost basis. Ignore Work in process.
+
+Q.4. C Chang Limited has the following information: (12 Marks)
+Rs.
+Previous Sales: November 2017 150,000
+
+December 2017 135,000
+
+Forecasted sales for: January 2018 140,000
+February 2018 160,000
+March 2018 170,000
+April 2018 180,000
+
+Collections: 60% of customers pay cash
+20% pay in month after sale
+20% pay 2 months after sale
+
+Other information for RMC Cash Budget:
+
+I. Purchases of inventory are 60 % of sales and are made 2 months before sale and are paid for | month
+
+after delivery
+II. Other expenses Rs. 15,000 per month
+
+De
+--- page 3 ---
+_ OO ge
+
+Il. Rent Payment Rs 2000 per month
+
+IV. Taxes Rs. 10,000 due in March
+V. Beginning Cash Balance(31- 12-17) = Rs. 22,000
+VI. Minimum balance required = Rs. 25,000
+
+Required: Prepare a cash budget for the three months ended March 2018.
+
+Q.5. (12 Marks)
+From the data calculate:
+
+(i) Gross Profit Ratio (ii) Net Profit Ratio (iii) Return on Total Assets
+
+(iv) Inventory Turnover (v) Net worth to Debt (vi) Fixed Assets Turnover
+
+Sales 27;00,000 Sales Return 180,000
+
+Current Liabilities 6,00,000 Other Current Assets 7,60,000
+
+Cost of sale 19,20,000 Fixed Assets 14, 40,000
+
+Net profit 3,60,000 Net worth (including Net Profit) 15,00,000
+
+Inventory 8,00,000 Debt. 9,00,000
+
+Q.6. (12 Marks)
+
+The following information is available from the books of Exclusive Ltd. for the year ended 31st
+March, 2016:
+
+(a) Cash sales for the year were Rs.10,00,000 and sales on account Rs.12,00,000.
+(b) Payments on accounts payable for inventory totaled Rs.7,80,000.
+
+(c) Collection against accounts receivable were Rs.7,60,000.
+
+(d) Rent paid in cash Rs.2,20,000, outstanding rent being Rs.20,000.
+
+(e) 4,00,000 Equity shares of Rs.10 par value were issued for Rs.48,00,000.
+
+(f) Equipment was purchased for cash Rs.16,80,000.
+
+(g) Dividend amounting to Rs.10,00,000 was declared, but yet to be paid.
+
+(h) Rs.4,00,000 of dividends declared in the previous year were paid.
+
+(i) An equipment having a book value of Rs.1,60,000 was sold for Rs.2,40,000.
+(j) The cash account was increased by Rs.37,20,000.
+
+Prepare a cash flow statement using direct method.
+
+Q.7. Write short notes on: (04 x 3 =12 Marks)
+
+a. Bank Overdraft
+b. Trade Credit
+c. Commercial Paper
 ````
 
 ## 2017-18 · Final-Exam · paper 34224cbb4e70
@@ -1498,190 +2799,6 @@ b. Certificate of Deposit
 c. Factoring
 -
 Page 3 of3
-````
-
-## 2017-18 · Re-Exam · paper 0038cb69bef1
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial analysis....Re-exam 2016-17,2017-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 November 2018
-- Text: ocr (3 pages), mean OCR confidence 93.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech ( All Streams) ~ Year: IV ~ Semester: VII ~
-
-Academic Year: 2018-2019 ~~
-
-Subject: Financial Analysis and Working Capital Management
-Marks: 60-
-Date: 19 November 2018 /“ Time: 2.00 pm - 4.00 pm ~
-Durations: 2 Hrsv
-B
-
-. _ No. of Pages :
-Re-Examination (2016-17/2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. :
-
-Q.1 a. (6 Marks)
-From the following information extracted from the books of a company, compute the cash cycle in days.
-
-Period Covered 360 days
-
-Average period of credit allowed by suppliers 30 days
-
-Average total of debtors outstanding Rs. 48,000
-
-Raw Material Consumption Rs. 4,40,000
-
-Total Production cost ; Rs. 10,00,000
-
-Total Cost of Sales Rs. 10,50,000
-
-Sales for the year Rs. 16,00,000
-
-Value of Average stock maintained:
-
-Raw Materials Rs.32,000
-
-Work-in-Progress Rs.35,000
-
-Finished Goods Rs.26,000
-
-b. Monra Company requires 8200 units of a certain item per week. The purchase price per unit is Rs 32. The
-carrying cost per year is 20% of inventory value and fixed cost per order is Rs 1000. What is the E0Q? How
-many times per year will inventory be ordered? (6 Marks)
---- page 2 ---
-Q.2. A firm is contemplating stricter collection policies. The following details are available: (12 Marks)
-
-At present, the firm is selling 30,000 units on credit at a price of Rs. 30 each; The variable cost per unit is Rs. 20
-while the average cost per unit is Rs. 25, Average collection period is 60 days, Collection expenses amount to Rs.
-10,000, Bad debts are 3%.
-
-If the collection procedures are tightened, additional collection charges amounting to Rs. 20,000 would be required,
-bad debts will be 1%. The collection period will be 40 days; Sales volume is likely to decline by 400 units. Assuming
-a 20% rate of return on investment, what would be your recommendation? Should the firm implement the decisions?
-
-Q.3. The following annual figures relates to XYZ co. (12 Marks)
-Sales (at two months credit) 18,00,000
-
-Materials consumed (supplier extend two months credit) 4,50,000
-
-Wages paid (monthly in arrear) 3,60,000
-
-Manufacturing expenses outstanding at the end of the year 40,000/month
-
-(cash expenses are paid one month in arrear)
-
-Total Administrative expenses paid as above 1,20,000
-
-Sales Promotion expenses, paid quarterly in advance 60,000
-
-The company sells its products on gross profit of 25% counting depreciation as part of the cost of
-production. It keeps one months’ stock each of raw materials and finished goods and cash balance of Rs.
-50,000.Assuming 20% safety margin, work out the working capital requirements of the company on cash
-
-cost basis. Ignore Work in process.
-
-Q.4. C Chang Limited has the following information: (12 Marks)
-Rs.
-Previous Sales: November 2017 150,000
-
-December 2017 135,000
-
-Forecasted sales for: January 2018 140,000
-February 2018 160,000
-March 2018 170,000
-April 2018 180,000
-
-Collections: 60% of customers pay cash
-20% pay in month after sale
-20% pay 2 months after sale
-
-Other information for RMC Cash Budget:
-
-I. Purchases of inventory are 60 % of sales and are made 2 months before sale and are paid for | month
-
-after delivery
-II. Other expenses Rs. 15,000 per month
-
-De
---- page 3 ---
-_ OO ge
-
-Il. Rent Payment Rs 2000 per month
-
-IV. Taxes Rs. 10,000 due in March
-V. Beginning Cash Balance(31- 12-17) = Rs. 22,000
-VI. Minimum balance required = Rs. 25,000
-
-Required: Prepare a cash budget for the three months ended March 2018.
-
-Q.5. (12 Marks)
-From the data calculate:
-
-(i) Gross Profit Ratio (ii) Net Profit Ratio (iii) Return on Total Assets
-
-(iv) Inventory Turnover (v) Net worth to Debt (vi) Fixed Assets Turnover
-
-Sales 27;00,000 Sales Return 180,000
-
-Current Liabilities 6,00,000 Other Current Assets 7,60,000
-
-Cost of sale 19,20,000 Fixed Assets 14, 40,000
-
-Net profit 3,60,000 Net worth (including Net Profit) 15,00,000
-
-Inventory 8,00,000 Debt. 9,00,000
-
-Q.6. (12 Marks)
-
-The following information is available from the books of Exclusive Ltd. for the year ended 31st
-March, 2016:
-
-(a) Cash sales for the year were Rs.10,00,000 and sales on account Rs.12,00,000.
-(b) Payments on accounts payable for inventory totaled Rs.7,80,000.
-
-(c) Collection against accounts receivable were Rs.7,60,000.
-
-(d) Rent paid in cash Rs.2,20,000, outstanding rent being Rs.20,000.
-
-(e) 4,00,000 Equity shares of Rs.10 par value were issued for Rs.48,00,000.
-
-(f) Equipment was purchased for cash Rs.16,80,000.
-
-(g) Dividend amounting to Rs.10,00,000 was declared, but yet to be paid.
-
-(h) Rs.4,00,000 of dividends declared in the previous year were paid.
-
-(i) An equipment having a book value of Rs.1,60,000 was sold for Rs.2,40,000.
-(j) The cash account was increased by Rs.37,20,000.
-
-Prepare a cash flow statement using direct method.
-
-Q.7. Write short notes on: (04 x 3 =12 Marks)
-
-a. Bank Overdraft
-b. Trade Credit
-c. Commercial Paper
 ````
 
 ## 2016-17 · Final-Exam · paper 84448251476a
@@ -2416,1123 +3533,6 @@ Q7) (a) Explain the sources of working capital financing.
 (6 * 2= 12 Marks)
 
 x *~
-
-Page 4 of 4
-````
-
-## Year not stated · Exam not stated · paper a02e12baecb7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Management.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 16 November 2022
-- Text: ocr (4 pages), mean OCR confidence 91.3
-
-````text
-oy
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY. MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2022-23
-
-_ f
-
-Programme: MBA Tech (All Stream) - Year: IV ’ Semester: VII -
-
-Subject: Financial Analysis and Working Capital Management -
-Marks: 50 -
-Date: 16 November 2022 - ; Time: 2.00 pm - 4.00 pin -
-
-Durations: 2 (Hrs) -
-
-No. of Pages: olf
-
-Final Examination
-
-— Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) In all___5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to éach new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-= Answer briefly: ; [10]
-a.
-A company earns a profit before tax of Rs 20 million and declares a dividend of Rs 2
-CO- 3; SO-; per share. The company’s share capital consists of Rs 5 million shares of Rs.10 [03]
-BL- Apply each. The price of the share is Rs. 50 on the stock exchange. The tax rate applicable
-to the company is 30%. Calculate Dividend Payout Ratio and Dividend Yield ratio
-b. . [03]
-From the following information compute the Net Operating Cycle
-Raw Material Inventory consumed during the year Rs 6,00,000
-Average Stock of raw material Rs 50,000
-Pre =a, Cost of sales Rs 10,00,000 ,
-: Average Debtors Rs 2,50,000
-Average credit period-availed 1.5 month
-G . [04]
-Classify the transactions into Operating, Investing and Financing Activities.
-i. In a financial year company earned commission of Rs. 10,000.
-CO-1;S0-; > ii. Interest received on bonds of XYZ company Rs. 40,000
-BL- iii. | Company decided to buy back shares to increase proportionate holding of
-Understand promoters .
-
-iv. Company receives Rs. 80,000 from debtors during financial year 2022-23.
-
-Page 1 of 4
---- page 2 ---
-Q2 MJK Ltd.’s financial information is provided below: [10]
-
-CO-3; SO-;
-BL- Analyse Excerpt from the Balance Sheet Excerpt from the Profit Statement
-
-2021 2022 2022
-
-Cash 2,00,000 1,60,000 Sales 40,00,000
-
-Sundry
-
-Debtors 3,20,000   4,00,000 (COGS) 28,00,000
-
-Receivables 2,00,000 3,20,000 . (Interest) 1,60,000
-
-Inventory 18,40,000 21,60,000 EBT 10,40,000
-
-Prepaid ,
-
-Expenses 28,000 12,000 (Taxes @50%) 5,20,000
-
-Total
-
-Current
-
-Assets 25,88,000 30,52,000 PAT 5,20,000
-
-Total -
-
-Assets 56,00,000 64,00,000
-
-Current
-
-liabilities 6,40,000 = 8,00,000
-
-Long term
-
-borrowings 16,00,000 16,00,000
-
-Share
-
-Capital 20,00,000 20,00,000
-
-Retained
-
-earnings 4,68,000 8,12,000
-
-As the sales manager of a prominent international company that supplies a unique
-raw material, you have received an inquiry from MJK Ltd to purchase your
-products. Compute NP Margin, ROCE, Debt Equity, Interest Coverage Ratios
-Competing Firms have the following averages:
-
-Interest
-
-Coverage 5 times
-Debt to equity 0.7:1
-Net profit
-
-margin 10%
-ROCE 20%
-
-Using financial ratios, analyze MJK Ltd.’s creditworthiness as a long-term
-customer. Elaborate on your decision.
-
-Page 2 of 4
---- page 3 ---
-8 [10]
-
-Zomex Ltd. provides the following budget figure for the next year :
-
-hear Budgeted Production 1,56,000 Units per annum
-7 Element of Cost
-
-~ Raw Material Rs. 30 per unit
-Labour Rs. 12.5 per unit
-Overheads Rs. 7.5 per unit
-Total Cost Rs. 50 per unit
-Selling Expenses Rs. 5 per unit
-Cost of Sales Rs. 55 per unit
-Profit Rs. 25 per unit
-Selling Price Rs. 80 per unit
-
-Raw material is in stock, on average for 4 weeks.
-
-Materials are in process, on average for 2 weeks.
-
-Finished goods are in stock, on average for 4 weeks.
-
-oo : Credit allowed by suppliers of raw material is 4 weeks.
-
-Credit allowed to customers is 8 weeks.
-
-Lag in payment of wages one and half week.
-
-Lag in payment of overheads is 1 week.
-
-It is necessary to hold cash of Rs. 50,000.
-
-It may be noted that production is carried on evenly during the year and wages and
-overheads accrue similarly. Prepare a statement showing working capital
-requirement using Cash Cost Approach. Add 10% to your computed figure for
-contingencies.
-
-From the following forecast of income and expenditure, prepare a cash budget for
-
-oa (10)
-the months January to March.
-
-CO-4; SO-; . F "
-
-BL- Apply Month   |Credit Sales Gieale _ Wages Manufacturing
-Purchases Expenses
-
-November 30,000 15,000 3,000 1,150
-
-December 35,000 20,000 3,200 1,225
-
-en January 25,000 15,000 2,500 990
-
-February 30,000 20,000 3,000. 1,050
-
-March 35,000 22,500 2,400 1,100
-
-Additional! information is as follows: |
-
-a) 70% of the credit sales are collected in the month following the sales, 30 % in
-the second month.
-
-b) Capital expenditure to be incurred: Plant purchased on 15th January for Rs.
-10,000 and the payments are to be made in monthly installments of Rs. 2,500
-each.
-
-c) The creditors are allowing a credit of 2 months.
-
-d) Wages are paid on the 1st on the next month.
-
-e) Lag in payment of manufacturing expenses is one month.
-
-f) Balance of cash in hand on 1st January is Rs. 15,000.
-
-Page 3 of 4
---- page 4 ---
-A firm is currently selling a product @ Rs 20 per unit. The most recent annual sales
-
-Q5 were 50,000 units. The variable cost per unit is Rs 12 and the average cost per unit, | [10]
-CO-3;SO-; given a sales volume of 50,000 units, is Rs 16. The average collection period may be
-BL- Analyse assumed to be 30 days.
-Assume that the firm is contemplating allowing 2 per cent discount for payment
-within 10 days after a credit purchase. If discounts are offered, sales will increase by
-15 per cent, and the average collection period will drop to 15 days. Assume bad debt
-expenses will not be affected; the return on investment expected by the firm is 15
-per cent; 70 per cent of the total sales will be on discount. Examine the new credit
-policy and suggest whether new policy shall be put in place or not? Justify your
-reason with working.
-Justify your reason with working. (Assume 360 days in a year)
-Explain the consequences of a credit policy that is too strict?
-Two components P and Q used in manufacture of “R” are as follows: 1061
-Q6 Normal Usage 900 units per week each
-0-2; $O-; Maximum Usage 1350 units per week each
-BL- Apply Minimum Usage 450 units per week each
-Re-order Quantity : P - 7,200 units; Q - 10,800 units
-Re-order period P — 4 to 6 weeks; Q—2 to 4 weeks
-Calculate for each component:
-a) Re-order level
-b) Minimum stock level
-c) Maximum stock level
-0-1; S05
-BL- Write down the usefulness of Cash flow statement {04]
-Understand
-Q7 Write Short Notes on the following Sources of Working Capital Financing
-i SO-; i. Bill Discounting [10]
-Understand
-
-ii. Commercial Paper
-
-Page 4 of 4
-
-“—~
-````
-
-## Year not stated · Exam not stated · paper 450768161da0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Management_450768161d.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 90.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-26 /
-Program/s: MBA Tech . Year: IV Semester: VII
-Stream/s ; All Streams/M EcH / civil
-
-Subject: Financial Analysis and Working Capital Management Time: 2 hrs (jo:ooeto l2nay
-Date:_24 / 1/2025 No. of Pages: 04
-Marks: 50 ,
-
-Re-Examination ( 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi. Answer briefly: "| [10]
-
-a. The following information has been extracted from the Balance Sheet of
-Neelam Ltd as on 31st March, 2025:
-
-Particulars Amount (2)
-Current Assets 9,00,000
-Inventory “ |.3,00,000 [03]
-Current Liabilities 5,00,000
-co-1;
-SO-; ’ | You are required to:
-BL , ~ | a) Calculate the Current Ratio
-Understan b) Calculate the Quick Ratio
-d c) Compute the Working Capital
-
-From the following information, compute the Net Operating Cycle of Meera
-Ltd for the year ended 31st March, 2025:
-
-Particulars Amount 103}
-Raw Material consumed during the year %72,00,000
-Average Stock of Raw Material 224,00,000
-
-| Average Credit extended to Debtors 50 days
-
-Average Credit period allowed by Suppliers 35 days
-
-Page 1 of 4
---- page 2 ---
-Classify the following transactions into Operating, Investing, and
-
-Financing Activities as per AS-3 (Cash Flow Statement):
-
-During the financial year, Ridhi Ltd carried out the following transactions:
-1. Purchased new machinery for production.
-2. Received dividend on investments.
-3. Issued equity shares for cash.
-4. Paid rent for office premises.
-
-[04]
-
-The following information has been extracted from the financial statements of
-
-Kavya Industries Ltd for the year ended 31st March, 2025:
-
-Q2 Particulars Ane) nt
-CO- 3; SO- Sales Revenue | 30,00,000
-i. Cost of Goods Sold 21,00,000
-BL- Apply Operating Expenses : 3,00,000
-Net Profit after Tax 3,60,000 {10}
-Equity Share Capital 8,00,000
-Reserves and Surplus -4,00,000
-10% Debentures . 2,00,000
-Fixed Assets _ 12,00,000
-You are required to calculate the following ratios:
-a) Debt-Equity Ratio
-b) Gross Profit Ratio
-c) Net Profit Ratio
-d) Earnings per Share (EPS) (Assume 80,000 equity shares of =10 each)
-e) Fixed Asset Turnover ratio : ; ,
-Riya Sharma, Delhi plans to start a new trading business and provides the
-03 following information. Prepare an estimate of working capital requirements: [10]
-_ Estimated annual sales = 780 units
-CO- 2; SO- Selling price per unit = %120
-Cost price of goods purchased = 270 per unit
-
-; BL- Apply
-
-Labour = 220 per unit
-
-Overhead cost = 25 per unit
-
-Average credit period allowed by suppliers = 5 weeks
-
-Average credit period allowed to customers = 7 weeks
-
-Average stock holding in-terms of sales requirement = 10 weeks
-Delay in payment of labour and overhead cost = 3 weeks
-
-Allow 10% of computed figure for contingencies
-
-Estimated cash.and bank balance = 28,000
-
-Insurance premium on stock for next year = 76,000 (to be paid in advance this
-
-year)
-Sales and purchases are evenly spread throughout the year
-
-Page 2 of 4
---- page 3 ---
-Prisha Ltd wishes to prepare a cash budget for the period July to September,
-when it will be mainly manufacturing for stock. As a management intern, you
-are required to prepare the cash budget for the firm.
-
-The following information is available: _
-
-Q4
-CO- 4; SO- Particulars Sales (2) Purchases (%) | Wages (2%)
-; May 28,00,000 20,00,000 | 2,80,000
-BL- Apply June 30,00,000 22,00,000 3,00,000
-July 32,00,000 24,00,000 3,20,000 :
-August 35,00,000 26,00,000 3,50,000 [10]
-September 38,00,000 28,00,000 3,80,000
-Additional Information:
-a) 25% of sales are for cash.
-b) 60% of credit sales are realized in the month following sales, and the
-remaining 40% in the second month following sales.
-c) 30% of purchases are for cash.
-d) Creditors are paid in the month following the month of F purchase.
-e) Wages are paid with a lag of 1 month.
--f) 12% Interest on Loan of %12,00,000 is due in the month of July.
-g) Dividend of 8% on Preference Capital of %3,00,000 is receivable in
-September.
-h) Estimated Cash at Bank on 1st July = %50,000
-Qs Apex Ltd-is evaluating a proposal to liberalize its credit policy in order to [10]
-boost sales. . ;
-CO- 3; SO- .
-; At present, the company sells 60,000 units @ %80 each. The variable cost per
-BL- _{ unit is $50, while the average cost per unit is 70. The average collection
-, ' | period is 2 months, which is expected to increase to 3 months under the
-Analysis proposed policy.
-
-Currently, collection expenses amount to 25,000, which are likely to increase |
-by 230,000 if the new policy is adopted. Bad debts, presently 4% of sales, are
-expected to rise to 6%. However, sales volume is projected to increase by
-15,000 units under the new policy.
-
-The company requires a return of 12% on its investment in receivables.
-
-You are required to examine whether the new credit policy should be adopted
-
-or not. Support. your conclusion with detailed calculations and reasoning.
-
-Page 3 of 4
---- page 4 ---
-Alpha Industries manufactures a special product “Zenith.” The following
-
-particulars were collected for the current year:
-
-Monthly demand of Zed, 2400 units
-
-Q6
-C0-2: S0-; Cost of placing an order, Rs 150
-BL- Apply Annual carrying cost per unit, Rs 20
-Normal usage, 120 units per week [10]
-Maximum usage, 150 units per week.
-Minimum usage, 90 units per week
-Reorder period, 3 to 5 weeks
-Compute from the above: .
-| (a) Reorder quantity, (b) Reorder level, (c) Minimum level,
-(d) Maximum level, and (e) Average stock level.
-Q7 Write Short Notes on:
-co- 1; SO- | a, Trade Credit [10]
-| BL-
-Understand | >- | Operating cycle
-
-Page 4 of 4
-````
-
-## Year not stated · Exam not stated · paper 368c8130bdcd
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and Working Capital Mgmt.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 12/6/23
-- Text: ocr (5 pages), mean OCR confidence 93.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream : All Streams Year: IV 4.” Semester: VII
-Subject: Financial Analysis and Working Capital Management Time: 2 hrs (Hs 0pamto 4 $00pn-)
-Date: 12/6/23 No. of Pages: 05
-
-Marks: 50
-
-Special Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1___ is compulsory.
-2) Out of remaining questions, attempt any __4__ questions.
--~ 3)Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [10]
-CO- 3: a. ABC Company has net sales Rs 5,00,000. COGS is Rs 3,00,000.
-SO- ; Operating Expenses is Rs 1,13,000.
-BL- What is its GP margin and Operating ratio aa
-Apply
-{03}
-b. From the following information compute the Net Operating Cycle .
-M |0O?: Raw Material Inventory consumed during the year Rs 85,00,000
-“ Average Stock of raw material Rs 29,00,000
-Average Credit extended to Debtors is 60 days
-Apply
-Average Credit period extended by Suppliers is 40 days
-CO-1; Classify the transactions into Operating, Investing and Financing Activities. [04]
-SO-; G In a financial year company purchased an equipment.
-BL- Company received Interest on Bonds
-Understan Company decided to repay loan
-d Company Paid Salary to its employees
-
-Page 1 of 5
---- page 2 ---
-Q2
-
-CO-3; SO- [10]
-
-3 In the FY 2022-23 , Jiny Ltd has recorded a Total Sale of Rs 55,00,000.
-
-i Following information are available for Jiny Ltd along with various ratio relevant to
-the particular industry it belongs to. Compare ratios of Jiny Ltd with the given
-
-industry norms and give your comments about strengths and weakness of Jiny Ltd
-
-Balance Sheet of Jiny Ltd as on 31st March 2023
-
-Sources of Funds Rs
-Equity Share Capital 22,00,000
-Reserves & Surplus 2,00,000
-10% Debenture 4,60,000
-Current Liabilities
-
-Sundry Creditors 3,30,000
-Bills Payable 4,40,000
-Other Current Liabilities 2,20,000
-Total Capital Employed 38,50,000
-Application of Funds Rs
-Fixed Assets 12,10,000
-Current Assets
-
-Cash 4,40,000
-Sundry Debtors 5,50,000
-Stock 16,50,000
-Total Assets 38,50,000
-Ratios Industry Norms
-
-Current Ratio 3.5%1
-
-Long Term Debt to Equity 0.15:1
-
-Receivables Turnover 15 times
-
-Page 2 of 5
---- page 3 ---
-Q3
-
-CO-3; SO-;
-BL- A Firm is contemplating to have lenient collection policy. At present the firm is
-Analyse selling 50,000 units @ Rs 60 each. The variable cost is Rs 20 per unit while the
-average cost is Rs 50 per unit. Average collection period is 1.5 months which can
-increase to 2 months if new policy is followed. Currently the collection expenses are
-Rs 15,000 which may go up by Rs 20000. Bad debts which are now at 5% of sales will eal
-increase to 7% of Sales, however the sales volume is likely to increase by 10,000
-units should the new policy be followed. If the Required return of the company is
-10%, Examine the new credit policy and suggest whether new policy shall be put in
-place or not? Justify your reason with working.
-Azmi Ltd. provides the following budget figure for the next year:
-Qt Budgeted Production 24,000 Units per annum
-CO-2; SO- [10]
-; BL- Element of Cost Rs per unit
-Apply Raw Material Rs50
-Labour Rs 30
-Overheads Rs 20
-
-Selling Price Rs. 200 per unit
-
-Raw material is in stock on average for 3 months
-
-Materials are in process, on average for 1 month.
-
-Finished goods are in stock, on average 2 months.
-
-Credit allowed by suppliers of raw material is 1 month.
-
-Credit allowed to customers is 1.5 months.
-
-Lag in payment of wages 1/2 month.
-
-Lag in payment of overheads is 1 month.
-
-It is necessary to hold cash of Rs. 50,000.
-
-It may be noted that production is carried on evenly during the year. Material cost is
-incurred in full while and wages and overheads are estimated to incur 50% of the
-cost each.
-
-Prepare a statement showing working capital requirement
-
-Page 3 of 5
---- page 4 ---
-Saurashtra Co. Ltd. wishes to arrange overdraft facilities with its bankers from the
-
-Q5 period August to October 2023 when it will be manufacturing mostly for stock.
-nh Prepare a cash budget for the above period from the following data given below:
-Manufacturing
-expenses Other expenses
-Month Sales (Rs) | Purchases (Rs) | ( Rs) (Rs )
-June 1,80,000 1,24,800 3,000 16,000
-July 1,92,000 1,44,000 4,000 19,000
-August 1,08,000 2,43,000 3,000 28,000
-September 1,74,000 2,46,000 4,500 19,000 [10]
-October 1,26,000 2,68,000 5,000 21,500
-Additional Information:
-(a) Cash on hand 1-08-2023 Rs 50,000.
-(b) 50% of sales are for cash and the remaining 50% is collected in the following
-month
-(c ) Creditors extend 2 months credit after materials purchased.
-(d ) Lag in payment of manufacturing expenses half month.
-(e) Lag in payment of other expenses one month.
-Q6 a.
-
-r A manufacturer buys certain equipment form suppliers at Rs. 30 per unit. Total
-aie annual needs are 800 units. The following further data are available: [06]
-BL- Apply
-
-Annual return on investments 10%
-
-Rent, insurance, storing per unit per year Rs. 1
-
-Cost of placing an order Rs. 100
-
-Required:
-
-Calculate the economic order quantity of raw materials.
-Advice the number of orders to be placed in a year
-What would be the sum of Ordering and Carrying costs.
-
-Page 4 of 5
---- page 5 ---
-CO-1; SO-;
-
-a Explain the various Cash Flow under Financing Activities [04]
-Understan
-
-d
-
-Q7 Write Short Notes on the following Sources of Working Capital Financing
-
-CO-1; SO-; i. Commercial Paper
-
-BL- ii. Factoring [10]
-Understan
-
-d
-
-Page 5 of 5
-````
-
-## Year not stated · Re-Exam · paper 8954760f05ed
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis & working ....Re-exam 16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 11 November 2019
-- Text: ocr (4 pages), mean OCR confidence 92.9
-
-````text
-Se
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA TECH (All Stream) Year: IV Semester: VII
-
-Academic Year: 2019-20
-Subject: Financial Analysis and Working Capital Management
-cv Marks: 60
-Date: 11 November 2019 Time: 2.00 pm - 4.00pm
-a Durations: 2 (Hrs) “
-No. of Pages: ~
-Re-Examination (2016-17/ 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory. ;
-2) Out of remaining questions, attempt any 4 questions.
-* 3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right-hand side indicate full marks.
-7) Assume suitable data if necessary. a
-
-Q.1. Short answer questions: (3 x 04 = 12 Marks)
-a. Calculate Return on Equity Ratio from the following information:
-
-1000 Equity shares @ of Rs.10 each Rs. 10,000
-
-2000, 5% preference share @ of Rs. 10 each Rs. 20,000
-
-Reserves Rs. 5,000 .
-
-Net profit before interest and Tax Rs. 10,000
-
-Interest ‘Rs. 2,000
-
-Taxes Rs. 3,000
-
-b. Find out the economic ordering quantity (EOQ) from the following particulars.
-Annual usage: 12,000 units
-Cost of material per unit Rs. 40
-Cost of Placing and receiving one order: Rs.60
-Annual carrying cost of one unit: 10% of inventory value.
-
-c. From the following information extracted from the books of a company, compute the
-operating cycle in days.
-
-Period Covered 360 days
-Average period of credit allowed by suppliers 20 days
-Average total of debtors outstanding Rs. 24,000
-
-Page 1lof4
---- page 2 ---
-Raw Material Consumption Rs. 2,20,000
-
-Total Production cost Rs. 5,00,000
-
-Total Cost of Sales Rs. 5,25,000
-
-Sales for the year Rs. 8,00,000
-
-Value of Average stock maintained: ;
-
-Raw Materials Rs.16,000
-
-Work-in-Progress Rs17,500
-
-Finished Goods Rs.13,000
-Q.2. With the help of the following ratios regarding Indu Ltd., Prepare a balance sheet of the
-company for the year ended 31“ March 2019 (12 Marks)
-
-Current Ratio Ded
-
-Liquidity Ratio 1)
-
-Net Working Capital 6,00,000
-
-Stock Turnover Ratio 6 times
-
-Gross Profit Ratio 20%
-
-Fixed Asset Turnover Ratio 2 times
-
-Debt Collection period 2 Months
-
-Fixed Assets to Shareholders fund 0.80
-Reserve & Surplus to Share Capital 1:2
-
-Debt Equity Ratio 1:5
-
-Cash at Bank at the end the year was Rs. 1,00,000.
-
-Q. 3. You are supplied with the following information in respect of XYZ Ltd for the ensuing
-year: 8 (12 Marks)
-a. The cost structure is as follows:
-i. Raw material — 50% of the selling price
-
-ii. Direct wages — 10% of the selling price
-
-iii. | Manufacturing overheads — 16% of the selling price a
-
-iv. Selling overheads — 4% of the selling price
-
-v. Production of the year — 1,44,000 units
-
-b. Finished goods in-store - 3 months
-
-c. Raw material in store - 2 months’ consumption
-d. Production process - | month
-
-e. Credit allowed by creditors - 2 months
-
-f. Credit is given to debtors -3 months
-
-g. Selling price per unit - Rs 50
-
-There is a regular production and sales cycle and wages overheads accrue evenly. Wages are
-
-paid in the next month of accrual. Material is introduced at the beginning of the production cycle.
-You are required to ascertain its working capital requirement.
-
-Page 2 of 4
---- page 3 ---
-Q.4, Prepare a Cash-Budget of a company for April, May and June 2019 using the following
-
-information: (12 Marks)
-Month Sales Purchases Wages
-January 160000 90000 40000
-February 160000 80000 36000
-March 150000 84000 44000
-April 180000 100000 48000
-May 170000 90000 40000
-June 160000 70000 36000
-
-You are further informed that:
-
-(a) 10% of the purchases and 20% of the sales are for cash
-
-(b) The average collection period of the company is 2 month and the credit purchases are
-paid off regularly after one month
-
-(c) Wages are paid half monthly.
-
-(d) Payment of installment of Machinery purchased is due in June Rs. 6,000.
-
-(e) Cash and Bank Balance as of April were Rs. 30,000 and the company wants to keep it at
-the end of every month approximately this figure, the excess cash being put it fixed
-deposits in the bank.
-
-Q.5. Prepare cash flow statement from the following balance sheet of NM Engineering Ltd for
-
-the year 31/12/2019: (12 Marks)
-Particulars 31/12/2018 | 31/12/2019
-Equity and Liabilities:
-Share Capital 17,00,000 | _18,35,000
-Reserves 40,000 83,700
-Profit and Loss Appropriation 1,00,000 1,30,000
-Alc ape
-Provision for Dividends 70,000 50,000
-Creditors 1,00,000 95,000
-Bank overdraft 8,000 18,000
-Bills payable 14,000 13,000-|
-Mortgage loan 10,000 70,000
-Total 20,42,000 | 22,94,700
-Assets: a
-Building 8,00,000 | _10,00,000
-a Plant & Machinery 2,50,000 | _3,70,000
-Furniture 5,000 6,000 |
-Goodwill 3,00,000 3,43,700
-Cash 2,000 2,200 |
-Inventories 4,00,000 3,43,700
-Debtors 1,00,000 45,000 |
-Bills Receivables 8,000 9,000 |
-Page 3 of 4
---- page 4 ---
-Investment 1,64,000 1,70,000
-
-Prepaid Expenses 3,000 3,100
-
-Preliminary Expenses 10,000 2,000
-
-Total 20,42,000 | 22,94,700. |:
-Adjustments:
-
-1. Depreciation is charged on buildings at 3% of cost Rs.9,00,000. On Plant and Machinery
-at 8% of cost Rs.4,00,000. On Furniture at 5% of cost Rs.8,000.
-2.. The investment was purchased and interest received Rs.3,000.was used in writing down
-
-the book value of investments.
-3. The declared dividend for 2018 was paid and the interim dividend of Rs.20,000 was paid
-
-out of Profit and Loss Appropriation A/c
-
-Q.6. (2*06=12 Marks)
-
-a. A trader whose current sales in the region are of Rs.6,00,000 per:annum and an average
-
-collection period of 30day wants to pursue a more liberal policy to improve sales. A study made
-_ by a management consultant reveals the following information:
-
-Credit Policy | Increase in the Increase in Default cost
-collection period | sales (Rs.) anticipated
-A 30 days 48,000 2%.
-
-The selling price per unit is Rs.3. The variable cost per unit is Rs.2. The current bad debt loss is
-1%. The required return on additional investment is 20%. Assume 360 days in a year. Which of
-the above policies would you recommend and why? :
-
-b. Calculate the minimum stock level, maximum stock level, re-ordering level and average stock
-level from the following information:
-
-(i) Minimum consumption = 200 units per day
-
-(ii) Maximum consumption = 300 units per day
-
-(iii) Normal consumption = 240 units per day
-
-(iv) Re-order period = 10-15 days
-
-(v) Re-order quantity = 3,000 units
-
-(vi) Normal re-order period = 12 days
-
-Q.7. Write Notes On: (3 x 04 = 12 Marks)
-a. Trade Credit |
-b. Commercial Paper
-c. Factoring
-
-Page 40f 4
-````
-
-## Year not stated · Re-Exam · paper bf2da1bea2b0
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/FINANCIAL ANALYSIS AND WORKING CAPITAL _88169cd3/Financial Analysis and working capital Re-exam 16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 18 January 2019
-- Text: ocr (4 pages), mean OCR confidence 94.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (All Streams) : Year: IV Semester : VII
-Academic Year: 2018-2019
-
-Subject: Financial Analysis and Working Capital Management Marks: 60
-, Time: 2.00 pm to 4.00 pm
-Durations:2 (hrs) -
-
-No. of Pages:_ Lf _
-
-Re-examination (2016-17/2017-18)
-
-Date: 18 January 2019
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘suitable data if necessary.
-
-Qu. : (3 x 04 = 12 Marks)
-a. Given that Earnings per share = Rs.50; Dividend Payout ratio = 40%; Dividend Yield
-=3.2%. What is the market Price of the equity share?
-
-b. A firm’s inventory planning period is one year. Its inventory requirement for this period
-is 1,600 units. Assume that its acquisition costs Rs.50 per order. The carrying costs are
-expected to be Re. | per unit per year.
-
-The firm can procure inventories in various lots as follows:
-a) 1,600 units b) 800 units c) 400 units d) 200 units
-Which of these order quantities are economic order quantities?
-
-ce. From the following information extracted from the books of a company, compute the
-operating cycle in days.
-Particulars : Amounts
-Period Covered 360 days
-
-Page 1 of 4
---- page 2 ---
-Average period of Credit allowed by suppliers 30 days
-
-Average debtors outstanding 9,600
-Raw material consupmtion during the year 88,000
-Total Production Cost 2,00,000
-Total Cost of Sales 2,10,000
-Sales for the year 3,20,000
-Value of Average Stock Maintained:
-
-Raw material 6,400
-Work in Progress inventory 7,000
-Finished Goods 5,200
-
-Q.2. From the following particulars prepare the balance sheet of Mohan and Co. for the year
-ended 31% March 2018 (12 Marks)
-
-Current Ratio 2:1
-
-Working Capital 4,00,000
-
-Capital Block to Current Assets 3:2
-
-Fixed Asset to Turnover 1:3
-
-Sales Cash/Credit 1:2
-
-Stock Velocity 2 Months
-
-Creditors Velocity 2 months
-
-Debtors Velocity 3 months
-
-Capital Block: Net profit 10% of Turnover
-Reserve 2.5% of Turnover
-Debentures/Share Capital 1:2
-
-Gross profit Ratio 25%,
-
-Cash at the end of the year is Rs.1,00,000 and Provision for foes during the year is Rs.1,00,000.
-
-Q.3. The following annual figures relates to XYZ co. for the year March 2018. (12 Marks)
-Sales (at two months credit) 18,00,000
-
-Materials consumed (supplier extend two months credit) | 4,50,000
-
-Wages paid (monthly in arrear) 3,60,000
-
-Manufacturing expenses outstanding at the end of the 40,000/month
-
-year
-
-(cash expenses are paid one month in arrear)
-
-Total Administrative expenses paid as above 1,20,000
-
-Sales Promotion expenses, paid quarterly in advance 60,000
-
-The company sells its products on gross profit of 25% counting depreciation as part of the cost of
-production. It keeps one months’ stock each of raw materials and finished goods and cash
-
-balance of Rs. 50,000.
-
-Assuming 20% safety margin, work out the working capital requirements of the company on
-cash cost basis. Ignore Work in process.
-
-Page 2 of 4
---- page 3 ---
-Q.4. A company expects to have Rs. 56,250 cash in hand on 1“ April 2017 and requires
-estimate of cash position during three months, April to June 2017. The following information is supplied
-
-(12 Marks)
-
-to you.
-
-Months Sales | Purchases | Wages | Factory Expenses | Office Expenses | Selling Expenses
-
-Rs Rs Rs Rs Rs Rs
-February | 1,12,500 67,500 | 13,500 11,250 9,000 6,750
-March 1,26,000 72,000 | 14,625 12,375 9,000 6,750
-April 1,35,000 78,750 | 15,750 13,500 9,000 7,875
-May 1,80,0Q0 90,000 | 20,250 16,875 9,000 9,855
-June 2,02,500 | - 90,000 | 21,375 21,000 9,000 10,500
-
-Other information:
-1. Period of credit allowed by suppliers is 2 months.
-2. 20% of sales is for cash and period of credit allowed to customers for credit sales is one month.
-
-3. Delay in payment of all expenses — 1 month.
-4, Income tax of Rs. 86,250 is due to be paid on June 15, 2017.
-5. Plant has been ordered to be received and paid in May 2017; it will cost Rs. 80,000.
-
-Q.5. From the following information, prepare Cash Flow Statement for “X” Ltd. (12 Marks)
-Particulars 31st March 2018 | 31st March 2017
-I. Equity and Liabilities
-1. Shareholders’ Funds
-
-a. Equity Share Capital 3,50,000 2,50,000
-b. Surplus in P&L Account 1,75,000 _ 1,00,000.
-2. Non-Current liabilities
-
-Long term borrowings: Bank Loan 25,000 50,000
-3. Current Liabilities
-
-a. Trade Payables _ 22,500 25000
-b. Outstanding rent 3,500 2,500
-c. Proposed Dividend 35,000 25,000
-d. Provision for Taxation 25,000 15,000
-Total 6,36,000 4,67,500
-II. Assets
-
-1. Non- current assets
-a. Fixed Assets
-i. Tangible assets
-
-Equipment _ 1,15,000 1,00,000
-Furniture 1,35,000 1,50,000
-ii. Intangible assets
-
-Patents 47,500 50,000
-b. Non- Current investments 50,000
-
-Page 3 of 4
---- page 4 ---
-2. Current Assets
-
-a. Inventories 65,000 25,000
-b. Trade Receivables 60,000 40,000
-c. Cash 13,500 2,500
-d. Bank Balance 1,50,000 1,00,000
-Total 636,000 4,67,500
-
-Additional Details:
-1. During the year equipment costing Rs 40,000 was purchased.
-
-2. Loss on sale of equipment amounted to Rs 2,500.
-3. Depreciation of Rs 7,500 and Rs 15,000 was charged on equipment and furniture.
-
-Q.6. (08 Marks)
-
-a. A firm is currently selling a product @ 10 per unit. The most recent annual sales (all credit)
-were 30,000 units. The variable cost per unit is Rs. 6, and the average cost per unit, given a sales
-volume of 30,000units, is Rs.8. The total fixed cost is Rs.60,000. The average collection period
-
-may be assumed to be 30days.
-
-The firm is contemplating a relaxation on credit standards that is expected to result in 15%
-increase in unit sales; the average collection period would increase to 45days with no change in
-bad debt expenses. It is also expected that increased sales result in additional net working capital
-to the extent of Rs.10,000. The increase in collection expenses may be assumed to be negligible.
-The required return on investment is 15%. Should the firm relax the credit standards?
-
-b. Following data relates to ABC Company assuming 360 days in year; calculate: (04 Marks)
-
-(i) Re-order level (ii) Maximum level (iii) Minimum level (iv) Average Stock level
-Annual Consumption: 36000 units
-Re-order quantity: 600 units
-Re-order period: 6 to 8 days
-Maximum usage: 200 units
-Minimum usage: 40 units
-
-Q.7. Write short notes on: (04 x 3 =12 Marks)
-
-a. Bank Overdraft
-b. Trade Credit
-c. Commercial Paper
 
 Page 4 of 4
 ````

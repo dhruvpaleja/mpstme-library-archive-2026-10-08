@@ -1,10 +1,211 @@
 # Introduction to Network Security: question papers in full
 
-4 unique papers · 2022 to 2022-23 · Electronics and Telecommunication
+4 unique papers · 2022-23 to 2024-25 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022 · Final-Exam · Sem 7 · paper cf04b70c3a6f
+## 2024-25 · Re-Exam · Sem 7 · paper 8257508dcf5c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Introduction to Network Security/Intoduction to Network Security Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.4
+
+````text
+MPSTME
+
+: \ LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech (Intg) Stream: EXTC Year: [V Semester: VII
+Subject: Introduction to Network Security . Time: 3 hrs (LOanm7 to Z par_)
+Date:_25 / 11/2024 No. of Pages:_02_
+
+Marks: 100
+
+Re-Examination (Batch 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Va
+
+ey
+
+Q. 1 a. Define and explain the concept of Vulnerability in network security. [04]
+
+CO-1-5 ; b. What are the different types of Attacks on computer networks? [04]
+
+SO-1-5 ; c. Describe the importance of implementing secure system models. : [04]
+
+BL-1,2 d. Discuss the role of firewalls in enhancing network security [04]
+e. Explain how encryption helps in protecting data transmission across networks. [04]
+
+Q.2 a. Describe the main components of a secure computer system. [10]
+
+CO-1,2 ; b. Explain different types of Network Security Threats and how they can be mitigated [10]
+
+SO-1,2 ;
+
+BL-1,2,3
+
+ae 5 a. Discuss the concept of Network Vulnerability Assessment and its significance. te
+
+0-2 3 : b. Explain how different network security models can prevent unauthorized access. [
+
+BL-1,2,4
+
+Q.4 a. Describe various types of network attacks such as phishing, man-in-the-middle, and [10]
+
+CO-1,3 ; denial of service. [10]
+
+SO-1,3 ; b. What are the strategies for ensuring secure data communication over the network?
+
+BL-1,2,4
+
+Q.3 a. Explain how encryption and decryption work. Provide an example to illustrate the process | [10]
+
+CO-1,2; b. Discuss the role of intrusion detection systems in network security. [10]
+
+SO-1,2 ;
+
+BL-1,2,3
+--- page 2 ---
+Q.6 a. What are the different layers of network security, and how do they contribute to sécuring [10]
+
+CO-1,2 ; a network? [10]
+SO-1,2 ; b. Explain the importance of access control mechanisms in a secure computer system.
+
+BL-1,2,3
+
+Q7 a. Describe the different network security protocols and their functions. [10]
+CO-1-3 ; b. Discuss how secure network design cari’prevent security breaches. [10]
+SO-1-3 ;
+
+BL-5,6
+
+ey
+
+rr
+````
+
+## 2023-24 · Re-Exam · Sem 7 · paper 46565373dbdb
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Introduction to Network Security/Introduction to Network Security Batch 2022-23 Re Exam0001_46565373db.pdf`
+- Printed on paper: max marks: 100; exam date: 6/ 02/24
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+SVKM’S NMIMS oe
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+Program: B.Tech Integrated Stream : EXTC . Y
+
+salem
+
+Semester Vil \
+june: 3 hrs:(10:00 AM to 01;90 PM)
+Date: 6/ 02/24 | Naa J
+Marks: 100 4
+
+Subject: Introduction to Network Security
+
+Re-examination 2022-23
+
+instructions: Candidates shouid read carefuliy the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all _5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Answer briefly [20]
+CO-1; SO-1; BL-1 a. | Define A.A.A concept for network security [5]
+CO-2; SO-1; BL-2 b. | Explain with a neat diagram the rootkits malware [5]
+P. gr
+CO-3; SO-1; BL-4 c. | Differentiate between TCP and UDP protocols [5]
+CO-1; SO-1; BL-1 d. | Explain with the help of an example the concept of cryptography . [5]
+Q2
+CO-2; SO-1; BL-2 a. | List and explain the security principles used to design a secure network [10]
+CO-2; SO-1; BL-3 b. | Utilize an example to explain the privacy invasive software Adware [10]
+Q3
+Classify the types of firewalls. Explain with a neat sketch Stateful firewall
+CO-3; SO-1; BL-4 | [10]
+system
+
+b Explain in detail Voting machine
+
+CO-1; SO-1; BL-2 [10]
+--- page 2 ---
+Q4
+
+What is a WEP wireless communication system? Explain various types of
+CO-3; SO-1; BL-1_ | 4 [10]
+attacks for WEP system
+
+Explain boot sequence, boot device hierarchy and hibernation concepts
+
+CO-3; SO-1; BL-2 | >. [10]
+
+for process security
+Q5
+What is ARP spoofing? How is ARP spoofing done? What are measures ro
+-2: SO-1: BL- a. .
+
+€0-2; 80-1) Biel to be taken to avoid ARP spoofing?
+Explain in detail the Cross-Site Request Forgery vulnerability for a
+
+CO-1; SO-1; BL-2 | >. [10]
+
+website
+
+Q6
+
+List various authentication technologies and explain any two technologies
+CO-3; SO-1;BL-4 | @ |. . [10]
+using a neat diagram
+
+What are the different types of attacks on clients? Explain in detail any
+
+-3: SO-1: BL- b. 10
+Easel Ebel two types of attacks on client _
+Q7
+a
+CO-3; SO-1; BL-3 a. | Construct and explain AES cryptosystem [10]
+With the help of a neat sketch explain in detail stack-based buffer
+CO-2; SO-1; BL-1_ | >- [10]
+
+overflow attack
+````
+
+## 2022-23 · Final-Exam · Sem 7 · paper cf04b70c3a6f
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -106,107 +307,6 @@ Explain in detail AES cryptosystem
 CO-3; SO-4; BL-2
 
 xX
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 8257508dcf5c
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Introduction to Network Security/Intoduction to Network Security Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 90.4
-
-````text
-MPSTME
-
-: \ LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B.Tech (Intg) Stream: EXTC Year: [V Semester: VII
-Subject: Introduction to Network Security . Time: 3 hrs (LOanm7 to Z par_)
-Date:_25 / 11/2024 No. of Pages:_02_
-
-Marks: 100
-
-Re-Examination (Batch 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Va
-
-ey
-
-Q. 1 a. Define and explain the concept of Vulnerability in network security. [04]
-
-CO-1-5 ; b. What are the different types of Attacks on computer networks? [04]
-
-SO-1-5 ; c. Describe the importance of implementing secure system models. : [04]
-
-BL-1,2 d. Discuss the role of firewalls in enhancing network security [04]
-e. Explain how encryption helps in protecting data transmission across networks. [04]
-
-Q.2 a. Describe the main components of a secure computer system. [10]
-
-CO-1,2 ; b. Explain different types of Network Security Threats and how they can be mitigated [10]
-
-SO-1,2 ;
-
-BL-1,2,3
-
-ae 5 a. Discuss the concept of Network Vulnerability Assessment and its significance. te
-
-0-2 3 : b. Explain how different network security models can prevent unauthorized access. [
-
-BL-1,2,4
-
-Q.4 a. Describe various types of network attacks such as phishing, man-in-the-middle, and [10]
-
-CO-1,3 ; denial of service. [10]
-
-SO-1,3 ; b. What are the strategies for ensuring secure data communication over the network?
-
-BL-1,2,4
-
-Q.3 a. Explain how encryption and decryption work. Provide an example to illustrate the process | [10]
-
-CO-1,2; b. Discuss the role of intrusion detection systems in network security. [10]
-
-SO-1,2 ;
-
-BL-1,2,3
---- page 2 ---
-Q.6 a. What are the different layers of network security, and how do they contribute to sécuring [10]
-
-CO-1,2 ; a network? [10]
-SO-1,2 ; b. Explain the importance of access control mechanisms in a secure computer system.
-
-BL-1,2,3
-
-Q7 a. Describe the different network security protocols and their functions. [10]
-CO-1-3 ; b. Discuss how secure network design cari’prevent security breaches. [10]
-SO-1-3 ;
-
-BL-5,6
-
-ey
-
-rr
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 8b7d6a9c5b1c
@@ -314,104 +414,4 @@ What is WPA? Explain various attacks on WPA network [10]
 CO-2; SO-1; BL-1
 
 2/2
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 46565373dbdb
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Introduction to Network Security/Introduction to Network Security Batch 2022-23 Re Exam0001_46565373db.pdf`
-- Printed on paper: max marks: 100; exam date: 6/ 02/24
-- Text: ocr (2 pages), mean OCR confidence 89.5
-
-````text
-SVKM’S NMIMS oe
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2023-2024
-Program: B.Tech Integrated Stream : EXTC . Y
-
-salem
-
-Semester Vil \
-june: 3 hrs:(10:00 AM to 01;90 PM)
-Date: 6/ 02/24 | Naa J
-Marks: 100 4
-
-Subject: Introduction to Network Security
-
-Re-examination 2022-23
-
-instructions: Candidates shouid read carefuliy the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1_ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all _5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q1 Answer briefly [20]
-CO-1; SO-1; BL-1 a. | Define A.A.A concept for network security [5]
-CO-2; SO-1; BL-2 b. | Explain with a neat diagram the rootkits malware [5]
-P. gr
-CO-3; SO-1; BL-4 c. | Differentiate between TCP and UDP protocols [5]
-CO-1; SO-1; BL-1 d. | Explain with the help of an example the concept of cryptography . [5]
-Q2
-CO-2; SO-1; BL-2 a. | List and explain the security principles used to design a secure network [10]
-CO-2; SO-1; BL-3 b. | Utilize an example to explain the privacy invasive software Adware [10]
-Q3
-Classify the types of firewalls. Explain with a neat sketch Stateful firewall
-CO-3; SO-1; BL-4 | [10]
-system
-
-b Explain in detail Voting machine
-
-CO-1; SO-1; BL-2 [10]
---- page 2 ---
-Q4
-
-What is a WEP wireless communication system? Explain various types of
-CO-3; SO-1; BL-1_ | 4 [10]
-attacks for WEP system
-
-Explain boot sequence, boot device hierarchy and hibernation concepts
-
-CO-3; SO-1; BL-2 | >. [10]
-
-for process security
-Q5
-What is ARP spoofing? How is ARP spoofing done? What are measures ro
--2: SO-1: BL- a. .
-
-€0-2; 80-1) Biel to be taken to avoid ARP spoofing?
-Explain in detail the Cross-Site Request Forgery vulnerability for a
-
-CO-1; SO-1; BL-2 | >. [10]
-
-website
-
-Q6
-
-List various authentication technologies and explain any two technologies
-CO-3; SO-1;BL-4 | @ |. . [10]
-using a neat diagram
-
-What are the different types of attacks on clients? Explain in detail any
-
--3: SO-1: BL- b. 10
-Easel Ebel two types of attacks on client _
-Q7
-a
-CO-3; SO-1; BL-3 a. | Construct and explain AES cryptosystem [10]
-With the help of a neat sketch explain in detail stack-based buffer
-CO-2; SO-1; BL-1_ | >- [10]
-
-overflow attack
 ````

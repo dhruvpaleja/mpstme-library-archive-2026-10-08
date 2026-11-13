@@ -1,16 +1,17 @@
 # Limit State Design of Reinforced Concrete Structures: question papers in full
 
-30 unique papers · 2013-14 to 2022 · Civil
+30 unique papers · 2013-14 to 2022-23 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022 · Final-Exam · Sem 9 · paper f6b9cd98a03b
+## 2022-23 · Final-Exam · Sem 9 · paper f6b9cd98a03b
 
 - Departments: Civil
 - Programmes: B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures Batch 2022 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 18 November 2022
 - Text: ocr (8 pages), mean OCR confidence 61.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ee
@@ -259,7 +260,6 @@ COMPRESSION MEMGEnS
 Chart 45 COMPRESSION WITH BENDING —Rectangular
 Sention — Reinforcement Distributed Equally om Four Sides
 
-es) - DREGH AS FOR REINPGRCRD QOMCRETE
 
 #18
 --- page 8 ---
@@ -279,7 +279,6 @@ im
 en Pa : “f__1_. aealee &
 Bo fest ag = .
 : <0 ; ota I = : efef ai a Eo
-- <P ck Brak pee AEE OF BEEN
 
 it
 
@@ -293,6 +292,7 @@ it
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMITE SATE DESIGN OF RENFORCED CONCRETE STRUCTURES FINAL EXAM 2019-20 RE EXAM 2018-19.pdf`
 - Printed on paper: max marks: 70; exam date: 11 November 2019
 - Text: ocr (4 pages), mean OCR confidence 65.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ‘ SVKM’s NMIMS
@@ -398,7 +398,6 @@ N/mm/?and Fe 415 steel. Take 810 mm overall depth & 750 mm effective depth.
 “EAT NA CT | |
 ré AN oS i"
 CRSSSSSSee oe
-z | _t Se tl ts 199 ee
 
 i — fye rere)
 
@@ -414,8 +413,6 @@ rf - . _ .
 0 thie os V2 16 rat] 26 re +4
 PERCENTAGE TENSION BEENFCOCEMENT
 
-raat Artsol cima section of srel quand
-. " Age ol croae -seeon of eel promided
 
 2 [4
 --- page 3 ---
@@ -439,7 +436,6 @@ NI N he AXIS OF BENDING
 1:0 T Ni 7 :
 X NC N y
 N\ N ‘ \ : A’ 7
-0-9 x ~s aN \ Ki SS
 NX \ \ 4\_a)
 ‘“ Fy PAA
 \ \ as
@@ -519,7 +515,6 @@ ALT Vb ay x
 \ _
 “di CACENL KT IN A
 0-5 i BS \ 1 x \ Lek
-N N WAN r bP he
 “| We Z \ \ de
 K i} C \ Pe
 Ral q or
@@ -537,6 +532,7 @@ Ral q or
 - Programmes: B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structure 2019-20 Final.pdf`
 - Text: ocr (9 pages), mean OCR confidence 71.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -743,7 +739,6 @@ below:
 Overall Depth 3000r 275 250 225 200 175 150or
 of Slab,mm = more less
 k 1.00 1.05 {10 1.15 1.20 1.25 1.30
-Starss Levee fy ans Nimm?*
 ‘— “a —_
 Strain Stress
 a) (2 Q)
@@ -1163,6 +1158,7 @@ fy dvd Strain at
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/CIVIL/SEM IX/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structure 2018-19 Final.pdf`
 - Printed on paper: duration hours: 3; exam date: 14 November 2018
 - Text: ocr (9 pages), mean OCR confidence 70.3
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Y
@@ -1396,9 +1392,7 @@ ee ee sta
 
 i T aa ° | :
 bs Ee SA tt rey be | 3] As=ppp/100
-Pe wl me ey i im 41 ° ji °
 2 i. 4. am
-. . fi L > T +H d [the
 
 AMIS OF BENDING
 
@@ -1435,12 +1429,10 @@ AMIS OF BENDING
 0-3 oj SET
 0-2 rt ae me
 LI
-7 marine bak (ia ie TSE Eee
 Od i 1 T
 rimmy wp Amy
 POACEAE y A i 7
 / FOATIALA I | raur, A F
-0 FOr UA CATA Lil Au rai
 o °° OH 0-2 0:3 0-4 0:5
 2
 My AebD
@@ -1825,6 +1817,7 @@ S|s
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit state Design...Re-exam 2018-19.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
 - Text: ocr (5 pages), mean OCR confidence 73.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 an
@@ -1918,7 +1911,6 @@ the bottom steel is 75 mm. Draw the reinforcement details.
 --- page 3 ---
 nm nm
 Nn ( |
-at (op) ta | S Im
 mn + =
 o
 
@@ -1960,6 +1952,460 @@ COMPRESSION MEMBERS 129
 a
 
 5\5
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper 739429ca56da
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit state design.... Re-exam 2015-16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 April 2019
+- Text: ocr (2 pages), mean OCR confidence 94.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Civil) Year: IV Semester : VIII
+
+Academic Year: 2018-2019
+Subject: Limit State Design of Reinforced Concrete
+
+Structures Marks: 60
+Date: 20 April 2019 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages : od
+
+Re-examination (2015-16/ 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. One is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all___ Five_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456 permitted
+
+1. a. Discuss difference between pedestal, long column and short column. (4)
+
+b. Discuss the difference between flexural shear, punching shear and torsional shear? (4)
+
+c. Discuss how Limit State Method of design of RCC structures is different from earlier (4)
+theories of design of RCC structures.
+
+2 a. Compare Whitney’s theory for ultimate moment capacity with Elastic Theory for RCC (4)
+beam.
+
+b. A rectangular reinforced concrete beam is to be designed to carry a total (dead + live) (8)
+working load of 30 tones uniformly distributed on a simply supported effective span of 6
+meters. Taking a load factor of 2.0, obtain a suitable mid-span design. The steel to be
+used has a yield stress of 2600 kg/cm? and the concrete has a 28 day cube strength of 250
+kg/cm?. Take b = 25 cm. d= 55 cm. Use Ultimate Load Method.
+
+3 a. A singly reinforced rectangular beam of 3 m span is simply supported and carries a (6)
+working dead load of 25 kN/m and live load of 10 kN/m in addition to its self-weight.
+Design the beam for flexure at mid-span. The materials are M20 grade concrete and
+steel of grade Fe 415. Take b = 230 mm and effective depth d = 300 mm.
+b. A rectangular beam 230 mm wide and 500 mm effective depth is subjected to a factored (6)
+moment of 180 kNm. Find the reinforcement for flexure. The materials are M20 grade
+concrete and HYSD reinforcement of grade Fe 415. (fsce=353 N/mm?)
+
+Vo
+--- page 2 ---
+a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
+300 mm and effective depth of 560 mm is reinforced with 6 no. 28 mm diameter bars.
+Calculate the factored moment of resistance. The materials are M20 grade concrete and
+HYSD reinforcement of grade Fe 415.
+
+b. Determine the shear capacity of the beam section in for a beam of 230 mm x 500 mm _ (6)
+effective depth reinforced with 3 no. 16 mm diameter Fe 415 grade reinforcement and 6
+mm diameter M.S. stirrups at 110 mm c/c. Concrete is of M20 grade.
+
+A simply supported one-way slab of clear span 3.0 m is supported on masonry walls of (12)
+thickness 350 mm. Slab is used for residential loads. Design the slab. The materials are
+grade M20 concrete and HYSD reinforcement of grade 415. Live load shall be 2 kN/m?.
+
+And Floor Finish load of 1kN/m?. (use 130 mm overall depth). Show all the checks.
+
+a. Discuss & comment on IS code requirement for longitudinal and transverse (3)
+reinforcement in columns.
+
+b. A column of size 400 mm x 500 mm carries a factored axial load of 3000 KN. The (9)
+column is short and having a minimum eccentricity emin< 0.05 D. Design the column. The
+materials are M 30 grade concrete and HYSD reinforcement of grade Fe 415.
+
+a. Write a short note on types of footings. (4)
+b. AnR.C.C. column of size 400mm x 400mm reinforced with 8 no. 20mm diameter bars (8)
+carries a working load of 1150 KN. The allowable bearing pressure on soil is 250KN/m?.
+Depth of the footing is 500. Use M20 & Fe415 for both, column and footing.
+Find moment, one way shear & two way shear for which the footing needs to be
+designed.
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper 69cdf516d072
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit_state_design.....Re-exam_2015-16-17-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 June 2019
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (Civil) Year: IV Semester: VIII
+Academic Year: 2018-2019
+
+Subject: Limit State Design of Reinforced Concrete Structures
+Marks: 60
+Date: 13 June 2019 Time: 2.00 pm to 5.00 pm
+Durations: 3 Hrs
+No. of Pages: <-
+Re-Examination (2015-16/ 2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. One ___ is compulsory.
+
+2) Out of remaining questions, attempt any ___Four____ questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. .
+
+8) Use of IS 456 is permitted.
+
+1. a. Discuss the difference in the assumptions in the three methods (Elastic, Ultimate and (6)
+Limit state) of design of RCC structures. :
+b. Discuss strain diagram and stress diagram for concrete in the limit state method of (6)
+design.
+
+2 a. Discuss merits and demerits of ultimate load method theory. (4)
+b. Design a reinforced concrete beam of size 45 cm (effective depth) by 25 cm to fail at (8)
+ultimate moment of 4,500,000 kg-cm. Assume depth to the compression steel is 5 cm
+and to the tension steel is 45 cm. Take 6sy = 2800 kg/cm? and Oscy = 2500 kg/cm? and 6cu
+= 300 kg/cm?. :
+
+3 a. A singly reinforced rectangular beam of 3.5 m span is simply supported and carries a (6)
+working dead load of 22 KN/m and live load of 12 kN/m in addition to its self-weight.
+Design the beam for flexure at mid-span. The materials are M20 grade concrete and
+steel of grade Fe 415. Take b= 230 mm and d= 350 mm.
+b. A rectangular beam 230 mm wide and 500 mm effective depth is subjected to a factored (6)
+moment of 190 kNm. Find the reinforcement for flexure. The materials are M20 grade
+concrete and HYSD reinforcement of grade Fe 415.
+
+4 a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
+300 mm and effective depth of 560 mm is reinforced with 5 no. 25 mm diameter bars.
+Find the ultimate moment of resistance. The materials are M20 grade concrete and
+HYSD reinforcement of grade Fe 415.
+
+\/2
+--- page 2 ---
+b. Determine the shear capacity of the beam section of 230 mm x 500 mm effective depth (6). .
+reinforced with 3 no. 16 mm diameter Fe 415 grade reinforcement and 6 mm diameter .
+MLS. stirrups at 100 mm c/c. Concrete is of M20 grade.
+
+A drawing room of a residential building measures 4.3 m x 6.55 m. It is supported on 350 (12)
+mm thick walls on all four sides. The slab is simply supported at edges with no provision
+
+to resist torsion at corners. Design the slab using grade M20 concrete and HYSD
+reinforcement of grade Fe 415. Take overall depth of slab 180mm. Live Load 2 kN/m?
+
+and Floor Finish load of 1 kN/m?.
+
+a. Discuss and comment on IS code requirements for longitudinal and transverse (3)
+reinforcement in column.
+
+b. Design a circular short column to carry an axial working load of 1200 kN. Assume, emin< (9)
+0.05 D
+Use: a. Lateral ties
+
+b. helical reinforcement
+
+The materials are M20 grade concrete and HYSD reinforcement of grade Fe 415. For the
+lateral reinforcement mild steel may be used.
+
+a. Write a short note on various type of footings. (4)
+b. AnR.C.C. column of size 450mm x 450mm reinforced with 8 no. 20mm diameter bars (8)
+carries a working load of 1750kN. The allowable bearing pressure on soit is 300KN/m?.
+Depth of the footing is 650. Use M20 & Fe415 for both column and footing.
+Find moment, one way shear & two way shear for which the footing needs to be
+designed..
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 74d9d7323f34
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED CONCRETE STRUCTURES (CIVIL), FINAL EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2017
+- Text: ocr (6 pages), mean OCR confidence 79.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘
+
+H Programme: B. Tech (CIVIL) Year: IV _ Semester: VII ~
+
+: co
+Academic Year: 2017-2018
+
+Subject: Limit State Design of Reinforced Concrete Structures - '
+a Marks: 60 ~,,,;\S0¥8 99
+
+Date: 23 November 2017 ~ Time: 10.00°amn to i” :
+Durations: 3 (hrs)<+ .¢ gy W4 4
+
+No. of Pag 0 ae bas
+
+?
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. One _ is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all___ Five_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘Suitable data if necessary.
+
+L. a. Explain difference between pedestal, long column and short column. GB
+b. What is the difference between flexural shear, punching shear and torsional shear? GB
+c. Explain how Limit State Method of design of RCC structures is different from earlier
+theories of design of RCC structures. (3)
+d. Write a short note on development length. (3)
+2 a. Explain Whitney’s theory for ultimate moment capacity for RCC beam. (3)
+
+b. A singly reinforced rectangular beam with 80 cm effective depth and 30 cm breadth has
+steel area of 50 cm2 whose yield stress is 2,900 kg/cm?. The cube compressive strength of
+the concrete is 200 kg/cm. Find depth of neutral axis. Find ultimate moment resistance. (9)
+What is the value of maximum ultimate moment that this beam cross-section can take 2
+What will be the corresponding value of steel reinforcement in case of maximum ultimate
+moment? (use ultimate load method). |
+3 a. Singly reinforced rectangular beam 230 mm wide and 400 mm effective depth is (6)
+reinforced with 2 no. 20 mm diameter bars. Find out the factored moment of resistance.
+
+4 Also find out the factored moment of resistance if it is reinforced with 4 no. 20 mm
+diameter. The materials are M30 grade concrete and reinforcement of grade Fe 415.
+
+b. Find the factored moment of resistance of a beam section 230 mm wide and 350 mm
+effective depth reinforced with 2-16 mm diameter bars as compression reinforcement at (6)
+an effective cover of 40 mm and 4-20 mm diameter bars as tension reinforcement. The
+materials are M20 grade concrete and mild steel reinforcement.(fsc=217 N/mm’).
+
+‘ | . /6
+--- page 2 ---
+é
+
+“4 a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
+300 mm and effective depth of 560 mm is reinforced with 6 no. 28 mm diameter bars.
+Calculate the factored moment of resistance. The materials are M20 grade concrete and
+HYSD reinforcement of grade Fe 415.
+
+b. Determine the shear capacity of the beam section having size 230 mm x 500 mm effective (6)
+
+depth and reinforced with 3 no. of 16 mm diameter bars of Fe 415 grade and 6 mm
+diameter M.S. stirrups at 120 mm c/c. Concrete is of M20 grade.
+
+5 a. Find Design Moments for a interior slab having dimensions 5m x 4m. and Factored Load (4)
+of 8 KN/m? (including self -weight , floor finish and live load). (Use enclosed table).
+
+b. A simply supported rectangular beam of 6 m span carries a uniformly distributed factored (8)
+load including self-weight of 20 kN/m. The beam size is 230 mm x 600 mm effective
+depth. Design the beam. The materials are grade M20 concrete and HYSD reinforcement
+of grade Fe 415. (Show all checks.)
+
+6 a. Write a short note on IS code requirement for longitudinal and transverse reinforcement in (3)
+columns. (9)
+b. Determine the reinforcement to be provided in a short column subjected to bending in x
+direction, with the following data.(Take d’ = 40 mm)
+
+Size of column 300mm x 650mm
+Concrete mix M20
+Characteristic strength of reinforcement 415 N/mm?
+Factor load, P 800 kN
+Factor moment, M 300 kN-m
+7 a. Write a short note on types of footings. (3)
+
+b. A RCC column of size 350mm x 350mm reinforced with 8 no. 16 mm dia. bars carries a (9)
+load of 800 KN. The safe bearing pressure on soil is 200 KN/m?. Design an isolated square
+pad footing. Use M20 and Fe 415 for both, column and footing. Clear cover for the
+bottom steel is 75 mm. Draw the reinforcement details. ;
+--- page 3 ---
+Chart 32 COMPRESSION WITH BENDING —Rectangular
+Section — Reinforcement Distributed Equally on Two Sides
+
+1h TT _.
+Het ae [Ti 2 = Os
+gieaeeeese SEmEReeaE CH ty = 415 N/mm | d/p = 0-10
+
+Poe Crt
+YEE rt
+
+= ss +
+
+e \ e
+
+Tera ° H e .
+7 an A, =pbD/100
+t 1 it ° i
+4 i im 44 t d
+} Coot en OF BENDING
+Peete
+
+pj} tt
+
+ae
+|
+--- page 4 ---
+TABLE 11-5 ;
+BENDING MOMENT COEFFICIENTS FOR RECTANGULAR PANELS
+SUPPORTED ON FOUR SIDES WITH PROVISION FOR TORSION AT CORNERS
+
+Long
+span
+Type of panel coeffi-
+and moments Short span coefficients a, cients
+
+considered (values of 1,/1,) Gy for
+all values
+
+of U/l,
+
+no.
+
+10 | 11 | 12 | 13 | 14] 15 | 1.75] 2.0
+(1) (2) (3) | (4) | (5) | (6) | (7) | (8) | (9) | (0) (11)
+
+1 [Interior panels:
+
+Negative moment at} 0.032] 0.037] 0.043] 0.047] 0.051] 0.053] 0.060}0.065] 0.032
+continuous edge
+
+Positive moment at mid span | 0.024] 0.028] 0.032] 0.036] 0.039} 0.041 | 0.045) 0.049 0.024
+4 |Two adjacent edges discontinuous:
+continuous edge
+
+Negative moment at 0.047] 0.053] 0.060] 0.065} 0.071 | 0.075} 0.084] 0.091} 0.047
+Positive moment at mid-span | 0.035] 0.037] 0.040] 0.043 0.044 | 0.045 | 0.049} 0.052 0.035
+
+SS ee eee eee eee
+
+|) 2 |One short edge discontinuous:
+
+Negative moment at} 0.037} 0.043] 0.048] 0.051 | 0.055| 0.057] 0.064| 0.068} 0.037
+continuous edge
+
+Positive moment at mid-span | 0.028} 0.032] 0.036 | 0.036] 0.041 | 0.044 | 0.048] 0.052 0.028
+
+3 |One long edge discontinuous:
+
+Negative moment at 0.037] 0.044] 0.052] 0.057] 0.063| 0.067] 0.077] 0.085| 0.037
+continuous edge
+
+Positive moment at mid-span | 0.028] 0.033] 0.039] 0.044 | 0.047 | 0.051 | 0.059} 0.065 0.028
+
+Positive moment at mid-span | 0.035] 0.040} 0.045 | 0.049} 0.053] 0.056 | 0.063 | 0.069 0.035
+
+
+5 |Iwo short edges discontinuous:
+
+continuous edge
+Negative moment at} 0.045] 0.049] 0.052] 0.056] 0.059] 0.060] 0.065} 0.069 =
+
+b— — — —— —— — — — — HH et te Hh
+
+6 |Two long edge discontinuous:
+
+Negative moment = _ _ _ _ _ _ ne 0.045
+continuous edge :
+Positive moment at mid-span | 0.035] 0.043] 0.051 | 0.057 | 0.063 | 0.068 | 0.080] 0.088 0.035
+
+7 |Three edges discontinuous
+(One long edge continuous):
+
+Negative moment at 0.057| 0.064] 0.071 | 0.076| 0.080] 0.084} 0.091 | 0.091 -
+continuous edge
+— Positive moment at mid-span | 0.043] 0.048 | 0.053 | 0.057 | 0.060 | 0.064 | 0.069 | 0.073 0.043
+8 |Three edges discontinuous
+a (One short edge continuous):
+
+Negative moment at _ _ _ _ _ _ _ _ 0.057
+continuous edge :
+Positive moment at mid-span | 0.043] 0.051 | 0.059) 0.065] 0.071 | 0.076] 0.087 | 0.096 0.043
+
+9 |Four edges discontinuous:
+Positive moment at mid-span | 0.056] 0.064} 0.072] 0.079 | 0.085 | 0.089] 0.100} 0.107] 0.056
+
+Alé
+--- page 5 ---
+2.0 \ \ 7
+16 \ \ a
+; \
+
+g \
+2, NS
+: ~
+
+a
+“2 Pe -———_|4 = 199
+e pp = 24g[
+2 08
+°
+=
+0.4 Note: £ is steel stress of service loads in N/mnt
+0 0.4 0.8 1.2 1.6 2.0 2.4 2.8 3.0
+
+Percentage tension reinforcement
+Area of cross-section of steel required
+
+f, = 0.58 f, x
+
+Modification factor for tension reinforcement
+
+Area of cross-section of steel provided
+--- page 6 ---
+DESIGN SHEAR STRENGTH OF CONCRETE 71,, N/mm?
+
+100 A Concrete grade
+Ss
+bd M20 M25 M30
+(1) (2) (3) (4)
+< 0.15 0.28 0.29 0.29
+0.25 0.36 0.36 0.37
+0.50 0.48 0.49 0.50
+0.75 0.56 0.57 0.59
+1.00 0.62 0.64 0.66
+1.25 0.67 0.70 0.71
+
+1.50 0.72 0.74 0.76
 ````
 
 ## 2017-18 · Final-Exam · Sem 8 · paper 311cfed54d10
@@ -2860,6 +3306,7 @@ fis DESIGN AIDS TOE BENEOROES CONCEETE
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED CONCRETE STRUCTURES B TECH (CIVIL), 2016-17 FINAL EXAM.pdf`
 - Printed on paper: exam date: 23 November 2016
 - Text: ocr (29 pages), mean OCR confidence 68.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3135,7 +3582,6 @@ a
 S
 a. orelyé : J
 a8 ya
-~~\~-¥ oA ANA ON LN NU fy
 |
 0 i wAl J ee |
 i?) 0-05 0-10 0-45 0-20 0-25 0-30 j
@@ -3172,7 +3618,6 @@ _ a : i a 2 a
 ina LH % = 418 Nimm | d7D= 0-05
 : : | HH HEE | =
 1°3 ! t ener
-iz im Ee | i : o—>
 | im | i: | e | e ;
 1 eicrereren b te | o| As*pbD/i00
 i
@@ -3215,7 +3660,6 @@ XN AN ;
 Chact 33 COMPRESSION WITH BENDING — Rectangular
 Section — Reinforcement Distributed Equally on Two Sides
 
-EEE LG cit) EERE E) |, = 415 numim? | o'7p = 0-15
 oe
 1-3 & t-— 0 —
 K ioe : ;
@@ -3705,6 +4149,7 @@ an
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures 2016-17 Final , 2014-15,2015_cd529d15.pdf` (+1 identical copies)
 - Printed on paper: exam date: 13 April 2017
 - Text: ocr (6 pages), mean OCR confidence 67.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3959,7 +4404,6 @@ Ol O22 0-3 Oo 4
 “4 z
 M, /t., bO
 
-j28 DESIGN adOS POH REPNPORCED CONT RETE
 
 fy S044
 --- page 6 ---
@@ -4540,6 +4984,7 @@ O-3 O-4
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED B TECH (CIVIL), BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 08 June 2016
 - Text: ocr (8 pages), mean OCR confidence 68.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | SVKM’s NMIMS wa
@@ -4781,7 +5226,6 @@ REeeer ere te
 Loja | pe i There
 
 ao [fe e
-peor bie | | As=ppo/ieo
 
 1 | T (2 e
 
@@ -4801,6 +5245,8 @@ T t
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures 2015-16 Re-exam.pdf`
 - Printed on paper: exam date: 01 July 2016
 - Text: ocr (16 pages), mean OCR confidence 44.4
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 a SVKM’s NMIMS
@@ -5024,10 +5470,7 @@ jot tel Td it TT iti Pert
 
 pte eT Tt a Piri
 
-i St tea i il Li
 i a PRINT sie | i T a ia
-PSS CN SRE COCErE Eee
-pe SN ER Ce a i ef
 SRS f oo
 
 ia ar
@@ -5097,7 +5540,6 @@ im}
 an;
 we oe Co
 Leary im a Cory
-zenipl t i eD ri PH et
 tt ne oe
 iit tot toi
 ii itil Ty
@@ -5228,7 +5670,6 @@ Mu/fey bo
 
 Reinfe it Bistribertes
 
-rai AA aT LAE PTE TT im cer y
 aa yd Roe eet
 Ae rae a van Liaw T 7
 ple i aa ie
@@ -5423,6 +5864,7 @@ Te maz Niaz? 23 2.8 3 35 a? 4.0
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures 2015-16 Re-exam_c71e5936de.pdf`
 - Printed on paper: exam date: 01 July 2016
 - Text: ocr (5 pages), mean OCR confidence 72.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 N . SVKM’s NMIMS
@@ -5596,7 +6038,6 @@ Chart 44 COMPRESSION WITH BENDING —flectangular
 Section ~ Reimforcement Distributed Equally on Four Sides
 
 it oT To “|
-fhe 415 Nimm | digs OGG *
 Fi snnacesmmnesesms
 qo b. intl —e : aie’ eeaee
 3 v4 ee elena e
@@ -5629,203 +6070,6 @@ ae
 pre a4
 G
 
-an DESLES ADDIE FUR RESR DROP D MOMLETE
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper 739429ca56da
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit state design.... Re-exam 2015-16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 April 2019
-- Text: ocr (2 pages), mean OCR confidence 94.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Civil) Year: IV Semester : VIII
-
-Academic Year: 2018-2019
-Subject: Limit State Design of Reinforced Concrete
-
-Structures Marks: 60
-Date: 20 April 2019 Time: 2.00 pm to 5.00 pm
-Durations: 3 (hrs)
-No. of Pages : od
-
-Re-examination (2015-16/ 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. One is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all___ Five_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-8) Use of IS 456 permitted
-
-1. a. Discuss difference between pedestal, long column and short column. (4)
-
-b. Discuss the difference between flexural shear, punching shear and torsional shear? (4)
-
-c. Discuss how Limit State Method of design of RCC structures is different from earlier (4)
-theories of design of RCC structures.
-
-2 a. Compare Whitney’s theory for ultimate moment capacity with Elastic Theory for RCC (4)
-beam.
-
-b. A rectangular reinforced concrete beam is to be designed to carry a total (dead + live) (8)
-working load of 30 tones uniformly distributed on a simply supported effective span of 6
-meters. Taking a load factor of 2.0, obtain a suitable mid-span design. The steel to be
-used has a yield stress of 2600 kg/cm? and the concrete has a 28 day cube strength of 250
-kg/cm?. Take b = 25 cm. d= 55 cm. Use Ultimate Load Method.
-
-3 a. A singly reinforced rectangular beam of 3 m span is simply supported and carries a (6)
-working dead load of 25 kN/m and live load of 10 kN/m in addition to its self-weight.
-Design the beam for flexure at mid-span. The materials are M20 grade concrete and
-steel of grade Fe 415. Take b = 230 mm and effective depth d = 300 mm.
-b. A rectangular beam 230 mm wide and 500 mm effective depth is subjected to a factored (6)
-moment of 180 kNm. Find the reinforcement for flexure. The materials are M20 grade
-concrete and HYSD reinforcement of grade Fe 415. (fsce=353 N/mm?)
-
-Vo
---- page 2 ---
-a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
-300 mm and effective depth of 560 mm is reinforced with 6 no. 28 mm diameter bars.
-Calculate the factored moment of resistance. The materials are M20 grade concrete and
-HYSD reinforcement of grade Fe 415.
-
-b. Determine the shear capacity of the beam section in for a beam of 230 mm x 500 mm _ (6)
-effective depth reinforced with 3 no. 16 mm diameter Fe 415 grade reinforcement and 6
-mm diameter M.S. stirrups at 110 mm c/c. Concrete is of M20 grade.
-
-A simply supported one-way slab of clear span 3.0 m is supported on masonry walls of (12)
-thickness 350 mm. Slab is used for residential loads. Design the slab. The materials are
-grade M20 concrete and HYSD reinforcement of grade 415. Live load shall be 2 kN/m?.
-
-And Floor Finish load of 1kN/m?. (use 130 mm overall depth). Show all the checks.
-
-a. Discuss & comment on IS code requirement for longitudinal and transverse (3)
-reinforcement in columns.
-
-b. A column of size 400 mm x 500 mm carries a factored axial load of 3000 KN. The (9)
-column is short and having a minimum eccentricity emin< 0.05 D. Design the column. The
-materials are M 30 grade concrete and HYSD reinforcement of grade Fe 415.
-
-a. Write a short note on types of footings. (4)
-b. AnR.C.C. column of size 400mm x 400mm reinforced with 8 no. 20mm diameter bars (8)
-carries a working load of 1150 KN. The allowable bearing pressure on soil is 250KN/m?.
-Depth of the footing is 500. Use M20 & Fe415 for both, column and footing.
-Find moment, one way shear & two way shear for which the footing needs to be
-designed.
-````
-
-## 2015-16 · Re-Exam · Sem 8 · paper 69cdf516d072
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit_state_design.....Re-exam_2015-16-17-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 13 June 2019
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (Civil) Year: IV Semester: VIII
-Academic Year: 2018-2019
-
-Subject: Limit State Design of Reinforced Concrete Structures
-Marks: 60
-Date: 13 June 2019 Time: 2.00 pm to 5.00 pm
-Durations: 3 Hrs
-No. of Pages: <-
-Re-Examination (2015-16/ 2017-18)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. One ___ is compulsory.
-
-2) Out of remaining questions, attempt any ___Four____ questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary. .
-
-8) Use of IS 456 is permitted.
-
-1. a. Discuss the difference in the assumptions in the three methods (Elastic, Ultimate and (6)
-Limit state) of design of RCC structures. :
-b. Discuss strain diagram and stress diagram for concrete in the limit state method of (6)
-design.
-
-2 a. Discuss merits and demerits of ultimate load method theory. (4)
-b. Design a reinforced concrete beam of size 45 cm (effective depth) by 25 cm to fail at (8)
-ultimate moment of 4,500,000 kg-cm. Assume depth to the compression steel is 5 cm
-and to the tension steel is 45 cm. Take 6sy = 2800 kg/cm? and Oscy = 2500 kg/cm? and 6cu
-= 300 kg/cm?. :
-
-3 a. A singly reinforced rectangular beam of 3.5 m span is simply supported and carries a (6)
-working dead load of 22 KN/m and live load of 12 kN/m in addition to its self-weight.
-Design the beam for flexure at mid-span. The materials are M20 grade concrete and
-steel of grade Fe 415. Take b= 230 mm and d= 350 mm.
-b. A rectangular beam 230 mm wide and 500 mm effective depth is subjected to a factored (6)
-moment of 190 kNm. Find the reinforcement for flexure. The materials are M20 grade
-concrete and HYSD reinforcement of grade Fe 415.
-
-4 a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
-300 mm and effective depth of 560 mm is reinforced with 5 no. 25 mm diameter bars.
-Find the ultimate moment of resistance. The materials are M20 grade concrete and
-HYSD reinforcement of grade Fe 415.
-
-\/2
---- page 2 ---
-b. Determine the shear capacity of the beam section of 230 mm x 500 mm effective depth (6). .
-reinforced with 3 no. 16 mm diameter Fe 415 grade reinforcement and 6 mm diameter .
-MLS. stirrups at 100 mm c/c. Concrete is of M20 grade.
-
-A drawing room of a residential building measures 4.3 m x 6.55 m. It is supported on 350 (12)
-mm thick walls on all four sides. The slab is simply supported at edges with no provision
-
-to resist torsion at corners. Design the slab using grade M20 concrete and HYSD
-reinforcement of grade Fe 415. Take overall depth of slab 180mm. Live Load 2 kN/m?
-
-and Floor Finish load of 1 kN/m?.
-
-a. Discuss and comment on IS code requirements for longitudinal and transverse (3)
-reinforcement in column.
-
-b. Design a circular short column to carry an axial working load of 1200 kN. Assume, emin< (9)
-0.05 D
-Use: a. Lateral ties
-
-b. helical reinforcement
-
-The materials are M20 grade concrete and HYSD reinforcement of grade Fe 415. For the
-lateral reinforcement mild steel may be used.
-
-a. Write a short note on various type of footings. (4)
-b. AnR.C.C. column of size 450mm x 450mm reinforced with 8 no. 20mm diameter bars (8)
-carries a working load of 1750kN. The allowable bearing pressure on soit is 300KN/m?.
-Depth of the footing is 650. Use M20 & Fe415 for both column and footing.
-Find moment, one way shear & two way shear for which the footing needs to be
-designed..
 ````
 
 ## 2014-15 · Final-Exam · Sem 8 · paper 485500d8c01d
@@ -5835,6 +6079,8 @@ designed..
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures 2014-15 Final.pdf`
 - Printed on paper: max marks: 60; exam date: 16/04/2015
 - Text: ocr (15 pages), mean OCR confidence 52.9
+- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’s NMIMS
@@ -5964,7 +6210,6 @@ YT RET i
 mis a aa N ROL Scees SNE RO RE RI
 
 wes (ARCO EIN TT SS £
-y CON ANE a Nope: SEL Snis eee
 ; Ose - Tee 5 oR HP i og
 
 0-2 | RAO WOE NEE
@@ -5996,7 +6241,6 @@ FE AXIS OF BENDING
 
 . iN Ne Re
 CRO CORCENONG IRSE ONT
-pS TN RN RN @ aN
 
 _ | 1 i a rik
 
@@ -6004,7 +6248,6 @@ oe
 ia
 — T ‘ fi i i ‘ i
 eer al Hl i wal pig i tf | i” 4
-6 ZOE UPA Z Ce A i ie I
 6 O-f G-2 6-3° O-k : 0-5
 . 2
 KeAgy.bG
@@ -6023,7 +6266,6 @@ oS L a H 6 I
 eae RL 4 LL i ‘ ; _—— .
 1 SCENE ate | tHe
 ‘ a T Fo AXIS OF BERGING
-Ns * + a 7 TT —s rT q
 PORTMR ICN ITS coo im Preece a
 iatsnSaa nates SEREEEGEEaaEuaSEEEEETe
 
@@ -6199,8 +6441,6 @@ Sy ap deree deren cesscee
 Z aie 1A rai 7+; Z
 -9 Liz ine Ane Cry
 _ i TRA Ts (al Vai ~ 14 i
-(ea a’ CTA A ZI i :
-fit f | a A. Z i
 A van SA 2 a +
 -0-3 pe tse A
 it TA [3 T | A - |
@@ -6261,7 +6501,6 @@ Section — Reinforcement Distributed Equally on-Four Sides
 SA T
 cae A, Lie a
 Z 4 f i t
-; a a ar a Ay i
 | Q-4 t oF I sw ZITA, a H
 | ASS an A a iit
 SAR A vd cl
@@ -6271,15 +6510,10 @@ wa ' iy ; del im =
 T i H i!
 , i Sy A A ee
 703 FAA AA ret
-ei A Ais iS Vid va i i
 | Ta Z 7A Fie i i
 A a f AWWA TAT re
-“iA YF ALT U i] i
-~O4 (A Fal Zw? A L D i i
-a a Es} L- t 1 u 4
 a8 ia i AA iy 7
 7 2, f. yi mai $ i
-} x Os i AC Ae TI i
 3 wy, Ps | i
 a a ra mmr sys 1 1
 ' vi Boil ¥ | ral ti i 7
@@ -6299,7 +6533,6 @@ Ali! { i H € e
 i Sf 1 H. eceleoee
 , : -~0-S Fy? i i 3
 : i ‘ |g’
-oe oF 4 r i {¢ He
 . _ : = } i K=——— AKIS OF BENDING
 fee - 1-0 - L i! it Jt :
 o ee 0-2 0-8 0-4
@@ -6313,14 +6546,10 @@ Section — Reinforcement Distributed Equally on Four Sides
 
 os a a 7
 cela (VT Ve PEPE Tt i { Litt
-ES: Li te 7 HH +f | | =
-| Be eR Py ee 7a o
-iS 7, ral {iy ei i ii
 y Fi i i 14
 Fiver eeneee! oe
 “ | 1 { i i
 27 2 mn
-ff i t a t i i
 ie A i (a Cry
 HH? it
 if i {it
@@ -6455,6 +6684,264 @@ ea 0.062 O.074 €.084 0.092 0.099 0.104 0.113 O.118; 0.122 0.124
 13 - _ a
 ````
 
+## 2014-15 · Re-Exam · Sem 6 · paper d73cc7df7c6d
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED CONCRETE STRUCTURES BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 03/07/2015
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III
+
+Batch: 2013-14 Semester: VI
+
+Academic Year: 2014-2015 a
+
+Subject: Limit State Design of Reinforced Concrete Structures ae
+M .
+Date: 03/07/2015 Mae
+
+Durations: }
+
+Re-Examination |
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the answer book, which is provided for their use.
+
+NB: 1. Question no. 1 is compulsory. Out of remaining questions, attempt any four questions.
+2. In all five questions to be attempted
+3. All questions carry equal marks.
+4. Answer to each new question to be started on fresh page.
+5. Use of IS 456-2000 is not permitted.
+6. Assume any other data, wherever not given, suitably but state and justify the same.
+7. Illustrate your answer / design with neat sketches wherever required.
+8. Figures in brackets on the right hand side indicate full marks.
+
+1. Solve any four. (20)|
+a. Write short note on working stress method, ultimate load method and limit state
+method.
+
+b. What do you understand by flexural shear, punching shear and torsional shear. Give
+formula for allowable flexural shear stress in concrete.
+
+c. Write anote short on IS code requirement for minimum eccentricity of column. Also state
+design assumption for column design by limit state method.
+
+d. Write a short note on various types of foundation.
+
+e. State IS code requirements for design of RCC slabs.
+
+a. Derive expression for moment resistance for singly reinforced beams as per Whitney’s | (5)
+theory.
+
+b. A rectangular beam has 600 mm effective depth and 400 mm breadth. The steel area is (15)
+4000 mm* Take yield stress for steel 280 N/mm?. The cube compressive strength of the
+concrete is 25 N/mm’. Find depth of neutral axis. Find ultimate moment resistance. What
+is the value of maximum ultimate moment that this beam cross-section can take? What is
+the corresponding value of steel reinforcement?
+
+3. A simply supported rectangular beam of 4 m span carries a uniformly distributed (28)
+characteristic load including self-weight of 20 kN/m. The beam section is 230 mm x 450 mm
+overall. Design the beam for maximum moment and shear. Show the checks for development
+length, deflection and cracking. Use limit state method. The materials are grade M20
+concrete and reinforcement of grade Fe 415. The beam is suspended from the upper floor
+level.
+
+4. A simply supported one-way slab of clear span 3.0 m is supported on masonry walls of (223
+thickness 350 mm. Slab is used for residential loads. Design the slab. The materials are grade .
+M20 concrete and reinforcement of grade 415. Live load shall be 2 kN/m?. Show the checks
+for development length, shear, deflection and cracking.
+
+Vo
+--- page 2 ---
+a. Give IS code requirements for transverse and longitudinal reinforcements of column. (5)
+
+b. A short column of size 230 mm x 350 mm is subjected to a factored load of 1500 kN. If (5)
+the unsupported length of the column is 3.2 m, find out design moments due to minimum
+eccentricity. Can we apply simplified formula of design in this case?
+
+6. A short column of 300 mm x 500 mm size is subjected to an axial factored load of 2000 kN (2
+and factored moments My, = 80 kNm and Myy = 60 kNm. Determine the reinforcement in the
+column if the moment due to minimum eccentricity is less than the applied moments. The
+materials are M20 grade concrete and reinforcement of grade Fe 415.
+
+7. A300 mm x 600 mm R.C.C. column carries a service load of 800 kN and service moments M, = (a |
+80 kNm about its major axis and My = 50 kN about its minor axis. It also carries horizontal
+thrust of 60 kN along longer side of the column. The column is reinforced with 8 no. 28 mm
+diameter HYSD reinforcement of grade Fe 415, in concrete of grade M 30. Design an isolated
+rectangular pad footing. The Materials for footing shall be M 20 grade concrete and
+reinforcement of grade Fe 415. ;
+
+.
+
+7
+````
+
+## 2014-15 · Re-Exam · Sem 6 · paper f479bb714491
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMITE STATE DESIGN OF REINFORCED CONCRETE STRUCURES B TECH CIVIL 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 12/05/2015
+- Text: ocr (3 pages), mean OCR confidence 84.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III S
+Batch: 2013-14 \
+Academic Year: 2014-2015
+Subject: Limit State Design of Reinforced Concrete Structur
+Marks:
+Date: 12/05/2015 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: .
+1. Question No. | is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. Imall 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Q.1) | Solve (any four) (20)
+a) Provision in IS 456 for beam subjected to shear force and torsion. 05
+b) Partial safety factors of loads and material 05
+c) Under reinforced section 4 05
+d) Development length and anchorage length 05
+e) Explain limit state method and various types of limit state. 05
+Q.2) | Solve 20
+
+a) Design a two way slab of size 3.5m x 4.5m with discontinuous and simply 20
+supported edges on all the sides with corners held down and supporting a service
+live load of 4kN/m?. Adopt M20 and Fe-415 HYSD bars.
+
+Consider ‘Ox = 0.0748 & By = 0.056 7
+
+Q.3) | Solve 20
+
+a) Design the reinforcement in a circular column of diameter 300mm to support a 12
+service axial load of 800 KN. the column has an unsupported length of 3m and is
+braced against side away. The column is reinforced with helical ties. adopt M20
+and Fe415 HYSD bars.
+
+b) Write down the steps involved in uniaxial column. Define pedestal, short column 8
+and long column.
+
+Q.4) | Solve 20
+
+a) Design a reinforced footing for a rectangular column of section 300mm x 500mm 20
+supporting an axial factored load of 1500 Kn. The safe bearing capacity of the
+soil at site is 185 kKN/m?.adopt M20 and Fe415 HYSD bars.
+
+1/2,
+--- page 2 ---
+Q.5) | Solve
+
+20
+
+a)., | Explain Whitney’s approach for rectangular stress block. Also Derive the| 10
+equation for ultimate moment of resistance for singly reinforced beam
+
+b) | b) Determine the safe UDL the beam can carry over a simply supported span of | 10
+6m. Having b= 350mm, d= 550mm (effective), Ast = 4-20mm dia.
+Consider _ M20 & Fe415. Use ultimate load method. Load factor = 2.1
+
+Q.6) | Solve 20
+
+a) A T beam slab floor of anoffice comprises of a slab 150mm thick spanning | |
+between ribs spaced at 3m centres.the effective span of the beam is 8m. Liveload 14
+on floor is 4kN/m?. Using M20 grade concrete and Fe415 HYSD bars, design one
+of the intermediate beam.
+
+b) Calculate the area of reinforcement required for a singly reinforced concrete |. ~
+beam 230mm wide and 380mm deep to resist an ultimate moment of| 06
+50kNm.assume M20,Fe500combination of concrete and steel and effective cover
+equal to 35mm.
+
+Q7) (20)
+
+a) A simply supported R.C beam 380mm wide and 750mm deep. Carries a | 15
+
+: uniformly distributed load 84KN/m (including self-weight) over a span of 6m. the
+beam is reinforced with 6 no. 22mm diameter bars of grade Fe500 on tension
+face. Design the shear reinforcement :
+
+b) Explain the curtailment of bars and bundled bars. 05
+
+2/3
+--- page 3 ---
+S q SS fi
+i P| thd lo
+2 42 N N MS! fan Teg
+¢ a a
+Fat ms [~~ fe" 190 =
+5 O8 PT T a
+2 F=f s~290
+a |
+2 }
+O46 Note: tf, IS STEEL STRESS OF SERVICE
+
+LOADS WN N{mm?
+
+ie) On 08 b2 6 20 26 26 30
+PERCENTAGE TENSION REINFORCEMENT
+
+Grade of concreie M 26 M 25 M 30 M35 M 46 and above
+Design bond stress, 1.2 14 1.5 L.7 19
+Ty. NéAnm?
+
+Overait Depth 300 or 275 280 22§ 200 175 1SQar
+
+of Slab, mm more less
+
+k 1.00 1,05 1.10 115 120 125 1.30
+
+Table 19 Design Shear Strength of Concrete, t,, N/mm?
+(Clauses 40.2.1, 40.2.2, 40.3, 40.4, 40.5.3, 41.3.2, 41.3.3 and 41.4.3)
+
+100% Concrete Grade
+M15 M20 M25 Mw M35 M40anul above
+a @) °) @ © © m
+$015 0.28 0.28 0.29 _ 029 0.29 0.30
+0.25 035 0.36 0% 0.37 037 0.38
+0.50 0.46 0.48 0.49 Osd 0.50 0.5!
+0.75 Os 0.56 037 0.59 0.59 0.60
+1.00 0.60 0.62 0.64 0.66 0.67 0.68
+1.25 0.64 0.67 0.70 on 0.73 078
+1.50 0.68 0.72 074 0.76 0.78 0.79
+L7s O71 0.73 O78 0.80 0.82 Os4
+2.00 0.71 0.79 0.82 0.84 0.86 0.88
+2.25 071 0.81 085 08s 0.90 os2
+2.50 0.71 282 Oss os1 0.93 0.95
+2.75 O71 0.82 090 0.94 0.95 0.98
+3.00 ov 0.82 092 0.96 0.99 10
+and
+above
+
+Table 20 Maximum Shear Stress, 7,1... N/mm?
+( Clauses 40.2.3, 40.2.3.1, 40.5.1 and 41.3.2 )
+
+Concrete MIS M20 M25 M30 M35 M40
+Grade and
+above
+
+Tomax» Nien? 25 28 3a 33 37 4.0
+
+“Z
+````
+
 ## 2014-15 · Re-Exam · Sem 8 · paper f9ee6d060359
 
 - Departments: Civil
@@ -6462,6 +6949,8 @@ ea 0.062 O.074 €.084 0.092 0.099 0.104 0.113 O.118; 0.122 0.124
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit State Design of Reinforced Concrete Structures 2014-15 Re-exam.pdf`
 - Printed on paper: exam date: 30/06/2015
 - Text: ocr (15 pages), mean OCR confidence 53.4
+- 29 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SVKM’s NMIMS
@@ -6602,7 +7091,6 @@ Ex a oe T ; ——
 
 4.6 TTT? Ti it ! {
 
-ow ct f im I mo
 | i iz ]
 --- page 4 ---
 Section
@@ -6650,7 +7138,6 @@ fA ATT PT
 
 |? i Vana Ti {tt fy
 1 EAS [21 CA ZA =—aane
-oi mp an | 4 Cet Ht i cH
 6 G4 0-2 6 a 0S
 
 4
@@ -6660,34 +7147,28 @@ KoA obo
 2
 --- page 5 ---
 Chart 23 COMPAESHEGR WITH BER DIR G — Rect la!
-ection — Reinforcement Qistributes Eceally an Treo Sides
 
 12
 
-i i Liki | PERL TEE FRE Kosiet 2 : -
 t Lon Cr ofp 2 445 Rémov |-6/6 = 0-13
 { ptt T
 i] i] }
 TSE t ! H te pp ——
 im ci i “i . |
-SI | E | i r t
 BES f 1 | € [ €
 sot i Lt
 
 ¢ | é
 
 +2: | im i LEE epbo/igd
-ReTSTo co Ltr Pte | oep Be boyiee
 
 eters (i: |
-os EE ee Log’ fF i
 it REA Ee “+ ¢ deg
 
 as ' rik a! TT i ! fm AXIS OF BERDHEG
 
 CRESTS rey co COT
 TORR I A RTS i ! ti rittirrit fis
-Lt rN XI i H i i ti imi t tTiit t
 TI { NOR i j t reer rr i i
 itt { il i i
 | | I L
@@ -6709,7 +7190,6 @@ eo ei 4 ie:
 SoA ay se
 
 1 ans a tit
-ars [yA A) TT raera A SER PCREARE
 [aaa Pad ee Hy eo ee
 0 0-2 : 03 O-k Q-
 Mu Aen bd
@@ -6753,7 +7233,6 @@ T
 7
 aa
 VAM, Li? ; if 5 ai
-Sis AY MY A) ds aS a
 G-i 0-2 0-3 G-g
 --- page 9 ---
 
@@ -6786,17 +7265,10 @@ Tvl fi tt rt
 Li | Fat |
 Dro i. Ti TI
 I [ il i i
-0-8 T i Pitti p yt ie
-. T ml 4 ib I | i
-fa] eral i a ee a
 a eel | i
 = : ait tT
-S Oovk k. Fo Et a es
-. SRS cy i Pal i a a i F
 a? 1 NI A Te 1& Ke] al { PoE tri i
 TN RIOR TN RRR Me er Perit it
-= i a ia a a ! H ek a
-pes) SI RD OT a cI l
 8 |
 ; E
 1
@@ -6855,7 +7327,6 @@ i ar a
 -0-5 { | tat
 a 0-5 jo
 — itil i
-ss Hl i ae | I
 = [ee tri ti
 
 DAT ey ty © 15 imme | d/p = 0-05"
@@ -6949,18 +7420,13 @@ ay
 
 i
 Fam A PUT PT ptt
-al Fa aa i+ Fa Pere Tr (ee
-i Ais ys z mar = se ee
 |. ¥ ae may: a
 
-ag ie ie Svar far emece ase aeaee
 
 Ya it
 rd yor ml jt 1.
 
 3 fo
-a a a a a 2 am aw tit im aml
-vies i Fay, iff oa fot
 
 TA
 
@@ -6970,7 +7436,6 @@ i
 
 a 2 i fe il rTi Ltt Tid
 
-=f 1 CSF) f 4 rT it i Lott
 
 SO A Oe
 t LA
@@ -6982,16 +7447,11 @@ a CoCr
 ee a tod
 Preity i priya
 a i | Tii_e
-a a} i a a it i
 1 rr rrr try { | {
-ce a a ae FTE ii i
 a A
 fit t EB f
 PoC Tro H
 ria Soro it eI LI Vi 7 | t
-it x _| i { 1 Lt H i Ci
-CF. PA a a i PERS
-a ae i fiz ty tt H Li Pa ta tt st
 a ay { Ta
 ns Anny a 2 cl ty = £15. N/mm |.d/D= 0°20
 aes a ak il L
@@ -7252,6 +7712,7 @@ Te macs Nenu? 25 28 Bt 35 37 40
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CIVIL/VIII SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/Limit state design of Reinforced concrete structures 2013-14 Final.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 17/04/2014
 - Text: ocr (3 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7419,7 +7880,6 @@ k 1.00 1,05 1.10 145 1.20 £25 130
 100. Concrete Grad :
 sd —
 MIs + M2 MZ Mi M35 Mand above
-a Q o ) GS © Mm
 $015 0 0.28 029 0.29 * 029 030
 02s 035 036 0% 037 037 038
 0.50 0.46 0.48 2.49 oso 0.50 os?
@@ -7716,264 +8176,6 @@ rectangular pad footing. The Materials for footing shall be M 20 grade concrete 
 reinforcement of grade Fe 415.
 ````
 
-## 2013-14 · Re-Exam · Sem 6 · paper d73cc7df7c6d
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED CONCRETE STRUCTURES BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 03/07/2015
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III
-
-Batch: 2013-14 Semester: VI
-
-Academic Year: 2014-2015 a
-
-Subject: Limit State Design of Reinforced Concrete Structures ae
-M .
-Date: 03/07/2015 Mae
-
-Durations: }
-
-Re-Examination |
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the answer book, which is provided for their use.
-
-NB: 1. Question no. 1 is compulsory. Out of remaining questions, attempt any four questions.
-2. In all five questions to be attempted
-3. All questions carry equal marks.
-4. Answer to each new question to be started on fresh page.
-5. Use of IS 456-2000 is not permitted.
-6. Assume any other data, wherever not given, suitably but state and justify the same.
-7. Illustrate your answer / design with neat sketches wherever required.
-8. Figures in brackets on the right hand side indicate full marks.
-
-1. Solve any four. (20)|
-a. Write short note on working stress method, ultimate load method and limit state
-method.
-
-b. What do you understand by flexural shear, punching shear and torsional shear. Give
-formula for allowable flexural shear stress in concrete.
-
-c. Write anote short on IS code requirement for minimum eccentricity of column. Also state
-design assumption for column design by limit state method.
-
-d. Write a short note on various types of foundation.
-
-e. State IS code requirements for design of RCC slabs.
-
-a. Derive expression for moment resistance for singly reinforced beams as per Whitney’s | (5)
-theory.
-
-b. A rectangular beam has 600 mm effective depth and 400 mm breadth. The steel area is (15)
-4000 mm* Take yield stress for steel 280 N/mm?. The cube compressive strength of the
-concrete is 25 N/mm’. Find depth of neutral axis. Find ultimate moment resistance. What
-is the value of maximum ultimate moment that this beam cross-section can take? What is
-the corresponding value of steel reinforcement?
-
-3. A simply supported rectangular beam of 4 m span carries a uniformly distributed (28)
-characteristic load including self-weight of 20 kN/m. The beam section is 230 mm x 450 mm
-overall. Design the beam for maximum moment and shear. Show the checks for development
-length, deflection and cracking. Use limit state method. The materials are grade M20
-concrete and reinforcement of grade Fe 415. The beam is suspended from the upper floor
-level.
-
-4. A simply supported one-way slab of clear span 3.0 m is supported on masonry walls of (223
-thickness 350 mm. Slab is used for residential loads. Design the slab. The materials are grade .
-M20 concrete and reinforcement of grade 415. Live load shall be 2 kN/m?. Show the checks
-for development length, shear, deflection and cracking.
-
-Vo
---- page 2 ---
-a. Give IS code requirements for transverse and longitudinal reinforcements of column. (5)
-
-b. A short column of size 230 mm x 350 mm is subjected to a factored load of 1500 kN. If (5)
-the unsupported length of the column is 3.2 m, find out design moments due to minimum
-eccentricity. Can we apply simplified formula of design in this case?
-
-6. A short column of 300 mm x 500 mm size is subjected to an axial factored load of 2000 kN (2
-and factored moments My, = 80 kNm and Myy = 60 kNm. Determine the reinforcement in the
-column if the moment due to minimum eccentricity is less than the applied moments. The
-materials are M20 grade concrete and reinforcement of grade Fe 415.
-
-7. A300 mm x 600 mm R.C.C. column carries a service load of 800 kN and service moments M, = (a |
-80 kNm about its major axis and My = 50 kN about its minor axis. It also carries horizontal
-thrust of 60 kN along longer side of the column. The column is reinforced with 8 no. 28 mm
-diameter HYSD reinforcement of grade Fe 415, in concrete of grade M 30. Design an isolated
-rectangular pad footing. The Materials for footing shall be M 20 grade concrete and
-reinforcement of grade Fe 415. ;
-
-.
-
-7
-````
-
-## 2013-14 · Re-Exam · Sem 6 · paper f479bb714491
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMITE STATE DESIGN OF REINFORCED CONCRETE STRUCURES B TECH CIVIL 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 12/05/2015
-- Text: ocr (3 pages), mean OCR confidence 84.6
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III S
-Batch: 2013-14 \
-Academic Year: 2014-2015
-Subject: Limit State Design of Reinforced Concrete Structur
-Marks:
-Date: 12/05/2015 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB: .
-1. Question No. | is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. Imall 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Q.1) | Solve (any four) (20)
-a) Provision in IS 456 for beam subjected to shear force and torsion. 05
-b) Partial safety factors of loads and material 05
-c) Under reinforced section 4 05
-d) Development length and anchorage length 05
-e) Explain limit state method and various types of limit state. 05
-Q.2) | Solve 20
-
-a) Design a two way slab of size 3.5m x 4.5m with discontinuous and simply 20
-supported edges on all the sides with corners held down and supporting a service
-live load of 4kN/m?. Adopt M20 and Fe-415 HYSD bars.
-
-Consider ‘Ox = 0.0748 & By = 0.056 7
-
-Q.3) | Solve 20
-
-a) Design the reinforcement in a circular column of diameter 300mm to support a 12
-service axial load of 800 KN. the column has an unsupported length of 3m and is
-braced against side away. The column is reinforced with helical ties. adopt M20
-and Fe415 HYSD bars.
-
-b) Write down the steps involved in uniaxial column. Define pedestal, short column 8
-and long column.
-
-Q.4) | Solve 20
-
-a) Design a reinforced footing for a rectangular column of section 300mm x 500mm 20
-supporting an axial factored load of 1500 Kn. The safe bearing capacity of the
-soil at site is 185 kKN/m?.adopt M20 and Fe415 HYSD bars.
-
-1/2,
---- page 2 ---
-Q.5) | Solve
-
-20
-
-a)., | Explain Whitney’s approach for rectangular stress block. Also Derive the| 10
-equation for ultimate moment of resistance for singly reinforced beam
-
-b) | b) Determine the safe UDL the beam can carry over a simply supported span of | 10
-6m. Having b= 350mm, d= 550mm (effective), Ast = 4-20mm dia.
-Consider _ M20 & Fe415. Use ultimate load method. Load factor = 2.1
-
-Q.6) | Solve 20
-
-a) A T beam slab floor of anoffice comprises of a slab 150mm thick spanning | |
-between ribs spaced at 3m centres.the effective span of the beam is 8m. Liveload 14
-on floor is 4kN/m?. Using M20 grade concrete and Fe415 HYSD bars, design one
-of the intermediate beam.
-
-b) Calculate the area of reinforcement required for a singly reinforced concrete |. ~
-beam 230mm wide and 380mm deep to resist an ultimate moment of| 06
-50kNm.assume M20,Fe500combination of concrete and steel and effective cover
-equal to 35mm.
-
-Q7) (20)
-
-a) A simply supported R.C beam 380mm wide and 750mm deep. Carries a | 15
-
-: uniformly distributed load 84KN/m (including self-weight) over a span of 6m. the
-beam is reinforced with 6 no. 22mm diameter bars of grade Fe500 on tension
-face. Design the shear reinforcement :
-
-b) Explain the curtailment of bars and bundled bars. 05
-
-2/3
---- page 3 ---
-S q SS fi
-i P| thd lo
-2 42 N N MS! fan Teg
-¢ a a
-Fat ms [~~ fe" 190 =
-5 O8 PT T a
-2 F=f s~290
-a |
-2 }
-O46 Note: tf, IS STEEL STRESS OF SERVICE
-
-LOADS WN N{mm?
-
-ie) On 08 b2 6 20 26 26 30
-PERCENTAGE TENSION REINFORCEMENT
-
-Grade of concreie M 26 M 25 M 30 M35 M 46 and above
-Design bond stress, 1.2 14 1.5 L.7 19
-Ty. NéAnm?
-
-Overait Depth 300 or 275 280 22§ 200 175 1SQar
-
-of Slab, mm more less
-
-k 1.00 1,05 1.10 115 120 125 1.30
-
-Table 19 Design Shear Strength of Concrete, t,, N/mm?
-(Clauses 40.2.1, 40.2.2, 40.3, 40.4, 40.5.3, 41.3.2, 41.3.3 and 41.4.3)
-
-100% Concrete Grade
-M15 M20 M25 Mw M35 M40anul above
-a @) °) @ © © m
-$015 0.28 0.28 0.29 _ 029 0.29 0.30
-0.25 035 0.36 0% 0.37 037 0.38
-0.50 0.46 0.48 0.49 Osd 0.50 0.5!
-0.75 Os 0.56 037 0.59 0.59 0.60
-1.00 0.60 0.62 0.64 0.66 0.67 0.68
-1.25 0.64 0.67 0.70 on 0.73 078
-1.50 0.68 0.72 074 0.76 0.78 0.79
-L7s O71 0.73 O78 0.80 0.82 Os4
-2.00 0.71 0.79 0.82 0.84 0.86 0.88
-2.25 071 0.81 085 08s 0.90 os2
-2.50 0.71 282 Oss os1 0.93 0.95
-2.75 O71 0.82 090 0.94 0.95 0.98
-3.00 ov 0.82 092 0.96 0.99 10
-and
-above
-
-Table 20 Maximum Shear Stress, 7,1... N/mm?
-( Clauses 40.2.3, 40.2.3.1, 40.5.1 and 41.3.2 )
-
-Concrete MIS M20 M25 M30 M35 M40
-Grade and
-above
-
-Tomax» Nien? 25 28 3a 33 37 4.0
-
-“Z
-````
-
 ## 2013-14 · Re-Exam · Sem 8 · paper 065c6338e556
 
 - Departments: Civil
@@ -8155,262 +8357,4 @@ Concrete MIS M2 M25 M30 M35 M40
 Grade and
 above
 Tomes Nem? 25 28 Bf 35 37 40
-````
-
-## Year not stated · Final-Exam · Sem 7 · paper 74d9d7323f34
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/LIMIT STATE DESIGN OF REINFORCED CONCRE_9f31adc1/LIMIT STATE DESIGN OF REINFORCED CONCRETE STRUCTURES (CIVIL), FINAL EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 23 November 2017
-- Text: ocr (6 pages), mean OCR confidence 79.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING ‘
-
-H Programme: B. Tech (CIVIL) Year: IV _ Semester: VII ~
-
-: co
-Academic Year: 2017-2018
-
-Subject: Limit State Design of Reinforced Concrete Structures - '
-a Marks: 60 ~,,,;\S0¥8 99
-
-Date: 23 November 2017 ~ Time: 10.00°amn to i” :
-Durations: 3 (hrs)<+ .¢ gy W4 4
-
-No. of Pag 0 ae bas
-
-?
-
-Final-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. One _ is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all___ Five_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ‘Suitable data if necessary.
-
-L. a. Explain difference between pedestal, long column and short column. GB
-b. What is the difference between flexural shear, punching shear and torsional shear? GB
-c. Explain how Limit State Method of design of RCC structures is different from earlier
-theories of design of RCC structures. (3)
-d. Write a short note on development length. (3)
-2 a. Explain Whitney’s theory for ultimate moment capacity for RCC beam. (3)
-
-b. A singly reinforced rectangular beam with 80 cm effective depth and 30 cm breadth has
-steel area of 50 cm2 whose yield stress is 2,900 kg/cm?. The cube compressive strength of
-the concrete is 200 kg/cm. Find depth of neutral axis. Find ultimate moment resistance. (9)
-What is the value of maximum ultimate moment that this beam cross-section can take 2
-What will be the corresponding value of steel reinforcement in case of maximum ultimate
-moment? (use ultimate load method). |
-3 a. Singly reinforced rectangular beam 230 mm wide and 400 mm effective depth is (6)
-reinforced with 2 no. 20 mm diameter bars. Find out the factored moment of resistance.
-
-4 Also find out the factored moment of resistance if it is reinforced with 4 no. 20 mm
-diameter. The materials are M30 grade concrete and reinforcement of grade Fe 415.
-
-b. Find the factored moment of resistance of a beam section 230 mm wide and 350 mm
-effective depth reinforced with 2-16 mm diameter bars as compression reinforcement at (6)
-an effective cover of 40 mm and 4-20 mm diameter bars as tension reinforcement. The
-materials are M20 grade concrete and mild steel reinforcement.(fsc=217 N/mm’).
-
-‘ | . /6
---- page 2 ---
-é
-
-“4 a. A tee beam of effective flange width 1200 mm, thickness of slab 100 mm, width of rib (6)
-300 mm and effective depth of 560 mm is reinforced with 6 no. 28 mm diameter bars.
-Calculate the factored moment of resistance. The materials are M20 grade concrete and
-HYSD reinforcement of grade Fe 415.
-
-b. Determine the shear capacity of the beam section having size 230 mm x 500 mm effective (6)
-
-depth and reinforced with 3 no. of 16 mm diameter bars of Fe 415 grade and 6 mm
-diameter M.S. stirrups at 120 mm c/c. Concrete is of M20 grade.
-
-5 a. Find Design Moments for a interior slab having dimensions 5m x 4m. and Factored Load (4)
-of 8 KN/m? (including self -weight , floor finish and live load). (Use enclosed table).
-
-b. A simply supported rectangular beam of 6 m span carries a uniformly distributed factored (8)
-load including self-weight of 20 kN/m. The beam size is 230 mm x 600 mm effective
-depth. Design the beam. The materials are grade M20 concrete and HYSD reinforcement
-of grade Fe 415. (Show all checks.)
-
-6 a. Write a short note on IS code requirement for longitudinal and transverse reinforcement in (3)
-columns. (9)
-b. Determine the reinforcement to be provided in a short column subjected to bending in x
-direction, with the following data.(Take d’ = 40 mm)
-
-Size of column 300mm x 650mm
-Concrete mix M20
-Characteristic strength of reinforcement 415 N/mm?
-Factor load, P 800 kN
-Factor moment, M 300 kN-m
-7 a. Write a short note on types of footings. (3)
-
-b. A RCC column of size 350mm x 350mm reinforced with 8 no. 16 mm dia. bars carries a (9)
-load of 800 KN. The safe bearing pressure on soil is 200 KN/m?. Design an isolated square
-pad footing. Use M20 and Fe 415 for both, column and footing. Clear cover for the
-bottom steel is 75 mm. Draw the reinforcement details. ;
---- page 3 ---
-Chart 32 COMPRESSION WITH BENDING —Rectangular
-Section — Reinforcement Distributed Equally on Two Sides
-
-1h TT _.
-Het ae [Ti 2 = Os
-gieaeeeese SEmEReeaE CH ty = 415 N/mm | d/p = 0-10
-
-Poe Crt
-YEE rt
-
-= ss +
-
-e \ e
-
-Tera ° H e .
-7 an A, =pbD/100
-t 1 it ° i
-4 i im 44 t d
-} Coot en OF BENDING
-Peete
-
-pj} tt
-
-ae
-|
---- page 4 ---
-TABLE 11-5 ;
-BENDING MOMENT COEFFICIENTS FOR RECTANGULAR PANELS
-SUPPORTED ON FOUR SIDES WITH PROVISION FOR TORSION AT CORNERS
-
-Long
-span
-Type of panel coeffi-
-and moments Short span coefficients a, cients
-
-considered (values of 1,/1,) Gy for
-all values
-
-of U/l,
-
-no.
-
-10 | 11 | 12 | 13 | 14] 15 | 1.75] 2.0
-(1) (2) (3) | (4) | (5) | (6) | (7) | (8) | (9) | (0) (11)
-
-1 [Interior panels:
-
-Negative moment at} 0.032] 0.037] 0.043] 0.047] 0.051] 0.053] 0.060}0.065] 0.032
-continuous edge
-
-Positive moment at mid span | 0.024] 0.028] 0.032] 0.036] 0.039} 0.041 | 0.045) 0.049 0.024
-4 |Two adjacent edges discontinuous:
-continuous edge
-
-Negative moment at 0.047] 0.053] 0.060] 0.065} 0.071 | 0.075} 0.084] 0.091} 0.047
-Positive moment at mid-span | 0.035] 0.037] 0.040] 0.043 0.044 | 0.045 | 0.049} 0.052 0.035
-
-SS ee eee eee eee
-
-|) 2 |One short edge discontinuous:
-
-Negative moment at} 0.037} 0.043] 0.048] 0.051 | 0.055| 0.057] 0.064| 0.068} 0.037
-continuous edge
-
-Positive moment at mid-span | 0.028} 0.032] 0.036 | 0.036] 0.041 | 0.044 | 0.048] 0.052 0.028
-
-3 |One long edge discontinuous:
-
-Negative moment at 0.037] 0.044] 0.052] 0.057] 0.063| 0.067] 0.077] 0.085| 0.037
-continuous edge
-
-Positive moment at mid-span | 0.028] 0.033] 0.039] 0.044 | 0.047 | 0.051 | 0.059} 0.065 0.028
-
-Positive moment at mid-span | 0.035] 0.040} 0.045 | 0.049} 0.053] 0.056 | 0.063 | 0.069 0.035
-
-pf Le te te te te te et dd Ce
-
-5 |Iwo short edges discontinuous:
-
-continuous edge
-Negative moment at} 0.045] 0.049] 0.052] 0.056] 0.059] 0.060] 0.065} 0.069 =
-
-b— — — —— —— — — — — HH et te Hh
-
-6 |Two long edge discontinuous:
-
-Negative moment = _ _ _ _ _ _ ne 0.045
-continuous edge :
-Positive moment at mid-span | 0.035] 0.043] 0.051 | 0.057 | 0.063 | 0.068 | 0.080] 0.088 0.035
-
-7 |Three edges discontinuous
-(One long edge continuous):
-
-Negative moment at 0.057| 0.064] 0.071 | 0.076| 0.080] 0.084} 0.091 | 0.091 -
-continuous edge
-— Positive moment at mid-span | 0.043] 0.048 | 0.053 | 0.057 | 0.060 | 0.064 | 0.069 | 0.073 0.043
-8 |Three edges discontinuous
-a (One short edge continuous):
-
-Negative moment at _ _ _ _ _ _ _ _ 0.057
-continuous edge :
-Positive moment at mid-span | 0.043] 0.051 | 0.059) 0.065] 0.071 | 0.076] 0.087 | 0.096 0.043
-
-9 |Four edges discontinuous:
-Positive moment at mid-span | 0.056] 0.064} 0.072] 0.079 | 0.085 | 0.089] 0.100} 0.107] 0.056
-
-Alé
---- page 5 ---
-2.0 \ \ 7
-16 \ \ a
-; \
-
-g \
-2, NS
-: ~
-
-a
-“2 Pe -———_|4 = 199
-e pp = 24g[
-2 08
-°
-=
-0.4 Note: £ is steel stress of service loads in N/mnt
-0 0.4 0.8 1.2 1.6 2.0 2.4 2.8 3.0
-
-Percentage tension reinforcement
-Area of cross-section of steel required
-
-f, = 0.58 f, x
-
-Modification factor for tension reinforcement
-
-Area of cross-section of steel provided
---- page 6 ---
-DESIGN SHEAR STRENGTH OF CONCRETE 71,, N/mm?
-
-100 A Concrete grade
-Ss
-bd M20 M25 M30
-(1) (2) (3) (4)
-< 0.15 0.28 0.29 0.29
-0.25 0.36 0.36 0.37
-0.50 0.48 0.49 0.50
-0.75 0.56 0.57 0.59
-1.00 0.62 0.64 0.66
-1.25 0.67 0.70 0.71
-
-1.50 0.72 0.74 0.76
 ````

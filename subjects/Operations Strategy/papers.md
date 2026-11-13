@@ -259,6 +259,133 @@ BL- elucidate
 journey is mentioned here and discuss about it.
 ````
 
+## 2022-23 · Exam not stated · Sem 10 · paper 5a0c53917054
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Operations Strategy/Operation Strategy.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 89.2
+
+````text
+SVKM‘s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERI
+Academic Year 2022-23 ;
+
+ogram: MBA Tech Stream: All Year. V Semester: X
+bject: Operations Strategy Time: 2 hrs @Qaet1 2pm)
+ite: 02May, 2023 Marks: 50 marks No.of pages: 03
+
+Final Examination
+
+structions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+aswer Book, which is provided for their use.
+
+Question No._1___ is compulsory.
+
+Out of remaining 6 questions, attempt any 4 _ questions.
+In all~_5_ questions to be attempted.
+
+All q..-stions carry equal marks.
+
+Answer to each new question to be started on a fresh page.
+Figures in brackets on the right-hand side indicate full marks.
+Assume Suitable data if necessary.
+
+Qi. (10)
+a.| What are four important decision areas of operations strategy? Discuss any ONE of| (02)
+CO 1] them in detail
+L
+Understand
+
+b.| Mention FIVE different generic performance objectives. Evaluate any ONE of the} (03)
+CO 2 | performance objective either for a manufacturing or a service based organisation
+H
+Evaluate
+
+c.|Discuss any TWO Cs of FOUR Cs for achieving strategic fit between operations} (03)
+CO 4|resources and market requirements
+L
+
+Understand
+
+d.| What is bench marking? mention different types of bench marking (02)
+CO 3
+
+L
+Understand
+
+Q2. (10)
+a.| Discuss about three(3) level capacity decisions in detail. (05)
+CO 2
+
+M
+Understand
+
+Page 1 of 3
+--- page 2 ---
+(05)
+
+b.] Discuss about cost structure associated with capacity increments with an example.
+CO 2|How breakeven point is evaluated with cost & revenue with each increment
+H
+Evaluate
+Q3. (10)
+a.| How decision logic is applied in case of outsourcing? Explain with diagram when the (05)
+CO 3} organization is least likely to outsource..
+M
+Apply
+b.| Discuss FIVE indicative purchasing & supply related risks (05)
+cO3
+L
+Remember
+Q4. (10)
+a.|Mention THREE dimensions/characteristics of Process Technology and construct] (05)
+CO 4| product-process matrix with these dimensions.
+H
+Create
+b.| Compare and contrast Continuous improvement with breakthrough improvement (05)
+CO 3|for FIVE different criteria.
+M
+Understand
+(5; (10)
+a.| How different types of vulnerabilities related to process technology are evaluated?| (05)
+CO 4] Explain for any TWO Vulnerabilities.
+H
+Evaluate
+b.| Which are the improvement approaches the organization may use as a substitutes} (05)
+CO 2| for Strategy. Discuss any ONE of them in detail
+M
+Understand
+Q6. (10)
+a.| Discuss Eight stages of process knowledge according to BOHN in short (05)
+CO 3
+M
+Understand
+b.| Using stage model for product and service, analyse the product/service] (05)
+CO 3|development for any product/service of your interest.
+M
+Analyze
+Q7 (10)
+
+Page 2 of 3
+
+e%
+--- page 3 ---
+Discuss the effects of product/service lifecycle on operations performance objectives (5)
+a|from introduction of product/service till the decline stage with customers,
+CO 1]competitors likely order winners, order qualifiers and dominant performance
+M | objective in each stage.
+Understand
+
+b|What is operations strategy? How it is different from Operations Management? (5)
+CO 1] Explain with examples.
+M
+Understand
+
+Page 3 of 3
+````
+
 ## 2021-22 · Final-Exam · Sem 10 · paper ba85a103c44d
 
 - Departments: Common (all branches)
@@ -1055,190 +1182,7 @@ operational excellence in the production system. ( 10 Marks )
 1
 ````
 
-## 2010-11 · Exam not stated · Trim 14 · paper e29ff5db4823
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/operation strategy/2010-2011(42).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/12/2010
-- Text: ocr (1 page), mean OCR confidence 87.4
-
-````text
-~
-eens TT Te ORE 2 er ee Da ne on ve
-
-SVKM’s NMIM.
-
-Mukesh Patel School Of Technology Management & Engineering
-
-School of Pharmacy & Technology Management
-Programme: MBA (Tech) -ALL STREAMS Year: Vv Trimester: XIV
-
-MEO (Pharm Te =) Academic Year : 2010-2011
-
-Batch: 2010-2011
-Subject: OPERATION STRATEGY Marks: 50
-Time: 2.00 PM TO 4.00 PM
-Date: 17/12/2010 Duration: 2 hrs.
-Final - Examination
-NB:
-
-1. In all five questions to be attempted.
-
-2, All questions carry equal marks.
-
-3. Answer to each new question to be started on a new page-
-
-1. Figures in braekets on right hand side indicate full marks
-QI. What are various ways of achieving competitive advantage. Describe them. (1 0)
-Q2. Describe operations performance objective as applied to a parcel delivery
-operation. (1 0)
-
-Q3. Describe various generic time strategies for capacity (1 0)
-
-Q4. Describe acceptability evaluation of process technology investment on market
-criteria (1 0)
-
-Q5.What is learning curve ? What are advantages and limitations of learning
-
-curve? (1 0)
-Q6. Describe various perspectives on organizations (1 0)
-Q7.Write notes on any two (2x5)
-
-i Development funnel
-ii. Lean
-
-iii, TQM
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 5a0c53917054
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Operations Strategy/Operation Strategy.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (3 pages), mean OCR confidence 89.2
-
-````text
-SVKM‘s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERI
-Academic Year 2022-23 ;
-
-ogram: MBA Tech Stream: All Year. V Semester: X
-bject: Operations Strategy Time: 2 hrs @Qaet1 2pm)
-ite: 02May, 2023 Marks: 50 marks No.of pages: 03
-
-Final Examination
-
-structions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-aswer Book, which is provided for their use.
-
-Question No._1___ is compulsory.
-
-Out of remaining 6 questions, attempt any 4 _ questions.
-In all~_5_ questions to be attempted.
-
-All q..-stions carry equal marks.
-
-Answer to each new question to be started on a fresh page.
-Figures in brackets on the right-hand side indicate full marks.
-Assume Suitable data if necessary.
-
-Qi. (10)
-a.| What are four important decision areas of operations strategy? Discuss any ONE of| (02)
-CO 1] them in detail
-L
-Understand
-
-b.| Mention FIVE different generic performance objectives. Evaluate any ONE of the} (03)
-CO 2 | performance objective either for a manufacturing or a service based organisation
-H
-Evaluate
-
-c.|Discuss any TWO Cs of FOUR Cs for achieving strategic fit between operations} (03)
-CO 4|resources and market requirements
-L
-
-Understand
-
-d.| What is bench marking? mention different types of bench marking (02)
-CO 3
-
-L
-Understand
-
-Q2. (10)
-a.| Discuss about three(3) level capacity decisions in detail. (05)
-CO 2
-
-M
-Understand
-
-Page 1 of 3
---- page 2 ---
-(05)
-
-b.] Discuss about cost structure associated with capacity increments with an example.
-CO 2|How breakeven point is evaluated with cost & revenue with each increment
-H
-Evaluate
-Q3. (10)
-a.| How decision logic is applied in case of outsourcing? Explain with diagram when the (05)
-CO 3} organization is least likely to outsource..
-M
-Apply
-b.| Discuss FIVE indicative purchasing & supply related risks (05)
-cO3
-L
-Remember
-Q4. (10)
-a.|Mention THREE dimensions/characteristics of Process Technology and construct] (05)
-CO 4| product-process matrix with these dimensions.
-H
-Create
-b.| Compare and contrast Continuous improvement with breakthrough improvement (05)
-CO 3|for FIVE different criteria.
-M
-Understand
-(5; (10)
-a.| How different types of vulnerabilities related to process technology are evaluated?| (05)
-CO 4] Explain for any TWO Vulnerabilities.
-H
-Evaluate
-b.| Which are the improvement approaches the organization may use as a substitutes} (05)
-CO 2| for Strategy. Discuss any ONE of them in detail
-M
-Understand
-Q6. (10)
-a.| Discuss Eight stages of process knowledge according to BOHN in short (05)
-CO 3
-M
-Understand
-b.| Using stage model for product and service, analyse the product/service] (05)
-CO 3|development for any product/service of your interest.
-M
-Analyze
-Q7 (10)
-
-Page 2 of 3
-
-e%
---- page 3 ---
-Discuss the effects of product/service lifecycle on operations performance objectives (5)
-a|from introduction of product/service till the decline stage with customers,
-CO 1]competitors likely order winners, order qualifiers and dominant performance
-M | objective in each stage.
-Understand
-
-b|What is operations strategy? How it is different from Operations Management? (5)
-CO 1] Explain with examples.
-M
-Understand
-
-Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper a45bf620728b
+## 2012-13 · Exam not stated · Trim 14 · paper a45bf620728b
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -1306,4 +1250,60 @@ Following Question is compulsory: (10 marks)
 Q.10) Explain the four perspectives of operations strategy in detail using a suitable example.
 
 Vy
+````
+
+## 2010-11 · Exam not stated · Trim 14 · paper e29ff5db4823
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/operation strategy/2010-2011(42).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 17/12/2010
+- Text: ocr (1 page), mean OCR confidence 87.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~
+
+SVKM’s NMIM.
+
+Mukesh Patel School Of Technology Management & Engineering
+
+School of Pharmacy & Technology Management
+Programme: MBA (Tech) -ALL STREAMS Year: Vv Trimester: XIV
+
+MEO (Pharm Te =) Academic Year : 2010-2011
+
+Batch: 2010-2011
+Subject: OPERATION STRATEGY Marks: 50
+Time: 2.00 PM TO 4.00 PM
+Date: 17/12/2010 Duration: 2 hrs.
+Final - Examination
+NB:
+
+1. In all five questions to be attempted.
+
+2, All questions carry equal marks.
+
+3. Answer to each new question to be started on a new page-
+
+1. Figures in braekets on right hand side indicate full marks
+QI. What are various ways of achieving competitive advantage. Describe them. (1 0)
+Q2. Describe operations performance objective as applied to a parcel delivery
+operation. (1 0)
+
+Q3. Describe various generic time strategies for capacity (1 0)
+
+Q4. Describe acceptability evaluation of process technology investment on market
+criteria (1 0)
+
+Q5.What is learning curve ? What are advantages and limitations of learning
+
+curve? (1 0)
+Q6. Describe various perspectives on organizations (1 0)
+Q7.Write notes on any two (2x5)
+
+i Development funnel
+ii. Lean
+
+iii, TQM
 ````

@@ -582,6 +582,7 @@ Ls 93319 93448 93574 93699 93822 93943 94062 94179 94295 9440
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/TRAFFIC ANALYSIS AND DESIGN/Traffic Analysis & Design , Re-exam 2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
 - Text: ocr (6 pages), mean OCR confidence 73.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 / SVKM’s NMIMS
@@ -744,9 +745,7 @@ with suitable assumptions.
 s sg 3
 2 2 E
 o oO
-eo & Eo g a) g
 - 2| & a a) 5 7 x
-GC — 2 P=] sa — 2 4 g go 2
 S| 5's 8 g 6s 2 s 68
 1S) oo) § Oo 6S 8 oO oS 8
 > 72) >? n >”? nA
@@ -763,11 +762,9 @@ a a
 e|R|/s|8§) sl si siay Fi) s
 o 2 oS rc)
 ° ° ro) fo) So
-n ma =) — a ra) ro | 5 a
 ro) e fn) ro) o
 S ° S °
 eo
-= 21s & S % S BS S S
 ‘ 2
 a
 3 2 = #2
@@ -1488,6 +1485,7 @@ Q.7 Write short notes on: (3 x4)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/TRAFFIC ANALYSIS AND DESIGN/TRAFFIC ANALYSIS AND DESIGN B TECH ( CIVIL), 2015-16 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 11/05/2016
 - Text: ocr (9 pages), mean OCR confidence 53.0
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 .

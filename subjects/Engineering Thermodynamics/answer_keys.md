@@ -161,6 +161,7 @@ FOR ak kok ok ok ak
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechanical_7003/Engineering Thermodynamics/ANS_Engineering Thermodynamics(702ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 71.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -259,7 +260,6 @@ Now Z,=Z,
 / 2) / 2)
 
 Cc. Co |
-m | hy +) + Q= m| hg + 2 W
 
 .. Motor power required (or work done on the air) = 42.46 kW.
 
@@ -343,6 +343,7 @@ BL-2
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Mechanical_7031/Engineering Thermodynamics/ANS_Engineering Thermodynamics(702ME0C004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (5 pages), mean OCR confidence 71.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -440,7 +441,6 @@ Now Z,=Z,
 / 2) / 2)
 
 Cc. Co |
-m | hy +) + Q= m| hg + 2 W
 
 .. Motor power required (or work done on the air) = 42.46 kW.
 

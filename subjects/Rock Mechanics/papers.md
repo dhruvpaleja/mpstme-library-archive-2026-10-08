@@ -4,77 +4,6 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Final-Exam · Sem 7 · Dataset · paper 0c992648a481
-
-- Departments: Civil
-- Programmes: BTech Civil 7005
-- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Civil_7005/Rock Mechanics/data_set_Rock Mechanics(702CI0E008)_2025-2026.pdf`
-- Text: text (1 page)
-
-````text
-36   Support of underground excavations in hard rock
-Table 4.4: Rock Mass Rating System (After Bieniawski, 1989).
-A. CLASSIFICATION PARAMETERS AND THEIR RATINGS
-Parameter   Range of values
-Point-load   For this low range -
-Strength   >10 MPa   4 - 10 MPa   2 - 4 MPa   1 - 2 MPa   uniaxial compressive
-of   strength index   test is preferred
-1   intact rock Uniaxial comp.   >250 MPa   100 - 250 MPa   50 - 100 MPa   25 - 50 MPa   5 - 25 1 - 5   < 1
-material   strength   MPa MPa MPa
-Rating   15   12   7   4   2   1   0
-Drill core Quality RQD   90% - 100%   75% - 90%   50% - 75%   25% - 50%   < 25%
-2   Rating   20   17   13   8   3
-Spacing of discontinuities   > 2 m   0.6 - 2 . m   200 - 600 mm   60 - 200 mm   < 60 mm
-3   Rating   20   15   10   8   5
-Very rough surfaces Slightly rough   sur- Slightly rough   sur- Slickensided surfaces Soft gouge >5 mm
-Not continuous   faces   faces   or   thick
-Condition of discontinuities No separation   Separation < 1 mm   Separation < 1 mm   Gouge < 5 mm thick   or
-(See E)   Unweathered   wall Slightly weathered   Highly weathered   or   Separation > 5 mm
-4   rock   walls   walls   Separation 1-5 mm   Continuous
-Continuous
-Rating   30   25   20   10   0
-Inflow per 10 m   None   < 10   10 - 25   25 - 125   > 125
-tunnel length (l/m)
-Ground (Joint water press)/
-5   water (Major principal V)   0   < 0.1   0.1, - 0.2   0.2 - 0.5   > 0.5
-General conditions   Completely dry   Damp   Wet   Dripping   Flowing
-Rating   15   10   7   4   0
-B. RATING ADJUSTMENT FOR DISCONTINUITY ORIENTATIONS (See F)
-Strike and dip orientations   Very favourable   Favourable   Fair   Unfavourable   Very Unfavourable
-Tunnels & mines   0   -2   -5   -10   -12
-Ratings   Foundations   0   -2   -7   -15   -25
-Slopes   0   -5   -25   -50
-C. ROCK MASS CLASSES DETERMINED FROM TOTAL RATINGS
-Rating   100 m 81   80 m 61   60 m 41   40 m 21   < 21
-Class number   I   II   III   IV   V
-Description   Very good rock   Good rock   Fair rock   Poor rock   Very poor rock
-D. MEANING OF ROCK CLASSES
-Class number   I   II   III   IV   V
-Average stand-up time   20 yrs for 15 m span 1 year for 10 m span 1 week for 5 m span 10 hrs for 2.5 m span 30 min for 1 m span
-Cohesion of rock mass (kPa)   > 400   300 - 400   200 - 300   100 - 200   < 100
-Friction angle of rock mass (deg)   > 45   35 - 45   25 - 35   15 - 25   < 15
-E. GUIDELINES FOR CLASSIFICATION OF DISCONTINUITY conditions
-Discontinuity length (persistence)   < 1 m   1 - 3 m   3 - 10 m   10 - 20 m   > 20 m
-Rating   6   4   2   1   0
-Separation (aperture)   None   < 0.1 mm   0.1 - 1.0 mm   1 - 5 mm   > 5 mm
-Rating   6   5   4   1   0
-Roughness   Very rough   Rough   Slightly rough   Smooth   Slickensided
-Rating   6   5   3   1   0
-Infilling (gouge)   None   Hard filling < 5 mm   Hard filling > 5 mm   Soft filling < 5 mm   Soft filling > 5 mm
-Rating   6   4   2   2   0
-Weathering   Unweathered   Slightly weathered   Moderately weathered   Highly weathered   Decomposed
-Ratings   6   5   3   1   0
-F. EFFECT OF DISCONTINUITY STRIKE AND DIP ORIENTATION IN TUNNELLING**
-Strike perpendicular to tunnel axis   Strike parallel to tunnel axis
-Drive with dip - Dip 45 - 90q   Drive with dip - Dip 20 - 45q   Dip 45 - 90q   Dip 20 - 45q
-Very favourable   Favourable   Very favourable   Fair
-Drive against dip - Dip 45-90q   Drive against dip - Dip 20-45q   Dip 0-20 - Irrespective of strikeq
-Fair   Unfavourable   Fair
-* Some conditions are mutually exclusive . For example, if infilling is present, the roughness of the surface will be overshadowed by the
-influence of the gouge. In such cases use A.4 directly.
-** Modified after Wickham et al (1972).
-````
-
 ## 2025-26 · Final-Exam · Sem 7 · paper d3054851419a
 
 - Departments: Civil
@@ -82,6 +11,7 @@ influence of the gouge. In such cases use A.4 directly.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Civil_7005/Rock Mechanics/QP_Rock Mechanics(702CI0E008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: mixed (4 pages), mean OCR confidence 62.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -219,7 +149,6 @@ Cantino
 Rating a0 25 20 10 o
 Inflow per 10m None: <10 10-25 25 = 125 + 125
 Or
-Graune | Wiel water pressyl
 | water | fMajor principal ex] o <0 O04, 02 02-05 >O5
 Completely dry Damp Wet Dripping Flowing
 Rating 15 10 7 4 o
@@ -240,11 +169,9 @@ Friction angle of rock mass (deg) 45 35-45 25-35 15-25 <15
 E. GUIDELINES FOR CLASSIFICATION OF DISCONTINUITY conditions
 Discontinuity length (persistence) <1 1-am 3-40m 10 20m > 20m
 Rating i 4 2 1 o
-Separation (apertus Nome: <0 mim O41 1.0 mm 1. mm > mm
 Rating 6 5 4 1 o
 Roughness Very rough Rough Sligilly rough Smpalh Slickensided
 Rating 8 5 3 1 o
-Tafiling (gaugey None Hard iling< fmm | Hardflling> 5mm | Solfling< Sem | Saltfiling> & mm
 Rating 6 4 z 2 o
 Weathering Unwealhvered Slighily weathered | Moderately wealhered| Highly wealhered Decampased
 Ratings fi 5 3 1 o
@@ -264,6 +191,77 @@ influence of the qouge. In such cas
 cLly.
 
 FIC 7) IC HOH
+````
+
+## 2025-26 · Final-Exam · Sem 7 · Dataset · paper 0c992648a481
+
+- Departments: Civil
+- Programmes: BTech Civil 7005
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Civil_7005/Rock Mechanics/data_set_Rock Mechanics(702CI0E008)_2025-2026.pdf`
+- Text: text (1 page)
+
+````text
+36   Support of underground excavations in hard rock
+Table 4.4: Rock Mass Rating System (After Bieniawski, 1989).
+A. CLASSIFICATION PARAMETERS AND THEIR RATINGS
+Parameter   Range of values
+Point-load   For this low range -
+Strength   >10 MPa   4 - 10 MPa   2 - 4 MPa   1 - 2 MPa   uniaxial compressive
+of   strength index   test is preferred
+1   intact rock Uniaxial comp.   >250 MPa   100 - 250 MPa   50 - 100 MPa   25 - 50 MPa   5 - 25 1 - 5   < 1
+material   strength   MPa MPa MPa
+Rating   15   12   7   4   2   1   0
+Drill core Quality RQD   90% - 100%   75% - 90%   50% - 75%   25% - 50%   < 25%
+2   Rating   20   17   13   8   3
+Spacing of discontinuities   > 2 m   0.6 - 2 . m   200 - 600 mm   60 - 200 mm   < 60 mm
+3   Rating   20   15   10   8   5
+Very rough surfaces Slightly rough   sur- Slightly rough   sur- Slickensided surfaces Soft gouge >5 mm
+Not continuous   faces   faces   or   thick
+Condition of discontinuities No separation   Separation < 1 mm   Separation < 1 mm   Gouge < 5 mm thick   or
+(See E)   Unweathered   wall Slightly weathered   Highly weathered   or   Separation > 5 mm
+4   rock   walls   walls   Separation 1-5 mm   Continuous
+Continuous
+Rating   30   25   20   10   0
+Inflow per 10 m   None   < 10   10 - 25   25 - 125   > 125
+tunnel length (l/m)
+Ground (Joint water press)/
+5   water (Major principal V)   0   < 0.1   0.1, - 0.2   0.2 - 0.5   > 0.5
+General conditions   Completely dry   Damp   Wet   Dripping   Flowing
+Rating   15   10   7   4   0
+B. RATING ADJUSTMENT FOR DISCONTINUITY ORIENTATIONS (See F)
+Strike and dip orientations   Very favourable   Favourable   Fair   Unfavourable   Very Unfavourable
+Tunnels & mines   0   -2   -5   -10   -12
+Ratings   Foundations   0   -2   -7   -15   -25
+Slopes   0   -5   -25   -50
+C. ROCK MASS CLASSES DETERMINED FROM TOTAL RATINGS
+Rating   100 m 81   80 m 61   60 m 41   40 m 21   < 21
+Class number   I   II   III   IV   V
+Description   Very good rock   Good rock   Fair rock   Poor rock   Very poor rock
+D. MEANING OF ROCK CLASSES
+Class number   I   II   III   IV   V
+Average stand-up time   20 yrs for 15 m span 1 year for 10 m span 1 week for 5 m span 10 hrs for 2.5 m span 30 min for 1 m span
+Cohesion of rock mass (kPa)   > 400   300 - 400   200 - 300   100 - 200   < 100
+Friction angle of rock mass (deg)   > 45   35 - 45   25 - 35   15 - 25   < 15
+E. GUIDELINES FOR CLASSIFICATION OF DISCONTINUITY conditions
+Discontinuity length (persistence)   < 1 m   1 - 3 m   3 - 10 m   10 - 20 m   > 20 m
+Rating   6   4   2   1   0
+Separation (aperture)   None   < 0.1 mm   0.1 - 1.0 mm   1 - 5 mm   > 5 mm
+Rating   6   5   4   1   0
+Roughness   Very rough   Rough   Slightly rough   Smooth   Slickensided
+Rating   6   5   3   1   0
+Infilling (gouge)   None   Hard filling < 5 mm   Hard filling > 5 mm   Soft filling < 5 mm   Soft filling > 5 mm
+Rating   6   4   2   2   0
+Weathering   Unweathered   Slightly weathered   Moderately weathered   Highly weathered   Decomposed
+Ratings   6   5   3   1   0
+F. EFFECT OF DISCONTINUITY STRIKE AND DIP ORIENTATION IN TUNNELLING**
+Strike perpendicular to tunnel axis   Strike parallel to tunnel axis
+Drive with dip - Dip 45 - 90q   Drive with dip - Dip 20 - 45q   Dip 45 - 90q   Dip 20 - 45q
+Very favourable   Favourable   Very favourable   Fair
+Drive against dip - Dip 45-90q   Drive against dip - Dip 20-45q   Dip 0-20 - Irrespective of strikeq
+Fair   Unfavourable   Fair
+* Some conditions are mutually exclusive . For example, if infilling is present, the roughness of the surface will be overshadowed by the
+influence of the gouge. In such cases use A.4 directly.
+** Modified after Wickham et al (1972).
 ````
 
 ## 2023-24 · Final-Exam · Sem 6 · paper 678896c09d27
@@ -916,6 +914,7 @@ influence of the gouge. —In such cases use A.4 directly.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ROCK MECHANICS/Rock Mechanics,Sem8,Final,2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
 - Text: ocr (5 pages), mean OCR confidence 78.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ged
@@ -1058,7 +1057,6 @@ Qala eal a) So
 a Bas 2
 2 op = g
 om = Yel B=
-S Bl wn 2 b= A 4 z
 5 BIS a SB § na [ale
 m o/n a |View AaAO ClA A iy
 o
@@ -1067,12 +1065,9 @@ o
 uc} wn g
 3
 egv o (2 |f
-BD o oS nN Oo B.
 a & 4s PS = l fas
 4 Pa) SE 38 & i a
-Vin I i = co. nN g
 =| a) a = 542 male So Ole
-Bi a + | A fo nnogdn = f
 =
 > 4
 & =}
@@ -1107,7 +1102,6 @@ a AB 2
 S 13 g =| 5
 BD .
 eg |en Roe s/s
-g aS ~ a o as g
 22/85! is £ ~ Beals
 3 3 & = a S| Oo
 _|2a/.33 Ba z SELES
@@ -1180,6 +1174,7 @@ favourable unfavourable
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ROCK MECHANICS/Rock Mechanics , Re-exam 2021-2022.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (5 pages), mean OCR confidence 78.3
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1316,13 +1311,10 @@ a & Bas oo
 BE EE wa g
 SEIS | |g| |e Be a i4 |.
 © sil ba 6 eas = S &
-m O14 ALVimlVvVin~ano clA A kilo
 <
 r=
 3B & o
 209 6.8 .
-fo} a BY Bee el 3 =I
-g S| |S] |§8Su28 BE) js =
 Bla 12 a] |] (SEBS ao se IT ly |e
 Sj ra) w So Bsofs oD) Sicin N =]
 ai nN TIN| OWL Slol/ A AOBHAVI AN So Alix
@@ -1344,7 +1336,6 @@ S S So So 3
 A Ss Besse eo
 _ co aq S22: feesaen a
 eid F| jd] |SS Rees) je [5 [8
-| 6S a /4/niS|uls ses 2 Siu|— i Blo
 + = —|rl—H|SiAlGZ auavn se Fini v Vv Al=
 os fay
 we os BS)
@@ -1355,7 +1346,6 @@ wn 3S
 8) ig] |ESEeEE 3
 oS &
 c |& 7 iS|_|e€222s g z
-i nN ot o a's > fo)
 = a mloroe o|eg J (om) ‘ny
 A KR j|=|S/RlAlRIF RSZBE |R|/Z lo [ols
 o
@@ -1377,7 +1367,6 @@ iL 2/532] |) 18) |26 S2\24/5
 Sie 2, [S| ise
 ox ° S go
 28s 6 ob | 3
-SB =. vo] S| wo] S| oj) = 8 vo] S DD
 OS Si—|8|5|s/3 els f=]
 og 3/5/35) 2/6) 2 9 2/52 Ba!
 BSS s/e|slairs|/ eg ess CI

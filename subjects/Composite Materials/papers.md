@@ -1,6 +1,6 @@
 # Composite Materials: question papers in full
 
-9 unique papers · 2022 to 2025-26 · Mechanical
+9 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -726,7 +726,7 @@ brittle failure of unidirectional composite with fiber pullout.
 2/2
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper c3875df646c5
+## 2022-23 · Final-Exam · Sem 9 · paper c3875df646c5
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL

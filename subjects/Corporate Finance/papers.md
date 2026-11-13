@@ -258,6 +258,7 @@ debt is part of the total capital of Rs. 10 lakhs. The tax rate applicable is
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM XII/corporate finance/2007-2008 I(6).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 2; exam date: 24-05-2008
 - Text: ocr (4 pages), mean OCR confidence 78.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 %
@@ -398,7 +399,6 @@ dewiaid * -deriand.. so"
 Small a :
 ; apenciy, | ae : ; He 283 300
 
-Beaty “WE féxpahdtcash flow.” 6 ce cig fe) F400
 
 4 I expand — high demand in I year 6000 660
 Sy Ash oo Te tot to’expand-high detmand in I year * 2 °°°2500' ©4800
@@ -495,6 +495,7 @@ x Se d
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/I T/TRIM XII/corporate finance/2007-2008(147).pdf` (+1 identical copies)
 - Printed on paper: duration hours: 2; exam date: 28.04.2008
 - Text: ocr (4 pages), mean OCR confidence 82.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Ao ie ceoncnc con islet So NTRS NMIMS UNIVERSITY 0 7°0ff 2 (a
@@ -630,8 +631,6 @@ srhibis : : = 4 NMIMS costes
 Mumbai - 56,
 ” Cash outflows / inflows in Rerary
 Plane Year High _—
-LORIE LD ea bs REAR thn demahd / \depiaadt >
-Turboprop «0 eee eee tanh ¢-) 550 CE?   MAngcTW a
 piensa eer 150%: aaa
 II if high-demand in I year 960 {, «!
 If if low demand in J year 930 |,

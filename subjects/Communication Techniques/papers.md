@@ -1,8 +1,131 @@
 # Communication Techniques: question papers in full
 
-12 unique papers · 2005-06 to 2012-13 · Chemical
+12 unique papers · 2005-06 to 2012-13 · Chemical, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Exam not stated · Trim 4 · paper 0249c44ed0b7
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/COMMUNICATION TECHNIQUES/scan0007(10).pdf`
+- Printed on paper: max marks: 50; exam date: 31/10/2012
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineeri
+
+Programme: MBA(Tech)-All Streams Year: II Trimester: IV
+Academic Year : 2012-2013
+
+fee wil
+Subject: BUSINESS COMMNICATION-I Marks: 50 ie /
+Time: 2.00pm $cc
+Date: 31/10/2012 Duration: 2 ne: .
+Final - Examination , hag A
+>=
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use. (Use only if applicable as the case may be)
+
+NB:
+
+1. Question No. 4 is compulsory.
+
+2. Out of remaining questions, attempt any 8 questions.
+
+3. Inall 9 questions to be attempted.
+
+4. All questions carry equal marks. Only question No 4 carries 10 marks.
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+QI. Read the following paragraph and answer the given questions.
+ORACLE OCTOPUS PAUL NO MORE (5 marks)
+
+Berlin Oct, 26:
+
+“Paul the octopus, who shot to fame during this year's football World Cup in South Africa for his
+— record in predicting game outcomes, has died,” his aquarium in Germany, said on
+
+Tuesday, “Management and staff at the Oberhausen Sea Life Center were devastated to discover
+that Octopus Paul who achieved global renown during the recent World Cup, had passed away
+overnight,” said in a somber statement.
+
+“Paul amazed the world by correctly predicting the winners of all Germany's World Cup clashes
+,and then of the final”, said Sea Life manager Stefan Porwoll. His success made him almost a
+bigger story than the World Cup itself... We had all naturally grown very fond of him and he will be
+sorely missed”, said Porwoll. Paul's body is now in cold storage while the aquarium decides “how
+best to mark his passing.”
+
+However, /Paul's fans need not despair. The aquarium has already been grooming a successor,
+
+to be naméd Paul like his mentor. “ We may decide to give Paul his own small burial plot within our
+grounds gnil erect a modest permanent shrine,” said Porwoll.
+
+Questions:
+
+1. Who is called Paul? Is he alive now?
+2. When did Paul achieve global renown?
+3. What was Paul famous for?
+
+4. Where was his aquarium?
+
+5. Name the successor of Paul
+--- page 2 ---
+Q2. Read the following case study and point out the barriers to communication in this case study and
+suggest possible solutions. (Marks 5)
+
+A person does not always display the communication skills you would expect from someone in her high-
+level position. She/he may consciously or subconsciously erect barriers. Here is an example. A staff member
+in a healthcare facility is concerned about the well-being of a resident. He has noticed fairly small but
+disquieting changes in the resident's behavior. He knocks on the manager's door. Impatiently, the manager
+beckons him to enter, and she barely looks up from her paperwork. The worker begins to talk. The manager
+gives no feedback and looks impatient. "Yes, but what is it, specifically?" she cuts in. Then, she answers the
+phone. "It doesn't matter," the worker mutters and backs out of the room.
+
+Q3 . Write a Precis for the following passage and also give an appropriate title. (Marks 5)
+
+It is easy to say, ‘Enlarge your vocabulary; first, that you may enter upon the privileges of a cultivated
+woman; and secondly, that you may be able to tell the truth easily and accurately.’ But it is another and more
+difficult matter to prescribe the means by which this is to be done. Every girl must, to a large degree, work
+out her own method. The reading of the best books and conversation with cultivated folk are both helps to
+the free use of words. The dictionary is the best friend for your task. Never allow a strange word to pass
+unchallenged. Usually, it is wise to look it up at the moment. If that is impossible, it must be written firmly
+on the memory and traced at the first opportunity. It is good to encourage in yourself the habit of dawdling a
+little over the dictionary. It is the only place where dawdling reaps a harvest. To learn two new words a day—
+thoroughly to learn them so that their use will not have a foreign accent-is to insure a large vocabulary
+before you reach middle age. (189 words)
+
+Q4. R&R Associates of 128 Stadium Road, DL. , Bangalore have not paid you Rs.14, 800/- for Steel
+furniture supplied to them in March 20. Write a letter of complaint about Non-payment of Dues, You are the
+Saled Manager of Standard Furniture & Co Ltd. 8, Nauru Square, Chennai.
+
+Marks 10
+
+QS. Why has communication skills become an essential requirement fora successful career? Discuss with
+examples. (Marks 5)
+
+Q6.What is impact of ‘body language’ and ‘voice quality’ of a person in oral presentation? Explain in
+
+detail. . (Marks 5),
+v!
+
+Q7. Write down the two cultural variables which help to improve the communication? ( Marks 5)
+
+Q8. Write down the Do’s and Don’ts of public speaking. ( Marks 5)
+
+Q 9. Discuss how to handle anxiety/stage fear experienced before addressing an audience . ( Marks 5)
+
+Q10. What is the Difference between listening and hearing ? What are the advantages of
+active listening. ( Marks 5)
+
+SL
+Lp
+````
 
 ## 2012-13 · Re-Exam · Trim 4 · paper 7ff9ab05ccf4
 
@@ -107,6 +230,7 @@ conducted to a dentist's waiting room!
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/COMMUNICATION TECHNIQUES/BUSINESS COMMUNICATION 2011-12.pdf`
 - Printed on paper: duration hours: 2; exam date: 5/11/2011
 - Text: ocr (1 page), mean OCR confidence 88.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS Y wv
@@ -158,7 +282,6 @@ b) You have an agency of well-known international group of magazines. Write a Sa
 Letter to be sent to educational institutes.
 (Use complete block format) (05).
 
-Dheen panne a *& ene eee x
 ````
 
 ## 2011-12 · Re-Exam · Trim 4 · paper ec08a09e6c24
@@ -574,11 +697,12 @@ __
 
 ## 2007-08 · Re-Exam · Trim 4 · paper 0b828c25cbab
 
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/COMMUNICATION TECHNIQUES/2007-2008 re exam(9).pdf`
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/BUSINESS COMMUNICATION/2007-2008 re exam(9) (1).pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 77.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY ¢
@@ -697,7 +821,6 @@ corporate values, a survey of key stakeholder groups, and/or management input. (
 
 ni
 
-et ES Eee é saiteg See een od
 --- page 3 ---
 iggibe
 
@@ -879,6 +1002,7 @@ context where most industries are still fairly young. (370 words)
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/COMMUNICATION TECHNIQUES/2005-2006(14).pdf`
 - Printed on paper: exam date: 10 OCTOBER 2005
 - Text: ocr (2 pages), mean OCR confidence 94.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 NARSEE MONJEE INSTITUTE OF MANAGEMENT STUDIES
@@ -890,7 +1014,6 @@ SUBJECT: COMMUNICATION TECHNIQUES
 TRE. iv
 DATE: 10 OCTOBER 2005 reD —
 
-qe [ta)) A M To J2: to nium
 
 la. What are the different types of communication? Write a comparative analysis of
 verbal and non-verbal communication. (15)
@@ -986,127 +1109,4 @@ suggest a suitable place for the location of a new branch. (20)
 OR
 7 b. Prepare a report on the feasibility of starting a new computer center for
 our college. , (20)
-````
-
-## Year not stated · Exam not stated · Trim 4 · paper 0249c44ed0b7
-
-- Departments: Chemical
-- Programmes: MBA TECH / CHEMICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/CHEMICAL/TRIM IV/COMMUNICATION TECHNIQUES/scan0007(10).pdf`
-- Printed on paper: max marks: 50; exam date: 31/10/2012
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School Of Technology Management & Engineeri
-
-Programme: MBA(Tech)-All Streams Year: II Trimester: IV
-Academic Year : 2012-2013
-
-fee wil
-Subject: BUSINESS COMMNICATION-I Marks: 50 ie /
-Time: 2.00pm $cc
-Date: 31/10/2012 Duration: 2 ne: .
-Final - Examination , hag A
->=
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use. (Use only if applicable as the case may be)
-
-NB:
-
-1. Question No. 4 is compulsory.
-
-2. Out of remaining questions, attempt any 8 questions.
-
-3. Inall 9 questions to be attempted.
-
-4. All questions carry equal marks. Only question No 4 carries 10 marks.
-5. Answer to each new question to be started on a fresh page.
-
-6. Figures in brackets on the right hand side indicate full marks.
-
-QI. Read the following paragraph and answer the given questions.
-ORACLE OCTOPUS PAUL NO MORE (5 marks)
-
-Berlin Oct, 26:
-
-“Paul the octopus, who shot to fame during this year's football World Cup in South Africa for his
-— record in predicting game outcomes, has died,” his aquarium in Germany, said on
-
-Tuesday, “Management and staff at the Oberhausen Sea Life Center were devastated to discover
-that Octopus Paul who achieved global renown during the recent World Cup, had passed away
-overnight,” said in a somber statement.
-
-“Paul amazed the world by correctly predicting the winners of all Germany's World Cup clashes
-,and then of the final”, said Sea Life manager Stefan Porwoll. His success made him almost a
-bigger story than the World Cup itself... We had all naturally grown very fond of him and he will be
-sorely missed”, said Porwoll. Paul's body is now in cold storage while the aquarium decides “how
-best to mark his passing.”
-
-However, /Paul's fans need not despair. The aquarium has already been grooming a successor,
-
-to be naméd Paul like his mentor. “ We may decide to give Paul his own small burial plot within our
-grounds gnil erect a modest permanent shrine,” said Porwoll.
-
-Questions:
-
-1. Who is called Paul? Is he alive now?
-2. When did Paul achieve global renown?
-3. What was Paul famous for?
-
-4. Where was his aquarium?
-
-5. Name the successor of Paul
---- page 2 ---
-Q2. Read the following case study and point out the barriers to communication in this case study and
-suggest possible solutions. (Marks 5)
-
-A person does not always display the communication skills you would expect from someone in her high-
-level position. She/he may consciously or subconsciously erect barriers. Here is an example. A staff member
-in a healthcare facility is concerned about the well-being of a resident. He has noticed fairly small but
-disquieting changes in the resident's behavior. He knocks on the manager's door. Impatiently, the manager
-beckons him to enter, and she barely looks up from her paperwork. The worker begins to talk. The manager
-gives no feedback and looks impatient. "Yes, but what is it, specifically?" she cuts in. Then, she answers the
-phone. "It doesn't matter," the worker mutters and backs out of the room.
-
-Q3 . Write a Precis for the following passage and also give an appropriate title. (Marks 5)
-
-It is easy to say, ‘Enlarge your vocabulary; first, that you may enter upon the privileges of a cultivated
-woman; and secondly, that you may be able to tell the truth easily and accurately.’ But it is another and more
-difficult matter to prescribe the means by which this is to be done. Every girl must, to a large degree, work
-out her own method. The reading of the best books and conversation with cultivated folk are both helps to
-the free use of words. The dictionary is the best friend for your task. Never allow a strange word to pass
-unchallenged. Usually, it is wise to look it up at the moment. If that is impossible, it must be written firmly
-on the memory and traced at the first opportunity. It is good to encourage in yourself the habit of dawdling a
-little over the dictionary. It is the only place where dawdling reaps a harvest. To learn two new words a day—
-thoroughly to learn them so that their use will not have a foreign accent-is to insure a large vocabulary
-before you reach middle age. (189 words)
-
-Q4. R&R Associates of 128 Stadium Road, DL. , Bangalore have not paid you Rs.14, 800/- for Steel
-furniture supplied to them in March 20. Write a letter of complaint about Non-payment of Dues, You are the
-Saled Manager of Standard Furniture & Co Ltd. 8, Nauru Square, Chennai.
-
-Marks 10
-
-QS. Why has communication skills become an essential requirement fora successful career? Discuss with
-examples. (Marks 5)
-
-Q6.What is impact of ‘body language’ and ‘voice quality’ of a person in oral presentation? Explain in
-
-detail. . (Marks 5),
-v!
-
-Q7. Write down the two cultural variables which help to improve the communication? ( Marks 5)
-
-Q8. Write down the Do’s and Don’ts of public speaking. ( Marks 5)
-
-Q 9. Discuss how to handle anxiety/stage fear experienced before addressing an audience . ( Marks 5)
-
-Q10. What is the Difference between listening and hearing ? What are the advantages of
-active listening. ( Marks 5)
-
-SL
-Lp
 ````

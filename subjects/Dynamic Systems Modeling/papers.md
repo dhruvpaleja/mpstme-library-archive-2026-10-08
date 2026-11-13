@@ -533,6 +533,150 @@ physically (in-phase vs out-of-phase).
 FOR RA KE
 ````
 
+## 2025-26 · Re-Exam · Sem 5 · paper 93adb99d1512
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/DYNAMIC SYSTEM MODELLING/B Tech, Dynamic Systems Modelling, Sem-V, Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (6 pages), mean OCR confidence 78.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2025-2026
+
+Program: B.Tech. Stream: Mechatronics Engineering Year: II] Semester: = V__
+
+Subject: Dynamic Systems Modelling Time: 3_ hrs (Ztoopmto ek 400pi)
+. Date:_29 / MN /25 No. of Pages: 6 __
+
+Marks: 100. :
+
+Re-Examination. (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 —_ questions.
+3) In all ___5_ questions to be attempted:
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Answer all questions. Consider the following system for all questions.
+
+Ql [20]
+
+CO-1,2 a.
+
+SO-1,2,7 ’ | Draw the FBD. coe [5]
+BL-3
+
+CO-1,2,3 | b. ; j oo
+SO-1,2,6 Calculate the acceleration of point P. [5]
+
+BL-4
+--- page 2 ---
+CO-1,2 c.
+
+SO-1,2,7 Calculate the spring force F,,. Please note that Q, is on a massless roller. | [5]
+BL-4
+
+CO-1,2,3 | -d. . ;
+
+SO-1,2,7 : Apply > Fy = + with symbols used for forces and acceleration. [5]
+BL-4 .
+
+Consider the shown system. Do not assume that the displacements are
+
+small.
+
+Q2 [20]
+CO-1,2,3 f
+
+SO-1,2 Draw the FBD. [10]
+BL-4 : a
+
+CO-1,2,3 |b. +} Apply x Mg, =": Please assume symbols for forces and accelerations. rio]
+$0-1,2 : oe oe eae
+
+nae Apply & Fx = - for the cylinder.
+
+Q3 ; Consider the shown system. Do not assume that the displacements are (20)
+
+small.
+--- page 3 ---
+CO-1,2,3 | a. . Calculate the acceleration of point G2 Draw the kinematic progression
+
+SO-1,2 [10]
+
+diagram in case you have not attempted Q2.
+
+BL-5
+CO-1,2,3 | b. : ee ee ee oe
+SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+: Consider the shown system. Please do not assume the displacements to be
+small.
+Q4 [20]
+CO-1,2,3 | a. : ;
+SO-1,2,7 Calculate the spring force F;,.. ‘ [10]
+BL-4
+--- page 4 ---
+CO-1,2,3 | b. : :
+SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+
+BL-4
+
+Consider the shown system. Please-do not assume that the displacements
+
+are small
+
+Q5 [20]
+CO-1,2,3. | a.
+
+SO-1,2,7 Calculate the acceleration of point P3. : 2 [10]
+a oe
+
+C0-1,2,3 |b. oo
+
+$0-1,2,7 AVE [10]
+Q6 Consider the shown inertially coupled system. Do not assume that the 120]
+
+displacements are small.
+--- page 5 ---
+C0-1,23 [a
+
+SO-1,2. Draw the FBD. ; ; [10]
+BL-5
+
+SO-1,2 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+nis : : Ze
+
+Q7 Consider the shown inertially coupled system. Do not assume that the
+
+oe [20]
+displacements are small.
+--- page 6 ---
+CO-1,2,3 | a.
+
+SO-1,2,7 Calculate the acceleration of point G2. [10]
+
+BL-5
+
+CO-1,2,3 . . ;
+Apply »; Mg, =: with symbols for forces and acceleration. .
+
+SO-1,2,7 : [10]
+
+BLS Apply > Fy =: for the pendulum.
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper 67381dbb29f3
 
 - Departments: Mechatronics
@@ -684,6 +828,139 @@ SO-1,2,7 [10]
 aie Apply > Fy = -*: for the bar.
 
 rm
+````
+
+## 2023-24 · Final + Re-Exam · Sem 4 · paper 74a94fc14500
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/DYNAMIC SYSTEMS MODELLING/Dynamic Systems Modelling, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (5 pages), mean OCR confidence 82.9
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+
+Program: B.Tech. Stream ;_ Mechatronics Engineering Year: II Semester: IV,
+Subject: Dynamic Systems Modelling Time: _3_ hrs ((lOgm to_1pm_)
+Date:_17 /04/24 _. No. of Pages: 5
+
+Marks: 100
+
+Final Examination jf ReEwam 22-73
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+7 > 3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Answer all questions. Consider the following system for all questions.
+
+a [20]
+
+aaa
+STAYS HORIZON
+
+CO-1,2 a.
+SO-1,2,7 Draw the FBD. {5]
+BL-3
+—=s2 CO-1,2,3 . ,
+SO-1,2,6 Calculate the acceleration of point G,. [5]
+— BL-4 |
+CO-1,2 C. ;
+SO-1,2,7 Calculate the spring force F;,,. Please note that P; is on a massless roller. [5]
+
+BL-4
+--- page 2 ---
+C0-1,2,3 |d. :
+
+SO-1,2,7 Apply >) Fy =: with symbols used for forces and acceleration. j [5]
+BL-4
+Consider the shown system. Do not assume that the displacements are
+small.
+* [20]
+rN
+CO-1,2,3
+SO-1,2 Draw the FBD. [10]
+BL-4
+CO-1,2,3 | b. Apply ¥ Mg, = ---. Please assume symbols for forces and accelerations. 110]
+SO-1,2
+BL-4 Apply ©) Fy = -+: for the bar.
+Consider the shown system. Do not assume that the displacements are
+small.
+m
+a [20]
+--- page 3 ---
+te
+
+é
+
+CO-1,2,3 | a. Calculate the acceleration of point P,. Draw the kinematic progression
+ro
+
+ae diagram in case you have not attempted Q2. [10]
+CO-1,2,3 | b.
+SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+BL-4 iy
+Consider the shown system. Please do not assume the displacements to be
+small.
+~ | Q4 [20]
+CO-1,2,3 | a.
+SO-1,2,7 Calculate the damping force F,. [10]
+BL-4
+CO-1,2,3 | b. ;
+SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+~ | BL
+os Consider the shown system. Please do not assume that the displacements 20]
+
+are small.
+--- page 4 ---
+a
+
+CO-1,2,3 | a.
+SO-1,2,7 Calculate the acceleration of point P,. [10]
+BL-4
+CO-1,2,3 | b.
+SO-1,2,7 Apply © Mg, =- [10]
+BL-5
+
+Consider the shown inertially coupled system. Do not assume that the
+
+displacements are small.
+
+I)
+
+Q6
+
+[20]
+--- page 5 ---
+7
+
+a
+
+CO-1,2,3 | a. wit
+S0-1,2 Draw the FBD. = [10]
+BL-S
+CO-1,2,3 |b. ;
+SO-1,2 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
+BL-S
+Consider the shown inertially coupled system. Do not assume that the
+displacements are small.
+al [20]
+CO-1,2,3 | a.
+SO-1,2,7 Calculate the acceleration of point Gp. [10]
+BL-S
+Cola | Apply % Mg, = +: with symbols for forces and acceleration.
+SO-1,2,7 [10]
+— Apply > Fy =.--: for the box.
 ````
 
 ## 2023-24 · Re-Exam · Sem 4 · paper 316dd98515ae
@@ -957,139 +1234,6 @@ SO-1,2,7 [10]
 tes Apply © Fx = + for the box.
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 4 · paper 74a94fc14500
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM IV/DYNAMIC SYSTEMS MODELLING/Dynamic Systems Modelling, Sem-IV, Final & Re Exam Batch 2022-23.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (5 pages), mean OCR confidence 82.9
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-
-Program: B.Tech. Stream ;_ Mechatronics Engineering Year: II Semester: IV,
-Subject: Dynamic Systems Modelling Time: _3_ hrs ((lOgm to_1pm_)
-Date:_17 /04/24 _. No. of Pages: 5
-
-Marks: 100
-
-Final Examination jf ReEwam 22-73
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions.
-7 > 3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Answer all questions. Consider the following system for all questions.
-
-a [20]
-
-aaa
-STAYS HORIZON
-
-CO-1,2 a.
-SO-1,2,7 Draw the FBD. {5]
-BL-3
-—=s2 CO-1,2,3 . ,
-SO-1,2,6 Calculate the acceleration of point G,. [5]
-— BL-4 |
-CO-1,2 C. ;
-SO-1,2,7 Calculate the spring force F;,,. Please note that P; is on a massless roller. [5]
-
-BL-4
---- page 2 ---
-C0-1,2,3 |d. :
-
-SO-1,2,7 Apply >) Fy =: with symbols used for forces and acceleration. j [5]
-BL-4
-Consider the shown system. Do not assume that the displacements are
-small.
-* [20]
-rN
-CO-1,2,3
-SO-1,2 Draw the FBD. [10]
-BL-4
-CO-1,2,3 | b. Apply ¥ Mg, = ---. Please assume symbols for forces and accelerations. 110]
-SO-1,2
-BL-4 Apply ©) Fy = -+: for the bar.
-Consider the shown system. Do not assume that the displacements are
-small.
-m
-a [20]
---- page 3 ---
-te
-
-é
-
-CO-1,2,3 | a. Calculate the acceleration of point P,. Draw the kinematic progression
-ro
-
-ae diagram in case you have not attempted Q2. [10]
-CO-1,2,3 | b.
-SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-BL-4 iy
-Consider the shown system. Please do not assume the displacements to be
-small.
-~ | Q4 [20]
-CO-1,2,3 | a.
-SO-1,2,7 Calculate the damping force F,. [10]
-BL-4
-CO-1,2,3 | b. ;
-SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-~ | BL
-os Consider the shown system. Please do not assume that the displacements 20]
-
-are small.
---- page 4 ---
-a
-
-CO-1,2,3 | a.
-SO-1,2,7 Calculate the acceleration of point P,. [10]
-BL-4
-CO-1,2,3 | b.
-SO-1,2,7 Apply © Mg, =- [10]
-BL-5
-
-Consider the shown inertially coupled system. Do not assume that the
-
-displacements are small.
-
-I)
-
-Q6
-
-[20]
---- page 5 ---
-7
-
-a
-
-CO-1,2,3 | a. wit
-S0-1,2 Draw the FBD. = [10]
-BL-S
-CO-1,2,3 |b. ;
-SO-1,2 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-BL-S
-Consider the shown inertially coupled system. Do not assume that the
-displacements are small.
-al [20]
-CO-1,2,3 | a.
-SO-1,2,7 Calculate the acceleration of point Gp. [10]
-BL-S
-Cola | Apply % Mg, = +: with symbols for forces and acceleration.
-SO-1,2,7 [10]
-— Apply > Fy =.--: for the box.
-````
-
 ## 2022-23 · Final-Exam · Sem 4 · paper 664beaad22ff
 
 - Departments: Mechatronics
@@ -1232,6 +1376,7 @@ arf point between the cylinder and the ground.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/DYNAMIC SYSTEM MODELLING/Dynamic Systems Modelling, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 19 Noveniber 2022
 - Text: ocr (5 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 fi
@@ -1316,7 +1461,6 @@ small.
 = ka z
 3
 Py cee, [20]
-fl Aw] [xe D- c sie
 ki | Gi - aa
 ox U
 NO
@@ -1539,150 +1683,6 @@ eee Apply >} M, = -*: with symbols for forces and acceleration. c is the contact
 “ point between the cylinder and the ground.
 BL-5
 Da
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 93adb99d1512
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/SEM-V/DYNAMIC SYSTEM MODELLING/B Tech, Dynamic Systems Modelling, Sem-V, Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (6 pages), mean OCR confidence 78.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2025-2026
-
-Program: B.Tech. Stream: Mechatronics Engineering Year: II] Semester: = V__
-
-Subject: Dynamic Systems Modelling Time: 3_ hrs (Ztoopmto ek 400pi)
-. Date:_29 / MN /25 No. of Pages: 6 __
-
-Marks: 100. :
-
-Re-Examination. (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1__ is compulsory.
-
-2) Out of remaining questions, attempt any 4 —_ questions.
-3) In all ___5_ questions to be attempted:
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
-
-Answer all questions. Consider the following system for all questions.
-
-Ql [20]
-
-CO-1,2 a.
-
-SO-1,2,7 ’ | Draw the FBD. coe [5]
-BL-3
-
-CO-1,2,3 | b. ; j oo
-SO-1,2,6 Calculate the acceleration of point P. [5]
-
-BL-4
---- page 2 ---
-CO-1,2 c.
-
-SO-1,2,7 Calculate the spring force F,,. Please note that Q, is on a massless roller. | [5]
-BL-4
-
-CO-1,2,3 | -d. . ;
-
-SO-1,2,7 : Apply > Fy = + with symbols used for forces and acceleration. [5]
-BL-4 .
-
-Consider the shown system. Do not assume that the displacements are
-
-small.
-
-Q2 [20]
-CO-1,2,3 f
-
-SO-1,2 Draw the FBD. [10]
-BL-4 : a
-
-CO-1,2,3 |b. +} Apply x Mg, =": Please assume symbols for forces and accelerations. rio]
-$0-1,2 : oe oe eae
-
-nae Apply & Fx = - for the cylinder.
-
-Q3 ; Consider the shown system. Do not assume that the displacements are (20)
-
-small.
---- page 3 ---
-CO-1,2,3 | a. . Calculate the acceleration of point G2 Draw the kinematic progression
-
-SO-1,2 [10]
-
-diagram in case you have not attempted Q2.
-
-BL-5
-CO-1,2,3 | b. : ee ee ee oe
-SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-: Consider the shown system. Please do not assume the displacements to be
-small.
-Q4 [20]
-CO-1,2,3 | a. : ;
-SO-1,2,7 Calculate the spring force F;,.. ‘ [10]
-BL-4
---- page 4 ---
-CO-1,2,3 | b. : :
-SO-1,2,7 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-
-BL-4
-
-Consider the shown system. Please-do not assume that the displacements
-
-are small
-
-Q5 [20]
-CO-1,2,3. | a.
-
-SO-1,2,7 Calculate the acceleration of point P3. : 2 [10]
-a oe
-
-C0-1,2,3 |b. oo
-
-$0-1,2,7 AVE [10]
-Q6 Consider the shown inertially coupled system. Do not assume that the 120]
-
-displacements are small.
---- page 5 ---
-C0-1,23 [a
-
-SO-1,2. Draw the FBD. ; ; [10]
-BL-5
-
-SO-1,2 Calculate the kinetic energy, the potential energy and the power dissipated. | [10]
-nis : : Ze
-
-Q7 Consider the shown inertially coupled system. Do not assume that the
-
-oe [20]
-displacements are small.
---- page 6 ---
-CO-1,2,3 | a.
-
-SO-1,2,7 Calculate the acceleration of point G2. [10]
-
-BL-5
-
-CO-1,2,3 . . ;
-Apply »; Mg, =: with symbols for forces and acceleration. .
-
-SO-1,2,7 : [10]
-
-BLS Apply > Fy =: for the pendulum.
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 11f99c68270b

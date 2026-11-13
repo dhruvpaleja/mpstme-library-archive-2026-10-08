@@ -14,12 +14,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Composite Materials(702ME0E006)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL | Composite Materials 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Composite Materials(702ME0E006)_2025-2026.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Composite Materials(702ME0E006)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Composite Materials(702ME0E006)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL | Composite Materials Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Composite Materials(702ME0E006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Composite Materials(702ME0E006)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL | Composite Materials Batch 2023-24 Final.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Composite Materials, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf |
 | 2022 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Composite Materials Batch 2022 Final0001.pdf |

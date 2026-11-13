@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_IT_7001/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
 - Text: mixed (14 pages), mean OCR confidence 73.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -390,7 +391,6 @@ D,D, \_00___ 01 l= 10) D3DSN 00s 00
 00] X 0 0 0 00] X 0 | :1 1:
 
 ot! 1 1 1 1} ao} 0 | o | 0 | oO
-wig fou loa foas nia | 4 1
 of ia | a | | oa fit fa fa | ai
 Y=D,+Ds Y,=D,+D,D, ¥ y
 Fig. 16
@@ -448,6 +448,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_IT_7041/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
 - Text: mixed (14 pages), mean OCR confidence 73.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -829,7 +830,6 @@ D,D, \_00___ 01 l= 10) D3DSN 00s 00
 00] X 0 0 0 00] X 0 | :1 1:
 
 ot! 1 1 1 1} ao} 0 | o | 0 | oO
-wig fou loa foas nia | 4 1
 of ia | a | | oa fit fa fa | ai
 Y=D,+Ds Y,=D,+D,D, ¥ y
 Fig. 16

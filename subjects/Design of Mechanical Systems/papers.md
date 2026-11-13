@@ -291,6 +291,7 @@ Welt oe Rube NW oe
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/MECHANICAL/SEM X/DESIGN OF MECHANICAL SYSTEMS/Design of Mechanical Systems Batch 2022-23 Final0001.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (9 pages), mean OCR confidence 70.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 : SVKM’S NMIMS
@@ -404,7 +405,6 @@ TABLE 4. Belt Speed — Maximum Belt Speeds
 Urah. snin
 
 Belt Widthimm) | A |B ¢
-tase oe enn eee eee
 400 (aso 0
 450 P20 a
 500 240 18h | 180
@@ -733,7 +733,6 @@ Width \ oto ~ im)
 1,460 1.00 Lie 3.
 Lean 1.00 Lao pan
 TT 306
-ooo | Loe \ tua daa
 2,200 1.0) Lo, 2a4u
 240g tad Lan nae tt)
 2,400 10th | 1.nt a0
@@ -2114,6 +2113,236 @@ thickness.
 calculate the thickness of piston head considering both criteria.
 ````
 
+## 2015-16 · Re-Exam · Sem 7 · paper d9316f94438a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/DESIGN OF MECHANICAL SYSTEM/DESIGN OF MECHANICAL SYSTEM B TECH (MECHANICAL) BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 26/11/2015
+- Text: ocr (3 pages), mean OCR confidence 71.7
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+~
+
+Ql.
+
+Q2.
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Mechanical) Year: IV Semester: VII
+Batch: 2014-2015
+
+Academic Year: 2015-2016 qentart we
+
+RON IN sa
+
+Subject: Design of Mechanical System
+
+Marks: 60 L . a
+Date: 26/11/2015 Time: 10.00% kd Goth ® ¥ Js
+‘on: = 5
+Duration: 3 (hrs) \F, i wh we
+Seis ERO gat
+Re-Examination
+{nstructions:
+1. Figures to the right indicate full marks for the question.
+2. Question i is compulsory.
+3. Attempt any four out of remaining questions. (from question 2 to 6)
+4. Assume suitable data if necessary.
+5. Use of Design Data Book is Permitted
+Answer ANY FOUR of the following
+(a) | What are different components of crane? Explain in brief. (3)
+(b) What is optimum design? Enlist different methods of optimum design with its (9)
+application area.
+(c) A gas cylinder with an internal diameter of 200 mm is subjected to an operating pressure of (a)
+10 MPa. It is made of plain carbon steel FeE 230 and factor of safety is 2.5. Calculate the
+cylinder wall thickness assuming it to be thin cylinder and neglecting the effect of welded
+joints.
+(d) Explain the terms ‘working pressure’ and ‘design pressure’ in pressure vessels. (3)
+(e) The cylinder of four stroke engine diesel engine has following specifications: (3)
+Brake Power =SkW. Speed =800 rpm, Indicated mean effective pressure= 0.3 MPa
+Mechanical efficiency = 80 %
+Determine bore and length of cylinder. .
+(f) What is difference in thick and thin cylinder? Explain different stresses acting in (3)
+cylinder.
+(a) According to distortion energy theory of failure, (F)
+Syt | 1 5 2 2
+c= = {alr 02) +(69- 63) +(03- 51)"]
+
+(fs)
+Where 6), 02 and 63 are principal stresses. apply the same theory to thick cylinder with
+closed ends and prove that cylinder wall thickness is given by
+
+2 Veer]
+
+2 N
+
+[oy
+
+a MPSTME
+
+Me
+
+NS
+aye
+--- page 2 ---
+Q.3.
+
+Q.4.
+
+Q.5
+
+Q.6.
+
+(b)
+
+(@)
+
+(b)
+
+(a)
+(0)
+
+(a)
+
+(b)
+
+(a)
+(b)
+(c)
+(d)
+(e)
+
+A hydraulic cylinder with close ends is subjected to an internal pressure of 15 MPa.
+‘The inner and outer diameters of cylinder are 200 mm and 240 mm respectively. The
+cylinder is made of cast iron FG 300. Determine the factor of safety used in design. If
+the cylinder pressure is further increased by 50 %, what will be the factor of safety?
+
+The following data is given for four stroke diesel engine:
+Cylinder bore = 100 mm, Length of stroke = 125 mm
+Speed =2000 rpm, Brake mean effective pressure= 0.65 MPa
+Maximum gas pressure = 5 MPa
+Fucl cousumption~ 0.25 Ky per BP per hr
+Higher Calorific value= 42 000 KJ/Kg
+Assume that 5 % of the total heat developed in the cylinder is transmitted by the
+piston. The piston is made of grey cast iron and permissible tensile stress is equal to
+37.5 N/mm? (k= 46.6 W/m/°C). The temperature difference between the centre and the
+edge of the piston head is 220 °C.
+i) Calculate the thickness of piston head by strength consideration.
+ii) Calculate the thickness of piston head by thermal consideration.
+iii) Which criterion decides the thickness of piston head?
+iv) State whether ribs are required.
+v) Ifrequired, calculate the number and thickness of piston ribs.
+vi) State weather cup is required in top of piston head.\
+vii) If required, calculate the radius of cup.
+
+-How the thickness of cylinder head is calculated? Also explain the procedure for
+designing the studs for cylinder head.
+
+What is optimum design? Enlist different methods of optimization. Explain the
+procedure of optimum design using Johnson’s method.
+
+What is hosting system? Explain different components of hoisting system.
+
+A temporary elevator is assembled at the construction site to raise building materials,
+at a height of 20 m. it is estimated that maximum weight of material to be raised is 5
+KN. It is observed that the acceleration in such applications is 1 m/s’. A 10 mm
+diameter, 6 x 19 construction wire ropes with fiber core is used for this application.
+The tensile designation of wire is 1570 and the factor of safety should be 10 for
+preliminary calculations. Determine the number of wire ropes required for this
+application. Neglect bending stress.
+
+Explain the factors affecting the selection of material handling equipments.
+
+Write a short note on ANY FOUR of following
+Piston rings
+
+Openings in pressure vessels
+
+Conveyors in material handling
+
+Types of cranes
+
+Automated guided vehicle
+
+(s)
+
+CF)
+
+(s)
+CH
+
+(s?
+
+C#)
+
+(s)
+Cr2)
+--- page 3 ---
+a
+
+AGRE ah Druin:
+
+i H SDDROUPRUE FAQS
+
+TRAaE Fie
+
+Ast 7
+Feit di
+i Abe a ! 0
+i iG
+eet qo
+» % | ‘ i Aoi
+Hele i i i |
+
+NG
+
+8 at i 4) 4 |
+i a} Wo 2) 1
+a % .
+; oe t. “ane {74 di
+CO if tig i t ‘ | |
+te ba” a) ig % cs ; ‘\ ;
+aa { f8é tH 3
+) i j {3
+i | : |
+| 4h {3 Pa ae
+| Hi a3 |
+/ 14 i rh ;
+i ie 4 is vs 7
+: ° 2
+\ 4 248 i ‘ |
+5 MY fi | | i
+-
+a ~ |
+z s “% #* i ie
+ty 4
+i H
+ty: F 74 3% + %
+3 ? i : |
+| 4 mu iy af) Ad
+: 1 i am 4 i | 0 ‘Ne
+i ami | Su 210
+
+| | ate taal?
+/ ie i an ‘ sE4 4 f
+i | ML OOS 1 4g ee |
+i fete Bee Bee Pats roe +
+er tan) Vig ae : |
+us Pig } bo& Hl 3 g
+; fe iy
+vid
+ay
+Sy x
+6 ut My za! : Sayer ! i
+# i ah 4b “4 figo%
+meme me pot ‘ -
+oe ea nln center “ enmamrgni : i
+````
+
 ## 2015-16 · Re-Exam · Sem 7 · paper 391de91bcd58
 
 - Departments: Mechanical
@@ -2534,239 +2763,6 @@ b) Explain in detail design procedure for center crankshaft of IC Engine-----~ a
 oH
 
 (b) Section at Xx
-````
-
-## 2014-15 · Re-Exam · Sem 7 · paper d9316f94438a
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/DESIGN OF MECHANICAL SYSTEM/DESIGN OF MECHANICAL SYSTEM B TECH (MECHANICAL) BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 26/11/2015
-- Text: ocr (3 pages), mean OCR confidence 71.7
-
-````text
-~
-
-Ql.
-
-Q2.
-
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Mechanical) Year: IV Semester: VII
-Batch: 2014-2015
-
-Academic Year: 2015-2016 qentart we
-
-RON IN sa
-
-Subject: Design of Mechanical System
-
-Marks: 60 L . a
-Date: 26/11/2015 Time: 10.00% kd Goth ® ¥ Js
-‘on: = 5
-Duration: 3 (hrs) \F, i wh we
-Seis ERO gat
-Re-Examination
-{nstructions:
-1. Figures to the right indicate full marks for the question.
-2. Question i is compulsory.
-3. Attempt any four out of remaining questions. (from question 2 to 6)
-4. Assume suitable data if necessary.
-5. Use of Design Data Book is Permitted
-Answer ANY FOUR of the following
-(a) | What are different components of crane? Explain in brief. (3)
-(b) What is optimum design? Enlist different methods of optimum design with its (9)
-application area.
-(c) A gas cylinder with an internal diameter of 200 mm is subjected to an operating pressure of (a)
-10 MPa. It is made of plain carbon steel FeE 230 and factor of safety is 2.5. Calculate the
-cylinder wall thickness assuming it to be thin cylinder and neglecting the effect of welded
-joints.
-(d) Explain the terms ‘working pressure’ and ‘design pressure’ in pressure vessels. (3)
-(e) The cylinder of four stroke engine diesel engine has following specifications: (3)
-Brake Power =SkW. Speed =800 rpm, Indicated mean effective pressure= 0.3 MPa
-Mechanical efficiency = 80 %
-Determine bore and length of cylinder. .
-(f) What is difference in thick and thin cylinder? Explain different stresses acting in (3)
-cylinder.
-(a) According to distortion energy theory of failure, (F)
-Syt | 1 5 2 2
-c= = {alr 02) +(69- 63) +(03- 51)"]
-
-(fs)
-Where 6), 02 and 63 are principal stresses. apply the same theory to thick cylinder with
-closed ends and prove that cylinder wall thickness is given by
-
-2 Veer]
-
-2 N
-
-[oy
-
-a MPSTME
-
-Me
-
-NS
-aye
---- page 2 ---
-Q.3.
-
-Q.4.
-
-Q.5
-
-Q.6.
-
-(b)
-
-(@)
-
-(b)
-
-(a)
-(0)
-
-(a)
-
-(b)
-
-(a)
-(b)
-(c)
-(d)
-(e)
-
-A hydraulic cylinder with close ends is subjected to an internal pressure of 15 MPa.
-‘The inner and outer diameters of cylinder are 200 mm and 240 mm respectively. The
-cylinder is made of cast iron FG 300. Determine the factor of safety used in design. If
-the cylinder pressure is further increased by 50 %, what will be the factor of safety?
-
-The following data is given for four stroke diesel engine:
-Cylinder bore = 100 mm, Length of stroke = 125 mm
-Speed =2000 rpm, Brake mean effective pressure= 0.65 MPa
-Maximum gas pressure = 5 MPa
-Fucl cousumption~ 0.25 Ky per BP per hr
-Higher Calorific value= 42 000 KJ/Kg
-Assume that 5 % of the total heat developed in the cylinder is transmitted by the
-piston. The piston is made of grey cast iron and permissible tensile stress is equal to
-37.5 N/mm? (k= 46.6 W/m/°C). The temperature difference between the centre and the
-edge of the piston head is 220 °C.
-i) Calculate the thickness of piston head by strength consideration.
-ii) Calculate the thickness of piston head by thermal consideration.
-iii) Which criterion decides the thickness of piston head?
-iv) State whether ribs are required.
-v) Ifrequired, calculate the number and thickness of piston ribs.
-vi) State weather cup is required in top of piston head.\
-vii) If required, calculate the radius of cup.
-
--How the thickness of cylinder head is calculated? Also explain the procedure for
-designing the studs for cylinder head.
-
-What is optimum design? Enlist different methods of optimization. Explain the
-procedure of optimum design using Johnson’s method.
-
-What is hosting system? Explain different components of hoisting system.
-
-A temporary elevator is assembled at the construction site to raise building materials,
-at a height of 20 m. it is estimated that maximum weight of material to be raised is 5
-KN. It is observed that the acceleration in such applications is 1 m/s’. A 10 mm
-diameter, 6 x 19 construction wire ropes with fiber core is used for this application.
-The tensile designation of wire is 1570 and the factor of safety should be 10 for
-preliminary calculations. Determine the number of wire ropes required for this
-application. Neglect bending stress.
-
-Explain the factors affecting the selection of material handling equipments.
-
-Write a short note on ANY FOUR of following
-Piston rings
-
-Openings in pressure vessels
-
-Conveyors in material handling
-
-Types of cranes
-
-Automated guided vehicle
-
-(s)
-
-CF)
-
-(s)
-CH
-
-(s?
-
-C#)
-
-(s)
-Cr2)
---- page 3 ---
-a
-
-AGRE ah Druin:
-
-i H SDDROUPRUE FAQS
-
-TRAaE Fie
-
-Ast 7
-Feit di
-i Abe a ! 0
-i iG
-eet qo
-» % | ‘ i Aoi
-Hele i i i |
-
-NG
-
-8 at i 4) 4 |
-i a} Wo 2) 1
-a % .
-; oe t. “ane {74 di
-CO if tig i t ‘ | |
-te ba” a) ig % cs ; ‘\ ;
-aa { f8é tH 3
-' i em at A a fi)
-) i j {3
-i | : |
-| 4h {3 Pa ae
-| Hi a3 |
-/ 14 i rh ;
-i ie 4 is vs 7
-: ° 2
-\ 4 248 i ‘ |
-34 ab? : RR ia 8 i Lia i
-5 MY fi | | i
--
-a ~ |
-z s “% #* i ie
-ty 4
-i H
-ty: F 74 3% + %
-3 ? i : |
-| 4 mu iy af) Ad
-is ; ae I My j
-: 1 i am 4 i | 0 ‘Ne
-i ami | Su 210
-
-| | ate taal?
-/ ie i an ‘ sE4 4 f
-i | ML OOS 1 4g ee |
-i fete Bee Bee Pats roe +
-er tan) Vig ae : |
-us Pig } bo& Hl 3 g
-a 1 mE ili ae i ByA +f We 378
-; fe iy
-vid
-ay
-Sy x
-6 ut My za! : Sayer ! i
-# i ah 4b “4 figo%
-meme me pot ‘ -
-oe ea nln center “ enmamrgni : i
 ````
 
 ## 2013-14 · Final-Exam · Sem 7 · paper f074fd574fa2

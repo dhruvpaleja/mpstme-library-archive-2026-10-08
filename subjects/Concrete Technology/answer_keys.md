@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Civil_7005/Concrete Technology/ANS_Concrete Technology(702CI0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (6 pages), mean OCR confidence 36.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -151,7 +153,6 @@ Ags, Size bers Ih
 
 4% wool 5} @
 
-(B) sale Retin. q ier “ote 12 |
 Toble 2 TS UsG {cones = mi
 
 mon = OS — We = SWB Pate?
@@ -180,10 +181,8 @@ bs pun be ra +90 ners YX — Cemes > 3L4 lr]
 rin —cohabetos TP ate. = tte
 
 Are Ep Sake | CR
-I Awa) eer Es Ln? aya FR Awe | Y:
 
 D lof Min —=0-01-™2 | yap oh set CA LW
-"4 Vath Genta fom aera oo ea
 .-= Se fe oH =
 
 216 +08 = Fem (rete)
@@ -193,7 +192,6 @@ ee OT ove. gykantoted Go EA’ |
 
 ; GOSS ce BOS = HB
 \D Vel. ey tosuA A@Qe. || —_
-en ee a "Fane OOKR Behar a ene —t- 43
 = 6 = ; q
 “ A herein
 
@@ -226,6 +224,8 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Civil_7005/Concrete Technology/ANS_Concrete Technology(702CI0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (5 pages), mean OCR confidence 38.9
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -328,7 +328,6 @@ Q7
 
 IN 3
 
-Vuele of XM - ES Asa) Tol \orae £2~ Pe!
 (tebtel w)e = 0-4 2 0-=
 
 erbd ie art ¢ =
@@ -350,7 +349,6 @@ ol fy 2 AF ee ~ 4).T Whe | ohne. = 1%6 ae
 Wile op der epee eel ter
 Oy = U3-2F rlmwe | 4yg1-s* 20
 Pe Tn Ts ener nk
-Tell ©) 20 no fig. thet ey Pap Boe Coto
 a a A Q 0. 6 1 )) zoe -b 7h.
 
 ; . ae a
@@ -358,7 +356,6 @@ vite a {comet —s 3
 
 — _}, 263
 Coble S= Buss ay
-uk We Oa ~] ~S eta. a
 
 DR ROR RK
 
@@ -367,7 +364,6 @@ ORR RK
 So ae oO
 
 ; ie: ett
-chk “zene Tr OLN 7 © -QSRRO-S9GKA-L A loo
 
 = . =
 
@@ -383,7 +379,6 @@ jo oT ster o.0h peel , a} LA i
 = Bite - O- +46 kG
 
 Conn Wer z
-Esa Pur fabte — Vx 2 Cope +4320 KeYyr’
 
 ZA kb to lo y—
 Ob KO'GF waetes — WW _
@@ -408,7 +403,6 @@ P > ea elineue
 a Sees A ay = S-RU bg «
 
 | veto ror 4g. 3 | a ee
-a} —o. 0) — O11bgE — 0 AFR i. ene, gaa — 3-t%
 
 spmiam*> 0,462. 13 4 =— Evert legit
 

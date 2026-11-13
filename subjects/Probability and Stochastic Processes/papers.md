@@ -1,10 +1,206 @@
 # Probability and Stochastic Processes: question papers in full
 
-3 unique papers · 2022 to 2022-23 · Electronics and Telecommunication
+3 unique papers · 2022-23 to 2023-24 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2022 · Final-Exam · Sem 7 · paper 72d8de48e124
+## 2023-24 · Re-Exam · Sem 7 · paper 686e6bf0585a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Probability and Stochastic Processes/Probability and Stochastic Processes Batch 2022-23 Re Ex0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 76.7
+
+````text
+Sf : SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT j
+Academic Year: 2023-2024 .
+Program/s: B.Tech Integrated Year: IV emester: pas
+
+i
+
+Stream/s ; EXTC
+
+Subject: Probability and Stochastic Processes Ti ad hrs (10.00 am to 1.0093 )
+Date: 05] 02:]2094 No\GfPages: 84 =
+Marks: 100 i a
+
+Re-examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+> 2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+
+Gena a. Two dies are thrown simultaneously, and the sum of the numbers obtained
+
+SO-1 ‘ is found to be 7. What is the probability that the number 3 has appeared at | [05]
+
+BL-I least once?
+
+CO- 1; b. . .
+
+SO-1; Explain discrete and continuous random variable with example of each. ¢ | [05]
+- BL-1
+
+CO-3 ; Cc. . : . ;
+
+SO-1; Compare strict sense stationary and wide sense stationary Processes. [05]
+
+BL-5
+
+CO- 4; d. : :
+
+SO-1; Explain point estimate and interval estimate. [05]
+
+BL-2
+
+a. A random variabie X has the foliowing probability function
+
+Q2 = -
+
+CO-1; Values of X O;1 |2 |3 |4 /5 6 7 8 [10]
+
+a Probability P(X) | a | 3a | 5a | 7a | 9a | 11a | 13a | 15a | 17a
+--- page 2 ---
+(i) | Determine the value of ‘a’
+
+(ii) Find P(X <3), P(X > 3), P(O< X <5)
+
+(iii) Find the distribution function of X. ¥
+
+; =@4y) :
+CO-1; | > | te the joint pdf of (X,Y) is f(x,y) = f° my x > 09> 0 check
+SO-1; 0 otherwise [10]
+BL-3 whether X and Y are independent. _
+Q3 a. - .
+5.4 When die is thrown, ‘X’ denotes the number that turns up. Determine 110)
+SO-1: E(X), E(X?) and Var (X).
+
+‘| BL-5
+CO-3; b. Show that the random process X(t)=Acos(wt+@).is a wide sense stationary,
+SO-1; where A and w are constants and @ is uniformly distributed on the interval | [10]
+BL-3 (0,27)
+a. The joint pdf of the two dimensional random variable (X,Y) is given by
+Q4 Bxy
+—_ j— ,lsxsys2
+CO-1: f@y) = 9 ; [10]
+SO-1: 0 otherwise
+BL-5S Determine (i) Marginal densities of X and Y
+(ii) The conditional density functions f(x/y) and f(y/x).
+
+Pie b. If X is a Poisson variable, Given that , P(X=2) = 9P(X=4) + 90P(X=6), rang
+BL-5. Determine the mean and variance of X.
+
+a. | Assume that the reduction of a person’s oxygen consumption during a
+
+period of Transcendental Meditation (T.M) is a continuous random
+
+Q5 variable X normally distributed with mean 37.6cc/mm and S.D 4.6 ce/min.
+a Determine the probability that a period of T.M. a person’s oxygen [10]
+BL-5 consumption will be reduced by
+
+(1) atleast 44.5 cc/min
+(2) atmost 35.0 cc/min
+--- page 3 ---
+Ta
+
+(3) anywhere from 30.0 to 40.0cc/min
+
+If the independent random variables X and Y have variances 36 and 16,
+
+CO-2; Zhe
+SO-1; respectively, Determine the correlation coefficient between (X+Y) and (X- | [10]
+BL-5
+
+Y).
+Q6 ;
+CO-3: Ifthe WSS process {X(t)} is given by X(t)}=10cos(100t+@),where @ is (10)
+SO-1; uniformly distributed over (-2,2).Prove that {X(t)} is correlation ergodic
+BL-5
+
+If X(t) is the input voltage to a circuit and Y(t) is the output voltage {X(t)}
+
+is a stationary process with ux=0 and Rxx(t)=e-7"",
+mre 3 Determine the mean pty and the power spectrum Syy(W) of the output if [10]
+BL-5
+
+th transfer function is gi a
+
+system transfer function is given by H(w) weal
+
+Q7 (i) Explain Binomial distribution. What is the mean and variance of [05]
+CO-2: binomial distribution?
+SO-1; (ii) The mean and the variance of binomial distribution are 5 and 4.
+Biel ie Determine the distribution. [05]
+
+Three balls are drawn at random without replacement from a box
+a containing 2 white, 3 red and 4 black balls. If X denotes the number of, 110)
+BL-§ white balls drawn and Y denotes the number of red balls drawn, find the
+
+joint probability distribution of (X, Y).
+--- page 4 ---
+STANDARD NORMAL TABLE (z)
+
+Entries in the table give the area under the curve
+between the mean and z standard deviations above
+the mean. For example, for z= 1.25 the area under
+the curve between the mean (0) and z is 0.3944.
+
+2| _0.03[ 0.04] - a.o7| 008 O03
+0.0120 8.0189 6.0190 6.0239 O.0¢79 O0%15 0.6359
+0.0436 . O.051F 0.0557 0.0596 6.0536 O8.0675 O.0714 D.0753
+6.0832 O0910 0.0548 OGOS87 .%.1026 4.1064 6.1103 8.1741
+Gilet? O81255 o.1293 98,1351 O1S6G O140R 6.1403 D168 0.1517
+6.1591 O.1628 O.1684 3.1700 O4736 = DARFE G1B08 O.1e44 0.1879
+GiISSG G1985 O2015 2054 O2088 o2129 O2i5F O2190 Dere4
+0.2291 0.2324 O.2357 0.2389 02422 o2454 OC.2486 O2517 0.2549
+8.2611 02642 O2673 O270¢ 0.2734 D276a O.BFE4 0.2023 0.2882
+C2810 9.2939 02969 6.2995 03023 6.3051 39078 0.3106 0.3133
+O.3186 08.3212 0.3238 0326¢ 0.3299 03915 0.3340 0.3365 0.3989
+03438 0.3461 O3485 63508 0.3513 0.3554 O.357F O.3529 0.3621
+C3655 0.3605 O3708 O3728 0.3749 oO377D 0.3790 O.34f6 0.3830
+0.3865 0.3888 D.SS0F 0.9925 0.3944 6.3962 90,4980 0.3897 0.4015
+0.4049 O.4066 O40B2 0.4059 04175 04131 O4i47 O4162 04177
+O420F 04222 04236 0.4251 0.4205 B4278 04292 04906 0.4319
+| 0.4945 04357 O4370 0.4362 0.4994 o4eog O4418 0.4429 0.4444
+| O4452 O4463 0.4474 O.4484 0.4455 04505 O4515 O4525 O4535 0.4545
+0.4554 4554 4573 04582 6.4551 04599 D4008 04616 04625 0.4639
+04641 04649 0.4658 0.4654 0.4871 0.4678 D4666 0.4693 0.4699 D.4roG
+O4713 O4719 D425 O4732 0.4738 O.4744 O4750 O4756 G4751 0.4767
+O4772 (4778 O47839 OATBG GATS3 0.4795 G4B02 O4808 O48t2 D.4B17
+04621 ©4826 9.4830 0.4834 O.48383 o4ge2 D4B46 04850 O4854 0.4657
+0.4861 0.4884 O4868 04871 O.4875 0.4878 O4B61 04884 O4887 0.4850
+04893 04896 04899 0.4901 O4904 0.4906 O4009 O4911 O45943 0.4916
+| 04918 ©4920 0.4922 o.4925 0.4927 O4929 04931 04932 0.4934 0.4036
+0439398 C4940 0.4941 O4943 0.4945 O.4066 o4ndn 2.4949 04551 0.4062
+04953 04955 04955 D4957 o.4959 0.4960 G4951 04962 O4583. 0.4984
+iF O4965 04956 O4967 O.4056 4969 o.4s70 O4971 O4972 O4973 0.4074
+0.49874 O4875 O4976 O4977- 4977 O497TB O4DTS O4979 0.4980 04981
+| O4981 4982 0.4982 O49B3 O.4908¢ 04984 O4988 O4985 O4686 0.4986
+0.4987 ©4987 04987 O4986 O4968 o.4e8o 64969 0.4589 O.4990 o.49¢0
+04990 C4891 04991 0.4991 O4982 o4s92 04992 94992 0.4993 0.4993
+{ 04993 04993 04994 O4954 o49G4 oO.4g04 G4994 04995 04995 0.4995
+04995 C4995 04995 O4996 o.4005 O4906 O4098 O4905 04996 D.4097
+| O499F C4937 G.4907 OAGS? aus? O4sa7 G49S7 O499F O4997 O.4908
+
+0.05 0.06 |
+````
+
+## 2022-23 · Final-Exam · Sem 7 · paper 72d8de48e124
 
 - Departments: Electronics and Telecommunication
 - Programmes: B.TECH INTEGRATED / EXTC
@@ -270,202 +466,6 @@ Also, estimate the value of y when x = 17. 6
 R
 
 VE:
-````
-
-## 2022-23 · Re-Exam · Sem 7 · paper 686e6bf0585a
-
-- Departments: Electronics and Telecommunication
-- Programmes: B.TECH INTEGRATED / EXTC
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/EXTC/Sem_07/Probability and Stochastic Processes/Probability and Stochastic Processes Batch 2022-23 Re Ex0001.pdf`
-- Printed on paper: max marks: 100
-- Text: ocr (4 pages), mean OCR confidence 76.7
-
-````text
-Sf : SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT j
-Academic Year: 2023-2024 .
-Program/s: B.Tech Integrated Year: IV emester: pas
-
-i
-
-Stream/s ; EXTC
-
-Subject: Probability and Stochastic Processes Ti ad hrs (10.00 am to 1.0093 )
-Date: 05] 02:]2094 No\GfPages: 84 =
-Marks: 100 i a
-
-Re-examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-> 2) Out of remaining questions, attempt any 4 _ questions.
-3)Inall__5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-Answer briefly: [20]
-
-Gena a. Two dies are thrown simultaneously, and the sum of the numbers obtained
-
-SO-1 ‘ is found to be 7. What is the probability that the number 3 has appeared at | [05]
-
-BL-I least once?
-
-CO- 1; b. . .
-
-SO-1; Explain discrete and continuous random variable with example of each. ¢ | [05]
-- BL-1
-
-CO-3 ; Cc. . : . ;
-
-SO-1; Compare strict sense stationary and wide sense stationary Processes. [05]
-
-BL-5
-
-CO- 4; d. : :
-
-SO-1; Explain point estimate and interval estimate. [05]
-
-BL-2
-
-a. A random variabie X has the foliowing probability function
-
-Q2 = -
-
-CO-1; Values of X O;1 |2 |3 |4 /5 6 7 8 [10]
-
-a Probability P(X) | a | 3a | 5a | 7a | 9a | 11a | 13a | 15a | 17a
---- page 2 ---
-(i) | Determine the value of ‘a’
-
-(ii) Find P(X <3), P(X > 3), P(O< X <5)
-
-(iii) Find the distribution function of X. ¥
-
-; =@4y) :
-CO-1; | > | te the joint pdf of (X,Y) is f(x,y) = f° my x > 09> 0 check
-SO-1; 0 otherwise [10]
-BL-3 whether X and Y are independent. _
-Q3 a. - .
-5.4 When die is thrown, ‘X’ denotes the number that turns up. Determine 110)
-SO-1: E(X), E(X?) and Var (X).
-
-‘| BL-5
-CO-3; b. Show that the random process X(t)=Acos(wt+@).is a wide sense stationary,
-SO-1; where A and w are constants and @ is uniformly distributed on the interval | [10]
-BL-3 (0,27)
-a. The joint pdf of the two dimensional random variable (X,Y) is given by
-Q4 Bxy
-—_ j— ,lsxsys2
-CO-1: f@y) = 9 ; [10]
-SO-1: 0 otherwise
-BL-5S Determine (i) Marginal densities of X and Y
-(ii) The conditional density functions f(x/y) and f(y/x).
-
-Pie b. If X is a Poisson variable, Given that , P(X=2) = 9P(X=4) + 90P(X=6), rang
-BL-5. Determine the mean and variance of X.
-
-a. | Assume that the reduction of a person’s oxygen consumption during a
-
-period of Transcendental Meditation (T.M) is a continuous random
-
-Q5 variable X normally distributed with mean 37.6cc/mm and S.D 4.6 ce/min.
-a Determine the probability that a period of T.M. a person’s oxygen [10]
-BL-5 consumption will be reduced by
-
-(1) atleast 44.5 cc/min
-(2) atmost 35.0 cc/min
---- page 3 ---
-Ta
-
-(3) anywhere from 30.0 to 40.0cc/min
-
-If the independent random variables X and Y have variances 36 and 16,
-
-CO-2; Zhe
-SO-1; respectively, Determine the correlation coefficient between (X+Y) and (X- | [10]
-BL-5
-
-Y).
-Q6 ;
-CO-3: Ifthe WSS process {X(t)} is given by X(t)}=10cos(100t+@),where @ is (10)
-SO-1; uniformly distributed over (-2,2).Prove that {X(t)} is correlation ergodic
-BL-5
-
-If X(t) is the input voltage to a circuit and Y(t) is the output voltage {X(t)}
-
-is a stationary process with ux=0 and Rxx(t)=e-7"",
-mre 3 Determine the mean pty and the power spectrum Syy(W) of the output if [10]
-BL-5
-
-th transfer function is gi a
-
-system transfer function is given by H(w) weal
-
-Q7 (i) Explain Binomial distribution. What is the mean and variance of [05]
-CO-2: binomial distribution?
-SO-1; (ii) The mean and the variance of binomial distribution are 5 and 4.
-Biel ie Determine the distribution. [05]
-
-Three balls are drawn at random without replacement from a box
-a containing 2 white, 3 red and 4 black balls. If X denotes the number of, 110)
-BL-§ white balls drawn and Y denotes the number of red balls drawn, find the
-
-joint probability distribution of (X, Y).
---- page 4 ---
-STANDARD NORMAL TABLE (z)
-
-Entries in the table give the area under the curve
-between the mean and z standard deviations above
-the mean. For example, for z= 1.25 the area under
-the curve between the mean (0) and z is 0.3944.
-
-2| _0.03[ 0.04] - a.o7| 008 O03
-0.0120 8.0189 6.0190 6.0239 O.0¢79 O0%15 0.6359
-0.0436 . O.051F 0.0557 0.0596 6.0536 O8.0675 O.0714 D.0753
-6.0832 O0910 0.0548 OGOS87 .%.1026 4.1064 6.1103 8.1741
-Gilet? O81255 o.1293 98,1351 O1S6G O140R 6.1403 D168 0.1517
-6.1591 O.1628 O.1684 3.1700 O4736 = DARFE G1B08 O.1e44 0.1879
-GiISSG G1985 O2015 2054 O2088 o2129 O2i5F O2190 Dere4
-0.2291 0.2324 O.2357 0.2389 02422 o2454 OC.2486 O2517 0.2549
-8.2611 02642 O2673 O270¢ 0.2734 D276a O.BFE4 0.2023 0.2882
-C2810 9.2939 02969 6.2995 03023 6.3051 39078 0.3106 0.3133
-O.3186 08.3212 0.3238 0326¢ 0.3299 03915 0.3340 0.3365 0.3989
-03438 0.3461 O3485 63508 0.3513 0.3554 O.357F O.3529 0.3621
-C3655 0.3605 O3708 O3728 0.3749 oO377D 0.3790 O.34f6 0.3830
-0.3865 0.3888 D.SS0F 0.9925 0.3944 6.3962 90,4980 0.3897 0.4015
-0.4049 O.4066 O40B2 0.4059 04175 04131 O4i47 O4162 04177
-O420F 04222 04236 0.4251 0.4205 B4278 04292 04906 0.4319
-| 0.4945 04357 O4370 0.4362 0.4994 o4eog O4418 0.4429 0.4444
-| O4452 O4463 0.4474 O.4484 0.4455 04505 O4515 O4525 O4535 0.4545
-0.4554 4554 4573 04582 6.4551 04599 D4008 04616 04625 0.4639
-04641 04649 0.4658 0.4654 0.4871 0.4678 D4666 0.4693 0.4699 D.4roG
-O4713 O4719 D425 O4732 0.4738 O.4744 O4750 O4756 G4751 0.4767
-O4772 (4778 O47839 OATBG GATS3 0.4795 G4B02 O4808 O48t2 D.4B17
-04621 ©4826 9.4830 0.4834 O.48383 o4ge2 D4B46 04850 O4854 0.4657
-0.4861 0.4884 O4868 04871 O.4875 0.4878 O4B61 04884 O4887 0.4850
-04893 04896 04899 0.4901 O4904 0.4906 O4009 O4911 O45943 0.4916
-| 04918 ©4920 0.4922 o.4925 0.4927 O4929 04931 04932 0.4934 0.4036
-0439398 C4940 0.4941 O4943 0.4945 O.4066 o4ndn 2.4949 04551 0.4062
-04953 04955 04955 D4957 o.4959 0.4960 G4951 04962 O4583. 0.4984
-iF O4965 04956 O4967 O.4056 4969 o.4s70 O4971 O4972 O4973 0.4074
-0.49874 O4875 O4976 O4977- 4977 O497TB O4DTS O4979 0.4980 04981
-| O4981 4982 0.4982 O49B3 O.4908¢ 04984 O4988 O4985 O4686 0.4986
-0.4987 ©4987 04987 O4986 O4968 o.4e8o 64969 0.4589 O.4990 o.49¢0
-04990 C4891 04991 0.4991 O4982 o4s92 04992 94992 0.4993 0.4993
-{ 04993 04993 04994 O4954 o49G4 oO.4g04 G4994 04995 04995 0.4995
-04995 C4995 04995 O4996 o.4005 O4906 O4098 O4905 04996 D.4097
-| O499F C4937 G.4907 OAGS? aus? O4sa7 G49S7 O499F O4997 O.4908
-
-0.05 0.06 |
 ````
 
 ## 2022-23 · Re-Exam · Sem 7 · paper 415437e42c92

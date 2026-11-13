@@ -14,19 +14,19 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated DS 7038 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Dataset | Sem 6 | BTech DS 7009 | data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx |
 | 2025-26 | Final-Exam, Re-Exam | Dataset | Sem 6, Sem 10 | Integrated DS 7038, MBATech DS 7052 | data_set_Applications of Machine Learning(702DB0C025)_2025-2026.xlsx |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated DS 7038 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6, Sem 10 | B TECH / DATA SCIENCE, B.TECH INTEGRATED / DATA SCIENCE | Applications of Machine Learning Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated DS 7038 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Applications of Machine Learning(702DB0C025)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Applications of Machine Learning, Sem-VI, Final Exam 2024-25.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | MBA TECH / DATA SCIENCE | Applications of Machine Learning , Re-exam 2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Applications of Machine Learning, Sem-VI, Year 2022-23, Final Exam.pdf |

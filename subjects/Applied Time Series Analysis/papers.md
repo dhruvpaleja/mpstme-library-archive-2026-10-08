@@ -1,6 +1,6 @@
 # Applied Time Series Analysis: question papers in full
 
-19 unique papers · 2022 to 2025-26 · Data Science, Artificial Intelligence, AI and Machine Learning
+19 unique papers · 2022-23 to 2025-26 · Data Science, Artificial Intelligence, AI and Machine Learning
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -396,6 +396,7 @@ SO-1   2. Vector auto regression
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/DATA SCIENCE/Sem_09/Applied Time Series Analysis/Applied Time Series Analysis 2025-26 Final.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 87.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -520,7 +521,6 @@ oso
 025
 
 2 i 2
-ee 1 i 2 ra a ce ee ae
 
 anp b
 
@@ -1605,6 +1605,7 @@ Explain the different types of plots used to visualize time series data with exa
 - Source: `02_Question_Papers/Legacy/M TECH/2ND YEAR/DATA SCIENCES FALL BACH/SEM III/Applied Time Series Analysis/Applied Time Series Analysis Batch 2023-24 Final0001.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 23/11/2023
 - Text: ocr (8 pages), mean OCR confidence 89.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1792,7 +1793,6 @@ on
 ons
 
 zo -
-E ee eer ner ee a er en
 005
 
 0.4
@@ -2395,7 +2395,7 @@ Qi with moment generating function M,(s) = £ (e***). Show that X; is strictly s
 Page2 of D
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 4e1c48544a6c
+## 2022-23 · Final-Exam · Sem 3 · paper 4e1c48544a6c
 
 - Departments: Data Science
 - Programmes: M TECH / DATA SCIENCES FALL BACH
@@ -2515,6 +2515,7 @@ END
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/DATA SCIENCE/SEM V/APPLIED TIME SERIES ANALYSIS/Applied Time Series Analysis, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 February 2023
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2590,7 +2591,6 @@ For an MA(1) process, X; = Z,+0Z;_1 with Z, ~ WN(0,0?), and |@| < 1, find the
 one step ahead forecast X,,,, based on the infinite past {Xn,Xn-1,---,X1,Xo0, X_1,--
 Q7 Tf Xngi = Djet €;Xn41-j then define the truncated forecast based on {X1,...,Xn} as [20]
 
-Xa = Dyer Xai. Find E(Xnya — Xr)
 
 >
 

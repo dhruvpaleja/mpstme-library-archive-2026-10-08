@@ -14,11 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_BASIC THERMODYNAMICS(701ME0C031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_BASIC THERMODYNAMICS(701ME0C031)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_BASIC THERMODYNAMICS(701ME0C031)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Basic Thermodynamics Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
-| 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Basic Thermodynamics(701ME0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | Integrated Mechanical 7031 | QP_Basic Thermodynamics(701ME0C006)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Basic Thermodynamics(701ME0C006)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Basic Thermodynamics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Basic Thermodynamics Batch 2023-24 Re Exam.pdf |
 | 2022-23 | — | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Basic Thermodynamics Batch 2022-230001.pdf |

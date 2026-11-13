@@ -840,6 +840,150 @@ Product Concept Sketch 3: — 7 7 a
 re
 ````
 
+## 2023-24 · Exam not stated · Sem 6 · paper c23d8143c3b8
+
+- Departments: Mechanical
+- Programmes: MBA TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Product Design and Development/Product Design and Development.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 88.9
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B.Tech/MBA Tech Year: III Semester: VI
+Stream/s ; Mechanical Engineering
+
+Subject: Product Design and Development : ‘Time: 03 hrs (2PM to 5PM)
+Date:___ 20/04 / 2024 ; No. of Pages: Six
+
+Marks: 100.
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks. .
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+8) Product concept drawing blank sheet attached
+
+Ql
+Answer briefly: [20]
+
+CO-1 ; SO- | a.
+1; Define: i) Standardization; ii) Simplification [04]
+BL-1 :
+
+~ | CO-1;SO- | b. [04]
+1; Explain market segmentation
+BL-3
+CO-1 ; SO- | c. List different methods product development teams uses for product | [04]
+1; .
+BL-3 concept selection
+CO-1,3 ; d. Describe intangible benefits of QFD (Quality Function Deployment) from | [04]
+ne product design and development perspectives
+CO-3 ;SO- |e [04]
+1 Explain any one rapid prototyping method
+BL-3
+--- page 2 ---
+Q2
+
+CO-1; SO- Enlist the factors affecting product design and development [06]
+1;
+BL-3
+Q2 b
+. Explain use of S-curve in design and development of products already in
+CO-2; SO- ; [10]
+1 the market and in the development of totally new products. (support :
+BL-4 your explanation with suitable examples)
+Q2 c Sketch and briefly explain product life cycle
+CO-1; SO- [04]
+de a
+BL-3
+Q3 a
+CO-1: S0- List the activities which can be considered as ‘Roles of product developer’ | [04]
+1; BL-3
+Q3 b
+CO-1; SO- | Write note on product design and deveiopment team [06]
+1; BL-3
+c Describe significance of ‘customer needs’ in product design and
+Q3
+development process also explain most important & significant need
+CO-2; SO- [10]
+which affects success of the product (support your explanation with
+1; BL-3
+example)
+Q4 a
+CO-1,3; Explain Process FMEA with example [10]
+SO-1;
+BL-4
+Q4 b
+Yash chemicals & cosmetics Itd. Wish to design and develop new product
+CO-1,3; [10]
+SO-1; ‘Tooth paste (including outer container)’ explain how QFD (Quality
+BL-3
+--- page 3 ---
+Function Deployment) technique/tool will help them to build successful
+
+product
+Qs a Create (Generate) three product concept ( use following information),
+
+The challenges underlying the design and development of spoon as a
+CO-1; SO- product are same as those underlying a motor bike if the aspects of user (12]
+1; centered design are considered.
+BL-6 Create product concepts —
+
+Mouse for laptop/PC for mechanical engineering student
+Q5 b
+CO-1; SO- Explain how Asimov's work is helpful for product design and [08]
+1; development process
+BL-3
+Q6 a
+. List the steps of procedure developed by Ulrich for DFM (Design for
+CO-1,3; [10]
+SO-1; Manufacturing) and explain any one step in detail
+BL-3
+Q6 b
+. Explain following (any one):
+
+- a a) Process of Concept Embodiment [06]
+BL-3 b) Subtract and Operate procedure
+Q6 <
+0-12: Describe following associated with Kano Model of customer satisfaction:
+0-1. , 1. Attractive quality elements [04]
+BL-1 2. Must-be quality elements
+Q7 a Explain (Any one):
+CO-: $0-: 1. Outsourcing [10]
+BL- 2. Mass customization
+Q7 b
+
+List issues that would be addressed by QFD-Quality Function Deployment
+co-1,3; [04]
+SO-1; (At least four issues)
+BL-3
+--- page 4 ---
+Q7 c Fo
+
+CO-1; SO- “Pugh’s matrix is helpful for good product concept selection” Explain [06]
+
+BL-3
+````
+
 ## 2023-24 · Final-Exam · Sem 9 · paper 71bcbe66895f
 
 - Departments: Mechanical
@@ -1600,7 +1744,7 @@ explain its structure with the help of any suitable example.
 ala
 ````
 
-## 2022 · Final-Exam · Sem 9 · paper c1facfe4e145
+## 2022-23 · Final-Exam · Sem 9 · paper c1facfe4e145
 
 - Departments: Mechanical
 - Programmes: B.TECH INTEGRATED / MECHANICAL
@@ -2808,6 +2952,7 @@ Q7: What are the types of ‘Customer needs?’ How are they classified? Cite ex
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHATRONICS/Sem_08/Product Design and Development/PRODUCT DESIGN AND DEVELOPMENT (MECHATRONICS), FINAL EXAM 2017-18.pdf`
 - Printed on paper: max marks: 60; exam date: 03 May 2018
 - Text: ocr (4 pages), mean OCR confidence 93.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _——
@@ -2963,7 +3108,6 @@ regular rather than a one-off buy.
 
 ‘The brand also localized its branding and advertising approach to make it more acceptable. Gone was
 the familiar cockerel, and advertising campaigns using local faces such as a yoga instructor and
-Kathakali dancer attributing their vigor to a Kellogg’s diet. Accompaniments such as curd and pistachio.
 
 which suited the local palate, were suggested.
 
@@ -3817,6 +3961,84 @@ ok RR RRR EE
 2/2
 ````
 
+## 2015-16 · Re-Exam · Sem 8 · paper 84256f7fe5b8
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/PRODUCT DESIGN AND DEVELOPMENT/PRODUCT DESIGN AND DEVELOPMENT B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 09/05/2016
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (Mechanical) Year: IV Semester: VIII
+Academic Year: 2015-16
+
+Batch:2014-15
+
+Subject: Product Design and Development Marks: 60
+Time: 10.00
+Date: 09/05/2016 Durations: 3 ht
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+I. Question no. 1 is compulsory.
+
+Il. Out of remaining questions, attempt any 4 questions.
+
+Ill. In all 5 questions to be attempted.
+IV. All questions carry equal marks.
+
+VY. Answers to each question to be started on fresh page.
+VI. _ Figures in brackets on the right hand side indicate full marks for each part.
+
+Ql) (a) How creative ideas are located and how right product is selected? (4)
+(b) How curiosity and imagination is helpful in product designing? Give examples. (4)
+(c) What is systematic procedure for product development? (4)
+
+Q2) (a) Discuss structural unit for new product development. What are the functions of new product
+development unit? (6)
+
+(b) Explain Product Life Cycle Management. (6)
+
+Q3) (a) What are the preliminary studies to be made before designing? What do you understand by value
+of appearance? What are different types of value? (6)
+
+(b) Discuss various laws and principles of appearance. Aiso discuss how quality and reliability is
+incorporated in the design? (6)
+
+Q4) (a) What do you understand by man machine considerations in designing? What should be
+designing considerations for case of maintenance? (6)
+
+(b) Discuss sources of funds for development of product. How estimation of product cost is done?
+Explain. (6)
+
+Vo
+--- page 2 ---
+QS) (a) What are the different kinds of cost procedures? How cost reduction is done? (6)
+
+‘ OR
+aan - ,. What is Quality Function Deployment and how it is done? (6)
+(b) Explain and discuss generation, screening and development of new product ideas. (6)
+Q6) (a) What is meant by product life cycle? Explain with suitable examples. (6)
+Mate (b) How economic analysis is done after evaluation of new product ideas /concepts. (6)
+Q7) (a) What is value analysis? (4)
+(b) What is meant by diffusion of innovation? (4)
+(c) How test marketing of new product to be launched is done? Explain with examples. (4)
+
+OR
+
+What is Axiomatic product design? Explain step by step process. Aide)
+
+FOR ERK.
+
+a2
+````
+
 ## 2015-16 · Re-Exam · Sem 7 · paper 128242e80a90
 
 - Departments: Mechanical
@@ -4118,84 +4340,6 @@ for concept embodiment.
 Poge 2 2.
 ````
 
-## 2014-15 · Re-Exam · Sem 8 · paper 84256f7fe5b8
-
-- Departments: Mechanical
-- Programmes: B TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/PRODUCT DESIGN AND DEVELOPMENT/PRODUCT DESIGN AND DEVELOPMENT B TECH (MECHANICAL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 09/05/2016
-- Text: ocr (2 pages), mean OCR confidence 92.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech (Mechanical) Year: IV Semester: VIII
-Academic Year: 2015-16
-
-Batch:2014-15
-
-Subject: Product Design and Development Marks: 60
-Time: 10.00
-Date: 09/05/2016 Durations: 3 ht
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-I. Question no. 1 is compulsory.
-
-Il. Out of remaining questions, attempt any 4 questions.
-
-Ill. In all 5 questions to be attempted.
-IV. All questions carry equal marks.
-
-VY. Answers to each question to be started on fresh page.
-VI. _ Figures in brackets on the right hand side indicate full marks for each part.
-
-Ql) (a) How creative ideas are located and how right product is selected? (4)
-(b) How curiosity and imagination is helpful in product designing? Give examples. (4)
-(c) What is systematic procedure for product development? (4)
-
-Q2) (a) Discuss structural unit for new product development. What are the functions of new product
-development unit? (6)
-
-(b) Explain Product Life Cycle Management. (6)
-
-Q3) (a) What are the preliminary studies to be made before designing? What do you understand by value
-of appearance? What are different types of value? (6)
-
-(b) Discuss various laws and principles of appearance. Aiso discuss how quality and reliability is
-incorporated in the design? (6)
-
-Q4) (a) What do you understand by man machine considerations in designing? What should be
-designing considerations for case of maintenance? (6)
-
-(b) Discuss sources of funds for development of product. How estimation of product cost is done?
-Explain. (6)
-
-Vo
---- page 2 ---
-QS) (a) What are the different kinds of cost procedures? How cost reduction is done? (6)
-
-‘ OR
-aan - ,. What is Quality Function Deployment and how it is done? (6)
-(b) Explain and discuss generation, screening and development of new product ideas. (6)
-Q6) (a) What is meant by product life cycle? Explain with suitable examples. (6)
-Mate (b) How economic analysis is done after evaluation of new product ideas /concepts. (6)
-Q7) (a) What is value analysis? (4)
-(b) What is meant by diffusion of innovation? (4)
-(c) How test marketing of new product to be launched is done? Explain with examples. (4)
-
-OR
-
-What is Axiomatic product design? Explain step by step process. Aide)
-
-FOR ERK.
-
-a2
-````
-
 ## 2013-14 · Final-Exam · Sem 8 · paper a22cdb49974d
 
 - Departments: Mechanical
@@ -4203,6 +4347,7 @@ a2
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_08/PRODUCT DESIGN AND DEVELOPMENT/PRODUCT DESIGN AND DEVELOPMENT B TECH (MECHANICAL), 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 09/05/2014
 - Text: ocr (1 page), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -4217,7 +4362,6 @@ Subject : Product Design and Development
 epee ye
 Date : 09/05/2014 mai BRATS YE pm
 
-D At} NS: 3 mists oe, jp
 Final-Examination ere iF Ne
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on
@@ -4816,148 +4960,4 @@ Q7) Write Short note (any two) (20-Marks)
 2. History of Statistical Quality Control
 3. Double Sampling Plan
 4. Procedures & Approaches for production system analysis & design
-````
-
-## Year not stated · Exam not stated · Sem 6 · paper c23d8143c3b8
-
-- Departments: Mechanical
-- Programmes: MBA TECH / MECHANICAL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/VI SEMESTER/Product Design and Development/Product Design and Development.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 88.9
-
-````text
-SVKM’S NMIMS
-
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B.Tech/MBA Tech Year: III Semester: VI
-Stream/s ; Mechanical Engineering
-
-Subject: Product Design and Development : ‘Time: 03 hrs (2PM to 5PM)
-Date:___ 20/04 / 2024 ; No. of Pages: Six
-
-Marks: 100.
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-
-3) Inall__5__ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-8) Product concept drawing blank sheet attached
-
-Ql
-Answer briefly: [20]
-
-CO-1 ; SO- | a.
-1; Define: i) Standardization; ii) Simplification [04]
-BL-1 :
-
-~ | CO-1;SO- | b. [04]
-1; Explain market segmentation
-BL-3
-CO-1 ; SO- | c. List different methods product development teams uses for product | [04]
-1; .
-BL-3 concept selection
-CO-1,3 ; d. Describe intangible benefits of QFD (Quality Function Deployment) from | [04]
-ne product design and development perspectives
-CO-3 ;SO- |e [04]
-1 Explain any one rapid prototyping method
-BL-3
---- page 2 ---
-Q2
-
-CO-1; SO- Enlist the factors affecting product design and development [06]
-1;
-BL-3
-Q2 b
-. Explain use of S-curve in design and development of products already in
-CO-2; SO- ; [10]
-1 the market and in the development of totally new products. (support :
-BL-4 your explanation with suitable examples)
-Q2 c Sketch and briefly explain product life cycle
-CO-1; SO- [04]
-de a
-BL-3
-Q3 a
-CO-1: S0- List the activities which can be considered as ‘Roles of product developer’ | [04]
-1; BL-3
-Q3 b
-CO-1; SO- | Write note on product design and deveiopment team [06]
-1; BL-3
-c Describe significance of ‘customer needs’ in product design and
-Q3
-development process also explain most important & significant need
-CO-2; SO- [10]
-which affects success of the product (support your explanation with
-1; BL-3
-example)
-Q4 a
-CO-1,3; Explain Process FMEA with example [10]
-SO-1;
-BL-4
-Q4 b
-Yash chemicals & cosmetics Itd. Wish to design and develop new product
-CO-1,3; [10]
-SO-1; ‘Tooth paste (including outer container)’ explain how QFD (Quality
-BL-3
---- page 3 ---
-Function Deployment) technique/tool will help them to build successful
-
-product
-Qs a Create (Generate) three product concept ( use following information),
-
-The challenges underlying the design and development of spoon as a
-CO-1; SO- product are same as those underlying a motor bike if the aspects of user (12]
-1; centered design are considered.
-BL-6 Create product concepts —
-
-Mouse for laptop/PC for mechanical engineering student
-Q5 b
-CO-1; SO- Explain how Asimov's work is helpful for product design and [08]
-1; development process
-BL-3
-Q6 a
-. List the steps of procedure developed by Ulrich for DFM (Design for
-CO-1,3; [10]
-SO-1; Manufacturing) and explain any one step in detail
-BL-3
-Q6 b
-. Explain following (any one):
-
-- a a) Process of Concept Embodiment [06]
-BL-3 b) Subtract and Operate procedure
-Q6 <
-0-12: Describe following associated with Kano Model of customer satisfaction:
-0-1. , 1. Attractive quality elements [04]
-BL-1 2. Must-be quality elements
-Q7 a Explain (Any one):
-CO-: $0-: 1. Outsourcing [10]
-BL- 2. Mass customization
-Q7 b
-
-List issues that would be addressed by QFD-Quality Function Deployment
-co-1,3; [04]
-SO-1; (At least four issues)
-BL-3
---- page 4 ---
-Q7 c Fo
-
-CO-1; SO- “Pugh’s matrix is helpful for good product concept selection” Explain [06]
-
-BL-3
 ````

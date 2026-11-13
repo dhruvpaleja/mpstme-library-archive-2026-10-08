@@ -14,25 +14,18 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 7 | BTech AI 7012, BTech CSE DS 7011, BTech IT 7001, MBATech AI 7051, MBATech Computer 7047 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | ANS_Deep Learning(702AI0C008)_2025-2026_79487bab27.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7, Sem 11 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / EXTC, B TECH / IT, B.TECH INTEGRATED / COMPUTER, MBA TECH / ARTIFICIAL INTELLIGENCE | B Tech, Deep Learning, 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 7 | BTech AI 7012, BTech CSE DS 7011, BTech EXTC 7006, BTech IT 7001, MBATech (ELECTRONICS TELECOMMUNICATION, MBATech AI 7051, MBATech Computer 7047 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech Computer 7002 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech EXTC 7006 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AI 7012 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 11 | Integrated Computer 7032 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 5, Sem 7 | BTech AI 7012, BTech CSE DS 7011, BTech IT 7001, MBATech AI 7051, MBATech Computer 7047 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | ANS_Deep Learning(702AI0C008)_2025-2026_79487bab27.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AI 7012 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSE DS 7011 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
@@ -40,12 +33,19 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 11 | Integrated Computer 7032 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | MBATech AI 7051 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | BTech AI 7012 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSE DS 7011 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | BTech Computer 7002 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 11 | Integrated Computer 7032 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 5 | MBATech AI 7051 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / EXTC, B TECH / I T | Deep Learning, Sem-V, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / CSBS | Deep Learning, Sem VI, Final Exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | M TECH / DATA SCIENCES FALL BACH | Deep Learning Batch 2024-25 Final.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 8 | BTech CSBS 7036 | ANS_Deep Learning(702AI0C008)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5, Sem 7 | B TECH / COMPUTER, B TECH / CSE DATA SCIENCE, B TECH / EXTC, B TECH / I T, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / EXTC, MBA TECH / I T | Deep Learning, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | BTech CSBS 7036 | QP_Deep Learning(702AI0C008)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | BTech CSBS 7036 | ANS_Deep Learning(702AI0C008)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5, Sem 7 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / IT, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER | Deep Learning, Final exam,2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | M TECH / ARTIFICIAL INTELLIGENT | Deep Learning Batch 2023-24 Final.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | M TECH / DATA SCIENCES FALL BACH | Deep Learning Batch 2023-24 Final.pdf |

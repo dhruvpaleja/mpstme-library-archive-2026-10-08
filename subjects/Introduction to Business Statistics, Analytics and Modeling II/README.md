@@ -17,10 +17,10 @@ Also filed as: `INTRODUCTION TO BUSINESS STATISTICS ANA`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025 | — | Question paper | Sem 3 | B TECH / CSEDS-311 | Introduction to Business statistics, Analysis and Modeling-II, Sem-III, Year 2025_d74a2d2a.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CSE DS 7011 | QP_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CSE DS 7011 | ANS_Introduction to Business Statistics, Analytics and Modeling-II(702BS0C073)_2025-2026.pdf |
 | 2023 | — | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Introduction To Business Statistics, Analytics & Modelling-II, Sem-III, Year 2023_fa3ef1f5.pdf |
 | — | — | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Introduction to Business Statistics, Analytics and Modeling-II, 2nd Year, Sem-III_28ff4626.pdf |
 | — | — | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE | Introduction to Business Statistics, Analytics and Modeling-II, Sem-III, Year 202_800b34d7.pdf |

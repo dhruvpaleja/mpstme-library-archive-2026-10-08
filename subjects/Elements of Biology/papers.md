@@ -1892,6 +1892,98 @@ BL-2
 FOR 2 AOR Kx
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · paper a1859f1743ae
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Elements of Biology/QP_Elements of Biology(702BS0C049)_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Elements of Biology
+Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   Answer briefly:   [20]
+CO-1; BL-1   a. What is biologically inspired engineering? Explain how it differs from   04
+conventional engineering practices.
+CO-2; BL-2   b. Draw a labeled diagram of the building block of nucleic acids and explain the   04
+manner in which these units are assembled into nucleic acid polymers.
+CO-3; BL-2   c. Distinguish between complete dominance and blending inheritance, providing   04
+a relevant example for each.
+CO-4; BL-1   d. Define the term ‘enzyme’ and explain the significance of the active site in   04
+enzyme-substrate binding.
+CO-5; BL-2   e. Summarize the different categories of metabolic waste produced by   04
+organisms, giving one example for each.
+Q2   a. Define nucleic acid. List four structural and functional differences between   [05]
+CO-2; BL-1   DNA and RNA.
+Q2   b. Discuss the role of design-biomimicry in engineering, using a relevant   [10]
+CO-1; BL-2   example to highlight the biological phenomenon, its application in
+engineering, and its associated advantages and disadvantages.
+Q2   c. Demonstrate the concept of a monohybrid cross between a plant with tall   [05]
+CO-3; BL-3   stems (Tt) and one with dwarf stems (tt). Using a Punnett square, illustrate the
+genotypic and phenotypic outcomes across the F₁ and F₂ generations.
+Q3   a. Discuss lipids and their biological importance. Classify lipids into their major   [10]
+CO-2; BL-2   categories, providing one example per type, and include an illustration of
+phospholipids.
+Q3   b. Explain the process of translation in protein synthesis, illustrating the steps   [10]
+CO-3; BL-2   involved and identifying the key biomolecules that participate.
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable   [10]
+CO-5; BL-2   example for each:
+1. Yeast
+********** 1 **********
+--- page 2 ---
+2. Archaea
+3. Bacteria
+4. Algae
+5. Virus
+Q4   b. Using a labeled diagram or flowchart, recall the products and byproducts   [10]
+CO-5; BL-1   generated at each stage of aerobic respiration.
+Q5   a. In humans, free earlobes are determined by a dominant allele (E), while   [10]
+CO-3; BL-3   attached earlobes are determined by a recessive allele (e). Given one parent
+with genotype EE and another with genotype ee, determine the genotypic and
+phenotypic ratios of the offspring across the F₁ and F₂ generations?
+Q5   b. Explain each of the following with a suitable illustration and examples where   [10]
+CO-4; BL-2   relevant:
+1. Induced fit model
+2. Uncompetitive inhibition
+3. Relationship between KM and Vmax
+4. Competitive inhibition
+Q6   a. Explain the concept of biotechnology and examine its application in the   [10]
+CO-1; BL-2   development of Bt Cotton. Identify the source organism of the genes inserted,
+and critically analyze the social, economic, and environmental impacts of this
+technology.
+Q6   b. Briefly explain the role of each of the following model organisms in   [10]
+CO-5; BL-2   advancing medical science:
+1. Saccharomyces cerevisiae
+2. Drosophila melanogaster
+3. Mus musculus
+4. Caenorhabditis elegans
+Q7   a. What are the core concepts of bioinformatics, and how can its computational   [05]
+CO-1; BL-1   methods contribute to solving biological and environmental problems?
+Q7   b. Recall any four industrial applications of enzymes and provide one specific   [05]
+CO-4; BL-1   example for each application area.
+Q7   c. Explain how both photosynthesis and cellular respiration play a role in   [05]
+CO-5; BL-2   sustaining ecological balance.
+Q7   d. Explain the exponential, stationary, and death phases within microbial growth   [05]
+CO-5; BL-2   kinetics, and illustrate your answer using a labeled growth curve.
+********** 2 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 1 · paper 7cc65289e972
 
 - Departments: Civil
@@ -3824,6 +3916,118 @@ CO-2; SO-2; BL-2   useful model organism in medical science.
 ********** 2 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 1 · paper 88d29a99852f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ELEMENTS OF BIOLOGY/B Tech, Elements of Biology, Sem-I, Batch 2022-23, Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2025-2026
+
+Program: B. Tech Stream: IT, COMP, MECH, CSE CS, MXTC,CSEDS Year: I | Semester: I
+(7057) | =
+Subject: Elements of Biology Time: 03 hrs (2109 pm to Stoop )
+Date: 25 /it {a5 No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (AY 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. -1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 —_ questions.
+
+3) Inall___5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: ; {20]
+a. | Mention two areas where biological concepts are integrated into engineering
+CO-1; $0-1; BL+1 , F 2.5
+solutions, with one-sentence examples.
+b. | Explain ureotelic organisms and how they excrete nitrogenous waste. Cite an
+CO-1; SO-1; BL-2 25
+example.
+0-2; $0-2;BL-1_ | ©. | What do you mean by a homozygous allele in genetics? Cite an example. 2.5
+d. | Determine the opposite strand (RNA) for the given DNA sequence.
+CO-1; SO-1; BL-I 2.5
+
+5’-GTGCGATTTCG-3’
+
+e. | Write a note on the IUB classification of enzymes, citing any two classes with an
+CO-3; 80-1; BL-2 2-8)
+example of each.
+
+C0-2;$0-2;BL-2 | £ | List any two basic differences between mRNA and tRNA. 2.5
+CO-3;80+i;BL-1 | g | What is a polypeptide chain, and how is it related to proteins? 2.5
+CO-1;$0-1;BL-1_ | . | What makes ATP the primary energy carrier in cells? Give a short explanation. ZED)
+Q2 a. | What notable biological observations of the 19" century have produced scientific [5]
+CO-1; 0-1; BL+1 findings?
+b. | What are model organisms, and why are they used in scientific research? What
+
+Qz are some key characteristics of E. coli that make it a useful model organism in [10]
+CO-1; SO-1; BL-1
+
+some human diseases? List any two diseases.
+--- page 2 ---
+c. | Classify organisms based on energy and carbon utilization. Cite an example of
+
+Q2 [5]
+CO-1; SO-1; BL-2 each class.
+Q3 ; a Identify Gregor Mendel and his significance in genetics, then explain the law of 110}
+CO-2; SO-2; BL-2 segregation, law of independent assortment, and law of dominance.
+
+Q3 b. | Outline and illustrate the semi-conservative model of DNA replication. Explain 110]
+CO-2; SO-2; BL-2 the role of different enzymes involved in the DNA replication process.
+
+04 a, | Discuss proteins while highlighting their roles in the human body. Also, briefly 110)
+CO-1; $0-1; BL-1 explain the structural organization of a protein.
+
+b. | How do enzymes act as a catalyst? Briefly discuss the Michaelis-Menten
+Q4 equation while elaborating on the relationship between substrate concentration [10}
+= and reaction. Also, highlight the significance of kinetic parameters.
+| Q5 a. | Outline the four stages of cellular respiration and what happens in each stage. (10)
+
+0-3; SO-1; BL-2 Support your response with an appropriate illustration.
+
+Qs b. | How does the shape of a protein affect its function? List types of proteins based [101
+0-3; $0-i; BL-2 on their shape. Explain any three roles/functions of proteins.
+
+Q6 a. | Describe different types of allelic gene interactions with a Punnett square. {10}
+CO-2; $O-2; BL-2
+
+b. | How does the central dogma of life explain the relationship between DNA, RNA,
+
+Q6 ’ and proteins? Explain the process that occurs inside the nucleus. Support your [10]
+—= response with an appropriate diagram.
+
+Q7 a. | Compare the two primary nucleic =a stating their structures, functions, and [5]
+CO-2; SO-2; BL-2 distinguishing features.
+
+Q7 b. | Write a brief note the advantages and limitations of light microscopy. [5].
+CO-2; 80-2; BL-2 ,
+
+Q7 ¢. | Can X-linked single-gene disorders be inherited, and if so, how are they [5]
+CO-2; $0-2; BL-2 inherited?
+
+Q7 d. | Explain culture media briefly, then discuss the differences between selective and [5]
+
+CO-2; SC-2; BL4 differential culture media used for microbes.
+````
+
 ## 2025-26 · Re-Exam · Sem 2 · paper e7d9ce3d27b4
 
 - Departments: Common (all branches)
@@ -3958,6 +4162,116 @@ RRR DIR A I
 ria)
 ````
 
+## 2024-25 · Exam not stated · Sem 2 · paper 9f5bdb378638
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology, B Tech, MBA Tech (AI,AI&ML,AI&DS,IT,COMP,DS) Sem-II, AY 2022_4dcb7ba9.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02.05.2025
+- Text: ocr (2 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS, IT, COMP, DS Year:1 Semester: II
+Subject: Elements of Biology : Time: 03 hrs. (2s00pm to 5: o0pm )
+Date: 02.05.2025 No. of Pages: 02
+Marks: 100
+
+Re-Examination (AY 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20] :
+OOo ell Ree What is light microscopy and how does it differ from electron microscopy in terms 2.5
+in i of resolution and imaging capabilities?
+CO-1; SO-1; BL-2_ | b. | What is binomial nomenclature and how is it used to name living organisms? 2.5
+c. | How do different genes interact with each other, and what role does epistasis play 2.5
+CO-2; 80-2, BL-1 . a Q
+in genetic inheritance?
+Scant d. | What is the complementary DNA sequence for the following RNA sequence: 25
+ee 3'-UAGCUCAGCUA-5'?
+CO-3; $0-1;BL-2. | ©. | Write a brief note on RNA catalysis. ae)
+0-2; S0-2;BL2 | f | What is transcription, and how does it differ from DNA replication? 2S)
+g. | How are proteins used as hormones, and what makes them effective tools for 25
+CO- 3; SO-1; BL-I 3 7 , :
+targeting specific molecules in the body?
+0-1; 80-1;BL-1 | h. | Why is ATP called the energy currency of the cell? Explain briefly. 2.5
+Q2 a. | List and explain at least two examples of how biology is helping shape modern [5]
+technology.
+CO-1; SO-1; BL-1
+b. | What are model organisms and why are they important in scientific research?
+5 How is Drosophila melanogaster used as a model organism to study human
+Q diseases? Can you describe its unique characteristics and how researchers have {10]
+CORBIS O.1sBIa used fruit flies to gain insights into disease mechanisms that could lead to new
+treatments?
+Q2 c. | Classify organisms based on nitrogenous waste they produce. Cite an example of 15]
+CO-1; 80-1, BL-2 each class.
+--- page 2 ---
+a. | The coat color of mice is controlled by two pairs of genes. Dominant gene C
+produces black color, absence of it causes albino. Gene A produces agouti color
+
+Q3 in presence of C; but cannot express in absence of it (with cc) resulting in albino. [10]
+How can a Punnett square analysis be used to predict the genotypic and
+Ce Sore phenotypic ratios of-offspring resulting from a cross between two agouti-colored
+
+mice: male (AaCc) and female (AaCc). Also, mention the type of gene
+interactions involved.
+
+b. | Outline and illustrate the semi-conservative model of DNA replication. Explain [10]
+
+3
+a $0.2: BL-2 the role of different enzymes involved in the DNA replication process.
+4 a. | What are lipids, and what role do they play in living organisms? Also, describe
+the different types of lipids in detail, along with their respective functions. Cite {10]
+€O-1, 80-1; BL-| examples wherever applicable.
+Q4 b. Explain the mechanism of enzyme action and how it differs from non-enzymatic
+catalysis. Elaborate two theories proposed for the mechanism of enzyme action [10]
+CO-3; $O-1, BL-2 : a
+and explain their differences.
+a. | What is metabolism, and how does it involve the biochemical processes that [10]
+Q5 generate and consume energy in living cells? Briefly explain all stages and
+0-1; 80-1; BL-2 products of each stage while providing a diagram or flowchart to illustrate the
+overall process of aerobic respiration.
+Q5 b. | What are the different types of reversible enzyme inhibition, and how do they [10]
+impact enzyme activity? Provide a diagram to illustrate the overall process.
+CO-3; SO-1; BL-2
+06 a. | What is the connection between protein structure and function, and what are the
+different types of proteins and their roles? Could you give a brief overview of [10]
+CO-3; SO-1; BL-2 ; A . "
+four different types of proteins and their functions?
+Q6 b. | How does the central dogma of life explain the relationship between DNA, RNA,
+conteeeti and proteins? Explain the process that occurs inside the nucleus. Support your {10}
+i response-with an appropriate diagram.
+Q7 ra, | What is ATP, and how does it serve as the primary energy currency of the cell? {5]
+Could you briefly describe the ATP cycle? ’
+CO-1; SO-1; BL-1
+Q7 b. | Enlist several sterilization techniques and elaborate on the mechanisms and [5]
+0-2; 0-2; BL-2 advantages of two of them.
+Q7 c. | What is co-dominance, and how does it differ from complete dominance in terms 5]
+0-2; $O-2; BL-2 of the expression of traits?
+d. | Could you summarize the different stages of protein folding and explain how [5]
+Q7 these stages are influenced by factors such as amino acid sequence and
+
+CO-3; 80-1; BL-2 temperature?
+````
+
 ## 2024-25 · Final + Re-Exam · Sem 5 · paper e4641c14db0a
 
 - Departments: Computer Engineering, Information Technology
@@ -3965,6 +4279,7 @@ ria)
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Elements of Biology/Elements of Biology Batch 2024-25 Final Batch 2023-24 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
 - Text: ocr (3 pages), mean OCR confidence 81.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Subject: Elements of Biology
@@ -4032,7 +4347,6 @@ CO-2; a | Write case study on: Breaking the storage barrier by storing massive a
 SO-1; (8)
 BL-2 data on DNA
 
-FIO III 7 AICI IG AOR IO
 --- page 2 ---
 CO-2;
 
@@ -4053,7 +4367,6 @@ BL-1 function and location in cell ;
 CO-2; Wa yn OY
 ee © | Describe glycolysis and its two main stages? (6)
 2 . ; >
-Bio~ dyphin du) isle ~whlie whurs, a
 Q5 i] » |
 rs Wal Illustrate DNA replication and describe the elongation stage of the process in (8)
 BL-2 detail. (ey, ky” . ou
@@ -4062,7 +4375,6 @@ SO-1; Ku. How do these parameters help in understanding the efficiency and affin
 Bled of an enzyme for its substrate?
 CO-3; ia * 5
 SO-1; Name and explain three types of protein functions and give an example for each. (6)
-BL-1 “Sydin al ell, Bad an Koatiin   hallndtny
 Q6
 CO-2; 2 | Define the term Epistasis and with an example explain the concept of Recessive
 SO-1; . e P (8)
@@ -7507,98 +7819,6 @@ CO-5; BL-2   2. Lithotrophs
 ********** 2 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 2 · paper a1859f1743ae
-
-- Departments: Data Science
-- Programmes: MBATech DS 7052
-- Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_DS_7052/Elements of Biology/QP_Elements of Biology(702BS0C049)_2024-2025.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA Tech (AI)/MBA Tech
-(Comp)/MBA Tech (DS)/MBA Tech (IT)
-Year: I/Semester II(Exam Year: 2025-2026)
-Subject: Elements of Biology
-Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page
-3. Figure in right hand side indicates full marks
-4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
-5. In all, 5 questions to be attempted
-6. All questions carry equal marks
-7. Assume suitable data if necessary
-Q1   Answer briefly:   [20]
-CO-1; BL-1   a. What is biologically inspired engineering? Explain how it differs from   04
-conventional engineering practices.
-CO-2; BL-2   b. Draw a labeled diagram of the building block of nucleic acids and explain the   04
-manner in which these units are assembled into nucleic acid polymers.
-CO-3; BL-2   c. Distinguish between complete dominance and blending inheritance, providing   04
-a relevant example for each.
-CO-4; BL-1   d. Define the term ‘enzyme’ and explain the significance of the active site in   04
-enzyme-substrate binding.
-CO-5; BL-2   e. Summarize the different categories of metabolic waste produced by   04
-organisms, giving one example for each.
-Q2   a. Define nucleic acid. List four structural and functional differences between   [05]
-CO-2; BL-1   DNA and RNA.
-Q2   b. Discuss the role of design-biomimicry in engineering, using a relevant   [10]
-CO-1; BL-2   example to highlight the biological phenomenon, its application in
-engineering, and its associated advantages and disadvantages.
-Q2   c. Demonstrate the concept of a monohybrid cross between a plant with tall   [05]
-CO-3; BL-3   stems (Tt) and one with dwarf stems (tt). Using a Punnett square, illustrate the
-genotypic and phenotypic outcomes across the F₁ and F₂ generations.
-Q3   a. Discuss lipids and their biological importance. Classify lipids into their major   [10]
-CO-2; BL-2   categories, providing one example per type, and include an illustration of
-phospholipids.
-Q3   b. Explain the process of translation in protein synthesis, illustrating the steps   [10]
-CO-3; BL-2   involved and identifying the key biomolecules that participate.
-Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable   [10]
-CO-5; BL-2   example for each:
-1. Yeast
-********** 1 **********
---- page 2 ---
-2. Archaea
-3. Bacteria
-4. Algae
-5. Virus
-Q4   b. Using a labeled diagram or flowchart, recall the products and byproducts   [10]
-CO-5; BL-1   generated at each stage of aerobic respiration.
-Q5   a. In humans, free earlobes are determined by a dominant allele (E), while   [10]
-CO-3; BL-3   attached earlobes are determined by a recessive allele (e). Given one parent
-with genotype EE and another with genotype ee, determine the genotypic and
-phenotypic ratios of the offspring across the F₁ and F₂ generations?
-Q5   b. Explain each of the following with a suitable illustration and examples where   [10]
-CO-4; BL-2   relevant:
-1. Induced fit model
-2. Uncompetitive inhibition
-3. Relationship between KM and Vmax
-4. Competitive inhibition
-Q6   a. Explain the concept of biotechnology and examine its application in the   [10]
-CO-1; BL-2   development of Bt Cotton. Identify the source organism of the genes inserted,
-and critically analyze the social, economic, and environmental impacts of this
-technology.
-Q6   b. Briefly explain the role of each of the following model organisms in   [10]
-CO-5; BL-2   advancing medical science:
-1. Saccharomyces cerevisiae
-2. Drosophila melanogaster
-3. Mus musculus
-4. Caenorhabditis elegans
-Q7   a. What are the core concepts of bioinformatics, and how can its computational   [05]
-CO-1; BL-1   methods contribute to solving biological and environmental problems?
-Q7   b. Recall any four industrial applications of enzymes and provide one specific   [05]
-CO-4; BL-1   example for each application area.
-Q7   c. Explain how both photosynthesis and cellular respiration play a role in   [05]
-CO-5; BL-2   sustaining ecological balance.
-Q7   d. Explain the exponential, stationary, and death phases within microbial growth   [05]
-CO-5; BL-2   kinetics, and illustrate your answer using a labeled growth curve.
-********** 2 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 3 · paper 8d55f09f4f41
 
 - Departments: Civil
@@ -8033,6 +8253,119 @@ SO-1;
 quaternary).
 BL-1
 ********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 3f48648db74f
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Elements of Biology/Elements of Biology Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 89.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+Program: B Tech Intg Stream: COMP, DS . Year: III
+
+Semester: V
+Subject: Elements of Biology Time: 3 hrs (2:00 pmto 5-00 pm
+Date:_15 /o2 /2026 . 5 No. of Pages: 3
+Marks: 100
+
+Re-Examination (Batch- 2022-2023)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Marks
+CO-1:s0-1: | * What is a carbohydrate? Give the composition of Lactose, Maltose, (4)
+BL-low Sucrose
+
+b. (4
+Pot SO-1, Give comparison between the terms genotype and phenotype )
+
+L-low
+
+CO-1:s0-1: | © Justify the statement: “The observation of bird flying in the sky led to 4)
+BL-high the invention of an aircraft’
+CO-3: $0-1: d. | Write the Michaelis and Menten’s equation and define the term Kw. (2)
+BL -medium What is the ratio of Vo/ Vmax when [S] =5 Ku (2)
+CO:3: §0-1: | & Describe the terms exergonic and endergonic reactions. (2)
+BL-low List the four major growth phases in micro-organisms (2)
+Q2
+C0-3: So-1: | 2 Define the term Sterilization and describe the various methods of (8)
+BL-low sterilization used in microbiology
+ee be Explain the classification based on Nitrogenous Excretion (6)
+Se ° | Explain briefly the process of transcription and translation (6)
+--- page 2 ---
+Q3
+
+a | State the Mendel’s laws of inheritance.
+
+CO-2; SO-1; Illustrate the concept of recessiveness and dominance of alleles with (8)
+BL-medium
+an example
+
+CO-3; OPI e Discuss the two models to show the mode of action of enzymes (6)
+BL-medium
+CO-2; SO-1; | c ; . . Lo, ?
+BL-low Describe the various culture media used in microbiology (6)
+Q4
+ees |e Describe the Growth Kinetics of microbial growth in microbiology (8)
+BL-low
+ee Classify the organisms based on Carbon Utilization (6)
+CO-1; SO-1; | ¢ . .
+eatin Describe the secondary structure of protein (6)
+Q5
+CO-2; SO-1; | 4 Define the term Epistasis and with an example explain the concept of (8)
+BL-medium Recessive Epistasis
+
+b | Justify the statement: ‘The working of human eye led to the 3)
+CO-1; SO-1; development of camera’.
+BL-medium Describe the term ATP which is referred to as an energy currency of 3)
+
+the cell
+CO-3; SO-1; | © Explain the concept of Enzyme inhibition and describe in brief the 6
+BL-medium Non-Competitive and Uncompetitive inhibitors
+Q6
+CO-2; SO-1; | a | Discuss Non-allelic interactions and explain with an example 8)
+BL-low Complementary effect
+ae 2 Discuss the four major steps involved in cellular respiration (6)
+tee © | Discuss the concept of Model Organisms with an example (6)
+Q7
+: _ | a | Define the term Taxonomy and explain the seven major levels with
+
+CO-1; SO-1; (8)
+
+BL-medium one example
+--- page 3 ---
+Explain the term binominal nomenclature and cite different
+
+examples showing common names and scientific names
+
+CO-1; SO-1; b Give the role of Contractile Proteins, Defensive proteins, Transport
+
+(6)
+BL-low proteins, Receptor proteins, Storage Proteins and Hormones
+CO-1;SO-1; | © | Discuss the concept of Kegq and its relation to free energy (6)
+BL-medium ;
+--- page 4 ---
+
 ````
 
 ## 2023-24 · Final-Exam · Sem 1 · paper 7b85a069009c
@@ -8489,6 +8822,233 @@ Q7 d. | Outline the bacterial growth curve and briefly explain its typical phase
 CO-2; SO-2; BL-2
 ````
 
+## 2023-24 · Re-Exam · Sem 2 · paper eb70beca1f69
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology , Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+pe
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN
+Academic Year: 2023-24
+
+Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS/ MBA Tech All Streams Year: I Semester: II
+Subject: Elements of Biology Time: 03 h (2: 00pm ‘to S¢ opm)
+Date: 2¢/ 6/24 No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (2021-22, 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi : Answer briefly: {20}
+CO-1; $O-1;BL-1__ | a. | How does active site inhibition impact the rate of enzyme-catalyzed reactions? 2.5
+What are the fundamental characteristics that distinguish prokaryotic organisms 25
+CO-2; SO-2;BL-1_ | b. : . .
+from eukaryotic organisms?
+Explain the concept of autosomal dominant single-gene disorders and provide an 2.5
+CO-1; SO-1;BL-2. | c. .
+example.
+Explain the structure and co’ ts of a nucleotide, highlighting its role in
+cellular processes.
+CO-1; $0-1;BL-1__ | e. | What are the main principles of chemical sterilization? 2.5
+CO-3;$O-1;BL-1_ | f. | What is the role of ADP in cellular metabolism? 2.5
+How do transport proteins facilitate the movement of molecules across cell 25
+CO-2; $O-2;BL-I | g. ;
+membranes?
+CO- 3; $O-1;BL-1_ | h, | What is the function of exonuclease enzymes in DNA repair and replication? 2.5
+How has the introduction of BT cotton, as an innovation in biotechnology, 05
+CO-1;$0-1;BL2 | a. |, . [05]
+impacted the agricultural sector?
+Q2 b How do engineering designs elaborate on the principles of biomimicry to
+"| innovate solutions, and could you provide a detailed example of an ‘ecosystem [10]
+CO-T; SO-1; BL-2 biomimicry’ to illustrate this impact?
+Q2 6 Detail the differences in function between rRNA and tRNA and highlight their [05]
+0-3: $O-2: BL-2 "| unique roles in cellular activities.
+Q3 Outline the definition of proteins and describe their fundamefttal chemical
+c03:§0-2:BL.2 | & | makeup. Explore the categorization of proteins based on their folding structures. [10]
+
+Additionally, discuss two specific functions of proteins in the industry. »
+--- page 2 ---
+Describe the mechanism of DNA replication based on the semi-conservative
+
+Q3 b model, highlighting the functions of enzymes involved in synthesizing the [10]
+CO-2; 80-2; BL-2 "| leading strand. Provide a detailed explanation of the replication process,
+
+accompanied by relevant illustrations.
+Q4 What are model organisms, and why are they used in medical science? Briefly
+co-2;s0-2;BL-1 | 2 | discuss their significance. Also, provide examples of two model organisms and [10]
+
+their contributions to drug development.
+Q4 Describe the stages and products formed from one glucose molecule in aerobic
+c0-3:502:BL.2 | >: | Tespiration. Provide a detailed explanation and include a diagram or flowchart to [10]
+
+_— enhance your explanation.
+Q5 What phenotypic and genotypic ratios can we expect in the F1 and F2 generations
+a. aa . {10]
+
+CO-2; $0-2; BL-1 of a dihybrid cross between tall purple and dwarf white plants?
+
+Distinguish between reversible and irreversible enzyme inhibition. Using
+b, | illustrations, describe the different types of reversible enzyme inhibition and their | [10] _
+effects on enzyme activity.
+
+Q5
+
+CO-3; SO-2; BL-2
+
+Q6 Define dominance and its different types: complete, incomplete, and co-
+
+CO-2; $0-2;BL-1_ | a. | dominance. Give examples for each variation and discuss how they influence the [10]
+observable traits in offspring.
+
+Q6 b Explain any four distinct protein functions supported by a visual representation [10]
+
+CO-2; $O-2; BL-2 "| depicting their diverse activities.
+
+Q7 a Describe the process of translation in gene expression, highlighting-the key [05]
+
+CO-2; $O-2; BL-2 " | enzymes and molecules involved in converting RNA into protein.
+
+Q7 b What is enzyme kinetics, and why is it significant in industrial enzymatic [05]
+
+CO-3; $O-2; BL-I " | processes?
+
+Q7
+
+co2,so2,p2 | % Describe viral morphology and characteristics. Cite any two examples. [05]
+
+How do living organisms regulate the equilibrium between cellular respiration
+d. | and photosynthesis, highlighting the mechanisms and factors that contribute to [05]
+this balance?
+
+Q7
+
+CO-3; SO-2; BL-2
+````
+
+## 2023-24 · Re-Exam · Sem 5 · paper 6e2e37d74e77
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Elements of Biology/Elements of Biology Batch 2022-23 Re Exam_6e2e37d74e.pdf`
+- Printed on paper: max marks: 100; exam date: 24 / 11 /2023
+- Text: ocr (3 pages), mean OCR confidence 87.2
+
+````text
+SVKM’S NMIMS ape
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B Tech Intg Stream/s : Computer Year- Il
+
+Subject: Elements of biology { Time: 3-hrs (2:00pm to =(
+Date: 24 / 11 /2023 \\No: of Pages: 3 :
+Marks: 100 . .
+
+Re-Examination (2022-23) —
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+3)Inall___5__ questions to be attempted. .
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Marks
+CO-3; SO-I: a. | Define the term Km. w.r.t the Michaelis and Menten’s equation. (2)
+BL-3 What is the ratio of Vo/ Vmax when [S] =10 Km (2)
+CO-2: SO-1: b. | Explain the terms dominant and recessive alleles with suitable (4)
+BL-1 example
+C0-i; SO-1; c. | Give the classification of carbohydrates based on their sizes. Also (4)
+BL-1 give the composition of Lactose and Maltose
+d. | Justify the statement: ‘The working of human eye led to the (2)
+i ; SO-2; development of camera’
+Define the terms exergonic and endergonic reactions (2)
+CO-3; $O-1; e. | Describe the tertiary protein structure. (2)
+BL-2 List the six classes of micro-organisms (2)
+1027 |
+--- page 2 ---
+CO-3; SO-1; | # Describe the Growth Kinetics of microbial growth in
+
+(8)
+BL-1 microbiology
+Pe 80-1; | b Describe the secondary structure of protein (6)
+CO-2; SO-1; | ¢ List the salient features of a genetic code. 6)
+BL-2 Define the terms transcription and translation
+Q3
+CO-2; SO-1; | @ Write a short note on Gene mapping . (4)
+BL-2 "| State and explain the Mendel’s laws of ‘inheritance (4)
+ey SO-1; | © | Discuss the four major steps involved in cellular respiration (6)
+aed SO-13 | © | Discuss the concept of Model Organisms with an example (6)
+Q4
+a. | Explain the terms Essential and Non-Essential Amino Acids and (5)
+roars SO-1, isoelectric point for an amino acid/ polypeptide
+: Mention the functions of nucleotides (3)
+sal Bel} | bi. Explain the classification based on Nitrogenous Excretion (6)
+CO-2; $O-2; | ¢- | Discuss the energy of activation in the catalytic action of an
+BL-3 + 7 . (6)
+enzyme and list the factors affecting the rate of enzyme catalysis
+Q5 r
+a | Define the term Taxonomy and explain the seven major levels (5)
+CO-1: SO-1: with one example
+BL-1 Explain the term binominal nomenclature and cite different (3)
+examples showing common names and scientific names
+CO-1;SO-1;} © | . (6)
+BL-2 Discuss the concept of Kegq and its relation to free energy
+ti SO-1; | © Distinguish between mitosis and meiosis type of cell division (6)
+Q6
+--- page 3 ---
+CO-2; SO-1;
+
+Describe with an example the concept of Blending Inheritance.
+
+BL-1 and Co-dominance a
+CO-2; SO-1; Explain the process of sterilization with chemical and physical
+
+BL-2 antimicrobial agents &
+ae SO-1; Discuss the two models to show the mode of action of enzymes (6)
+Q7
+
+CO-2; SO-1; Define the term Epistasis and with an example explain the
+
+BL-2 concept of Recessive Epistasis 2
+CO-3: SO-1: Explain the concept of Enzyme inhibition and describe in brief the
+
+BL2 , Non-Competitive and Uncompetitive inhibitors ©
+CO. SO-1; Discuss the simple and conjugated proteins with relevant 6)
+
+examples
+````
+
 ## 2023-24 · Re-Exam · Sem 5 · paper bd60c85e4c9f
 
 - Departments: Computer Engineering, Information Technology
@@ -8598,25 +9158,25 @@ C0-2: $O-1; Explain the replication of a DNA based on the chronology of Or
 BL-2 enzymes used
 ````
 
-## 2022 · Exam not stated · Sem 2 · paper 9f5bdb378638
+## 2022-23 · Exam not stated · Sem 2 · paper 088a1cd807d5
 
 - Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology, B Tech, MBA Tech (AI,AI&ML,AI&DS,IT,COMP,DS) Sem-II, AY 2022_4dcb7ba9.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02.05.2025
-- Text: ocr (2 pages), mean OCR confidence 89.1
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology_088a1cd807.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2023
+- Text: ocr (2 pages), mean OCR confidence 90.1
 
 ````text
 SVKM’S NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
+Academic Year: 2022-2023
 
-Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS, IT, COMP, DS Year:1 Semester: II
-Subject: Elements of Biology : Time: 03 hrs. (2s00pm to 5: o0pm )
-Date: 02.05.2025 No. of Pages: 02
+Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS, IT, CE, DS Year:1 Semester: [J
+Subject: Elements of Biology Time: 03 hrs. (11:00AM to 2:00 PM)
+Date: 12/05/2023 No. of Pages: 02
 Marks: 100
 
-Re-Examination (AY 2022-23)
+Final Examination/Re Examination
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
@@ -8625,7 +9185,7 @@ of the Answer Book, which is provided for their use.
 
 2) Out of remaining questions, attempt any __4 _ questions.
 
-3) In all__5_ questions to be attempted.
+3) In all__5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
@@ -8634,78 +9194,109 @@ of the Answer Book, which is provided for their use.
 6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Qi Answer briefly: [20] :
-OOo ell Ree What is light microscopy and how does it differ from electron microscopy in terms 2.5
-in i of resolution and imaging capabilities?
-CO-1; SO-1; BL-2_ | b. | What is binomial nomenclature and how is it used to name living organisms? 2.5
+Ql Answer briefly: [20]
+a. | What is light microscopy and how does it differ from electron microscopy in terms
+CO-2; 80-2; BL-l : J . ay 2.5
+of resolution and imaging capabilities?
+CO-1:80-1;BL-2_ | b. | Compare organisms based on energy and carbon utilization. 2.5
 c. | How do different genes interact with each other, and what role does epistasis play 2.5
-CO-2; 80-2, BL-1 . a Q
+CO-2; $0-2; BL-I ; DT ‘
 in genetic inheritance?
-Scant d. | What is the complementary DNA sequence for the following RNA sequence: 25
-ee 3'-UAGCUCAGCUA-5'?
-CO-3; $0-1;BL-2. | ©. | Write a brief note on RNA catalysis. ae)
-0-2; S0-2;BL2 | f | What is transcription, and how does it differ from DNA replication? 2S)
-g. | How are proteins used as hormones, and what makes them effective tools for 25
-CO- 3; SO-1; BL-I 3 7 , :
+d. | Given the DNA sequence 5'-TACGCTGAGCT-3', what is the complementary 2.5
+CO-1; $O-1; BL-1 ;
+mRNA sequence?
+e. | How does an enzyme catalyze a reaction, and what are the key steps involved in 25
+CO-3, 80-1; BL-2 F ‘
+this process?
+co2;s02;BL-2 | f. | What is transcription, and how does it differ from DNA replication? 2.5
+g. | How are proteins used as hormones, and what makes them effective tools for 2.5
+CO- 3; SO-1; BL-1 : Fs F od
 targeting specific molecules in the body?
-0-1; 80-1;BL-1 | h. | Why is ATP called the energy currency of the cell? Explain briefly. 2.5
-Q2 a. | List and explain at least two examples of how biology is helping shape modern [5]
-technology.
-CO-1; SO-1; BL-1
+c0-1:80-1;BL-1 | 4. | What is ATP and why is it important in cellular energy metabolism? 2.5
+Q2 a. | How might biomimicry shape the future of design and technology, and what are
+some of the key trends and devel in this field? [5]
+CO-I: SO-1; BL2 y trends and developments in this field?
+
 b. | What are model organisms and why are they important in scientific research?
-5 How is Drosophila melanogaster used as a model organism to study human
+How is Drosophila melanogaster used as a model organism to study human
+
 Q diseases? Can you describe its unique characteristics and how researchers have {10]
-CORBIS O.1sBIa used fruit flies to gain insights into disease mechanisms that could lead to new
+
+eee Sebel used fruit flies to gain insights into disease mechanisms that could lead to new
 treatments?
-Q2 c. | Classify organisms based on nitrogenous waste they produce. Cite an example of 15]
-CO-1; 80-1, BL-2 each class.
+
+Q2 c. | What are the major morphological characteristics used to classify living [5]
+
+CO-1; $O-1; BL-2 organisms, and what are some examples of each class or group?
 --- page 2 ---
-a. | The coat color of mice is controlled by two pairs of genes. Dominant gene C
-produces black color, absence of it causes albino. Gene A produces agouti color
+a. | In summer squash, the fruit color is governed by two genes. The dominant gene B
+for white color suppresses the expression of gene A which controls yellow color.
+So yellow color appears only in absence of B. In absence of both B and A, green [10]
+color develops. How can a Punnett square analysis be used to predict the
+genotypic and phenotypic ratios of offspring resulting from a cross between two
+white-colored parents: male (AaBb) and female (AaBb). Also, mention the type
+of gene interactions involved.
 
-Q3 in presence of C; but cannot express in absence of it (with cc) resulting in albino. [10]
-How can a Punnett square analysis be used to predict the genotypic and
-Ce Sore phenotypic ratios of-offspring resulting from a cross between two agouti-colored
+Q3
 
-mice: male (AaCc) and female (AaCc). Also, mention the type of gene
-interactions involved.
+CO-2; SO-2, BL-2
 
-b. | Outline and illustrate the semi-conservative model of DNA replication. Explain [10]
+b. | Outline the semi-conservative replication model of DNA and the crucial enzymes
+involved in the replication process, Also, provide a relevant diagram to support [10]
+your explanation.
 
-3
-a $0.2: BL-2 the role of different enzymes involved in the DNA replication process.
-4 a. | What are lipids, and what role do they play in living organisms? Also, describe
-the different types of lipids in detail, along with their respective functions. Cite {10]
-€O-1, 80-1; BL-| examples wherever applicable.
-Q4 b. Explain the mechanism of enzyme action and how it differs from non-enzymatic
-catalysis. Elaborate two theories proposed for the mechanism of enzyme action [10]
-CO-3; $O-1, BL-2 : a
-and explain their differences.
-a. | What is metabolism, and how does it involve the biochemical processes that [10]
-Q5 generate and consume energy in living cells? Briefly explain all stages and
-0-1; 80-1; BL-2 products of each stage while providing a diagram or flowchart to illustrate the
-overall process of aerobic respiration.
-Q5 b. | What are the different types of reversible enzyme inhibition, and how do they [10]
-impact enzyme activity? Provide a diagram to illustrate the overall process.
-CO-3; SO-1; BL-2
-06 a. | What is the connection between protein structure and function, and what are the
-different types of proteins and their roles? Could you give a brief overview of [10]
-CO-3; SO-1; BL-2 ; A . "
-four different types of proteins and their functions?
-Q6 b. | How does the central dogma of life explain the relationship between DNA, RNA,
-conteeeti and proteins? Explain the process that occurs inside the nucleus. Support your {10}
-i response-with an appropriate diagram.
-Q7 ra, | What is ATP, and how does it serve as the primary energy currency of the cell? {5]
-Could you briefly describe the ATP cycle? ’
-CO-1; SO-1; BL-1
+Q3
+
+CO-2; SO-2; BL-2
+
+a. | What are lipids, and what role do they play in living organisms? Also, describe
+Q4 the different types of lipids in detail, along with their respective functions. Cite [10]
+CO-1; 80-1; BL-1 examples wherever applicable.
+
+4 b. | Explain the mechanism of enzyme action and how it differs from non-enzymatic
+Q catalysis. Elaborate two theories proposed for the mechanism of enzyme action [10]
+Cone Sebel and explain their differences.
+
+a. | What is metabolism, and how does it involve the biochemical processes that
+Q5 generate and consume energy in living cells. Briefly explain all stages and
+products of each stage while providing a diagram or flowchart to illustrate the
+overall process of anaerobic respiration.
+
+[10]
+CO-1; 80-1; BL-2
+
+b. | Discuss the impact of reversible and irreversible enzyme inhibition on enzyme
+Q5 activity. Illustrate the various types of reversible enzyme inhibition using [10]
+CO SOT BL. appropriate diagrams.
+
+a. | What is the connection between protein structure and function, and what are the
+Q6 different types of proteins and their roles? Could you give a brief overview of [10]
+CO-3; 50-1, Bl-2 four different types of proteins and their functions?
+
+b. | How does the central dogma of life explain the relationship between DNA, RNA,
+and proteins? Explain the process that occurs inside the nucleus. Support your [10]
+response with an appropriate diagram.
+
+Q6
+
+CQ-2; 80-2; BL-1
+
+a. | What is metabolism, and how does it relate to the utilization of energy in living
+
+Q7 organisms? Could you provide a brief overview of two types of metabolic [5]
+CO-1; 80-1; BL-1 pathways?
+
 Q7 b. | Enlist several sterilization techniques and elaborate on the mechanisms and [5]
-0-2; 0-2; BL-2 advantages of two of them.
-Q7 c. | What is co-dominance, and how does it differ from complete dominance in terms 5]
-0-2; $O-2; BL-2 of the expression of traits?
-d. | Could you summarize the different stages of protein folding and explain how [5]
-Q7 these stages are influenced by factors such as amino acid sequence and
+CO-2; $O-2; BL-2 advantages of two of them.
 
-CO-3; 80-1; BL-2 temperature?
+Q7 c. | What is co-dominance, and how does it differ from complete dominance in terms [5]
+
+. var
+CO-2: SO-2; BL-2 of the expression of traits?
+
+d. | What are the various stages involved in the process of protein folding, and how
+Q7 do intrinsic factors such as amino acid sequence, as well as extrinsic factors such [5]
+CO-3; SO-1; BL-1 as temperature, impact the folding process?
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 1 · paper 09eb7f2bc0f3
@@ -8837,6 +9428,7 @@ xf2
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2023
 - Text: ocr (2 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS -
@@ -8968,7 +9560,6 @@ d. | What are the various stages involved in the process of protein folding, and
 Q7 do intrinsic factors such as amino acid sequence, as well as extrinsic factors such [5]
 CO-3, 80-1; BL-1 as temperature, impact the folding process?
 
-LS RF AS ET er aa SS
 ````
 
 ## 2022-23 · Final-Exam · Sem 3 · paper f505a7fb60b7
@@ -9136,7 +9727,7 @@ BL-2 .
 oo 2 b) Explain in detail the process of glycolysis. [10]
 ````
 
-## 2022 · Final-Exam · Sem 5 · paper d47f5f37f961
+## 2022-23 · Final-Exam · Sem 5 · paper d47f5f37f961
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
@@ -9347,118 +9938,6 @@ CO-2; SO-1; | ¢ Distinguish between mitosis and meiosis type of cell division (
 BL-medium i
 ````
 
-## 2022-23 · Re-Exam · Sem 1 · paper 88d29a99852f
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/I SEMESTER/ELEMENTS OF BIOLOGY/B Tech, Elements of Biology, Sem-I, Batch 2022-23, Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Academic Year: 2025-2026
-
-Program: B. Tech Stream: IT, COMP, MECH, CSE CS, MXTC,CSEDS Year: I | Semester: I
-(7057) | =
-Subject: Elements of Biology Time: 03 hrs (2109 pm to Stoop )
-Date: 25 /it {a5 No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (AY 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. -1____ is compulsory.
-
-2) Out of remaining questions, attempt any__4 —_ questions.
-
-3) Inall___5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: ; {20]
-a. | Mention two areas where biological concepts are integrated into engineering
-CO-1; $0-1; BL+1 , F 2.5
-solutions, with one-sentence examples.
-b. | Explain ureotelic organisms and how they excrete nitrogenous waste. Cite an
-CO-1; SO-1; BL-2 25
-example.
-0-2; $0-2;BL-1_ | ©. | What do you mean by a homozygous allele in genetics? Cite an example. 2.5
-d. | Determine the opposite strand (RNA) for the given DNA sequence.
-CO-1; SO-1; BL-I 2.5
-
-5’-GTGCGATTTCG-3’
-
-e. | Write a note on the IUB classification of enzymes, citing any two classes with an
-CO-3; 80-1; BL-2 2-8)
-example of each.
-
-C0-2;$0-2;BL-2 | £ | List any two basic differences between mRNA and tRNA. 2.5
-CO-3;80+i;BL-1 | g | What is a polypeptide chain, and how is it related to proteins? 2.5
-CO-1;$0-1;BL-1_ | . | What makes ATP the primary energy carrier in cells? Give a short explanation. ZED)
-Q2 a. | What notable biological observations of the 19" century have produced scientific [5]
-CO-1; 0-1; BL+1 findings?
-b. | What are model organisms, and why are they used in scientific research? What
-
-Qz are some key characteristics of E. coli that make it a useful model organism in [10]
-CO-1; SO-1; BL-1
-
-some human diseases? List any two diseases.
---- page 2 ---
-c. | Classify organisms based on energy and carbon utilization. Cite an example of
-
-Q2 [5]
-CO-1; SO-1; BL-2 each class.
-Q3 ; a Identify Gregor Mendel and his significance in genetics, then explain the law of 110}
-CO-2; SO-2; BL-2 segregation, law of independent assortment, and law of dominance.
-
-Q3 b. | Outline and illustrate the semi-conservative model of DNA replication. Explain 110]
-CO-2; SO-2; BL-2 the role of different enzymes involved in the DNA replication process.
-
-04 a, | Discuss proteins while highlighting their roles in the human body. Also, briefly 110)
-CO-1; $0-1; BL-1 explain the structural organization of a protein.
-
-b. | How do enzymes act as a catalyst? Briefly discuss the Michaelis-Menten
-Q4 equation while elaborating on the relationship between substrate concentration [10}
-= and reaction. Also, highlight the significance of kinetic parameters.
-| Q5 a. | Outline the four stages of cellular respiration and what happens in each stage. (10)
-
-0-3; SO-1; BL-2 Support your response with an appropriate illustration.
-
-Qs b. | How does the shape of a protein affect its function? List types of proteins based [101
-0-3; $0-i; BL-2 on their shape. Explain any three roles/functions of proteins.
-
-Q6 a. | Describe different types of allelic gene interactions with a Punnett square. {10}
-CO-2; $O-2; BL-2
-
-b. | How does the central dogma of life explain the relationship between DNA, RNA,
-
-Q6 ’ and proteins? Explain the process that occurs inside the nucleus. Support your [10]
-—= response with an appropriate diagram.
-
-Q7 a. | Compare the two primary nucleic =a stating their structures, functions, and [5]
-CO-2; SO-2; BL-2 distinguishing features.
-
-Q7 b. | Write a brief note the advantages and limitations of light microscopy. [5].
-CO-2; 80-2; BL-2 ,
-
-Q7 ¢. | Can X-linked single-gene disorders be inherited, and if so, how are they [5]
-CO-2; $0-2; BL-2 inherited?
-
-Q7 d. | Explain culture media briefly, then discuss the differences between selective and [5]
-
-CO-2; SC-2; BL4 differential culture media used for microbes.
-````
-
 ## 2022-23 · Re-Exam · Sem 1 · paper e5f0c81fb4d8
 
 - Departments: Common (all branches)
@@ -9664,131 +10143,6 @@ CO-2; $O-2; BL-2 example of and explain how they interact to produce a specific 
 Q7 d. | What are amino acids, and how are they linked together to form proteins? 5]
 
 CO-3; $O-1; BL-1 Additionally, what is protein denaturation, and what factors can cause it to occur?
-````
-
-## 2022-23 · Re-Exam · Sem 2 · paper eb70beca1f69
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology , Re-exam 2021-22,2022-23.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (2 pages), mean OCR confidence 88.5
-
-````text
-pe
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGIN
-Academic Year: 2023-24
-
-Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS/ MBA Tech All Streams Year: I Semester: II
-Subject: Elements of Biology Time: 03 h (2: 00pm ‘to S¢ opm)
-Date: 2¢/ 6/24 No. of Pages: 02
-
-Marks: 100
-
-Re-Examination (2021-22, 2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any 4 __ questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi : Answer briefly: {20}
-CO-1; $O-1;BL-1__ | a. | How does active site inhibition impact the rate of enzyme-catalyzed reactions? 2.5
-What are the fundamental characteristics that distinguish prokaryotic organisms 25
-CO-2; SO-2;BL-1_ | b. : . .
-from eukaryotic organisms?
-Explain the concept of autosomal dominant single-gene disorders and provide an 2.5
-CO-1; SO-1;BL-2. | c. .
-example.
-Explain the structure and co’ ts of a nucleotide, highlighting its role in
-co2:s02;nL2 | 4, | ExPl@ ructure mponen ucleotide, highlighting 25
-cellular processes.
-CO-1; $0-1;BL-1__ | e. | What are the main principles of chemical sterilization? 2.5
-CO-3;$O-1;BL-1_ | f. | What is the role of ADP in cellular metabolism? 2.5
-How do transport proteins facilitate the movement of molecules across cell 25
-CO-2; $O-2;BL-I | g. ;
-membranes?
-CO- 3; $O-1;BL-1_ | h, | What is the function of exonuclease enzymes in DNA repair and replication? 2.5
-How has the introduction of BT cotton, as an innovation in biotechnology, 05
-CO-1;$0-1;BL2 | a. |, . [05]
-impacted the agricultural sector?
-Q2 b How do engineering designs elaborate on the principles of biomimicry to
-"| innovate solutions, and could you provide a detailed example of an ‘ecosystem [10]
-CO-T; SO-1; BL-2 biomimicry’ to illustrate this impact?
-Q2 6 Detail the differences in function between rRNA and tRNA and highlight their [05]
-0-3: $O-2: BL-2 "| unique roles in cellular activities.
-Q3 Outline the definition of proteins and describe their fundamefttal chemical
-c03:§0-2:BL.2 | & | makeup. Explore the categorization of proteins based on their folding structures. [10]
-
-Additionally, discuss two specific functions of proteins in the industry. »
---- page 2 ---
-Describe the mechanism of DNA replication based on the semi-conservative
-
-Q3 b model, highlighting the functions of enzymes involved in synthesizing the [10]
-CO-2; 80-2; BL-2 "| leading strand. Provide a detailed explanation of the replication process,
-
-accompanied by relevant illustrations.
-Q4 What are model organisms, and why are they used in medical science? Briefly
-co-2;s0-2;BL-1 | 2 | discuss their significance. Also, provide examples of two model organisms and [10]
-
-their contributions to drug development.
-Q4 Describe the stages and products formed from one glucose molecule in aerobic
-c0-3:502:BL.2 | >: | Tespiration. Provide a detailed explanation and include a diagram or flowchart to [10]
-
-_— enhance your explanation.
-Q5 What phenotypic and genotypic ratios can we expect in the F1 and F2 generations
-a. aa . {10]
-
-CO-2; $0-2; BL-1 of a dihybrid cross between tall purple and dwarf white plants?
-
-Distinguish between reversible and irreversible enzyme inhibition. Using
-b, | illustrations, describe the different types of reversible enzyme inhibition and their | [10] _
-effects on enzyme activity.
-
-Q5
-
-CO-3; SO-2; BL-2
-
-Q6 Define dominance and its different types: complete, incomplete, and co-
-
-CO-2; $0-2;BL-1_ | a. | dominance. Give examples for each variation and discuss how they influence the [10]
-observable traits in offspring.
-
-Q6 b Explain any four distinct protein functions supported by a visual representation [10]
-
-CO-2; $O-2; BL-2 "| depicting their diverse activities.
-
-Q7 a Describe the process of translation in gene expression, highlighting-the key [05]
-
-CO-2; $O-2; BL-2 " | enzymes and molecules involved in converting RNA into protein.
-
-Q7 b What is enzyme kinetics, and why is it significant in industrial enzymatic [05]
-
-CO-3; $O-2; BL-I " | processes?
-
-Q7
-
-co2,so2,p2 | % Describe viral morphology and characteristics. Cite any two examples. [05]
-
-How do living organisms regulate the equilibrium between cellular respiration
-d. | and photosynthesis, highlighting the mechanisms and factors that contribute to [05]
-this balance?
-
-Q7
-
-CO-3; SO-2; BL-2
 ````
 
 ## 2022-23 · Re-Exam · Sem 2 · paper 43acc688567d
@@ -10142,119 +10496,6 @@ Q7
 CO-3; SO-1; BL-1
 ````
 
-## 2022-23 · Re-Exam · Sem 5 · paper 3f48648db74f
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Elements of Biology/Elements of Biology Batch 2022-23 Re Exam.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 89.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-Program: B Tech Intg Stream: COMP, DS . Year: III
-
-Semester: V
-Subject: Elements of Biology Time: 3 hrs (2:00 pmto 5-00 pm
-Date:_15 /o2 /2026 . 5 No. of Pages: 3
-Marks: 100
-
-Re-Examination (Batch- 2022-2023)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___is compulsory.
-
-2) Out of remaining questions, attempt any__4 __ questions.
-
-3) Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Marks
-CO-1:s0-1: | * What is a carbohydrate? Give the composition of Lactose, Maltose, (4)
-BL-low Sucrose
-
-b. (4
-Pot SO-1, Give comparison between the terms genotype and phenotype )
-
-L-low
-
-CO-1:s0-1: | © Justify the statement: “The observation of bird flying in the sky led to 4)
-BL-high the invention of an aircraft’
-CO-3: $0-1: d. | Write the Michaelis and Menten’s equation and define the term Kw. (2)
-BL -medium What is the ratio of Vo/ Vmax when [S] =5 Ku (2)
-CO:3: §0-1: | & Describe the terms exergonic and endergonic reactions. (2)
-BL-low List the four major growth phases in micro-organisms (2)
-Q2
-C0-3: So-1: | 2 Define the term Sterilization and describe the various methods of (8)
-BL-low sterilization used in microbiology
-ee be Explain the classification based on Nitrogenous Excretion (6)
-Se ° | Explain briefly the process of transcription and translation (6)
---- page 2 ---
-Q3
-
-a | State the Mendel’s laws of inheritance.
-
-CO-2; SO-1; Illustrate the concept of recessiveness and dominance of alleles with (8)
-BL-medium
-an example
-
-CO-3; OPI e Discuss the two models to show the mode of action of enzymes (6)
-BL-medium
-CO-2; SO-1; | c ; . . Lo, ?
-BL-low Describe the various culture media used in microbiology (6)
-Q4
-ees |e Describe the Growth Kinetics of microbial growth in microbiology (8)
-BL-low
-ee Classify the organisms based on Carbon Utilization (6)
-CO-1; SO-1; | ¢ . .
-eatin Describe the secondary structure of protein (6)
-Q5
-CO-2; SO-1; | 4 Define the term Epistasis and with an example explain the concept of (8)
-BL-medium Recessive Epistasis
-
-b | Justify the statement: ‘The working of human eye led to the 3)
-CO-1; SO-1; development of camera’.
-BL-medium Describe the term ATP which is referred to as an energy currency of 3)
-
-the cell
-CO-3; SO-1; | © Explain the concept of Enzyme inhibition and describe in brief the 6
-BL-medium Non-Competitive and Uncompetitive inhibitors
-Q6
-CO-2; SO-1; | a | Discuss Non-allelic interactions and explain with an example 8)
-BL-low Complementary effect
-ae 2 Discuss the four major steps involved in cellular respiration (6)
-tee © | Discuss the concept of Model Organisms with an example (6)
-Q7
-: _ | a | Define the term Taxonomy and explain the seven major levels with
-
-CO-1; SO-1; (8)
-
-BL-medium one example
---- page 3 ---
-Explain the term binominal nomenclature and cite different
-
-examples showing common names and scientific names
-
-CO-1; SO-1; b Give the role of Contractile Proteins, Defensive proteins, Transport
-
-(6)
-BL-low proteins, Receptor proteins, Storage Proteins and Hormones
-CO-1;SO-1; | © | Discuss the concept of Kegq and its relation to free energy (6)
-BL-medium ;
---- page 4 ---
-
-````
-
 ## 2022-23 · Re-Exam · Sem 5 · paper a49b1b5d18a4
 
 - Departments: Computer Engineering
@@ -10372,108 +10613,6 @@ Q7 d. | How is tertiary structure of protein formed? How is it different from se
 [5]
 
 CO-3; SO-1; BL-I structure formation?
-````
-
-## 2022-23 · Re-Exam · Sem 5 · paper 6e2e37d74e77
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/COMPUTER/Sem_05/Elements of Biology/Elements of Biology Batch 2022-23 Re Exam_6e2e37d74e.pdf`
-- Printed on paper: max marks: 100; exam date: 24 / 11 /2023
-- Text: ocr (3 pages), mean OCR confidence 87.2
-
-````text
-SVKM’S NMIMS ape
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program/s: B Tech Intg Stream/s : Computer Year- Il
-
-Subject: Elements of biology { Time: 3-hrs (2:00pm to =(
-Date: 24 / 11 /2023 \\No: of Pages: 3 :
-Marks: 100 . .
-
-Re-Examination (2022-23) —
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 __ questions.
-3)Inall___5__ questions to be attempted. .
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Marks
-CO-3; SO-I: a. | Define the term Km. w.r.t the Michaelis and Menten’s equation. (2)
-BL-3 What is the ratio of Vo/ Vmax when [S] =10 Km (2)
-CO-2: SO-1: b. | Explain the terms dominant and recessive alleles with suitable (4)
-BL-1 example
-C0-i; SO-1; c. | Give the classification of carbohydrates based on their sizes. Also (4)
-BL-1 give the composition of Lactose and Maltose
-d. | Justify the statement: ‘The working of human eye led to the (2)
-i ; SO-2; development of camera’
-Define the terms exergonic and endergonic reactions (2)
-CO-3; $O-1; e. | Describe the tertiary protein structure. (2)
-BL-2 List the six classes of micro-organisms (2)
-1027 |
---- page 2 ---
-CO-3; SO-1; | # Describe the Growth Kinetics of microbial growth in
-
-(8)
-BL-1 microbiology
-Pe 80-1; | b Describe the secondary structure of protein (6)
-CO-2; SO-1; | ¢ List the salient features of a genetic code. 6)
-BL-2 Define the terms transcription and translation
-Q3
-CO-2; SO-1; | @ Write a short note on Gene mapping . (4)
-BL-2 "| State and explain the Mendel’s laws of ‘inheritance (4)
-ey SO-1; | © | Discuss the four major steps involved in cellular respiration (6)
-aed SO-13 | © | Discuss the concept of Model Organisms with an example (6)
-Q4
-a. | Explain the terms Essential and Non-Essential Amino Acids and (5)
-roars SO-1, isoelectric point for an amino acid/ polypeptide
-: Mention the functions of nucleotides (3)
-sal Bel} | bi. Explain the classification based on Nitrogenous Excretion (6)
-CO-2; $O-2; | ¢- | Discuss the energy of activation in the catalytic action of an
-BL-3 + 7 . (6)
-enzyme and list the factors affecting the rate of enzyme catalysis
-Q5 r
-a | Define the term Taxonomy and explain the seven major levels (5)
-CO-1: SO-1: with one example
-BL-1 Explain the term binominal nomenclature and cite different (3)
-examples showing common names and scientific names
-CO-1;SO-1;} © | . (6)
-BL-2 Discuss the concept of Kegq and its relation to free energy
-ti SO-1; | © Distinguish between mitosis and meiosis type of cell division (6)
-Q6
---- page 3 ---
-CO-2; SO-1;
-
-Describe with an example the concept of Blending Inheritance.
-
-BL-1 and Co-dominance a
-CO-2; SO-1; Explain the process of sterilization with chemical and physical
-
-BL-2 antimicrobial agents &
-ae SO-1; Discuss the two models to show the mode of action of enzymes (6)
-Q7
-
-CO-2; SO-1; Define the term Epistasis and with an example explain the
-
-BL-2 concept of Recessive Epistasis 2
-CO-3: SO-1: Explain the concept of Enzyme inhibition and describe in brief the
-
-BL2 , Non-Competitive and Uncompetitive inhibitors ©
-CO. SO-1; Discuss the simple and conjugated proteins with relevant 6)
-
-examples
 ````
 
 ## 2022-23 · Re-Exam · Sem 5 · paper 5086f33ae6e7
@@ -10774,6 +10913,7 @@ CO-2; SO-2; BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM IV/ELEMENTS OF BIOLOGY/Elements of Biology , Sem IV,Final ,A.Y.2021-22.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 April 2022
 - Text: ocr (2 pages), mean OCR confidence 89.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10816,7 +10956,6 @@ CO-2;$0-2;BL-1_ | ¢ | Differentiate between dominant and recessive alleles. 25
 d. | Determine the opposite strand of the given DNA sequence.
 
 soar. 2.5
-COE SOL Bil 5° ATGCCGTACGA 3?
 
 e. | Write a note on the classification of enzymes, citing any two classes with an
 
@@ -11922,145 +12061,4 @@ a. Draw and explain Induced Fit model of Enzyme action. [O3Marks]
 b. Draw and explain gene in terms of Complementation. [O3Marks]
 
 Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 2 · paper 088a1cd807d5
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/II SEMESTER/ELEMENTS OF BIOLOGY/Elements of Biology_088a1cd807.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2023
-- Text: ocr (2 pages), mean OCR confidence 90.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: B. Tech/MBA Tech Stream: AI, AIML, AIDS, IT, CE, DS Year:1 Semester: [J
-Subject: Elements of Biology Time: 03 hrs. (11:00AM to 2:00 PM)
-Date: 12/05/2023 No. of Pages: 02
-Marks: 100
-
-Final Examination/Re Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5__ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-a. | What is light microscopy and how does it differ from electron microscopy in terms
-CO-2; 80-2; BL-l : J . ay 2.5
-of resolution and imaging capabilities?
-CO-1:80-1;BL-2_ | b. | Compare organisms based on energy and carbon utilization. 2.5
-c. | How do different genes interact with each other, and what role does epistasis play 2.5
-CO-2; $0-2; BL-I ; DT ‘
-in genetic inheritance?
-d. | Given the DNA sequence 5'-TACGCTGAGCT-3', what is the complementary 2.5
-CO-1; $O-1; BL-1 ;
-mRNA sequence?
-e. | How does an enzyme catalyze a reaction, and what are the key steps involved in 25
-CO-3, 80-1; BL-2 F ‘
-this process?
-co2;s02;BL-2 | f. | What is transcription, and how does it differ from DNA replication? 2.5
-g. | How are proteins used as hormones, and what makes them effective tools for 2.5
-CO- 3; SO-1; BL-1 : Fs F od
-targeting specific molecules in the body?
-c0-1:80-1;BL-1 | 4. | What is ATP and why is it important in cellular energy metabolism? 2.5
-Q2 a. | How might biomimicry shape the future of design and technology, and what are
-some of the key trends and devel in this field? [5]
-CO-I: SO-1; BL2 y trends and developments in this field?
-
-b. | What are model organisms and why are they important in scientific research?
-How is Drosophila melanogaster used as a model organism to study human
-
-Q diseases? Can you describe its unique characteristics and how researchers have {10]
-
-eee Sebel used fruit flies to gain insights into disease mechanisms that could lead to new
-treatments?
-
-Q2 c. | What are the major morphological characteristics used to classify living [5]
-
-CO-1; $O-1; BL-2 organisms, and what are some examples of each class or group?
---- page 2 ---
-a. | In summer squash, the fruit color is governed by two genes. The dominant gene B
-for white color suppresses the expression of gene A which controls yellow color.
-So yellow color appears only in absence of B. In absence of both B and A, green [10]
-color develops. How can a Punnett square analysis be used to predict the
-genotypic and phenotypic ratios of offspring resulting from a cross between two
-white-colored parents: male (AaBb) and female (AaBb). Also, mention the type
-of gene interactions involved.
-
-Q3
-
-CO-2; SO-2, BL-2
-
-b. | Outline the semi-conservative replication model of DNA and the crucial enzymes
-involved in the replication process, Also, provide a relevant diagram to support [10]
-your explanation.
-
-Q3
-
-CO-2; SO-2; BL-2
-
-a. | What are lipids, and what role do they play in living organisms? Also, describe
-Q4 the different types of lipids in detail, along with their respective functions. Cite [10]
-CO-1; 80-1; BL-1 examples wherever applicable.
-
-4 b. | Explain the mechanism of enzyme action and how it differs from non-enzymatic
-Q catalysis. Elaborate two theories proposed for the mechanism of enzyme action [10]
-Cone Sebel and explain their differences.
-
-a. | What is metabolism, and how does it involve the biochemical processes that
-Q5 generate and consume energy in living cells. Briefly explain all stages and
-products of each stage while providing a diagram or flowchart to illustrate the
-overall process of anaerobic respiration.
-
-[10]
-CO-1; 80-1; BL-2
-
-b. | Discuss the impact of reversible and irreversible enzyme inhibition on enzyme
-Q5 activity. Illustrate the various types of reversible enzyme inhibition using [10]
-CO SOT BL. appropriate diagrams.
-
-a. | What is the connection between protein structure and function, and what are the
-Q6 different types of proteins and their roles? Could you give a brief overview of [10]
-CO-3; 50-1, Bl-2 four different types of proteins and their functions?
-
-b. | How does the central dogma of life explain the relationship between DNA, RNA,
-and proteins? Explain the process that occurs inside the nucleus. Support your [10]
-response with an appropriate diagram.
-
-Q6
-
-CQ-2; 80-2; BL-1
-
-a. | What is metabolism, and how does it relate to the utilization of energy in living
-
-Q7 organisms? Could you provide a brief overview of two types of metabolic [5]
-CO-1; 80-1; BL-1 pathways?
-
-Q7 b. | Enlist several sterilization techniques and elaborate on the mechanisms and [5]
-CO-2; $O-2; BL-2 advantages of two of them.
-
-Q7 c. | What is co-dominance, and how does it differ from complete dominance in terms [5]
-
-. var
-CO-2: SO-2; BL-2 of the expression of traits?
-
-d. | What are the various stages involved in the process of protein folding, and how
-Q7 do intrinsic factors such as amino acid sequence, as well as extrinsic factors such [5]
-CO-3; SO-1; BL-1 as temperature, impact the folding process?
 ````

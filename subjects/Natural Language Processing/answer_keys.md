@@ -2,6 +2,827 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 03f12a163ddd
+
+- Departments: Computer Engineering, Data Science, Information Technology
+- Programmes: BTech CSE DS 7011, BTech IT 7001, Integrated Computer 7032, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_07/Final-Exam/BTech_IT_7001/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2024-2025.pdf` (+3 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
+- Text: mixed (19 pages), mean OCR confidence 36.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CS)/B. TECH (CSE - DS)/B. Tech (CSE - DS) (311)/B. Tech Intg. (CE)/B. Tech (IT)/MBA
+Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / IV / VI/Semester V/Semester VII/Semester XI(Exam Year: 2025-2026)
+Subject: Natural Language Processing
+Date: 02 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 19 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks
+8. Assume Suitable data if necessary.
+Q1   Answer briefly   [20]
+CO-1 ;   a.1   Differentiate between Natural Language Understanding (NLU) and [5]
+SO-1 ;   Natural Language Generation (NLG) in NLP with suitable examples.
+BL-2;   Ans:
+Natural Language   Natural Language
+Aspect
+Understanding (NLU)   Generation (NLG)
+NLU is the ability of a NLG is the ability of a
+machine to   machine to generate
+comprehend and   human-like language (text
+Definition
+interpret human   or speech) from structured
+language in a   data or internal
+meaningful way.   representations.
+To understand the
+To produce coherent and
+Purpose   meaning of the input
+meaningful text as output.
+text.
+Structured data, machine-
+Human-readable text or
+Input   readable content, or
+speech.
+semantic representation.
+Semantic
+understanding, intents, Human-readable text,
+Output   entities, sentiment, or   sentences, paragraphs, or
+meaning   conversational responses.
+representation.
+********** 1 **********
+--- page 2 ---
+Named Entity
+Template-based generation,
+Recognition (NER),
+Neural Networks (like GPT
+Techniques Used Sentiment Analysis,
+models), Rule-based text
+Intent Detection,
+generation.
+Semantic Parsing.
+Input: “Book a flight to
+Example
+New York tomorrow.”
+Output: Intent =   Input: Structured data:
+BookFlight,   {“City”: “New York”,
+Destination = New “Weather”: “Sunny”,
+York, Date =   “Temperature”:
+Tomorrow.   “25°C”}
+Output: “The
+weather in New
+York is sunny
+today with a
+temperature of
+25°C.”
+CO-2,   b.   Explain the concepts of chunking and chinking in Natural Language   [5]
+SO-   Processing (NLP). Discuss how Part-of-Speech (POS) tagging supports
+BL-2   these processes, and illustrate your explanation with a suitable example.
+Ans:
+Chunking-2M
+Chinking 2M
+POS Tagging role 1M
+Sentence: “The black dog is running in the park.”
+• Chunking: Groups words → [The black dog] (NP), [the park]
+(NP).
+• Chinking: Removes unwanted words → e.g., remove in
+(preposition) from the chunk.
+POS Tagging: Provides word categories (DT, JJ, NN, etc.), which are
+used to apply chunking and chinking rules.
+CO-4,   c.5   Define hyponymy and hypernymy with suitable linguistic examples. How [5]
+SO-1   can hypernymy be applied in Word Sense Disambiguation (WSD) to
+BL-3   resolve the correct meaning of polysemous words? Provide an example?
+Ans:
+(2+2+1) = 5 Marks
+Hyponymy and Hypernymy
+Hyponymy is a semantic relation in which the meaning of one word is
+included in the meaning of another word.
+Example: rose, tulip, and lily are hyponyms of flower.
+The statement can be expressed as: “A rose is a kind of flower.”
+Hypernymy is the opposite relation: it refers to the more general word
+whose meaning includes that of more specific words.
+********** 2 **********
+--- page 3 ---
+Example: flower is a hypernym of rose, tulip, and lily.
+Similarly, animal is a hypernym of dog, cat, and elephant.
+Application of Hypernymy in Word Sense Disambiguation (WSD)
+Hypernymy relations are very useful in WSD because they allow a system
+to connect ambiguous words to their broader, more general categories. By
+checking the surrounding context and mapping it to the correct hypernym,
+a system can choose the right sense of a word.
+Example: Consider the polysemous word “bank.”
+Sense 1: financial institution (hypernym = organization)
+Sense 2: river bank (hypernym = geographical feature / landform)
+If the sentence is:
+“The boy was fishing on the bank.”
+Words like fishing and river in the context point towards the hypernym
+geographical feature.
+Therefore, bank here means river bank.
+“She deposited money in the bank.”
+Context words like money and deposit map to the hypernym organization.
+Therefore, bank here means financial institution.
+In WSD, hypernymy helps map ambiguous words to their general category,
+and then context determines which sense is correct.
+CO-3;   d. 6   Compare pragmatic and discourse analysis with the help of appropriate [5]
+SO-1 ;   examples.
+BL-3   Ans: Marks Distribution-3 Marks for Comparison and 2 Marks for
+Example of each type
+Pragmatics concentrates on speaker intention and context-dependent meaning,
+whereas discourse analysis investigates how sentences and utterances are
+connected to form coherent texts and conversations. Together, they provide a
+comprehensive   understanding   of how language   functions   in   real
+communication.
+Pragmatics is the branch of linguistics that studies how meaning is shaped by
+context of use. It goes beyond the literal semantic meaning of words and
+focuses on how speakers use language to achieve communicative goals.
+Example “Can you pass the salt?” — pragmatically, this is not a question about
+ability but a request.
+Discourse analysis studies how sentences and utterances are connected to
+form larger units of meaning such as conversations, narratives, or written
+texts.   It   is concerned with cohesion (linguistic ties like reference,
+substitution, conjunctions) and coherence (logical flow of ideas in context).
+Example :“I bought a book yesterday. The book was about artificial
+intelligence.”
+********** 3 **********
+--- page 4 ---
+→ The second sentence refers back to “a book” using “the book,” creating
+textual cohesion.
+Q2   a   i.   Differentiate between Morpheme and Lexeme with examples   [10]
+CO-1,4;
+SO-1;   ii.   Discuss the significance of NER in three different NLP
+BL-2,3   applications.
+Ans:
+Ans: [Marks 5+5]
+i.
+Feature   Morpheme   Lexeme
+Meaning The smallest grammatical The basic unit of lexical
+unit in a language that   meaning — represents a set
+carries meaning.   of related word forms.
+Function Deals with word structure Deals with word meaning
+(morphology).   and usage in the lexicon.
+Example   Morpheme   Lexeme
+Unhappi   Has three morphemes:   The lexeme is HAPPY,
+ness   “un-” (prefix), “happy”   which can appear as happy,
+(root), “-ness” (suffix).   happier, happiest.
+Running   Has two morphemes:   The lexeme is RUN, which
+“run” + “-ing”.   includes run, runs, ran,
+running.
+ii.
+1. Information Extraction (IE)
+Automatically extracts structured information (names, dates,
+locations, organizations) from unstructured text such as news
+articles, reports, or legal documents.
+2. Question Answering Systems (QA)
+Helps identify entities in questions and documents (e.g., “Who is
+the   CEO of Tesla?” → CEO = role, Tesla = organization).
+3. Machine Translation
+Ensures named entities like “Barack Obama” or “New Delhi”
+are   translated correctly or kept unchanged.
+4. Healthcare & Biomedical Text Mining
+Extracts entities such as patient names, diseases, medications,
+genes, or proteins from medical records and research papers.
+5. Customer Feedback & Social Media Analysis
+Identifies product names, brands, locations, or events in tweets,
+reviews, and online discussions for business intelligence.
+CO-   b   Consider the following training corpus:   [10]
+2;SO-1;   1. artists paint murals in city
+BL-3   2. musicians play songs in city
+3. painters paint murals on walls
+4. signs are near city
+********** 4 **********
+--- page 5 ---
+Using a bigram language model with Laplace smoothing, evaluate the
+probability of the test sentence:
+“artists paint murals near city”
+Assume the <s> and </s> for each sentence.
+Ans:
+[ 1 mark for vocabulary + 1.5 marks each for unigram and bigram
+counts + 5 marks for Laplace smoothed probability + 1 mark for
+probability of the sentence]
+Adding start and end tokens for each sentence-
+Training corpus-
+<s> artists paint murals in city </s>
+<s> musicians play songs in city </s>
+<s> painters paint murals on walls </s>
+<s> signs are near city </s>
+Test sentence-
+<s> artists paint murals near city </s>
+Distinct tokens are:
+<s>, </s>, artists, paint, murals, in, city, musicians, play, songs,
+painters, on, walls, signs, are, near
+That gives V=16.
+Counts:
+• Unigram counts:
+o C(artists)=1
+o C(paint)=2
+o C(murals)=2
+o C(near)=1
+o C(city)=3
+o C(<s>)=4
+• Bigram counts:
+o C(<s>,artists)=1
+o C(artists,paint)=1
+o C(paint,murals)=2
+o C(murals,near)=0
+o C(near,city)=1
+o C(city,</s>)=3
+Laplace (add-one) smoothing-
+Formula:
+P+1(wi∣wi−1)=[C(wi−1,wi)+1]/[C(wi−1)+V]
+Bigram Probabilities:
+1. P(artists∣<s>)=[1+1]/[4+16]=2/20=1/10≈0.1
+2. P(paint∣artists)=[1+1]/[1+16]=2/17≈0.117647
+3. P(murals∣paint)=[2+1]/[2+16]=3/18=1/6≈0.166667
+4. P(near∣murals)=[0+1]/[2+16]=1/18≈0.0555556
+5. P(city∣near)=[1+1]/[1+16]=2/17≈0.117647
+6. P(</s>∣city)=[3+1]/[3+16]=4/19≈0.210526
+Exact fraction:
+P+1=1/10*2/17*1/6*1/18*2/17*4/19=16/5930280=2.698E-6
+Hence, the probability of the test sentence is =2.698E-6.
+********** 5 **********
+--- page 6 ---
+Q3   a   i.   Explain the various types of ambiguities encountered in Natural [10]
+CO- 3,   Language Processing (NLP). Illustrate each type with suitable
+SO-, BL-   examples.
+ii.   Compare top-down and bottom-up parsing and apply bottom-up
+4
+syntax parsing approach to the sentence given below and draw a
+parse tree using the grammar rules-
+“A cat chased the mouse”
+Grammar   Lexicon
+S → NP VP   Det → {A, the}
+NP → Pronoun   Noun → {cat, mouse}
+NP → Proper-Noun   Verb → {chased}
+NP → Det Nominal
+Nominal → Noun
+Nominal → Nominal Noun
+Nominal → Nominal PP
+VP → Verb
+VP → Verb NP
+VP → VP PP
+PP → Prep NP
+Ans: Marks-5
+1. Lexical Ambiguity:
+Meaning:
+Occurs when a word has multiple possible meanings.
+Example:
+He went to the bank.
+• “bank” can mean a financial institution or the side of a river.
+Explanation:
+NLP systems must use context to decide which meaning of “bank”
+applies in the sentence.
+2. Syntactic Ambiguity (Structural Ambiguity)
+Meaning:
+Occurs when a sentence can be parsed in more than one way due to
+different grammatical structures.
+Example:
+I saw the man with the telescope.
+•   Interpretation 1: I used the telescope to see the man.
+•   Interpretation 2: The man had the telescope.
+Explanation:
+The ambiguity arises because the prepositional phrase (“with the
+telescope”) can modify either the verb saw or the noun man.
+3. Semantic Ambiguity
+Meaning:
+Occurs when the meaning of the sentence itself is unclear, even if the
+structure is fine.
+Example:
+Visiting relatives can be boring.
+********** 6 **********
+--- page 7 ---
+•   Interpretation 1: The act of visiting relatives is boring.
+•   Interpretation 2: The relatives who visit are boring.
+Explanation:
+The confusion comes from whether visiting is used as a gerund (verb)
+or adjective (modifier).
+4. Pragmatic Ambiguity
+Meaning:
+Arises when the intended meaning depends on context or speaker’s
+intention rather than grammar or word meaning.
+Example:
+Can you pass the salt?
+•   Literally, it’s a question about ability.
+•   Pragmatically, it’s a request for action.
+Explanation:
+Understanding pragmatic meaning requires world knowledge and
+context.
+5. Referential Ambiguity
+Meaning:
+Occurs when a pronoun or reference word could refer to multiple
+entities.
+Example:
+John told Tom that he was late.
+• “he” could refer to John or Tom.
+Explanation:
+The ambiguity arises in anaphora (reference resolution).
+ii.
+Comparison (Any two relevant points-2M)
+Aspect   Top-Down Parsing   Bottom-Up Parsing
+Starts from the root (start   Starts from input tokens
+Parsing   symbol) and expands   and reduces toward the
+Direction   toward the input.   root.
+Expands non-terminals
+using grammar rules,   Combines tokens/phrases
+Grammar Rule   even before seeing if   only if they appear in the
+Application   input matches.   input.
+Fails or loops infinitely
+Handling Left   if grammar has left   Naturally handles left
+Recursion   recursion.   recursion without issues.
+May get stuck or need   Can face shift-reduce or
+Ambiguity   backtracking when   reduce-reduce conflicts in
+Handling   grammar is ambiguous.   ambiguous grammars.
+Ease of   Conceptually simple and More complex (needs
+Implementation   intuitive to implement.   parsing tables, stacks).
+Bottom up parsing with steps-3
+********** 7 **********
+--- page 8 ---
+Godors wp awry ti
+
+‘ vos Hy )
+=— : ver
+a Nowr vub \ cbt
+\ che ome Pet
+; nan
+_ Norin® wee
+\ % *
+Oe one ‘i ete atase
+kb
+zeus avid Mar Rs arte)
+Ng NP
+aearel worn
+aie wee vib DE “
+y 2
+stop bak rik yin?” “nr 1°
+NP
+~~
+4 J
+My ye Nomint
+7 ; / degee
+ve
+al var mone
+
+“ unr Chock 1
+
+Shp © form cunUR tt)
+
+62 NY Ny
+
+Coton we “nt IM Fina
+
+“A Cok chuck ue we
+= a
+
+‘Se:
+
+ok che TN Monee
+
+FIC QF EH 1
+--- page 9 ---
+CO-3;   b   Consider the given paragraph given below:   [10]
+SO- 1   The teacher wrote on the board. The students listened to the teacher.
+BL-4:   The board was full of notes. The student asked a question. The
+teacher answered from the book.
+Target words: teacher, student, board, book
+Context words: wrote, listened, notes, question
+i. Construct a co-occurrence matrix for the target and context words.
+Take the window size as one whole sentence.
+ii. Evaluate the similarity between the vectors of the target words
+“teacher-student” and “teacher-board” using the cosine similarity.
+Plot the target word vectors by considering only two dimensions: “wrote”
+and “notes”.
+Ans: [Marks 5+5]
+Co-occurrence matrix:
+target \ context   wrote   listened   notes
+teacher   1   1   0
+student   0   1   0
+board   1   0   1
+book   0   0   0
+Q4   a   Explain any three basic text preprocessing techniques used in Natural [10]
+CO-2;   Language Processing (NLP). Discuss the purpose of each technique and
+SO-1;   illustrate them with suitable examples.
+BL-2   Ans:[Marks-5+5]
+It is an essential step in natural language processing (NLP) that involves
+cleaning and transforming unstructured text data to prepare it for analysis.
+Text data contains noise in various forms like emoticons, punctuations, text in
+a different cases, HTML tags etc.
+********** 9 **********
+--- page 10 ---
+Inadequate or low-quality data can lead to lower accuracy and effectiveness of
+the model.
+The pre-processing steps for a problem depend mainly on the domain and the
+problem itself, hence, we don’t need to apply all steps to every problem and
+also the order of applying these steps may also vary.
+Various text preprocessing steps are widely used for dimensionality reduction.
+Some of the commonly used preprocessing steps are:
+o Removing punctuations like . , ! $( ) * % @, URLs, Stop
+words
+o Lower casing
+o Normalization (some common ones)
+▪   Tokenization
+▪ Stemming
+▪ Lemmatization
+Stop word removal:
+• Stop words are a set of commonly used words in a language like “a”,
+“the”, “is”, “are” etc. in English.
+• These words do not carry important meaning and are removed from
+texts in many data science tasks.
+• The intuition behind this approach is that, by removing low
+information words from text, we can focus on the important words
+instead.
+• One of the advantages of removing stop words is that it can reduce the
+size of the dataset, which in turn reduces the training time required for
+building natural language processing models.
+• Stop word removal is commonly applied in search systems, text
+classification applications, topic modeling, topic extraction and others.
+• Stop word lists can come from pre-established sets or you can create a
+custom one for your domain. This creation may be tricky as few words
+that may not be useful in some problem statement may be important in
+others.
+Lower casing:
+•   Usually, this is the first step that is performed while pre-processing.
+•   Is a text preprocessing step where all letters in the text are converted
+to lowercase.
+•   This step is implemented so that the algorithm does not treat the same
+words differently in different situations.
+o Ex: Book and book mean the same but when not converted to
+the lower case those two are represented as two different
+words in the vector space model (resulting in more
+dimensions).
+• However, it is important to remember that some words, like “US” and
+“us”, can change meanings when reduced to the lower case. Also,
+there can be cases where the capitalization is important and has to be
+preserved. So we should avoid performing this step in such cases
+Normalization:
+• As raw text data is random, each word has a lot of variations in the form of
+tenses, superlatives, and many more.
+********** 10 **********
+--- page 11 ---
+• These variations increase the complexity of the data and are difficult for the
+machine learning model to train them.
+• Text normalization reduces this complexity by reducing the text data into a
+predefined standard, hence improving the efficiency of the model.
+• Ex: Many forms of the base word collect - "collection", "collective", and
+"collectively".
+•   If we reduce the variations of a word in the raw text, there will be fewer
+input variables for our machine-learning model to deal with, thus increasing
+efficiency and avoiding false negatives.
+• Text normalization reduces the dimensionality of the input for structures
+like bag-of-words and Tf-Idf.
+• There is no correct set or list of normalization tasks that work for all
+situations.
+Few common ones used are:
+• Removal of duplicate whitespaces and punctuation.
+• Accent removal (if your data includes diacritical marks from ‘foreign’
+languages).
+•   Substitution of contractions (Ex: ‘I’m ’→‘I am’ and don’t to do not).
+• Transform word numerals into numbers (Ex: ‘twenty three’→‘23’).
+•   Substitution of values for their type (Ex: ‘$50’→‘MONEY’).
+• Acronym normalization (Ex: ‘US ’→‘United States’/‘U.S.A’) and
+abbreviation normalization (Ex: ‘btw’ → ‘by the way’).
+• Normalize date formats, social security numbers or other data that have a
+standard format.
+•   Spell correction (one could say that a word can be misspelled infinite
+ways, so spell corrections reduce the vocabulary variation by “correcting”)
+•   Substitution of rare words for more common synonyms.
+Q4   b   Consider the following POS tagged corpus. Apply Hidden Markov Model [10]
+CO-3;   (HMM) approach to
+SO-1;
+Noun   Verb   Noun
+BL-4
+1   Cat   chase   mice
+Det   Noun   Verb
+2   The   dog   runs
+Det   Noun   Verb   Noun
+3   A   cat   eats   cheese
+i.   Construct the emission probability matrix.
+ii.   Construct the transmission probability matrix.
+iii.   Calculate the probability of sequence of Events
+Det   Noun   Verb   Noun
+The   cat   eats   mice
+Note: Include start and end characters for all the sentences
+Ans:
+********** 11 **********
+--- page 12 ---
+Q5   a   For the following two sentences:   [10]
+• Sentence A: “The student read a science book in the library”
+• Sentence B: “The teacher read a history book in the classroom”
+********** 12 **********
+--- page 13 ---
+CO-2;   1. Construct the TF-IDF matrix for these sentences after removing
+SO-1 ;   the stop words {The, a, in}.
+BL-3;   2. Identify and comment on the important terms in each sentence
+based on their TF-IDF scores.
+Ans:[Marks 5+5]
+Term   Sentence   Sentence
+A   B
+student   0.693   0
+read   0   0
+science   0.693   0
+book   0   0
+library   0.693   0
+teacher   0   0.693
+history   0   0.693
+classroo   0   0.693
+m
+Analysis:
+For Sentence A, the unique theme is student, science, library.
+For Sentence B, the unique theme is teacher, history, classroom.
+So, it indicates that TF–IDF clearly shows that shared words don’t matter for
+separation, while unique words carry more importance.
+CO-4;   b   Consider the sentence: “The bat hit the ball hard on the cricket field.”   [10]
+SO-1BL-   Two possible senses of “bat”:
+4
+• Sense 1: Bat (Sports equipment – cricket/baseball)
+• Sense 2: Bat (Nocturnal flying mammal)
+Sentence
+Context Words   Sense (Class)
+ID
+ball, cricket, score,   Sports (Bat =
+1
+stadium   equipment)
+Animal (Bat =
+2   night, cave, wings, fly
+mammal)
+3   player, run, match, bat   Sports
+4   nocturnal, vampire, insect Animal
+5   team, field, bowl, bat   Sports
+6   dark, flying, cave, night   Animal
+a) Using the Naïve Bayes algorithm, classify the sense of “bat” in
+the given sentence Apply Laplace Smoothing wherever
+applicable.
+b) Discuss the significance of Laplace Smoothing in Naïve Bayes
+Classification.
+Ans:
+********** 13 **********
+--- page 14 ---
+P(Sports)=0.5
+1 mk
+P(Animal)=0.5
+Unique words across both classes: (words: ball, cricket, score, stadium,
+player, run, match, bat, team, field, bowl, night, cave, wings, fly,
+nocturnal, vampire, insect, dark, flying) Total 20
+1
+mk
+Calculations:
+For Sports:
+2 mks
+• P(hit∣S)=(0+1)/32=1/32=0.03125
+• P(ball∣S)=(1+1)/32=2/32=0.0625
+• P(cricket∣S)=2/32=0.0625
+• P(field∣S)=2/32=0.0625
+• P(hard∣S)=1/32=0.03125
+For Animal:
+P(w∣A)=1/31≈0.03225806
+Likelihood for sports:
+2 mks
+0.5 * 0.03125*0.0625*0.0625*0.0625*0.03125 =1.19209290×10-7
+Likelihood for animal :
+1.74647163×10-8
+Classified sense: Sports equipment
+1 mk
+Laplace Smoothing:
+3 mks
+Handles problem of zero probabilities, improves robustness of
+classifier.
+Q6   a   i.   Differentiate between co-reference resolution and pronoun [10]
+CO-4;   resolution with suitable examples
+SO-1;   ii.   Explain the working principle of the Continuous Bag of Words
+BL-3   (CBOW) model and Skipgram model in Word2Vec. Illustrate
+how it predicts the target word from its surrounding context
+Ans:
+********** 14 **********
+--- page 15 ---
+iii.   Marks Distribution-3 Marks for approach explanation and 2
+Marks for advantage of each type
+Co-reference resolution: task of finding all expressions in text that refer to
+the same entity. (1.5 marks)
+Example: Mary said Mary is tired. She went home. → "Mary" and "She" co-
+refer.
+Pronoun resolution: a subtask focusing only on resolving pronouns to their
+antecedents. (1.5 marks)
+Example: John met Peter when he was leaving. → "he" could refer to John or
+Peter.
+Difference: co-reference is broader (includes noun phrases, names, definite
+descriptions), while pronoun resolution is narrower.
+In Word2Vec, two main architectures are used to learn word
+embeddings:
+Continuous Bag of Words (CBOW) and
+Skip-Gram.
+Both are neural network-based models that learn to represent words as
+dense vectors based on their context in a text corpus.
+1. Continuous Bag of Words (CBOW) Model
+Working Principle:
+The CBOW model predicts the target word from its surrounding
+context words.
+It takes context words as input and tries to predict the central
+(target) word.
+The model averages (or sums) the vectors of the context words and
+passes them through a neural network to predict the target word.
+Example:-Sentence
+“The cat sat on the mat”
+If the window size = 2, and the target word is “sat”, then the context
+words are:
+["The", "cat", "on", "the"]
+The CBOW model learns:
+P(sat | The, cat, on, the)
+Intuition:
+It focuses on understanding the meaning of a word based on its
+surrounding words.
+2. Skip-Gram Model
+Working Principle:
+• The Skip-Gram model does the reverse of CBOW.
+•   It predicts the context words given a target word.
+• The target word is input, and the model learns to predict
+surrounding context words.
+Example:-Sentence:
+“The cat sat on the mat”
+If the target word is “sat” and window size = 2, then the context
+words are:
+["The", "cat", "on", "the"]
+********** 15 **********
+--- page 16 ---
+The Skip-Gram model learns:
+P(The | sat), P(cat | sat), P(on | sat), P(the | sat)
+Intuition:
+It focuses on how a single word relates to its neighboring words.
+CO-3;   b   i.   Explain Hobb's Algorithm. Discuss the steps with help of example [10]
+SO-1;   and state its limitation.
+BL-4
+ii.   Sentence: Ravi met Suresh at the station after he arrived from
+Delhi.
+Using Hobbs’ algorithm, determine the most likely antecedent of
+the pronoun "he". Show the steps of traversal according to the
+algorithm
+Ans: Marks Distribution-5 Marks for approach explanation and 5 Marks
+for resolution
+i
+Hobbs’ Algorithm is a syntactic algorithm for pronoun resolution in NLP.
+It identifies possible antecedents for a pronoun by traversing a syntactic parse
+tree in a systematic manner.
+Example:
+Sentence: “When Mary saw Alice, she waved.”
+• Pronoun = she
+• Step 1: Start at NP dominating “she.”
+• Step 2: Move up to nearest S node.
+• Step 3: Traverse left branches → NPs = “Mary,” “Alice.”
+• Step 4: First candidate = Mary, chosen as antecedent.
+Limitations :
+Struggles with ambiguous cases (gender/number mismatch ignored).
+Not efficient for long, complex sentences.
+ii Sentence: “Ravi met Suresh at the station after he arrived from
+Delhi.”
+Pronoun: he
+Steps of traversal:
+1. Start at NP for “he.”
+2. Move up to nearest S node.
+3. Traverse left branches → encounter NPs: Ravi, Suresh.
+4. Candidate 1 = Ravi, Candidate 2 = Suresh.
+5. According to Hobbs’ order: Ravi is encountered first.
+Hobbs’ algorithm chooses Ravi as antecedent of “he.”
+But semantically, “Suresh” may also make sense depending on context
+→ shows limitation of Hobbs.
+Q7   a   Explain the working of text classification in Natural Language Processing [10]
+(NLP) and discuss the key steps involved in building a text classification
+********** 16 **********
+--- page 17 ---
+CO-4;   system in context of real-world applications such as spam detection or
+SO-1 BL-   news categorization.
+3:   Ans:
+Text classification is the process of automatically assigning categories or
+labels to text data based on its content.
+Examples include:
+Spam filtering – Classifying emails as “spam” or “not spam.”
+News categorization – Grouping news articles into topics like sports,
+politics, or entertainment.
+Sentiment analysis – Identifying whether a review or comment is
+positive, negative, or neutral.
+Steps Involved in Text Classification
+1. Data Collection
+Gather a dataset containing text documents and their corresponding labels.
+• Example: A set of emails labeled as “spam” or “ham” (not spam).
+2. Data Preprocessing
+Prepare the text for analysis by cleaning and normalizing it. Common steps
+include:
+• Lowercasing – Convert all text to lowercase.
+• Removing noise – Punctuation, special characters, HTML tags, etc.
+•   Tokenization – Splitting text into individual words or tokens.
+•   Stop word removal – Removing common words like “the,” “is,”
+“and.”
+• Stemming/Lemmatization – Reducing words to their base or root form
+(e.g., “running” → “run”).
+3. Feature Extraction / Text Representation
+Convert the cleaned text into a numerical format that a machine learning
+model can understand. Common methods:
+• Bag of Words (BoW) – Counts the occurrence of each word in the
+document.
+• TF-IDF (Term Frequency–Inverse Document Frequency) – Weighs
+words based on their importance.
+• Word Embeddings (e.g., Word2Vec, GloVe) – Captures semantic
+meaning of words in vector form.
+•   Transformer-based embeddings (e.g., BERT) – Context-aware
+representations of text.
+4. Model Training
+Train a classification algorithm using the numerical features and their labels.
+Examples of models:
+•   Traditional ML: Naive Bayes, Logistic Regression, SVM.
+• Deep Learning: RNNs, CNNs for text, Transformers (e.g., BERT).
+5. Model Evaluation
+Evaluate the trained model using metrics such as:
+• Accuracy – Overall correctness.
+•   Precision & Recall – Useful for imbalanced datasets (e.g., spam
+detection).
+•   F1-score – Balance between precision and recall.
+6. Prediction / Deployment
+********** 17 **********
+--- page 18 ---
+Use the trained model to classify new, unseen text data.
+Example: A new email arrives → model predicts “spam” or “not spam” →
+automatically sorted into the correct folder.
+7. Monitoring and Updating
+Over time, new words and patterns emerge. The model should be regularly
+retrained with updated data to maintain accuracy.
+CO-2;   b   i.   Differentiate between a flat text corpus and an annotated corpus, [10]
+SO-1 BL-   and discuss how each can be applied in various NLP tasks with
+3   suitable examples.
+ii.   Explain a real-world scenario where the Jaccard Similarity
+measure is more appropriate than Euclidean or Manhattan
+distance, and justify why Jaccard is the best choice in that case.
+Ans: [Marks 5+5]
+i. Different corpus structures are applied to different NLP tasks
+depending on the information they provide:
+Flat Text Corpus (e.g., plain .txt files):
+This type contains only raw text without labels. It can be applied to tasks
+like word frequency analysis, calculating readability scores, or
+comparing the styles of different writers. For example, one can apply it
+to study the most common words in political speeches.
+Annotated Corpus (e.g., POS-tagged or parsed text):
+This type contains extra linguistic information such as part-of-speech
+tags, named entities, or syntactic structures. It can be applied in
+supervised learning tasks such as training a Part-of-Speech tagger,
+Named Entity Recognition, or parsing models. For instance, a POS-
+tagged corpus can be used to train a model that automatically identifies
+nouns and verbs in new texts.
+ii. Jaccard similarity takes into account only the set of unique words
+for each text document. This makes it the likely candidate for
+assessing the similarity of documents when repetition is not an issue.
+Both Euclidean and cosine similarity metrics drop if an additional
+word is added to the list.
+Jaccard similarity is limited to assessing the lexical similarity of text,
+i.e., how similar documents are on a word level.
+The differentiating factor between Euclidean and Cosine measure is
+that cosine similarity is not affected by the magnitude/length of the
+feature vectors. It only considers the angle between them, making it
+ideal for comparing vectors of different lengths. (Ex: If a word
+‘senate’ occurs more frequently in doc 1 than it does in doc 2, we
+could assume that doc 1 is more related to the topic of Politics.
+However, it could also be the case that we are working with news
+articles of different lengths and word ‘senate’ probably occurred more
+in doc 1 simply because it was way longer)
+Ex:
+********** 18 **********
+--- page 19 ---
+Doc 1: “I love data science and machine learning”
+Doc 2: “I love machine learning”
+Step 1: Preprocess the documents - Remove stopwords like “I”, “and”,
+etc., and lowercase everything.
+Doc 1 → ['love', 'data', 'science', 'machine', 'learning’]
+Doc 2 → ['love', 'machine', 'learning’]
+Vocabulary :['love', 'data', 'science', 'machine', 'learning']
+Jaccard
+Intersection: ['love', 'machine', 'learning'] → 3 words
+Union: ['love', 'data', 'science', 'machine', 'learning'] → 5 words
+Jaccard=3/5=0.6
+Cosine
+Vectors: Doc1 = [1, 1, 1, 1, 1] Doc2 = [1, 0, 0, 1, 1]
+Dot product = 1∗1+1∗0+1∗0+1∗1+1∗1=31∗1+1∗0+1∗0+1∗1+1∗1=3
+|A| = √(1²+1²+1²+1²+1²) = √5 ≈ 2.236
+|B| = √(1²+0²+0²+1²+1²) = √3 ≈ 1.732
+cos(θ)= 3/(2.236×1.7323) ≈ 3/3.8723 ≈0.775
+Euclidean:
+Vectors: Doc1 = [1, 1, 1, 1, 1] Doc2 = [1, 0, 0, 1, 1]
+Distance=Sqrt((1−1)2+(1−0)2+(1−0)2+(1−1)2+(1−1)2 )
+Distance= ≈1.414
+Measure   Value   Meaning
+Jaccard   0.6   60% of the words overlap
+Cosine   0.775   High similarity in word pattern
+Euclidean   1.414   Some difference in word presence
+In short, flat corpora are applied to simpler, surface-level analysis, while
+annotated corpora are applied to more advanced supervised NLP tasks.
+********** 19 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper e7ba1d026b1d
 
 - Departments: Artificial Intelligence
@@ -1003,6 +1824,8 @@ large and context information is rich.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AI_7012/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (20 pages), mean OCR confidence 36.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -1343,12 +2166,10 @@ Bottom up parsing with steps-3
 Godors wp awry ti
 
 ‘ vos Hy )
-Slept Tonht words by wma” ‘ io
 =— : ver
 a Nowr vub \ cbt
 \ che ome Pet
 ; nan
-stop Growp OP saci lor
 _ Norin® wee
 \ % *
 Oe one ‘i ete atase
@@ -1357,7 +2178,6 @@ zeus avid Mar Rs arte)
 Ng NP
 aearel worn
 aie wee vib DE “
-¢ abe Seca athe rat
 y 2
 stop bak rik yin?” “nr 1°
 NP
@@ -1381,7 +2201,6 @@ Coton we “nt IM Fina
 
 ‘Se:
 
-Nowe Vthb Dor Noww
 ok che TN Monee
 
 FIC QF EH 1
@@ -1837,6 +2656,8 @@ Alternate solution for Q5b
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/MBATech_AI_7051/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2025-2026.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (20 pages), mean OCR confidence 36.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -2177,12 +2998,10 @@ Bottom up parsing with steps-3
 Godors wp awry ti
 
 ‘ vos Hy )
-Slept Tonht words by wma” ‘ io
 =— : ver
 a Nowr vub \ cbt
 \ che ome Pet
 ; nan
-stop Growp OP saci lor
 _ Norin® wee
 \ % *
 Oe one ‘i ete atase
@@ -2191,7 +3010,6 @@ zeus avid Mar Rs arte)
 Ng NP
 aearel worn
 aie wee vib DE “
-¢ abe Seca athe rat
 y 2
 stop bak rik yin?” “nr 1°
 NP
@@ -2215,7 +3033,6 @@ Coton we “nt IM Fina
 
 ‘Se:
 
-Nowe Vthb Dor Noww
 ok che TN Monee
 
 FIC QF EH 1
@@ -2670,6 +3487,8 @@ Here doc A refer Sentence A and doc B refer Sentence B
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CSE_DS_7057/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (19 pages), mean OCR confidence 36.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3010,12 +3829,10 @@ Bottom up parsing with steps-3
 Godors wp awry ti
 
 ‘ vos Hy )
-Slept Tonht words by wma” ‘ io
 =— : ver
 a Nowr vub \ cbt
 \ che ome Pet
 ; nan
-stop Growp OP saci lor
 _ Norin® wee
 \ % *
 Oe one ‘i ete atase
@@ -3024,7 +3841,6 @@ zeus avid Mar Rs arte)
 Ng NP
 aearel worn
 aie wee vib DE “
-¢ abe Seca athe rat
 y 2
 stop bak rik yin?” “nr 1°
 NP
@@ -3048,7 +3864,6 @@ Coton we “nt IM Fina
 
 ‘Se:
 
-Nowe Vthb Dor Noww
 ok che TN Monee
 
 FIC QF EH 1
@@ -3493,6 +4308,8 @@ annotated corpora are applied to more advanced supervised NLP tasks.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CS_7055/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (19 pages), mean OCR confidence 36.4
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -3833,12 +4650,10 @@ Bottom up parsing with steps-3
 Godors wp awry ti
 
 ‘ vos Hy )
-Slept Tonht words by wma” ‘ io
 =— : ver
 a Nowr vub \ cbt
 \ che ome Pet
 ; nan
-stop Growp OP saci lor
 _ Norin® wee
 \ % *
 Oe one ‘i ete atase
@@ -3847,7 +4662,6 @@ zeus avid Mar Rs arte)
 Ng NP
 aearel worn
 aie wee vib DE “
-¢ abe Seca athe rat
 y 2
 stop bak rik yin?” “nr 1°
 NP
@@ -3871,7 +4685,6 @@ Coton we “nt IM Fina
 
 ‘Se:
 
-Nowe Vthb Dor Noww
 ok che TN Monee
 
 FIC QF EH 1
@@ -10183,827 +10996,4 @@ Lemmatization → awesome, awesome, awesome
 Now, all reviews highlight the same positive feature (awesome) → classifier
 learns stronger positive signal.
 ********** 17 **********
-````
-
-## 2024-25 · Final-Exam · Sem 7 · Answer key · paper 03f12a163ddd
-
-- Departments: Computer Engineering, Data Science, Information Technology
-- Programmes: BTech CSE DS 7011, BTech IT 7001, Integrated Computer 7032, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_07/Final-Exam/BTech_IT_7001/Natural Language Processing/ANS_Natural Language Processing(702AI0C009)_2024-2025.pdf` (+3 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
-- Text: mixed (19 pages), mean OCR confidence 36.4
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
-(CS)/B. TECH (CSE - DS)/B. Tech (CSE - DS) (311)/B. Tech Intg. (CE)/B. Tech (IT)/MBA
-Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: III / IV / VI/Semester V/Semester VII/Semester XI(Exam Year: 2025-2026)
-Subject: Natural Language Processing
-Date: 02 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 19 pages.
-2. Question No. 1 is compulsory.
-3. Out of remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figure in right hand side indicates full marks
-8. Assume Suitable data if necessary.
-Q1   Answer briefly   [20]
-CO-1 ;   a.1   Differentiate between Natural Language Understanding (NLU) and [5]
-SO-1 ;   Natural Language Generation (NLG) in NLP with suitable examples.
-BL-2;   Ans:
-Natural Language   Natural Language
-Aspect
-Understanding (NLU)   Generation (NLG)
-NLU is the ability of a NLG is the ability of a
-machine to   machine to generate
-comprehend and   human-like language (text
-Definition
-interpret human   or speech) from structured
-language in a   data or internal
-meaningful way.   representations.
-To understand the
-To produce coherent and
-Purpose   meaning of the input
-meaningful text as output.
-text.
-Structured data, machine-
-Human-readable text or
-Input   readable content, or
-speech.
-semantic representation.
-Semantic
-understanding, intents, Human-readable text,
-Output   entities, sentiment, or   sentences, paragraphs, or
-meaning   conversational responses.
-representation.
-********** 1 **********
---- page 2 ---
-Named Entity
-Template-based generation,
-Recognition (NER),
-Neural Networks (like GPT
-Techniques Used Sentiment Analysis,
-models), Rule-based text
-Intent Detection,
-generation.
-Semantic Parsing.
-Input: “Book a flight to
-Example
-New York tomorrow.”
-Output: Intent =   Input: Structured data:
-BookFlight,   {“City”: “New York”,
-Destination = New “Weather”: “Sunny”,
-York, Date =   “Temperature”:
-Tomorrow.   “25°C”}
-Output: “The
-weather in New
-York is sunny
-today with a
-temperature of
-25°C.”
-CO-2,   b.   Explain the concepts of chunking and chinking in Natural Language   [5]
-SO-   Processing (NLP). Discuss how Part-of-Speech (POS) tagging supports
-BL-2   these processes, and illustrate your explanation with a suitable example.
-Ans:
-Chunking-2M
-Chinking 2M
-POS Tagging role 1M
-Sentence: “The black dog is running in the park.”
-• Chunking: Groups words → [The black dog] (NP), [the park]
-(NP).
-• Chinking: Removes unwanted words → e.g., remove in
-(preposition) from the chunk.
-POS Tagging: Provides word categories (DT, JJ, NN, etc.), which are
-used to apply chunking and chinking rules.
-CO-4,   c.5   Define hyponymy and hypernymy with suitable linguistic examples. How [5]
-SO-1   can hypernymy be applied in Word Sense Disambiguation (WSD) to
-BL-3   resolve the correct meaning of polysemous words? Provide an example?
-Ans:
-(2+2+1) = 5 Marks
-Hyponymy and Hypernymy
-Hyponymy is a semantic relation in which the meaning of one word is
-included in the meaning of another word.
-Example: rose, tulip, and lily are hyponyms of flower.
-The statement can be expressed as: “A rose is a kind of flower.”
-Hypernymy is the opposite relation: it refers to the more general word
-whose meaning includes that of more specific words.
-********** 2 **********
---- page 3 ---
-Example: flower is a hypernym of rose, tulip, and lily.
-Similarly, animal is a hypernym of dog, cat, and elephant.
-Application of Hypernymy in Word Sense Disambiguation (WSD)
-Hypernymy relations are very useful in WSD because they allow a system
-to connect ambiguous words to their broader, more general categories. By
-checking the surrounding context and mapping it to the correct hypernym,
-a system can choose the right sense of a word.
-Example: Consider the polysemous word “bank.”
-Sense 1: financial institution (hypernym = organization)
-Sense 2: river bank (hypernym = geographical feature / landform)
-If the sentence is:
-“The boy was fishing on the bank.”
-Words like fishing and river in the context point towards the hypernym
-geographical feature.
-Therefore, bank here means river bank.
-“She deposited money in the bank.”
-Context words like money and deposit map to the hypernym organization.
-Therefore, bank here means financial institution.
-In WSD, hypernymy helps map ambiguous words to their general category,
-and then context determines which sense is correct.
-CO-3;   d. 6   Compare pragmatic and discourse analysis with the help of appropriate [5]
-SO-1 ;   examples.
-BL-3   Ans: Marks Distribution-3 Marks for Comparison and 2 Marks for
-Example of each type
-Pragmatics concentrates on speaker intention and context-dependent meaning,
-whereas discourse analysis investigates how sentences and utterances are
-connected to form coherent texts and conversations. Together, they provide a
-comprehensive   understanding   of how language   functions   in   real
-communication.
-Pragmatics is the branch of linguistics that studies how meaning is shaped by
-context of use. It goes beyond the literal semantic meaning of words and
-focuses on how speakers use language to achieve communicative goals.
-Example “Can you pass the salt?” — pragmatically, this is not a question about
-ability but a request.
-Discourse analysis studies how sentences and utterances are connected to
-form larger units of meaning such as conversations, narratives, or written
-texts.   It   is concerned with cohesion (linguistic ties like reference,
-substitution, conjunctions) and coherence (logical flow of ideas in context).
-Example :“I bought a book yesterday. The book was about artificial
-intelligence.”
-********** 3 **********
---- page 4 ---
-→ The second sentence refers back to “a book” using “the book,” creating
-textual cohesion.
-Q2   a   i.   Differentiate between Morpheme and Lexeme with examples   [10]
-CO-1,4;
-SO-1;   ii.   Discuss the significance of NER in three different NLP
-BL-2,3   applications.
-Ans:
-Ans: [Marks 5+5]
-i.
-Feature   Morpheme   Lexeme
-Meaning The smallest grammatical The basic unit of lexical
-unit in a language that   meaning — represents a set
-carries meaning.   of related word forms.
-Function Deals with word structure Deals with word meaning
-(morphology).   and usage in the lexicon.
-Example   Morpheme   Lexeme
-Unhappi   Has three morphemes:   The lexeme is HAPPY,
-ness   “un-” (prefix), “happy”   which can appear as happy,
-(root), “-ness” (suffix).   happier, happiest.
-Running   Has two morphemes:   The lexeme is RUN, which
-“run” + “-ing”.   includes run, runs, ran,
-running.
-ii.
-1. Information Extraction (IE)
-Automatically extracts structured information (names, dates,
-locations, organizations) from unstructured text such as news
-articles, reports, or legal documents.
-2. Question Answering Systems (QA)
-Helps identify entities in questions and documents (e.g., “Who is
-the   CEO of Tesla?” → CEO = role, Tesla = organization).
-3. Machine Translation
-Ensures named entities like “Barack Obama” or “New Delhi”
-are   translated correctly or kept unchanged.
-4. Healthcare & Biomedical Text Mining
-Extracts entities such as patient names, diseases, medications,
-genes, or proteins from medical records and research papers.
-5. Customer Feedback & Social Media Analysis
-Identifies product names, brands, locations, or events in tweets,
-reviews, and online discussions for business intelligence.
-CO-   b   Consider the following training corpus:   [10]
-2;SO-1;   1. artists paint murals in city
-BL-3   2. musicians play songs in city
-3. painters paint murals on walls
-4. signs are near city
-********** 4 **********
---- page 5 ---
-Using a bigram language model with Laplace smoothing, evaluate the
-probability of the test sentence:
-“artists paint murals near city”
-Assume the <s> and </s> for each sentence.
-Ans:
-[ 1 mark for vocabulary + 1.5 marks each for unigram and bigram
-counts + 5 marks for Laplace smoothed probability + 1 mark for
-probability of the sentence]
-Adding start and end tokens for each sentence-
-Training corpus-
-<s> artists paint murals in city </s>
-<s> musicians play songs in city </s>
-<s> painters paint murals on walls </s>
-<s> signs are near city </s>
-Test sentence-
-<s> artists paint murals near city </s>
-Distinct tokens are:
-<s>, </s>, artists, paint, murals, in, city, musicians, play, songs,
-painters, on, walls, signs, are, near
-That gives V=16.
-Counts:
-• Unigram counts:
-o C(artists)=1
-o C(paint)=2
-o C(murals)=2
-o C(near)=1
-o C(city)=3
-o C(<s>)=4
-• Bigram counts:
-o C(<s>,artists)=1
-o C(artists,paint)=1
-o C(paint,murals)=2
-o C(murals,near)=0
-o C(near,city)=1
-o C(city,</s>)=3
-Laplace (add-one) smoothing-
-Formula:
-P+1(wi∣wi−1)=[C(wi−1,wi)+1]/[C(wi−1)+V]
-Bigram Probabilities:
-1. P(artists∣<s>)=[1+1]/[4+16]=2/20=1/10≈0.1
-2. P(paint∣artists)=[1+1]/[1+16]=2/17≈0.117647
-3. P(murals∣paint)=[2+1]/[2+16]=3/18=1/6≈0.166667
-4. P(near∣murals)=[0+1]/[2+16]=1/18≈0.0555556
-5. P(city∣near)=[1+1]/[1+16]=2/17≈0.117647
-6. P(</s>∣city)=[3+1]/[3+16]=4/19≈0.210526
-Exact fraction:
-P+1=1/10*2/17*1/6*1/18*2/17*4/19=16/5930280=2.698E-6
-Hence, the probability of the test sentence is =2.698E-6.
-********** 5 **********
---- page 6 ---
-Q3   a   i.   Explain the various types of ambiguities encountered in Natural [10]
-CO- 3,   Language Processing (NLP). Illustrate each type with suitable
-SO-, BL-   examples.
-ii.   Compare top-down and bottom-up parsing and apply bottom-up
-4
-syntax parsing approach to the sentence given below and draw a
-parse tree using the grammar rules-
-“A cat chased the mouse”
-Grammar   Lexicon
-S → NP VP   Det → {A, the}
-NP → Pronoun   Noun → {cat, mouse}
-NP → Proper-Noun   Verb → {chased}
-NP → Det Nominal
-Nominal → Noun
-Nominal → Nominal Noun
-Nominal → Nominal PP
-VP → Verb
-VP → Verb NP
-VP → VP PP
-PP → Prep NP
-Ans: Marks-5
-1. Lexical Ambiguity:
-Meaning:
-Occurs when a word has multiple possible meanings.
-Example:
-He went to the bank.
-• “bank” can mean a financial institution or the side of a river.
-Explanation:
-NLP systems must use context to decide which meaning of “bank”
-applies in the sentence.
-2. Syntactic Ambiguity (Structural Ambiguity)
-Meaning:
-Occurs when a sentence can be parsed in more than one way due to
-different grammatical structures.
-Example:
-I saw the man with the telescope.
-•   Interpretation 1: I used the telescope to see the man.
-•   Interpretation 2: The man had the telescope.
-Explanation:
-The ambiguity arises because the prepositional phrase (“with the
-telescope”) can modify either the verb saw or the noun man.
-3. Semantic Ambiguity
-Meaning:
-Occurs when the meaning of the sentence itself is unclear, even if the
-structure is fine.
-Example:
-Visiting relatives can be boring.
-********** 6 **********
---- page 7 ---
-•   Interpretation 1: The act of visiting relatives is boring.
-•   Interpretation 2: The relatives who visit are boring.
-Explanation:
-The confusion comes from whether visiting is used as a gerund (verb)
-or adjective (modifier).
-4. Pragmatic Ambiguity
-Meaning:
-Arises when the intended meaning depends on context or speaker’s
-intention rather than grammar or word meaning.
-Example:
-Can you pass the salt?
-•   Literally, it’s a question about ability.
-•   Pragmatically, it’s a request for action.
-Explanation:
-Understanding pragmatic meaning requires world knowledge and
-context.
-5. Referential Ambiguity
-Meaning:
-Occurs when a pronoun or reference word could refer to multiple
-entities.
-Example:
-John told Tom that he was late.
-• “he” could refer to John or Tom.
-Explanation:
-The ambiguity arises in anaphora (reference resolution).
-ii.
-Comparison (Any two relevant points-2M)
-Aspect   Top-Down Parsing   Bottom-Up Parsing
-Starts from the root (start   Starts from input tokens
-Parsing   symbol) and expands   and reduces toward the
-Direction   toward the input.   root.
-Expands non-terminals
-using grammar rules,   Combines tokens/phrases
-Grammar Rule   even before seeing if   only if they appear in the
-Application   input matches.   input.
-Fails or loops infinitely
-Handling Left   if grammar has left   Naturally handles left
-Recursion   recursion.   recursion without issues.
-May get stuck or need   Can face shift-reduce or
-Ambiguity   backtracking when   reduce-reduce conflicts in
-Handling   grammar is ambiguous.   ambiguous grammars.
-Ease of   Conceptually simple and More complex (needs
-Implementation   intuitive to implement.   parsing tables, stacks).
-Bottom up parsing with steps-3
-********** 7 **********
---- page 8 ---
-Godors wp awry ti
-
-‘ vos Hy )
-Slept Tonht words by wma” ‘ io
-=— : ver
-a Nowr vub \ cbt
-\ che ome Pet
-; nan
-stop Growp OP saci lor
-_ Norin® wee
-\ % *
-Oe one ‘i ete atase
-kb
-zeus avid Mar Rs arte)
-Ng NP
-aearel worn
-aie wee vib DE “
-¢ abe Seca athe rat
-y 2
-stop bak rik yin?” “nr 1°
-NP
-~~
-4 J
-My ye Nomint
-7 ; / degee
-ve
-al var mone
-
-“ unr Chock 1
-
-Shp © form cunUR tt)
-
-62 NY Ny
-
-Coton we “nt IM Fina
-
-“A Cok chuck ue we
-= a
-
-‘Se:
-
-Nowe Vthb Dor Noww
-ok che TN Monee
-
-FIC QF EH 1
---- page 9 ---
-CO-3;   b   Consider the given paragraph given below:   [10]
-SO- 1   The teacher wrote on the board. The students listened to the teacher.
-BL-4:   The board was full of notes. The student asked a question. The
-teacher answered from the book.
-Target words: teacher, student, board, book
-Context words: wrote, listened, notes, question
-i. Construct a co-occurrence matrix for the target and context words.
-Take the window size as one whole sentence.
-ii. Evaluate the similarity between the vectors of the target words
-“teacher-student” and “teacher-board” using the cosine similarity.
-Plot the target word vectors by considering only two dimensions: “wrote”
-and “notes”.
-Ans: [Marks 5+5]
-Co-occurrence matrix:
-target \ context   wrote   listened   notes
-teacher   1   1   0
-student   0   1   0
-board   1   0   1
-book   0   0   0
-Q4   a   Explain any three basic text preprocessing techniques used in Natural [10]
-CO-2;   Language Processing (NLP). Discuss the purpose of each technique and
-SO-1;   illustrate them with suitable examples.
-BL-2   Ans:[Marks-5+5]
-It is an essential step in natural language processing (NLP) that involves
-cleaning and transforming unstructured text data to prepare it for analysis.
-Text data contains noise in various forms like emoticons, punctuations, text in
-a different cases, HTML tags etc.
-********** 9 **********
---- page 10 ---
-Inadequate or low-quality data can lead to lower accuracy and effectiveness of
-the model.
-The pre-processing steps for a problem depend mainly on the domain and the
-problem itself, hence, we don’t need to apply all steps to every problem and
-also the order of applying these steps may also vary.
-Various text preprocessing steps are widely used for dimensionality reduction.
-Some of the commonly used preprocessing steps are:
-o Removing punctuations like . , ! $( ) * % @, URLs, Stop
-words
-o Lower casing
-o Normalization (some common ones)
-▪   Tokenization
-▪ Stemming
-▪ Lemmatization
-Stop word removal:
-• Stop words are a set of commonly used words in a language like “a”,
-“the”, “is”, “are” etc. in English.
-• These words do not carry important meaning and are removed from
-texts in many data science tasks.
-• The intuition behind this approach is that, by removing low
-information words from text, we can focus on the important words
-instead.
-• One of the advantages of removing stop words is that it can reduce the
-size of the dataset, which in turn reduces the training time required for
-building natural language processing models.
-• Stop word removal is commonly applied in search systems, text
-classification applications, topic modeling, topic extraction and others.
-• Stop word lists can come from pre-established sets or you can create a
-custom one for your domain. This creation may be tricky as few words
-that may not be useful in some problem statement may be important in
-others.
-Lower casing:
-•   Usually, this is the first step that is performed while pre-processing.
-•   Is a text preprocessing step where all letters in the text are converted
-to lowercase.
-•   This step is implemented so that the algorithm does not treat the same
-words differently in different situations.
-o Ex: Book and book mean the same but when not converted to
-the lower case those two are represented as two different
-words in the vector space model (resulting in more
-dimensions).
-• However, it is important to remember that some words, like “US” and
-“us”, can change meanings when reduced to the lower case. Also,
-there can be cases where the capitalization is important and has to be
-preserved. So we should avoid performing this step in such cases
-Normalization:
-• As raw text data is random, each word has a lot of variations in the form of
-tenses, superlatives, and many more.
-********** 10 **********
---- page 11 ---
-• These variations increase the complexity of the data and are difficult for the
-machine learning model to train them.
-• Text normalization reduces this complexity by reducing the text data into a
-predefined standard, hence improving the efficiency of the model.
-• Ex: Many forms of the base word collect - "collection", "collective", and
-"collectively".
-•   If we reduce the variations of a word in the raw text, there will be fewer
-input variables for our machine-learning model to deal with, thus increasing
-efficiency and avoiding false negatives.
-• Text normalization reduces the dimensionality of the input for structures
-like bag-of-words and Tf-Idf.
-• There is no correct set or list of normalization tasks that work for all
-situations.
-Few common ones used are:
-• Removal of duplicate whitespaces and punctuation.
-• Accent removal (if your data includes diacritical marks from ‘foreign’
-languages).
-•   Substitution of contractions (Ex: ‘I’m ’→‘I am’ and don’t to do not).
-• Transform word numerals into numbers (Ex: ‘twenty three’→‘23’).
-•   Substitution of values for their type (Ex: ‘$50’→‘MONEY’).
-• Acronym normalization (Ex: ‘US ’→‘United States’/‘U.S.A’) and
-abbreviation normalization (Ex: ‘btw’ → ‘by the way’).
-• Normalize date formats, social security numbers or other data that have a
-standard format.
-•   Spell correction (one could say that a word can be misspelled infinite
-ways, so spell corrections reduce the vocabulary variation by “correcting”)
-•   Substitution of rare words for more common synonyms.
-Q4   b   Consider the following POS tagged corpus. Apply Hidden Markov Model [10]
-CO-3;   (HMM) approach to
-SO-1;
-Noun   Verb   Noun
-BL-4
-1   Cat   chase   mice
-Det   Noun   Verb
-2   The   dog   runs
-Det   Noun   Verb   Noun
-3   A   cat   eats   cheese
-i.   Construct the emission probability matrix.
-ii.   Construct the transmission probability matrix.
-iii.   Calculate the probability of sequence of Events
-Det   Noun   Verb   Noun
-The   cat   eats   mice
-Note: Include start and end characters for all the sentences
-Ans:
-********** 11 **********
---- page 12 ---
-Q5   a   For the following two sentences:   [10]
-• Sentence A: “The student read a science book in the library”
-• Sentence B: “The teacher read a history book in the classroom”
-********** 12 **********
---- page 13 ---
-CO-2;   1. Construct the TF-IDF matrix for these sentences after removing
-SO-1 ;   the stop words {The, a, in}.
-BL-3;   2. Identify and comment on the important terms in each sentence
-based on their TF-IDF scores.
-Ans:[Marks 5+5]
-Term   Sentence   Sentence
-A   B
-student   0.693   0
-read   0   0
-science   0.693   0
-book   0   0
-library   0.693   0
-teacher   0   0.693
-history   0   0.693
-classroo   0   0.693
-m
-Analysis:
-For Sentence A, the unique theme is student, science, library.
-For Sentence B, the unique theme is teacher, history, classroom.
-So, it indicates that TF–IDF clearly shows that shared words don’t matter for
-separation, while unique words carry more importance.
-CO-4;   b   Consider the sentence: “The bat hit the ball hard on the cricket field.”   [10]
-SO-1BL-   Two possible senses of “bat”:
-4
-• Sense 1: Bat (Sports equipment – cricket/baseball)
-• Sense 2: Bat (Nocturnal flying mammal)
-Sentence
-Context Words   Sense (Class)
-ID
-ball, cricket, score,   Sports (Bat =
-1
-stadium   equipment)
-Animal (Bat =
-2   night, cave, wings, fly
-mammal)
-3   player, run, match, bat   Sports
-4   nocturnal, vampire, insect Animal
-5   team, field, bowl, bat   Sports
-6   dark, flying, cave, night   Animal
-a) Using the Naïve Bayes algorithm, classify the sense of “bat” in
-the given sentence Apply Laplace Smoothing wherever
-applicable.
-b) Discuss the significance of Laplace Smoothing in Naïve Bayes
-Classification.
-Ans:
-********** 13 **********
---- page 14 ---
-P(Sports)=0.5
-1 mk
-P(Animal)=0.5
-Unique words across both classes: (words: ball, cricket, score, stadium,
-player, run, match, bat, team, field, bowl, night, cave, wings, fly,
-nocturnal, vampire, insect, dark, flying) Total 20
-1
-mk
-Calculations:
-For Sports:
-2 mks
-• P(hit∣S)=(0+1)/32=1/32=0.03125
-• P(ball∣S)=(1+1)/32=2/32=0.0625
-• P(cricket∣S)=2/32=0.0625
-• P(field∣S)=2/32=0.0625
-• P(hard∣S)=1/32=0.03125
-For Animal:
-P(w∣A)=1/31≈0.03225806
-Likelihood for sports:
-2 mks
-0.5 * 0.03125*0.0625*0.0625*0.0625*0.03125 =1.19209290×10-7
-Likelihood for animal :
-1.74647163×10-8
-Classified sense: Sports equipment
-1 mk
-Laplace Smoothing:
-3 mks
-Handles problem of zero probabilities, improves robustness of
-classifier.
-Q6   a   i.   Differentiate between co-reference resolution and pronoun [10]
-CO-4;   resolution with suitable examples
-SO-1;   ii.   Explain the working principle of the Continuous Bag of Words
-BL-3   (CBOW) model and Skipgram model in Word2Vec. Illustrate
-how it predicts the target word from its surrounding context
-Ans:
-********** 14 **********
---- page 15 ---
-iii.   Marks Distribution-3 Marks for approach explanation and 2
-Marks for advantage of each type
-Co-reference resolution: task of finding all expressions in text that refer to
-the same entity. (1.5 marks)
-Example: Mary said Mary is tired. She went home. → "Mary" and "She" co-
-refer.
-Pronoun resolution: a subtask focusing only on resolving pronouns to their
-antecedents. (1.5 marks)
-Example: John met Peter when he was leaving. → "he" could refer to John or
-Peter.
-Difference: co-reference is broader (includes noun phrases, names, definite
-descriptions), while pronoun resolution is narrower.
-In Word2Vec, two main architectures are used to learn word
-embeddings:
-Continuous Bag of Words (CBOW) and
-Skip-Gram.
-Both are neural network-based models that learn to represent words as
-dense vectors based on their context in a text corpus.
-1. Continuous Bag of Words (CBOW) Model
-Working Principle:
-The CBOW model predicts the target word from its surrounding
-context words.
-It takes context words as input and tries to predict the central
-(target) word.
-The model averages (or sums) the vectors of the context words and
-passes them through a neural network to predict the target word.
-Example:-Sentence
-“The cat sat on the mat”
-If the window size = 2, and the target word is “sat”, then the context
-words are:
-["The", "cat", "on", "the"]
-The CBOW model learns:
-P(sat | The, cat, on, the)
-Intuition:
-It focuses on understanding the meaning of a word based on its
-surrounding words.
-2. Skip-Gram Model
-Working Principle:
-• The Skip-Gram model does the reverse of CBOW.
-•   It predicts the context words given a target word.
-• The target word is input, and the model learns to predict
-surrounding context words.
-Example:-Sentence:
-“The cat sat on the mat”
-If the target word is “sat” and window size = 2, then the context
-words are:
-["The", "cat", "on", "the"]
-********** 15 **********
---- page 16 ---
-The Skip-Gram model learns:
-P(The | sat), P(cat | sat), P(on | sat), P(the | sat)
-Intuition:
-It focuses on how a single word relates to its neighboring words.
-CO-3;   b   i.   Explain Hobb's Algorithm. Discuss the steps with help of example [10]
-SO-1;   and state its limitation.
-BL-4
-ii.   Sentence: Ravi met Suresh at the station after he arrived from
-Delhi.
-Using Hobbs’ algorithm, determine the most likely antecedent of
-the pronoun "he". Show the steps of traversal according to the
-algorithm
-Ans: Marks Distribution-5 Marks for approach explanation and 5 Marks
-for resolution
-i
-Hobbs’ Algorithm is a syntactic algorithm for pronoun resolution in NLP.
-It identifies possible antecedents for a pronoun by traversing a syntactic parse
-tree in a systematic manner.
-Example:
-Sentence: “When Mary saw Alice, she waved.”
-• Pronoun = she
-• Step 1: Start at NP dominating “she.”
-• Step 2: Move up to nearest S node.
-• Step 3: Traverse left branches → NPs = “Mary,” “Alice.”
-• Step 4: First candidate = Mary, chosen as antecedent.
-Limitations :
-Struggles with ambiguous cases (gender/number mismatch ignored).
-Not efficient for long, complex sentences.
-ii Sentence: “Ravi met Suresh at the station after he arrived from
-Delhi.”
-Pronoun: he
-Steps of traversal:
-1. Start at NP for “he.”
-2. Move up to nearest S node.
-3. Traverse left branches → encounter NPs: Ravi, Suresh.
-4. Candidate 1 = Ravi, Candidate 2 = Suresh.
-5. According to Hobbs’ order: Ravi is encountered first.
-Hobbs’ algorithm chooses Ravi as antecedent of “he.”
-But semantically, “Suresh” may also make sense depending on context
-→ shows limitation of Hobbs.
-Q7   a   Explain the working of text classification in Natural Language Processing [10]
-(NLP) and discuss the key steps involved in building a text classification
-********** 16 **********
---- page 17 ---
-CO-4;   system in context of real-world applications such as spam detection or
-SO-1 BL-   news categorization.
-3:   Ans:
-Text classification is the process of automatically assigning categories or
-labels to text data based on its content.
-Examples include:
-Spam filtering – Classifying emails as “spam” or “not spam.”
-News categorization – Grouping news articles into topics like sports,
-politics, or entertainment.
-Sentiment analysis – Identifying whether a review or comment is
-positive, negative, or neutral.
-Steps Involved in Text Classification
-1. Data Collection
-Gather a dataset containing text documents and their corresponding labels.
-• Example: A set of emails labeled as “spam” or “ham” (not spam).
-2. Data Preprocessing
-Prepare the text for analysis by cleaning and normalizing it. Common steps
-include:
-• Lowercasing – Convert all text to lowercase.
-• Removing noise – Punctuation, special characters, HTML tags, etc.
-•   Tokenization – Splitting text into individual words or tokens.
-•   Stop word removal – Removing common words like “the,” “is,”
-“and.”
-• Stemming/Lemmatization – Reducing words to their base or root form
-(e.g., “running” → “run”).
-3. Feature Extraction / Text Representation
-Convert the cleaned text into a numerical format that a machine learning
-model can understand. Common methods:
-• Bag of Words (BoW) – Counts the occurrence of each word in the
-document.
-• TF-IDF (Term Frequency–Inverse Document Frequency) – Weighs
-words based on their importance.
-• Word Embeddings (e.g., Word2Vec, GloVe) – Captures semantic
-meaning of words in vector form.
-•   Transformer-based embeddings (e.g., BERT) – Context-aware
-representations of text.
-4. Model Training
-Train a classification algorithm using the numerical features and their labels.
-Examples of models:
-•   Traditional ML: Naive Bayes, Logistic Regression, SVM.
-• Deep Learning: RNNs, CNNs for text, Transformers (e.g., BERT).
-5. Model Evaluation
-Evaluate the trained model using metrics such as:
-• Accuracy – Overall correctness.
-•   Precision & Recall – Useful for imbalanced datasets (e.g., spam
-detection).
-•   F1-score – Balance between precision and recall.
-6. Prediction / Deployment
-********** 17 **********
---- page 18 ---
-Use the trained model to classify new, unseen text data.
-Example: A new email arrives → model predicts “spam” or “not spam” →
-automatically sorted into the correct folder.
-7. Monitoring and Updating
-Over time, new words and patterns emerge. The model should be regularly
-retrained with updated data to maintain accuracy.
-CO-2;   b   i.   Differentiate between a flat text corpus and an annotated corpus, [10]
-SO-1 BL-   and discuss how each can be applied in various NLP tasks with
-3   suitable examples.
-ii.   Explain a real-world scenario where the Jaccard Similarity
-measure is more appropriate than Euclidean or Manhattan
-distance, and justify why Jaccard is the best choice in that case.
-Ans: [Marks 5+5]
-i. Different corpus structures are applied to different NLP tasks
-depending on the information they provide:
-Flat Text Corpus (e.g., plain .txt files):
-This type contains only raw text without labels. It can be applied to tasks
-like word frequency analysis, calculating readability scores, or
-comparing the styles of different writers. For example, one can apply it
-to study the most common words in political speeches.
-Annotated Corpus (e.g., POS-tagged or parsed text):
-This type contains extra linguistic information such as part-of-speech
-tags, named entities, or syntactic structures. It can be applied in
-supervised learning tasks such as training a Part-of-Speech tagger,
-Named Entity Recognition, or parsing models. For instance, a POS-
-tagged corpus can be used to train a model that automatically identifies
-nouns and verbs in new texts.
-ii. Jaccard similarity takes into account only the set of unique words
-for each text document. This makes it the likely candidate for
-assessing the similarity of documents when repetition is not an issue.
-Both Euclidean and cosine similarity metrics drop if an additional
-word is added to the list.
-Jaccard similarity is limited to assessing the lexical similarity of text,
-i.e., how similar documents are on a word level.
-The differentiating factor between Euclidean and Cosine measure is
-that cosine similarity is not affected by the magnitude/length of the
-feature vectors. It only considers the angle between them, making it
-ideal for comparing vectors of different lengths. (Ex: If a word
-‘senate’ occurs more frequently in doc 1 than it does in doc 2, we
-could assume that doc 1 is more related to the topic of Politics.
-However, it could also be the case that we are working with news
-articles of different lengths and word ‘senate’ probably occurred more
-in doc 1 simply because it was way longer)
-Ex:
-********** 18 **********
---- page 19 ---
-Doc 1: “I love data science and machine learning”
-Doc 2: “I love machine learning”
-Step 1: Preprocess the documents - Remove stopwords like “I”, “and”,
-etc., and lowercase everything.
-Doc 1 → ['love', 'data', 'science', 'machine', 'learning’]
-Doc 2 → ['love', 'machine', 'learning’]
-Vocabulary :['love', 'data', 'science', 'machine', 'learning']
-Jaccard
-Intersection: ['love', 'machine', 'learning'] → 3 words
-Union: ['love', 'data', 'science', 'machine', 'learning'] → 5 words
-Jaccard=3/5=0.6
-Cosine
-Vectors: Doc1 = [1, 1, 1, 1, 1] Doc2 = [1, 0, 0, 1, 1]
-Dot product = 1∗1+1∗0+1∗0+1∗1+1∗1=31∗1+1∗0+1∗0+1∗1+1∗1=3
-|A| = √(1²+1²+1²+1²+1²) = √5 ≈ 2.236
-|B| = √(1²+0²+0²+1²+1²) = √3 ≈ 1.732
-cos(θ)= 3/(2.236×1.7323) ≈ 3/3.8723 ≈0.775
-Euclidean:
-Vectors: Doc1 = [1, 1, 1, 1, 1] Doc2 = [1, 0, 0, 1, 1]
-Distance=Sqrt((1−1)2+(1−0)2+(1−0)2+(1−1)2+(1−1)2 )
-Distance= ≈1.414
-Measure   Value   Meaning
-Jaccard   0.6   60% of the words overlap
-Cosine   0.775   High similarity in word pattern
-Euclidean   1.414   Some difference in word presence
-In short, flat corpora are applied to simpler, surface-level analysis, while
-annotated corpora are applied to more advanced supervised NLP tasks.
-********** 19 **********
 ````

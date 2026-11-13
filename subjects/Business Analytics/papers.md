@@ -7019,6 +7019,1370 @@ Date
 FR ICR QA OH
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · paper 8250ce7731dd
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_Computer_7047/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025_8250ce7731.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (39 pages), mean OCR confidence 83.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
+Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Business Analytics
+Date: 08 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 39 pages.
+2. Question No. 1 is compulsory
+3. A attempt any 4 questions out of remaining 6 questions
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+6. Assume Suitable data if necessary.
+Q1   [20
+Answer briefly:
+]
+CO-   a
+1;   .   Discuss the importance of data visualization in business analytics. What are the principles of
+BL-   effective visualization? Explain how poor visualization can lead to misinterpretation of data.   [5]
+Und
+erst
+and
+CO- b
+1;   .
+BL-   Critically evaluate the trade-off between prediction accuracy and model interpretability. In
+Und   what business situations would you prioritize interpretability over accuracy and vice versa?   [5]
+erst
+and,
+appl
+y
+CO-   c
+1,2;   .
+BL-   Differentiate between regression and classification problems in detail. Discuss the types of
+business problems suited for each and explain how model performance is evaluated in both
+Und
+cases.   [5]
+erst
+and,
+appl
+y
+CO- d Explain the bias-variance trade-off in the context of machine learning models. How does it
+2,3;   .   impact model performance? Discuss techniques to achieve an optimal balance.
+BL-   [5]
+Und
+erst
+********** 1 **********
+--- page 2 ---
+and,
+appl
+y
+A university conducted a study to predict students’ final exam marks.
+Y = Final exam marks
+X1 = Study hours per week
+X2 = Attendance percentage
+X3 = Sleep hours per day
+X4 = Social media usage hours per day
+A multiple regression analysis was conducted and the results are given below.
+Q2
+CO-
+1,2,
+3;
+BL-   [2
+Appl   0]
+y,
+Anal
+yse,
+Eval
+uate
+********** 2 **********
+--- page 3 ---
+Variables Entered/Removed*
+
+Variables Variables
+Model Entered Removed Method
+
+1 ‘Study_Hours Stepwise
+(Criteria:
+Probability-of-
+F-to-enter <=
+050,
+Probability-of-
+F-to-remove
+>= 100).
+
+2 Attendance_P Stepwise
+ercent (Criteria:
+
+Probability-of
+F-to-enter <= .
+050,
+Probability-of-
+F-to-remove
+>= 100).
+
+3 SocialMedia_ Stepwise
+Hours (Criteria:
+
+Probability-of-
+F-to-enter <= .
+050,
+Probability-of
+F-to-remove
+>= 100).
+
+a. Dependent Variable: Final_Marks
+
+Model Summary4
+
+Adjusted R Std. Error of Durbin-
+Model R R Square Square the Estimate Watson
+
+1 583" 339 334 11.09510363
+2 667° 445 437 = 10.20519613
+3 .700° 490 477 = 9.830630244 2.305
+
+a. Predictors: (Constant), Study_Hours
+
+b. Predictors: (Constant), Study_Hours, Attendance_Percent
+
+c. Predictors: (Constant), Study_Hours, Attendance_Percent,
+SocialMedia_Hours
+
+d. Dependent Variable: Final_Marks
+
+ANOVA*
+Sum of
+Model Squares df Mean Square F Sig.
+1 Regression 8029.814 1 8029.814 65.229 <.001°
+Residual 15633.868 127 123.101
+Total 23663.682 128
+2 Regression 10541.282 2 §270.641 50.608 <.001°
+Residual 13122.400 126 104.146
+Total 23663.682 128
+3 Regression 11583.521 3 3861.174 39.954 <.001¢
+Residual 12080.161 125 96.641
+Total 23663.682 128
+
+a. Dependent Variable: Final_Marks
+
+b. Predictors: (Constant), Study_Hours
+
+c. Predictors: (Constant), Study_Hours, Attendance_Percent
+
+d. Predictors: (Constant), Study_Hours, Attendance_Percent, SocialMedia_Hours
+
+--- page 4 ---
+20
+
+Coefficients*
+
+Standardized
+Unstandardized Coefficients Coefficients
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 66.078 2.903 22.759 <.001
+‘Study_Hours 1.267 157 583 8.076 <.001
+2 (Constant) 18.714 10.008 1.870 064
+Study_Hours 1.312 145 603 9.072 <.001
+Attendance_Percent 566 115 326 4911 <.001
+3 (Constant) 29.869 10.222 2.922 004
+Study_Hours 1.350 140 620 9657 <.001
+Attendance_Percent 493 113 285 4.358 <.001
+SocialMedia_Hours 1.881 573 7.216 -3.284 001
+
+a. Dependent Variable: Final_Marks
+
+Excluded Variables*
+
+Collinearity
+
+Partial Statistics
+
+Model Beta In t Sig. Correlation Tolerance
+1 Attendance_Percent 326” 4.911 <.001 401 .996
+Sleep_Hours 064” 884 378 079 999
+SocialMedia_Hours -271" 3.944 <.001 -.332 991
+2 Sleep_Hours 135° 2.017 046 A78 959
+SocialMedia_Hours -.215° 3.284 001 -.282 954
+«| Sleep_Hours 1064 1.620 108 144 938
+
+a. Dependent Variable: Final_Marks
+
+b. Predictors in the Model: (Constant), Study_Hours
+
+c. Predictors in the Model: (Constant), Study_Hours, Attendance_Percent
+
+d. Predictors in the Model: (Constant), Study_Hours, Attendance_Percent, SocialMedia_Hours
+
+Residuals Statistics®
+
+Minimum Maximum. Mean Std. Deviation N
+Predicted Value 60.02742386 112.0335312 88.19522079 9.449131430 132
+Residual -23.7749538   26.88501930 1124894612 9.753562300 132
+Std. Predicted Value -2.957 2.510 004 993 132
+Std. Residual -2.418 2.735 011 992 132
+
+a. Dependent Variable: Final_Marks
+
+Histogram
+Dependent Variable: Final_Marks
+
+Mean = 0.01
+Std. Dev. = 0.992
+N=132
+
+2 4 0 1 2 3
+
+Regression Standardized Residual
+
+FIR 7) kkk ot i ack ak
+--- page 5 ---
+Answer the following questions:
+a) Which model was applied, and why? (2 Marks)
+b) State the multiple regression equation. (3 Marks)
+c) Interpret the meaning of each regression coefficient. (3 Marks)
+d) Can the regression equation be used for prediction? Explain. (5 Marks)
+e) Determine the coefficient of multiple determination and interpret its meaning. (3
+Marks)
+f) Predict exam marks for the following values of independent variables. (4 Marks)
+X1   X2   X3   X4
+20   85   7   3
+Q3
+A healthcare organization wants to understand the key factors influencing patient   [2
+CO-
+perception of hospital services and facilities. A survey was conducted among 100 patients,
+1,2,   0]
+and responses were collected on a 5-point Likert scale:
+3;
+********** 5 **********
+--- page 6 ---
+BL-
+(1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree)
+Appl
+y
+Variables: Doctor Competence (DC), Nursing Care (NC), Medical Equipment (ME), Hospital
+Eval
+Cleanliness (HC), Treatment Cost Fairness (TC), Complaint Resolution (CR), Waiting Time
+uate
+Management (WT), Overall Satisfaction (OS)
+,
+SPSS Output:
+crea
+KMO and Bartlett's Test
+te
+Kaiser-Meyer-Olkin Measure of Sampling Adequacy.   .692
+Bartlett's Test of Sphericity   Approx. Chi-Square   335.988
+df   28
+Sig.   .000
+Anti-image Matrices
+Treatment   Waiting
+Doctor   Medical   Hospital   Cost   Time   Overall
+Competence Nursing Care Equipment   Cleanliness Fairness   Complaint   Managem Satisfaction
+(DC)   (NC)   (ME)   (HC)   (TC)   Resolution (CR) ent (WT) (OS)
+Anti-   Doctor   .415   -.141   -.178   -.007   -.004   -.001   -.003   -.013
+image Compet
+Covari   ence
+ance   (DC)
+Nursing   -.141   .431   -.174   -.025   .016   .001   -.013   .008
+Care
+(NC)
+Medical   -.178   -.174   .365   .037   -.067   .020   .035   -.027
+Equipm
+ent
+(ME)
+Hospita   -.007   -.025   .037   .428   -.126   -.163   .098   -.038
+l
+Cleanli
+ness
+(HC)
+Treatm   -.004   .016   -.067   -.126   .370   -.187   -.069   .030
+ent
+Cost
+Fairnes
+s (TC)
+Compla   -.001   .001   .020   -.163   -.187   .356   .001   -.014
+int
+Resolut
+ion
+(CR)
+********** 6 **********
+--- page 7 ---
+Waiting   -.003   -.013   .035   .098   -.069   .001   .532   -.359
+Time
+Manag
+ement
+(WT)
+Overall   -.013   .008   -.027   -.038   .030   -.014   -.359   .551
+Satisfa
+ction
+(OS)
+Anti-   Doctor   .767a   -.333   -.458   -.018   -.009   -.003   -.006   -.027
+image Compet
+Correl   ence
+ation   (DC)
+Nursing   -.333   .769a   -.438   -.059   .040   .003   -.028   .017
+Care
+(NC)
+Medical   -.458   -.438   .710a   .094   -.182   .056   .080   -.060
+Equipm
+ent
+(ME)
+Hospita   -.018   -.059   .094   .746a   -.317   -.417   .206   -.078
+l
+Cleanli
+ness
+(HC)
+Treatm   -.009   .040   -.182   -.317   .725a   -.515   -.155   .065
+ent
+Cost
+Fairnes
+s (TC)
+Compla   -.003   .003   .056   -.417   -.515   .711a   .002   -.032
+int
+Resolut
+ion
+(CR)
+Waiting   -.006   -.028   .080   .206   -.155   .002   .570a   -.663
+Time
+Manag
+ement
+(WT)
+Overall   -.027   .017   -.060   -.078   .065   -.032   -.663   .505a
+Satisfa
+ction
+(OS)
+********** 7 **********
+--- page 8 ---
+a. Measures of Sampling Adequacy(MSA)
+Communalities
+Initial   Extraction
+Doctor Competence (DC)   .585   .692
+Nursing Care (NC)   .569   .666
+Medical Equipment (ME)   .635   .773
+Hospital Cleanliness (HC)   .572   .651
+Treatment Cost Fairness (TC)   .630   .720
+Complaint Resolution (CR)   .644   .795
+Waiting Time Management
+(WT)   .468   .790
+Overall Satisfaction (OS)   .449   .558
+Extraction Method: Principal Axis Factoring.
+Total Variance Explained
+Extraction Sums of Squared   Rotation Sums of Squared
+Initial Eigenvalues   Loadings   Loadings
+Facto   % of   Cumulativ   % of   Cumulativ   % of   Cumulative
+r   Total   Variance   e %   Total   Variance   e %   Total   Variance   %
+1   2.813   35.157   35.157   2.530   31.624   31.624   2.144   26.794   26.794
+2   2.060   25.745   60.903   1.777   22.214   53.838   2.142   26.772   53.566
+3   1.650   20.621   81.524   1.336   16.704   70.542   1.358   16.976   70.542
+4   .385   4.807   86.330
+5   .325   4.059   90.390
+6   .295   3.682   94.071
+7   .255   3.193   97.264
+8   .219   2.736   100.000
+Extraction Method: Principal Axis Factoring.
+********** 8 **********
+--- page 9 ---
+Factor Matrixa
+Factor
+1   2   3
+Doctor Competence (DC)   .645   .515   -.102
+Nursing Care (NC)   .624   .512   -.120
+Medical Equipment (ME)   .680   .543   -.128
+Hospital Cleanliness (HC)   .578   -.560   -.051
+Treatment Cost Fairness (TC)   .700   -.472   .083
+Complaint Resolution (CR)   .644   -.613   .066
+Waiting Time Management
+(WT)   .063   .156   .873
+Overall Satisfaction (OS)   .140   .136   .721
+Extraction Method: Principal Axis Factoring.
+a. Attempted to extract 3 factors. More than 25 iterations required.
+(Convergence=.005). Extraction was terminated.
+Rotated Factor Matrixa
+Factor
+1   2   3
+Doctor Competence (DC)   .827   .077   .042
+Nursing Care (NC)   .813   .063   .022
+Medical Equipment (ME)   .875   .079   .024
+Hospital Cleanliness (HC)   .039   .802   -.082
+Treatment Cost Fairness (TC)   .161   .829   .075
+Complaint Resolution (CR)   .029   .891   .031
+Waiting Time Management
+(WT)   -.004   -.028   .888
+Overall Satisfaction (OS)   .064   .034   .743
+Extraction Method: Principal Axis Factoring.
+Rotation Method: Varimax with Kaiser Normalization.
+a. Rotation converged in 4 iterations.
+Factor Transformation Matrix
+Factor   1   2   3
+1   .711   .697   .096
+2   .681   -.716   .156
+3   -.178   .046   .983
+Extraction Method: Principal Axis Factoring.
+Rotation Method: Varimax with Kaiser Normalization.
+Answer following questions:
+a) Is factor analysis appropriate for this dataset? Justify. (4)
+********** 9 **********
+--- page 10 ---
+b) What will you conclude from Anti-image correlation matrix? (2)
+c) How many factors would you retain? What is the total variance explained by the
+retained factors. (4)
+d) Name the factors. (4)
+e) Which variable has the highest loading on each factor? (2)
+f)   Is there any variable that should be removed? Justify. (2)
+g) Which factor appears to be the most important in influencing patient perception? (2)
+a
+A company predicts whether an employee will Leave or Stay based on Experience
+(years) and Job Satisfaction (score).
+Q4   Employee   Experience   Satisfaction   Class
+E1   4   7   Stay
+CO-   E2   6   7   Stay
+1,2,   E3   5   5   Leave
+E4   7   6   Stay
+3;
+E5   3   6   Leave
+BL-   E6   8   7   Stay
+[1
+Appl   E7   4   5   Leave
+E8   6   8   Stay   0]
+y,   E9   3   4   Leave
+Anal   E10   7   8   Stay
+New employee:
+yse,
+Eval   Experience = 5
+uate   Satisfaction = 6
+Using Euclidean distance, classify using KNN for following K:
+a) k = 3
+b) k = 5
+Q4   b The data set is described in the columns correspond to the following independent
+CO-   variables. X1: X2, X3, X4, X5, X6, X7 which represents features of usage of a product and
+X8 as dependent variable coded as 1 for rejection and 0 for acceptance of the
+1,2,
+product.
+3;   There is a need to develop a model that would predict whether customer would [1
+BL-   accept or reject the product based on the features of the products described in the 0]
+variables X1 through X7. Answer following questions based on the output
+Appl
+y,   a) To predict the model, identify the multivariate technique used with the
+justification of using the same.
+Anal   b) Write out the best fitted functional form of the model.
+********** 10 **********
+--- page 11 ---
+yse,   c) How would you assess the model? State the test statistic /s used to test the
+accuracy of the model?
+Eval
+d) Interpret the classification table?
+uate   e) Rank the discriminating variables and state the most and the least important
+one which classifies the note as genuine and counterfeit. On what basis you
+will rank the discriminating variables?
+Output
+Analysis Case Processing Summary
+Unweighted Cases   N   Percent
+Valid   210   100.0
+Excluded   Missing or out-of-range   0   .0
+group codes
+At least one missing   0   .0
+discriminating variable
+Both missing or out-of-   0   .0
+range group codes and at
+least one missing
+discriminating variable
+Total   0   .0
+Total   210   100.0
+Tests of Equality of Group Means
+Wilks' Lambda   F   df1   df2   Sig.
+x1   .984   3.301   1   208   .071
+x2   .979   4.394   1   208   .037
+x3   .926   16.633   1   208   .000
+x4   .963   8.024   1   208   .005
+x5   .999   .143   1   208   .706
+x6   .763   64.625   1   208   .000
+x7   .786   56.671   1   208   .000
+Analysis 1
+Box's Test of Equality of Covariance Matrices
+Log Determinants
+x9   Rank   Log Determinant
+.00   3   -6.662
+1.00   3   -5.649
+Pooled within-groups   3   -5.692
+The ranks and natural logarithms of determinants printed
+are those of the group covariance matrices.
+Test Results
+Box's M   61.024
+********** 11 **********
+--- page 12 ---
+F   Approx.   9.984
+df1   6
+df2   126122.123
+Sig.   .000
+Tests null hypothesis of equal
+population covariance matrices.
+Variables Entered/Removeda,b,c,d
+Wilks' Lambda
+Exact F
+Step   Entered   Statistic   df1   df2   df3   Statistic   df1   df2   Sig.
+1   x6   .763   1   1   208.000   64.625   1   208.000   .000
+2   x7   .544   2   1   208.000   86.832   2   207.000   .000
+3   x4   .299   3   1   208.000   161.247   3   206.000   .000
+At each step, the variable that minimizes the overall Wilks' Lambda is entered.
+a. Maximum number of steps is 14.
+b. Minimum partial F to enter is 3.84.
+c. Maximum partial F to remove is 2.71.
+d. F level, tolerance, or VIN insufficient for further computation.
+Variables in the Analysis
+Step   Tolerance   F to Remove   Wilks' Lambda
+1   x6   1.000   64.625
+2   x6   .907   92.157   .786
+x7   .907   83.429   .763
+3   x6   .904   32.937   .346
+x7   .059   266.003   .684
+x4   .059   169.073   .544
+Variables Not in the Analysis
+Step   Tolerance   Min. Tolerance   F to Enter   Wilks' Lambda
+0   x1   1.000   1.000   3.301   .984
+x2   1.000   1.000   4.394   .979
+x3   1.000   1.000   16.633   .926
+x4   1.000   1.000   8.024   .963
+x5   1.000   1.000   .143   .999
+x6   1.000   1.000   64.625   .763
+x7   1.000   1.000   56.671   .786
+1   x1   .888   .888   17.405   .704
+x2   .889   .889   19.411   .698
+x3   .944   .944   3.806   .749
+x4   .904   .904   23.787   .684
+x5   .904   .904   6.927   .738
+********** 12 **********
+--- page 13 ---
+x7   .907   .907   83.429   .544
+2   x1   .157   .157   67.813   .409
+x2   .115   .115   93.008   .375
+x3   .816   .783   23.232   .489
+x4   .059   .059   169.073   .299
+x5   .305   .305   48.516   .440
+3   x1   .093   .035   .005   .299
+x2   .052   .027   .001   .299
+x3   .785   .057   3.018   .294
+x5   .234   .046   .362   .298
+Wilks' Lambda
+Exact F
+Number of Lambd   Statisti
+Step   Variables   a   df1   df2   df3   c   df1   df2   Sig.
+1   1   .763   1   1   208 64.625   1 208.00   .000
+0
+2   2   .544   2   1   208 86.832   2 207.00   .000
+0
+3   3   .299   3   1   208 161.24   3 206.00   .000
+7   0
+Summary of Canonical Discriminant Functions
+Eigenvalues
+Canonical
+Function   Eigenvalue   % of Variance   Cumulative %   Correlation
+1   2.348a   100.0   100.0   .837
+a. First 1 canonical discriminant functions were used in the analysis.
+Wilks' Lambda
+Test of Function(s)   Wilks' Lambda   Chi-square   df   Sig.
+1   .299   249.543   3   .000
+Standardized
+Canonical
+Discriminant
+Function
+Coefficients
+Function
+1
+x4   -3.294
+x6   .466
+x7   3.677
+Functions at
+Group Centroids
+x9   Function
+********** 13 **********
+--- page 14 ---
+1
+.00   -2.157
+1.00   1.078
+Unstandardized
+canonical
+discriminant
+functions evaluated
+at group means
+Classification Statistics
+Classification Resultsa
+Predicted Group Membership
+x9   .00   1.00   Total
+Original   Count   .00   66   4   70
+1.00   7   133   140
+%   .00   94.3   5.7   100.0
+1.00   5.0   95.0   100.0
+a. 94.8% of original grouped cases correctly classified.
+Q5   a
+CO-
+1,2,
+3;   A hypothetical data set in which falling down (0 = not falling, 1 = falling) on a ski run is tested
+BL-   against the difficulty of the run (on an ordered scale from 1 to 3, treated as if continuous) and
+[1
+Appl   the season (a categorical variable where 1 = autumn, 2 = winter, and 3 = spring). It is required
+to develop a model which can predict the falling down on a ski run based on the difficulty of 5]
+y,
+the run and season.
+Anal
+Output
+yse,
+Eval
+uate
+********** 14 **********
+--- page 15 ---
+Logistic Regression
+
+Case Processing Summary
+
+Unweighted Cases N Percent
+Selected Cases Included in Analysis 15 100.0
+Missing Cases 0 0
+Total 15 100.0
+Unselected Cases 0 0
+Total 15 100.0
+
+a. If weight is in effect, see classification table for the total
+number of cases.
+
+Dependent Variable Encoding
+
+Original Value Internal Value
+
+0 0
+1 1
+
+Categorical Variables Codings
+
+Parameter coding
+
+Frequency | (1) (2)
+SEASON 1 5 1.000 .000
+2 6 .000 1.000
+3 4 .000 .000
+
+Block 1: Method = Enter
+Omnibus Tests of Model Coefficients
+
+Chi-square df Sig.
+Step 1 Step 2.710 3 439
+Block 2.710 3 439
+Model 2.710 3 439
+
+FAC OR CC 7] eae ek ak
+--- page 16 ---
+Answer the following questions referring the output mentioned above.
+a) Write down the model in equation form.
+b) Is it possible to assess the model? If yes then identify the test statistic /s used to test
+accuracy of the model?
+c) Interpret the classification table.
+b A study was conducted to understand SALES PERFORMANCE (Monthly sales in ₹ thousands)
+based on the following parameters:
+• TRAINING SESSIONS (Number of training sessions attended per month)
+• SALES EXPERIENCE (Years of experience in sales)
+• CUSTOMER INTERACTION (Average number of customer interactions per day)
+• ADMINISTRATIVE TIME (Hours spent on non-selling activities daily)
+Cook’s Distance was calculated for the data and is given in the following table. Identify
+Q5   outliers, if present, in the data with proper justification. Only mention S.No. of the outliers.
+S.No.   Cook’s Distance
+CO-;   1   0.00185   [5]
+SO-;   2   0.01247
+3   0.00096
+BL-   4   0.00278
+5   0.00563
+6   0.00112
+7   0.00845
+8   0.01123
+9   0.00214
+10   0.01678
+11   0.02245
+12   0.03890
+13   0.00312
+14   0.01967
+********** 16 **********
+--- page 17 ---
+15   0.06945
+16   0.00088
+17   0.15278
+18   0.14034
+19   0.01356
+20   0.16523
+21   0.07654
+22   0.02467
+23   0.00789
+24   0.00934
+25   0.00547
+26   0.01012
+27   0.00105
+28   0.00476
+29   0.00058
+30   0.00201
+An automobile company wants to understand the preferences of potential car buyers
+to design better marketing strategies and product positioning. The company is
+particularly interested in how customers trade off between price, performance, and
+luxury.
+A survey was conducted among 15 potential buyers, who rated their preferences on
+a scale of 1 to 9 across the following variables:
+•   Price Sensitivity
+• Mileage Importance
+Q6   • Brand Value
+•   Safety Features
+CO-   • Luxury Preference
+• Resale Value
+1,2,
+3;   Cluster analysis using Ward’s method has been performed.
+BL-   The objective is to:
+[2
+Appl
+• Segment customers based on buying behavior   0]
+y,   •   Identify premium vs economy segments
+• Support product positioning decisions
+Anal
+yse,   The results of the cluster analysis are provided.
+Eval
+uate
+Cluster
+Ward Linkage
+Agglomeration Schedule
+Stage Cluster First
+Cluster Combined   Appears   Next Stage
+Stage   Cluster 1   Cluster 2 Coefficients Cluster 1   Cluster 2
+1   4   16   .169   0   0   12
+2   18   30   .342   0   0   11
+********** 17 **********
+--- page 18 ---
+3   13   25   .516   0   0   5
+4   20   23   .689   0   0   18
+5   7   13   .986   0   3   14
+6   3   6   1.344   0   0   11
+7   12   24   1.713   0   0   19
+8   11   29   2.137   0   0   16
+9   15   27   2.566   0   0   19
+10   10   28   3.104   0   0   23
+11   3   18   3.750   6   2   20
+12   1   4   4.406   0   1   17
+13   2   5   5.198   0   0   24
+14   7   19   6.103   5   0   25
+15   14   17   7.010   0   0   22
+16   11   26   8.036   8   0   24
+17   1   22   9.215   12   0   23
+18   8   20   10.483   0   4   22
+19   12   15   11.888   7   9   21
+20   3   9   13.488   11   0   26
+21   12   21   15.592   19   0   26
+22   8   14   17.931   18   15   27
+23   1   10   20.809   17   10   25
+24   2   11   23.800   13   16   27
+25   1   7   27.801   23   14   28
+26   3   12   33.891   20   21   28
+27   2   8   41.843   24   22   29
+28   1   3   60.886   25   26   29
+29   1   2   174.000   28   27   0
+Cluster Membership
+Case   5 Clusters 4 Clusters 3 Clusters   2 Clusters
+1:Case 1   1   1   1   1
+2:Case 2   2   2   2   2
+3:Case 3   3   3   3   1
+4:Case 4   1   1   1   1
+5:Case 5   2   2   2   2
+6:Case 6   3   3   3   1
+7:Case 7   1   1   1   1
+8:Case 8   4   4   2   2
+9:Case 9   3   3   3   1
+10:Case 10   1   1   1   1
+********** 18 **********
+--- page 19 ---
+11:Case 11   2   2   2   2
+12:Case 12   5   3   3   1
+13:Case 13   1   1   1   1
+14:Case 14   4   4   2   2
+15:Case 15   5   3   3   1
+16:Case 16   1   1   1   1
+17:Case 17   4   4   2   2
+18:Case 18   3   3   3   1
+19:Case 19   1   1   1   1
+20:Case 20   4   4   2   2
+21:Case 21   5   3   3   1
+22:Case 22   1   1   1   1
+23:Case 23   4   4   2   2
+24:Case 24   5   3   3   1
+25:Case 25   1   1   1   1
+26:Case 26   2   2   2   2
+27:Case 27   5   3   3   1
+28:Case 28   1   1   1   1
+29:Case 29   2   2   2   2
+30:Case 30   3   3   3   1
+********** 19 **********
+--- page 20 ---
+Oneway
+Descriptives
+95% Confidence
+Interval for Mean
+Std.   Std.   Lower   Upper
+N   Mean   Deviation   Error   Bound   Bound   Minimum Maximum
+Pri 1   10   8.30   .823   .260   7.71   8.89   7   9
+ce 2   5   2.60   .548   .245   1.92   3.28   2   3
+3   5   6.00   1.000   .447   4.76   7.24   5   7
+4   5   3.20   .447   .200   2.64   3.76   3   4
+5   5   6.00   .707   .316   5.12   6.88   5   7
+Total   30   5.73   2.363   .431   4.85   6.62   2   9
+Mil 1   10   9.30   .675   .213   8.82   9.78   8   10
+ea 2   5   4.00   1.000   .447   2.76   5.24   3   5
+ge 3   5   7.00   .000   .000   7.00   7.00   7   7
+4   5   3.40   .548   .245   2.72   4.08   3   4
+5   5   7.00   .707   .316   6.12   7.88   6   8
+Total   30   6.67   2.426   .443   5.76   7.57   3   10
+********** 20 **********
+--- page 21 ---
+Bra 1   10   6.30   .675   .213   5.82   6.78   5   7
+nd 2   5   7.00   .000   .000   7.00   7.00   7   7
+3   5   6.00   .000   .000   6.00   6.00   6   6
+4   5   8.40   .548   .245   7.72   9.08   8   9
+5   5   7.40   .548   .245   6.72   8.08   7   8
+Total   30   6.90   .960   .175   6.54   7.26   5   9
+Saf 1   10   7.80   .422   .133   7.50   8.10   7   8
+ety 2   5   5.80   .837   .374   4.76   6.84   5   7
+3   5   6.80   .447   .200   6.24   7.36   6   7
+4   5   6.60   .548   .245   5.92   7.28   6   7
+5   5   7.20   .447   .200   6.64   7.76   7   8
+Total   30   7.00   .871   .159   6.67   7.33   5   8
+Lux 1   10   3.10   .738   .233   2.57   3.63   2   4
+ury 2   5   8.40   .548   .245   7.72   9.08   8   9
+3   5   5.00   .707   .316   4.12   5.88   4   6
+4   5   9.00   .707   .316   8.12   9.88   8   10
+5   5   5.20   .447   .200   4.64   5.76   5   6
+Total   30   5.63   2.442   .446   4.72   6.55   2   10
+Re 1   10   6.90   .568   .180   6.49   7.31   6   8
+sal 2   5   4.20   .447   .200   3.64   4.76   4   5
+e   3   5   6.40   .548   .245   5.72   7.08   6   7
+4   5   4.00   .707   .316   3.12   4.88   3   5
+5   5   6.00   .707   .316   5.12   6.88   5   7
+Total   30   5.73   1.337   .244   5.23   6.23   3   8
+ANOVA
+Sum of   Mean
+Squares   df   Square   F   Sig.
+Price   Between   147.767   4   36.942   65.499   .000
+Groups
+Within   14.100   25   .564
+Groups
+Total   161.867   29
+Mileag Between   159.367   4   39.842   88.145   .000
+e   Groups
+Within   11.300   25   .452
+Groups
+Total   170.667   29
+Brand Between   20.200   4   5.050   19.423   .000
+Groups
+********** 21 **********
+--- page 22 ---
+Within   6.500   25   .260
+Groups
+Total   26.700   29
+Safety Between   14.800   4   3.700   12.847   .000
+Groups
+Within   7.200   25   .288
+Groups
+Total   22.000   29
+Luxury Between   162.067   4   40.517   92.928   .000
+Groups
+Within   10.900   25   .436
+Groups
+Total   172.967   29
+Resale Between   42.967   4   10.742   30.173   .000
+Groups
+Within   8.900   25   .356
+Groups
+Total   51.867   29
+Oneway
+Descriptives
+95% Confidence
+Interval for Mean
+Std.   Std.   Lower   Upper
+N   Mean   Deviation   Error   Bound   Bound   Minimum   Maximum
+Price 1   10   8.30   .823   .260   7.71   8.89   7   9
+2   5   2.60   .548   .245   1.92   3.28   2   3
+3   10   6.00   .816   .258   5.42   6.58   5   7
+4   5   3.20   .447   .200   2.64   3.76   3   4
+Total   30   5.73   2.363   .431   4.85   6.62   2   9
+Mile 1   10   9.30   .675   .213   8.82   9.78   8   10
+age   2   5   4.00   1.000   .447   2.76   5.24   3   5
+3   10   7.00   .471   .149   6.66   7.34   6   8
+4   5   3.40   .548   .245   2.72   4.08   3   4
+Total   30   6.67   2.426   .443   5.76   7.57   3   10
+Bran 1   10   6.30   .675   .213   5.82   6.78   5   7
+d   2   5   7.00   .000   .000   7.00   7.00   7   7
+3   10   6.70   .823   .260   6.11   7.29   6   8
+4   5   8.40   .548   .245   7.72   9.08   8   9
+Total   30   6.90   .960   .175   6.54   7.26   5   9
+1   10   7.80   .422   .133   7.50   8.10   7   8
+********** 22 **********
+--- page 23 ---
+Safet 2   5   5.80   .837   .374   4.76   6.84   5   7
+y   3   10   7.00   .471   .149   6.66   7.34   6   8
+4   5   6.60   .548   .245   5.92   7.28   6   7
+Total   30   7.00   .871   .159   6.67   7.33   5   8
+Luxu 1   10   3.10   .738   .233   2.57   3.63   2   4
+ry   2   5   8.40   .548   .245   7.72   9.08   8   9
+3   10   5.10   .568   .180   4.69   5.51   4   6
+4   5   9.00   .707   .316   8.12   9.88   8   10
+Total   30   5.63   2.442   .446   4.72   6.55   2   10
+Resa 1   10   6.90   .568   .180   6.49   7.31   6   8
+le   2   5   4.20   .447   .200   3.64   4.76   4   5
+3   10   6.20   .632   .200   5.75   6.65   5   7
+4   5   4.00   .707   .316   3.12   4.88   3   5
+Total   30   5.73   1.337   .244   5.23   6.23   3   8
+ANOVA
+Sum of   Mean
+Squares   df   Square   F   Sig.
+Price   Between   147.767   3   49.256   90.82   .000
+Groups   6
+Within   14.100   26   .542
+Groups
+Total   161.867   29
+Mileage Between   159.367   3   53.122   122.2   .000
+Groups   28
+Within   11.300   26   .435
+Groups
+Total   170.667   29
+Brand   Between   15.300   3   5.100   11.63   .000
+Groups   2
+Within   11.400   26   .438
+Groups
+Total   26.700   29
+Safety   Between   14.400   3   4.800   16.42   .000
+Groups   1
+Within   7.600   26   .292
+Groups
+Total   22.000   29
+Luxury   Between   161.967   3   53.989   127.6   .000
+Groups   10
+********** 23 **********
+--- page 24 ---
+Within   11.000   26   .423
+Groups
+Total   172.967   29
+Resale   Between   42.567   3   14.189   39.66   .000
+Groups   8
+Within   9.300   26   .358
+Groups
+Total   51.867   29
+Oneway
+Descriptives
+95% Confidence Interval for
+Std.   Std.   Mean
+N   Mean   Deviation   Error Lower Bound Upper Bound Minimum Maximum
+Price 1   10   8.30   .823   .260   7.71   8.89   7   9
+2   10   2.90   .568   .180   2.49   3.31   2   4
+3   10   6.00   .816   .258   5.42   6.58   5   7
+Total   30   5.73   2.363   .431   4.85   6.62   2   9
+Mile 1   10   9.30   .675   .213   8.82   9.78   8   10
+age   2   10   3.70   .823   .260   3.11   4.29   3   5
+3   10   7.00   .471   .149   6.66   7.34   6   8
+Total   30   6.67   2.426   .443   5.76   7.57   3   10
+Bran 1   10   6.30   .675   .213   5.82   6.78   5   7
+d   2   10   7.70   .823   .260   7.11   8.29   7   9
+3   10   6.70   .823   .260   6.11   7.29   6   8
+Total   30   6.90   .960   .175   6.54   7.26   5   9
+Safet 1   10   7.80   .422   .133   7.50   8.10   7   8
+y   2   10   6.20   .789   .249   5.64   6.76   5   7
+3   10   7.00   .471   .149   6.66   7.34   6   8
+Total   30   7.00   .871   .159   6.67   7.33   5   8
+Luxu 1   10   3.10   .738   .233   2.57   3.63   2   4
+ry   2   10   8.70   .675   .213   8.22   9.18   8   10
+3   10   5.10   .568   .180   4.69   5.51   4   6
+Total   30   5.63   2.442   .446   4.72   6.55   2   10
+Resa 1   10   6.90   .568   .180   6.49   7.31   6   8
+le   2   10   4.10   .568   .180   3.69   4.51   3   5
+3   10   6.20   .632   .200   5.75   6.65   5   7
+Total   30   5.73   1.337   .244   5.23   6.23   3   8
+ANOVA
+********** 24 **********
+--- page 25 ---
+Sum of   Mean
+Squares   df   Square   F   Sig.
+Price   Between   146.867   2   73.433 132.180   .000
+Groups
+Within   15.000   27   .556
+Groups
+Total   161.867   29
+Mileage Between   158.467   2   79.233 175.352   .000
+Groups
+Within   12.200   27   .452
+Groups
+Total   170.667   29
+Brand   Between   10.400   2   5.200   8.613   .001
+Groups
+Within   16.300   27   .604
+Groups
+Total   26.700   29
+Safety   Between   12.800   2   6.400   18.783   .000
+Groups
+Within   9.200   27   .341
+Groups
+Total   22.000   29
+Luxury   Between   161.067   2   80.533 182.723   .000
+Groups
+Within   11.900   27   .441
+Groups
+Total   172.967   29
+Resale   Between   42.467   2   21.233   60.989   .000
+Groups
+Within   9.400   27   .348
+Groups
+Total   51.867   29
+Oneway
+Descriptives
+95% Confidence
+Std.   Interval for Mean
+Deviatio   Std.   Lower   Upper   Minimu Maximu
+N   Mean   n   Error   Bound   Bound   m   m
+Price   1   20   7.15   1.424   .319   6.48   7.82   5   9
+********** 25 **********
+--- page 26 ---
+2   10   2.90   .568   .180   2.49   3.31   2   4
+Total   30   5.73   2.363   .431   4.85   6.62   2   9
+Mileag 1   20   8.15   1.309   .293   7.54   8.76   6   10
+e   2   10   3.70   .823   .260   3.11   4.29   3   5
+Total   30   6.67   2.426   .443   5.76   7.57   3   10
+Brand 1   20   6.50   .761   .170   6.14   6.86   5   8
+2   10   7.70   .823   .260   7.11   8.29   7   9
+Total   30   6.90   .960   .175   6.54   7.26   5   9
+Safety 1   20   7.40   .598   .134   7.12   7.68   6   8
+2   10   6.20   .789   .249   5.64   6.76   5   7
+Total   30   7.00   .871   .159   6.67   7.33   5   8
+Luxury 1   20   4.10   1.210   .270   3.53   4.67   2   6
+2   10   8.70   .675   .213   8.22   9.18   8   10
+Total   30   5.63   2.442   .446   4.72   6.55   2   10
+Resale 1   20   6.55   .686   .153   6.23   6.87   5   8
+2   10   4.10   .568   .180   3.69   4.51   3   5
+Total   30   5.73   1.337   .244   5.23   6.23   3   8
+ANOVA
+Sum of   Mean
+Squares   df   Square   F   Sig.
+Price   Between   120.417   1 120.417   81.34   .000
+Groups   3
+Within   41.450   28   1.480
+Groups
+Total   161.867   29
+Mileag Between   132.017   1 132.017   95.63   .000
+e   Groups   9
+Within   38.650   28   1.380
+Groups
+Total   170.667   29
+Brand Between   9.600   1   9.600   15.71   .000
+Groups   9
+Within   17.100   28   .611
+Groups
+Total   26.700   29
+Safety Between   9.600   1   9.600   21.67   .000
+Groups   7
+Within   12.400   28   .443
+Groups
+Total   22.000   29
+********** 26 **********
+--- page 27 ---
+Luxury Between   141.067   1 141.067   123.8   .000
+Groups   20
+Within   31.900   28   1.139
+Groups
+Total   172.967   29
+Resale Between   40.017   1   40.017   94.55   .000
+Groups   4
+Within   11.850   28   .423
+Groups
+Total   51.867   29
+a) How many clusters are appropriate for this data? Explain (4 Marks)
+b) Who are the members of the group (give case number)? (3 marks)
+c) What would you conclude from ANOVA? (3 Marks)
+d) What are characteristics of each group? (6 marks)
+e) Based on the cluster analysis performed on customer responses, identify the
+most profitable Automobile buyer segment. Justify your answer (4 Marks)
+Q7   a
+CO-
+The table below shows the sale (in thousands) for a particular brand of Chocolate in a retail
+1,2,   outlet for each of the last nine months.
+3;   Month   1   2   3   4   5   6   7   8
+Sale   160   110   130   160   180   150   200   220
+BL-
+[1
+Appl   a) Calculate a three month moving average for months three to eight. What would be
+your forecast for the demand in 9th month?   (3 marks)   0]
+y,   b) Apply exponential smoothing with a smoothing constant of 0.4 to derive a
+Anal   forecast for the demand in 9th month. (3 marks)
+yse,   c) Which of the two forecasts for 9th month do you prefer and why? (4 marks)
+Eval
+uate
+Q7   b A power distribution company is planning to expand its infrastructure for supplying
+electricity generated from solar energy. To support this strategic decision, the
+CO-
+company has collected historical monthly data on solar power consumption (in
+1,2,   megawatt-hours).
+3;   Using data from the past several months, the analytics team has developed multiple
+[1
+BL-   ARIMA models with different combinations of parameters (p, d, q) to forecast future
+demand. In addition, Autocorrelation Function (ACF) and Partial Autocorrelation   0]
+Appl   Function (PACF) plots have been generated to identify patterns such as trend and
+seasonality in the data.
+y,
+Anal   The following SPSS output is provided:
+yse,   • ACF & PACF plots for the original series
+********** 27 **********
+--- page 28 ---
+Eval   • ACF & PACF plots after applying first differencing
+• Multiple ARIMA models with different values of p, d, and q
+uate
+After examining these models for various parameters, you are expected to choose a best
+fitted model for given data with detailed explanations for your choice. Also mention the
+forecast you will suggest for the company for next 6 periods. Comment on the forecast.
+ACF
+Demand Solar
+ACF
+********** 28 **********
+--- page 29 ---
+Time Series Modeler
+Model Description
+Model Type
+Model ID   Demand EV   Model_1   ARIMA(1,0,0)
+Model Summary
+Fit Statistic   Mean   Minimum   Maximum
+Stationary R-   .589   .589   .589
+squared
+R-squared   .589   .589   .589
+********** 29 **********
+--- page 30 ---
+RMSE   128.916   128.916   128.916
+MAPE   3.677   3.677   3.677
+MaxAPE   14.638   14.638   14.638
+MAE   79.890   79.890   79.890
+MaxAE   356.186   356.186   356.186
+Normalized   9.951   9.951   9.951
+BIC
+Model Statistics
+Model Fit statistics   Ljung-Box Q(18)
+Statio   Num
+Numb   nary   ber
+er of   R-   R-   of
+Predic squar squa   Normali   Statist   Outli
+Model   tors   ed   red RMSE MAPE zed BIC   ics   DF   Sig.   ers
+Demand   0   .589 .589   128.9   3.677   9.951   17.84   17 .399   0
+Solar-   16   1
+Model_1
+ARIMA Model Parameters
+Estimate   SE   t   Sig.
+Demand Dema No   Constant   2154.754 121.113   17.79   .000
+Solar-   nd EV Transform   1
+Model_1   ation   AR Lag 1   .850   .094   8.997   .000
+Forecast
+Model   30   31   32   33   34   35
+Demand   Forecas   2081   2092   2102   2110   2117   2122
+Solar-   t
+Model_1   UCL   2317   2402   2455   2492   2518   2537
+LCL   1846   1783   1748   1728   1715   1707
+For each model, forecasts start after the last non-missing in the range of the
+requested estimation period, and end at the last period for which non-
+missing values of all the predictors are available or at the end date of the
+requested forecast period, whichever is earlier.
+********** 30 **********
+--- page 31 ---
+Time Series Modeler
+Model Description
+Model Type
+Model ID   Demand EV   Model_1   ARIMA(1,1,0)
+Model Summary
+Fit Statistic   Mean   Minimum   Maximum
+Stationary R-   .123   .123   .123
+squared
+R-squared   .654   .654   .654
+RMSE   110.516   110.516   110.516
+MAPE   3.606   3.606   3.606
+********** 31 **********
+--- page 32 ---
+MaxAPE   12.564   12.564   12.564
+MAE   76.673   76.673   76.673
+MaxAE   316.371   316.371   316.371
+Normalized   9.648   9.648   9.648
+BIC
+Model Statistics
+Numb   Model Fit statistics   Ljung-Box Q(18) Numb
+er of   Stationa   Norma   er of
+Predic   ry R-   R-   lized   Statist   Outlier
+Model   tors   squared squared RMSE MAPE   BIC   ics   DF   Sig.   s
+Demand   0   .123   .654   110.5   3.606   9.648   12.07 17 .796   0
+Solar-   16   3
+Model_1
+ARIMA Model Parameters
+Estimat
+e   SE   t   Sig.
+Demand Dema No   Constant   -16.532 15.71 -1.052   .303
+Solar-   nd EV Transform   9
+Model_1   ation   AR   Lag 1   -.341   .185 -1.841   .077
+Difference   1
+Forecast
+Model   30   31   32   33   34   35
+Demand   Forecas   2025   2018   1998   1983   1966   1949
+Solar-   t
+Model_1 UCL   2252   2290   2322   2347   2368   2386
+LCL   1798   1746   1674   1618   1563   1513
+For each model, forecasts start after the last non-missing in the range of
+the requested estimation period, and end at the last period for which
+non-missing values of all the predictors are available or at the end date
+of the requested forecast period, whichever is earlier.
+********** 32 **********
+--- page 33 ---
+Time Series Modeler
+Model Description
+Model Type
+Model ID   Demand EV   Model_1   ARIMA(0,1,1)
+Model Summary
+Fit Statistic   Mean   Minimum   Maximum
+Stationary   .172   .172   .172
+R-squared
+R-squared   .674   .674   .674
+RMSE   107.369   107.369   107.369
+MAPE   3.512   3.512   3.512
+********** 33 **********
+--- page 34 ---
+MaxAPE   11.815   11.815   11.815
+MAE   74.651   74.651   74.651
+MaxAE   297.515   297.515   297.515
+Normalized   9.591   9.591   9.591
+BIC
+Model Statistics
+Number   Model Fit statistics   Ljung-Box Q(18)   Numb
+of   Stationa   R-   er of
+Predicto   ry R-   squar   Normali   Statistic   Outlie
+Model   rs   squared   ed   RMSE   MAPE   zed BIC   s   DF   Sig.   rs
+Demand   0   .172 .674 107.369   3.512   9.591   8.571   17 .953   0
+Solar-
+Model_1
+ARIMA Model Parameters
+Estimat
+e   SE   t   Sig.
+Demand   Dema No   Constant   -16.419   11.43   -1.436   .163
+Solar-   nd EV Transform   5
+Model_1   ation   Difference   1
+MA   Lag 1   .455   .185   2.460   .021
+Forecast
+Model   30   31   32   33   34   35
+Demand   Forecas   2004   1988   1972   1955   1939   1922
+Solar-   t
+Model_1 UCL   2225   2239   2250   2258   2265   2270
+LCL   1784   1737   1693   1652   1613   1575
+For each model, forecasts start after the last non-missing in the range of
+the requested estimation period, and end at the last period for which non-
+missing values of all the predictors are available or at the end date of the
+requested forecast period, whichever is earlier.
+********** 34 **********
+--- page 35 ---
+Time Series Modeler
+Model Description
+Model Type
+Model ID   Demand EV   Model_1   ARIMA(1,0,1)
+Model Summary
+Fit Statistic   Mean   Minimum Maximum
+Stationary R-   .631   .631   .631
+squared
+R-squared   .631   .631   .631
+RMSE   124.523   124.523   124.523
+MAPE   3.755   3.755   3.755
+********** 35 **********
+--- page 36 ---
+MaxAPE   12.672   12.672   12.672
+MAE   81.474   81.474   81.474
+MaxAE   318.192   318.192   318.192
+Normalized   9.997   9.997   9.997
+BIC
+Model Statistics
+Model Fit statistics   Ljung-Box Q(18) Num
+Numb   ber
+er of   Stationa   R-   of
+Predic   ry R-   squa   Normali   Statistic   Outli
+Model   tors   squared   red RMSE MAPE zed BIC   s   DF   Sig.   ers
+Demand   0   .631 .631 124.523   3.755   9.997   17.903 16 .330   0
+Solar-
+Model_1
+ARIMA Model Parameters
+Estimate   SE   t   Sig.
+Demand Dem No   Constant   2192.748 179.252   12.23   .000
+Solar-   and   Transform   3
+Model_1 EV   ation   AR Lag 1   .946   .063   14.94   .000
+9
+MA Lag 1   .345   .216   1.599   .122
+Forecast
+Model   30   31   32   33   34   35
+Demand   Forecas 2056 2064   2071 2077   2083 2089
+Solar-   t
+Model_1 UCL   2286 2331   2369 2400   2426 2450
+LCL   1826 1796   1772 1755   1740 1729
+For each model, forecasts start after the last non-missing in the
+range of the requested estimation period, and end at the last
+period for which non-missing values of all the predictors are
+available or at the end date of the requested forecast period,
+whichever is earlier.
+********** 36 **********
+--- page 37 ---
+Time Series Modeler
+Model Description
+Model Type
+Model ID   Demand EV   Model_1   ARIMA(1,0,1)
+Model Summary
+Fit Statistic   Mean   Minimum   Maximum
+Stationary   .930   .930   .930
+R-squared
+R-squared   .930   .930   .930
+RMSE   58.840   58.840   58.840
+********** 37 **********
+--- page 38 ---
+MAPE   1.922   1.922   1.922
+MaxAPE   6.914   6.914   6.914
+MAE   40.175   40.175   40.175
+MaxAE   128.895   128.895   128.895
+Normalized   8.962   8.962   8.962
+BIC
+Model Statistics
+Model Fit statistics   Ljung-Box Q(18)
+Statio
+Numb   nary   Numb
+er of   R-   R-   Norma   er of
+Predic squar squa   lized   Statist   Outlier
+Model   tors   ed   red RMSE MAPE   BIC   ics   DF   Sig.   s
+Demand   0   .930 .930   58.84   1.922 8.962   11.91   16 .750   4
+Solar-   0   1
+Model_1
+ARIMA Model Parameters
+Estimat
+e   SE   t   Sig.
+Demand   Demand No   Constant   2222.61   42.26   52.58   .000
+Solar-   EV   Transform   2   9   2
+Model_1   ation   AR Lag 1   .765   .284   2.694   .013
+MA Lag 1   .281   .389   .720   .479
+Outliers
+Estimate   SE   t   Sig.
+Demand   1   Additive   236.624   68.386   3.460   .002
+Solar-   2   Additive   205.641   60.103   3.421   .002
+Model_1   7   Additive   321.659   53.032   6.065   .000
+14   Level   -242.859   55.401   -4.384   .000
+Shift
+Forecast
+Model   30   31   32   33   34   35
+Demand   Forecas   2026   2015   2007   2001   1996   1992
+Solar-   t
+Model_1   UCL   2148   2150   2149   2147   2144   2142
+LCL   1905   1881   1865   1855   1847   1842
+********** 38 **********
+--- page 39 ---
+For each model, forecasts start after the last non-missing in the range of the
+requested estimation period, and end at the last period for which non-
+missing values of all the predictors are available or at the end date of the
+requested forecast period, whichever is earlier.
+********** 39 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 8 · paper 805442da8931
 
 - Departments: Computer Engineering
@@ -11553,6 +12917,7 @@ FR ICR RG IC HH
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics, Sem-VIII, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2026
 - Text: ocr (36 pages), mean OCR confidence 76.0
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -11610,7 +12975,6 @@ Ap
 ply i
 An
 
-FR RR ae a a oR ok ok a ok
 --- page 2 ---
 aly Descriptive Statistics
 
@@ -11894,7 +13258,6 @@ z i 2 3
 Teaching_Quality .827 .077 -042
 Faculty_Support _-813 «063 _.022
 
-FIO IIOR Ga a Ak ok ak
 --- page 7 ---
 Digital Learning BTS cassie
 
@@ -12017,7 +13380,6 @@ Customer_Satisfactio .519}| 90.722 1 98 000
 
 Task Completion Ra -746| 33.363 1 98 000
 
-FRR RRR Qk a a a a aK
 --- page 9 ---
 Pooled Within-Groups Matrices
 
@@ -12078,7 +13440,6 @@ Function
 1
 Response_Time -.799
 
-ARR RQ) ok ak ak a ak ok
 --- page 10 ---
 Customer_Satisfaction 546
 
@@ -12450,7 +13811,6 @@ Ward Linkage
 
 [6]
 
-FA OR] a Rk dk a ok
 --- page 16 ---
 Agglomeration Schedule td .
 
@@ -12826,7 +14186,6 @@ alu
 at
 e
 
-FR RRR DD RR AK A
 --- page 23 ---
 alu
 
@@ -12868,7 +14227,6 @@ Lag Number
 
 [6]
 
-SRR RO RAC Qa A a a ak
 --- page 24 ---
 Sales
 
@@ -13142,7 +14500,6 @@ MaxAPE 23.164 23.164 23.164
 MAE _ 14.943 14.943 14.943
 _MaxAE _ ; ___ 48.645 48.645 48.645
 
-FIR RAR Qk aR ak oR a ok
 --- page 29 ---
 Normalized BIC 25.2 6.580 6.580 __—_—~6.580
 
@@ -13232,7 +14589,6 @@ Fit Eiatistic Mean Minimum Maximum
 
 Stationary R-squared -576 -576 -576
 
-FR FR RAR 30) RA RR kk
 --- page 31 ---
 847 847 __.847
 
@@ -13390,7 +14746,6 @@ i the range of the requested estimation period, and end at the
 are available or at the end date of the requested forecast
 period, whichever is earlier.
 
-FR EAR QQ a ok ok
 --- page 34 ---
 Residual ACF
 
@@ -13498,7 +14853,6 @@ which non-missing values of all the predictors are available or at the
 
 end date of the requested forecast period, whichevef is earlier.
 
-FRR RIOR QD A kK a kk
 --- page 36 ---
 Residual ACF Residual PACF
 
@@ -13548,7 +14902,6 @@ c
 7 9 11 13 15 17 19 21 23.25 27 29
 Date
 
-SE A A AR RAR RD GR KR OR a
 ````
 
 ## 2024-25 · Final-Exam · Sem 8 · paper 162705099f50
@@ -13558,6 +14911,7 @@ SE A A AR RAR RD GR KR OR a
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -14803,7 +16157,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -14818,6 +16171,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -16063,7 +17417,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -16078,6 +17431,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -17323,7 +18677,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -17338,6 +18691,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_AI_7051/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -18583,7 +19937,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -18598,6 +19951,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_Computer_7047/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -19843,7 +21197,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -19858,6 +21211,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_DS_7052/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -21103,7 +22457,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -21118,6 +22471,7 @@ FR ICR QQ I OH
 - Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_IT_7041/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Apr 2025
 - Text: mixed (33 pages), mean OCR confidence 76.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -22363,7 +23717,6 @@ F
 2900.00
 2800.00
 
-SNWEH ANDO ASS BBB sBsese a HNNNNND
 OFNnNHOEHAADMDHOANDEA
 
 Date
@@ -28581,1370 +29934,6 @@ earlier.
 ********** 33 **********
 ````
 
-## 2024-25 · Re-Exam · Sem 8 · paper 8250ce7731dd
-
-- Departments: Computer Engineering
-- Programmes: MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_Computer_7047/Business Analytics/QP_Business Analytics(703TM0C003)_2024-2025_8250ce7731.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
-- Text: mixed (39 pages), mean OCR confidence 83.2
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: MBA Tech (AI)/MBA Tech (Chem)/MBA Tech (Comp)/MBA Tech (DS)/MBA
-Tech (EXTC)/MBA Tech (IT)/MBA Tech (Mech)
-Year: IV/Semester VIII(Exam Year: 2025-2026)
-Subject: Business Analytics
-Date: 08 May 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-RE EXAMINATION (Acad. Year:2024-2025)
-Instructions:
-1. This question paper contains 39 pages.
-2. Question No. 1 is compulsory
-3. A attempt any 4 questions out of remaining 6 questions
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-6. Assume Suitable data if necessary.
-Q1   [20
-Answer briefly:
-]
-CO-   a
-1;   .   Discuss the importance of data visualization in business analytics. What are the principles of
-BL-   effective visualization? Explain how poor visualization can lead to misinterpretation of data.   [5]
-Und
-erst
-and
-CO- b
-1;   .
-BL-   Critically evaluate the trade-off between prediction accuracy and model interpretability. In
-Und   what business situations would you prioritize interpretability over accuracy and vice versa?   [5]
-erst
-and,
-appl
-y
-CO-   c
-1,2;   .
-BL-   Differentiate between regression and classification problems in detail. Discuss the types of
-business problems suited for each and explain how model performance is evaluated in both
-Und
-cases.   [5]
-erst
-and,
-appl
-y
-CO- d Explain the bias-variance trade-off in the context of machine learning models. How does it
-2,3;   .   impact model performance? Discuss techniques to achieve an optimal balance.
-BL-   [5]
-Und
-erst
-********** 1 **********
---- page 2 ---
-and,
-appl
-y
-A university conducted a study to predict students’ final exam marks.
-Y = Final exam marks
-X1 = Study hours per week
-X2 = Attendance percentage
-X3 = Sleep hours per day
-X4 = Social media usage hours per day
-A multiple regression analysis was conducted and the results are given below.
-Q2
-CO-
-1,2,
-3;
-BL-   [2
-Appl   0]
-y,
-Anal
-yse,
-Eval
-uate
-********** 2 **********
---- page 3 ---
-Variables Entered/Removed*
-
-Variables Variables
-Model Entered Removed Method
-
-1 ‘Study_Hours Stepwise
-(Criteria:
-Probability-of-
-F-to-enter <=
-050,
-Probability-of-
-F-to-remove
->= 100).
-
-2 Attendance_P Stepwise
-ercent (Criteria:
-
-Probability-of
-F-to-enter <= .
-050,
-Probability-of-
-F-to-remove
->= 100).
-
-3 SocialMedia_ Stepwise
-Hours (Criteria:
-
-Probability-of-
-F-to-enter <= .
-050,
-Probability-of
-F-to-remove
->= 100).
-
-a. Dependent Variable: Final_Marks
-
-Model Summary4
-
-Adjusted R Std. Error of Durbin-
-Model R R Square Square the Estimate Watson
-
-1 583" 339 334 11.09510363
-2 667° 445 437 = 10.20519613
-3 .700° 490 477 = 9.830630244 2.305
-
-a. Predictors: (Constant), Study_Hours
-
-b. Predictors: (Constant), Study_Hours, Attendance_Percent
-
-c. Predictors: (Constant), Study_Hours, Attendance_Percent,
-SocialMedia_Hours
-
-d. Dependent Variable: Final_Marks
-
-ANOVA*
-Sum of
-Model Squares df Mean Square F Sig.
-1 Regression 8029.814 1 8029.814 65.229 <.001°
-Residual 15633.868 127 123.101
-Total 23663.682 128
-2 Regression 10541.282 2 §270.641 50.608 <.001°
-Residual 13122.400 126 104.146
-Total 23663.682 128
-3 Regression 11583.521 3 3861.174 39.954 <.001¢
-Residual 12080.161 125 96.641
-Total 23663.682 128
-
-a. Dependent Variable: Final_Marks
-
-b. Predictors: (Constant), Study_Hours
-
-c. Predictors: (Constant), Study_Hours, Attendance_Percent
-
-d. Predictors: (Constant), Study_Hours, Attendance_Percent, SocialMedia_Hours
-
-FAC OR Qk kk ee a aa ak
---- page 4 ---
-20
-
-Coefficients*
-
-Standardized
-Unstandardized Coefficients Coefficients
-Model B Std. Error Beta t Sig.
-
-1 (Constant) 66.078 2.903 22.759 <.001
-‘Study_Hours 1.267 157 583 8.076 <.001
-2 (Constant) 18.714 10.008 1.870 064
-Study_Hours 1.312 145 603 9.072 <.001
-Attendance_Percent 566 115 326 4911 <.001
-3 (Constant) 29.869 10.222 2.922 004
-Study_Hours 1.350 140 620 9657 <.001
-Attendance_Percent 493 113 285 4.358 <.001
-SocialMedia_Hours 1.881 573 7.216 -3.284 001
-
-a. Dependent Variable: Final_Marks
-
-Excluded Variables*
-
-Collinearity
-
-Partial Statistics
-
-Model Beta In t Sig. Correlation Tolerance
-1 Attendance_Percent 326” 4.911 <.001 401 .996
-Sleep_Hours 064” 884 378 079 999
-SocialMedia_Hours -271" 3.944 <.001 -.332 991
-2 Sleep_Hours 135° 2.017 046 A78 959
-SocialMedia_Hours -.215° 3.284 001 -.282 954
-«| Sleep_Hours 1064 1.620 108 144 938
-
-a. Dependent Variable: Final_Marks
-
-b. Predictors in the Model: (Constant), Study_Hours
-
-c. Predictors in the Model: (Constant), Study_Hours, Attendance_Percent
-
-d. Predictors in the Model: (Constant), Study_Hours, Attendance_Percent, SocialMedia_Hours
-
-Residuals Statistics®
-
-Minimum Maximum. Mean Std. Deviation N
-Predicted Value 60.02742386 112.0335312 88.19522079 9.449131430 132
-Residual -23.7749538   26.88501930 1124894612 9.753562300 132
-Std. Predicted Value -2.957 2.510 004 993 132
-Std. Residual -2.418 2.735 011 992 132
-
-a. Dependent Variable: Final_Marks
-
-Histogram
-Dependent Variable: Final_Marks
-
-Mean = 0.01
-Std. Dev. = 0.992
-N=132
-
-2 4 0 1 2 3
-
-Regression Standardized Residual
-
-FIR 7) kkk ot i ack ak
---- page 5 ---
-Answer the following questions:
-a) Which model was applied, and why? (2 Marks)
-b) State the multiple regression equation. (3 Marks)
-c) Interpret the meaning of each regression coefficient. (3 Marks)
-d) Can the regression equation be used for prediction? Explain. (5 Marks)
-e) Determine the coefficient of multiple determination and interpret its meaning. (3
-Marks)
-f) Predict exam marks for the following values of independent variables. (4 Marks)
-X1   X2   X3   X4
-20   85   7   3
-Q3
-A healthcare organization wants to understand the key factors influencing patient   [2
-CO-
-perception of hospital services and facilities. A survey was conducted among 100 patients,
-1,2,   0]
-and responses were collected on a 5-point Likert scale:
-3;
-********** 5 **********
---- page 6 ---
-BL-
-(1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree)
-Appl
-y
-Variables: Doctor Competence (DC), Nursing Care (NC), Medical Equipment (ME), Hospital
-Eval
-Cleanliness (HC), Treatment Cost Fairness (TC), Complaint Resolution (CR), Waiting Time
-uate
-Management (WT), Overall Satisfaction (OS)
-,
-SPSS Output:
-crea
-KMO and Bartlett's Test
-te
-Kaiser-Meyer-Olkin Measure of Sampling Adequacy.   .692
-Bartlett's Test of Sphericity   Approx. Chi-Square   335.988
-df   28
-Sig.   .000
-Anti-image Matrices
-Treatment   Waiting
-Doctor   Medical   Hospital   Cost   Time   Overall
-Competence Nursing Care Equipment   Cleanliness Fairness   Complaint   Managem Satisfaction
-(DC)   (NC)   (ME)   (HC)   (TC)   Resolution (CR) ent (WT) (OS)
-Anti-   Doctor   .415   -.141   -.178   -.007   -.004   -.001   -.003   -.013
-image Compet
-Covari   ence
-ance   (DC)
-Nursing   -.141   .431   -.174   -.025   .016   .001   -.013   .008
-Care
-(NC)
-Medical   -.178   -.174   .365   .037   -.067   .020   .035   -.027
-Equipm
-ent
-(ME)
-Hospita   -.007   -.025   .037   .428   -.126   -.163   .098   -.038
-l
-Cleanli
-ness
-(HC)
-Treatm   -.004   .016   -.067   -.126   .370   -.187   -.069   .030
-ent
-Cost
-Fairnes
-s (TC)
-Compla   -.001   .001   .020   -.163   -.187   .356   .001   -.014
-int
-Resolut
-ion
-(CR)
-********** 6 **********
---- page 7 ---
-Waiting   -.003   -.013   .035   .098   -.069   .001   .532   -.359
-Time
-Manag
-ement
-(WT)
-Overall   -.013   .008   -.027   -.038   .030   -.014   -.359   .551
-Satisfa
-ction
-(OS)
-Anti-   Doctor   .767a   -.333   -.458   -.018   -.009   -.003   -.006   -.027
-image Compet
-Correl   ence
-ation   (DC)
-Nursing   -.333   .769a   -.438   -.059   .040   .003   -.028   .017
-Care
-(NC)
-Medical   -.458   -.438   .710a   .094   -.182   .056   .080   -.060
-Equipm
-ent
-(ME)
-Hospita   -.018   -.059   .094   .746a   -.317   -.417   .206   -.078
-l
-Cleanli
-ness
-(HC)
-Treatm   -.009   .040   -.182   -.317   .725a   -.515   -.155   .065
-ent
-Cost
-Fairnes
-s (TC)
-Compla   -.003   .003   .056   -.417   -.515   .711a   .002   -.032
-int
-Resolut
-ion
-(CR)
-Waiting   -.006   -.028   .080   .206   -.155   .002   .570a   -.663
-Time
-Manag
-ement
-(WT)
-Overall   -.027   .017   -.060   -.078   .065   -.032   -.663   .505a
-Satisfa
-ction
-(OS)
-********** 7 **********
---- page 8 ---
-a. Measures of Sampling Adequacy(MSA)
-Communalities
-Initial   Extraction
-Doctor Competence (DC)   .585   .692
-Nursing Care (NC)   .569   .666
-Medical Equipment (ME)   .635   .773
-Hospital Cleanliness (HC)   .572   .651
-Treatment Cost Fairness (TC)   .630   .720
-Complaint Resolution (CR)   .644   .795
-Waiting Time Management
-(WT)   .468   .790
-Overall Satisfaction (OS)   .449   .558
-Extraction Method: Principal Axis Factoring.
-Total Variance Explained
-Extraction Sums of Squared   Rotation Sums of Squared
-Initial Eigenvalues   Loadings   Loadings
-Facto   % of   Cumulativ   % of   Cumulativ   % of   Cumulative
-r   Total   Variance   e %   Total   Variance   e %   Total   Variance   %
-1   2.813   35.157   35.157   2.530   31.624   31.624   2.144   26.794   26.794
-2   2.060   25.745   60.903   1.777   22.214   53.838   2.142   26.772   53.566
-3   1.650   20.621   81.524   1.336   16.704   70.542   1.358   16.976   70.542
-4   .385   4.807   86.330
-5   .325   4.059   90.390
-6   .295   3.682   94.071
-7   .255   3.193   97.264
-8   .219   2.736   100.000
-Extraction Method: Principal Axis Factoring.
-********** 8 **********
---- page 9 ---
-Factor Matrixa
-Factor
-1   2   3
-Doctor Competence (DC)   .645   .515   -.102
-Nursing Care (NC)   .624   .512   -.120
-Medical Equipment (ME)   .680   .543   -.128
-Hospital Cleanliness (HC)   .578   -.560   -.051
-Treatment Cost Fairness (TC)   .700   -.472   .083
-Complaint Resolution (CR)   .644   -.613   .066
-Waiting Time Management
-(WT)   .063   .156   .873
-Overall Satisfaction (OS)   .140   .136   .721
-Extraction Method: Principal Axis Factoring.
-a. Attempted to extract 3 factors. More than 25 iterations required.
-(Convergence=.005). Extraction was terminated.
-Rotated Factor Matrixa
-Factor
-1   2   3
-Doctor Competence (DC)   .827   .077   .042
-Nursing Care (NC)   .813   .063   .022
-Medical Equipment (ME)   .875   .079   .024
-Hospital Cleanliness (HC)   .039   .802   -.082
-Treatment Cost Fairness (TC)   .161   .829   .075
-Complaint Resolution (CR)   .029   .891   .031
-Waiting Time Management
-(WT)   -.004   -.028   .888
-Overall Satisfaction (OS)   .064   .034   .743
-Extraction Method: Principal Axis Factoring.
-Rotation Method: Varimax with Kaiser Normalization.
-a. Rotation converged in 4 iterations.
-Factor Transformation Matrix
-Factor   1   2   3
-1   .711   .697   .096
-2   .681   -.716   .156
-3   -.178   .046   .983
-Extraction Method: Principal Axis Factoring.
-Rotation Method: Varimax with Kaiser Normalization.
-Answer following questions:
-a) Is factor analysis appropriate for this dataset? Justify. (4)
-********** 9 **********
---- page 10 ---
-b) What will you conclude from Anti-image correlation matrix? (2)
-c) How many factors would you retain? What is the total variance explained by the
-retained factors. (4)
-d) Name the factors. (4)
-e) Which variable has the highest loading on each factor? (2)
-f)   Is there any variable that should be removed? Justify. (2)
-g) Which factor appears to be the most important in influencing patient perception? (2)
-a
-A company predicts whether an employee will Leave or Stay based on Experience
-(years) and Job Satisfaction (score).
-Q4   Employee   Experience   Satisfaction   Class
-E1   4   7   Stay
-CO-   E2   6   7   Stay
-1,2,   E3   5   5   Leave
-E4   7   6   Stay
-3;
-E5   3   6   Leave
-BL-   E6   8   7   Stay
-[1
-Appl   E7   4   5   Leave
-E8   6   8   Stay   0]
-y,   E9   3   4   Leave
-Anal   E10   7   8   Stay
-New employee:
-yse,
-Eval   Experience = 5
-uate   Satisfaction = 6
-Using Euclidean distance, classify using KNN for following K:
-a) k = 3
-b) k = 5
-Q4   b The data set is described in the columns correspond to the following independent
-CO-   variables. X1: X2, X3, X4, X5, X6, X7 which represents features of usage of a product and
-X8 as dependent variable coded as 1 for rejection and 0 for acceptance of the
-1,2,
-product.
-3;   There is a need to develop a model that would predict whether customer would [1
-BL-   accept or reject the product based on the features of the products described in the 0]
-variables X1 through X7. Answer following questions based on the output
-Appl
-y,   a) To predict the model, identify the multivariate technique used with the
-justification of using the same.
-Anal   b) Write out the best fitted functional form of the model.
-********** 10 **********
---- page 11 ---
-yse,   c) How would you assess the model? State the test statistic /s used to test the
-accuracy of the model?
-Eval
-d) Interpret the classification table?
-uate   e) Rank the discriminating variables and state the most and the least important
-one which classifies the note as genuine and counterfeit. On what basis you
-will rank the discriminating variables?
-Output
-Analysis Case Processing Summary
-Unweighted Cases   N   Percent
-Valid   210   100.0
-Excluded   Missing or out-of-range   0   .0
-group codes
-At least one missing   0   .0
-discriminating variable
-Both missing or out-of-   0   .0
-range group codes and at
-least one missing
-discriminating variable
-Total   0   .0
-Total   210   100.0
-Tests of Equality of Group Means
-Wilks' Lambda   F   df1   df2   Sig.
-x1   .984   3.301   1   208   .071
-x2   .979   4.394   1   208   .037
-x3   .926   16.633   1   208   .000
-x4   .963   8.024   1   208   .005
-x5   .999   .143   1   208   .706
-x6   .763   64.625   1   208   .000
-x7   .786   56.671   1   208   .000
-Analysis 1
-Box's Test of Equality of Covariance Matrices
-Log Determinants
-x9   Rank   Log Determinant
-.00   3   -6.662
-1.00   3   -5.649
-Pooled within-groups   3   -5.692
-The ranks and natural logarithms of determinants printed
-are those of the group covariance matrices.
-Test Results
-Box's M   61.024
-********** 11 **********
---- page 12 ---
-F   Approx.   9.984
-df1   6
-df2   126122.123
-Sig.   .000
-Tests null hypothesis of equal
-population covariance matrices.
-Variables Entered/Removeda,b,c,d
-Wilks' Lambda
-Exact F
-Step   Entered   Statistic   df1   df2   df3   Statistic   df1   df2   Sig.
-1   x6   .763   1   1   208.000   64.625   1   208.000   .000
-2   x7   .544   2   1   208.000   86.832   2   207.000   .000
-3   x4   .299   3   1   208.000   161.247   3   206.000   .000
-At each step, the variable that minimizes the overall Wilks' Lambda is entered.
-a. Maximum number of steps is 14.
-b. Minimum partial F to enter is 3.84.
-c. Maximum partial F to remove is 2.71.
-d. F level, tolerance, or VIN insufficient for further computation.
-Variables in the Analysis
-Step   Tolerance   F to Remove   Wilks' Lambda
-1   x6   1.000   64.625
-2   x6   .907   92.157   .786
-x7   .907   83.429   .763
-3   x6   .904   32.937   .346
-x7   .059   266.003   .684
-x4   .059   169.073   .544
-Variables Not in the Analysis
-Step   Tolerance   Min. Tolerance   F to Enter   Wilks' Lambda
-0   x1   1.000   1.000   3.301   .984
-x2   1.000   1.000   4.394   .979
-x3   1.000   1.000   16.633   .926
-x4   1.000   1.000   8.024   .963
-x5   1.000   1.000   .143   .999
-x6   1.000   1.000   64.625   .763
-x7   1.000   1.000   56.671   .786
-1   x1   .888   .888   17.405   .704
-x2   .889   .889   19.411   .698
-x3   .944   .944   3.806   .749
-x4   .904   .904   23.787   .684
-x5   .904   .904   6.927   .738
-********** 12 **********
---- page 13 ---
-x7   .907   .907   83.429   .544
-2   x1   .157   .157   67.813   .409
-x2   .115   .115   93.008   .375
-x3   .816   .783   23.232   .489
-x4   .059   .059   169.073   .299
-x5   .305   .305   48.516   .440
-3   x1   .093   .035   .005   .299
-x2   .052   .027   .001   .299
-x3   .785   .057   3.018   .294
-x5   .234   .046   .362   .298
-Wilks' Lambda
-Exact F
-Number of Lambd   Statisti
-Step   Variables   a   df1   df2   df3   c   df1   df2   Sig.
-1   1   .763   1   1   208 64.625   1 208.00   .000
-0
-2   2   .544   2   1   208 86.832   2 207.00   .000
-0
-3   3   .299   3   1   208 161.24   3 206.00   .000
-7   0
-Summary of Canonical Discriminant Functions
-Eigenvalues
-Canonical
-Function   Eigenvalue   % of Variance   Cumulative %   Correlation
-1   2.348a   100.0   100.0   .837
-a. First 1 canonical discriminant functions were used in the analysis.
-Wilks' Lambda
-Test of Function(s)   Wilks' Lambda   Chi-square   df   Sig.
-1   .299   249.543   3   .000
-Standardized
-Canonical
-Discriminant
-Function
-Coefficients
-Function
-1
-x4   -3.294
-x6   .466
-x7   3.677
-Functions at
-Group Centroids
-x9   Function
-********** 13 **********
---- page 14 ---
-1
-.00   -2.157
-1.00   1.078
-Unstandardized
-canonical
-discriminant
-functions evaluated
-at group means
-Classification Statistics
-Classification Resultsa
-Predicted Group Membership
-x9   .00   1.00   Total
-Original   Count   .00   66   4   70
-1.00   7   133   140
-%   .00   94.3   5.7   100.0
-1.00   5.0   95.0   100.0
-a. 94.8% of original grouped cases correctly classified.
-Q5   a
-CO-
-1,2,
-3;   A hypothetical data set in which falling down (0 = not falling, 1 = falling) on a ski run is tested
-BL-   against the difficulty of the run (on an ordered scale from 1 to 3, treated as if continuous) and
-[1
-Appl   the season (a categorical variable where 1 = autumn, 2 = winter, and 3 = spring). It is required
-to develop a model which can predict the falling down on a ski run based on the difficulty of 5]
-y,
-the run and season.
-Anal
-Output
-yse,
-Eval
-uate
-********** 14 **********
---- page 15 ---
-Logistic Regression
-
-Case Processing Summary
-
-Unweighted Cases N Percent
-Selected Cases Included in Analysis 15 100.0
-Missing Cases 0 0
-Total 15 100.0
-Unselected Cases 0 0
-Total 15 100.0
-
-a. If weight is in effect, see classification table for the total
-number of cases.
-
-Dependent Variable Encoding
-
-Original Value Internal Value
-
-0 0
-1 1
-
-Categorical Variables Codings
-
-Parameter coding
-
-Frequency | (1) (2)
-SEASON 1 5 1.000 .000
-2 6 .000 1.000
-3 4 .000 .000
-
-Block 1: Method = Enter
-Omnibus Tests of Model Coefficients
-
-Chi-square df Sig.
-Step 1 Step 2.710 3 439
-Block 2.710 3 439
-Model 2.710 3 439
-
-FAC OR CC 7] eae ek ak
---- page 16 ---
-Answer the following questions referring the output mentioned above.
-a) Write down the model in equation form.
-b) Is it possible to assess the model? If yes then identify the test statistic /s used to test
-accuracy of the model?
-c) Interpret the classification table.
-b A study was conducted to understand SALES PERFORMANCE (Monthly sales in ₹ thousands)
-based on the following parameters:
-• TRAINING SESSIONS (Number of training sessions attended per month)
-• SALES EXPERIENCE (Years of experience in sales)
-• CUSTOMER INTERACTION (Average number of customer interactions per day)
-• ADMINISTRATIVE TIME (Hours spent on non-selling activities daily)
-Cook’s Distance was calculated for the data and is given in the following table. Identify
-Q5   outliers, if present, in the data with proper justification. Only mention S.No. of the outliers.
-S.No.   Cook’s Distance
-CO-;   1   0.00185   [5]
-SO-;   2   0.01247
-3   0.00096
-BL-   4   0.00278
-5   0.00563
-6   0.00112
-7   0.00845
-8   0.01123
-9   0.00214
-10   0.01678
-11   0.02245
-12   0.03890
-13   0.00312
-14   0.01967
-********** 16 **********
---- page 17 ---
-15   0.06945
-16   0.00088
-17   0.15278
-18   0.14034
-19   0.01356
-20   0.16523
-21   0.07654
-22   0.02467
-23   0.00789
-24   0.00934
-25   0.00547
-26   0.01012
-27   0.00105
-28   0.00476
-29   0.00058
-30   0.00201
-An automobile company wants to understand the preferences of potential car buyers
-to design better marketing strategies and product positioning. The company is
-particularly interested in how customers trade off between price, performance, and
-luxury.
-A survey was conducted among 15 potential buyers, who rated their preferences on
-a scale of 1 to 9 across the following variables:
-•   Price Sensitivity
-• Mileage Importance
-Q6   • Brand Value
-•   Safety Features
-CO-   • Luxury Preference
-• Resale Value
-1,2,
-3;   Cluster analysis using Ward’s method has been performed.
-BL-   The objective is to:
-[2
-Appl
-• Segment customers based on buying behavior   0]
-y,   •   Identify premium vs economy segments
-• Support product positioning decisions
-Anal
-yse,   The results of the cluster analysis are provided.
-Eval
-uate
-Cluster
-Ward Linkage
-Agglomeration Schedule
-Stage Cluster First
-Cluster Combined   Appears   Next Stage
-Stage   Cluster 1   Cluster 2 Coefficients Cluster 1   Cluster 2
-1   4   16   .169   0   0   12
-2   18   30   .342   0   0   11
-********** 17 **********
---- page 18 ---
-3   13   25   .516   0   0   5
-4   20   23   .689   0   0   18
-5   7   13   .986   0   3   14
-6   3   6   1.344   0   0   11
-7   12   24   1.713   0   0   19
-8   11   29   2.137   0   0   16
-9   15   27   2.566   0   0   19
-10   10   28   3.104   0   0   23
-11   3   18   3.750   6   2   20
-12   1   4   4.406   0   1   17
-13   2   5   5.198   0   0   24
-14   7   19   6.103   5   0   25
-15   14   17   7.010   0   0   22
-16   11   26   8.036   8   0   24
-17   1   22   9.215   12   0   23
-18   8   20   10.483   0   4   22
-19   12   15   11.888   7   9   21
-20   3   9   13.488   11   0   26
-21   12   21   15.592   19   0   26
-22   8   14   17.931   18   15   27
-23   1   10   20.809   17   10   25
-24   2   11   23.800   13   16   27
-25   1   7   27.801   23   14   28
-26   3   12   33.891   20   21   28
-27   2   8   41.843   24   22   29
-28   1   3   60.886   25   26   29
-29   1   2   174.000   28   27   0
-Cluster Membership
-Case   5 Clusters 4 Clusters 3 Clusters   2 Clusters
-1:Case 1   1   1   1   1
-2:Case 2   2   2   2   2
-3:Case 3   3   3   3   1
-4:Case 4   1   1   1   1
-5:Case 5   2   2   2   2
-6:Case 6   3   3   3   1
-7:Case 7   1   1   1   1
-8:Case 8   4   4   2   2
-9:Case 9   3   3   3   1
-10:Case 10   1   1   1   1
-********** 18 **********
---- page 19 ---
-11:Case 11   2   2   2   2
-12:Case 12   5   3   3   1
-13:Case 13   1   1   1   1
-14:Case 14   4   4   2   2
-15:Case 15   5   3   3   1
-16:Case 16   1   1   1   1
-17:Case 17   4   4   2   2
-18:Case 18   3   3   3   1
-19:Case 19   1   1   1   1
-20:Case 20   4   4   2   2
-21:Case 21   5   3   3   1
-22:Case 22   1   1   1   1
-23:Case 23   4   4   2   2
-24:Case 24   5   3   3   1
-25:Case 25   1   1   1   1
-26:Case 26   2   2   2   2
-27:Case 27   5   3   3   1
-28:Case 28   1   1   1   1
-29:Case 29   2   2   2   2
-30:Case 30   3   3   3   1
-********** 19 **********
---- page 20 ---
-Oneway
-Descriptives
-95% Confidence
-Interval for Mean
-Std.   Std.   Lower   Upper
-N   Mean   Deviation   Error   Bound   Bound   Minimum Maximum
-Pri 1   10   8.30   .823   .260   7.71   8.89   7   9
-ce 2   5   2.60   .548   .245   1.92   3.28   2   3
-3   5   6.00   1.000   .447   4.76   7.24   5   7
-4   5   3.20   .447   .200   2.64   3.76   3   4
-5   5   6.00   .707   .316   5.12   6.88   5   7
-Total   30   5.73   2.363   .431   4.85   6.62   2   9
-Mil 1   10   9.30   .675   .213   8.82   9.78   8   10
-ea 2   5   4.00   1.000   .447   2.76   5.24   3   5
-ge 3   5   7.00   .000   .000   7.00   7.00   7   7
-4   5   3.40   .548   .245   2.72   4.08   3   4
-5   5   7.00   .707   .316   6.12   7.88   6   8
-Total   30   6.67   2.426   .443   5.76   7.57   3   10
-********** 20 **********
---- page 21 ---
-Bra 1   10   6.30   .675   .213   5.82   6.78   5   7
-nd 2   5   7.00   .000   .000   7.00   7.00   7   7
-3   5   6.00   .000   .000   6.00   6.00   6   6
-4   5   8.40   .548   .245   7.72   9.08   8   9
-5   5   7.40   .548   .245   6.72   8.08   7   8
-Total   30   6.90   .960   .175   6.54   7.26   5   9
-Saf 1   10   7.80   .422   .133   7.50   8.10   7   8
-ety 2   5   5.80   .837   .374   4.76   6.84   5   7
-3   5   6.80   .447   .200   6.24   7.36   6   7
-4   5   6.60   .548   .245   5.92   7.28   6   7
-5   5   7.20   .447   .200   6.64   7.76   7   8
-Total   30   7.00   .871   .159   6.67   7.33   5   8
-Lux 1   10   3.10   .738   .233   2.57   3.63   2   4
-ury 2   5   8.40   .548   .245   7.72   9.08   8   9
-3   5   5.00   .707   .316   4.12   5.88   4   6
-4   5   9.00   .707   .316   8.12   9.88   8   10
-5   5   5.20   .447   .200   4.64   5.76   5   6
-Total   30   5.63   2.442   .446   4.72   6.55   2   10
-Re 1   10   6.90   .568   .180   6.49   7.31   6   8
-sal 2   5   4.20   .447   .200   3.64   4.76   4   5
-e   3   5   6.40   .548   .245   5.72   7.08   6   7
-4   5   4.00   .707   .316   3.12   4.88   3   5
-5   5   6.00   .707   .316   5.12   6.88   5   7
-Total   30   5.73   1.337   .244   5.23   6.23   3   8
-ANOVA
-Sum of   Mean
-Squares   df   Square   F   Sig.
-Price   Between   147.767   4   36.942   65.499   .000
-Groups
-Within   14.100   25   .564
-Groups
-Total   161.867   29
-Mileag Between   159.367   4   39.842   88.145   .000
-e   Groups
-Within   11.300   25   .452
-Groups
-Total   170.667   29
-Brand Between   20.200   4   5.050   19.423   .000
-Groups
-********** 21 **********
---- page 22 ---
-Within   6.500   25   .260
-Groups
-Total   26.700   29
-Safety Between   14.800   4   3.700   12.847   .000
-Groups
-Within   7.200   25   .288
-Groups
-Total   22.000   29
-Luxury Between   162.067   4   40.517   92.928   .000
-Groups
-Within   10.900   25   .436
-Groups
-Total   172.967   29
-Resale Between   42.967   4   10.742   30.173   .000
-Groups
-Within   8.900   25   .356
-Groups
-Total   51.867   29
-Oneway
-Descriptives
-95% Confidence
-Interval for Mean
-Std.   Std.   Lower   Upper
-N   Mean   Deviation   Error   Bound   Bound   Minimum   Maximum
-Price 1   10   8.30   .823   .260   7.71   8.89   7   9
-2   5   2.60   .548   .245   1.92   3.28   2   3
-3   10   6.00   .816   .258   5.42   6.58   5   7
-4   5   3.20   .447   .200   2.64   3.76   3   4
-Total   30   5.73   2.363   .431   4.85   6.62   2   9
-Mile 1   10   9.30   .675   .213   8.82   9.78   8   10
-age   2   5   4.00   1.000   .447   2.76   5.24   3   5
-3   10   7.00   .471   .149   6.66   7.34   6   8
-4   5   3.40   .548   .245   2.72   4.08   3   4
-Total   30   6.67   2.426   .443   5.76   7.57   3   10
-Bran 1   10   6.30   .675   .213   5.82   6.78   5   7
-d   2   5   7.00   .000   .000   7.00   7.00   7   7
-3   10   6.70   .823   .260   6.11   7.29   6   8
-4   5   8.40   .548   .245   7.72   9.08   8   9
-Total   30   6.90   .960   .175   6.54   7.26   5   9
-1   10   7.80   .422   .133   7.50   8.10   7   8
-********** 22 **********
---- page 23 ---
-Safet 2   5   5.80   .837   .374   4.76   6.84   5   7
-y   3   10   7.00   .471   .149   6.66   7.34   6   8
-4   5   6.60   .548   .245   5.92   7.28   6   7
-Total   30   7.00   .871   .159   6.67   7.33   5   8
-Luxu 1   10   3.10   .738   .233   2.57   3.63   2   4
-ry   2   5   8.40   .548   .245   7.72   9.08   8   9
-3   10   5.10   .568   .180   4.69   5.51   4   6
-4   5   9.00   .707   .316   8.12   9.88   8   10
-Total   30   5.63   2.442   .446   4.72   6.55   2   10
-Resa 1   10   6.90   .568   .180   6.49   7.31   6   8
-le   2   5   4.20   .447   .200   3.64   4.76   4   5
-3   10   6.20   .632   .200   5.75   6.65   5   7
-4   5   4.00   .707   .316   3.12   4.88   3   5
-Total   30   5.73   1.337   .244   5.23   6.23   3   8
-ANOVA
-Sum of   Mean
-Squares   df   Square   F   Sig.
-Price   Between   147.767   3   49.256   90.82   .000
-Groups   6
-Within   14.100   26   .542
-Groups
-Total   161.867   29
-Mileage Between   159.367   3   53.122   122.2   .000
-Groups   28
-Within   11.300   26   .435
-Groups
-Total   170.667   29
-Brand   Between   15.300   3   5.100   11.63   .000
-Groups   2
-Within   11.400   26   .438
-Groups
-Total   26.700   29
-Safety   Between   14.400   3   4.800   16.42   .000
-Groups   1
-Within   7.600   26   .292
-Groups
-Total   22.000   29
-Luxury   Between   161.967   3   53.989   127.6   .000
-Groups   10
-********** 23 **********
---- page 24 ---
-Within   11.000   26   .423
-Groups
-Total   172.967   29
-Resale   Between   42.567   3   14.189   39.66   .000
-Groups   8
-Within   9.300   26   .358
-Groups
-Total   51.867   29
-Oneway
-Descriptives
-95% Confidence Interval for
-Std.   Std.   Mean
-N   Mean   Deviation   Error Lower Bound Upper Bound Minimum Maximum
-Price 1   10   8.30   .823   .260   7.71   8.89   7   9
-2   10   2.90   .568   .180   2.49   3.31   2   4
-3   10   6.00   .816   .258   5.42   6.58   5   7
-Total   30   5.73   2.363   .431   4.85   6.62   2   9
-Mile 1   10   9.30   .675   .213   8.82   9.78   8   10
-age   2   10   3.70   .823   .260   3.11   4.29   3   5
-3   10   7.00   .471   .149   6.66   7.34   6   8
-Total   30   6.67   2.426   .443   5.76   7.57   3   10
-Bran 1   10   6.30   .675   .213   5.82   6.78   5   7
-d   2   10   7.70   .823   .260   7.11   8.29   7   9
-3   10   6.70   .823   .260   6.11   7.29   6   8
-Total   30   6.90   .960   .175   6.54   7.26   5   9
-Safet 1   10   7.80   .422   .133   7.50   8.10   7   8
-y   2   10   6.20   .789   .249   5.64   6.76   5   7
-3   10   7.00   .471   .149   6.66   7.34   6   8
-Total   30   7.00   .871   .159   6.67   7.33   5   8
-Luxu 1   10   3.10   .738   .233   2.57   3.63   2   4
-ry   2   10   8.70   .675   .213   8.22   9.18   8   10
-3   10   5.10   .568   .180   4.69   5.51   4   6
-Total   30   5.63   2.442   .446   4.72   6.55   2   10
-Resa 1   10   6.90   .568   .180   6.49   7.31   6   8
-le   2   10   4.10   .568   .180   3.69   4.51   3   5
-3   10   6.20   .632   .200   5.75   6.65   5   7
-Total   30   5.73   1.337   .244   5.23   6.23   3   8
-ANOVA
-********** 24 **********
---- page 25 ---
-Sum of   Mean
-Squares   df   Square   F   Sig.
-Price   Between   146.867   2   73.433 132.180   .000
-Groups
-Within   15.000   27   .556
-Groups
-Total   161.867   29
-Mileage Between   158.467   2   79.233 175.352   .000
-Groups
-Within   12.200   27   .452
-Groups
-Total   170.667   29
-Brand   Between   10.400   2   5.200   8.613   .001
-Groups
-Within   16.300   27   .604
-Groups
-Total   26.700   29
-Safety   Between   12.800   2   6.400   18.783   .000
-Groups
-Within   9.200   27   .341
-Groups
-Total   22.000   29
-Luxury   Between   161.067   2   80.533 182.723   .000
-Groups
-Within   11.900   27   .441
-Groups
-Total   172.967   29
-Resale   Between   42.467   2   21.233   60.989   .000
-Groups
-Within   9.400   27   .348
-Groups
-Total   51.867   29
-Oneway
-Descriptives
-95% Confidence
-Std.   Interval for Mean
-Deviatio   Std.   Lower   Upper   Minimu Maximu
-N   Mean   n   Error   Bound   Bound   m   m
-Price   1   20   7.15   1.424   .319   6.48   7.82   5   9
-********** 25 **********
---- page 26 ---
-2   10   2.90   .568   .180   2.49   3.31   2   4
-Total   30   5.73   2.363   .431   4.85   6.62   2   9
-Mileag 1   20   8.15   1.309   .293   7.54   8.76   6   10
-e   2   10   3.70   .823   .260   3.11   4.29   3   5
-Total   30   6.67   2.426   .443   5.76   7.57   3   10
-Brand 1   20   6.50   .761   .170   6.14   6.86   5   8
-2   10   7.70   .823   .260   7.11   8.29   7   9
-Total   30   6.90   .960   .175   6.54   7.26   5   9
-Safety 1   20   7.40   .598   .134   7.12   7.68   6   8
-2   10   6.20   .789   .249   5.64   6.76   5   7
-Total   30   7.00   .871   .159   6.67   7.33   5   8
-Luxury 1   20   4.10   1.210   .270   3.53   4.67   2   6
-2   10   8.70   .675   .213   8.22   9.18   8   10
-Total   30   5.63   2.442   .446   4.72   6.55   2   10
-Resale 1   20   6.55   .686   .153   6.23   6.87   5   8
-2   10   4.10   .568   .180   3.69   4.51   3   5
-Total   30   5.73   1.337   .244   5.23   6.23   3   8
-ANOVA
-Sum of   Mean
-Squares   df   Square   F   Sig.
-Price   Between   120.417   1 120.417   81.34   .000
-Groups   3
-Within   41.450   28   1.480
-Groups
-Total   161.867   29
-Mileag Between   132.017   1 132.017   95.63   .000
-e   Groups   9
-Within   38.650   28   1.380
-Groups
-Total   170.667   29
-Brand Between   9.600   1   9.600   15.71   .000
-Groups   9
-Within   17.100   28   .611
-Groups
-Total   26.700   29
-Safety Between   9.600   1   9.600   21.67   .000
-Groups   7
-Within   12.400   28   .443
-Groups
-Total   22.000   29
-********** 26 **********
---- page 27 ---
-Luxury Between   141.067   1 141.067   123.8   .000
-Groups   20
-Within   31.900   28   1.139
-Groups
-Total   172.967   29
-Resale Between   40.017   1   40.017   94.55   .000
-Groups   4
-Within   11.850   28   .423
-Groups
-Total   51.867   29
-a) How many clusters are appropriate for this data? Explain (4 Marks)
-b) Who are the members of the group (give case number)? (3 marks)
-c) What would you conclude from ANOVA? (3 Marks)
-d) What are characteristics of each group? (6 marks)
-e) Based on the cluster analysis performed on customer responses, identify the
-most profitable Automobile buyer segment. Justify your answer (4 Marks)
-Q7   a
-CO-
-The table below shows the sale (in thousands) for a particular brand of Chocolate in a retail
-1,2,   outlet for each of the last nine months.
-3;   Month   1   2   3   4   5   6   7   8
-Sale   160   110   130   160   180   150   200   220
-BL-
-[1
-Appl   a) Calculate a three month moving average for months three to eight. What would be
-your forecast for the demand in 9th month?   (3 marks)   0]
-y,   b) Apply exponential smoothing with a smoothing constant of 0.4 to derive a
-Anal   forecast for the demand in 9th month. (3 marks)
-yse,   c) Which of the two forecasts for 9th month do you prefer and why? (4 marks)
-Eval
-uate
-Q7   b A power distribution company is planning to expand its infrastructure for supplying
-electricity generated from solar energy. To support this strategic decision, the
-CO-
-company has collected historical monthly data on solar power consumption (in
-1,2,   megawatt-hours).
-3;   Using data from the past several months, the analytics team has developed multiple
-[1
-BL-   ARIMA models with different combinations of parameters (p, d, q) to forecast future
-demand. In addition, Autocorrelation Function (ACF) and Partial Autocorrelation   0]
-Appl   Function (PACF) plots have been generated to identify patterns such as trend and
-seasonality in the data.
-y,
-Anal   The following SPSS output is provided:
-yse,   • ACF & PACF plots for the original series
-********** 27 **********
---- page 28 ---
-Eval   • ACF & PACF plots after applying first differencing
-• Multiple ARIMA models with different values of p, d, and q
-uate
-After examining these models for various parameters, you are expected to choose a best
-fitted model for given data with detailed explanations for your choice. Also mention the
-forecast you will suggest for the company for next 6 periods. Comment on the forecast.
-ACF
-Demand Solar
-ACF
-********** 28 **********
---- page 29 ---
-Time Series Modeler
-Model Description
-Model Type
-Model ID   Demand EV   Model_1   ARIMA(1,0,0)
-Model Summary
-Fit Statistic   Mean   Minimum   Maximum
-Stationary R-   .589   .589   .589
-squared
-R-squared   .589   .589   .589
-********** 29 **********
---- page 30 ---
-RMSE   128.916   128.916   128.916
-MAPE   3.677   3.677   3.677
-MaxAPE   14.638   14.638   14.638
-MAE   79.890   79.890   79.890
-MaxAE   356.186   356.186   356.186
-Normalized   9.951   9.951   9.951
-BIC
-Model Statistics
-Model Fit statistics   Ljung-Box Q(18)
-Statio   Num
-Numb   nary   ber
-er of   R-   R-   of
-Predic squar squa   Normali   Statist   Outli
-Model   tors   ed   red RMSE MAPE zed BIC   ics   DF   Sig.   ers
-Demand   0   .589 .589   128.9   3.677   9.951   17.84   17 .399   0
-Solar-   16   1
-Model_1
-ARIMA Model Parameters
-Estimate   SE   t   Sig.
-Demand Dema No   Constant   2154.754 121.113   17.79   .000
-Solar-   nd EV Transform   1
-Model_1   ation   AR Lag 1   .850   .094   8.997   .000
-Forecast
-Model   30   31   32   33   34   35
-Demand   Forecas   2081   2092   2102   2110   2117   2122
-Solar-   t
-Model_1   UCL   2317   2402   2455   2492   2518   2537
-LCL   1846   1783   1748   1728   1715   1707
-For each model, forecasts start after the last non-missing in the range of the
-requested estimation period, and end at the last period for which non-
-missing values of all the predictors are available or at the end date of the
-requested forecast period, whichever is earlier.
-********** 30 **********
---- page 31 ---
-Time Series Modeler
-Model Description
-Model Type
-Model ID   Demand EV   Model_1   ARIMA(1,1,0)
-Model Summary
-Fit Statistic   Mean   Minimum   Maximum
-Stationary R-   .123   .123   .123
-squared
-R-squared   .654   .654   .654
-RMSE   110.516   110.516   110.516
-MAPE   3.606   3.606   3.606
-********** 31 **********
---- page 32 ---
-MaxAPE   12.564   12.564   12.564
-MAE   76.673   76.673   76.673
-MaxAE   316.371   316.371   316.371
-Normalized   9.648   9.648   9.648
-BIC
-Model Statistics
-Numb   Model Fit statistics   Ljung-Box Q(18) Numb
-er of   Stationa   Norma   er of
-Predic   ry R-   R-   lized   Statist   Outlier
-Model   tors   squared squared RMSE MAPE   BIC   ics   DF   Sig.   s
-Demand   0   .123   .654   110.5   3.606   9.648   12.07 17 .796   0
-Solar-   16   3
-Model_1
-ARIMA Model Parameters
-Estimat
-e   SE   t   Sig.
-Demand Dema No   Constant   -16.532 15.71 -1.052   .303
-Solar-   nd EV Transform   9
-Model_1   ation   AR   Lag 1   -.341   .185 -1.841   .077
-Difference   1
-Forecast
-Model   30   31   32   33   34   35
-Demand   Forecas   2025   2018   1998   1983   1966   1949
-Solar-   t
-Model_1 UCL   2252   2290   2322   2347   2368   2386
-LCL   1798   1746   1674   1618   1563   1513
-For each model, forecasts start after the last non-missing in the range of
-the requested estimation period, and end at the last period for which
-non-missing values of all the predictors are available or at the end date
-of the requested forecast period, whichever is earlier.
-********** 32 **********
---- page 33 ---
-Time Series Modeler
-Model Description
-Model Type
-Model ID   Demand EV   Model_1   ARIMA(0,1,1)
-Model Summary
-Fit Statistic   Mean   Minimum   Maximum
-Stationary   .172   .172   .172
-R-squared
-R-squared   .674   .674   .674
-RMSE   107.369   107.369   107.369
-MAPE   3.512   3.512   3.512
-********** 33 **********
---- page 34 ---
-MaxAPE   11.815   11.815   11.815
-MAE   74.651   74.651   74.651
-MaxAE   297.515   297.515   297.515
-Normalized   9.591   9.591   9.591
-BIC
-Model Statistics
-Number   Model Fit statistics   Ljung-Box Q(18)   Numb
-of   Stationa   R-   er of
-Predicto   ry R-   squar   Normali   Statistic   Outlie
-Model   rs   squared   ed   RMSE   MAPE   zed BIC   s   DF   Sig.   rs
-Demand   0   .172 .674 107.369   3.512   9.591   8.571   17 .953   0
-Solar-
-Model_1
-ARIMA Model Parameters
-Estimat
-e   SE   t   Sig.
-Demand   Dema No   Constant   -16.419   11.43   -1.436   .163
-Solar-   nd EV Transform   5
-Model_1   ation   Difference   1
-MA   Lag 1   .455   .185   2.460   .021
-Forecast
-Model   30   31   32   33   34   35
-Demand   Forecas   2004   1988   1972   1955   1939   1922
-Solar-   t
-Model_1 UCL   2225   2239   2250   2258   2265   2270
-LCL   1784   1737   1693   1652   1613   1575
-For each model, forecasts start after the last non-missing in the range of
-the requested estimation period, and end at the last period for which non-
-missing values of all the predictors are available or at the end date of the
-requested forecast period, whichever is earlier.
-********** 34 **********
---- page 35 ---
-Time Series Modeler
-Model Description
-Model Type
-Model ID   Demand EV   Model_1   ARIMA(1,0,1)
-Model Summary
-Fit Statistic   Mean   Minimum Maximum
-Stationary R-   .631   .631   .631
-squared
-R-squared   .631   .631   .631
-RMSE   124.523   124.523   124.523
-MAPE   3.755   3.755   3.755
-********** 35 **********
---- page 36 ---
-MaxAPE   12.672   12.672   12.672
-MAE   81.474   81.474   81.474
-MaxAE   318.192   318.192   318.192
-Normalized   9.997   9.997   9.997
-BIC
-Model Statistics
-Model Fit statistics   Ljung-Box Q(18) Num
-Numb   ber
-er of   Stationa   R-   of
-Predic   ry R-   squa   Normali   Statistic   Outli
-Model   tors   squared   red RMSE MAPE zed BIC   s   DF   Sig.   ers
-Demand   0   .631 .631 124.523   3.755   9.997   17.903 16 .330   0
-Solar-
-Model_1
-ARIMA Model Parameters
-Estimate   SE   t   Sig.
-Demand Dem No   Constant   2192.748 179.252   12.23   .000
-Solar-   and   Transform   3
-Model_1 EV   ation   AR Lag 1   .946   .063   14.94   .000
-9
-MA Lag 1   .345   .216   1.599   .122
-Forecast
-Model   30   31   32   33   34   35
-Demand   Forecas 2056 2064   2071 2077   2083 2089
-Solar-   t
-Model_1 UCL   2286 2331   2369 2400   2426 2450
-LCL   1826 1796   1772 1755   1740 1729
-For each model, forecasts start after the last non-missing in the
-range of the requested estimation period, and end at the last
-period for which non-missing values of all the predictors are
-available or at the end date of the requested forecast period,
-whichever is earlier.
-********** 36 **********
---- page 37 ---
-Time Series Modeler
-Model Description
-Model Type
-Model ID   Demand EV   Model_1   ARIMA(1,0,1)
-Model Summary
-Fit Statistic   Mean   Minimum   Maximum
-Stationary   .930   .930   .930
-R-squared
-R-squared   .930   .930   .930
-RMSE   58.840   58.840   58.840
-********** 37 **********
---- page 38 ---
-MAPE   1.922   1.922   1.922
-MaxAPE   6.914   6.914   6.914
-MAE   40.175   40.175   40.175
-MaxAE   128.895   128.895   128.895
-Normalized   8.962   8.962   8.962
-BIC
-Model Statistics
-Model Fit statistics   Ljung-Box Q(18)
-Statio
-Numb   nary   Numb
-er of   R-   R-   Norma   er of
-Predic squar squa   lized   Statist   Outlier
-Model   tors   ed   red RMSE MAPE   BIC   ics   DF   Sig.   s
-Demand   0   .930 .930   58.84   1.922 8.962   11.91   16 .750   4
-Solar-   0   1
-Model_1
-ARIMA Model Parameters
-Estimat
-e   SE   t   Sig.
-Demand   Demand No   Constant   2222.61   42.26   52.58   .000
-Solar-   EV   Transform   2   9   2
-Model_1   ation   AR Lag 1   .765   .284   2.694   .013
-MA Lag 1   .281   .389   .720   .479
-Outliers
-Estimate   SE   t   Sig.
-Demand   1   Additive   236.624   68.386   3.460   .002
-Solar-   2   Additive   205.641   60.103   3.421   .002
-Model_1   7   Additive   321.659   53.032   6.065   .000
-14   Level   -242.859   55.401   -4.384   .000
-Shift
-Forecast
-Model   30   31   32   33   34   35
-Demand   Forecas   2026   2015   2007   2001   1996   1992
-Solar-   t
-Model_1   UCL   2148   2150   2149   2147   2144   2142
-LCL   1905   1881   1865   1855   1847   1842
-********** 38 **********
---- page 39 ---
-For each model, forecasts start after the last non-missing in the range of the
-requested estimation period, and end at the last period for which non-
-missing values of all the predictors are available or at the end date of the
-requested forecast period, whichever is earlier.
-********** 39 **********
-````
-
 ## 2024-25 · Re-Exam · Sem 8 · paper 6e94b9251974
 
 - Departments: Data Science
@@ -31187,7 +31176,7 @@ earlier.
 ********** 33 **********
 ````
 
-## 2023-24 · Re-Exam · Sem 8 · paper bab0d6601019
+## 2024-25 · Re-Exam · Sem 8 · paper bab0d6601019
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -32021,6 +32010,2304 @@ Analyse Also mention which forecast you will use for prediction & why?
 | Demand 120 | 135 | 140 150 160 170 180
 ````
 
+## 2023-24 · Exam not stated · Sem 8 · paper cb64f5e83d7a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics_cb64f5e83d.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/ 04/ 2024
+- Text: ocr (17 pages), mean OCR confidence 75.2
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2023-2024 ;
+Program: MBA Tech Year: 1V Semester: Vill
+
+Stream : All Streams
+
+Subject: Business Analytics we Time: 2 hrs. (10 am to 12 noon)
+Date: 19/ 04/ 2024 No. of Pages: 17
+
+Marks: 50
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any ___4 __ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+CO-1; BL- What statistical methods are commonly employed in business analytics, and how
+Knowledge do these methods contribute to extracting meaningful insights, making informed [10]
+, decisions, and solving business challenges?
+Understand
+Following data was collected from a manufacturing firm. The objective of the study
+was to forecast the annual sales of the company.
+Y = annual net sales (in $1000) .
+X1 = number of competing stores in district
+X2 = number sq. ft (in 1000)
+X3 = inventory (in $1000)
+X4 = amount spent on advertising (in $1000)
+X5 = size of sales district (in 1000 families)
+A regression analysis was conducted and the results are given beiow:
+Q2
+CO-2: BL- Regression snosenterrve [10]
+Analyse Adjusted R Std. Error of the
+Model R R Square Square Estimate Durbin-Watson
+1 .954a .910 906 58.91888
+2 -988b 975 973 31.42450
+3 .994c .988 .987 22.13301
+4 .995d 990 988 20.67512
+S. .997e 993 992 17.64924 1.789
+
+V7
+--- page 2 ---
+ANOVA gi
+
+Model Sum of Squares df Mean Square F Sig.
+
+1 Regression 872294.494 1 872294.494 251.278 .000a
+Residual 86785.858 25 3471.434
+Total 959080.352 26
+
+2 Regression 935380.376 2 467690.188 473.611 -000b
+Residual 23699.976 24 987.499
+Total 959080.352 26
+
+3 Regression 947813.336 3 315937.779 644.942 .000c
+Residual 11267.015 "23 489.870
+Total 959080.352 26
+
+4 Regression 949676.221 4 237419.055 555.418 .000d
+Residual 9404.131 2 427.461
+Total 959080.352 26
+
+5 Regression 952538.942 5 190507.788 611.590 .000e
+Residual 6541.40} 21 311.496
+Total 959080.352 26
+
+W7
+--- page 3 ---
+Coefficients ¥
+
+Stand
+ardize
+d
+Unstandardized Coeffi 95.0% Confidence Collinearity
+Coefficients cients Interval for B Statistics
+Std. Lower Upper Toleranc
+Model B Error Beta t Sig. | Bound Bound e VIF
+1 (Const -58.823 24.563 -2.395 | .024 | -109.412 -8.235
+ant)
+XS 35.635 2.248 1954 15.852 | .000 31.005 40.265 1.000 1.000
+2 (Const | -111.334 14.656 -7.596 | .000 | -141.579 | -81.083
+ant) .
+XS 23.057 1,978 617 11.654 | .000 18.974 27 140 367 2.723
+x4 21.534 2.694 423 7.993 | .000 15.973 27.094 367 2.723
+Gia
+3 (Const ] -108.408 10.339 -10.486 | .000 | -129.795 | -87.021
+ant)
+XS 17.741 1.748 475 10.151 | .000 14.126 21.357 233 4.284
+x4 19.087 1.959 375 9.745 | .000 15.035 23.139 345, 2.901
+X2 20.571 4,083 .215| 5.038 | .000 12.124 29.018 279 3.579
+4 (Const -39.460 34.411 -1.147 | .264 | -110.823 31.903
+ant)
+XS 15.673 1.910 419 8.206 | .000 44.712 19.634 let 5.862
+x4 16.966 2.093 333 8.107 | .000 12.626 21 306 263 3.795
+X2 20.444 3.815 214 5.359 | .000 12.532 28.355 279 3.580
+x1 ~4.043 1.937 -.103 -2.088 | .049 -8.060 ~.027 183 5.469
+ting
+5 (Const -18.859 30.150 -.626 | 538} -81.560 43.841
+ant)
+x5 13.580 1.770 363 7.671 | .000 9.898 17.262 145 6.912
+X4 11.526 2.532 .227 4,552 | .000 6.260 16.792 131 7.624
+X2 16.202 3.544 .170 4.571 | .000 8.831 23.573 236 4.241
+x1 -§.311 1.705 ~.135 -3.114 | 005 -8.858 -1.764 172 5.819
+x3 175 058 174 3.032 | .006 055 .294 .099 10.122
+--- page 4 ---
+Residuals Statistics
+
+Minimum Maximum Mean Std. Deviation N
+Predicted Value 7.7399 568.5255 286.5741 191.40562 27
+Residual -26.33816 41.13912 .00000 15.86167 27
+Std. Predicted Value “1.457 1.473 .000 1.000 27 |
+Std. Residual -1.492 2.331 .000 .899 27
+Charts
+Histogram <
+Dependent Variable:
+i Waser = 1 81E-15
+Std fev. = 0850
+nea
+ej L
+
+om
+
+z
+
+a
+
+&
+
+=
+
+x
+r
+2 a ° 1 2 3
+
+Regression Standardized Residual
+
+Dependent Variable bs
+
+3.
+
+or
+
+Observed Cum Prob
+
+WIT
+--- page 5 ---
+Seatterpiot
+Dependent Variabte:
+
+= = e
+
+° oe
+°
+é ° . °
+§ e 6 o
+09,
+= ° ao
+
+sy Po °
+
+Regression Standardized Pradisted Vatue
+
+Answer following questions:
+om a) State the multiple regression equation. (2 Marks)
+b) Interpret the meaning of each of the regression coefficients. (2 Marks)
+c) Can you use the equation for prediction? Explain.(2 Marks)
+d) Determine the coefficient of multiple determinations and interpret its meaning.
+
+(2 Marks) .
+
+e) Predict sales for following values of independent variables. (2 Marks)
+XI X2 X3 x4 x5 |
+14 1.6 160 — 2.5 25 |
+
+A television producer, running out of capital approached a bank for loan. The bank
+collected some past data of the producer to predict the success of new television
+programs. A program is considered successful if it survives its first season. Data
+on production costs, number of sponsors, and the total amount spent on promoting
+the program are available. A random sample of programs is selected, and the data
+are presented in the following table. Production costs are in millions of dollars, and
+promotions in hundreds of thousands of dollars;
+
+Variable Success : 1 => Success, 0=> Failure
+The Output of analysis is given below:
+
+Q3 Logistic Regression
+CO-2: BL- Block 0: Beginning Block a . 110)
+Analyse. Classification Table*’
+Evaluate StepO Success 00 0 22 0
+1.00 ~~ 0 45 ~ 100.0
+Overall Percentage 67.2
+
+a. Constant is included in the model.
+b. The cut value is .500
+
+Variables in the Equation
+
+B SE. Wald df Sig. Exp(B)
+Step 0 Constant 716 260. ~‘7.567 1 006. —-2.045
+--- page 6 ---
+Block 1: Method = Forward Stepwise (Wald) we ] |
+
+Omnibus Tests of Model Coefficients
+
+Chi-square df Sig.
+26.146 1 000
+26.146 1 “000
+26.146 1 “000
+24.231 i “000
+~~ 50.377 2 000
+50.377 > 000
+4.385 1 036
+54.762 3 000 :
+~ 54.762 3 000 Ss
+
+Model Summary
+
+-2 Log likelihood- Cox & Snell R Square Nagelkerke R Square
+
+ae 58.6778 323 450
+34.446 529 736
+gir 30.0618 558 778
+
+a. Estimation terminated at iteration number 6 because parameter estimates
+changed by less than .001.
+
+b. Estimation terminated at iteration number 7 because parameter estimates
+changed by less than .001.
+
+Hosmer and Lemeshow Test
+
+Step Chi-square df Sig. \
+1 19.729 8 .011
+2 14.600 8 .067
+3 11.022 8 -200
+
+Classification Table?
+
+Step 1 Success 00 156 7 68.2.
+: {00 10000 88 TB
+Overall Percentage 74.6 LE
+Step2 Success 00 _ 19 3 86.4
+1,00
+
+Overall Percentage
+Step 3 Success 00.
+rs 1.00
+Overall Percentage
+a. The cut value is .500
+--- page 7 ---
+Variables in the Equation i
+B SE. Wald df Sig. __ Exp(B)
+
+Step 1? Promotions 955 251 «14.471 1 000 2.598
+
+Constant -2.204 733 9.049 1 003 110
+
+Step 2° Production Cost 2.047 729 7.896 1 005 = 7.748
+
+: Promotions .947 .270 = 12.285 1 -000 2.578
+
+Constant -7.490 1.980 14.306 1 -000 001
+
+Step 3° Production Cost 1783 707 6.366 4 012 5.946
+
+Number of 1850 970 3.639 1 046 6.359
+Sponsors . :
+
+Promotions .900 302 8.860 1 003 2.460
+
+Constant “9.337. 2.571 13.190 1 -000 000
+
+a. Variable(s) entered on step 1: Promotions.
+i b. Variable(s) entered on step 2: Production Cost.
+c. Variable(s) entered on step 3: Number of Sponsors.
+
+Answer following questions:
+
+a) Which multivariate technique is used and why? (1 Marks)
+
+b) State the function. (2 Marks)
+
+c) How would you assess.the model? Which test statistic /s used to test
+accuracy of the model? Interpret the classification table. Can you use this
+model for prediction? (3 Marks)
+
+d) What is the sensitivity and specificity of the model? (2 Marks)
+
+e) How would you classify a TV Serial having promotion cost of 3 millions,
+number of sponsors 2 and Promotion 200 thousand? (2 Marks)
+
+The dataset is described in the columns correspond to the variables age, years with
+current employer and household income as independent variable and loan default
+status as dependent variable which is coded | if defaulted and 0 if not defaulted.
+There are 300 individuals in total.
+
+A model is developed to predict whether an individual would default on loan or not
+default based on the independent variables. Answer the following questions based
+
+7 on the output:
+
+Discriminant
+
+Q4
+
+CO-2: BL- Analysis Case Processing Summary
+
+7 Unweighted Cases N Percent [10]
+
+Analyse, Valid cous 300 75.0
+Excluded Missing or out-of-range group codes 100 25.0
+
+Evaluate
+
+At least one missing disc nating 0) .0
+variable
+Both missing or out-of-range group e) 0
+
+codes and at least one missing
+discriminating variable
+
+Total 100 25.0
+Total 400 100.0
+
+Yp
+--- page 8 ---
+Group Statistics
+
+*
+
+Valid N (listwise)
+
+Std.
+Previously defaulted Mean Deviation _ Unweighted Weighted
+“No- fe : 34.9043 7.48678 230 230.000
+9.3087 6.27015 230 230.000
+43.9652 | 27.39264 230 230.000
+32.8143 7.89844 70 70.000
+5.3286 4.69573 70 70.000
+36.5571 25.32321 70 70.000
+34.4167 7.62300 300 300.000
+8.3800 , 6.16785 300 300.000
+42.2367 27.06515 300 300.000
+Analysis 1 .
+Box's Test of Equality of Covariance Matrices
+Log Determinants
+Previously defaulted Rank Log Determinant
+‘No- eee 3 13.248
+Yes : 3 12.897
+Pooled within-groups 3 13.209
+The ranks and natural logarithms of determinants printed .
+are those of the group covariance matrices.
+Test Results
+Box's M. : 12.397
+F. _Approx. 2.031
+Cia 6
+Sie 98790.100
+TSIQies ee 058
+Tests null hypothesis of equal
+population covariance matrices.
+Summary of Canonical Discriminant Functions
+Eigenvalues
+Canonical
+Function Eigenvalue _% of Variance Cumulative % Correlation
+1 .0918 100.0 100.0 289
+
+a. First 1 canonical discriminant functions were used in the analysis.
+
+<<
+
+,
+--- page 9 ---
+Wilks’ Lambda 4
+Test of Function(s) Wilks' Lambda Chi-square df Sig.
+1 -916 25.858 3 .000
+
+Standardized Canonical
+Discriminant Function
+Coefficients ~
+
+Function
+. 1
+Age in years -.061
+Years with current employer 1.265,
+Household income in -.433
+
+thousands
+
+Structure Matrix
+
+Function
+1
+Years with current employer 942
+Age in years 387
+Household income in .387
+
+thousands
+
+Canonical Discriminant
+Function Coefficients
+
+“Function
+1
+Age in years ; -.008
+Years with current employer 213
+Household income in -.016
+thousands _ _
+(Constant) -.829
+
+Unstandardized coefficients
+
+Classification Results**
+
+Original Count No 133 97 230
+Yes _ ot 49. ~—«70
+Ungrouped cases 47 OS “400
+% No 57.8 400.0
+Yes 30.0 100.0
+Ungroupedcases i (itié‘i -
+
+a. 60.7% of original grouped cases correctly classified
+
+a) State the discriminant function. (1 mark)
+b) Comment on the discriminating power of the model and explain. (2 marks)
+c) Which independent variables have the most and least explanatory power?
+Explain? (2 marks)
+d) Test the significance of Box’s M test by formulating the hypothesis and infer
+the result.
+(2 marks)
+e) Interpret the classification table and explain whether the model could be used
+for prediction or not? (3 marks)
+
+Vir
+--- page 10 ---
+i
+
+[ Let's consider a scenario where we have a dataset containing information about
+various electronic devices, including their battery life (in hours) and’ processing
+power (in GHz). We want to categorize these devices into two classes: "High
+Performance" and "Low Performance" based on their specifications. Here's a
+sample dataset:
+
+[ Device Battery Life Processing Power Class
+Q5 Laptop 10 25 High Performance
+CO-2; BL- ; Smartphone 8 1.8 Low Performance
+. Tablet 12 1.2 Low Performance [10]
+Analyse, Desktop } 15 3 High Performance
+Evaluate Smartwatch 5 0.5 Low Performance
+[ Gaming Console 20 : 2 High Performance
+imelll
+
+We have a new electronic device with a battery life of 9 hours (Z-Score = -0.50157) .
+and a processing power of 2.2 GHz (Z-Score = -0.409264). Predict whether this
+
+device belongs to the "High Performance" or "Low Performance" class using the
+
+k-Nearest Neighbors (kK-NN) algorithm with k=3 and k=5,
+
+Twenty five individuals have rated movi
+independent variables listed below:
+
+06 “Thriller, Comedy, Action, Horror, Science”, where
+
+1-Very amazing, 2- Amazing, 3- Good, 4- Bad , 5- Very Bad)
+
+€ genres (on a rating scale of 1-5) on 5
+
+CO-2; BL-
+
+A cluster analysis was performed on the data to segment viewers into distinct | [10]
+Analyse, arr aa . " ea : .
+
+groups based on similarities in ratings. This can provide insights into which genres
+Evaluate tend to be rated similarly by individuals, helping to categorize them in a more
+
+meaningful way.
+
+[ SPSS output of the analysis is shown below:
+. _
+
+7 |
+--- page 11 ---
+P
+
+Agglomeration Schedule
+
+Cluster Combined
+
+Stage Cluster First Appears a
+
+Cluster1   Cluster2 Coefficients __Cluster4 Cluster2 Next Stage
+24 25. .000 ° ° ; 2
+23 24 .000 8) 4 ant
+a 23. _.000 9 2 4
+21 22 -365 3. Oo] 24
+
+1 3. B16 ° 0 16
+13 17 ~ 1.468 oO fC) 17
+4 15 O° 10
+me 9. =o 6
+19 20 oO] 13
+s =. eons a9 As
+6 18 6.418 _ o 412
+6 8 8.124 oO. 19
+10 19 9.943 9 20
+ro a4 4. 2. 23
+7 16 13.640 oO _ 18
+1 2 16.183 ca 20
+12 13 19.7615 6 19
+7 oe) 23.754 O° 22
+6 12 29.824 17 _23
+1 10 __ 39.039 16— 3 21
+1 4 50.258 26 14 22
+1 7 66.289 21 18 23
+7 6 90.261 22.0 19 24
+1 21 120.000 23 4 °
+
+Cluster Membership
+
+Case 6 Clusters 5 Clusters 4 Clusters 3 Clusters 2 Clusters
+aucase (a, Se 1 a
+2RCese 2 1 ms a —
+_ 1 1 -
+Bo 2
+_2 2
+3. 3 e)
+s bs AL
+7 3 3 1
+1 1 1
+5 1 Mu
+4 4 q
+3. 3 — : 1
+3 3 Bs 2 ° 1
+2 2 1 4 4
+2 2 ) 4 =)
+: 4 4 3 a 1
+3 3 a 2 4
+fe) 3 2 - 2 4
+- 5 1 re, oe il
+5 1 4 - 1 1
+6 5 4 2 __2
+6 5 4 3 2
+6 S 4 3 2
+_24.Gase 2: 6 5 4 3) 2
+25.Case 25 6 5 4 3 2
+
+Viz
+--- page 12 ---
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+
+oO 5 10 15 20
+Case24 24) : : : :
+Case 25 25)
+Case 2323
+Case 2121 : -
+Case 22 nz : : ; :
+_ Case 6 6
+Case18 18)
+
+Case 8 ee
+
+Case 13 a
+Case17 17,
+
+Case12 12
+Case7 7
+>Case16 16
+Case11 11 : 1
+Case 4 a
+Case15 15
+Case $ ye
+case14 14)
+Case19 1
+Case 20 oI
+Case10 10 -
+Case 1 1
+Case 3 al
+Case 2 2
+Case 9 9
+Descriptives
+95% Confidence Interval for
+Mean
+N Mean Std Deviation Std. Error LowerBound = UppagBound = Minimum ~— Maximum
+Thriller 34 20 3.80 1.240 217 3.22 4.38 1 §
+2 5 A 000 000 “4.00 400024 ~—CO
+8. 1106 02=~CO ss St=<“<«é«~s SC‘ mESC*‘CO“N®W
+1.361 304 _ 216 3d 1 5 \
+000 “000 “40 - 7 7 4
+1.306 5
+4.387 5
+a poe
+1.480 “15
+1 ‘5
+poe
+- : 1 _ 5 |
+1 5 |
+1 4 |
+1 5 '
+--- page 13 ---
+ANOVA ee oa
+
+Sum of
+Squares af Mean Square F Sig.
+Thriller Between Groups _ 160 - 1 160.126 726
+~ | Within Groups 29.200 _ 23 4270. a
+foi Dee 29,360 24 BS
+Comedy “BetwaenGrouns 5.760 a 5.760 ____3.764 065 _
+: Within Groups 35.200 2300 1,530 :
+see rota __. 40.960 C5 a
+- Action Between Groups _ 15.210, 1 15.210 | _.006
+: Within'Groupss 37.350 23, ols oe
+Total (52.560 _ 24 a a
+Horror _Betwasn Groups _ 20.250 0d 20.250 13.800 001
+33.750 23 1.467
+54.000 _ 24 a i
+21.160 1 21.160 17.258 <.001
+28.200 23 1.226
+49.360 24
+a Descriptives
+as 95% Confidence interval for
+Mean
+N Mean Std. Deviation Std. Enor Lower Bound Upper Bound Minimum — Maximum
+Thiiller 4.00 1.240 33 3.28 472 1 5
+3.33 1a 498 “2.06 ~ 4.61 2:
+4.00 “900.000 4.00
+3.84 1.108 an 33800
+207 829. 2n “1.89
+450 + 548.224 3.93
+400 | 00.000 4.00
+3.04 1.306.261 2.50
+3.43 4.222.327 272
+6 150. “548224 23
+eee) AAT 200 424
+25 3.24 1.480 298 2.63
+14 2.86 4.351 361 “2.08
+6 2.50 1.378 563 -
+5 5.00 000 000
+25 320. 1,500 300
+14 314 1.351 361 :
+6 367 st 333
+“6 1.00 000 000
+Tota _ 25 2.84 1.434 ; 287 - 5 5 7 7 - 5
+ANOVA
+Gf > Sum of
+Squares at Mean Square F Sig.
+Thriller Between Groups 2.027 © _2 - 1.013) i
+“Within Groups 27.333 2200 1,242 _
+29.360 _ 24 seuincmane eamsssnaceculie —
+Between Groups | 30.531 2 15.266 32.204 _<.001
+“Within Groups 10.429 22 Pr.
+__-Total : 40.960 24 ee : _
+30.831 2 15.416 15.608 <.001
+21.729 22 988 :
+52.560 24
+20.786 2 10.393 6.884 .005
+33.214 22 1.510
+54.000 24 : a
+22.312 2 11.156 9.074 01
+27.048 2 1.229
+49.360 24
+
+I3/\>
+--- page 14 ---
+Descriptives y ps
+95% Confidence Interval for
+- Mean
+N Mean Std. Deviation Std. Error LowerBound — UpperBound Minimum Maximum
+4.55 522 187 499 0 4900 5
+3.33 4.211 494
+_2.00 “1,000 577
+
+4.00 0
+3.84 1,106
+2.18 874
+4.50 5B
+
+NS |
+|
+|
+
+Sum of
+Squares aft Mean Square F Sig.
+1s 17.299 3 66 10.041 <.001
+12.061 OS
+29.360 : ace!
+31.157 10.386 22,248 <.001
+9,803 a
+40.960 ee a
+319-893. _#,001
+21 8S eae
+3 7.864 ‘5.430
+21 1.448
+2m So
+3 8.373 7.253.002
+21
+--- page 15 ---
+Descriptives 3 7
+95% Confidence Interval for =
+Mean
+N Mean Std.Deviation Std-Error Lower Bound © UpperBound = Minimum — Maximum
+Thiiller 4 457538 202 408507 4 8
+45000
+
+12494
+1000 _8I7
+
+2:
+300 34
+51 A
+— 548 224 nee
+37 3830
+00s _ 4.00
+1906 250
+STA 595
+FA
+a
+3244.80
+2.29 1413 _
+4500 SIT 289
+250° 1378 563
+000-800
+00000
+1.500 0
+690
+“ 50
+; 3B
+4.732 1.000
+eo 0000000
+“Total” 25 2.84 1.434 287
+ANOVA
+Sum of
+Squares. dt Mean Square F Sig
+@ Thriller BetweenGroups _ 4.328 7185 <.001
+evinin Groups 2s -
+Total
+
+Comedy Between Groups _
+Within Groups
+Total —
+
+Action Between Groups
+
+Within Groups
+
+Total
+
+Honor _BetweenGroups
+Within Groups
+Total
+
+Science Between Groups
+Within Groups
+Total
+
+<001
+
+48
+
+8101 8.038 = <.004
+1,008
+
+<001
+
+895
+
+9405 14.072 «001.
+O47
+
+IS/I7
+--- page 16 ---
+Descriptives ae
+
+95% Confidence Interval for
+
+Mean
+N Mean Std. Deviation Std.Enror LowerBound = UpperBound = tinimum — Maximum
+4 4.50 S17 289 3.58 542 4 5
+4 4.50 517 289 3.58 5.42 4 5
+6 33300 1.211 494 2.06 4.60 2 5
+3.200 1.000 S17 “AB 4.48 13
+3 4.67 517 333 323 6.10 4 5
+5 4.00 000 000 4.00 4.00 4 4
+5 3.84 1.406 2 3.38 430001 5
+4 2.75 500 250 1.95 3.55 2 3
+42 TAT B am 4 2
+6 4.50 548 224 3.93 607 5
+3 1.67 S17, 333 23 3.10 1 2
+3 13ST 333 “10 27 A
+6 4.00 000 000 400 4.00 44 |
+35304 1.306 261 2.50 36801 Oo |
+4 200 816 408 70 3.30 a 3 |
+_. 4 3.50 S17 289 2.58 44200
+648058
+3 400 4.000577 152 648
+3 4.67 517 333 6.10
+4.80 AAT. 200 536
+324 * 1.480 296 385
+425 957 ATg 4m
+4 517.289 $420 4S
+6 1,378 563 3.95
+3 000 000 2.00
+3 1455 667 454
+5 000.000 5.00 5 §
+oy 300 3.82 1 5
+. ee |
+4 5.05 4 5
+6 “432 °243~*=Sé
+3 |
+2 |
+25 ~~)
+ANOVA
+Sum of
+Squares df Mean Square F Sig.
+Thiiller Between Groups 17.360 a 3.472 5.497.003
+‘Within Groups:
+Total
+Comedy Between Groups
+Within Groups.
+i ee
+Action —_ Between Groups 44.593
+Winn Groups 967
+Total 52.560 24 '
+Horror Between Groups 5 7617 9.092 - 7
+Within Groups 19 O88 ss =
+Total 24
+Science Between Groups 5 7872-12810 ~~ <001
+pceeen Oran 7 ne Raina
+24
+--- page 17 ---
+a) Find the number of clusters appropriate for the data? (2) we
+b) Who are the members of the groups? List them down. (2) i
+c) How many members are there in each group? (2)
+
+d) What are the characteristics of each group? (2)
+
+e) What can you conclude from the ANOVA table? (2)
+
+For the following data forecast the demand for 8 Month using:
+1) 3 point moving average
+
+_2) Exponential smoothing with Smoothing coefficient (Alpha) = 0.4
+CO-2; BL- [10]
+Also mention which forecast you will use for prediction & why?
+Analyse
+Month 1 2 3 4 5 6 7
+Sales 16 19 15 20 22 23 20
+
+Wy
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 47bd1844e6b2
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (13 pages), mean OCR confidence 79.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS ca
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& E
+
+Academic Year: 2022-2023 ;
+
+Program: MBA Tech Year: Jv Seméster: VIII
+
+Stream: All Streams
+
+Subject: Business Analytics Time: 2 hrs (40:00amtoi2 noon )
+Date:_27 /06 / 2023 No. of Pages: 13
+
+Marks: 50
+
+Re~Examination (2021 - 22/2099 - 23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+om 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions are to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Explain how the following levels of analytics vary in scope by providing suitable
+
+Qi example for each in the context of a manufacturer of consumer electronic products:
+CO-1 a) Descriptive
+BL-Understand b) Diagnostic [4*2.5=10]
+
+c) Predictive
+d) Prescriptive
+
+For the multiple linear regression output of salary. data of employees below, answer
+the questions following the table (Salary data used is in INR thousands per month).
+
+Regression
+
+Qa . . . .
+
+0.2: Descriptive Statistics
+
+BL- Mean Std. Deviation N
+
+Understand, Salary 52.5245 42.22093 100
+
+Apply Age 4688 (18.271 100.
+Gender-Female 5000 «50282 100
+Gender=Male 5000 50252 100
+PhD=No i100 902 100
+PhD=Yes_ 3900 49021 100
+
+[2*5=10}
+--- page 2 ---
+:
+
+Correlations
+
+Gender=Fem
+Salary Age ale Gender=Male PhD=No PhD=Yes
+Pearson Correlation _ Salary le 1.000 _. ATT _ : >.259 - 259 7556
+Age 477 + 1000 7161 - 161 __7 35
+Gender=Female -.259 -.161 a 000 -1.000 :
+GenderMale _ : . 259 164 -1,000 - 1.000
+Boo 2886 | 9638S :
+i oes PhD=Yes 7 556 - - 353 -.185 a 000
+Sig. (1-tailed) Salary eee Me 000 oo 005 _ 000 2.
+Age oe 000 | : 055 __-000
+Gender-Female = 005085 033
+GenderMale 005 55
+PhD=No - 00 - 000
+Pa os PhD=Yes- ay 000 . 000 .
+A Salary ee eee
+Age | oie 100 100 100 100 - 100
+Gender=Female 100 a 100 100 100 _ ony
+_Gender=Male _ 100 100 100 100 100
+Phi No : - 100 100 — 100 7 100 100
+PhD=Yes 100 100 100 100 100
+7 a
+Variables Entered/Removed
+Variables Variables
+Model Entered Removed Method
+4 PhD=Yes, . Enter
+Gender=Male,
+Age?
+a. Dependent Variable: Salary
+b. Tolerance = .000 limit reached.
+Model Summary”
+Adjusted R Std. Error of Durbin-
+Model R R Square Square the Estimate Watson a
+1 6457 415 397 32.78112 2.322
+a. Predictors: (Constant), PhD=Yes, GenderMale, Age
+b. Dependent Variable: Salary
+ANOVA*
+Sum of
+Model Squares df Mean Square F Sig
+1 Regression 73316.307 3 24438.769 22.742 ooo”
+Residual 103161.806 96 1074.602
+Total 176478.112 99
+
+a. Dependent Variable: Salary
+b. Predictors: (Constant), PhD=Yes, GenderMale, Age
+--- page 3 ---
+Coefficients” Ae
+Standardized
+Unstandardized Coefficients Coefficients Collinearity Statistics
+Model B Std. Error Beta t Sig. Tolerance VIF
+1 (Constant) = -6.985 10.836 642 523 :
+BAF 282 306 3.655 000 866 1.155
+14094 6.707 12 4654 101986 1.087
+PhD=Yes 36.431 7.253 423 5.023 .000 859 1.165
+a. Dependent Variable: Salary
+Charts
+Histogram
+. Dependent Variable: Salary
+-~ 30
+> 2
+o
+c
+o
+3
+>
+2
+o
+10
+° Le Be
+3 2 4 0 1 3
+Regression Standardized Residual
+Normal P-P Plot of Regression Standardized Residual
+Fay Dependent Variable: Salary
+
+10
+j |
+| |
+
+08 — | ny, a
+
+06 j
+g | on
+
+02
+
+00
+00 02 04 06 08 10
+
+Observed Cum Prob
+--- page 4 ---
+Scatterplot
+Dependent Variable: Salary
+
+2 ey 0 1 2
+
+Regression Standardized Predicted Value
+
+a) Identify the baseline for each qualitative predictor.
+
+b) Explain the interpretation of the Durbin-Watson statistic.
+
+c) By how much will the salary of a PhD candidate differ from that of a non-
+PhD candidate of the same age & gender? Determine the monthly salary
+for a 40-year-old, male, PhD candidate.
+
+d) Explain which of the predictor/s has/have a relationship with the response.
+
+e) What interpretation/s can be made from the residual plot?
+
+You are supposed to develop a model to predict that whether the participant has
+heart disease or not based upon the age, weight, gender and VO2max.
+e The dependent variable, heart disease, which is whether the participant has
+heart disease
+e The independent variable, age, which is the participant's age in years
+e The independent variable, weight, which is the participant's weight
+(technically, it is their 'mass’)
+e The independent variable, gender, which has two categories: "Male” and
+Q3 "Female"
+e The independent variable, VO2max, which is the maximal aerobic
+
+CO-2; BL- ;
+capacity
+
+Understand,
+Apply Case Processing Summary
+
+Unweighted Cases* N Percent
+Selected Cases Included in Analysis 100 100.0
+Missing Cases. 0 0
+Total 100 100.0
+Unselected Cases 0 0
+Total 100 100.0
+
+a. If weight is in effect, see classification table for the
+total number of cases.
+--- page 5 ---
+Categorical Variables Codings
+
+Parameter Dependent Variable Encoding
+
+coding Internal
+
+Frequency @M Original Value Value
+Gender Female 37 -000 No 0
+Male 63 1.000 Nes 7
+
+Block 0: Beginning Block
+
+Classification Table?”
+
+” Predicted
+Presence of Heart Disease Percentage
+Observed No Yes Correct
+(a Step 0 Presence of Heart No 65 0 100.0
+Disenze, Yes 35 0 0
+Overall Percentage 65.0
+
+a. Constant is included in the model.
+b. The cut value is .500
+
+Variables in the Equation
+
+B S.E. Wald dF Sig. Exp(B)
+Step 0 Constant -.619 .210 8.718 1 -003 538
+
+Variables not in the Equation
+
+Score df Sig.
+Step0 Variables Age 11.872 iL 001
+Weight 8.065 1 -005
+Gender(1) 4.620 L 032
+VO2max 4.150 1 042
+Overall Statistics 24,338 4 .000
+(a) Block 1: Method = Enter
+Omnibus Tests of Model Coefficients
+Chi-square df Sig.
+Step1 Step 27.402 4 000
+Block 27.402 4 000
+
+Model 27.402 4 :000
+--- page 6 ---
+Hosmer and Lemeshow Test
+
+Step Chi-square df Sig.
+1 3.843 8 871
+Model Summary
+~2 Log Cox & Snell Nagelkerke
+Step likelihood R Square R Square
+ny 102.088" .240 -330
+
+a. Estimation terminated at iteration number
+5 because parameter estimates changed by
+less than .001.
+
+SPSS output - Block 1 *®
+Classification Table*
+Predicted
+Presence of Heart Disease Percentage
+Observed No Yes Correct
+Step 1 Presence of Heart No 55 10 84.6
+Disease Yes 19 16 45.7
+Overall Percentage 71.0
+
+a. The cut value is .500
+
+SPSS output - Block 1
+
+Variables in the Equation
+
+95% C.l.for EXP(B)
+B SE. Wald df Sig. Exp(8) Lower Upper
+
+Step 1* Age 085 028 = 9,132 1 003 1.089 1.030 1.151 a
+Weight 006 022 065 1 799 1,006 962 1.051
+Gender(1) 1.950 842 5,356 1 021 7.026 = 1.348 36.625
+VO2max ~.099 048 = 4,266 1 039 906 824 +995
+Constant -1.676 3,336 253 1 615 187
+
+a, Variable(s) entered on step 1: Age, Weight, Gender, VO2max.
+
+a) Which multivariate technique is used and why? (1 mark)
+b) State the Logistic Regression model. (2 mark) |
+
+c) Comment on pseudo-R Square values? Which test statistic /s used to test
+accuracy of the model? (3 mark)
+
+d) Interpret the classification table. Can you use this model for prediction?
+(2 mark)
+
+e) Define Sensitivity and Specificity of this model? (2 mark)
+--- page 7 ---
+The data set is described in the columns correspond to the variables Test1, Test2,
+Interview as independent variables and Status as dependent variable which is coded
+as | if qualified and 0 if not qualified. There are 30 individuals, in total.
+
+A model is developed to predict whether an individual would get shortlisted or not
+based on the independent variables. Answer the following questions based on the
+
+output:
+Anatysis Case Processing Summary
+Unweighted Cases N Percent
+Valid 30 100.0
+Exctuded Missing oF out-of-range 0 0
+group codes
+Atlgastone missing 0 0
+discnminating vanable
+Both missing of out-of-
+@ rangé group codes and at
+Q4 leastane missing 0 9
+CO-2; discriminating variable
+BL- Total 0 ie]
+Understand, Total 30 1000
+Apply
+Group Statistics
+Valid N (listwise)
+status Unweighted | Weighted
+Qualified Testi 23 23.000
+Test2 23 23.000
+Interview 23 23.000
+Not qualined Testi - 7.000
+Test2 7 7.000
+interview 7 7.000
+Total Testi 30 30.000
+@ Test2 30 30.000
+
+= Interview 30 30.000
+--- page 8 ---
+Analysis 1
+
+N,
+a
+
+Summary of Canonical Discriminant Functions
+
+Eigenvalues
+
+Canonical
+Function | Eigenvalue | % ofVanance | Cumulative % Correlation
+1 1.203° 100.0 100.0 739
+
+a First 1 canonical discriminant functions were used tn the analysis.
+
+Wilks’ Lambda
+
+Wilks’
+Test of Functions) Lambda Chi-square df Sig.
+
+1 A454 20.931 3 -000
+
+Standardized
+Canonical
+Discriminant
+Function
+
+Coefficients
+
+Function
+
+1
+Testi 5389
+Test2 475
+Intenrew S74
+
+Structure rPatrix
+
+Function
+
+7
+Testi 736
+interview 571
+Test2 483
+
+Pooled vwithin-
+groups correlations
+between
+discrminatng
+vanables and
+Standardized
+canonical
+discriminant
+functions
+Variables ordered
+by absolute size of
+corretation within
+function.
+--- page 9 ---
+Canonical
+Discriminant Function
+
+Coefficients
+Function
+1
+Testi 091
+Test2 051
+Intenview OoT7
+(Constant 711.199
+
+Unstandardized
+coefficients
+
+Functions at Group
+Cemtroids
+
+Function
+
+>
+
+status 1
+Qualified -585
+Not qualified -1.921
+Unstandardized
+canonical discriminant
+functions evaluated at
+
+_ group means
+
+Classification Statistics
+
+Classification Processing Summary
+
+Processed 30
+Excluded Missing or out-ot-range 0
+
+group codes
+
+Atigast one missing
+
+discriminating vanable 0
+Used in Output 30
+
+Prior Probabilities for Groups
+
+Cases Used in Analysis
+
+status Prior Unweighted | Weighted
+Qualified 500 23 23.000
+Not qualified 500 7 7.000
+
+Total 1.000 30 30.000
+--- page 10 ---
+Classification Resutts** ‘in
+Predicted Group Membership
+
+Original Count Oualified 20 3 23
+Not qualified 8 7? 7
+% Qualified 87.0 13.0 1000
+Not qualified Bi) 100.0 1000
+Cross-validated® Count Qualified 19 4 23
+Not qualified 0 7 7
+% Qualified 82.6 W4 1000
+Not qualified a) 100.0 100.0
+° a) State the equation for the discriminant function? (1 mark)
+
+b) Comment on the discriminating power of the model? Explain? (2 marks)
+
+c) What does the significance value suggest? (1 mark)
+
+d) Which independent variables have the most and least explanatory power?
+Explain? (2 marks) ,
+
+e) What does the values in the structure matrix suggest? (1 mark)
+
+f) Interpret the classification table and explain whether the model can be used
+for prediction or not? (3 marks)
+
+A dataset consisting of 20 students is analyzed on the following variables:
+Age: Age of a student
+Mem_span: Memory span of a student
+iq: Intelligence Quotient of a student
+Read_ab: Reading ability of a student
+
+The objective is to cluster these students into homogenous groups and understand
+more about the groups. A cluster analysis was performed on the data and output is
+shown below. Answer the following questions:
+
+Qs nitial Cluster Centers
+CO-2; Cluster
+BL- 1 2 3 4 \
+age 400 670 410 570
+Understand, shotlenn memory span 420 440 990 340
+Apply ta 10100 9500 | 10800 | #800
+feading ability $60 120 500 $30
+eration History"
+
+Change in Cluster Centers,
+
+ferghon 1 ? 3
+
+1 772 73? 2342 2076
+? N00 BOR 000 cial
+3 600 006 000 006
+
+9 Convergence achigved dus to no or small
+change in cluster centers The maumum
+absolute caordinate change for any canter ts
+000 The cuttentitecauen is 3 The minimum
+distance between ivfal centers ts 6774
+--- page 11 ---
+Case Processing Summary?”
+
+Cases
+Vana Missing a ____ Fotal
+
+ti | Fenem | ta [ Percent | te Pete
+i of ° 20 1 3900
+
+a
+
+Squsted Euctidean Distance used
+
+b Ward Linkage
+
+Ward Linkage
+
+Agglomeration Schedule
+Cluster Combined Stage Cluster FustaAppears
+Stage [| Ctustart | Cluster? | Coomcants | Ctustert Cluster > | teaStage
+1 ve 9 coo 6 o WW
+# % 10 ooo ° a 3
+, 8 9 coo o 2? 6
+4 ‘ 5 600 ° 0 6
+° 6 1 2 ooo ° o 16
+6 4 8 288 4 * ¥2
+7 aw as oy o ) %
+8 1s wv 1629 ° o 14
+9 el 20 gare ? ° az
+10 6 13 $230 ° ° Toe
+a 6 16 7@93 10 a ws
+12 4 ? 13740 6 °o 14
+Ww 12 18 16 780 ° t 16
+14 4 1s 25.436 12 8 19
+1S 3 6 38 $28 ° uw 18
+16 1 2 sso04 | 5 13 7
+17 1 uW 98878 16 9 18
+18 1 a 249856. 1 15 19
+19 i 794185 12 14 °
+Chost
+
+Ctse turaber | Cluster | Distance
+7 5 pers
+? , 2252
+3 3 2342
+4 4 623
+s 4 6
+6 3 1 yee
+? a 236)
+a 4 280
+9 a 260
+10 a ?aa
+cal 2 V367
+
+as ww 2 20452
+3 3 1640
+4 2: 3226
+1S. 4 372
+16 v 2062
+17 4 2480
+18 1 2042
+'s ’ 2042
+
+2 2 1902
+--- page 12 ---
+Final Cluster Centers.
+
+Cluster
+1 2 3 4
+
+age 540 eos ce) oro
+shom-term memory span 408 490 433 ang
+io rer ze go00 | 10639 903
+fe airy atwity 658 670 600 608
+
+Distances between final Chister Centers.
+
+t 2 3 3
+
+Cluster
+n soos | s226 | tant
+2 $253 1oasa | 5983
+3 5276 | oats 16225
+4 taser | 6903 | 16228
+Number of Cases in each
+Chister
+* Guster} $000
+2 4000
+3 3000
+4 $000 as
+
+| vang 20000
+Missing 000
+
+a) Find the number of clusters appropriate for the data using Agglomeration
+Schedule table? (2 marks)
+
+b) Who are the members of the groups? List them down. (2 marks)
+
+c) How many members are there in each group? (2 marks)
+
+d) What are the characteristics of each group? Explain in detail? (4 marks)
+
+The social network ad dataset contains the details of users in a social networking
+site to find whether a user buys a product by clicking the ad on the site based on
+their salary and age.
+
+SALARY AGE [in PURCHASED
+[in Rs.] years]
+20000 19 N
+45000 35 Y
+Q6 28000 26 N -
+CO-2; 29000 27 N i
+BL- 21000 19 N [10]
+Understand, 35000 32 ¥
+Apply 55000 39 Y
+65000 41 Y
+64000 51 Y
+30000 25 N
+
+A New user has a salary Rs. 50000 and age 42 years. Use K-Nearest Neighbor
+Classification (use K= 3 as well as K=5) to predict whether a user buys a product
+by clicking the ad on the site or not.
+--- page 13 ---
+or For the following data, forecast the demand for the 7th month using exponential 0)
+
+CO-2; smoothing method with smoothing constant « = 0.4. idiw |
+BL-
+Understand, Month | Actual Demand (units)
+Apply 1 120
+2 135
+3 130
+~ 140
+5 150
+6 145
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper b9d659033f79
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics_b9d659033f.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (15 pages), mean OCR confidence 75.0
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+Academic Year: 2022-2023
+
+Program: MBA Tech Year: 2023 Semester: VIII
+Stream: All Streams Iv
+
+Subject: Business Analytics Time: 2 hrs (40am to42 pm.)
+Date:_20 / 04 / 2023 No. of Pages: 15
+
+Marks: 50
+
+Final Examination | Re- Examination -
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+(> 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions are to be attempted. .
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Explain how the following levels of analytics vary in scope by providing suitable
+example for each in the context of social media analytics say Facebook, Twitter,
+
+Ql LinkedIn, and Instagram:
+CO-1 a) Descriptive [4*2.5=10]
+BL-Understand b) Diagnostic
+c) Predictive
+d) Prescriptive
+For the following output of multiple linear regression of electrical power output
+(PE) in MW ofa power plant on ambient temperature (AT) in °C, exhaust vacuum
+(V) in cm Hg, ambient pressure (AP) in millibar, & relative humidity (RH) in %,
+answer the following questions.
+an
+Regression
+Q2
+CO- 2; Descriptive Statistics
+Be Mean Std. Deviation N
+Understand, PE 454.3650 17.06628 47840
+Apply AT 19.65123119 ___7.452161658 _ 47840
+Vv ~§4,30580372. “12.707361 71 47840 _
+"AP ——-1013.259078 6.938636419 47e40__
+“RH 7330897784 —14.59965835 47840
+[2*5=10]
+--- page 2 ---
+Correlations
+PE AT v AP
+
+Pearson Correlation
+
+" Sig. (1-tailed)
+
+PE —s 1.000 -.948 -.870
+AT -948 1.000.844
+ve -.870 844 1.000
+
+: 26 100
+‘RH 390-843-312, 1001.00
+PE 000 ooo = .000-——«s—«00
+A 000 .000 000
+
+; 000.000
+
+“a7e4o 4784047840
+
+47e40 4784047840
+A740 «47840 «47840
+
+“47840 47840 «47840
+47940 -47840_—«47840
+
+~ 47840
+47840
+47840
+47840
+
+Model
+
+Variables Entered/Removed*
+
+Variables Variables
+Entered Removed Method
+
+4
+
+AT . Stepwise
+(Criteria:
+Probability-of-
+F-to-enter <=.
+050,
+Probability-of-
+F-to-remove
+
+.100).
+
+2
+
+<)
+
+4
+
+RH . Stepwise
+(Criteria:
+Probability-of-
+F-to-enter <=.
+050
+Probability-of-
+F-to-remove
+>= 100)
+
+v . Stepwise
+(Criteria:
+Probability-of-
+F-to-enter <=
+050,
+Probability-of-
+F-to-remove
+100).
+AP . Stepwise
+(Criteria
+Probability-of-
+F-to-enter <=
+050
+Probability-of-
+F-to-remove
+>= 100)
+
+a. Dependent Variable: PE
+--- page 3 ---
+Model Summary®
+
+Adjusted R Std. Error of Durbin-
+Model R R Square Square the Estimate Watson
+4 899 5.42521
+2 921 4.79849
+3 928 4.56757
+4 929 4.55736 2.005
+a. Predictors: (Constant), AT
+b. Predictors: (Constant), AT, RH
+c. Predictors: (Constant), AT, RH, V
+d. Predictors: (Constant), AT, RH, V, AP
+e. Dependent Variable: PE
+ANOVA?
+G ‘Sum of
+Model Squares at Mean Square F Sig,
+1 Regression 12525477.07 12525477.07   425559.943 000°
+Residual 1408012.624 29.433
+___Total 13933489.70
+2 Regression 12832020.53 6416010.264 278648.456 00°
+Residual 4101469168 47837_ 23.025
+2 0 ER
+3 Regression   12335501.01 3. 4311833.671 206676.567 oo0*
+Residual 997988.684 47836 20.863
+= me t39994e070 , 47689
+4 Regression   12939977.40 4 3234994350 155756.456 000°
+_ Residual 993512.298 47835 20770
+Total 13933489.70 47839
+
+a, Dependent Variable: PE
+
+b, Predictors: (Constant), AT
+
+¢. Predictors: (Constant), AT, RH
+
+d. Predictors: (Constant), AT, RH, V
+
+e. Predictors: (Constant), AT, RH, V, AP
+--- page 4 ---
+Coefficients®
+Standardized :
+Unstandardized Coefficients Coefficients Collinearity §
+Model B Std. Error Beta t Sig. Tolerance
+1 Constant) 497.034 070 715.203 000 ;
+PAT oe “2471 003 -948 652.350 000 1.000
+2 Constan) ——816.476 180 297.258 = 000
+AT 2.391 004 “1.044 -682.168 000706
+< eae -.206 002 “477 -116.383 000706
+3 (Constan) —=—«818.549 173 2990.817 000
+Ale -2.019 008 881 | -323.154 000 201
+165 002 -141 -91.899 000 632
+vo +228 003 -170   -70.428 000 257
+4 (Constan 454.609 4.359 104,298 000
+AT. 1.978 007 -864 — -289.278 000 167
+“RH -A88 002 “135 -84.806 000586 -
+Nie -234 003 -AT4-71.842 +000 254 ‘
+AP 062 004 022 14.681 000 688
+a. Dependent Variable: PE
+Excluded Variables®
+Collinearity Statistics
+Partial Minimum
+Model Beta In t Sig. Correlation Tolerance VIF Tolerance
+Tew ~242® -97.603 “000 ~408 287 ~—«3.478 287
+AP oso” 29.989 “000 136 742 1.347 742
+RH -477>-415.383 “000 ~.467 706 1417——~SOS~*~«STOGS
+Sy “170° -70.428 “000 ~307 257 3.885 201
+AP oos® 5.742 ‘000 026 6991431 498
+iaec ap 0224 14.681 “000 067 688 (1.453 167
+a. Dependent Variable: PE
+b. Predictors in the Model: (Constant), AT
+c. Predictors in the Model: (Constant), AT, RH
+d. Predictors in the Model: (Constant), AT, RH, V >
+Charts
+--- page 5 ---
+Histogram
+Dependent Variable: PE
+
+Mean = -1.096-12
+
+4,000 ‘Std. Dev. = 1.000
+N= 47,840
+3,000
+2 i
+cy
+a
+a
+© 2,000
+uw
+4,000 i
+i)
+10 Ss
+Regression Standardized Residual
+Normal P-P Plot of Regression Standardized Residual
+5 Dependent Variable: PE
+1
+os
+2
+2
+= os -
+5
+3
+3
+Bop ——
+& |
+Fs |
+w i
+ap i
+oo
+‘bo 0 ba v6 08 40
+Observed Cum Prob
+Scatterplot
+Dependent Variable: PE
+e
+we 285
+Ei
+3
+@
+3
+ce   oof}———~ Se
+| z
+3
+N
+z
+B 25
+3
+&
+5
+| a
+c 0
+S
+3B
+a
+i
+B 75
+4 °
+ee
+40,0 perenne = :
+3 2 o 1 2 3
+
+Regression Standardized Predicted Value
+--- page 6 ---
+a) Explain which variable has the highest impact on the electrical power
+output (PE) and which variable has the least impact on the electrical power
+output (PE).
+
+b) Explain the interpretation of the Durbin- Watson statistic.
+
+c) Write the estimated regression equation and determine the change in
+electrical power output (PE) when ambient temperature (AT) increases
+from 20°C to 25°C with the other variables remaining constant.
+
+d) Which variable has been included in the model at step 2? Explain why it
+has been included in the model at step 2 over the other variables.
+
+e) What interpretation/s can be made from the residual plot?
+
+Q3
+CO-2; BL-
+Understand,
+
+Apply
+
+A scholar would like to predict the choice of bank (Public or Private) based
+on independent variables that include Technology, Interest Rates, Value Added
+Services, Perceived Risks, Reputation, and others. The scholar is interested in
+predicting the odds of selection of Public or Private bank on the perception of
+respondents in relation to the factors like Technology, Interest Rates, Value Added
+Services, Perceived Risk, Reputation, Attractiveness, and Perceived Costs.
+
+For instance, the scholar hypothesized, that improved technology, offering better
+interest rates, improved value-added services and other predictors’ will lead to
+choosing Private banks for account opening. You are supposed to develop a model
+to predict that a new scholar would choose a private or a public bank.
+
+Case Processing Summary
+
+ighted Cases* N Percent
+Selected Cases — included in Analysis 341 100.0
+Missing Cases 0 o
+
+Total 341 100.0
+
+Unselected Cases 6 a)
+Total 341 100.0
+
+@, Iweightis in effect, see classificaton table for the total
+number of cases
+
+Dependent Variable
+Encoding
+
+Oriqinal Value Intermal Value
+
+Public 0
+Private 1
+--- page 7 ---
+>
+
+Block 0: Beginning Block
+
+Classification Table™”
+
+ed
+
+aChoice ofBank = Public 0 90
+
+Step 0 0
+Private 0 254 100.0
+Overall Percentage 736
+a. Constantss included in the modal
+b. The cut value is 500
+Variables in the Equation
+8 SE Weald at Sig Eap(By
+Step 0 — Canstant : 1826 123 69.687 1 ooo * 2789
+Variables not in the Equation
+Score of Sig
+Step Variables Technology 2.083 1 149
+interest Rates $47 1 459
+Value Added Senices 2.339 1 126
+Percened Risk 13.542 1 000
+Reputation 697 1 404
+Attractiveness 405 1 $25
+Porceived Costs 1.722 1 189
+Overall Stanstics 37 651 7 006
+Block 1: Method = Enter
+Omnibus Tests of Model Coefficients
+Chi-square df Sig.
+> Stept Step 121.767 7 000
+Block 121.767 7 000
+Model 121.767 7 .000
+
+Hosmer and Lemeshow Test
+Step Chi-square df Sig
+
+1 2.490 8 962
+--- page 8 ---
+Contingency Table for Hosmer and Lemeshow Test
+
+Preferred Choice of Bank= Preferred Choice of Bank =
+Public Privat
+Observed Expected Observed Expected Total
+Step1 1 20 20.024 14 13.976 34
+pie 14 13.501 20 20.499 34
+4 ci 11.708 25 22.296 34
+4 4 10.090 23 23.910 34
+5 9 8.908 26 26.092 34
+6 10 7.635 24 26.365 34
+ee ; 9 6.637 25 27.363 34
+a 4 5.567 30 28.433 34
+a 2 3.819 32 30.181 34
+10 2 | 2415 33 32.885 35
+Model Summary , ‘
+-2 Log Cox&SneiR   Nagelke
+
+Step liketihood Square Square
+1 73.499" 368 107
+
+a. Estimation terminated at iteration number 8
+because parameter estimates changed by less
+
+than .001.
+Classification Table®
+Predicted
+Prefened Choice of Bank Percentage
+Observed Public Private Conedt
+
+Step1 Preferred Choice ofBank Public 16 74 17.8
+
+: : “Private 9 242 96.4
+Overall Percentage 757 =
+\
+
+a. The cut value is 500
+
+Variables in the Equation
+95% C {tor EXPiB)
+
+6 SE wald a 819 ExpiB) Upper
+Sept’ Technalogy 440~O«Ne «1.880 ers rn) er TT)
+Interest Rates oe tN 1 4531088878.
+Value AddesSenices 313,112 7.788 1 008387097 1.703
+* “515106 23.489 1 ooo S97 488736
+2330408 4a 1 Ge t280 oN. 839
+06210) 381 1 87 tT
+.345 327.118 er a er
+Constant 13376893761 Lost 3807
+
+a Variable(s} entered on step 1: Technology, interest Rates, Value Added Senices, Percewed Risk, Reputation,
+Attractiveness, Perceived Costs.
+--- page 9 ---
+G
+
+a) Which multivariate technique is used and why? (1 Mark)
+
+b) State the Logistic Regression model. (2 Marks)
+
+c) Comment on pseudo-R Square values? Which test statistic /s used to test
+accuracy of the model? (3 Marks)
+
+d) Interpret the classification table. Can you use this model for prediction?
+(2 Marks)
+
+e) Define Sensitivity and Specificity of this model? (2 Marks)
+
+Q4
+
+CO=2;
+BL-
+
+Understand,
+
+Apply
+
+The data set is described in the columns correspond to the variables IQ, Guidance,
+Income as independent variables and Status as dependent variable which is coded
+as | if successful and 0 if not successful. There are 90 individuals, in total.
+
+A model is developed to predict whether an individual would be successful or
+unsuccessful based on the independent variables. Answer the following questions
+based on the output:
+
+(10 marks)
+| Winweranted Cases te Parent
+Valid so 1600
+bectuded Missing OF vUbofrange o 9°
+group codes
+At leastone missing o 2
+discnminating vanabie
+Bom missing ar outot o °
+
+range gtoup Codes ang at
+least one missing
+HIScHMinating vanable
+
+Totat 0 °
+Totat a0 1909
+
+Group Statistics
+
+Valid 7 distor
+
+Stats Mean Sta _Daviation [Unwsignted | veigntad
+successful 19 3842 a 40t > 62900
+Guidence 4998 e328 62 62000
+Income 904 6% S7 Raa 62 62 900
+unsuccessful 1 3a 36 S845 28 28 G00
+Guidance 4386 6434 oe 24 000
+income 90382 43903 28 24 000
+or QT ahaa [ #083 | a6 48 000
+Ouidence 4304 6999 90 96 000
+income ay378 71276 Ed 49 000
+
+Pooted Wahin.Groups Matrices
+
+to Guidence | income
+
+Conelaion 1 1000 338 00s
+Ouidence 338 41000 053
+
+income 006 O53 1.000
+--- page 10 ---
+Analysis 1
+Box's Test of Equality of Covariance Matrices
+
+Log Determinants
+
+tog
+Status Rank Determinant
+successful 3 15 945,
+unsuccessful 3 18502
+Pooled within: groups 3 15889
+
+Tha rands and natural logarithms of determinants
+
+Test Resutts
+
+Bors S444
+f Appros a6
+an 6
+at? 1HOaG 278
+81g SAG
+
+Tasts null hypothesis of equal
+populatan covatiance
+matices
+
+Summary of Canonical Discriminant Functions
+
+Eigervatuos
+Canonicat
+1 1123" 1000 1000 227
+
+
+: Wilks’ Lambd "
+Wilks’
+Test of Function(s) Lambda Chi-square df Sig.
+1 471 65.125 3 000
+Classification Resutts**
+Predicted Group Membership
+Status successful. | unsuccessful Total
+Original Count successful 55 7 62
+unsuccessful 2 26 28
+% successful 887 113 1000
+unsuccessful 71 $29 1000
+Cross-validated’ Count successful $5 7 62
+unsuccessful 3 25 28
+% successful 887 v1.3 1000
+unsuccessful 107 893 100.0
+--- page 11 ---
+Standardized Canonical
+
+Canonical Discriminant Function
+Test Results Discriminant Coefficients
+Function Coefficients
+Box's M 6448 Function
+F Approx 866 Function 1
+an 6 1 10 056
+at 18096 278 '0 442 Guidence 037
+sig 51g Guidence 231 Income 018
+Tests null hypothesis of equal income Bit (Constant) ATAN3
+population covariance Unstandardized
+matrices coefficients
+
+a) State the equation for the discriminant function? (1 mark)
+
+b) Comment on the discriminating power of the model? Explain? (2 marks)
+
+c) What does the significance value suggest? (1 mark) ,
+
+d) Which independent variables have the most and least explanatory power?
+Explain? (2 marks)
+
+e) Explain the correlation between independent variables? (1 mark)
+
+f) Interpret the classification table and explain whether the model can be used
+for prediction or not? (3 marks)
+
+A FMCG company wants to map the profile of its target audience in terms of
+lifestyle, attitude and perceptions. 20 individuals need to agree or disagree or
+remain neutral (scale of 1-5) on 15 independent variables listed below:
+
+(1- strongly agree, 2- agree, 3- neutral, 4- disagree, 5- strongly disagree)
+
+e Email: Email is more preferred over any other channel
+e Qual_price: Quality products are always priced high
+
+e = Think: Think twice before buying anything
+
+e Television: Tv is a major source of entertainment
+
+Qs e Car: A car is a necessity, not a luxury
+
+CO-2; e Fastfood: Fast food is more preferred
+
+BL- e Health: Health conscious
+
+Understand, e Efficiency: Efficiency of companies has increased
+
+assy © Women: Women are active participants in purchase decisions
+
+e Politician: Politicians play a positive role
+
+e Movies: Watching movies is fun
+
+e Abroad: Settle abroad
+
+e Brand: Buy branded products
+
+e Weekend: Frequently party on weekends
+
+e Credit: Credit card payment is more preferred
+
+A cluster analysis was performed on the data and output is shown below.
+--- page 12 ---
+Case Processing Summary?”
+
+Cases
+Valid Missing Total
+N Parcent N Parcent N Parcent
+20 1000 0 u] 20 100.0
+
+a Squared Euclidean Distance used
+
+Agglomeration Schedule
+
+Cluster Combined
+
+Stage Cluster First Appea
+
+Stage | Cluster) | Cluster 2 | Coefficients Cluster 1 Cluster
+1 4 § 14.000 0
+2 19 20 15.000 0
+3 2 6 17.000 0
+4 a 4 20.000 0
+5 13 16 25 000 0
+6 2 18 26.500 3
+7 1 14 28.000 9
+8 1 19 29.500 0
+9 8 13 29.500 0
+10 1 16 36 000 7
+1 19 11 37,939 0
+12 3 12 37 667 4
+13 7 17 38.000 0
+14 2 2 39.083 6
+15 2 9 42.000 14
+16 2 8 45.833 16
+17 7? 10 61.000 13
+18 2 7 $3,182 16
+19 1 = 56.804 10
+--- page 13 ---
+: a ci 7 sf
+
+:
+
+2 4
+
+: L
+
+sn
+
+2 7 >
+> dl
+
+204
+
+2
+
+a
+
+0
+--- page 14 ---
+Cluster Membership
+
+Case Number | Serial to Cluster | Distance
+
+1 1 ‘ 3.443
+Zz 2 1 2735
+? 3 4 2610
+4 K) 4 2.966
+5 2 4 2.983
+6 2 2 3.274
+I i) 3 4.724
+8 4 2 3.669
+9 2 1 4.656
+10 5 3 4443
+a 4 3 3.734
+12 3 4 4.220
+13 4 2 3064
+14 ‘ 4 3779
+16 2 { 4276
+16 3 2 4552
+17 § 2 4.005 .
+18 3 rd $.233
+19 3 3 2.706
+20 1 3 3.274
+Number of Cases in each
+Cluster
+Cluster 1 5.000
+2 6.000
+2 5.000
+4 4.000
+Valid 20000
+Missing 000
+Final Cluster Centers
+Cluster
+7 7 3 7
+Cetter or Eman 160 350 280 275
+‘Ovality produets priced > oy >
+high 240 333 220 250
+Think tice 3.60 27 320 378
+Entertainment 300 333 260 300
+Carts necessity han 7
+ater, 3.60 393 260 250
+Fasttood 440 3.50 3.40 4.00
+heath 220 4.00 4.40 3.50
+Emewney 240 183 4.60 275
+Women 320 200 180 450
+Politician 280 4.00 300 336
+Mowes 300 3.50 420 4.00
+Abinad 160 317 360 4.00
+Brand 200 383 240 4.00
+Weekend 2.00 393 240 400
+Croat 4.20 250 1.80 375
+Distances between Final Cluster Centers
+Clustar g = 2 2
+7 S125 | 4775 | 4628
+2 5125 $064 | 4.046
+3 4775 | 5068 5023
+4 4625 | 4046 | 5029
+
+Answer the following questions:
+
+a) Find the number of clusters appropriate for the data using Agglomeration
+Schedule table? (2 marks)
+b) Who are the members of the groups? List them down. (2 marks)
+--- page 15 ---
+@
+
+c) How many members are there in each group? (2 marks)
+d) What are the characteristics of each group? Explain in detail with respect
+to Entertainment, Brand, Weekend, Movies? (4 marks)
+
+The SAT is an aptitude test taken by high school juniors and seniors. College
+administrators use the SAT along with high school Grade Point Average (GPA) to
+predict academic success (Graduating success) in college. The table below shows
+the SAT score and high school GPA for ten students along with their Graduation
+status.
+
+Graduate SAT GPA
+
+Yes 1300 ZF
+Qs Yes 1260 3.7
+CO-2; Yes 1220 2.9
+BL- Yes 1180 2-3 i10}
+Understand, Yes 1060 3.9 7
+Apply No 1140 Dood
+No 1100 3.5
+No 1020 3.3
+No 980 2.3
+No 940 3.1
+A New student has SAT score 1100 and GPA 2.5. Use K-Nearest Neighbor
+classification (use K = 3 as well as K=5) to predict whether this student would be
+successful in graduating or not.
+For the following demand data, compute the Mean Absolute Deviation (MAD) &
+7 Mean Squared Error (MSE).
+Month | Actual Demand (units) | Forecast
+oe 1 120 122
+: = 135 130 (10)
+Understand, 3 130 125
+Apply 4 140 140
+5 150 145
+6 145 150
+````
+
 ## 2021-22 · Final-Exam · Sem 8 · paper 7f38928baa2d
 
 - Departments: Common (all branches)
@@ -32028,6 +34315,7 @@ Analyse Also mention which forecast you will use for prediction & why?
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics,Sem8,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 2; exam date: 07 April 2022
 - Text: ocr (11 pages), mean OCR confidence 78.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . SVKM’s NMIMS :
@@ -32313,7 +34601,6 @@ ConstructedArea _ 918.441 21613
 Waterfront OT 087 21613
 PlotArea 15106.97 41420.512 21613
 Correlations
-Price ConstructedArea__ Waterfront PlotArea
 Pearson Correlation Price 1.000 .702 .266 .090
 ConstructedArea _.. _.702 : 1.000 104 173
 Waterfront 266 104, 1.000 .022
@@ -32366,7 +34653,6 @@ Waterfront 8305073.975 198599.634 060 . 274 195 -989 1.011
 PlotArea -2.959 A19 .000 =.048   -.033 970 1.031
 a. Dependent Variable: Price
 Coefficient Correlations?
-Model PlotArea Waterfront ConstructedArea
 4 Correlations PlotArea _ -.004 ; -.172
 Waterfront 1.000 -.102
 ConstructedArea _. 2-102 1.000
@@ -32688,6 +34974,7 @@ Total 563941.895 37
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics , Re-exam 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 2; exam date: 09 June 2022
 - Text: ocr (10 pages), mean OCR confidence 84.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “ SVKM’s NMIMS
@@ -33309,9 +35596,352 @@ Total 18742.000) 25
 Savings Between Groups 7176.867 1 7176.867 492.644 000}
 Within Groups 349.633} 24 14.568)
 Total ’ 7526.500} 25
-FO I IO I I OK
 
 10/10
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper ec9637e67468
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics,Re-exam 2017-18.pdf`
+- Printed on paper: duration hours: 2; exam date: 12 April 2019
+- Text: ocr (3 pages), mean OCR confidence 77.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (All Streams) Year: IV Semester : VIII
+
+Academic Year: 2018-2019
+
+Subject: Business Analytics iGexkess 60
+
+Time: 2.00 pm to 4.00 pm
+
+Durations: 2 (hrs)
+
+No. of Pages : OD
+Re-examination (2017-18)
+
+Date: 12 April 2019
+
+Instructions: Candidates should read carefully the ifstrustions printed on the questign-peprr aipren.the cover
+of the Answer Book, which is provided for their use.
+
+MPSTMFE
+LT BRARY
+
+1) Question No. _1 is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all_5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks. 7:
+
+7) Assume Suitable data if necessary.
+
+eo Ui
+
+1) Refer below the output of MRA done in SPSS. Give your comments on the model. Also, suggest
+improvement or missing information if required. (12 marks)
+Note that model includes one interaction term for ['V04 and IV05 as “TV04_IV05”.
+
+b
+
+Model Summa
+Adjusted R_ | Std. Error of Durbin-
+Model R R Square Square the Estimate Watson
+l 2478 061 -.056 9.6242127 2.035
+a. Predictors: (Constant), [V04_TV05, [V03, [V01, [V02, [V05, [V04
+b. Dependent Variable: DVO1
+
+ANOVA?
+Sum of
+Model Squares df Mean Square F Sig.
+I Regression 288.646 6 48.108} 519 791
+Residual 4446.023 48 92.625
+Total 4734.669 54
+
+a, Dependent Variable: DVO1
+b. Predictors: (Constant), 1V04_IV05, [V03, [V01, I1V02, IV05, 1V04
+
+1s
+--- page 2 ---
+Coefficients*
+Unstandardized Standardized
+Coefficients Coefficients
+Model B Std. Error Beta t Sig.
+I (Constant) | 251.01 454.212 553 583
+5
+TVv0l .003 .012 038 231 819
+IVo2 1.009 2.326 .073 434 666
+1V03 -.024 .020 -.197| -1.245 219
+TV04 -2.743 4.075 -2.003|   -.673 504
+1V05 -.003 .002 -.643 | -1.032 307
+Tv04_IVO 7.004 .007 -1.412]   -.560 578
+by)
+a. Dependent Variable: DV01
+Standardized Residual Values
+| i
+2
+| ae & 2 af
+°| SSI 2 Gag. = ow ns ~S . =
+|
+3 2 4 0 1 2 3
+
+Regression Standardized Predicted Value
+
+2) Table below gives values for Independent Variable (IV) and Dependent Variable (DV)
+TV §35 25) 6 | 48 20 46 48 14 52
+
+DV | 65/68 52, 70/5775 80/57 82
+
+a) Estimate the Regression Equation Coefficients (3 marks)
+b) Check the significance of Regression Equation Coefficients (3 marks)
+c) Calculate Residual Sum of Square (RSS) (3 marks)
+d) Calculate R? value for the regression. (3 marks)
+
+3) Answer the following
+
+a) Write down the definition of Strong and Weak Stationary process. (3 marks)
+b) Comment on the statement “Strong stationary refers weak stationary process but vice versa is true for some
+
+special case only” (3 marks)
+c) What is random walk? Prove that it is not a stationary process. (3 marks)
+d) What are the difference between trend stationary and difference stationary process? (3 marks)
+
+2/3.
+--- page 3 ---
+4) Explain in detail the technique of K-Nearest Neighbor Classification (12 marks)
+
+5) Logistic Regression:
+a) Explain Multiple Logistic Regression. (6 marks)
+Use following information as an example for dependent variable as default of credit card payment (Yes / No).
+
+Coefficient Std. error Z-statistic | P-value
+
+Intercept —10.8630 0.4923 08   <0.0001
+balance 0.0057 0.0002 24.74 <0.0001
+income 0.0030 0.0082 0.37 0.7115
+student [Yes] —0.6468 0.2362 —2.74 0.0062
+b) Predict probability of a student with a credit cardbalanceof$1500 and an income of $40000 (3 marks)
+c) Predict probability of a non-student with a credit cardbalanceof$1500 and an income of $40000 (3 marks)
+6) Explain the technique of K-Means Clustering. (12 marks)
+7) What are the types of analytics and how they are enhancing the business? (12 marks)
+t Table
+cum. prob tsa tos fag tes tg fag
+
+onetall] 08:50 0.25 020 045 G10 0.05
+two-tails| 1.00 O50 O40 O30 020 O40
+
+df
+i} -o.000 1.275 1662 3078 Gat
+2] a.co0 1081 125¢ 1885 2920
+3] a.caD here 128006 1.888 2.888
+4| 9.000 1341 1100 18393 2132
+=| o.c00 0920 1.356 1476 2045
+ea) O.co0 O.b08.°tis4” ado eae
+7) -a.c00 De 1G LATA eee
+a] a.con Ds8a°- fide Rey” t.ae0
+eB}. 0.000 0.883: 1.400 1.833."
+1o] CG OL7OE -p.efa 1098 Lei
+
+1] o000 O8oF ae7s tose :
+2] 0000 40898 860873) 1.08a 4.782
+12] 0.000 «Ones I ; W771
+i B00 0.692 ; 1.751
+15] OCOD O8er D968 1.074 1.783
+16). O.00D°. De8n DSB © 4.071 Eras
+1F]) 0.000 O.68e 0883 1.058 1.740
+18) O00 GBR. 0.882. 5. 1.067 1.724
+ig] 0.000 0.688 DBE £088 1723
+
+1.725.
+
+2 0.000 o.6er 0.960 1.084
+
+3/4
+````
+
+## 2018-19 · Re-Exam · Sem 8 · paper e43474c06158
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics...Re-exam 2017-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 June 2019
+- Text: ocr (3 pages), mean OCR confidence 76.9
+
+````text
+y
+
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program MBA Tech (All Streams) Year: IV Semester: VIII
+Academic Year: 2018-2019
+
+Subject: Business Analytics Marks: 60
+
+é
+
+Date : 19 June 2019 Time:2.00 pm to 4.00 pm
+° Duration: 2 (hrs)
+No. of Pages: 3
+
+Re-Examination (2017-189
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, whichis provided for their use.
+
+1) Question No. __]__ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions. MPSTME ~
+3) In all_5_ questions to be attempted. LIBRARY
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. - .
+
+7) Assume Suitable data if necessary.
+
+e
+
+1) The table below shows the values for dependent variable and values of independent variable.
+Y 74/73 | 65/75 |68|72| 69/71 83/68 68/73
+
+X75 8369177171177 68|76 84/69 71) 75
+
+a) Estimate the Regression Equation Coefficient and Constant (3 marks)
+b) Check the significance of Regression Equation Coefficients (3 marks)
+c) Calculate Residual Sum of Square (RSS) (3 marks)
+d) Calculate R? value for the regression. (3 marks)
+2) Explain the four most commonly-used types of linkage in hierarchical clustering. (12 marks)
+
+3) Refer below the output of MRA done in software. Give your comments on the model. Also, suggest improvement
+or missing information if required. (12 marks)
+
+Regression Statistics
+
+Multiple R 0.990782
+R Square 0.98165
+Adjusted R Square 0.973786
+Standard Error 1.266311
+Observations 21
+
+t/3
+--- page 2 ---
+ANOVA
+af SS MS F Significance F
+Regression 6 1200.959 200.1599 124.8235 0.0002
+Residual 14 22.4496 1.603543
+Total 20 1223.409
+Coefficients __ Standard Error t Stat P-value
+Intercept -2282.73 1707.251 -1.33708 0.202517
+Xl. 2.260418 1.561486 1.447607 0.169748
+X2 0.201209 0.233676 0.861061 0.403711
+X3 0.086008 0.031937 2.693015 ~—- 0.017494
+x4 , 7.080876 6.0071 1.178751 0.258144
+x5 -1.22221 0.523219 -2.33595 0.034885
+X6 1.534825 0.408908 3.753468 _-0.002139
+Predicted Value on X Axis
+Standard Residuals on Y Axis
+25 ’ =
+2 ae
+45
+FE a
+a
+0.5 oe ?
+0 ; : 7 , t
+9.5 385% 390 395 400 405 410 445
+A ed “ o & =
+-1.5
+2
+4) Answer the following. ;
+a) Explain scope of analytics. Cover descriptive, predictive and prescriptive analytics in your answer. (6 marks)
+b) Explain various stages of analytics life cycle. : (6 marks)
+5) Explain the following terms
+a) Stationary Stochastic Processes (2 marks)
+b) Non-stationary. Time Series (2 marks)
+c) Random Walk Model (4 marks)
+d) Difference Stationary Process (2 marks)
+e) Trend Stationary Process (2 marks)
+--- page 3 ---
+6) With reference to Logistic Regression explain the following
+
+a) The technique of logistic regression. (6 marks)
+b) Hosmer and Lemeshow Test (3 marks)
+c) Classification Table (3 marks)
+7) Explain in detail the technique of Hierarchical Clustering. (12 marks)
+t Table
+cum. prob tay fag tag ts tag ts tage tag tags t ae sons
+
+onetaill 050 0.25 020 045 O10 0.05 0.025 O01 9.005 0.001 0.0005|
+twotsils] 1.00 050 O40 0.30 0.20 0.10 005 0.02 0.01 0.002 0.001
+
+df
+
+t 4.00C 1.375
+2 0.816 1.584
+3 0.785 D.g7e
+4 wet
+
+5 O.727
+
+fe Ore
+
+ts
+
+ol
+
+1
+
+1"
+12
+13
+14
+
+15)
+
+18 0.680
+
+AF ‘D.000 o.cae
+18 1.000 6.888
+1a ‘0.000 G.58e
+30 000 D887
+
+a} ooeoo eee
+22} aco =| 8.686
+
+23 0.885
+
+24 0.685
+
+35 0.894 1058 9 1.318
+2 oe 1068. 1.315
+oF oes 1057 41.314
+et: 0.682 :
+
+2q o.6e3
+
+30
+
+40
+
+ao
+
+8o) 7
+
+400 0.877
+“Jeo 0.878
+
+Zz oes D842 LOS 12e2
 ````
 
 ## 2017-18 · Final-Exam · Sem 8 · paper 6a7dc0f24156
@@ -33321,6 +35951,7 @@ FO I IO I I OK
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics 2017-18 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 19 April 2018
 - Text: ocr (8 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 gant 2 Banas
@@ -33374,7 +36005,6 @@ Standard Error 8.070071
 Observations 208
 ANOVA
 Significance
-of ss MS FE F _
 Regression 2 12876.269 6438.1343 98.85652666 8.76E-31 =
 Residual 205 13350.839 65.126042
 Total 207 _26227.107
@@ -33690,490 +36320,7 @@ Describe in brief — Confusion Matrix and ROC Curve and their application
 Page 8 of 8
 ````
 
-## 2017-18 · Re-Exam · Sem 8 · paper ec9637e67468
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics,Re-exam 2017-18.pdf`
-- Printed on paper: duration hours: 2; exam date: 12 April 2019
-- Text: ocr (3 pages), mean OCR confidence 77.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Program: MBA Tech (All Streams) Year: IV Semester : VIII
-
-Academic Year: 2018-2019
-
-Subject: Business Analytics iGexkess 60
-
-Time: 2.00 pm to 4.00 pm
-
-Durations: 2 (hrs)
-
-No. of Pages : OD
-Re-examination (2017-18)
-
-Date: 12 April 2019
-
-Instructions: Candidates should read carefully the ifstrustions printed on the questign-peprr aipren.the cover
-of the Answer Book, which is provided for their use.
-
-MPSTMFE
-LT BRARY
-
-1) Question No. _1 is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all_5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks. 7:
-
-7) Assume Suitable data if necessary.
-
-eo Ui
-
-1) Refer below the output of MRA done in SPSS. Give your comments on the model. Also, suggest
-improvement or missing information if required. (12 marks)
-Note that model includes one interaction term for ['V04 and IV05 as “TV04_IV05”.
-
-b
-
-Model Summa
-Adjusted R_ | Std. Error of Durbin-
-Model R R Square Square the Estimate Watson
-l 2478 061 -.056 9.6242127 2.035
-a. Predictors: (Constant), [V04_TV05, [V03, [V01, [V02, [V05, [V04
-b. Dependent Variable: DVO1
-
-ANOVA?
-Sum of
-Model Squares df Mean Square F Sig.
-I Regression 288.646 6 48.108} 519 791
-Residual 4446.023 48 92.625
-Total 4734.669 54
-
-a, Dependent Variable: DVO1
-b. Predictors: (Constant), 1V04_IV05, [V03, [V01, I1V02, IV05, 1V04
-
-1s
---- page 2 ---
-Coefficients*
-Unstandardized Standardized
-Coefficients Coefficients
-Model B Std. Error Beta t Sig.
-I (Constant) | 251.01 454.212 553 583
-5
-TVv0l .003 .012 038 231 819
-IVo2 1.009 2.326 .073 434 666
-1V03 -.024 .020 -.197| -1.245 219
-TV04 -2.743 4.075 -2.003|   -.673 504
-1V05 -.003 .002 -.643 | -1.032 307
-Tv04_IVO 7.004 .007 -1.412]   -.560 578
-by)
-a. Dependent Variable: DV01
-Standardized Residual Values
-| i
-2
-| ae & 2 af
-°| SSI 2 Gag. = ow ns ~S . =
-|
-3 2 4 0 1 2 3
-
-Regression Standardized Predicted Value
-
-2) Table below gives values for Independent Variable (IV) and Dependent Variable (DV)
-TV §35 25) 6 | 48 20 46 48 14 52
-
-DV | 65/68 52, 70/5775 80/57 82
-
-a) Estimate the Regression Equation Coefficients (3 marks)
-b) Check the significance of Regression Equation Coefficients (3 marks)
-c) Calculate Residual Sum of Square (RSS) (3 marks)
-d) Calculate R? value for the regression. (3 marks)
-
-3) Answer the following
-
-a) Write down the definition of Strong and Weak Stationary process. (3 marks)
-b) Comment on the statement “Strong stationary refers weak stationary process but vice versa is true for some
-
-special case only” (3 marks)
-c) What is random walk? Prove that it is not a stationary process. (3 marks)
-d) What are the difference between trend stationary and difference stationary process? (3 marks)
-
-2/3.
---- page 3 ---
-4) Explain in detail the technique of K-Nearest Neighbor Classification (12 marks)
-
-5) Logistic Regression:
-a) Explain Multiple Logistic Regression. (6 marks)
-Use following information as an example for dependent variable as default of credit card payment (Yes / No).
-
-Coefficient Std. error Z-statistic | P-value
-
-Intercept —10.8630 0.4923 08   <0.0001
-balance 0.0057 0.0002 24.74 <0.0001
-income 0.0030 0.0082 0.37 0.7115
-student [Yes] —0.6468 0.2362 —2.74 0.0062
-b) Predict probability of a student with a credit cardbalanceof$1500 and an income of $40000 (3 marks)
-c) Predict probability of a non-student with a credit cardbalanceof$1500 and an income of $40000 (3 marks)
-6) Explain the technique of K-Means Clustering. (12 marks)
-7) What are the types of analytics and how they are enhancing the business? (12 marks)
-t Table
-cum. prob tsa tos fag tes tg fag
-
-onetall] 08:50 0.25 020 045 G10 0.05
-two-tails| 1.00 O50 O40 O30 020 O40
-
-df
-i} -o.000 1.275 1662 3078 Gat
-2] a.co0 1081 125¢ 1885 2920
-3] a.caD here 128006 1.888 2.888
-4| 9.000 1341 1100 18393 2132
-=| o.c00 0920 1.356 1476 2045
-ea) O.co0 O.b08.°tis4” ado eae
-7) -a.c00 De 1G LATA eee
-a] a.con Ds8a°- fide Rey” t.ae0
-eB}. 0.000 0.883: 1.400 1.833."
-1o] CG OL7OE -p.efa 1098 Lei
-
-1] o000 O8oF ae7s tose :
-2] 0000 40898 860873) 1.08a 4.782
-12] 0.000 «Ones I ; W771
-i B00 0.692 ; 1.751
-15] OCOD O8er D968 1.074 1.783
-16). O.00D°. De8n DSB © 4.071 Eras
-1F]) 0.000 O.68e 0883 1.058 1.740
-18) O00 GBR. 0.882. 5. 1.067 1.724
-ig] 0.000 0.688 DBE £088 1723
-
-1.725.
-
-2 0.000 o.6er 0.960 1.084
-
-3/4
-````
-
-## 2017-18 · Re-Exam · Sem 8 · paper e43474c06158
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics...Re-exam 2017-18.pdf`
-- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 June 2019
-- Text: ocr (3 pages), mean OCR confidence 76.9
-
-````text
-y
-
-SVKM’S NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
-
-Program MBA Tech (All Streams) Year: IV Semester: VIII
-Academic Year: 2018-2019
-
-Subject: Business Analytics Marks: 60
-
-é
-
-Date : 19 June 2019 Time:2.00 pm to 4.00 pm
-° Duration: 2 (hrs)
-No. of Pages: 3
-
-Re-Examination (2017-189
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, whichis provided for their use.
-
-1) Question No. __]__ is compulsory.
-2) Out of remaining questions, attempt any __4 _ questions. MPSTME ~
-3) In all_5_ questions to be attempted. LIBRARY
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks. - .
-
-7) Assume Suitable data if necessary.
-
-e
-
-1) The table below shows the values for dependent variable and values of independent variable.
-Y 74/73 | 65/75 |68|72| 69/71 83/68 68/73
-
-X75 8369177171177 68|76 84/69 71) 75
-
-a) Estimate the Regression Equation Coefficient and Constant (3 marks)
-b) Check the significance of Regression Equation Coefficients (3 marks)
-c) Calculate Residual Sum of Square (RSS) (3 marks)
-d) Calculate R? value for the regression. (3 marks)
-2) Explain the four most commonly-used types of linkage in hierarchical clustering. (12 marks)
-
-3) Refer below the output of MRA done in software. Give your comments on the model. Also, suggest improvement
-or missing information if required. (12 marks)
-
-Regression Statistics
-
-Multiple R 0.990782
-R Square 0.98165
-Adjusted R Square 0.973786
-Standard Error 1.266311
-Observations 21
-
-t/3
---- page 2 ---
-ANOVA
-af SS MS F Significance F
-Regression 6 1200.959 200.1599 124.8235 0.0002
-Residual 14 22.4496 1.603543
-Total 20 1223.409
-Coefficients __ Standard Error t Stat P-value
-Intercept -2282.73 1707.251 -1.33708 0.202517
-Xl. 2.260418 1.561486 1.447607 0.169748
-X2 0.201209 0.233676 0.861061 0.403711
-X3 0.086008 0.031937 2.693015 ~—- 0.017494
-x4 , 7.080876 6.0071 1.178751 0.258144
-x5 -1.22221 0.523219 -2.33595 0.034885
-X6 1.534825 0.408908 3.753468 _-0.002139
-Predicted Value on X Axis
-Standard Residuals on Y Axis
-25 ’ =
-2 ae
-45
-FE a
-a
-0.5 oe ?
-0 ; : 7 , t
-9.5 385% 390 395 400 405 410 445
-A ed “ o & =
--1.5
-2
-4) Answer the following. ;
-a) Explain scope of analytics. Cover descriptive, predictive and prescriptive analytics in your answer. (6 marks)
-b) Explain various stages of analytics life cycle. : (6 marks)
-5) Explain the following terms
-a) Stationary Stochastic Processes (2 marks)
-b) Non-stationary. Time Series (2 marks)
-c) Random Walk Model (4 marks)
-d) Difference Stationary Process (2 marks)
-e) Trend Stationary Process (2 marks)
---- page 3 ---
-6) With reference to Logistic Regression explain the following
-
-a) The technique of logistic regression. (6 marks)
-b) Hosmer and Lemeshow Test (3 marks)
-c) Classification Table (3 marks)
-7) Explain in detail the technique of Hierarchical Clustering. (12 marks)
-t Table
-cum. prob tay fag tag ts tag ts tage tag tags t ae sons
-
-onetaill 050 0.25 020 045 O10 0.05 0.025 O01 9.005 0.001 0.0005|
-twotsils] 1.00 050 O40 0.30 0.20 0.10 005 0.02 0.01 0.002 0.001
-
-df
-
-t 4.00C 1.375
-2 0.816 1.584
-3 0.785 D.g7e
-4 wet
-
-5 O.727
-
-fe Ore
-
-ts
-
-ol
-
-1
-
-1"
-12
-13
-14
-
-15)
-
-18 0.680
-
-AF ‘D.000 o.cae
-18 1.000 6.888
-1a ‘0.000 G.58e
-30 000 D887
-
-a} ooeoo eee
-22} aco =| 8.686
-
-23 0.885
-
-24 0.685
-
-35 0.894 1058 9 1.318
-2 oe 1068. 1.315
-oF oes 1057 41.314
-et: 0.682 :
-
-2q o.6e3
-
-30
-
-40
-
-ao
-
-8o) 7
-
-400 0.877
-“Jeo 0.878
-
-Zz oes D842 LOS 12e2
-````
-
-## 2016-17 · Final-Exam · Sem 8 · paper 576888e4fdcb
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics Batch 2016-17 Final.pdf`
-- Printed on paper: max marks: 60; exam date: 21 April 2017
-- Text: ocr (3 pages), mean OCR confidence 92.3
-
-````text
-Coy
-
-MPSTMBE
-
-(( teary } }-
-
-SVKM’s NMIMS QT ak
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (All streams) Year: IV Semester: VIII
-
-Academic Year: 2016-17
-
-Subject: Business Analytics
-
-Marks: 60
-Time: 2.00 pm - 4.00 “
-Date: 21 April 2017 © Durations: - Hrs pa
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. ‘1 is compulsory.
-
-2) Out of remaining questions, attempt any 5 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary
-
-Qh (Marks: 12)
-
-Suppose we have a data set with five predictors, X1 =GPA, X2 =1Q, X3 = Gender (1 for Female and 0 for Male), X4
-= Interaction between GPA and IQ, and X5 = Interaction between GPA and Gender. The response is starting salary
-after graduation (in thousands of dollars). Suppose we use least squares to fit the model, and get “BO = 50, *B1 =
-“B2 = 0.07, *B3 = 35, *B4 = 0.01, “BS =-10.
-1) Which answer is correct, and why?
-a. Fora fixed value of IQ and GPA, males earn more on average than females.
-b. For a fixed value of IQ and GPA, females earn more on average than males.
-c. Fora fixed value of IQ and GPA, males earn more on average than females provided that the GPA is
-high enough.
-d. Fora fixed value of IQ and GPA, females earn more on average than males provided that the GPA is
-high enough.
-2) Predict the salary of a female with IQ of 110 and a GPA of 4.0.
-3) True or false: Since the coefficient for the GPA/IQ interaction term is very small, there is very little evidence
-of an interaction effect. Justify your answer.
---- page 2 ---
-Q2) (Marks: 12)
-
-Bank collect 850 past and prospective customers information for the bank loan. The first 700 cases are customers who
-were previously given loans. Use a random sample of these 700 customers we create a logistic regression model. The
-output is given below
-
-a SE Wald of Sig En(B)
-EMPLOY a 247 034 | 51.826 1 600 781
-ADDRESE ~.089 023 | #5108 4 £00 915
-DEBTING O72 023 | 10.040 1 002 1.074
-CREDDEBT 402 Ai | 29.608 1 006 1.826
-
-Canstant «804 301 4.038 1 045 546
-
-a) Interpret the results.
-
-b) With below information predict if the customer will default or not (default=1, No default=0).
-
-Employ(year | Address Debtinc (debt | Creddebt(credit
-of working) | (year of stay) | to income) to debt)
-17 12 9.3 11.36
->»
-Q3) (Marks: 12)
-
-The administrative officials are interested in finding out if the mean annual wage of country differs that from the state.
-The state mean hypothesis is $26,133.
-
-a) Formulate the hypothesis for the test, ;
-b) A sample of 550 individuals across the country showed a sample mean annual wage of $25,457. Assume
-population standard deviation of $7,600. Using a = 0.05(z value = 1.96), what is your conclusion?
-
-Q4) (Marks: 12)
-
-Factory “ABC” produces very expensive and high quality chip rings that their qualities are measured in terms of
-curvature and diameter. Results of quality control by experts given in the table below.
-
-Curvature 3.95 3.53) 4.57 4.16 3.58 3.16 4.12
-Diameter 7.63 8.79 6.65 6.47 5.46 722 4.52
-Quality Passed Passed Passed Passed Not Passed | Not Passed | Not Passed
-
-As a consultant to the factory, you get a task to set up the criteria for automatic quality control. Then, the manager of
-the factory also wants to test your criteria upon new type of chip rings that even the human experts are argued to each
-other. The new chip rings have curvature 2.81 and diameter 5.46. Can you solve this problem by employing
-Discriminant Analysis?
---- page 3 ---
-Q5) (Marks: 12)
-
-We have data from the questionnaires survey (to ask people opinion) and objective testing with two attributes (acid
-durability and strength) to classify whether a special paper tissue is good or not. Here is four training samples
-
-X2=Strength
-X1= Acid Durability | (Kg/Square
-
-(seconds) meter) Y=Classification
-7 7 | BAD
-7 4 | BAD
-3 4 | GOOD
-1 4 | GOOD
-
-Now the factory produces a new paper tissue that pass laboratory test with X1=3 and X2=7. Without another expensive
-survey, can we guess what the classification of the new tissue?
-
-(Marks: 6X2=12)
-
-Q6)
-a) Explain bias variance trade off with an example,
-b) Define odd ratios (p/(1-p)). Why researchers use logistic regression instead of regression where the
-dependent variable is dichotomous?
-
-Q7) (Marks: 6X2=12)
-
-Describe in brief on following techniques:
-a) Supervised and Unsupervised learning
-b) Comparison of LDA and QDA
-````
-
-## 2016-17 · Re-Exam · Sem 8 · paper 90b116b5d652
+## 2017-18 · Re-Exam · Sem 8 · paper 90b116b5d652
 
 - Departments: Common (all branches)
 - Programmes: MBA TECH
@@ -34412,6 +36559,145 @@ WEALTH -9.16E-02 217 -.02F -.423 76
 INTEREST -4.731 2.426 -.096 -1.951 062
 
 a. Dependent Variable: CONS
+````
+
+## 2016-17 · Final-Exam · Sem 8 · paper 576888e4fdcb
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics Batch 2016-17 Final.pdf`
+- Printed on paper: max marks: 60; exam date: 21 April 2017
+- Text: ocr (3 pages), mean OCR confidence 92.3
+
+````text
+Coy
+
+MPSTMBE
+
+(( teary } }-
+
+SVKM’s NMIMS QT ak
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (All streams) Year: IV Semester: VIII
+
+Academic Year: 2016-17
+
+Subject: Business Analytics
+
+Marks: 60
+Time: 2.00 pm - 4.00 “
+Date: 21 April 2017 © Durations: - Hrs pa
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. ‘1 is compulsory.
+
+2) Out of remaining questions, attempt any 5 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Qh (Marks: 12)
+
+Suppose we have a data set with five predictors, X1 =GPA, X2 =1Q, X3 = Gender (1 for Female and 0 for Male), X4
+= Interaction between GPA and IQ, and X5 = Interaction between GPA and Gender. The response is starting salary
+after graduation (in thousands of dollars). Suppose we use least squares to fit the model, and get “BO = 50, *B1 =
+“B2 = 0.07, *B3 = 35, *B4 = 0.01, “BS =-10.
+1) Which answer is correct, and why?
+a. Fora fixed value of IQ and GPA, males earn more on average than females.
+b. For a fixed value of IQ and GPA, females earn more on average than males.
+c. Fora fixed value of IQ and GPA, males earn more on average than females provided that the GPA is
+high enough.
+d. Fora fixed value of IQ and GPA, females earn more on average than males provided that the GPA is
+high enough.
+2) Predict the salary of a female with IQ of 110 and a GPA of 4.0.
+3) True or false: Since the coefficient for the GPA/IQ interaction term is very small, there is very little evidence
+of an interaction effect. Justify your answer.
+--- page 2 ---
+Q2) (Marks: 12)
+
+Bank collect 850 past and prospective customers information for the bank loan. The first 700 cases are customers who
+were previously given loans. Use a random sample of these 700 customers we create a logistic regression model. The
+output is given below
+
+a SE Wald of Sig En(B)
+EMPLOY a 247 034 | 51.826 1 600 781
+ADDRESE ~.089 023 | #5108 4 £00 915
+DEBTING O72 023 | 10.040 1 002 1.074
+CREDDEBT 402 Ai | 29.608 1 006 1.826
+
+Canstant «804 301 4.038 1 045 546
+
+a) Interpret the results.
+
+b) With below information predict if the customer will default or not (default=1, No default=0).
+
+Employ(year | Address Debtinc (debt | Creddebt(credit
+of working) | (year of stay) | to income) to debt)
+17 12 9.3 11.36
+>»
+Q3) (Marks: 12)
+
+The administrative officials are interested in finding out if the mean annual wage of country differs that from the state.
+The state mean hypothesis is $26,133.
+
+a) Formulate the hypothesis for the test, ;
+b) A sample of 550 individuals across the country showed a sample mean annual wage of $25,457. Assume
+population standard deviation of $7,600. Using a = 0.05(z value = 1.96), what is your conclusion?
+
+Q4) (Marks: 12)
+
+Factory “ABC” produces very expensive and high quality chip rings that their qualities are measured in terms of
+curvature and diameter. Results of quality control by experts given in the table below.
+
+Curvature 3.95 3.53) 4.57 4.16 3.58 3.16 4.12
+Diameter 7.63 8.79 6.65 6.47 5.46 722 4.52
+Quality Passed Passed Passed Passed Not Passed | Not Passed | Not Passed
+
+As a consultant to the factory, you get a task to set up the criteria for automatic quality control. Then, the manager of
+the factory also wants to test your criteria upon new type of chip rings that even the human experts are argued to each
+other. The new chip rings have curvature 2.81 and diameter 5.46. Can you solve this problem by employing
+Discriminant Analysis?
+--- page 3 ---
+Q5) (Marks: 12)
+
+We have data from the questionnaires survey (to ask people opinion) and objective testing with two attributes (acid
+durability and strength) to classify whether a special paper tissue is good or not. Here is four training samples
+
+X2=Strength
+X1= Acid Durability | (Kg/Square
+
+(seconds) meter) Y=Classification
+7 7 | BAD
+7 4 | BAD
+3 4 | GOOD
+1 4 | GOOD
+
+Now the factory produces a new paper tissue that pass laboratory test with X1=3 and X2=7. Without another expensive
+survey, can we guess what the classification of the new tissue?
+
+(Marks: 6X2=12)
+
+Q6)
+a) Explain bias variance trade off with an example,
+b) Define odd ratios (p/(1-p)). Why researchers use logistic regression instead of regression where the
+dependent variable is dichotomous?
+
+Q7) (Marks: 6X2=12)
+
+Describe in brief on following techniques:
+a) Supervised and Unsupervised learning
+b) Comparison of LDA and QDA
 ````
 
 ## 2016-17 · Re-Exam · Sem 8 · paper 55fc7194ca1f
@@ -35507,6 +37793,109 @@ b.   Duality and Dual of the Primal of LPP
 c.   Monte Carlo Simulation
 ````
 
+## 2011-12 · Exam not stated · Trim 15 · paper 6425cdf86ca6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS ANALYTICS/BUSINESS ANALYTICS 20120001.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 4/4/2012
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+\
+
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineer:
+. Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
+| Academic Year : 2011-2012
+Subject: BUSINESS ANALYTICS Marks: 50 Za
+Time: 10.30 An fo }2.30 px
+Date: 4/4/2012 Duration: 2 hrs. aia
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+NB:
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions attempt any two questions.
+3. Figures in brackets on the right hand side indicate full marks.
+
+1.a. Consider the following regression equation:
+
+Wi = = 8.58+ 0.364 (PF) ,+ 0.004 (PF) ;,-; -2.56 U;
+
+(1.129) (0.080) (0.072) (0.658)
+P values = 00000172 .00038 0.956 0.0014
+R?= 0.873 df= 15
+} Where W = wages and salaries per employee; PF= prices of final output at factor cost, U = unemployment
+
+in the economy as a percentage of total number of employees in the country and t = time. (The figures in
+the parentheses are the estimated standard errors)
+
+Base on the regression equation above answer the following questions.
+a. Interpret the equation
+b. Are the estimated coefficients individually significant at 5% level of significance?
+c. What is the rationale for introduction of (PF);
+; d. Should the variable (PF),.; be dropped from the model? Justify your answer
+; e. How would you compute the change in wages & salaries per employee with respect to the
+4) } unemployment rate U?
+
+b. Write a short note on ARIMA model. . (15+5)
+
+2. a. A company makes two products (X and Y) using two machines (A and B). Each unit of X that is produced
+requires 50 minutes processing time on machine A and 30 minutes processing time on machine B. Each unit of
+Y that is produced requires 24 minutes processing time on machine A and 33 minutes processing time on
+machine B.
+
+At the start of the current week there are 30 units of X and 90 units of Y in stock. Available processing time on
+machine A is forecast to be 40 hours and on machine B is forecast to be 35 hours.
+
+Yo
+--- page 2 ---
+The demand for X in the current week is forecast to be 75 units and for Y is forecast to be 95 units. Company
+policy is to maximize the combined sum of the units of X and the units of Y in stock at the end of the week.
+
+Formulate the problem of deciding how much of each product to make in the current week as a linear program.
+b. How is quadratic programming and convex programming different from linear programming? (7+8)
+A researcher found that probability of illness is related to body mass. He was in particular interested in the
+
+extent of increase in the said probability due to a unit increase in BMI of the individual. The researcher
+collected data and did an analysis which gave him the following results:
+
+Predictor Coeff SE Coef Z P Odds 95% CI
+
+Ratio Lower Upper
+Constant ~4.44 2.606 -1.71 0.088
+BMI 0.1359 0.0789 1.72 0.085 1.15 0.98 1.34
+
+a. What technique is he using and why?
+
+b. Explain the technique.
+
+c. Obtain the increase in probability of illness due to one unit increase in BMI
+
+d. What does odds ratio mean? (15)
+
+Discuss any two of advanced experimental designs with example. Discuss what type of experimental design
+you would recommend in each of the following cases:
+
+a. A study of the effects of various levels of advertising effort and price reduction on the sale of specific
+branded grocery products by a retail grocery chain
+
+b. A study to determine whether it is true that the use of fast-paced music played over a store’s public address
+system will speed the shopping rate of customers without an adverse effect on the amount spent per
+customer
+
+c. A test of three methods of compensation of factory workers. The methods are hourly wage, incentive pay
+and weekly salary. The dependent variable is direct labour cost. (9+6)
+
+RRR EK
+
+1
+````
+
 ## 2011-12 · Re-Exam · Trim 15 · paper ef474df5e7e5
 
 - Departments: Common (all branches)
@@ -35514,6 +37903,7 @@ c.   Monte Carlo Simulation
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS ANALYTICS/BUSINESS ANALYTICS BATCH 2011-12 RE EXAM0001.pdf`
 - Printed on paper: duration hours: 2; exam date: 22/06/2012
 - Text: ocr (2 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 a
@@ -35620,7 +38010,6 @@ Error 5.015595194
 Observations 20
 ANOVA
 j Significance
-i Ff SS MS F F
 Regression a) il 3178.072387 3178.072387 126.3336 1.44E-09
 Residual q ) 18 452.8115126 25.15619515
 Total 19 3630.8839
@@ -35869,2409 +38258,4 @@ the particular ad-group.
 
 4. Calculate total purchase cycle time and % of duration of each keyword.
 5. Calculate difference between the % calculated above and shares set in Step 1 for each keyword.
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 47bd1844e6b2
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (13 pages), mean OCR confidence 79.7
-
-````text
-SVKM’S NMIMS ca
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS& E
-
-Academic Year: 2022-2023 ;
-
-Program: MBA Tech Year: Jv Seméster: VIII
-
-Stream: All Streams
-
-Subject: Business Analytics Time: 2 hrs (40:00amtoi2 noon )
-Date:_27 /06 / 2023 No. of Pages: 13
-
-Marks: 50
-
-Re~Examination (2021 - 22/2099 - 23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-om 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions are to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Explain how the following levels of analytics vary in scope by providing suitable
-
-Qi example for each in the context of a manufacturer of consumer electronic products:
-CO-1 a) Descriptive
-BL-Understand b) Diagnostic [4*2.5=10]
-
-c) Predictive
-d) Prescriptive
-
-For the multiple linear regression output of salary. data of employees below, answer
-the questions following the table (Salary data used is in INR thousands per month).
-
-Regression
-
-Qa . . . .
-
-0.2: Descriptive Statistics
-
-BL- Mean Std. Deviation N
-
-Understand, Salary 52.5245 42.22093 100
-
-Apply Age 4688 (18.271 100.
-Gender-Female 5000 «50282 100
-Gender=Male 5000 50252 100
-PhD=No i100 902 100
-PhD=Yes_ 3900 49021 100
-
-[2*5=10}
---- page 2 ---
-:
-
-Correlations
-
-Gender=Fem
-Salary Age ale Gender=Male PhD=No PhD=Yes
-Pearson Correlation _ Salary le 1.000 _. ATT _ : >.259 - 259 7556
-Age 477 + 1000 7161 - 161 __7 35
-Gender=Female -.259 -.161 a 000 -1.000 :
-GenderMale _ : . 259 164 -1,000 - 1.000
-Boo 2886 | 9638S :
-i oes PhD=Yes 7 556 - - 353 -.185 a 000
-Sig. (1-tailed) Salary eee Me 000 oo 005 _ 000 2.
-Age oe 000 | : 055 __-000
-Gender-Female = 005085 033
-GenderMale 005 55
-PhD=No - 00 - 000
-Pa os PhD=Yes- ay 000 . 000 .
-A Salary ee eee
-Age | oie 100 100 100 100 - 100
-Gender=Female 100 a 100 100 100 _ ony
-_Gender=Male _ 100 100 100 100 100
-Phi No : - 100 100 — 100 7 100 100
-PhD=Yes 100 100 100 100 100
-7 a
-Variables Entered/Removed
-Variables Variables
-Model Entered Removed Method
-4 PhD=Yes, . Enter
-Gender=Male,
-Age?
-a. Dependent Variable: Salary
-b. Tolerance = .000 limit reached.
-Model Summary”
-Adjusted R Std. Error of Durbin-
-Model R R Square Square the Estimate Watson a
-1 6457 415 397 32.78112 2.322
-a. Predictors: (Constant), PhD=Yes, GenderMale, Age
-b. Dependent Variable: Salary
-ANOVA*
-Sum of
-Model Squares df Mean Square F Sig
-1 Regression 73316.307 3 24438.769 22.742 ooo”
-Residual 103161.806 96 1074.602
-Total 176478.112 99
-
-a. Dependent Variable: Salary
-b. Predictors: (Constant), PhD=Yes, GenderMale, Age
---- page 3 ---
-Coefficients” Ae
-Standardized
-Unstandardized Coefficients Coefficients Collinearity Statistics
-Model B Std. Error Beta t Sig. Tolerance VIF
-1 (Constant) = -6.985 10.836 642 523 :
-BAF 282 306 3.655 000 866 1.155
-14094 6.707 12 4654 101986 1.087
-PhD=Yes 36.431 7.253 423 5.023 .000 859 1.165
-a. Dependent Variable: Salary
-Charts
-Histogram
-. Dependent Variable: Salary
--~ 30
-> 2
-o
-c
-o
-3
->
-2
-o
-10
-° Le Be
-3 2 4 0 1 3
-Regression Standardized Residual
-Normal P-P Plot of Regression Standardized Residual
-Fay Dependent Variable: Salary
-
-10
-j |
-| |
-
-08 — | ny, a
-
-06 j
-g | on
-
-02
-
-00
-00 02 04 06 08 10
-
-Observed Cum Prob
---- page 4 ---
-Scatterplot
-Dependent Variable: Salary
-
-2 ey 0 1 2
-
-Regression Standardized Predicted Value
-
-a) Identify the baseline for each qualitative predictor.
-
-b) Explain the interpretation of the Durbin-Watson statistic.
-
-c) By how much will the salary of a PhD candidate differ from that of a non-
-PhD candidate of the same age & gender? Determine the monthly salary
-for a 40-year-old, male, PhD candidate.
-
-d) Explain which of the predictor/s has/have a relationship with the response.
-
-e) What interpretation/s can be made from the residual plot?
-
-You are supposed to develop a model to predict that whether the participant has
-heart disease or not based upon the age, weight, gender and VO2max.
-e The dependent variable, heart disease, which is whether the participant has
-heart disease
-e The independent variable, age, which is the participant's age in years
-e The independent variable, weight, which is the participant's weight
-(technically, it is their 'mass’)
-e The independent variable, gender, which has two categories: "Male” and
-Q3 "Female"
-e The independent variable, VO2max, which is the maximal aerobic
-
-CO-2; BL- ;
-capacity
-
-Understand,
-Apply Case Processing Summary
-
-Unweighted Cases* N Percent
-Selected Cases Included in Analysis 100 100.0
-Missing Cases. 0 0
-Total 100 100.0
-Unselected Cases 0 0
-Total 100 100.0
-
-a. If weight is in effect, see classification table for the
-total number of cases.
---- page 5 ---
-Categorical Variables Codings
-
-Parameter Dependent Variable Encoding
-
-coding Internal
-
-Frequency @M Original Value Value
-Gender Female 37 -000 No 0
-Male 63 1.000 Nes 7
-
-Block 0: Beginning Block
-
-Classification Table?”
-
-” Predicted
-Presence of Heart Disease Percentage
-Observed No Yes Correct
-(a Step 0 Presence of Heart No 65 0 100.0
-Disenze, Yes 35 0 0
-Overall Percentage 65.0
-
-a. Constant is included in the model.
-b. The cut value is .500
-
-Variables in the Equation
-
-B S.E. Wald dF Sig. Exp(B)
-Step 0 Constant -.619 .210 8.718 1 -003 538
-
-Variables not in the Equation
-
-Score df Sig.
-Step0 Variables Age 11.872 iL 001
-Weight 8.065 1 -005
-Gender(1) 4.620 L 032
-VO2max 4.150 1 042
-Overall Statistics 24,338 4 .000
-(a) Block 1: Method = Enter
-Omnibus Tests of Model Coefficients
-Chi-square df Sig.
-Step1 Step 27.402 4 000
-Block 27.402 4 000
-
-Model 27.402 4 :000
---- page 6 ---
-Hosmer and Lemeshow Test
-
-Step Chi-square df Sig.
-1 3.843 8 871
-Model Summary
-~2 Log Cox & Snell Nagelkerke
-Step likelihood R Square R Square
-ny 102.088" .240 -330
-
-a. Estimation terminated at iteration number
-5 because parameter estimates changed by
-less than .001.
-
-SPSS output - Block 1 *®
-Classification Table*
-Predicted
-Presence of Heart Disease Percentage
-Observed No Yes Correct
-Step 1 Presence of Heart No 55 10 84.6
-Disease Yes 19 16 45.7
-Overall Percentage 71.0
-
-a. The cut value is .500
-
-SPSS output - Block 1
-
-Variables in the Equation
-
-95% C.l.for EXP(B)
-B SE. Wald df Sig. Exp(8) Lower Upper
-
-Step 1* Age 085 028 = 9,132 1 003 1.089 1.030 1.151 a
-Weight 006 022 065 1 799 1,006 962 1.051
-Gender(1) 1.950 842 5,356 1 021 7.026 = 1.348 36.625
-VO2max ~.099 048 = 4,266 1 039 906 824 +995
-Constant -1.676 3,336 253 1 615 187
-
-a, Variable(s) entered on step 1: Age, Weight, Gender, VO2max.
-
-a) Which multivariate technique is used and why? (1 mark)
-b) State the Logistic Regression model. (2 mark) |
-
-c) Comment on pseudo-R Square values? Which test statistic /s used to test
-accuracy of the model? (3 mark)
-
-d) Interpret the classification table. Can you use this model for prediction?
-(2 mark)
-
-e) Define Sensitivity and Specificity of this model? (2 mark)
---- page 7 ---
-The data set is described in the columns correspond to the variables Test1, Test2,
-Interview as independent variables and Status as dependent variable which is coded
-as | if qualified and 0 if not qualified. There are 30 individuals, in total.
-
-A model is developed to predict whether an individual would get shortlisted or not
-based on the independent variables. Answer the following questions based on the
-
-output:
-Anatysis Case Processing Summary
-Unweighted Cases N Percent
-Valid 30 100.0
-Exctuded Missing oF out-of-range 0 0
-group codes
-Atlgastone missing 0 0
-discnminating vanable
-Both missing of out-of-
-@ rangé group codes and at
-Q4 leastane missing 0 9
-CO-2; discriminating variable
-BL- Total 0 ie]
-Understand, Total 30 1000
-Apply
-Group Statistics
-Valid N (listwise)
-status Unweighted | Weighted
-Qualified Testi 23 23.000
-Test2 23 23.000
-Interview 23 23.000
-Not qualined Testi - 7.000
-Test2 7 7.000
-interview 7 7.000
-Total Testi 30 30.000
-@ Test2 30 30.000
-
-= Interview 30 30.000
---- page 8 ---
-Analysis 1
-
-N,
-a
-
-Summary of Canonical Discriminant Functions
-
-Eigenvalues
-
-Canonical
-Function | Eigenvalue | % ofVanance | Cumulative % Correlation
-1 1.203° 100.0 100.0 739
-
-a First 1 canonical discriminant functions were used tn the analysis.
-
-Wilks’ Lambda
-
-Wilks’
-Test of Functions) Lambda Chi-square df Sig.
-
-1 A454 20.931 3 -000
-
-Standardized
-Canonical
-Discriminant
-Function
-
-Coefficients
-
-Function
-
-1
-Testi 5389
-Test2 475
-Intenrew S74
-
-Structure rPatrix
-
-Function
-
-7
-Testi 736
-interview 571
-Test2 483
-
-Pooled vwithin-
-groups correlations
-between
-discrminatng
-vanables and
-Standardized
-canonical
-discriminant
-functions
-Variables ordered
-by absolute size of
-corretation within
-function.
---- page 9 ---
-Canonical
-Discriminant Function
-
-Coefficients
-Function
-1
-Testi 091
-Test2 051
-Intenview OoT7
-(Constant 711.199
-
-Unstandardized
-coefficients
-
-Functions at Group
-Cemtroids
-
-Function
-
->
-
-status 1
-Qualified -585
-Not qualified -1.921
-Unstandardized
-canonical discriminant
-functions evaluated at
-
-_ group means
-
-Classification Statistics
-
-Classification Processing Summary
-
-Processed 30
-Excluded Missing or out-ot-range 0
-
-group codes
-
-Atigast one missing
-
-discriminating vanable 0
-Used in Output 30
-
-Prior Probabilities for Groups
-
-Cases Used in Analysis
-
-status Prior Unweighted | Weighted
-Qualified 500 23 23.000
-Not qualified 500 7 7.000
-
-Total 1.000 30 30.000
---- page 10 ---
-Classification Resutts** ‘in
-Predicted Group Membership
-
-tans Guaitied [Notqualited | Total |
-Original Count Oualified 20 3 23
-Not qualified 8 7? 7
-% Qualified 87.0 13.0 1000
-Not qualified Bi) 100.0 1000
-Cross-validated® Count Qualified 19 4 23
-Not qualified 0 7 7
-% Qualified 82.6 W4 1000
-Not qualified a) 100.0 100.0
-° a) State the equation for the discriminant function? (1 mark)
-
-b) Comment on the discriminating power of the model? Explain? (2 marks)
-
-c) What does the significance value suggest? (1 mark)
-
-d) Which independent variables have the most and least explanatory power?
-Explain? (2 marks) ,
-
-e) What does the values in the structure matrix suggest? (1 mark)
-
-f) Interpret the classification table and explain whether the model can be used
-for prediction or not? (3 marks)
-
-A dataset consisting of 20 students is analyzed on the following variables:
-Age: Age of a student
-Mem_span: Memory span of a student
-iq: Intelligence Quotient of a student
-Read_ab: Reading ability of a student
-
-The objective is to cluster these students into homogenous groups and understand
-more about the groups. A cluster analysis was performed on the data and output is
-shown below. Answer the following questions:
-
-Qs nitial Cluster Centers
-CO-2; Cluster
-BL- 1 2 3 4 \
-age 400 670 410 570
-Understand, shotlenn memory span 420 440 990 340
-Apply ta 10100 9500 | 10800 | #800
-feading ability $60 120 500 $30
-eration History"
-
-Change in Cluster Centers,
-
-ferghon 1 ? 3
-
-1 772 73? 2342 2076
-? N00 BOR 000 cial
-3 600 006 000 006
-
-9 Convergence achigved dus to no or small
-change in cluster centers The maumum
-absolute caordinate change for any canter ts
-000 The cuttentitecauen is 3 The minimum
-distance between ivfal centers ts 6774
---- page 11 ---
-Case Processing Summary?”
-
-Cases
-Vana Missing a ____ Fotal
-
-ti | Fenem | ta [ Percent | te Pete
-i of ° 20 1 3900
-
-a
-
-Squsted Euctidean Distance used
-
-b Ward Linkage
-
-Ward Linkage
-
-Agglomeration Schedule
-Cluster Combined Stage Cluster FustaAppears
-Stage [| Ctustart | Cluster? | Coomcants | Ctustert Cluster > | teaStage
-1 ve 9 coo 6 o WW
-# % 10 ooo ° a 3
-, 8 9 coo o 2? 6
-4 ‘ 5 600 ° 0 6
-° 6 1 2 ooo ° o 16
-6 4 8 288 4 * ¥2
-7 aw as oy o ) %
-8 1s wv 1629 ° o 14
-9 el 20 gare ? ° az
-10 6 13 $230 ° ° Toe
-a 6 16 7@93 10 a ws
-12 4 ? 13740 6 °o 14
-Ww 12 18 16 780 ° t 16
-14 4 1s 25.436 12 8 19
-1S 3 6 38 $28 ° uw 18
-16 1 2 sso04 | 5 13 7
-17 1 uW 98878 16 9 18
-18 1 a 249856. 1 15 19
-19 i 794185 12 14 °
-Chost
-
-Ctse turaber | Cluster | Distance
-7 5 pers
-? , 2252
-3 3 2342
-4 4 623
-s 4 6
-6 3 1 yee
-? a 236)
-a 4 280
-9 a 260
-10 a ?aa
-cal 2 V367
-
-as ww 2 20452
-3 3 1640
-4 2: 3226
-1S. 4 372
-16 v 2062
-17 4 2480
-18 1 2042
-'s ’ 2042
-
-2 2 1902
---- page 12 ---
-Final Cluster Centers.
-
-Cluster
-1 2 3 4
-
-age 540 eos ce) oro
-shom-term memory span 408 490 433 ang
-io rer ze go00 | 10639 903
-fe airy atwity 658 670 600 608
-
-Distances between final Chister Centers.
-
-t 2 3 3
-
-Cluster
-n soos | s226 | tant
-2 $253 1oasa | 5983
-3 5276 | oats 16225
-4 taser | 6903 | 16228
-Number of Cases in each
-Chister
-* Guster} $000
-2 4000
-3 3000
-4 $000 as
-
-| vang 20000
-Missing 000
-
-a) Find the number of clusters appropriate for the data using Agglomeration
-Schedule table? (2 marks)
-
-b) Who are the members of the groups? List them down. (2 marks)
-
-c) How many members are there in each group? (2 marks)
-
-d) What are the characteristics of each group? Explain in detail? (4 marks)
-
-The social network ad dataset contains the details of users in a social networking
-site to find whether a user buys a product by clicking the ad on the site based on
-their salary and age.
-
-SALARY AGE [in PURCHASED
-[in Rs.] years]
-20000 19 N
-45000 35 Y
-Q6 28000 26 N -
-CO-2; 29000 27 N i
-BL- 21000 19 N [10]
-Understand, 35000 32 ¥
-Apply 55000 39 Y
-65000 41 Y
-64000 51 Y
-30000 25 N
-
-A New user has a salary Rs. 50000 and age 42 years. Use K-Nearest Neighbor
-Classification (use K= 3 as well as K=5) to predict whether a user buys a product
-by clicking the ad on the site or not.
---- page 13 ---
-or For the following data, forecast the demand for the 7th month using exponential 0)
-
-CO-2; smoothing method with smoothing constant « = 0.4. idiw |
-BL-
-Understand, Month | Actual Demand (units)
-Apply 1 120
-2 135
-3 130
-~ 140
-5 150
-6 145
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper b9d659033f79
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics_b9d659033f.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (15 pages), mean OCR confidence 75.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
-Academic Year: 2022-2023
-
-Program: MBA Tech Year: 2023 Semester: VIII
-Stream: All Streams Iv
-
-Subject: Business Analytics Time: 2 hrs (40am to42 pm.)
-Date:_20 / 04 / 2023 No. of Pages: 15
-
-Marks: 50
-
-Final Examination | Re- Examination -
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-(> 2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions are to be attempted. .
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Explain how the following levels of analytics vary in scope by providing suitable
-example for each in the context of social media analytics say Facebook, Twitter,
-
-Ql LinkedIn, and Instagram:
-CO-1 a) Descriptive [4*2.5=10]
-BL-Understand b) Diagnostic
-c) Predictive
-d) Prescriptive
-For the following output of multiple linear regression of electrical power output
-(PE) in MW ofa power plant on ambient temperature (AT) in °C, exhaust vacuum
-(V) in cm Hg, ambient pressure (AP) in millibar, & relative humidity (RH) in %,
-answer the following questions.
-an
-Regression
-Q2
-CO- 2; Descriptive Statistics
-Be Mean Std. Deviation N
-Understand, PE 454.3650 17.06628 47840
-Apply AT 19.65123119 ___7.452161658 _ 47840
-Vv ~§4,30580372. “12.707361 71 47840 _
-"AP ——-1013.259078 6.938636419 47e40__
-“RH 7330897784 —14.59965835 47840
-[2*5=10]
---- page 2 ---
-Correlations
-PE AT v AP
-
-Pearson Correlation
-
-" Sig. (1-tailed)
-
-PE —s 1.000 -.948 -.870
-AT -948 1.000.844
-ve -.870 844 1.000
-
-: 26 100
-‘RH 390-843-312, 1001.00
-PE 000 ooo = .000-——«s—«00
-A 000 .000 000
-
-; 000.000
-
-“a7e4o 4784047840
-
-47e40 4784047840
-A740 «47840 «47840
-
-“47840 47840 «47840
-47940 -47840_—«47840
-
-~ 47840
-47840
-47840
-47840
-
-Model
-
-Variables Entered/Removed*
-
-Variables Variables
-Entered Removed Method
-
-4
-
-AT . Stepwise
-(Criteria:
-Probability-of-
-F-to-enter <=.
-050,
-Probability-of-
-F-to-remove
-
-.100).
-
-2
-
-<)
-
-4
-
-RH . Stepwise
-(Criteria:
-Probability-of-
-F-to-enter <=.
-050
-Probability-of-
-F-to-remove
->= 100)
-
-v . Stepwise
-(Criteria:
-Probability-of-
-F-to-enter <=
-050,
-Probability-of-
-F-to-remove
-100).
-AP . Stepwise
-(Criteria
-Probability-of-
-F-to-enter <=
-050
-Probability-of-
-F-to-remove
->= 100)
-
-a. Dependent Variable: PE
---- page 3 ---
-Model Summary®
-
-Adjusted R Std. Error of Durbin-
-Model R R Square Square the Estimate Watson
-4 899 5.42521
-2 921 4.79849
-3 928 4.56757
-4 929 4.55736 2.005
-a. Predictors: (Constant), AT
-b. Predictors: (Constant), AT, RH
-c. Predictors: (Constant), AT, RH, V
-d. Predictors: (Constant), AT, RH, V, AP
-e. Dependent Variable: PE
-ANOVA?
-G ‘Sum of
-Model Squares at Mean Square F Sig,
-1 Regression 12525477.07 12525477.07   425559.943 000°
-Residual 1408012.624 29.433
-___Total 13933489.70
-2 Regression 12832020.53 6416010.264 278648.456 00°
-Residual 4101469168 47837_ 23.025
-2 0 ER
-3 Regression   12335501.01 3. 4311833.671 206676.567 oo0*
-Residual 997988.684 47836 20.863
-= me t39994e070 , 47689
-4 Regression   12939977.40 4 3234994350 155756.456 000°
-_ Residual 993512.298 47835 20770
-Total 13933489.70 47839
-
-a, Dependent Variable: PE
-
-b, Predictors: (Constant), AT
-
-¢. Predictors: (Constant), AT, RH
-
-d. Predictors: (Constant), AT, RH, V
-
-e. Predictors: (Constant), AT, RH, V, AP
---- page 4 ---
-Coefficients®
-Standardized :
-Unstandardized Coefficients Coefficients Collinearity §
-Model B Std. Error Beta t Sig. Tolerance
-1 Constant) 497.034 070 715.203 000 ;
-PAT oe “2471 003 -948 652.350 000 1.000
-2 Constan) ——816.476 180 297.258 = 000
-AT 2.391 004 “1.044 -682.168 000706
-< eae -.206 002 “477 -116.383 000706
-3 (Constan) —=—«818.549 173 2990.817 000
-Ale -2.019 008 881 | -323.154 000 201
-165 002 -141 -91.899 000 632
-vo +228 003 -170   -70.428 000 257
-4 (Constan 454.609 4.359 104,298 000
-AT. 1.978 007 -864 — -289.278 000 167
-“RH -A88 002 “135 -84.806 000586 -
-Nie -234 003 -AT4-71.842 +000 254 ‘
-AP 062 004 022 14.681 000 688
-a. Dependent Variable: PE
-Excluded Variables®
-Collinearity Statistics
-Partial Minimum
-Model Beta In t Sig. Correlation Tolerance VIF Tolerance
-Tew ~242® -97.603 “000 ~408 287 ~—«3.478 287
-AP oso” 29.989 “000 136 742 1.347 742
-RH -477>-415.383 “000 ~.467 706 1417——~SOS~*~«STOGS
-Sy “170° -70.428 “000 ~307 257 3.885 201
-AP oos® 5.742 ‘000 026 6991431 498
-iaec ap 0224 14.681 “000 067 688 (1.453 167
-a. Dependent Variable: PE
-b. Predictors in the Model: (Constant), AT
-c. Predictors in the Model: (Constant), AT, RH
-d. Predictors in the Model: (Constant), AT, RH, V >
-Charts
---- page 5 ---
-Histogram
-Dependent Variable: PE
-
-Mean = -1.096-12
-
-4,000 ‘Std. Dev. = 1.000
-N= 47,840
-3,000
-2 i
-cy
-a
-a
-© 2,000
-uw
-4,000 i
-i)
-10 Ss
-Regression Standardized Residual
-Normal P-P Plot of Regression Standardized Residual
-5 Dependent Variable: PE
-1
-os
-2
-2
-= os -
-5
-3
-3
-Bop ——
-& |
-Fs |
-w i
-ap i
-oo
-‘bo 0 ba v6 08 40
-Observed Cum Prob
-Scatterplot
-Dependent Variable: PE
-e
-we 285
-Ei
-3
-@
-3
-ce   oof}———~ Se
-| z
-3
-N
-z
-B 25
-3
-&
-5
-| a
-c 0
-S
-3B
-a
-i
-B 75
-4 °
-ee
-40,0 perenne = :
-3 2 o 1 2 3
-
-Regression Standardized Predicted Value
---- page 6 ---
-a) Explain which variable has the highest impact on the electrical power
-output (PE) and which variable has the least impact on the electrical power
-output (PE).
-
-b) Explain the interpretation of the Durbin- Watson statistic.
-
-c) Write the estimated regression equation and determine the change in
-electrical power output (PE) when ambient temperature (AT) increases
-from 20°C to 25°C with the other variables remaining constant.
-
-d) Which variable has been included in the model at step 2? Explain why it
-has been included in the model at step 2 over the other variables.
-
-e) What interpretation/s can be made from the residual plot?
-
-Q3
-CO-2; BL-
-Understand,
-
-Apply
-
-A scholar would like to predict the choice of bank (Public or Private) based
-on independent variables that include Technology, Interest Rates, Value Added
-Services, Perceived Risks, Reputation, and others. The scholar is interested in
-predicting the odds of selection of Public or Private bank on the perception of
-respondents in relation to the factors like Technology, Interest Rates, Value Added
-Services, Perceived Risk, Reputation, Attractiveness, and Perceived Costs.
-
-For instance, the scholar hypothesized, that improved technology, offering better
-interest rates, improved value-added services and other predictors’ will lead to
-choosing Private banks for account opening. You are supposed to develop a model
-to predict that a new scholar would choose a private or a public bank.
-
-Case Processing Summary
-
-ighted Cases* N Percent
-Selected Cases — included in Analysis 341 100.0
-Missing Cases 0 o
-
-Total 341 100.0
-
-Unselected Cases 6 a)
-Total 341 100.0
-
-@, Iweightis in effect, see classificaton table for the total
-number of cases
-
-Dependent Variable
-Encoding
-
-Oriqinal Value Intermal Value
-
-Public 0
-Private 1
---- page 7 ---
->
-
-Block 0: Beginning Block
-
-Classification Table™”
-
-ed
-
-aChoice ofBank = Public 0 90
-
-Step 0 0
-Private 0 254 100.0
-Overall Percentage 736
-a. Constantss included in the modal
-b. The cut value is 500
-Variables in the Equation
-8 SE Weald at Sig Eap(By
-Step 0 — Canstant : 1826 123 69.687 1 ooo * 2789
-Variables not in the Equation
-Score of Sig
-Step Variables Technology 2.083 1 149
-interest Rates $47 1 459
-Value Added Senices 2.339 1 126
-Percened Risk 13.542 1 000
-Reputation 697 1 404
-Attractiveness 405 1 $25
-Porceived Costs 1.722 1 189
-Overall Stanstics 37 651 7 006
-Block 1: Method = Enter
-Omnibus Tests of Model Coefficients
-Chi-square df Sig.
-> Stept Step 121.767 7 000
-Block 121.767 7 000
-Model 121.767 7 .000
-
-Hosmer and Lemeshow Test
-Step Chi-square df Sig
-
-1 2.490 8 962
---- page 8 ---
-Contingency Table for Hosmer and Lemeshow Test
-
-Preferred Choice of Bank= Preferred Choice of Bank =
-Public Privat
-Observed Expected Observed Expected Total
-Step1 1 20 20.024 14 13.976 34
-pie 14 13.501 20 20.499 34
-4 ci 11.708 25 22.296 34
-4 4 10.090 23 23.910 34
-5 9 8.908 26 26.092 34
-6 10 7.635 24 26.365 34
-ee ; 9 6.637 25 27.363 34
-a 4 5.567 30 28.433 34
-a 2 3.819 32 30.181 34
-10 2 | 2415 33 32.885 35
-Model Summary , ‘
--2 Log Cox&SneiR   Nagelke
-
-Step liketihood Square Square
-1 73.499" 368 107
-
-a. Estimation terminated at iteration number 8
-because parameter estimates changed by less
-
-than .001.
-Classification Table®
-Predicted
-Prefened Choice of Bank Percentage
-Observed Public Private Conedt
-
-Step1 Preferred Choice ofBank Public 16 74 17.8
-
-: : “Private 9 242 96.4
-Overall Percentage 757 =
-\
-
-a. The cut value is 500
-
-Variables in the Equation
-95% C {tor EXPiB)
-
-6 SE wald a 819 ExpiB) Upper
-Sept’ Technalogy 440~O«Ne «1.880 ers rn) er TT)
-Interest Rates oe tN 1 4531088878.
-Value AddesSenices 313,112 7.788 1 008387097 1.703
-* “515106 23.489 1 ooo S97 488736
-2330408 4a 1 Ge t280 oN. 839
-06210) 381 1 87 tT
-.345 327.118 er a er
-Constant 13376893761 Lost 3807
-
-a Variable(s} entered on step 1: Technology, interest Rates, Value Added Senices, Percewed Risk, Reputation,
-Attractiveness, Perceived Costs.
---- page 9 ---
-G
-
-a) Which multivariate technique is used and why? (1 Mark)
-
-b) State the Logistic Regression model. (2 Marks)
-
-c) Comment on pseudo-R Square values? Which test statistic /s used to test
-accuracy of the model? (3 Marks)
-
-d) Interpret the classification table. Can you use this model for prediction?
-(2 Marks)
-
-e) Define Sensitivity and Specificity of this model? (2 Marks)
-
-Q4
-
-CO=2;
-BL-
-
-Understand,
-
-Apply
-
-The data set is described in the columns correspond to the variables IQ, Guidance,
-Income as independent variables and Status as dependent variable which is coded
-as | if successful and 0 if not successful. There are 90 individuals, in total.
-
-A model is developed to predict whether an individual would be successful or
-unsuccessful based on the independent variables. Answer the following questions
-based on the output:
-
-(10 marks)
-| Winweranted Cases te Parent
-Valid so 1600
-bectuded Missing OF vUbofrange o 9°
-group codes
-At leastone missing o 2
-discnminating vanabie
-Bom missing ar outot o °
-
-range gtoup Codes ang at
-least one missing
-HIScHMinating vanable
-
-Totat 0 °
-Totat a0 1909
-
-Group Statistics
-
-Valid 7 distor
-
-Stats Mean Sta _Daviation [Unwsignted | veigntad
-successful 19 3842 a 40t > 62900
-Guidence 4998 e328 62 62000
-Income 904 6% S7 Raa 62 62 900
-unsuccessful 1 3a 36 S845 28 28 G00
-Guidance 4386 6434 oe 24 000
-income 90382 43903 28 24 000
-or QT ahaa [ #083 | a6 48 000
-Ouidence 4304 6999 90 96 000
-income ay378 71276 Ed 49 000
-
-Pooted Wahin.Groups Matrices
-
-to Guidence | income
-
-Conelaion 1 1000 338 00s
-Ouidence 338 41000 053
-
-income 006 O53 1.000
---- page 10 ---
-Analysis 1
-Box's Test of Equality of Covariance Matrices
-
-Log Determinants
-
-tog
-Status Rank Determinant
-successful 3 15 945,
-unsuccessful 3 18502
-Pooled within: groups 3 15889
-
-Tha rands and natural logarithms of determinants
-piinted af¢ those of he gioup covatiance mabices
-
-Test Resutts
-
-Bors S444
-f Appros a6
-an 6
-at? 1HOaG 278
-81g SAG
-
-Tasts null hypothesis of equal
-populatan covatiance
-matices
-
-Summary of Canonical Discriminant Functions
-
-Eigervatuos
-Canonicat
-Funcion | Eeratue | % ofVanance | Cumulative % | Conelation.
-1 1123" 1000 1000 227
-
-"2 UST canonical disciiminant funchons were used in Bie anahysis
-
-: Wilks’ Lambd "
-Wilks’
-Test of Function(s) Lambda Chi-square df Sig.
-1 471 65.125 3 000
-Classification Resutts**
-Predicted Group Membership
-Status successful. | unsuccessful Total
-Original Count successful 55 7 62
-unsuccessful 2 26 28
-% successful 887 113 1000
-unsuccessful 71 $29 1000
-Cross-validated’ Count successful $5 7 62
-unsuccessful 3 25 28
-% successful 887 v1.3 1000
-unsuccessful 107 893 100.0
---- page 11 ---
-Standardized Canonical
-
-Canonical Discriminant Function
-Test Results Discriminant Coefficients
-Function Coefficients
-Box's M 6448 Function
-F Approx 866 Function 1
-an 6 1 10 056
-at 18096 278 '0 442 Guidence 037
-sig 51g Guidence 231 Income 018
-Tests null hypothesis of equal income Bit (Constant) ATAN3
-population covariance Unstandardized
-matrices coefficients
-
-a) State the equation for the discriminant function? (1 mark)
-
-b) Comment on the discriminating power of the model? Explain? (2 marks)
-
-c) What does the significance value suggest? (1 mark) ,
-
-d) Which independent variables have the most and least explanatory power?
-Explain? (2 marks)
-
-e) Explain the correlation between independent variables? (1 mark)
-
-f) Interpret the classification table and explain whether the model can be used
-for prediction or not? (3 marks)
-
-A FMCG company wants to map the profile of its target audience in terms of
-lifestyle, attitude and perceptions. 20 individuals need to agree or disagree or
-remain neutral (scale of 1-5) on 15 independent variables listed below:
-
-(1- strongly agree, 2- agree, 3- neutral, 4- disagree, 5- strongly disagree)
-
-e Email: Email is more preferred over any other channel
-e Qual_price: Quality products are always priced high
-
-e = Think: Think twice before buying anything
-
-e Television: Tv is a major source of entertainment
-
-Qs e Car: A car is a necessity, not a luxury
-
-CO-2; e Fastfood: Fast food is more preferred
-
-BL- e Health: Health conscious
-
-Understand, e Efficiency: Efficiency of companies has increased
-
-assy © Women: Women are active participants in purchase decisions
-
-e Politician: Politicians play a positive role
-
-e Movies: Watching movies is fun
-
-e Abroad: Settle abroad
-
-e Brand: Buy branded products
-
-e Weekend: Frequently party on weekends
-
-e Credit: Credit card payment is more preferred
-
-A cluster analysis was performed on the data and output is shown below.
---- page 12 ---
-Case Processing Summary?”
-
-Cases
-Valid Missing Total
-N Parcent N Parcent N Parcent
-20 1000 0 u] 20 100.0
-
-a Squared Euclidean Distance used
-
-Agglomeration Schedule
-
-Cluster Combined
-
-Stage Cluster First Appea
-
-Stage | Cluster) | Cluster 2 | Coefficients Cluster 1 Cluster
-1 4 § 14.000 0
-2 19 20 15.000 0
-3 2 6 17.000 0
-4 a 4 20.000 0
-5 13 16 25 000 0
-6 2 18 26.500 3
-7 1 14 28.000 9
-8 1 19 29.500 0
-9 8 13 29.500 0
-10 1 16 36 000 7
-1 19 11 37,939 0
-12 3 12 37 667 4
-13 7 17 38.000 0
-14 2 2 39.083 6
-15 2 9 42.000 14
-16 2 8 45.833 16
-17 7? 10 61.000 13
-18 2 7 $3,182 16
-19 1 = 56.804 10
---- page 13 ---
-: a ci 7 sf
-
-:
-
-2 4
-
-: L
-
-sn
-
-2 7 >
-> dl
-
-204
-
-2
-
-a
-
-0
---- page 14 ---
-Cluster Membership
-
-Case Number | Serial to Cluster | Distance
-
-1 1 ‘ 3.443
-Zz 2 1 2735
-? 3 4 2610
-4 K) 4 2.966
-5 2 4 2.983
-6 2 2 3.274
-I i) 3 4.724
-8 4 2 3.669
-9 2 1 4.656
-10 5 3 4443
-a 4 3 3.734
-12 3 4 4.220
-13 4 2 3064
-14 ‘ 4 3779
-16 2 { 4276
-16 3 2 4552
-17 § 2 4.005 .
-18 3 rd $.233
-19 3 3 2.706
-20 1 3 3.274
-Number of Cases in each
-Cluster
-Cluster 1 5.000
-2 6.000
-2 5.000
-4 4.000
-Valid 20000
-Missing 000
-Final Cluster Centers
-Cluster
-7 7 3 7
-Cetter or Eman 160 350 280 275
-‘Ovality produets priced > oy >
-high 240 333 220 250
-Think tice 3.60 27 320 378
-Entertainment 300 333 260 300
-Carts necessity han 7
-ater, 3.60 393 260 250
-Fasttood 440 3.50 3.40 4.00
-heath 220 4.00 4.40 3.50
-Emewney 240 183 4.60 275
-Women 320 200 180 450
-Politician 280 4.00 300 336
-Mowes 300 3.50 420 4.00
-Abinad 160 317 360 4.00
-Brand 200 383 240 4.00
-Weekend 2.00 393 240 400
-Croat 4.20 250 1.80 375
-Distances between Final Cluster Centers
-Clustar g = 2 2
-7 S125 | 4775 | 4628
-2 5125 $064 | 4.046
-3 4775 | 5068 5023
-4 4625 | 4046 | 5029
-
-Answer the following questions:
-
-a) Find the number of clusters appropriate for the data using Agglomeration
-Schedule table? (2 marks)
-b) Who are the members of the groups? List them down. (2 marks)
---- page 15 ---
-@
-
-c) How many members are there in each group? (2 marks)
-d) What are the characteristics of each group? Explain in detail with respect
-to Entertainment, Brand, Weekend, Movies? (4 marks)
-
-The SAT is an aptitude test taken by high school juniors and seniors. College
-administrators use the SAT along with high school Grade Point Average (GPA) to
-predict academic success (Graduating success) in college. The table below shows
-the SAT score and high school GPA for ten students along with their Graduation
-status.
-
-Graduate SAT GPA
-
-Yes 1300 ZF
-Qs Yes 1260 3.7
-CO-2; Yes 1220 2.9
-BL- Yes 1180 2-3 i10}
-Understand, Yes 1060 3.9 7
-Apply No 1140 Dood
-No 1100 3.5
-No 1020 3.3
-No 980 2.3
-No 940 3.1
-A New student has SAT score 1100 and GPA 2.5. Use K-Nearest Neighbor
-classification (use K = 3 as well as K=5) to predict whether this student would be
-successful in graduating or not.
-For the following demand data, compute the Mean Absolute Deviation (MAD) &
-7 Mean Squared Error (MSE).
-Month | Actual Demand (units) | Forecast
-oe 1 120 122
-: = 135 130 (10)
-Understand, 3 130 125
-Apply 4 140 140
-5 150 145
-6 145 150
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper cb64f5e83d7a
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/BUSINESS ANALYTICS/Business Analytics_cb64f5e83d.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/ 04/ 2024
-- Text: ocr (17 pages), mean OCR confidence 75.2
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
-SCHOOL OF TECHNOLOGY MANAGEMEN
-Academic Year: 2023-2024 ;
-Program: MBA Tech Year: 1V Semester: Vill
-
-Stream : All Streams
-
-Subject: Business Analytics we Time: 2 hrs. (10 am to 12 noon)
-Date: 19/ 04/ 2024 No. of Pages: 17
-
-Marks: 50
-
-Final Examination/Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any ___4 __ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-CO-1; BL- What statistical methods are commonly employed in business analytics, and how
-Knowledge do these methods contribute to extracting meaningful insights, making informed [10]
-, decisions, and solving business challenges?
-Understand
-Following data was collected from a manufacturing firm. The objective of the study
-was to forecast the annual sales of the company.
-Y = annual net sales (in $1000) .
-X1 = number of competing stores in district
-X2 = number sq. ft (in 1000)
-X3 = inventory (in $1000)
-X4 = amount spent on advertising (in $1000)
-X5 = size of sales district (in 1000 families)
-A regression analysis was conducted and the results are given beiow:
-Q2
-CO-2: BL- Regression snosenterrve [10]
-Analyse Adjusted R Std. Error of the
-Model R R Square Square Estimate Durbin-Watson
-1 .954a .910 906 58.91888
-2 -988b 975 973 31.42450
-3 .994c .988 .987 22.13301
-4 .995d 990 988 20.67512
-S. .997e 993 992 17.64924 1.789
-
-V7
---- page 2 ---
-ANOVA gi
-
-Model Sum of Squares df Mean Square F Sig.
-
-1 Regression 872294.494 1 872294.494 251.278 .000a
-Residual 86785.858 25 3471.434
-Total 959080.352 26
-
-2 Regression 935380.376 2 467690.188 473.611 -000b
-Residual 23699.976 24 987.499
-Total 959080.352 26
-
-3 Regression 947813.336 3 315937.779 644.942 .000c
-Residual 11267.015 "23 489.870
-Total 959080.352 26
-
-4 Regression 949676.221 4 237419.055 555.418 .000d
-Residual 9404.131 2 427.461
-Total 959080.352 26
-
-5 Regression 952538.942 5 190507.788 611.590 .000e
-Residual 6541.40} 21 311.496
-Total 959080.352 26
-
-W7
---- page 3 ---
-Coefficients ¥
-
-Stand
-ardize
-d
-Unstandardized Coeffi 95.0% Confidence Collinearity
-Coefficients cients Interval for B Statistics
-Std. Lower Upper Toleranc
-Model B Error Beta t Sig. | Bound Bound e VIF
-1 (Const -58.823 24.563 -2.395 | .024 | -109.412 -8.235
-ant)
-XS 35.635 2.248 1954 15.852 | .000 31.005 40.265 1.000 1.000
-2 (Const | -111.334 14.656 -7.596 | .000 | -141.579 | -81.083
-ant) .
-XS 23.057 1,978 617 11.654 | .000 18.974 27 140 367 2.723
-x4 21.534 2.694 423 7.993 | .000 15.973 27.094 367 2.723
-Gia
-3 (Const ] -108.408 10.339 -10.486 | .000 | -129.795 | -87.021
-ant)
-XS 17.741 1.748 475 10.151 | .000 14.126 21.357 233 4.284
-x4 19.087 1.959 375 9.745 | .000 15.035 23.139 345, 2.901
-X2 20.571 4,083 .215| 5.038 | .000 12.124 29.018 279 3.579
-4 (Const -39.460 34.411 -1.147 | .264 | -110.823 31.903
-ant)
-XS 15.673 1.910 419 8.206 | .000 44.712 19.634 let 5.862
-x4 16.966 2.093 333 8.107 | .000 12.626 21 306 263 3.795
-X2 20.444 3.815 214 5.359 | .000 12.532 28.355 279 3.580
-x1 ~4.043 1.937 -.103 -2.088 | .049 -8.060 ~.027 183 5.469
-ting
-5 (Const -18.859 30.150 -.626 | 538} -81.560 43.841
-ant)
-x5 13.580 1.770 363 7.671 | .000 9.898 17.262 145 6.912
-X4 11.526 2.532 .227 4,552 | .000 6.260 16.792 131 7.624
-X2 16.202 3.544 .170 4.571 | .000 8.831 23.573 236 4.241
-x1 -§.311 1.705 ~.135 -3.114 | 005 -8.858 -1.764 172 5.819
-x3 175 058 174 3.032 | .006 055 .294 .099 10.122
---- page 4 ---
-Residuals Statistics
-
-Minimum Maximum Mean Std. Deviation N
-Predicted Value 7.7399 568.5255 286.5741 191.40562 27
-Residual -26.33816 41.13912 .00000 15.86167 27
-Std. Predicted Value “1.457 1.473 .000 1.000 27 |
-Std. Residual -1.492 2.331 .000 .899 27
-Charts
-Histogram <
-Dependent Variable:
-i Waser = 1 81E-15
-Std fev. = 0850
-nea
-ej L
-
-om
-
-z
-
-a
-
-&
-
-=
-
-x
-r
-2 a ° 1 2 3
-
-Regression Standardized Residual
-
-PP Plot of Regr dized Residuat
-Dependent Variable bs
-
-3.
-
-or
-
-eo on os ee o8 vo
-Observed Cum Prob
-
-WIT
---- page 5 ---
-Seatterpiot
-Dependent Variabte:
-
-= = e
-
-° oe
-°
-é ° . °
-§ e 6 o
-09,
-= ° ao
-
-sy Po °
-
-as a0 35 oD os ve vs >
-Regression Standardized Pradisted Vatue
-
-Answer following questions:
-om a) State the multiple regression equation. (2 Marks)
-b) Interpret the meaning of each of the regression coefficients. (2 Marks)
-c) Can you use the equation for prediction? Explain.(2 Marks)
-d) Determine the coefficient of multiple determinations and interpret its meaning.
-
-(2 Marks) .
-
-e) Predict sales for following values of independent variables. (2 Marks)
-XI X2 X3 x4 x5 |
-14 1.6 160 — 2.5 25 |
-
-A television producer, running out of capital approached a bank for loan. The bank
-collected some past data of the producer to predict the success of new television
-programs. A program is considered successful if it survives its first season. Data
-on production costs, number of sponsors, and the total amount spent on promoting
-the program are available. A random sample of programs is selected, and the data
-are presented in the following table. Production costs are in millions of dollars, and
-promotions in hundreds of thousands of dollars;
-
-Variable Success : 1 => Success, 0=> Failure
-The Output of analysis is given below:
-
-Q3 Logistic Regression
-CO-2: BL- Block 0: Beginning Block a . 110)
-Analyse. Classification Table*’
-Evaluate StepO Success 00 0 22 0
-1.00 ~~ 0 45 ~ 100.0
-Overall Percentage 67.2
-
-a. Constant is included in the model.
-b. The cut value is .500
-
-Variables in the Equation
-
-B SE. Wald df Sig. Exp(B)
-Step 0 Constant 716 260. ~‘7.567 1 006. —-2.045
---- page 6 ---
-Block 1: Method = Forward Stepwise (Wald) we ] |
-
-Omnibus Tests of Model Coefficients
-
-Chi-square df Sig.
-26.146 1 000
-26.146 1 “000
-26.146 1 “000
-24.231 i “000
-~~ 50.377 2 000
-50.377 > 000
-4.385 1 036
-54.762 3 000 :
-~ 54.762 3 000 Ss
-
-Model Summary
-
--2 Log likelihood- Cox & Snell R Square Nagelkerke R Square
-
-ae 58.6778 323 450
-34.446 529 736
-gir 30.0618 558 778
-
-a. Estimation terminated at iteration number 6 because parameter estimates
-changed by less than .001.
-
-b. Estimation terminated at iteration number 7 because parameter estimates
-changed by less than .001.
-
-Hosmer and Lemeshow Test
-
-Step Chi-square df Sig. \
-1 19.729 8 .011
-2 14.600 8 .067
-3 11.022 8 -200
-
-Classification Table?
-
-Step 1 Success 00 156 7 68.2.
-: {00 10000 88 TB
-Overall Percentage 74.6 LE
-Step2 Success 00 _ 19 3 86.4
-1,00
-
-Overall Percentage
-Step 3 Success 00.
-rs 1.00
-Overall Percentage
-a. The cut value is .500
---- page 7 ---
-Variables in the Equation i
-B SE. Wald df Sig. __ Exp(B)
-
-Step 1? Promotions 955 251 «14.471 1 000 2.598
-
-Constant -2.204 733 9.049 1 003 110
-
-Step 2° Production Cost 2.047 729 7.896 1 005 = 7.748
-
-: Promotions .947 .270 = 12.285 1 -000 2.578
-
-Constant -7.490 1.980 14.306 1 -000 001
-
-Step 3° Production Cost 1783 707 6.366 4 012 5.946
-
-Number of 1850 970 3.639 1 046 6.359
-Sponsors . :
-
-Promotions .900 302 8.860 1 003 2.460
-
-Constant “9.337. 2.571 13.190 1 -000 000
-
-a. Variable(s) entered on step 1: Promotions.
-i b. Variable(s) entered on step 2: Production Cost.
-c. Variable(s) entered on step 3: Number of Sponsors.
-
-Answer following questions:
-
-a) Which multivariate technique is used and why? (1 Marks)
-
-b) State the function. (2 Marks)
-
-c) How would you assess.the model? Which test statistic /s used to test
-accuracy of the model? Interpret the classification table. Can you use this
-model for prediction? (3 Marks)
-
-d) What is the sensitivity and specificity of the model? (2 Marks)
-
-e) How would you classify a TV Serial having promotion cost of 3 millions,
-number of sponsors 2 and Promotion 200 thousand? (2 Marks)
-
-The dataset is described in the columns correspond to the variables age, years with
-current employer and household income as independent variable and loan default
-status as dependent variable which is coded | if defaulted and 0 if not defaulted.
-There are 300 individuals in total.
-
-A model is developed to predict whether an individual would default on loan or not
-default based on the independent variables. Answer the following questions based
-
-7 on the output:
-
-Discriminant
-
-Q4
-
-CO-2: BL- Analysis Case Processing Summary
-
-7 Unweighted Cases N Percent [10]
-
-Analyse, Valid cous 300 75.0
-Excluded Missing or out-of-range group codes 100 25.0
-
-Evaluate
-
-At least one missing disc nating 0) .0
-variable
-Both missing or out-of-range group e) 0
-
-codes and at least one missing
-discriminating variable
-
-Total 100 25.0
-Total 400 100.0
-
-Yp
---- page 8 ---
-Group Statistics
-
-*
-
-Valid N (listwise)
-
-Std.
-Previously defaulted Mean Deviation _ Unweighted Weighted
-“No- fe : 34.9043 7.48678 230 230.000
-9.3087 6.27015 230 230.000
-43.9652 | 27.39264 230 230.000
-32.8143 7.89844 70 70.000
-5.3286 4.69573 70 70.000
-36.5571 25.32321 70 70.000
-34.4167 7.62300 300 300.000
-8.3800 , 6.16785 300 300.000
-42.2367 27.06515 300 300.000
-Analysis 1 .
-Box's Test of Equality of Covariance Matrices
-Log Determinants
-Previously defaulted Rank Log Determinant
-‘No- eee 3 13.248
-Yes : 3 12.897
-Pooled within-groups 3 13.209
-The ranks and natural logarithms of determinants printed .
-are those of the group covariance matrices.
-Test Results
-Box's M. : 12.397
-F. _Approx. 2.031
-Cia 6
-Sie 98790.100
-TSIQies ee 058
-Tests null hypothesis of equal
-population covariance matrices.
-Summary of Canonical Discriminant Functions
-Eigenvalues
-Canonical
-Function Eigenvalue _% of Variance Cumulative % Correlation
-1 .0918 100.0 100.0 289
-
-a. First 1 canonical discriminant functions were used in the analysis.
-
-<<
-
-,
---- page 9 ---
-Wilks’ Lambda 4
-Test of Function(s) Wilks' Lambda Chi-square df Sig.
-1 -916 25.858 3 .000
-
-Standardized Canonical
-Discriminant Function
-Coefficients ~
-
-Function
-. 1
-Age in years -.061
-Years with current employer 1.265,
-Household income in -.433
-
-thousands
-
-Structure Matrix
-
-Function
-1
-Years with current employer 942
-Age in years 387
-Household income in .387
-
-thousands
-
-Canonical Discriminant
-Function Coefficients
-
-“Function
-1
-Age in years ; -.008
-Years with current employer 213
-Household income in -.016
-thousands _ _
-(Constant) -.829
-
-Unstandardized coefficients
-
-Classification Results**
-
-Original Count No 133 97 230
-Yes _ ot 49. ~—«70
-Ungrouped cases 47 OS “400
-% No 57.8 400.0
-Yes 30.0 100.0
-Ungroupedcases i (itié‘i -
-
-a. 60.7% of original grouped cases correctly classified
-
-a) State the discriminant function. (1 mark)
-b) Comment on the discriminating power of the model and explain. (2 marks)
-c) Which independent variables have the most and least explanatory power?
-Explain? (2 marks)
-d) Test the significance of Box’s M test by formulating the hypothesis and infer
-the result.
-(2 marks)
-e) Interpret the classification table and explain whether the model could be used
-for prediction or not? (3 marks)
-
-Vir
---- page 10 ---
-i
-
-[ Let's consider a scenario where we have a dataset containing information about
-various electronic devices, including their battery life (in hours) and’ processing
-power (in GHz). We want to categorize these devices into two classes: "High
-Performance" and "Low Performance" based on their specifications. Here's a
-sample dataset:
-
-[ Device Battery Life Processing Power Class
-Q5 Laptop 10 25 High Performance
-CO-2; BL- ; Smartphone 8 1.8 Low Performance
-. Tablet 12 1.2 Low Performance [10]
-Analyse, Desktop } 15 3 High Performance
-Evaluate Smartwatch 5 0.5 Low Performance
-[ Gaming Console 20 : 2 High Performance
-imelll
-
-We have a new electronic device with a battery life of 9 hours (Z-Score = -0.50157) .
-and a processing power of 2.2 GHz (Z-Score = -0.409264). Predict whether this
-
-device belongs to the "High Performance" or "Low Performance" class using the
-
-k-Nearest Neighbors (kK-NN) algorithm with k=3 and k=5,
-
-Twenty five individuals have rated movi
-independent variables listed below:
-
-06 “Thriller, Comedy, Action, Horror, Science”, where
-
-1-Very amazing, 2- Amazing, 3- Good, 4- Bad , 5- Very Bad)
-
-€ genres (on a rating scale of 1-5) on 5
-
-CO-2; BL-
-
-A cluster analysis was performed on the data to segment viewers into distinct | [10]
-Analyse, arr aa . " ea : .
-
-groups based on similarities in ratings. This can provide insights into which genres
-Evaluate tend to be rated similarly by individuals, helping to categorize them in a more
-
-meaningful way.
-
-[ SPSS output of the analysis is shown below:
-. _
-
-7 |
---- page 11 ---
-P
-
-Agglomeration Schedule
-
-Cluster Combined
-
-Stage Cluster First Appears a
-
-Cluster1   Cluster2 Coefficients __Cluster4 Cluster2 Next Stage
-24 25. .000 ° ° ; 2
-23 24 .000 8) 4 ant
-a 23. _.000 9 2 4
-21 22 -365 3. Oo] 24
-
-1 3. B16 ° 0 16
-13 17 ~ 1.468 oO fC) 17
-4 15 O° 10
-me 9. =o 6
-19 20 oO] 13
-s =. eons a9 As
-6 18 6.418 _ o 412
-6 8 8.124 oO. 19
-10 19 9.943 9 20
-ro a4 4. 2. 23
-7 16 13.640 oO _ 18
-1 2 16.183 ca 20
-12 13 19.7615 6 19
-7 oe) 23.754 O° 22
-6 12 29.824 17 _23
-1 10 __ 39.039 16— 3 21
-1 4 50.258 26 14 22
-1 7 66.289 21 18 23
-7 6 90.261 22.0 19 24
-1 21 120.000 23 4 °
-
-Cluster Membership
-
-Case 6 Clusters 5 Clusters 4 Clusters 3 Clusters 2 Clusters
-aucase (a, Se 1 a
-2RCese 2 1 ms a —
-_ 1 1 -
-Bo 2
-_2 2
-3. 3 e)
-s bs AL
-7 3 3 1
-1 1 1
-5 1 Mu
-4 4 q
-3. 3 — : 1
-3 3 Bs 2 ° 1
-2 2 1 4 4
-2 2 ) 4 =)
-: 4 4 3 a 1
-3 3 a 2 4
-fe) 3 2 - 2 4
-- 5 1 re, oe il
-5 1 4 - 1 1
-6 5 4 2 __2
-6 5 4 3 2
-6 S 4 3 2
-_24.Gase 2: 6 5 4 3) 2
-25.Case 25 6 5 4 3 2
-
-Viz
---- page 12 ---
-Dendrogram using Ward Linkage
-Rescaled Distance Cluster Combine
-
-oO 5 10 15 20
-Case24 24) : : : :
-Case 25 25)
-Case 2323
-Case 2121 : -
-Case 22 nz : : ; :
-_ Case 6 6
-Case18 18)
-
-Case 8 ee
-
-Case 13 a
-Case17 17,
-
-Case12 12
-Case7 7
->Case16 16
-Case11 11 : 1
-Case 4 a
-Case15 15
-Case $ ye
-case14 14)
-Case19 1
-Case 20 oI
-Case10 10 -
-Case 1 1
-Case 3 al
-Case 2 2
-Case 9 9
-Descriptives
-95% Confidence Interval for
-Mean
-N Mean Std Deviation Std. Error LowerBound = UppagBound = Minimum ~— Maximum
-Thriller 34 20 3.80 1.240 217 3.22 4.38 1 §
-2 5 A 000 000 “4.00 400024 ~—CO
-8. 1106 02=~CO ss St=<“<«é«~s SC‘ mESC*‘CO“N®W
-1.361 304 _ 216 3d 1 5 \
-000 “000 “40 - 7 7 4
-1.306 5
-4.387 5
-a poe
-1.480 “15
-1 ‘5
-poe
-- : 1 _ 5 |
-1 5 |
-1 4 |
-1 5 '
---- page 13 ---
-ANOVA ee oa
-
-Sum of
-Squares af Mean Square F Sig.
-Thriller Between Groups _ 160 - 1 160.126 726
-~ | Within Groups 29.200 _ 23 4270. a
-foi Dee 29,360 24 BS
-Comedy “BetwaenGrouns 5.760 a 5.760 ____3.764 065 _
-: Within Groups 35.200 2300 1,530 :
-see rota __. 40.960 C5 a
-- Action Between Groups _ 15.210, 1 15.210 | _.006
-: Within'Groupss 37.350 23, ols oe
-Total (52.560 _ 24 a a
-Horror _Betwasn Groups _ 20.250 0d 20.250 13.800 001
-33.750 23 1.467
-54.000 _ 24 a i
-21.160 1 21.160 17.258 <.001
-28.200 23 1.226
-49.360 24
-a Descriptives
-as 95% Confidence interval for
-Mean
-N Mean Std. Deviation Std. Enor Lower Bound Upper Bound Minimum — Maximum
-Thiiller 4.00 1.240 33 3.28 472 1 5
-3.33 1a 498 “2.06 ~ 4.61 2:
-4.00 “900.000 4.00
-3.84 1.108 an 33800
-207 829. 2n “1.89
-450 + 548.224 3.93
-400 | 00.000 4.00
-3.04 1.306.261 2.50
-3.43 4.222.327 272
-6 150. “548224 23
-eee) AAT 200 424
-25 3.24 1.480 298 2.63
-14 2.86 4.351 361 “2.08
-6 2.50 1.378 563 -
-5 5.00 000 000
-25 320. 1,500 300
-14 314 1.351 361 :
-6 367 st 333
-“6 1.00 000 000
-Tota _ 25 2.84 1.434 ; 287 - 5 5 7 7 - 5
-ANOVA
-Gf > Sum of
-Squares at Mean Square F Sig.
-Thriller Between Groups 2.027 © _2 - 1.013) i
-“Within Groups 27.333 2200 1,242 _
-29.360 _ 24 seuincmane eamsssnaceculie —
-Between Groups | 30.531 2 15.266 32.204 _<.001
-“Within Groups 10.429 22 Pr.
-__-Total : 40.960 24 ee : _
-30.831 2 15.416 15.608 <.001
-21.729 22 988 :
-52.560 24
-20.786 2 10.393 6.884 .005
-33.214 22 1.510
-54.000 24 : a
-22.312 2 11.156 9.074 01
-27.048 2 1.229
-49.360 24
-
-I3/\>
---- page 14 ---
-Descriptives y ps
-95% Confidence Interval for
-- Mean
-N Mean Std. Deviation Std. Error LowerBound — UpperBound Minimum Maximum
-4.55 522 187 499 0 4900 5
-3.33 4.211 494
-_2.00 “1,000 577
-
-4.00 0
-3.84 1,106
-2.18 874
-4.50 5B
-
-NS |
-|
-|
-
-Sum of
-Squares aft Mean Square F Sig.
-1s 17.299 3 66 10.041 <.001
-12.061 OS
-29.360 : ace!
-31.157 10.386 22,248 <.001
-9,803 a
-40.960 ee a
-319-893. _#,001
-21 8S eae
-3 7.864 ‘5.430
-21 1.448
-2m So
-3 8.373 7.253.002
-21
---- page 15 ---
-Descriptives 3 7
-95% Confidence Interval for =
-Mean
-N Mean Std.Deviation Std-Error Lower Bound © UpperBound = Minimum — Maximum
-Thiiller 4 457538 202 408507 4 8
-45000
-
-12494
-1000 _8I7
-
-2:
-300 34
-51 A
-— 548 224 nee
-37 3830
-00s _ 4.00
-1906 250
-STA 595
-FA
-a
-3244.80
-2.29 1413 _
-4500 SIT 289
-250° 1378 563
-000-800
-00000
-1.500 0
-690
-“ 50
-; 3B
-4.732 1.000
-eo 0000000
-“Total” 25 2.84 1.434 287
-ANOVA
-Sum of
-Squares. dt Mean Square F Sig
-@ Thriller BetweenGroups _ 4.328 7185 <.001
-evinin Groups 2s -
-Total
-
-Comedy Between Groups _
-Within Groups
-Total —
-
-Action Between Groups
-
-Within Groups
-
-Total
-
-Honor _BetweenGroups
-Within Groups
-Total
-
-Science Between Groups
-Within Groups
-Total
-
-<001
-
-48
-
-8101 8.038 = <.004
-1,008
-
-<001
-
-895
-
-9405 14.072 «001.
-O47
-
-IS/I7
---- page 16 ---
-Descriptives ae
-
-95% Confidence Interval for
-
-Mean
-N Mean Std. Deviation Std.Enror LowerBound = UpperBound = tinimum — Maximum
-4 4.50 S17 289 3.58 542 4 5
-4 4.50 517 289 3.58 5.42 4 5
-6 33300 1.211 494 2.06 4.60 2 5
-3.200 1.000 S17 “AB 4.48 13
-3 4.67 517 333 323 6.10 4 5
-5 4.00 000 000 4.00 4.00 4 4
-5 3.84 1.406 2 3.38 430001 5
-4 2.75 500 250 1.95 3.55 2 3
-42 TAT B am 4 2
-6 4.50 548 224 3.93 607 5
-3 1.67 S17, 333 23 3.10 1 2
-3 13ST 333 “10 27 A
-6 4.00 000 000 400 4.00 44 |
-35304 1.306 261 2.50 36801 Oo |
-4 200 816 408 70 3.30 a 3 |
-_. 4 3.50 S17 289 2.58 44200
-648058
-3 400 4.000577 152 648
-3 4.67 517 333 6.10
-4.80 AAT. 200 536
-324 * 1.480 296 385
-425 957 ATg 4m
-4 517.289 $420 4S
-6 1,378 563 3.95
-3 000 000 2.00
-3 1455 667 454
-5 000.000 5.00 5 §
-oy 300 3.82 1 5
-. ee |
-4 5.05 4 5
-6 “432 °243~*=Sé
-3 |
-2 |
-25 ~~)
-ANOVA
-Sum of
-Squares df Mean Square F Sig.
-Thiiller Between Groups 17.360 a 3.472 5.497.003
-‘Within Groups:
-Total
-Comedy Between Groups
-Within Groups.
-i ee
-Action —_ Between Groups 44.593
-Winn Groups 967
-Total 52.560 24 '
-Horror Between Groups 5 7617 9.092 - 7
-Within Groups 19 O88 ss =
-Total 24
-Science Between Groups 5 7872-12810 ~~ <001
-pceeen Oran 7 ne Raina
-24
---- page 17 ---
-a) Find the number of clusters appropriate for the data? (2) we
-b) Who are the members of the groups? List them down. (2) i
-c) How many members are there in each group? (2)
-
-d) What are the characteristics of each group? (2)
-
-e) What can you conclude from the ANOVA table? (2)
-
-For the following data forecast the demand for 8 Month using:
-1) 3 point moving average
-
-_2) Exponential smoothing with Smoothing coefficient (Alpha) = 0.4
-CO-2; BL- [10]
-Also mention which forecast you will use for prediction & why?
-Analyse
-Month 1 2 3 4 5 6 7
-Sales 16 19 15 20 22 23 20
-
-Wy
-````
-
-## Year not stated · Exam not stated · Trim 15 · paper 6425cdf86ca6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/BUSINESS ANALYTICS/BUSINESS ANALYTICS 20120001.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 4/4/2012
-- Text: ocr (2 pages), mean OCR confidence 92.8
-
-````text
-\
-
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineer:
-. Programme: MBA. Tech - ALL STREAMS Year: V Trimester: XV
-| Academic Year : 2011-2012
-Subject: BUSINESS ANALYTICS Marks: 50 Za
-Time: 10.30 An fo }2.30 px
-Date: 4/4/2012 Duration: 2 hrs. aia
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-
-2. Out of remaining questions attempt any two questions.
-3. Figures in brackets on the right hand side indicate full marks.
-
-1.a. Consider the following regression equation:
-
-Wi = = 8.58+ 0.364 (PF) ,+ 0.004 (PF) ;,-; -2.56 U;
-
-(1.129) (0.080) (0.072) (0.658)
-P values = 00000172 .00038 0.956 0.0014
-R?= 0.873 df= 15
-} Where W = wages and salaries per employee; PF= prices of final output at factor cost, U = unemployment
-
-in the economy as a percentage of total number of employees in the country and t = time. (The figures in
-the parentheses are the estimated standard errors)
-
-Base on the regression equation above answer the following questions.
-a. Interpret the equation
-b. Are the estimated coefficients individually significant at 5% level of significance?
-c. What is the rationale for introduction of (PF);
-; d. Should the variable (PF),.; be dropped from the model? Justify your answer
-; e. How would you compute the change in wages & salaries per employee with respect to the
-4) } unemployment rate U?
-
-b. Write a short note on ARIMA model. . (15+5)
-
-2. a. A company makes two products (X and Y) using two machines (A and B). Each unit of X that is produced
-requires 50 minutes processing time on machine A and 30 minutes processing time on machine B. Each unit of
-Y that is produced requires 24 minutes processing time on machine A and 33 minutes processing time on
-machine B.
-
-At the start of the current week there are 30 units of X and 90 units of Y in stock. Available processing time on
-machine A is forecast to be 40 hours and on machine B is forecast to be 35 hours.
-
-Yo
---- page 2 ---
-The demand for X in the current week is forecast to be 75 units and for Y is forecast to be 95 units. Company
-policy is to maximize the combined sum of the units of X and the units of Y in stock at the end of the week.
-
-Formulate the problem of deciding how much of each product to make in the current week as a linear program.
-b. How is quadratic programming and convex programming different from linear programming? (7+8)
-A researcher found that probability of illness is related to body mass. He was in particular interested in the
-
-extent of increase in the said probability due to a unit increase in BMI of the individual. The researcher
-collected data and did an analysis which gave him the following results:
-
-Predictor Coeff SE Coef Z P Odds 95% CI
-
-Ratio Lower Upper
-Constant ~4.44 2.606 -1.71 0.088
-BMI 0.1359 0.0789 1.72 0.085 1.15 0.98 1.34
-
-a. What technique is he using and why?
-
-b. Explain the technique.
-
-c. Obtain the increase in probability of illness due to one unit increase in BMI
-
-d. What does odds ratio mean? (15)
-
-Discuss any two of advanced experimental designs with example. Discuss what type of experimental design
-you would recommend in each of the following cases:
-
-a. A study of the effects of various levels of advertising effort and price reduction on the sale of specific
-branded grocery products by a retail grocery chain
-
-b. A study to determine whether it is true that the use of fast-paced music played over a store’s public address
-system will speed the shopping rate of customers without an adverse effect on the amount spent per
-customer
-
-c. A test of three methods of compensation of factory workers. The methods are hourly wage, incentive pay
-and weekly salary. The dependent variable is direct labour cost. (9+6)
-
-RRR EK
-
-1
 ````

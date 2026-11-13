@@ -4149,6 +4149,7 @@ z 0.00 0.01 9.02 0.03 0.04 0.05 0.06 0.07 9.08 0.03
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 75.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4259,7 +4260,6 @@ BL-3
 
 Q6 a
 
-“c . . ary Pr A 5 ei nG)
 CO-3; SO- Define ‘Qualitative Risk’ and Explain ‘Top ten risk item tracking as a oe)
 1; tool for analysis of qualitative risk in project management
 
@@ -4312,7 +4312,6 @@ o.4 0.6554 0.6591 0.6628 0.6664 Derk 0.6736 B.eri2 1.6808 6844 0.6879
 
 |. p7389 «6 F422 454 0.486 Drs 0.7549
 OF 0.7580 0.7611 0.7642 0.7673 O77o4 = BF F34 D764 7794 1.7823 0.7852
-0.8 a7esi ogi o7939 860.7 BSF ores 890.8003 Belt o.8076 O81D6 08133
 0.9 0.8159 0.6785 0.8212 0.8238 e764 0.8289 D835 0.8340 0.8365 0.8389
 
 4.0 08413 0.8438 0.8481 pe4e5 08508 0.8501 0.8564 O.asr7 1.8599 0.8621
@@ -4347,14 +4346,12 @@ D.S876 0.9881 0.9884 a.93887 0.9890
 Dse45 0.5946 0.9948 0.9949 0.9951 0.9952
 2.6 0.9953 0.9955. 0.9956 o.eg57 osese 0.9860 D.SeGi 9.8962 1.9963 0.9964
 27 0.9965 as966 0.9957 0.8968 ossee 860.9670 o.gort a.9972 2.9973 o.ggr4
-2.8 o.ggr4 o.9975 0.9976 O.sSrT ossry osere 0.9879 aggro 1.9980 0.9981
 2.9 a.9981 as982 860.9982 09983 O5S84 0.9984 0.9985 0.9985 0.9986 0.9986
 
 goss o99sF 09988 0.8088 p.seso 8=©6— 9.9969 os9s9 «= .g980) 0.9990
 oses1 o9ssz osse2 0.9992 og992 «69993 8=6— 0.9893
 3.2 g9s93 ass93 o99 O8994 oO98e4 og994 79094 0.9995 ag995 0.9995
 3.3 ags95 oa.9995 0.9995   O.S856 oesse O5956 0.9996 oge95 869.9996 0.9997
-3.4 o.g997 aossy oogesr o9ss7 Osser D.BSor pseoy asgg7 mossy 60.9998
 
 2.5 0.9933 0.9940) 0.9941 o.e843
 
@@ -4362,180 +4359,14 @@ oses1 o9ssz osse2 0.9992 og992 «69993 8=6— 0.9893
 3.4 agg9sp)0=— 0.9951 0.9981
 ````
 
-## 2024-25 · Re-Exam · Sem 5 · paper cc690f0c7d97
-
-- Departments: Common (all branches), Computer Engineering, Mechanical
-- Programmes: B TECH, B TECH / COMPUTER, B TECH / MECHANICAL, B.TECH INTEGRATED, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf` (+4 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 91.1
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2024-2025
-
-Programs: B Tech / MBA Tech / BTI Year: II/V Semester: V/IX
-Stream: All Applicable Streams / MECHA / COM
-
-Subject: Elements of Project Management Time: 03 hrs(asoopm te Seon pm)
-Date:272/25 No. of Pages: 03
-
-Marks: 100
-
-Re. Examination (2024-25) / Re Exam 23-24
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi Answer briefly:
-
-CO-1; a. Describe Triple constraints of project management. [5]
-SO-1;
-
-BL-2
-
-CO-1; b. Describe suitable examples for different types of organization structure. [5]
-SO-4;
-
-BL-2
-
-CO-2; c. Discuss the concept of a Work Breakdown Structure (WBS) and its role in project [5]
-aap planning.
-
-CO-3; d. State the techniques that can be used to identify potential risks in a project and [5]
-sien, explain how they help ensure comprehensive risk identification.
-
-BL-l P P
-
-Q2
-
-CO-1; a. “Engineers irrespective of their specialization must acquire knowledge/skills of [10]
-SO-7; : ss .
-
-BL-4 project management” Explain.
-
-1of3
---- page 2 ---
-CO-1; b. Define pure product or projectized organization and explain its advantages and [10]
-SO-7;
-
-BL-l disadvantages.
-
-Q3
-
-CO-2; a. Define “Master Plan” in project planning and describe its different elements and [10]
-ay their importance
-
-BL-1 . ee
-
-CO-3; b. Explain the types of budgeting in project management. How-do project cost [10]
-ay accounting and management information systems support budget control?
-
-Q4
-
-CO-3; a. Define project risk. State the concept “Risk response planning” and explain how it [10]
-SO-1; ae ace
-
-BL-1 can mitigate potential issues.
-
-CO-3; b. State the key steps involved, the significance of a project closure report, and the [10]
-SO-1; al F ,
-
-BL-1 role of lessons learned in improving future projects.
-
-Q5
-
-CO-2; a. Describe the key principles for creating an effective WBS and how it helps in [10]
-
-ae resource allocation, scheduling, and risk management. Provide examples of its
-
-application in project execution.
-
-CO-3; b. Discuss the various methods of cost estimation used in project management. How [10]
-
-eg can accurate cost estimation contribute to overall project success?
-
-Q6
-
-CO-1; a. Choose a project you are familiar with and describe the project’s progression [10]
-
-ay through the phases of the project life cycle. For each phase, explain the key
-activities, deliverables, and challenges encountered.
-
-CO-3; b. Prepare a case study or real-world example to illustrate the effective use of risk [10]
-
-SO-1; . :
-
-BL3 management methods in a project.
-
-2 of 3
---- page 3 ---
-Q7
-
-CO-1; a. List and explain different Project management approaches. [8]
-Blt
-CO-2; b. You are managing a construction project and need to schedule the following [12]
-ce activities. The table below shows the activities, their estimated durations (in
-weeks), and their dependencies.
-Activity | Description Immediate Duration (Days)
-Predecessor
-
-A Site Preparation -- 3
-
-B Foundation Laying A 5
-
-(c Structural Framework A 7
-
-D Electrical Wiring B 4
-
-18) Plumbing Installation B 3
-
-F Roof Installation C,E 9
-
-G Interior Walls D,E 5
-
-H Painting G 4
-
-I Landscaping F 2
-
-J Final Inspection H,1 1
-
-1. Construct a network diagram to represent the sequence of activities and
-their dependencies.
-2. Determine the Earliest Start (ES) and Earliest Finish (EF) for each activity.
-
-3. Determine the Latest Start (LS) and Latest Finish (LF) for each activity.
-4. Identify the Critical Path
-
-5. Calculate the Total Float (Slack) for each activity.
-
-3 of 3
---- page 4 ---
-
-````
-
-## 2023-24 · Final + Re-Exam · paper 38a3821ca317
+## 2024-25 · Final + Re-Exam · paper 38a3821ca317
 
 - Departments: Common (all branches)
 - Programmes: B.TECH INTEGRATED
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/ALL STREAM/Elements of Project Management/Elements of Project Management Batch 2024-24 Final Batch 2023-24 Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 73.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4720,7 +4551,298 @@ Og 0.8159 G.8185 0.6212 0.8233 0.8264 0.8289 B.as15 0.8340 08365 0.8339
 34 a.99s0 = 4.9951 0.9951 osee1 O9582 0.9982 0.9992 0.9992 9993 1.9993
 3.2 og993 39993 0.9994 09954 oO9904 O9804 o9g04 0.9995 9995 0.9995
 3.3 as995 a<9995 0.9995 09996 O09906 O9996 0.9996 0.9996 09996 0.9997
-3.4 ososy o9soF oO.999F OSes, Oossy oOossrT <asec7 so97 o9ss7 0.9998
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper cc690f0c7d97
+
+- Departments: Common (all branches), Computer Engineering, Mechanical
+- Programmes: B TECH, B TECH / COMPUTER, B TECH / MECHANICAL, B.TECH INTEGRATED, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-V/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf` (+4 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 91.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Programs: B Tech / MBA Tech / BTI Year: II/V Semester: V/IX
+Stream: All Applicable Streams / MECHA / COM
+
+Subject: Elements of Project Management Time: 03 hrs(asoopm te Seon pm)
+Date:272/25 No. of Pages: 03
+
+Marks: 100
+
+Re. Examination (2024-25) / Re Exam 23-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly:
+
+CO-1; a. Describe Triple constraints of project management. [5]
+SO-1;
+
+BL-2
+
+CO-1; b. Describe suitable examples for different types of organization structure. [5]
+SO-4;
+
+BL-2
+
+CO-2; c. Discuss the concept of a Work Breakdown Structure (WBS) and its role in project [5]
+aap planning.
+
+CO-3; d. State the techniques that can be used to identify potential risks in a project and [5]
+sien, explain how they help ensure comprehensive risk identification.
+
+BL-l P P
+
+Q2
+
+CO-1; a. “Engineers irrespective of their specialization must acquire knowledge/skills of [10]
+SO-7; : ss .
+
+BL-4 project management” Explain.
+
+1of3
+--- page 2 ---
+CO-1; b. Define pure product or projectized organization and explain its advantages and [10]
+SO-7;
+
+BL-l disadvantages.
+
+Q3
+
+CO-2; a. Define “Master Plan” in project planning and describe its different elements and [10]
+ay their importance
+
+BL-1 . ee
+
+CO-3; b. Explain the types of budgeting in project management. How-do project cost [10]
+ay accounting and management information systems support budget control?
+
+Q4
+
+CO-3; a. Define project risk. State the concept “Risk response planning” and explain how it [10]
+SO-1; ae ace
+
+BL-1 can mitigate potential issues.
+
+CO-3; b. State the key steps involved, the significance of a project closure report, and the [10]
+SO-1; al F ,
+
+BL-1 role of lessons learned in improving future projects.
+
+Q5
+
+CO-2; a. Describe the key principles for creating an effective WBS and how it helps in [10]
+
+ae resource allocation, scheduling, and risk management. Provide examples of its
+
+application in project execution.
+
+CO-3; b. Discuss the various methods of cost estimation used in project management. How [10]
+
+eg can accurate cost estimation contribute to overall project success?
+
+Q6
+
+CO-1; a. Choose a project you are familiar with and describe the project’s progression [10]
+
+ay through the phases of the project life cycle. For each phase, explain the key
+activities, deliverables, and challenges encountered.
+
+CO-3; b. Prepare a case study or real-world example to illustrate the effective use of risk [10]
+
+SO-1; . :
+
+BL3 management methods in a project.
+
+2 of 3
+--- page 3 ---
+Q7
+
+CO-1; a. List and explain different Project management approaches. [8]
+Blt
+CO-2; b. You are managing a construction project and need to schedule the following [12]
+ce activities. The table below shows the activities, their estimated durations (in
+weeks), and their dependencies.
+Activity | Description Immediate Duration (Days)
+Predecessor
+
+A Site Preparation -- 3
+
+B Foundation Laying A 5
+
+(c Structural Framework A 7
+
+D Electrical Wiring B 4
+
+18) Plumbing Installation B 3
+
+F Roof Installation C,E 9
+
+G Interior Walls D,E 5
+
+H Painting G 4
+
+I Landscaping F 2
+
+J Final Inspection H,1 1
+
+1. Construct a network diagram to represent the sequence of activities and
+their dependencies.
+2. Determine the Earliest Start (ES) and Earliest Finish (EF) for each activity.
+
+3. Determine the Latest Start (LS) and Latest Finish (LF) for each activity.
+4. Identify the Critical Path
+
+5. Calculate the Total Float (Slack) for each activity.
+
+3 of 3
+--- page 4 ---
+
+````
+
+## 2023-24 · Final + Re-Exam · Sem 6 · paper 9161516585a8
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 91.9
+
+````text
+SVKM’S NMIMS *\
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENQIS
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Programs: B.Tech /™meBa Tech Year: III Semester: VI
+
+Streams : All Applicable streams
+
+Subject: Elements of Project Management : Time: 3 hrs (2:00pm to Ey 00pm)
+Date:_2 / 5 /2024 No. of Pages: 03
+
+Marks: 100
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should vead carefully the instructions. printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+_ 1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+L
+
+Ql Answer briefly:
+CO-1; SO-2; a. | Define project Management and explain its significance in different | [05]
+Bla environments.
+CO-1; SO-2; b. | Explain the term project organization structure. [05]
+BL-2
+CO-2; SO-2; c. | Explain Project master plan. [05]
+BL-2
+
+ro | CO- 2; SO-2; d. | Define work package and its significance in WBS. [05]
+BL-1
+Q2
+CO-1; | a. | Identify the importance of project life cycle. Explain with suitable example [10]
+SO-2;
+BL-3
+CO-1; | b. | Outline various oppurtunities of project manager in different fields and also state [10]
+SO-2;
+
+roject manager’s role.
+BL-2 proj g
+
+1of3
+--- page 2 ---
+a. | Develop a network diagram for following project activities and decide the critical | [12]
+
+Q3
+CO-2; path with total project duration. Also compute slack times for all activities.
+SO-2; Activity Predecessor Duration in Days
+BL-3 A a 12
+B ao 8
+Cc - 8
+D A,B 8
+E A 12
+F A 20
+G C,D 8
+H E 4
+I F 8
+J F,G 32
+K HI 16
+co-3; | b. | Explain the term budgeting and state its different elements of budgeting. Explain | [8]
+SO-2; with any appropriate examples.
+BL-2
+Q4
+CO-1; a. | Explain the importance of project Initiation Process and also explain techniques [10]
+SO-2; used for strategic selection of Project
+BL-2
+CO-2; | b. | Explain the term Project Planning. Justify the associations of Planning fundamentals [10]
+SO-2; with success of any project.
+BL-2
+Q5
+CO-3; | a. | List and explain different techniques of risk identification. [10]
+SO-2;
+BL-4
+co-1; | b. | Explain why closing the project is the most important part of any project. Justify | [10]
+SO-2; your view with suitable examples.
+BL-2
+
+2 of 3
+--- page 3 ---
+Q6
+
+-
+
+CO-3; | a. | Explain the process of how project costs are estimated. List the roles of people who | [10]
+SO-2;
+
+BL-2 gets involved.
+
+CO-3; | b. | Explain why Project reviews is a vital part of any project. If it is not followed | [10]
+SO-2;
+
+BL-2 properly what could be the effects on the project.
+
+CO-2; | a. | Explain the “Work Breakdown Structure” in Projects. Sketch a typical WBS for any | [10]
+
+Bes project that you know of with the help of different levels of WBS.
+
+CO-3; | b. | Explain different methods for analyzing project risks in details. [5]
+SO-2;
+BL-2
+
+CO-1; C. | Explain Lesson Learned Analysis. . [5]
+SO-2;
+BL-2
+
+3 of 3
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper 6d267beb3c3f
@@ -5092,129 +5214,157 @@ BL-3 planning, including risk avoidance, mitigation, transfer, and acceptance.
 3 of 3
 ````
 
-## 2022-23 · Final + Re-Exam · Sem 6 · paper 9161516585a8
+## 2022-23 · Exam not stated · Sem 6 · paper 601e071d9278
 
 - Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem VI, Final Exam & Re Exam 2022-23.pdf` (+1 identical copies)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Elements of Project Management/Elements of Project Management.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (3 pages), mean OCR confidence 91.9
+- Text: ocr (4 pages), mean OCR confidence 83.2
 
 ````text
-SVKM’S NMIMS *\
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENQIS
-SCHOOL OF TECHNOLOGY MANAGEMENT
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
 
-Academic Year: 2023-2024
-
-Programs: B.Tech /™meBa Tech Year: III Semester: VI
-
-Streams : All Applicable streams
-
-Subject: Elements of Project Management : Time: 3 hrs (2:00pm to Ey 00pm)
-Date:_2 / 5 /2024 No. of Pages: 03
+Program: B Tech Stream: All Year: III / TV Semester: VI /VIII
+Subject: Elements of Project Management Time: 3 hrs (40:00 am to 1:00 P m)
+Date: 05]05) 2023 No. of Pages: 03
 
 Marks: 100
 
-Final Examination/Re-Examination (2022-23)
+Final Examination
 
-Instructions: Candidates should vead carefully the instructions. printed on the question paper and on the cover
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
-_ 1) Question No. 1 is compulsory.
+
+1) Question No. 1 is compulsory.
+
 2) Out of remaining questions, attempt any 4 questions.
+
 3) In all 5 questions to be attempted.
+
 4) All questions carry equal marks.
+
 5) Answer to each new question to be started on a fresh page.
+
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. :
+7) Assume Suitable data if necessary.
 
-L
+Ql Answer briefly: [20]
 
-Ql Answer briefly:
-CO-1; SO-2; a. | Define project Management and explain its significance in different | [05]
-Bla environments.
-CO-1; SO-2; b. | Explain the term project organization structure. [05]
-BL-2
-CO-2; SO-2; c. | Explain Project master plan. [05]
+CO-I;
+SO-4; a. | Define project Management and classify based on its functionality. [05]
+
 BL-2
 
-ro | CO- 2; SO-2; d. | Define work package and its significance in WBS. [05]
+CO-1;
+SO-5; b. | Explain what are the planning fundaments and its importance in project. [05]
+
+BL-2
+
+CO-2;
+SO- 4; c. .| List the characteristics of Project control. [05]
+
 BL-1
+
+CO-3;
+SO-4; d. | Explain different cost estimating processes. [05]
+BL-1
+
 Q2
-CO-1; | a. | Identify the importance of project life cycle. Explain with suitable example [10]
-SO-2;
-BL-3
-CO-1; | b. | Outline various oppurtunities of project manager in different fields and also state [10]
-SO-2;
 
-roject manager’s role.
-BL-2 proj g
+CO-1; a. | What is the importance of project life cycle. Explain with suitable example [10]
+SO-1;
+BL-1
 
-1of3
+1/3
 --- page 2 ---
-a. | Develop a network diagram for following project activities and decide the critical | [12]
+CO-2; b. | Construct the network diagram for a project composed of Several activities whose | [10]
 
+80-1; time estimates are listed in following table.
+
+BL-6
+Activit | Precedin Estimated duration in weeks _
+y g Activity | Optimistic | Pessimistic | Most Likely
+A - 1 7 1
+B - od 7 4
+Cc - 2 8 2
+D A 1 1 1
+E B 2 14 5
+F Cc 2 8 5
+G D,E 3 15 6
+H F,G 2. 8 5
+Calculate the expected project length and Judge the probability of project getting
+completed in 23 weeks.
+(The normal distribution chart is given on last page for your reference.)
 Q3
-CO-2; path with total project duration. Also compute slack times for all activities.
-SO-2; Activity Predecessor Duration in Days
-BL-3 A a 12
-B ao 8
-Cc - 8
-D A,B 8
-E A 12
-F A 20
-G C,D 8
-H E 4
-I F 8
-J F,G 32
-K HI 16
-co-3; | b. | Explain the term budgeting and state its different elements of budgeting. Explain | [8]
-SO-2; with any appropriate examples.
+CO-1;
+SO-2; a. | List out the features of Organization Structure for managing projects. [10]
+BL-2
+CO-3;
+SO-4; b. | Describe the control process for project risk management. [10]
 BL-2
 Q4
-CO-1; a. | Explain the importance of project Initiation Process and also explain techniques [10]
-SO-2; used for strategic selection of Project
-BL-2
-CO-2; | b. | Explain the term Project Planning. Justify the associations of Planning fundamentals [10]
-SO-2; with success of any project.
-BL-2
-Q5
-CO-3; | a. | List and explain different techniques of risk identification. [10]
-SO-2;
-BL-4
-co-1; | b. | Explain why closing the project is the most important part of any project. Justify | [10]
-SO-2; your view with suitable examples.
-BL-2
+CO-3; a. | What are the different elements of budgeting? Explain with any appropriate
+SO-6; [10]
+BL-1 examples.
+CO-3; b. | “Closing the project is the most important part of any project.” Justify your view
+. nae with suitable examples. [10]
 
-2 of 3
+2/3
 --- page 3 ---
+Q5
+
+CO-1; a. | Define system approach in project management. State and explain different elements
+
+80-7; of system [10]
+BL-2 :
+
+CO-2; b. | Express how would you go about determining the scope and timeline of a new project. | [10]
+sO-1; Enlist different tools in Project planning.
+
+BL-6
+
 Q6
 
--
+CO-2; a. | Explain why Project reviews is a vital part of any project. If it is not followed
 
-CO-3; | a. | Explain the process of how project costs are estimated. List the roles of people who | [10]
-SO-2;
+a properly what could be the effects on the project. [10]
+CO-3; b. | List the different techniques of risk identification and explain any one in detail.
 
-BL-2 gets involved.
-
-CO-3; | b. | Explain why Project reviews is a vital part of any project. If it is not followed | [10]
-SO-2;
-
-BL-2 properly what could be the effects on the project.
-
-CO-2; | a. | Explain the “Work Breakdown Structure” in Projects. Sketch a typical WBS for any | [10]
-
-Bes project that you know of with the help of different levels of WBS.
-
-CO-3; | b. | Explain different methods for analyzing project risks in details. [5]
-SO-2;
+$0-5; [10]
 BL-2
 
-CO-1; C. | Explain Lesson Learned Analysis. . [5]
-SO-2;
-BL-2
+Q7
 
-3 of 3
+CO-2; a. | Explain purpose of Project Integration. Also Explain different elements of Project
+80-4; Integration [10}
+BL2 oeeta
+
+CO-3; b. | Explain the “Work Breakdown Structure” in Projects. Draw a typical WBS for any [10]
+ae project that you know of.
+
+Standard Normal Probabilities
+
+Table entry for z is the area under the standard normal curve
+to the left of <.
+
+z 00 O01 02 03 04 05 06 07 .08 0S
+
+0.0 8 ©6.5000 «£5040 «= £5080) 5120) 5160) = 5199) 52395279) 5319 .5359
+O01   .5398 65438. .S47B 5517) 0.5557 5596 = 5636. 5675 S714 ~~ 5753
+0.2 .5793 4.5832 «.Se7i = 5940) .5948 = sS987 = 6026S 6064 = 61036141
+0.3. .6179. 6217. 6255. 6293 6331 6368. -.6406 «6443. 6480-6517
+04 6554 .6591 6628 6664 .6700 6736 6772 6808 6844 .6879
+OS 6915 6950 6985 670197054. 7088-7123. .7157 7190 .7224
+06 7257 729173247357 = 73897422 74547486517) «7549
+0.7. 7580 7611 «7642-7673 7704 7734. 77647794. 7823 7852
+08 7881 .7910 7939 7967 .7995 8023 805i .8078 8106 8133
+
+3/3
+--- page 4 ---
+
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper 9e81dfa6d6c5
@@ -5390,6 +5540,7 @@ BL-2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ALL STREAM/SEM-VI/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Management, Sem-VI, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 83.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MPSTME
@@ -5423,7 +5574,6 @@ Ql Answer briefly: [20]
 CO-1; . : : :
 SO-4; a. | Define project Management and classify based on its functionality. [05]
 BL-2
-FCO ach, aihal anc tho wnantee Rania wo ae | aT
 SO-5; b. | Explain what are the planning fundaments and its importance in project. [05]
 ( | BL-2
 CO-2; _ .
@@ -5644,146 +5794,14 @@ CO-3;
 3/3
 ````
 
-## 2021-22 · Re-Exam · Sem 8 · paper 8c7d5e5d44cd
-
-- Departments: Common (all branches)
-- Programmes: B TECH, MBA TECH
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VIII/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Mgmt , Re-exam 2021-22.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 June 2022
-- Text: ocr (3 pages), mean OCR confidence 89.1
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
-
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Academic Year: 2021-22
-
-Programme: B. Tech (All Streams) L Year: IV Semester: VIII
-Subject: Elements of Project Management “
-. v Marks: 100 c
-Date: 15 June 2022 Time: 2.00 pm to 5.00 pm
-* Durations: 3 (Hrs) _
-No. of Pages: 3
-
-Re-Examination (2021-22)
-
-va
-
-instructions: Candidates should read carefuily the instructions printed on the quest Papers and. on 1 the cover
-of the Answer Book, which is provided for their use. .
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. \
-
-6) Figures in brackets on the right hand side indicate full marks. x a
-7) Assume Suitable data if necessary. : a
-
-Ql Answer briefly: [20]
-
-CO-1;
-
-nt a. | Explain the project and Project Management in brief. [05]
-
-CO-1;
-
-—_ ; b. | Explain the role of project manager and its team in detail. [05]
-
-CO-2;
-SO- 4;
-
-a c. | List out the importance of Gantt charts in a project of your choice. [05]
-
-CO-3;
-SO-4;
-
-BL-1 d. | Define Risk Management. How they are classified. [05]
-
-1/3
---- page 2 ---
-Q2
-
-CO-1; Define “feasibility study” with respect to projects. What are the various components | [10]
-aan of a typical project feasibility report.
-CO-2; Construct the network diagram for following activities. Determine the critical path | [10]
-oe and the proj ect completion duration.
-Activity A|B|C|D|E F/G H I J Kk L
-Precedenc | - | - | - | A] B C |B, C,E | F F G,I | H,J
-e D
-Duration 3|5};6]4]10;91]8 12 16 | 25 | 30 | 4
-Q3
-CO-1; ; .
-SO-2; List out the features of Organization Structure for managing projects [8]
-BL-2
-CO-3;
-SO-4; Describe the control process for project risk management. [6]
-BL-2
-CO-3; | .
-SO-5; List the different techniques of risk identification and explain any one in detail. [6]
-BL-1
-Q4
-CO-3;
-SO-6; Explain the various processes involved in project cost management. [10]
-BL-1
-CO-3;
-SO-5; Analyze the importance of Project review and reporting in project management. [10]
-BL-4
-
-2/3
---- page 3 ---
-Q5
-
-CO-1; Identify the different phases of project life cycle. Discuss the activity required to be
-so carried out in each phase. . [10]
-CO-2; Construct the network diagram and mark Te on each activity. [10]
-oe Calculate EST and LFT and mark them on the network diagram
-Find the length of critical paths.
-Activity Optimistic Time | Most Likely Time Pessimistic time
-
-1-2 4 5 12
-
-1-6 2 2 20
-
-2-3 2 3 4
-
-2-4 6 5 22
-
-3-5 4 6 8
-
-4-5 3 4 5
-
-6-7 12 1 2
-
-5-8 5 7 15
-
-7-8 3 4 5
-Q6
-Sout, Explain the “Work Breakdown Structure” in Projects. Draw a typical WBS for any 18]
-BL-2 project that you know of.
-CO-3; ;
-SO-5; Explain the different methods of cost estimation [6]
-BL-2
-CO-3;
-poe Explain the risk identification method. [6]
-
-3/3
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper e4a768f28357
+## 2021-22 · Exam not stated · Sem 8 · paper e4a768f28357
 
 - Departments: Common (all branches)
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VIII/ELEMENTS OF PROJECT MANAGEMENT/B Tech, All Streams, Elements of project Management, 4th Year, Sem-VIII, Year 202_9d33dd54.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 April 2022
 - Text: ocr (4 pages), mean OCR confidence 84.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 . 7
@@ -5992,7 +6010,6 @@ LL? | .95543 95637 95728 S818 95907 95904 36080 96164 96246 96327
 
 2.9 20813 99819 99825 9831 99836 9841 99846 99851 29856 WEL
 
-3.0 99865 -99869 O9RT4 DIRT 99882 -DORRG -B98BRO -99RIZ 99896 -99900
 
 3A 99903 -99906 Y9910 Y9I9T3 99916 29918 89921 99924 .99926 99929
 
@@ -6000,29 +6017,35 @@ LL? | .95543 95637 95728 S818 95907 95904 36080 96164 96246 96327
 4/4
 ````
 
-## Year not stated · Exam not stated · Sem 6 · paper 601e071d9278
+## 2021-22 · Re-Exam · Sem 8 · paper 8c7d5e5d44cd
 
 - Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Elements of Project Management/Elements of Project Management.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 83.2
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VIII/ELEMENTS OF PROJECT MANAGEMENT/Elements of Project Mgmt , Re-exam 2021-22.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 June 2022
+- Text: ocr (3 pages), mean OCR confidence 89.1
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
 
-Program: B Tech Stream: All Year: III / TV Semester: VI /VIII
-Subject: Elements of Project Management Time: 3 hrs (40:00 am to 1:00 P m)
-Date: 05]05) 2023 No. of Pages: 03
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Marks: 100
+Academic Year: 2021-22
 
-Final Examination
+Programme: B. Tech (All Streams) L Year: IV Semester: VIII
+Subject: Elements of Project Management “
+. v Marks: 100 c
+Date: 15 June 2022 Time: 2.00 pm to 5.00 pm
+* Durations: 3 (Hrs) _
+No. of Pages: 3
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
+Re-Examination (2021-22)
+
+va
+
+instructions: Candidates should read carefuily the instructions printed on the quest Papers and. on 1 the cover
+of the Answer Book, which is provided for their use. .
 
 1) Question No. 1 is compulsory.
 
@@ -6032,123 +6055,97 @@ of the Answer Book, which is provided for their use.
 
 4) All questions carry equal marks.
 
-5) Answer to each new question to be started on a fresh page.
+5) Answer to each new question to be started on a fresh page. \
 
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
+6) Figures in brackets on the right hand side indicate full marks. x a
+7) Assume Suitable data if necessary. : a
 
 Ql Answer briefly: [20]
 
-CO-I;
-SO-4; a. | Define project Management and classify based on its functionality. [05]
+CO-1;
 
-BL-2
+nt a. | Explain the project and Project Management in brief. [05]
 
 CO-1;
-SO-5; b. | Explain what are the planning fundaments and its importance in project. [05]
 
-BL-2
+—_ ; b. | Explain the role of project manager and its team in detail. [05]
 
 CO-2;
-SO- 4; c. .| List the characteristics of Project control. [05]
+SO- 4;
 
-BL-1
+a c. | List out the importance of Gantt charts in a project of your choice. [05]
 
 CO-3;
-SO-4; d. | Explain different cost estimating processes. [05]
-BL-1
+SO-4;
 
-Q2
-
-CO-1; a. | What is the importance of project life cycle. Explain with suitable example [10]
-SO-1;
-BL-1
+BL-1 d. | Define Risk Management. How they are classified. [05]
 
 1/3
 --- page 2 ---
-CO-2; b. | Construct the network diagram for a project composed of Several activities whose | [10]
+Q2
 
-80-1; time estimates are listed in following table.
-
-BL-6
-Activit | Precedin Estimated duration in weeks _
-y g Activity | Optimistic | Pessimistic | Most Likely
-A - 1 7 1
-B - od 7 4
-Cc - 2 8 2
-D A 1 1 1
-E B 2 14 5
-F Cc 2 8 5
-G D,E 3 15 6
-H F,G 2. 8 5
-Calculate the expected project length and Judge the probability of project getting
-completed in 23 weeks.
-(The normal distribution chart is given on last page for your reference.)
+CO-1; Define “feasibility study” with respect to projects. What are the various components | [10]
+aan of a typical project feasibility report.
+CO-2; Construct the network diagram for following activities. Determine the critical path | [10]
+oe and the proj ect completion duration.
+Activity A|B|C|D|E F/G H I J Kk L
+Precedenc | - | - | - | A] B C |B, C,E | F F G,I | H,J
+e D
+Duration 3|5};6]4]10;91]8 12 16 | 25 | 30 | 4
 Q3
-CO-1;
-SO-2; a. | List out the features of Organization Structure for managing projects. [10]
+CO-1; ; .
+SO-2; List out the features of Organization Structure for managing projects [8]
 BL-2
 CO-3;
-SO-4; b. | Describe the control process for project risk management. [10]
+SO-4; Describe the control process for project risk management. [6]
 BL-2
+CO-3; | .
+SO-5; List the different techniques of risk identification and explain any one in detail. [6]
+BL-1
 Q4
-CO-3; a. | What are the different elements of budgeting? Explain with any appropriate
-SO-6; [10]
-BL-1 examples.
-CO-3; b. | “Closing the project is the most important part of any project.” Justify your view
-. nae with suitable examples. [10]
+CO-3;
+SO-6; Explain the various processes involved in project cost management. [10]
+BL-1
+CO-3;
+SO-5; Analyze the importance of Project review and reporting in project management. [10]
+BL-4
 
 2/3
 --- page 3 ---
 Q5
 
-CO-1; a. | Define system approach in project management. State and explain different elements
+CO-1; Identify the different phases of project life cycle. Discuss the activity required to be
+so carried out in each phase. . [10]
+CO-2; Construct the network diagram and mark Te on each activity. [10]
+oe Calculate EST and LFT and mark them on the network diagram
+Find the length of critical paths.
+Activity Optimistic Time | Most Likely Time Pessimistic time
 
-80-7; of system [10]
-BL-2 :
+1-2 4 5 12
 
-CO-2; b. | Express how would you go about determining the scope and timeline of a new project. | [10]
-sO-1; Enlist different tools in Project planning.
+1-6 2 2 20
 
-BL-6
+2-3 2 3 4
 
+2-4 6 5 22
+
+3-5 4 6 8
+
+4-5 3 4 5
+
+6-7 12 1 2
+
+5-8 5 7 15
+
+7-8 3 4 5
 Q6
-
-CO-2; a. | Explain why Project reviews is a vital part of any project. If it is not followed
-
-a properly what could be the effects on the project. [10]
-CO-3; b. | List the different techniques of risk identification and explain any one in detail.
-
-$0-5; [10]
+Sout, Explain the “Work Breakdown Structure” in Projects. Draw a typical WBS for any 18]
+BL-2 project that you know of.
+CO-3; ;
+SO-5; Explain the different methods of cost estimation [6]
 BL-2
-
-Q7
-
-CO-2; a. | Explain purpose of Project Integration. Also Explain different elements of Project
-80-4; Integration [10}
-BL2 oeeta
-
-CO-3; b. | Explain the “Work Breakdown Structure” in Projects. Draw a typical WBS for any [10]
-ae project that you know of.
-
-Standard Normal Probabilities
-
-Table entry for z is the area under the standard normal curve
-to the left of <.
-
-z 00 O01 02 03 04 05 06 07 .08 0S
-
-0.0 8 ©6.5000 «£5040 «= £5080) 5120) 5160) = 5199) 52395279) 5319 .5359
-O01   .5398 65438. .S47B 5517) 0.5557 5596 = 5636. 5675 S714 ~~ 5753
-0.2 .5793 4.5832 «.Se7i = 5940) .5948 = sS987 = 6026S 6064 = 61036141
-0.3. .6179. 6217. 6255. 6293 6331 6368. -.6406 «6443. 6480-6517
-04 6554 .6591 6628 6664 .6700 6736 6772 6808 6844 .6879
-OS 6915 6950 6985 670197054. 7088-7123. .7157 7190 .7224
-06 7257 729173247357 = 73897422 74547486517) «7549
-0.7. 7580 7611 «7642-7673 7704 7734. 77647794. 7823 7852
-08 7881 .7910 7939 7967 .7995 8023 805i .8078 8106 8133
+CO-3;
+poe Explain the risk identification method. [6]
 
 3/3
---- page 4 ---
-
 ````

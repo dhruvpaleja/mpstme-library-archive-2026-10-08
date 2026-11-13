@@ -1,6 +1,6 @@
 # Project Management: question papers in full
 
-83 unique papers · 2006-07 to 2025-26 · Chemical, Information Technology, Mechanical, Common (all branches), Computer Applications (MCA), Data Science, Civil, Real Estate and Construction Management, Mechatronics, Computer Engineering
+84 unique papers · 2006-07 to 2025-26 · Chemical, Information Technology, Mechanical, Common (all branches), Computer Applications (MCA), Data Science, Civil, Real Estate and Construction Management, Mechatronics, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -938,6 +938,93 @@ project management system. Kombs Engineering is no longer in business.
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 8 · paper a2b667ec80f6
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+. SVKIVW’S NMIMS :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS BNGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ~
+
+Academic Year: 2023-2024
+
+Program/s: MBA Tech . Year: 4 Semester: Vill
+Stream/s : All Streams 7 Time: 2-hrs (40-aim tod? roon-)
+Subject: Project Management Marks: 50
+
+Date:_24 / 04 / 2024 _ ; No. of Pages: 2
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+~ 1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt arly 4° _ questions.
+3)Inall___5- questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: —S (10) |
+CO-3;BL-2 | A | Explain any two sources of cost escalations in a project. Be J
+CO-1; BL-1_| B_| What are the characteristics ofa project? B25
+CO-1; BL-2_| C | List any two responsibilities of a Project Manager during Project planning? @Y24S
+CO-4; BL-2 | D | Explain project termination by integration. . Bake
+Q2ZA In which situations parametric and analogous estimation method are used for | (5)
+
+a CO-3; BL-3 cost estimation purpose?
+Q2B Explain cost accounting system in project management. Write at least 2 inputs (5)
+CO-3; BL-2 and 2 outputs for cost accounting system. ;
+Q3 Explain various phases of the Project Management Life Cycle. (10)
+
+|_CO-1; BL-2 :
+
+Q4- For a Project, the activities with their normal and crash time and cost is given | (10)
+CO-3; BL-4 below. The indirect cost for the project is Rs 900 per day. Determine: 1) The
+
+minimum project duration in which the project can be completed and the
+corresponding cost of completion?
+
+Activity: | Predecessor _| Normal Crash
+Time Cost’. Time Cost
+(days) _| (Rs) (days) (Rs)
+A fe : 2 750 1 1500
+B - 6 1400 4 2600
+
+Cc - 3 500 2 1000
+--- page 2 ---
+D\Cc 5 1000 +3 ~~ [1800
+
+E A : 2 800, 2 800
+
+FE B,D,E 4 1000 2 2400
+
+G . KC 7 1150 6 1450
+Q5 Analyze the projectized organizational structure, examining its application, (10)
+CO-2; BL-4 | advantages, and drawbacks. .
+Q6 Elaborate on the steps involved in Project Risk Management? (10)
+CO-2; BL-4
+Q7 The approved budget for a 4-month long project was Rs. 10 Lakhs. Project (10)
+CO-3; BL-3 started on time and supposed to deliver equal amount of work every month.
+
+Project progress measured after one month is as below.
+
+20% work is completed
+
+Actual expenditure Rs. 3 lakhs
+
+Based on the data and information available create a project status report for
+the management. Also considering the current cost variance as typical what
+would be estimate at completion?
+````
+
 ## 2023-24 · Final-Exam · Sem 12 · paper 15aed22f3db4
 
 - Departments: Mechanical
@@ -1318,6 +1405,297 @@ Actual Cost, AC = 58,000/-
 Budget at completion, BAC = 90,000/-
 ````
 
+## 2022-23 · Exam not stated · Sem 8 · paper 0b180bf4aefe
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management_0b180bf4ae.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 84.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+Academic Year: 2022-2023
+
+Program/s:___ MBA Tech Year: 4 Semester: VIN
+Stream/s ; all
+
+Subject: __ Project Management____ MBABO05106_—_ Time: 2 hrs(__10 to 12)
+Date:__21 / 04 /2023 No. of Pages: 2
+
+Marks: 50.
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page. a
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary. Use any calculator.
+
+1
+Q Answer briefly:
+
+CO- 1; SO- ; a. Explain Phases of Project Management Life Cycle.
+
+BL- Knowledge/ [3]
+Remembering
+
+CO- 2; SO- ; b.
+
+BL- Knowledge/ Define Project Success. P]
+Remembering
+
+CO- 1; SO- ; €:
+
+BL- What are the Project Constraints? [2]
+Understanding
+
+CO-2 ; SO-; d.
+
+BL- Knowledge/ What is a WBS? Describe the basic principles for creating a WBS. Bl
+Remembering
+
+i What are Earned Value Management (EVM) Techniques? Explain main Variance
+Calculations and Performance Indices.
+
+ii, Calculate all the major Variances and Indices for the following case:
+
+Q Earned Value, EV = 20,000 INR
+7 . [5+5]
+CO-3; SO-; Planned Value, PV = 28,000 INR
+BL- Applying
+Actual Cost, AC = 26,000 INR
+Budget at Completion, BAC = 40,000 INR
+Compute Estimate at Completion and Variance at Completion.
+Q3 i, What are Project Selection Methods? Please write the importance of Project Selection
+0-2; S0-; BL- Methods. [5+5]
+
+Analyzing ii. Explain any five of them with examples.
+--- page 2 ---
+Consider a project that has been modelled as follows:
+
+Activity Immediate Predecessors Duration (hr)
+
+A = 7
+
+B - 10
+
+Cc A 4
+
+D A 30
+
+E A 7
+
+F B.C 12
+
+G B,C 15
+
+H EF 11
+
+I E,F 25
+Qa J EF 6 [44+2+2+2
+CO-2; SO-; K DH 21
+BL- Analyzing L GJ 25 ]
+
+Draw the PERT/CPM network for this project and determine project's expected completion
+time and its critical path.
+Can activities E and G be performed simultaneously without delaying the minimum project
+completion time?
+
+é Can one person perform A, G, and | without delaying the project?
+How much would the project be delayed if activity G was delayed by 7 hours and
+
+activity L was delayed by 4 hours? Explain.
+
+With the help of the resource load chart, determine by how many weeks the project depicted in the following
+
+network diagram would be delayed if a maximum of only three resources are available for any given week.
+
+3[8le 7lelo] _ [slelu n| [72
+
+i{ 2 - sol 1 o| 1 o| 1
+
+4|3]7 L7[e[9 Lg lz[u nf] i fa
+Q5
+CO-2; SO-; é [10]
+BL- Applying O|A | 3 31D | 7
+
+0 2 0 1 Legends
+of] 3] 3 3[ 417 est | Activity | ge
+ID
+Slack Resoures (people)
+Bl c | Y required
+& 1 Duration
+LsT
+slilo (weeks)
+6 + + a ds
+
+Q i. What is a Matrix Organization?
+CO-1; SO-; % a az, Fad,
+BL- ii. Illustrate the advantages and disadvantages of a matrix organization. [5+5]
+Understanding
+2 i. What is a project audit? Explain the Audit Process in brief.
+CO-4; SO-; vs . . 7
+BL- ii. How do Internal Controls help in getting a good Audit Report? [5+5]
+
+Understanding
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 8cfc1f4e8fd7
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management_8cfc1f4e8f.pdf`
+- Printed on paper: duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 87.3
+
+````text
+S\ LIBRARY
+SVKM’S NMIMS .
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2022-2023
+
+Program/s: ___ MBA Tech__ Year: IV Semester: __VIII__
+
+Stream/s ;__all
+
+Subject: Project Management Time: 2 hrs(_10_to_12__)
+ave noo
+
+Date:__28/ Oune / 2023 No. of Pages:__2__
+
+Marks: __50
+
+Re- Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. Use any calculator.
+
+Ql
+
+Answer briefly:
+
+CO-2 ; SO- ; a.
+BL- Draw a Sketch of a Research Matrix organization.
+
+Knowledge/ (2]
+Rememberin
+
+g
+
+CO- 4; SO- ; b.
+
+BL- Differentiate between the project execution phase and the proj
+Understandin
+
+(— g
+
+lect monitoring and control phase [2]
+
+om ‘A software development project that you are managing has budget at completion of $400,000. At
+
+CO=2; SO=;
+~ | Be month seven, 65% of the work was planned to be complete but stands at 50%. Actual cost is | [3]
+
+Analyzing $275,000. What is the project's ETC?
+
+CO- 1; SO- ; d.
+BL-
+Understandin
+
+Differentiate between CPM & PERT. Bl
+
+g
+
+Q2
+
+CO-2; SO-;
+
+BL- What are the roles and responsibilities of a project manager?
+Knowledge/
+
+Rememberin
+
+g
+Q3 Given a project with the following characteristics, answer the following questions: [B+3+4]
++3+
+
+[10]
+
+CO-3; SO-; * You are the project manager of a project to build fancy birdhouses.
+
+BL- Analyzing
+--- page 2 ---
+* You are to build two birdhouses a month for 12 months.
+* Each birdhouse is planned to cost $100. i
+Your project is scheduled to last for 12 months.
+It is the beginning of month 10.
+* You have built 20 birdhouses and your CPI is .9091.
+a. Howis the project performing
+b. What is the actual cost of the project right now?
+c. Assuming that the COST variance experienced so far in the project will continue,
+
+how much more money will it take to complete the project?
+
+i. Construct a Network Diagram for the following data indicating the Critical Path and total
+project duration.
+“a ii. Also make a table with columns of Earliest start and finish time, latest start and finish
+
+time, slack period for all the activities.
+
+Activities Predecessors Completion time (Days) ' Resources needed
+04 ‘ ‘?
+CO-1; $0-; . a 3 2 [545]
+BL- Applying Cc A 3 3
+D fe 30 3 ~ |
+E D 8 - 8
+F B,E 7 19
+G F 3 7 4
+Qs
+CO-4; SO-;
+Ble What is Conflict? Define and explains various of Modes of Conflict Management with situations. [10]
+Understandin
+g
+Q6 “Statement of work’ and ‘scope statement’ are important documents for any project”.
+€0-1; $0-; ; tober the; el
+BL- Applying Justify the statement by highlighting the importance of each.
+Q7
+CO-1; SO-;
+BL-
+What are the basic principles for creating a WBS? Write various approaches to build a WBS. [10]
+Knowledge/
+Rememberin
+
+8 .
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper 0334fc8d7c13
 
 - Departments: Data Science
@@ -1596,7 +1974,7 @@ BL-2
 oa S0-7; List and briefly describe the ways projects may be terminated. [08]
 ````
 
-## 2022 · Final-Exam · Sem 3 · paper 8c3769d58d9b
+## 2022-23 · Final-Exam · Sem 3 · paper 8c3769d58d9b
 
 - Departments: Computer Applications (MCA)
 - Programmes: MCA
@@ -2139,6 +2517,7 @@ Explain any two methods for analyzing project risks in details.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/PROJECT MANAGEMENT/PROJECT_MANAGEMENT_B TECH (MECHANICAL), 2019-20 FINAL_EXAM.pdf`
 - Printed on paper: max marks: 70; exam date: 08 November 2019
 - Text: ocr (3 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS ;
@@ -2211,7 +2590,6 @@ B) Explain four methods of cost estimation. [7M]
 Q.7 A) What is project organization structure? Elaborate in detail with any one example. [7M]
 B) Explain the significance of Responsibility matrix with an example. [7M]
 
-eR GIGI ISI SI CIRO GI ICI II ICI I A A 331 1 2 C2 I 2 A A AR Cf CC a 2 a SCE 2 CO FE I 2 a ao a ok ok eek ae
 --- page 3 ---
 Tables of the Normal Distribution
 
@@ -2520,6 +2898,7 @@ c. Find the probability that the project is completed in 20 days.
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/PROJECT MANAGEMENT/PROJECT_MANAGEMENT_B TECH (MECHANICAL), 2018-19 FINAL_EXAM_.pdf`
 - Printed on paper: exam date: 16 November 2018
 - Text: ocr (2 pages), mean OCR confidence 84.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -2570,7 +2949,6 @@ Activity Time Cost Time Cost
 4-5 3 80 1 100
 Indirect cost =Rs. 70 per day (14M)
 
-JESSIE III GIGI SASSI SICIISIGICICI ACESS IC CICCCCSISISC ACC ACI ICICI ICICI III I AAAI RK a a
 
 Py Dosa
 ````
@@ -2928,6 +3306,7 @@ _ ¢
 - Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/IV SEMESTER/PROJECT MANAGEMENT/Project Management 2018-19 Final.pdf`
 - Printed on paper: exam date: 20 April 2019
 - Text: ocr (4 pages), mean OCR confidence 77.2
+- 28 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Y
@@ -3098,9 +3477,6 @@ presses eeoeF Sly
 a LA de & eB |
 
 ee ee .
-ww wo wo wo Wo wow ow wo uo AO WO www oo mo sf dl mm How wh Wp
-foo wo uo so wo OO wo of os) =) oy on Bw e o oo ot die pt GO Lo Pt wo Ln rr m Olea
-fo =) Gh ut ta pe so mn p=) ee fe un un he wom — - Sw oo oin re tA fd wo |e
 oe Boom Go wt re re Powe Be PM Pa pa wo ba be oe Go bn oe wou fo Co
 
 ee anpeores eae @ ea a
@@ -3113,56 +3489,31 @@ a :
 paoun ay on
 
 oaagaooaoogoee
-ip in in wa iG UB io ue ue
-fh ot Ge neu ob Go go
 Yl fe fo am kat |
 fio he oh
 
 sesesceseeooeese eo eee eg
 FO oop e ae eoeoeonoeeeaeean =
-wo uo A BERD ADRMAYN aA SS be mn S
-Co = ed ae Lal O ta Oy | ta gm bi tet Oy tf ta
 ed Lo oe ee ee 2
 ooosesos ee pes eee see eo Oe ea a ale
 WW wo wo Ao 6D Ao pepe aepnoowa ments Gog a ele
-SBeSSRxRSaseTaaesessae es pod GS) lo wo ee |e
-fH sy oh on fe pa OS wl bo Ao Be Heer ar on os eo ow eo S|
-4 “J Ww a ea ie nb ob Or Ms Oo
 aooee sees eeeee : ee
-ip i ig w 00 wD le ip wo Wo 4 Wo 16 Qa eo
-OB I a to Wo ed oO = 4 om
-bea) J a om fb ee ee ee ao ot ht Pa Go bo
-ooo mom oh iu in bw oo
 aggaeseepeoe eos ooren a2 = oo
-ia pp po ip ip in io ie ip pe i ia oo = in in [2
-ut (ee ue ga fo gh gh Gn oh Re lt st mn te |S
-cn de ty ce a Oo uf & Gl pe Gr = tw OS pe Bioed Go ta bet ha} cn
-be pr Se fo oy ai ta ch kG ee RY et oe ET to Bock CR oho
-poe peessoSO EP SSS OO Oe eam 2°
 appa nonenooeBp ee ee Raaa in in|
 eo ee PSB a oO Sa aa bee Ba S) m pale
 BSeReaeagegesryasieess Se Sed | Sad
 En oot Pel Pel ME foe & 2 © oF wt on Pd ted Wet Et Sad eet A
 ocosceepessososs ese ooo oo ea a als
-re Samm ey A in in |B
 
 BeBe poo oo oe a La ,
-co oo) Oy bn Wa es owt ee , oo pl ta Pa a oh Ao im wo " | od
-om Oo wa ta ore fe be wef of Pe wow oy uw om pa sd ou oon oy ia “Ad
 
 oo Sm
 
-manag oe Ss eee epee pte :
-we 4o uo 4o wo o8 uo Lo 8 to uo uO wo 4D ie) to gf oo ad “i sl aoa ow z
-hm we Oo in ba Go ui bs sf to |
 
 wi wo
 
 r pe
-4 Ao to oo Go Oe) Al om in + to ee
 
-om oe wd TE um ba ie mo ine OF oe ta ae i Fe me i Pa Gy lat kn a ee mi [Sx
-ne Soa) Tom the wo Sy on te i ca po Wo da wo) ee ta
 ````
 
 ## 2018-19 · Final-Exam · Trim 5 · paper e813b5fdc94f
@@ -3531,6 +3882,7 @@ external risk in detail.( 7 Marks)
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/PROJECT MANAGEMENT/PROJECT MANAGEMENT (MECHANICAL), 2017-18 FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 30 November 2017
 - Text: ocr (5 pages), mean OCR confidence 82.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3677,7 +4029,6 @@ structure with the above case.
 
 4/=-
 
-ok 28 OK ok 2k OK OK OK OK OB KOK
 --- page 5 ---
 Table 5-7 The Cumulative (Single Tail) Probabilities of the Normal Probability
 Distribution (Areas under the Normal Curve from —© to Z)
@@ -5119,6 +5470,7 @@ e)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/PROJECT MANAGEMENT/Project Management Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 12/05/2016
 - Text: ocr (2 pages), mean OCR confidence 86.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ra
@@ -5195,7 +5547,6 @@ $150,000 | ACTUAL COST (AC)
 
 i
 
-T is T T a r
 
 12 3 4 5 6 7 8 9 10 11 12
 Time (weeks)
@@ -5296,6 +5647,105 @@ EFFORTS (Man- months), SCHEDULE (Months), STAFF-SIZE (no.of Programmers)
 12
 
 2)
+````
+
+## 2015-16 · Re-Exam · Sem 7 · paper 1e15828cd73e
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/PROJECT MANAGEMENT/PROJECT MANAGEMENT B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: duration hours: 3; exam date: 28/11/2015
+- Text: ocr (2 pages), mean OCR confidence 84.2
+
+````text
+f SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ool B. Tech (Civil) Year: IV Semester: VII
+atch: 2014-2015
+Academic Year: 2015-2016 peniteTE OF TON
+yee ~
+Subject: Project Management lg PSTMEB yo
+Marks: RARY
+Date: 28/11/2015 Time: 20. 00 Bat BEA e
+Duration: 3 (hrs) er ay — Ax
+SS ae aw
+
+“ses neal
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+On the cover of the answer book, this is provided for their use.
+
+NB: ;
+1. Question No.1 is compulsory.
+2. Out of the remaining questions, attempt any 4 questions. |
+3. Inall 5 questions to be attempted.
+4, Answer to each question to be started on a fresh paper.
+
+> 5. Figures on the right hand side indicate full miarks.
+
+Ql. Attempt any for questions:-
+a) Explain Project Integration Manages: ont. 3
+b) List the various plans developed in a project besides the oro ject development plan. 3
+
+c) Elaborate on the functions of project charter. 3
+d) Explain different types of risks in project management. 3
+e) What are the various methods of managing risks? 5
+f) Explain Work Breakdown Structure with example. 3
+Q2° a). Whatare the techniques of project controlling and moutioring? 6
+an) ) Explain project life cyéle. witk dixgrats. FT 6
+Q3 a) Find the Critic al Path, LS, LY and floats for the follow: ing using AON mcthed. q
+Sr | Activny | IPA | Doratior(“!
+No - . ;
+o 1 H - 6
+2 it -- 5
+3 J H 8
+4 K iz 9
+5 L IJ 12
+6 M L 10
+7 N Ke gy
+28 0 N 5 |
+oe a Po [MN [8 ,
+-@ | 8 _?P $
+pic ; li R ie) 2
+12 Ss QR 4 4
+b) Drew the Gantt Chart for the above problem 2,
+
+sje
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+b)
+
+Explain the Project Manager’s primary role in a project.
+Elaborate on Project Management Information Report and its aspects.
+
+Explain the 10 inputs of Risk Management Plan.
+Explain various types of project organizations with examples.
+
+Elaborate on the elements of Project Management Plan.
+Elaborate on Earned Value Analysis of Project. am
+
+For a Project on 7 week, the status is as follows,
+
+BCWS = Rs. 14,00,000
+
+ACWP =Rs. 16,06,000
+
+BCWP =Rs. 10,50,000
+
+What is the Earned Value of Project at 7 Week. Also calculate Scheduled
+Variance(SV), Cost Variance (CV), SPI and CPI
+
+What are the various termination responsibilities of the-project?
 ````
 
 ## 2015-16 · Re-Exam · Sem 6 · paper 3145d84f8c0f
@@ -5689,105 +6139,6 @@ St2+x =)
 a/ 2
 ````
 
-## 2014-15 · Re-Exam · Sem 7 · paper 1e15828cd73e
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/PROJECT MANAGEMENT/PROJECT MANAGEMENT B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: duration hours: 3; exam date: 28/11/2015
-- Text: ocr (2 pages), mean OCR confidence 84.2
-
-````text
-f SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-ool B. Tech (Civil) Year: IV Semester: VII
-atch: 2014-2015
-Academic Year: 2015-2016 peniteTE OF TON
-yee ~
-Subject: Project Management lg PSTMEB yo
-Marks: RARY
-Date: 28/11/2015 Time: 20. 00 Bat BEA e
-Duration: 3 (hrs) er ay — Ax
-SS ae aw
-
-“ses neal
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-On the cover of the answer book, this is provided for their use.
-
-NB: ;
-1. Question No.1 is compulsory.
-2. Out of the remaining questions, attempt any 4 questions. |
-3. Inall 5 questions to be attempted.
-4, Answer to each question to be started on a fresh paper.
-
-> 5. Figures on the right hand side indicate full miarks.
-
-Ql. Attempt any for questions:-
-a) Explain Project Integration Manages: ont. 3
-b) List the various plans developed in a project besides the oro ject development plan. 3
-
-c) Elaborate on the functions of project charter. 3
-d) Explain different types of risks in project management. 3
-e) What are the various methods of managing risks? 5
-f) Explain Work Breakdown Structure with example. 3
-Q2° a). Whatare the techniques of project controlling and moutioring? 6
-an) ) Explain project life cyéle. witk dixgrats. FT 6
-Q3 a) Find the Critic al Path, LS, LY and floats for the follow: ing using AON mcthed. q
-Sr | Activny | IPA | Doratior(“!
-No - . ;
-o 1 H - 6
-2 it -- 5
-3 J H 8
-4 K iz 9
-5 L IJ 12
-6 M L 10
-7 N Ke gy
-28 0 N 5 |
-oe a Po [MN [8 ,
--@ | 8 _?P $
-pic ; li R ie) 2
-12 Ss QR 4 4
-b) Drew the Gantt Chart for the above problem 2,
-
-sje
---- page 2 ---
-Q4
-
-Q5
-
-Q6
-
-Q7
-
-b)
-
-Explain the Project Manager’s primary role in a project.
-Elaborate on Project Management Information Report and its aspects.
-
-Explain the 10 inputs of Risk Management Plan.
-Explain various types of project organizations with examples.
-
-Elaborate on the elements of Project Management Plan.
-Elaborate on Earned Value Analysis of Project. am
-
-For a Project on 7 week, the status is as follows,
-
-BCWS = Rs. 14,00,000
-
-ACWP =Rs. 16,06,000
-
-BCWP =Rs. 10,50,000
-
-What is the Earned Value of Project at 7 Week. Also calculate Scheduled
-Variance(SV), Cost Variance (CV), SPI and CPI
-
-What are the various termination responsibilities of the-project?
-````
-
 ## 2014-15 · Re-Exam · Sem 7 · paper 3cb0b24fb136
 
 - Departments: Civil
@@ -6021,6 +6372,7 @@ Indirect Cost = Rs 80 per day.
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/PROJECT MANAGEMENT/Project Management Batch (2014-15) Re Exam.pdf`
 - Printed on paper: exam date: 08/07/2015
 - Text: ocr (3 pages), mean OCR confidence 87.3
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -6094,7 +6446,6 @@ Activity Duration in days
 --- page 2 ---
 id el Optimistic Most Likely Pessimistic
 
-—— > ic dheseereeeee eee ree eemeeeeeeseceereeeeee een
 ] ---> 2 1 2 3
 rs 1 4 7
 2---> 4 1 2 9
@@ -6111,10 +6462,8 @@ iii] Find the critical path & project duration for the above given project sched
 iv] What is the probability that the project will be completed in 14 days?
 
 Q 3] A project schedule has characteristics as shown in the table below - [12 marks]
-Kone > eeeee ere rt ent snneeennin Scene ESE ESSER SEEE SE SEEEEE EEE ESEeneEe ened >
 Activity Normal Mode Crash Mode
 i--->j Time(Days) * Cost(Rs) Time(Days) Cost(Rs)
-Gocemenns > ft en ei te eerie SEH SESS SR eenSaEeERSieeT >
 | ---> 2 6 60 ~ 100
 
 | ---> 3 4 60 2 200
@@ -6130,7 +6479,6 @@ Gocemenns > ft en ei te eerie SEH SESS SR eenSaEeERSieeT >
 5---> 6 4 40 2 100
 
 6---> 7 3 45 2 80
-Sraseoues > ieee euaiue een eeew nema haeeumensemeneren ene secon nn ewe een nenennnntinnninn! >
 
 i] Find the critical path & project duration for the above given project schedule.
 
@@ -6637,6 +6985,83 @@ Q7B) Explain the TotoMwng terms: . 10
 3. Return on Investment
 ````
 
+## 2013-14 · Re-Exam · Trim 8 · paper 91ec4e105b0a
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/PROJECT MANAGEMENT BATCH 2011-12 RE EXAM0001(1).pdf` (+2 identical copies)
+- Printed on paper: duration hours: 2; exam date: 16 /12/2013
+- Text: ocr (1 page), mean OCR confidence 91.5
+
+````text
+SVKM’s NMIMS rae ?
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN INEERING
+
+Programme:MBA Tech (ALL) Year: III = : ester: VIII
+Academic Year: 2013-14 { Beten-2011-12 /
+Subject : Project Management
+
+Date :16 /12/2013 Time : 10.00 am to 12.00 pm
+Durations:2 (hrs)
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+N.B.
+
+4) Attempt any 5 questions
+
+2) All questions carry equal marks
+3) Answer to each question to be started on a fresh page.
+
+4 - What are the characteristics of Modern Project Management? How do they differ from management of
+
+olden mega projects?(10 marks)
+2 —What is a Work Breakdown Structure (WBS)? What are the elements of WBS? What are the elements
+of a Work Package? (10 marks)
+
+3- What is the role of a “feasibility Study” in a project? What are the elements of a “feasibility study
+report’?(10 marks)
+
+4- What are the risk identification techniques in a project? What are the various risk response planning
+methods used in projects? (10 marks)
+
+5-What are the various types of organization for projects? Explain “Matrix Organization” for projects (10
+
+marks)
+
+6-
+1) In anew project for setting up a medical store undertaken by M/S Prakash Engineering Company
+
+Ltd., the list of activities and their precedence relationships are as shown below: For each activity,
+the project leader has computed the normal & crash times (in weeks) and the normal & crash costs (
+
+in Rupees Lakhs) as given in table below.
+
+Activity | Preceding | NORMAL CRASH COST SLOPE(?)
+1 2 3 4 5
+Tn Cn Te Cc
+A - 9 10 6 16
+B - 7 11 6 17
+Cc A 3 8 2 9
+D A 7 10 is] 20
+E B 8 8 4 14
+EF [e] 6 9 6 9
+G DE 6 10 3 25
+
+h of the activities, Draw the network diagram for the
+
+Compute the cost slopes (Column 5) for eact
+the project completion time, and the total cost of the
+
+above project. Find the critical path activities,
+project under normal conditions. (10 marks)
+
+k
+4/4
+````
+
 ## 2013-14 · Re-Exam · Sem 6 · paper 4cf371f8149c
 
 - Departments: Chemical, Civil, Common (all branches), Mechanical
@@ -6792,6 +7217,173 @@ A975 4976 4977 4977 4978 4979 -4979 -4980 4981
 4982 4982 -4983 4984 4984 -4985 4985 4986 4986
 
 3.0........ 4987 4987 4987 -4988 4988 4989 -4989 -4989 4990 -4990
+````
+
+## 2013-14 · Re-Exam · Sem 6 · paper fae0abc688a4
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM/SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf`
+- Printed on paper: exam date: 05/07/2014
+- Text: ocr (3 pages), mean OCR confidence 76.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (ALL STREAMS) Year: Ul Semester: VI
+Academic Year: 2013-14 gontetl o Rep,
+(Aa
+Batch:2013-2014 MPSTMBE )% *
+
+ae
+
+LIBRARY )& i;
+
+Subject : Project Management Ma:
+
+Date :05/07/2014 Durati
+Re-Examination
+
+Instructions: |] Question no:1 is compulsory. [ Carrying 14 marks]
+2] Attempt ANY THREE questions from Question nos 2 to 6
+3] Questions from 2 to 6 carry 12 marks each.
+4] Use of calculator and statistical tables permitted
+
+Q. No: 1] A] State True or False with reasons
+
+Al] Inan activity net-work, critical path is the one having activities with zero float.
+
+A2] An activity network always has only one critical path.
+
+A3]_ In an activity network critical path should not have a dummy activity.
+
+A4] An activity network can have all the paths as critical
+
+A5] An activity network gives different critical paths in AOA and AON
+
+A6] Crashing of an activity network can be considered complete when necessarily all the
+critical paths become further un-crashable.
+
+A7| Work Break-down Structure [WBS] is best suited for intangible deliverables whereas
+Process Break-down Structure [ PBS] is appropriate for tangible outcomes.
+
+Q. No: 2] List characteristics of a typical project.
+How Project Life Cycle is useful in project planning?
+
+Q. No: 3] Define ‘Risk’ in a project,
+
+What do you understand by Composite Likelihood factor [CLF] and Composite Impact
+
+Factor [CIF] in risk assessment
+
+Enumerate various risk mitigation methods
+.Q. No: 4] An NGO engaged in social welfare activities has planned an ophthalmic medical
+camp in a rural area. You are entrusted with managing the project of making all the necessary
+arrangements and infrastructure ready for the medical camp. The inauguration of the camp is 42
+days away from today .The activities involved in the project with their requisite data is provided
+below. The project is to start from today. Find out what is the chance [| probability] of the
+project completing before the inauguration [which is on the 43 rd day from today, hence the
+project to complete not beyond 42 days] ?
+[ The activity durations are assumed to follow normal frequency distributions]
+
+Activity | Description Preceded by | ‘to’ ‘tm’ ‘tp’
+
+a days days days
+| A Selection of location and site - 4 5 6
+|B Permission from Gram-panchayat A 2 2 2
+
+c _ Structural infrastructure iB 13 15 i
+dD Electricity, water provision ___©& 3 4 5
+
+E Awareness drive/ campaign B 17 20 23
+| E Obtaining medical supplies D 7 8 9
+|G Setting up emergency cell F | 5 6 7
+[_H Registration of patients | E | 8 12 i6 |
+
+1s
+--- page 2 ---
+ts.
+
+hing by a day
+
+for each of these activities is also shown. The
+overhead cost for the project is estimated at the
+
+rate of Rs 3,000 per day .
+
+Maximum Crashed
+Duration —in days
+
+Crashing Cost /
+day--- in Rs.
+
+Find out a] Normal project duration and the minimum possible [ maximum crashed] project
+duration
+
+b] The optimum project duration with the least total project cost considering both
+the activity and overhead costs.
+
+c]
+
+How much lower is the least total project cost than the normal [ uncrashed ] total
+project cost?
+
+-Q. No: 6: Write short notes on [any two]
+
+A] Sources of project cost escalation.
+
+B] Desirable attributes of Project Manager
+C] Matrix Organization for project
+
+D] Elements of a project master plan.
+
+OY 000000™™ y»y)
+
+2/3
+--- page 3 ---
+Areas under the normal curve, 0 to z
+
+z 00 01 .02 03 04 05 06 07 08 09
+00 = 5 eaciess .0000 0040 -0080 0120 .0160 0199 0239 .0279 .0319 .0359
+
+01. +++, 0398 0438 0478 0517 0557 0596 0636 .0675 0714 .0753 A
+02. .0793 0832 0871 .0910 0948 .0987 1026 1064 1103 1141 :
+03. -1179 1217 1255 -1293 -1331 -1368 -1406 1443 -1480 1517 i
+
+0.4 1554 -1591 -1628 1664 -1700 1736 1772 -1808 1844 1879
+
+0.5 1915 -1950 1985 2019 -2054 -2088 -2123 2157 .2190 2224 i
+06. .   .2257 2291 2324 .2357 .2389 2422 2454 2486 2517 .2549
+07 _.2580_____.2611 +2642 .2673 -2703 .2734 .2764 .2794 2823 .2852
+08........ -2881 2910 .2939 .2967 2995 -3023 -3051 3078 3106 3133
+O9........ 3159. 3186 3212 3238 3264 3289 3315 3340 3365 3389
+10........ 3413 3438 3461 3485 3508 3531 -3554 3577 3599 3621
+11. 3643 3665 3686 3708 3729 3749 3770 .3790 3810. 3830
+a2. 3849 3869 3888 3907 3925 3944 3962 3980 3997 4015
+1.3 4032 4049’ 4066 4082 4099 AVIS 4131 A147 A162 ANT
+
+VA nasi.» 4192 4207 4222 4236 4251, 4265 4279 4292 4306 4319
+
+Vis 4332 A345 4357 4370 4382 4394 4406 A4B 4429 A441
+1.6 4452 4463 A474 A484 4495 4505 ASIS 4525 4535 4545
+17 A554 4564 4573 4582 4591 -4599 4608 A616 4625 4633
+18 4641 4649 4656 4664 4671 4678 4686 4693. 4699 4706 |
+
+19 4713 A719 4726 4732 4738 AT44 4750 4756 4761 4767
+
+2.0 ATT2 4778 4783 4788 A193 4798 4803 -4808 4812 4817.
+21 4821 4826 -4830 4834 4838 4842 A846 4850 4854 4857 |
+22 4861 4864 4868 4871 4875 4878 4881 4884 4887 -4890
+2B ondee see 4893 4896 4898 4901 4904 -4906 -4909 4911 4913 ASE
+yh ee A918 -4920 4922 4925 -4927 -4929 4931 4932 4934 4936
+’ 25 4938 4940 4941 4943 A945 4946 4948 -4949 4951 4952
+26 4953 4955 4956 4957 4959 4960 -4961 A962 A963 4964
+27 4965 A966 4967 A968 4969 4970 4971 4972 4973 4974
+28 ini 5 aie 4974 A975 4976 A977 4977 4978 4979 4979 4980 4981
+
+29s ss weisinn 4981 4982 4982 4983 4984 4984 4985 4985 4986 4986
+8.0: sesacn -4987 4987 4987 4988 -4988 4989 -4989 -4989 -4990 4990
 ````
 
 ## 2013-14 · Re-Exam · Sem 4 · paper d7d28932c3e4
@@ -7618,6 +8210,72 @@ I   :.: 4,. .   .   dlsln3.t.an k symme1ncsl aboul Z 0.Inn area m 1% l&.hand le 
 0
 ````
 
+## 2012-13 · Re-Exam · Trim 8 · paper 311a8f61d367
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/project management BATCH 2011-2012 RE EXAMscan0012.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 2; exam date: 19/01/2013
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & f
+
+Programme: MBA(Tech) (ALL STREAMS) Year: III Trimestd
+Academic Year :2012-2013
+
+Batch: 2011-2012
+Subject: Project Management Marks:
+Time: $
+Date: 19/01/2013 Duration: 2 hrs.
+, Re - Examination
+N.B.
+
+1) Attempt any 5 questions
+2) All questions carry equal marks. Mark is indicated after the question in brackets
+3) Answer to each question to be started on a fresh page. Mention the question number.
+
+1) What are the key features that distinguish Project management from
+traditional forms of management.(10 marks)
+
+2) Explain-the-phases in a typical project’s life cycle? Cite some examples in
+projects which you are aware of? (10 )
+
+3). A company is working on a “Robotics self budgeting” project for which the activities
+and their relationships and durations are as shown below.
+
+Activity | Description Predecessor | Duration
+activity (weeks)
+J System design - 6
+M Hardware purchase and delivery J 4
+Vv Hardware assembly and test M 6
+Y Hardware installation Vv 8
+L Software specification J 2
+Q Software purchase and delivery L 8
+Ww System test Y,Q 1
+«7x User test Ww 1
+
+A) Draw the network diagram for this project. (5)
+B) Find the critical path and earliest project completion time for this project. (5)
+
+>.
+--- page 2 ---
+4... What are the sources of risk to a project and what are the techniques used to
+“assess Project composite Risk? (10)
+
+5 What is “ Work Breakdown Structure” in Projects? Draw a typical WBS for
+any project that you know of? (10)
+
+6 Whatis the process of Cost Estimation and budgeting in projects? (10)
+
+7 What are the features of Organization Structure for managing projects? In
+what way do they differ from conventional organization structures (_\0)
+
+FORA ICK
+````
+
 ## 2012-13 · Re-Exam · Trim 6 · paper 7c4e8611a17e
 
 - Departments: Computer Applications (MCA)
@@ -7752,83 +8410,6 @@ Q6 Write chert notes on: ; (20)
 if
 ````
 
-## 2011-12 · Re-Exam · Trim 8 · paper 91ec4e105b0a
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/PROJECT MANAGEMENT BATCH 2011-12 RE EXAM0001(1).pdf` (+2 identical copies)
-- Printed on paper: duration hours: 2; exam date: 16 /12/2013
-- Text: ocr (1 page), mean OCR confidence 91.5
-
-````text
-SVKM’s NMIMS rae ?
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN INEERING
-
-Programme:MBA Tech (ALL) Year: III = : ester: VIII
-Academic Year: 2013-14 { Beten-2011-12 /
-Subject : Project Management
-
-Date :16 /12/2013 Time : 10.00 am to 12.00 pm
-Durations:2 (hrs)
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-N.B.
-
-4) Attempt any 5 questions
-
-2) All questions carry equal marks
-3) Answer to each question to be started on a fresh page.
-
-4 - What are the characteristics of Modern Project Management? How do they differ from management of
-
-olden mega projects?(10 marks)
-2 —What is a Work Breakdown Structure (WBS)? What are the elements of WBS? What are the elements
-of a Work Package? (10 marks)
-
-3- What is the role of a “feasibility Study” in a project? What are the elements of a “feasibility study
-report’?(10 marks)
-
-4- What are the risk identification techniques in a project? What are the various risk response planning
-methods used in projects? (10 marks)
-
-5-What are the various types of organization for projects? Explain “Matrix Organization” for projects (10
-
-marks)
-
-6-
-1) In anew project for setting up a medical store undertaken by M/S Prakash Engineering Company
-
-Ltd., the list of activities and their precedence relationships are as shown below: For each activity,
-the project leader has computed the normal & crash times (in weeks) and the normal & crash costs (
-
-in Rupees Lakhs) as given in table below.
-
-Activity | Preceding | NORMAL CRASH COST SLOPE(?)
-1 2 3 4 5
-Tn Cn Te Cc
-A - 9 10 6 16
-B - 7 11 6 17
-Cc A 3 8 2 9
-D A 7 10 is] 20
-E B 8 8 4 14
-EF [e] 6 9 6 9
-G DE 6 10 3 25
-
-h of the activities, Draw the network diagram for the
-
-Compute the cost slopes (Column 5) for eact
-the project completion time, and the total cost of the
-
-above project. Find the critical path activities,
-project under normal conditions. (10 marks)
-
-k
-4/4
-````
-
 ## 2011-12 · Re-Exam · Trim 8 · paper 650458028e62
 
 - Departments: Chemical, Information Technology
@@ -7836,6 +8417,7 @@ k
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/PROJECT MANAGEMENT BATCH 2011-12 RE EXAM0001.pdf` (+1 identical copies)
 - Printed on paper: exam date: 21/06/2012
 - Text: ocr (2 pages), mean OCR confidence 79.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -7898,73 +8480,6 @@ Aa.
 7 Define “Quality Function Deployment”. How is it deployed in Project Management?
 
 (10)
-SAR AOR AR ACR TORR .
-````
-
-## 2011-12 · Re-Exam · Trim 8 · paper 311a8f61d367
-
-- Departments: Chemical, Information Technology
-- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/project management BATCH 2011-2012 RE EXAMscan0012.pdf` (+1 identical copies)
-- Printed on paper: duration hours: 2; exam date: 19/01/2013
-- Text: ocr (2 pages), mean OCR confidence 91.1
-
-````text
-SVKM’s NMIMS
-
-Mukesh Patel School of Technology Management & f
-
-Programme: MBA(Tech) (ALL STREAMS) Year: III Trimestd
-Academic Year :2012-2013
-
-Batch: 2011-2012
-Subject: Project Management Marks:
-Time: $
-Date: 19/01/2013 Duration: 2 hrs.
-, Re - Examination
-N.B.
-
-1) Attempt any 5 questions
-2) All questions carry equal marks. Mark is indicated after the question in brackets
-3) Answer to each question to be started on a fresh page. Mention the question number.
-
-1) What are the key features that distinguish Project management from
-traditional forms of management.(10 marks)
-
-2) Explain-the-phases in a typical project’s life cycle? Cite some examples in
-projects which you are aware of? (10 )
-
-3). A company is working on a “Robotics self budgeting” project for which the activities
-and their relationships and durations are as shown below.
-
-Activity | Description Predecessor | Duration
-activity (weeks)
-J System design - 6
-M Hardware purchase and delivery J 4
-Vv Hardware assembly and test M 6
-Y Hardware installation Vv 8
-L Software specification J 2
-Q Software purchase and delivery L 8
-Ww System test Y,Q 1
-«7x User test Ww 1
-
-A) Draw the network diagram for this project. (5)
-B) Find the critical path and earliest project completion time for this project. (5)
-
->.
---- page 2 ---
-4... What are the sources of risk to a project and what are the techniques used to
-“assess Project composite Risk? (10)
-
-5 What is “ Work Breakdown Structure” in Projects? Draw a typical WBS for
-any project that you know of? (10)
-
-6 Whatis the process of Cost Estimation and budgeting in projects? (10)
-
-7 What are the features of Organization Structure for managing projects? In
-what way do they differ from conventional organization structures (_\0)
-
-FORA ICK
 ````
 
 ## 2010-11 · Exam not stated · Trim 8 · paper 96901b6c768c
@@ -8130,6 +8645,76 @@ Q.8. Discuss and illustrate in detail (Any Two) of the following:-
 x xX
 
 i
+````
+
+## 2010-11 · Exam not stated · Trim 6 · paper f47fda689d0a
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/PROJECT MANAGEMENT/PROJECT MANAGEMENT(1).pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/05/2011
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+SVKM’s NMIMS
+
+emt
+
+\
+
+2 vo ¢ :
+Mukesh Patel School of Technology Management & Engineerin?'“"’
+
+Programme: MCA Year: II Trimester: . W
+Academic Year : 2010-2011 “%,
+
+Subject: Project Management Marks: 100
+Time: 2.00 pm To 5.00 pm
+Date: 10/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory
+
+2. Out of the remaining questions attempt any four questions.
+3. In all five questions to be attempted.
+
+4. All question carry Equal Marks.
+
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+1. Discuss the activities covered by Software Project Management with proper examples. [20]
+
+2. Discuss some of the ways of categorizing the software projects. How does software projects
+differ from other types of projects? [10+10]
+
+3. Draw an activity network using either activity-on-node or activity-on-arrow network conventions
+for each of the following projects :
+
+e Getting married
+
+e Choosing and purchasing a desktop computer.
+
+e Choosing and Purchasing a book online.
+
+e Organizing and carrying out a survey of users’ opinions of an Information system. [5x4=20]
+
+4. Ina large project it is often be the responsibility of a team leader to allocate tasks to individuals.
+Why might it be unsatisfactory to leave such allocations entirely to the discretion of the team
+leader. [20]
+
+5. Discuss Risk Management. Draw and explain a Risk Register Page. [10+10]
+
+6. Explain the stages of contract placement. [20]
+
+|
+|
 ````
 
 ## 2009-10 · Exam not stated · Trim 8 · paper 203fdb82776b
@@ -8410,6 +8995,7 @@ Q7 Write short notes on any three: (20)
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/PROJECT MANAGEMENT/2008-2009(104).pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 83.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 od
@@ -8476,11 +9062,9 @@ H---- - ------ G---- - ------ 2
 
 £ PTC
 --- page 2 ---
-Jb ee we eee ee De ee 5
 Jes = oe ele E.F,Hs=-- ----=- - 11
 K---- - ------ Ges ote - = = 4
 l----------- fe wre re ~~ 6
-Mesc= = semen Kesee a smeeyss 7
 N---- - ------ JL Mapebom-Blsvee 6
 
 a) Represent these activities in a project network diagram based on Activity On Arrow (AOA)
@@ -8952,452 +9536,4 @@ Package product 7 5 04
 (b) What is the shortest feasible completion time for the project. (07 marks)
 
 P-T-0
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper a2b667ec80f6
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (2 pages), mean OCR confidence 88.7
-
-````text
-. SVKIVW’S NMIMS :
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS BNGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT ~
-
-Academic Year: 2023-2024
-
-Program/s: MBA Tech . Year: 4 Semester: Vill
-Stream/s : All Streams 7 Time: 2-hrs (40-aim tod? roon-)
-Subject: Project Management Marks: 50
-
-Date:_24 / 04 / 2024 _ ; No. of Pages: 2
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-~ 1) Question No. _1___ is compulsory.
-2) Out of remaining questions, attempt arly 4° _ questions.
-3)Inall___5- questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: —S (10) |
-CO-3;BL-2 | A | Explain any two sources of cost escalations in a project. Be J
-CO-1; BL-1_| B_| What are the characteristics ofa project? B25
-CO-1; BL-2_| C | List any two responsibilities of a Project Manager during Project planning? @Y24S
-CO-4; BL-2 | D | Explain project termination by integration. . Bake
-Q2ZA In which situations parametric and analogous estimation method are used for | (5)
-
-a CO-3; BL-3 cost estimation purpose?
-Q2B Explain cost accounting system in project management. Write at least 2 inputs (5)
-CO-3; BL-2 and 2 outputs for cost accounting system. ;
-Q3 Explain various phases of the Project Management Life Cycle. (10)
-
-|_CO-1; BL-2 :
-
-Q4- For a Project, the activities with their normal and crash time and cost is given | (10)
-CO-3; BL-4 below. The indirect cost for the project is Rs 900 per day. Determine: 1) The
-
-minimum project duration in which the project can be completed and the
-corresponding cost of completion?
-
-Activity: | Predecessor _| Normal Crash
-Time Cost’. Time Cost
-(days) _| (Rs) (days) (Rs)
-A fe : 2 750 1 1500
-B - 6 1400 4 2600
-
-Cc - 3 500 2 1000
---- page 2 ---
-D\Cc 5 1000 +3 ~~ [1800
-
-E A : 2 800, 2 800
-
-FE B,D,E 4 1000 2 2400
-
-G . KC 7 1150 6 1450
-Q5 Analyze the projectized organizational structure, examining its application, (10)
-CO-2; BL-4 | advantages, and drawbacks. .
-Q6 Elaborate on the steps involved in Project Risk Management? (10)
-CO-2; BL-4
-Q7 The approved budget for a 4-month long project was Rs. 10 Lakhs. Project (10)
-CO-3; BL-3 started on time and supposed to deliver equal amount of work every month.
-
-Project progress measured after one month is as below.
-
-20% work is completed
-
-Actual expenditure Rs. 3 lakhs
-
-Based on the data and information available create a project status report for
-the management. Also considering the current cost variance as typical what
-would be estimate at completion?
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 0b180bf4aefe
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management_0b180bf4ae.pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 84.3
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-Academic Year: 2022-2023
-
-Program/s:___ MBA Tech Year: 4 Semester: VIN
-Stream/s ; all
-
-Subject: __ Project Management____ MBABO05106_—_ Time: 2 hrs(__10 to 12)
-Date:__21 / 04 /2023 No. of Pages: 2
-
-Marks: 50.
-
-Final Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page. a
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary. Use any calculator.
-
-1
-Q Answer briefly:
-
-CO- 1; SO- ; a. Explain Phases of Project Management Life Cycle.
-
-BL- Knowledge/ [3]
-Remembering
-
-CO- 2; SO- ; b.
-
-BL- Knowledge/ Define Project Success. P]
-Remembering
-
-CO- 1; SO- ; €:
-
-BL- What are the Project Constraints? [2]
-Understanding
-
-CO-2 ; SO-; d.
-
-BL- Knowledge/ What is a WBS? Describe the basic principles for creating a WBS. Bl
-Remembering
-
-i What are Earned Value Management (EVM) Techniques? Explain main Variance
-Calculations and Performance Indices.
-
-ii, Calculate all the major Variances and Indices for the following case:
-
-Q Earned Value, EV = 20,000 INR
-7 . [5+5]
-CO-3; SO-; Planned Value, PV = 28,000 INR
-BL- Applying
-Actual Cost, AC = 26,000 INR
-Budget at Completion, BAC = 40,000 INR
-Compute Estimate at Completion and Variance at Completion.
-Q3 i, What are Project Selection Methods? Please write the importance of Project Selection
-0-2; S0-; BL- Methods. [5+5]
-
-Analyzing ii. Explain any five of them with examples.
---- page 2 ---
-Consider a project that has been modelled as follows:
-
-Activity Immediate Predecessors Duration (hr)
-
-A = 7
-
-B - 10
-
-Cc A 4
-
-D A 30
-
-E A 7
-
-F B.C 12
-
-G B,C 15
-
-H EF 11
-
-I E,F 25
-Qa J EF 6 [44+2+2+2
-CO-2; SO-; K DH 21
-BL- Analyzing L GJ 25 ]
-
-Draw the PERT/CPM network for this project and determine project's expected completion
-time and its critical path.
-Can activities E and G be performed simultaneously without delaying the minimum project
-completion time?
-
-é Can one person perform A, G, and | without delaying the project?
-How much would the project be delayed if activity G was delayed by 7 hours and
-
-activity L was delayed by 4 hours? Explain.
-
-With the help of the resource load chart, determine by how many weeks the project depicted in the following
-
-network diagram would be delayed if a maximum of only three resources are available for any given week.
-
-3[8le 7lelo] _ [slelu n| [72
-
-i{ 2 - sol 1 o| 1 o| 1
-
-4|3]7 L7[e[9 Lg lz[u nf] i fa
-Q5
-CO-2; SO-; é [10]
-BL- Applying O|A | 3 31D | 7
-
-0 2 0 1 Legends
-of] 3] 3 3[ 417 est | Activity | ge
-ID
-Slack Resoures (people)
-Bl c | Y required
-& 1 Duration
-LsT
-slilo (weeks)
-6 + + a ds
-
-Q i. What is a Matrix Organization?
-CO-1; SO-; % a az, Fad,
-BL- ii. Illustrate the advantages and disadvantages of a matrix organization. [5+5]
-Understanding
-2 i. What is a project audit? Explain the Audit Process in brief.
-CO-4; SO-; vs . . 7
-BL- ii. How do Internal Controls help in getting a good Audit Report? [5+5]
-
-Understanding
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 8cfc1f4e8fd7
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH VIII/SEM VIII/Project Management/Project Management_8cfc1f4e8f.pdf`
-- Printed on paper: duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 87.3
-
-````text
-S\ LIBRARY
-SVKM’S NMIMS .
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
-Academic Year: 2022-2023
-
-Program/s: ___ MBA Tech__ Year: IV Semester: __VIII__
-
-Stream/s ;__all
-
-Subject: Project Management Time: 2 hrs(_10_to_12__)
-ave noo
-
-Date:__28/ Oune / 2023 No. of Pages:__2__
-
-Marks: __50
-
-Re- Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1____ is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started ona fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary. Use any calculator.
-
-Ql
-
-Answer briefly:
-
-CO-2 ; SO- ; a.
-BL- Draw a Sketch of a Research Matrix organization.
-
-Knowledge/ (2]
-Rememberin
-
-g
-
-CO- 4; SO- ; b.
-
-BL- Differentiate between the project execution phase and the proj
-Understandin
-
-(— g
-
-lect monitoring and control phase [2]
-
-om ‘A software development project that you are managing has budget at completion of $400,000. At
-
-CO=2; SO=;
-~ | Be month seven, 65% of the work was planned to be complete but stands at 50%. Actual cost is | [3]
-
-Analyzing $275,000. What is the project's ETC?
-
-CO- 1; SO- ; d.
-BL-
-Understandin
-
-Differentiate between CPM & PERT. Bl
-
-g
-
-Q2
-
-CO-2; SO-;
-
-BL- What are the roles and responsibilities of a project manager?
-Knowledge/
-
-Rememberin
-
-g
-Q3 Given a project with the following characteristics, answer the following questions: [B+3+4]
-+3+
-
-[10]
-
-CO-3; SO-; * You are the project manager of a project to build fancy birdhouses.
-
-BL- Analyzing
---- page 2 ---
-* You are to build two birdhouses a month for 12 months.
-* Each birdhouse is planned to cost $100. i
-Your project is scheduled to last for 12 months.
-It is the beginning of month 10.
-* You have built 20 birdhouses and your CPI is .9091.
-a. Howis the project performing
-b. What is the actual cost of the project right now?
-c. Assuming that the COST variance experienced so far in the project will continue,
-
-how much more money will it take to complete the project?
-
-i. Construct a Network Diagram for the following data indicating the Critical Path and total
-project duration.
-“a ii. Also make a table with columns of Earliest start and finish time, latest start and finish
-
-time, slack period for all the activities.
-
-Activities Predecessors Completion time (Days) ' Resources needed
-04 ‘ ‘?
-CO-1; $0-; . a 3 2 [545]
-BL- Applying Cc A 3 3
-D fe 30 3 ~ |
-E D 8 - 8
-F B,E 7 19
-G F 3 7 4
-Qs
-CO-4; SO-;
-Ble What is Conflict? Define and explains various of Modes of Conflict Management with situations. [10]
-Understandin
-g
-Q6 “Statement of work’ and ‘scope statement’ are important documents for any project”.
-€0-1; $0-; ; tober the; el
-BL- Applying Justify the statement by highlighting the importance of each.
-Q7
-CO-1; SO-;
-BL-
-What are the basic principles for creating a WBS? Write various approaches to build a WBS. [10]
-Knowledge/
-Rememberin
-
-8 .
-````
-
-## Year not stated · Exam not stated · Trim 6 · paper f47fda689d0a
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/2ND YEAR/TRIM VI/PROJECT MANAGEMENT/PROJECT MANAGEMENT(1).pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/05/2011
-- Text: ocr (1 page), mean OCR confidence 91.0
-
-````text
-SVKM’s NMIMS
-
-emt
-
-\
-
-2 vo ¢ :
-Mukesh Patel School of Technology Management & Engineerin?'“"’
-
-Programme: MCA Year: II Trimester: . W
-Academic Year : 2010-2011 “%,
-
-Subject: Project Management Marks: 100
-Time: 2.00 pm To 5.00 pm
-Date: 10/05/2011 Duration: 3 hrs.
-
-Final - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. 1 is compulsory
-
-2. Out of the remaining questions attempt any four questions.
-3. In all five questions to be attempted.
-
-4. All question carry Equal Marks.
-
-5. Answer to each new question to be started on a fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-1. Discuss the activities covered by Software Project Management with proper examples. [20]
-
-2. Discuss some of the ways of categorizing the software projects. How does software projects
-differ from other types of projects? [10+10]
-
-3. Draw an activity network using either activity-on-node or activity-on-arrow network conventions
-for each of the following projects :
-
-e Getting married
-
-e Choosing and purchasing a desktop computer.
-
-e Choosing and Purchasing a book online.
-
-e Organizing and carrying out a survey of users’ opinions of an Information system. [5x4=20]
-
-4. Ina large project it is often be the responsibility of a team leader to allocate tasks to individuals.
-Why might it be unsatisfactory to leave such allocations entirely to the discretion of the team
-leader. [20]
-
-5. Discuss Risk Management. Draw and explain a Risk Register Page. [10+10]
-
-6. Explain the stages of contract placement. [20]
-
-|
-|
 ````

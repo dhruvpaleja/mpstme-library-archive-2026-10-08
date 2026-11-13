@@ -9,6 +9,8 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_EXTC_7006/Microwave and Antenna Theory/ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (14 pages), mean OCR confidence 50.9
+- 14 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -138,16 +140,12 @@ Sx = Si9=-S,,2-Sy,.
 Sin -Si3 Sa
 Su Sm 0 ©
 
-from unitory propaty Csits*] =CIJ.
 
-Se Sia Sq Sw we oe oF Sy
 
 Y 6b © o
 
-f San Sa Sw [PS 7 Sa” 83 ON) |
 oo
 Ss Gs Sx, © |] 53 —Ss" 5," 0 oo 4 4
-Su Sy o Off Sw Su®* o © ° oe of
 
 FOCI DG AR RK
 --- page 6 ---
@@ -220,7 +218,6 @@ pee ces SN Se ae et —
 
 Whee, N- no of apolar:
 
-"J AnoIRe poramelea of LPDA in spacing faclox dopined Ey
 
 c= Lae - kn —Raos O-T) Rp yp
 Qkn i
@@ -257,7 +254,6 @@ Divide eg § 4 xy
 
 ae Pro on Tm Waves in Kectangulas ax yt wy gh eo. O)
 Wavequssle x dx* Y ay*
-een TEMES Hee y agen LD pase function of x only
 x dxt
 
 The wave equation of TM wove i“
@@ -270,8 +266,6 @@ fan | can be solved to pet digg rene field The sum q thee wu a constant.
 
 Hence each tem must be equat te a Cenitant sperately
 
-enente Ey, Ey, Hy So Hy by “Seperation
-Bele aoe og “P % knee X and Y ae Mdependent vawables
 
 vauable method.
 
@@ -290,16 +284,13 @@ ae oe we Substitute <4 748 in eg 6
 Fi =, OCR oe RD = puget
 He = 2Gn + ye ota +b —o
 g :
-d o ht - a+ e —@
 
 Using thie 2 ons
-FRG are brcenary 27% erder diffecntial eg’
 The solutions of chich are geven by,
 
 4X OY Ray
 
 at bounday condition -- Cugt ade wot)
-X = C, cos Bx tC rin Be —o® 20 at nro es wy Ow
 Y = Cy cos %y + Cy sin ay aes
 Rie Boundory condition = Clap watt) -
 where, C,,6, Cy Cy Ae Constants which can be
@@ -307,7 +298,6 @@ evaluated ty applying bounday condlstens f. 20 os gb 7 x7 ote.
 The complete solution ia geven by a 2 ” 6 ‘tion
 nday condition -- Corght side wa)
 ie Sale gee a anda Condition 4 wa
-Subst lil eq ann in 42 &,=0 ob x= Oo +r gree ee
 
 Substituting ti reining condition ing 13
 
@@ -319,8 +309,6 @@ ack asa short circuit 2 ound © for elechie fot. a
 Ep=0 alt along “he boinday walle of the 0 = Ll, cos Bx tC, sin BxI LO, costo) +% sin (0d)
 waveguide
 = (¢, +8, +G sm Bx] Loni + Oxo].
-Since thue ase walle , These welt be fous
-bounday avihoe. 0 = [6 Grba ty singn dG.
 Cbottorn uw)
 2 boundary condition boundary cond: a Thee io tue for au + x ota
 & Also, C6, Cot Bx +, sinkx ] #0
@@ -459,6 +447,8 @@ depending on orientation).   plane tee branch).
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_EXTC_7006/Microwave and Antenna Theory/ANS_Microwave and Antenna Theory(702EX0C020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 49.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
 SYNOPTICS
@@ -566,7 +556,6 @@ Normal mode ……2.5 marks
 Axial mode   ……2.5 marks
 ********** 5 **********
 --- page 6 ---
-The polasization of “the radsaledk fretet wo delerminad by We
 Antat rato.
 
 NOTE AR-— Axiat Ratko is etepined oo Re rate man spetaal
@@ -578,7 +567,6 @@ AR= £o ~ ASA
 whee, O- ciomeler of helix.
 6 ~— Spaung blo each (oop
 
-The petaizetion of fhe raciatect frela 0 cetumined “4 Ke axrot
 ratio.
 
 4y varying ‘Dona [ot ‘s' the anuat ratio vases from 0G 2.
@@ -588,7 +576,6 @@ OS ARS O
 @ Ak=0:-
 ne (Ee eg)
 
-AR=0 TeawG in linear pdauzotion - Chesizentet lineax polaviation)
 
 \
 

@@ -430,6 +430,7 @@ BL-4
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/MECHANICAL/Sem_04/SOLID MECHANICS/Soild Mechanics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf`
 - Printed on paper: max marks: 100
 - Text: ocr (3 pages), mean OCR confidence 82.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS j
@@ -479,7 +480,6 @@ CO-1; SO- 30KN [20]
 6; 0k an 10kN/m F
 ‘- A it tle a> 2C ey mee FE
 Le 2m B 7 im 3m . Sem 2m —
-r t r ~ ~ ft t 1
 --- page 2 ---
 a Calculate the force P3 and change in the length.P; = 120kN, P2 = 220 KN ,
 and P4= 160kN.Take E= 200 GPa. Also find the stresses and strains in ~ ,
@@ -549,8 +549,6 @@ CO-3; SO- 30 kNm | 15 kN/m [20]
 
 G A = 3 ~ gees et F
 
-BL-4 Bim. Fam © 2am Dam Fam a=
-| on —y tc =a J
 B s
 ````
 

@@ -16,24 +16,24 @@ Also filed as: `SIGNAL AND SYSTEM`, `SIGNAL AND SYSTEMS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CyberSecurity 7010, BTech EXTC 7006, BTech Mechatronics 7004, Integrated IT 7037, MBATech IT 7041 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Signals and Systems(702EX0C029)_2025-2026_d486fb1de6.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5, Sem 7 | B TECH / CSE CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / IT, MBA TECH / I T | Signals and Systems 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 7 | BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, Integrated IT 7037, MBATech IT 7041 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_Signals and Systems(702EX0C029)_2025-2026_8883c31089.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Signals and Systems(702EX0C010)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3, Sem 7 | BTech CyberSecurity 7010, BTech EXTC 7006, BTech Mechatronics 7004, Integrated IT 7037, MBATech IT 7041 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Signals and Systems(702EX0C029)_2025-2026_d486fb1de6.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CyberSecurity 7010 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech EXTC 7006 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech IT 7001 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Mechatronics 7004 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated IT 7037 | QP_Signals and Systems(702EX0C010)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech EXTC 7006 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Signals and Systems(702EX0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Signals and Systems(702EX0C029)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / IT, MBA TECH / I T, MBA TECH / TELECOM EXTC | Signals and Systems Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED, B.TECH INTEGRATED / IT, MBA TECH / I T, MBA TECH / TELECOM EXTC | Signals and Systems, Sem, III, Batch 2024-25, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / I T, MBA TECH / I T | Signals & Systems , Re-exam 2022-23,2023-24.pdf |

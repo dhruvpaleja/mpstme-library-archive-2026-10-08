@@ -1,6 +1,6 @@
 # Structured System Analysis and Design: question papers in full
 
-22 unique papers · 2007-08 to 2016-17 · Information Technology, Computer Applications (MCA)
+24 unique papers · 2007-08 to 2016-17 · Information Technology, Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -170,6 +170,93 @@ b. Explain User interface design issues and it is evaluation.
 L/r
 ````
 
+## 2015-16 · Re-Exam · Sem 3 · paper e1c4c1672006
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/Structured System Analysis & Design Batch 2013-14 Re Exam.pdf`
+- Printed on paper: exam date: 01/12/2015
+- Text: ocr (2 pages), mean OCR confidence 93.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT) Year:Il Semester: III
+
+Academic Year: 2015 - 16
+
+Batch:2013-14
+
+Subject : Structured System Analysis & Design
+
+Date :01/12/2015
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. ONE (1)_ is compulsory.
+
+2) Out of remaining questions, attempt any Four(4) questions.
+
+3) In all_Five (5)_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+! 7) Assume Suitable data if necessary.
+
+Sr.No Questions Marks
+1. |a. Draw a class diagram for Hospital Management System. 10
+b. Draw a Use case diagram for E-commerce site for selling 10
+mobile phones in details.
+2. | a. What is software process and explain Umbrella activities 10
+in details.
+10
+
+b. Suggest one Software Model for College Black Board
+portal system and also justify its use in this scenario.
+
+3. | a. Specify the requirements for developing a Project for 10
+online ticket booking for flights. Also specify the stake 10
+
+h js
+eR older
+
+b. Draw the sequence and activity diagram for Hotel
+Management.
+
+aya
+--- page 2 ---
+a. Explain the. difference between white box and black box
+testing. :
+
+10
+
+10
+b. Explain different architectural styles and patterns.
+a. what is validation and verification testing. Explain in 10
+detail.
+10
+b. Explain the Water fall Model with proper software world
+example.
+Explain the following terms with diagram. 20
+i. Inheritance.
+ii. Aggregation
+iii. Composition
+iv. Generalization
+a. Explain the Testing strategies in detail . 10
+10
+
+b. Explain User interface design issues and it is evaluation.
+````
+
 ## 2014-15 · Final-Exam · Sem 3 · paper 603d36c624a4
 
 - Departments: Information Technology
@@ -231,6 +318,82 @@ Q6. A.Explair waterfall model in detail. (10)
 B. Explain RAD model in detail (10)
 Q7. A.Elaborate on Architectural Patterns, Design patterns and Frameworks. (10)
 B. Explain user interface design issues and evaluation (10)
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper b259eeb01fcc
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2013-14 Re-exam.pdf`
+- Printed on paper: max marks: 100; exam date: 01/12/2014
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:MBA Tech (IT) Year: ll Semester: III
+
+Academic Year: 2014-15 Batch: 2013-14 “a 10Y2 8? », ~
+
+f
+? aan a
+(Mie
+a MPSTME \2
+iN LIBRARY ):
+
+Subject : Structured System Analysis and Design
+Marks: 100
+
+Date : 01/12/2014 Time : 2.00 p
+Durations: 3 (AR My
+a
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. | is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all 5 (five) questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question should be started on a fresh page.
+
+Q-1) (a) Draw the use case diagram and class diagram for library management system
+[10 M]
+
+(b) “Software doesn’t wear out’”- Justify the statement [5 M]
+(c) Why waterfall model isn’t appropriate for software development? [5 M]
+Q-2) (a) Describe requirement engineering tasks [10 M]
+(b) Describe spiral model with suitable diagram [10 M]
+Q-3) (a) Construct Activity diagram with swim lanes for Online shopping [10 Mj
+(b) Explain control specification & process specification [10 M]
+Q-4) (a) Explain design concepts in detail [10 M]
+(b) What is interface design? Describe the elements of interface design [10 M]
+Q-5) (a) Explain design patterns & framework [10 M]
+
+(b) What is software architecture? Why it is important in designing of software? [10 M]
+
+Q-6) (a) Explain different types of architectural styles [10 M]
+
+(b) What are the golden rules of user interface? Explain in brief. [10 M]
+
+4/2.
+--- page 2 ---
+Q-7) (a) Describe user interface analysis in detail [10 M]
+
+(b) What is the difference between top down & bottom up integration [5 M]
+(c) What is the difference between verification & validation? [5 M]
+x ——
+
+2fr
 ````
 
 ## 2014-15 · Re-Exam · Sem 3 · paper 94ef4f6ec1d5
@@ -303,6 +466,77 @@ B. Explain user interface design process 6
 et
 
 a/
+````
+
+## 2014-15 · Re-Exam · Sem 3 · paper 2e1e74d48fb4
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/sstructured system analysis and design batch 2013-2014 Re-exam.pdf`
+- Printed on paper: exam date: 10/06/2015
+- Text: ocr (1 page), mean OCR confidence 89.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (IT) Year:II Semester: III
+
+Academic Year: 2014-15
+
+Batch: 2013-14 Baas ss
+yf
+Subject : Structured System Analysis and Design ; Marks; Wry x"
+\Time ; 2.00pme-5.QGpm
+Date : 10/06/2015 Diarations:3 (hrs) A +
+Re-Examination ING " xe
+
+Pee ewe
+yy UNIVER
+ad
+
+printed on the question paper and on the
+
+Instruction: Candidates should read carefully the instructions
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks,
+
+QI A. Draw class diagram for Hotel Management System.
+
+(10)
+B. Construct sequence diagram for withdrawing money from ATM machine. (10)
+Q2. A. Explain spiral model in detail. (10)
+B. Explain Steps to initialize requirement engineering (10)
+Q3. A. Explain different architectural styles and patterns. (10)
+B. Explain use case diagram for library management system (10)
+Q4. A. How deployment diagrams are useful in modeling a fully distributed system? (10)
+B. Explain RAD model in detail (10)
+QS. A. Explain following terms in detail (20)
+e Inheritance
+e Aggregation
+e Abstraction
+e Association.
+Q6. A. Explain Data flow and control flow with suitable examples. (10)
+B. Draw use case diagram for library management system (10)
+Q7. A. Give software requirement specification for developing software for hospital management system.
+(10)
+B. Explain user interface design process
+
+(10)
+
+x
 ````
 
 ## 2013-14 · Re-Exam · Sem 3 · paper 5b6785ca0b15
@@ -427,238 +661,136 @@ Ye
 10
 ````
 
-## 2013-14 · Re-Exam · Sem 3 · paper b259eeb01fcc
+## 2012-13 · Exam not stated · Trim 5 · paper df44124d19c6
 
 - Departments: Information Technology
 - Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2013-14 Re-exam.pdf`
-- Printed on paper: max marks: 100; exam date: 01/12/2014
-- Text: ocr (2 pages), mean OCR confidence 90.3
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/STRUCTURED SYSTEM ANALYSIS AND DESIGN/structured system analysis and design.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: text (2 pages)
 
 ````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (IT) Year: ll Semester: III
-
-Academic Year: 2014-15 Batch: 2013-14 “a 10Y2 8? », ~
-
-f
-? aan a
-(Mie
-a MPSTME \2
-iN LIBRARY ):
-
-Subject : Structured System Analysis and Design
-Marks: 100
-
-Date : 01/12/2014 Time : 2.00 p
-Durations: 3 (AR My
-a
-
-Re - Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1. Question No. | is compulsory.
-
-2. Out of remaining questions, attempt any four questions.
-
-3. In all 5 (five) questions to be attempted.
-
-4. All questions carry equal marks.
-
-5. Answer to each new question should be started on a fresh page.
-
-Q-1) (a) Draw the use case diagram and class diagram for library management system
-[10 M]
-
-(b) “Software doesn’t wear out’”- Justify the statement [5 M]
-(c) Why waterfall model isn’t appropriate for software development? [5 M]
-Q-2) (a) Describe requirement engineering tasks [10 M]
-(b) Describe spiral model with suitable diagram [10 M]
-Q-3) (a) Construct Activity diagram with swim lanes for Online shopping [10 Mj
-(b) Explain control specification & process specification [10 M]
-Q-4) (a) Explain design concepts in detail [10 M]
-(b) What is interface design? Describe the elements of interface design [10 M]
-Q-5) (a) Explain design patterns & framework [10 M]
-
-(b) What is software architecture? Why it is important in designing of software? [10 M]
-
-Q-6) (a) Explain different types of architectural styles [10 M]
-
-(b) What are the golden rules of user interface? Explain in brief. [10 M]
-
-4/2.
---- page 2 ---
-Q-7) (a) Describe user interface analysis in detail [10 M]
-
-(b) What is the difference between top down & bottom up integration [5 M]
-(c) What is the difference between verification & validation? [5 M]
-x ——
-
-2fr
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper e1c4c1672006
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/Structured System Analysis & Design Batch 2013-14 Re Exam.pdf`
-- Printed on paper: exam date: 01/12/2015
-- Text: ocr (2 pages), mean OCR confidence 93.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:MBA Tech (IT) Year:Il Semester: III
-
-Academic Year: 2015 - 16
-
-Batch:2013-14
-
-Subject : Structured System Analysis & Design
-
-Date :01/12/2015
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. ONE (1)_ is compulsory.
-
-2) Out of remaining questions, attempt any Four(4) questions.
-
-3) In all_Five (5)_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-! 7) Assume Suitable data if necessary.
-
-Sr.No Questions Marks
-1. |a. Draw a class diagram for Hospital Management System. 10
-b. Draw a Use case diagram for E-commerce site for selling 10
-mobile phones in details.
-2. | a. What is software process and explain Umbrella activities 10
-in details.
-10
-
-b. Suggest one Software Model for College Black Board
-portal system and also justify its use in this scenario.
-
-3. | a. Specify the requirements for developing a Project for 10
-online ticket booking for flights. Also specify the stake 10
-
-h js
-eR older
-
-b. Draw the sequence and activity diagram for Hotel
-Management.
-
-aya
---- page 2 ---
-a. Explain the. difference between white box and black box
-testing. :
-
-10
-
-10
-b. Explain different architectural styles and patterns.
-a. what is validation and verification testing. Explain in 10
-detail.
-10
-b. Explain the Water fall Model with proper software world
-example.
-Explain the following terms with diagram. 20
-i. Inheritance.
-ii. Aggregation
-iii. Composition
-iv. Generalization
-a. Explain the Testing strategies in detail . 10
-10
-
-b. Explain User interface design issues and it is evaluation.
-````
-
-## 2013-14 · Re-Exam · Sem 3 · paper 2e1e74d48fb4
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/III SEMESTER/STRUCTURED SYSTEM ANALYSIS AND DESIGN/sstructured system analysis and design batch 2013-2014 Re-exam.pdf`
-- Printed on paper: exam date: 10/06/2015
-- Text: ocr (1 page), mean OCR confidence 89.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (IT) Year:II Semester: III
-
-Academic Year: 2014-15
-
-Batch: 2013-14 Baas ss
-yf
-Subject : Structured System Analysis and Design ; Marks; Wry x"
-\Time ; 2.00pme-5.QGpm
-Date : 10/06/2015 Diarations:3 (hrs) A +
-Re-Examination ING " xe
-
-Pee ewe
-yy UNIVER
-ad
-
-printed on the question paper and on the
-
-Instruction: Candidates should read carefully the instructions
+SVKM's NMIMS
+Mukesh Pate1 School Of Technology Management 8s
+Programme: MBA (Tech) -IT   Year:   I1 Trimester:
+Academic Year : 2012-2013
+Subject:   STRUCTURED SYSTEM ANALYSIS   Marks:   100
+& DESIGN   Time:   2.00 p.m To 5.00 p.m
+ate:   11/02/2013   Duration:   3   hrs.
+Final - Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
 cover of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all 5 (five) questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question should be started on a fiesh page.
+1
+Q. 1.a.) Explain Alpha and Beta testing. Differentiate between Verification and Validation.   [ 1 OM]
+b.) Construct Use Case diagram for "Online Train Reservation System".   [ 1 OM]
+Q.2.a.) What are the golden rules of the user interface? Explain in brief.   [ 1 OM]
+b.) Draw the user interface for the major modules of the MPSTME Student Registration System. [lOM]
+Q.3.a.) Construct Activity Diagram with swim lanes for "Examination System"   [10Ml
+I
+b.) What are the requirement engineering tasks? Explain in brief   [10Ml
+Q.4.a.) What are the phases of the Unified Process? Explain with Diagram.   [ 1 OM]
+b.) Construct Class diagram for an "Examination System" by specifying Attributes and Defining
+Operations.   [ 1 OM1
+Q.5.a.) Describe the waterfall model in detail in software development.
+--- page 2 ---
+,,.*   , A   - , .
+b:) What are ihe various design concepts in the Design Engineering?
+4.6. a.) What are the Transform Mapping and Transaction Mapping?
+b.) What is a Software Architecture? Why is it important? State its significance.
+4.7. Write short notes on (Any Two):
+a.) Software Project Planning and Management
+b.) Component Level and Deployment Level Design Elements
+c.) Class - Responsibility Collaborator (CRC) Modeling
+d.) Architectural Styles and Patterns
+- -. - - --
+````
+
+## 2012-13 · Exam not stated · Trim 2 · paper c26983c127ed
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/STRUCTURES ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS & DESIGN 2012-13.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11/02/2013
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+et\TOTE OF
+SVKM’s NMIMS Rae ve
+Mukesh Patel School Of Technology Management & Engineeri MPSTM ye ‘
+Programme: MCA Year: I Trimester: MII BS IBRARY Jz }
+&
+\
+et
+
+Academic Year : 2012-2013 X JF /
+
+* * f
+Cra De
+Subject: STRUCTURED SYSTEM ANALYSIS Marks: 100 . =.
+
+& DESIGN Time: 10.00am To 01.00pm
+Date: 11/02/2013 Duration: 3 hrs.
+Final - Examination
+
+Instructions: Candidates should read carefully the instruction printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
 
 NB:
 
-1) Question No. 1 is compulsory.
+1. Question No. 1 is Compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. Figures in brackets on the right hand side indicate full marks.
 
-2) Out of remaining questions, attempt any 4 questions.
+1. a) Describe the type of system. What are the characteristics of a system? What are (0)
+the elements of system? Explain in detail.
 
-3) In all 5 questions to be attempted.
+b) What de you mean by SDLC? Describe the different phases of SDLC? (t9)
+2. a) Define the various tools of structured analysis? How is DFD different from flow (te)
+chart?
 
-4) All questions carry equal marks.
+} b) Discuss the concept of MIS and DSS. How they are related and differ? (10)
 
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks,
+3. a)Compare and contrast the modeling of data and behaviors in the traditional versus
+the object-oriented approach. ((0)
 
-QI A. Draw class diagram for Hotel Management System.
+b) Name three modeling techniques that may be used in the definition phase of a
 
-(10)
-B. Construct sequence diagram for withdrawing money from ATM machine. (10)
-Q2. A. Explain spiral model in detail. (10)
-B. Explain Steps to initialize requirement engineering (10)
-Q3. A. Explain different architectural styles and patterns. (10)
-B. Explain use case diagram for library management system (10)
-Q4. A. How deployment diagrams are useful in modeling a fully distributed system? (10)
-B. Explain RAD model in detail (10)
-QS. A. Explain following terms in detail (20)
-e Inheritance
-e Aggregation
-e Abstraction
-e Association.
-Q6. A. Explain Data flow and control flow with suitable examples. (10)
-B. Draw use case diagram for library management system (10)
-Q7. A. Give software requirement specification for developing software for hospital management system.
-(10)
-B. Explain user interface design process
+system. ((0)
+4. a)What are CASE tools used for? What is the purpose of: (ley
 
-(10)
+« | i) Upper-CASE tools
+ii) Lower-CASE tools
 
-x
+b) Write in brief different types of documentation. (to)
+
+\b.
+--- page 2 ---
+5. a)"Testing is vital to the success of the system”, discuss. Draw activity networks for
+system testing and explain the activities contain there in. Differentiate between
+unit testing and program testing. (\9)
+b) What do you mean by HIPO chart? Explain. (10)
+6. a) What is cost and benefit Analysis? Explain the procedure of benefit/cost
+
+determination. (G)
+
+b) Write a short note on “Modular Coupling”. (id
+
+7. Write a short note on C45 = 20’)
+
+i) Testing vs Quality Assurance
+ii) UML
+
+iii) Prototyping
+
+iv) JAD
+
+v) Rapid Application Development (RAD)
 ````
 
 ## 2012-13 · Re-Exam · Trim 5 · paper 582cca906a2b
@@ -736,6 +868,155 @@ d
 ii. Unified Process for Software Development
 iii. Modularity
 iv. Swimlane diagram
+````
+
+## 2012-13 · Re-Exam · Trim 2 · paper 2bc07c85e390
+
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM II/STRUCTURES ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS & DESIGN II MCA 2012-13 RE EXAM.pdf`
+- Printed on paper: exam date: 18/06/2013
+- Text: text (2 pages)
+
+````text
+r
+,-
+SVKM's N-S
+Mukesh Patel.Schoo1 ofTechnolom , , Manaplement ~   .   8s
+Programme: MCA   Year:. I   '   Trimester:
+1   Academic Year :2012-2013
+J   ~ a t c h :   20 12-2013   - ,,   3
+Subject:   Structured System Analysis   Marks:   10D
+& Design   Time:   10.00 a m To 1.00 prn
+Date:   18/06/2013   -   Duration:   3 brs.
+Re Examination
+.( ll 1.11
+Instructions: Candidates , I ,.,mr,,o   should read carehlly the inshuctiolls printed on the question paper and on the
+Cover of the Answer Book, which is provided for ,. their use.
+NB.   1.Attempt any 5 questions.   1
+2. All questions carry equal marks.   : I
+3. Answer to each new question to be started on a fresh page.
+'*,I, 6   4. Figure in brackets indicates fill marks.   I . - ,   .   .
+5. Give examples wherever required.
+Q. 1 (a) Draw cpntext .,   :.   level, . 1" level and 2& level D m Flow Diag~ams for the below case study   [12]
+8
+Gase: Dreams Advertising Agency
+Dreams is an advertising agency in Mumbai. Dreams deals with other cmpaies that it   < 1
+calls clients. A record is kept of each client company and each client company has one
+person who is the main contact person within that campany. His or her name and
+contact details me kept in the client record. Similarly, Dreams nominate a member of
+Staff- a director, an account manager or a member of the creative %am- to be the
+contact for each client.
+:,,
+Clients have adverfisjng campaigns, and a record is kep* of every campaigns. One
+member of Dreams's staff, again either a director or an account manager, manages
+each campaign. Other staff any work on a cam@@ and Dreams operatea a project-
+based management structure, which means that staff may be working on more than one
+project at a time. For each project they work on, they are answerable to the manager of
+that project, who may or may not be their own l i e manager.
+When campaign starts, the manager responsible estimates the likely cost of the
+campaign, and agrees it with the client. A fiish date 4' ay he set for campaign at any
+time and may be changd. When the campaign is comp eted, an actual completion date
+and the actual cost are recorded. When the client pays,'the payment date is recorded.
+Each campaign inctudes one or more adverts. Adverts can be one of the several types
+NewspaperMagazine advert- including written copy, graphics and photographs.
+adveit- using video, library film, actors, voice-over, music, etc.
+Radio advert- using audio, actors, voice-over, music etc.
+Poster adverts- using graphics, photographs, actoB
+Purchasing assistants are responsible for buying space in newspapers and magazines,
+TV or radio air-time, space on advertising hoardings. The actual cost of a campaign is
+calculated form a range of informaaion including cost of staff time, cost of actors, cost
+of copyright materials, cost of space, air time, advertising hoardings* Dreams" margin
+on services and products bought in.
+Q. 1 (b) Design Entity Relationship (EB) diagram for the case study given in question l(a).   to81
+--- page 2 ---
+Q. 2 (a) ExpIiiin Incremental model. Disouss its advantages and disadvantages and compare it   [lo]
+with waterfall model.
+Q. 2 (b) As a system Analyst explain various ways of requirement gathering for developing any   [lo]
+software.
+Q. 3 (a) Design Decision Table and Decision Tree for the following   1101
+A computer supplies firm called True   has set up accounts for countless businesses
+in Mumbai. True Disk sends out invoices monthly and wi11give discounts if payments
+are made within 10 days. The discounting policy is as follows: If the amount of the
+order for computer supplies is greater than Rs, 10,000, subtract 4% for the order; if the
+amount is between Rs.5,000 and Rs.10,000, subtract a 2 %; if the amount is less than
+Rs. 5,000, do not apply any discount. All orders made via the Web automatically
+receive an extra 5% discount.
+Q. 3 (b) Explain the need of Feasibility study and cost estimation during System Development   [lo]
+Lie Cycle.
+Q. 4 (a) Explain Structure Chart and Data structm by giving example for the case study given   [lo]
+in question 1 (a)
+Q. 4 (b) Explain the need of normalization. With example explain normalization process.   P O I
+Q.5 (a) Write a note on Design of Input and Output.   [lo]
+Q. 5 (b) Write a note on CASE tools and its Components. Explain benefits of using tools in   [lo]
+system development.
+Q. 6 (a) Explain the need of system Testing. Explain its types and test procedure.   [lo]
+Q. 6 (b) Explain the need of Dooumentation in Software Development. Explain different types   [lo]
+of documents.
+````
+
+## 2011-12 · Exam not stated · Trim 5 · paper af68450ccae3
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/STRUCTURED SYSTEM ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2010-2011.pdf`
+- Printed on paper: exam date: 07/02/2012
+- Text: ocr (1 page), mean OCR confidence 88.6
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA. Tech -IT Year: I Trimester: V
+Academic Year : 2011-2012
+
+envel SCHog)
+Subject: STRUCTURED SYSTEM ANALYSIS & Markg ey a. 100-~
+DESIGN Timg/ S   2<0Rya™ N QO Pm
+Duy > NMG opi bl
+Date: 07/02/2012 Ute Geumet Rworsity
+Final - Examination LIBRARY
+
+and on the Answer Book, which is provided for their use.
+
+NB:
+1... Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any 4 questions.
+3. In all 5(five) questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+
+1. A) What are the phases of the Unified Process? Explain with Diagram. 10
+B) Compare major software process models. 10
+
+2. A) What are the golden rules of the User Interface? Explain in brief. 10
+B) Draw the User Interface for the major modules of the MPSTME Student Registration
+System. 10
+
+3. ) What are the various types of the Testing? Explain in brief. 10
+B) Compare 10
+
+i) Alpha and Beta Testing
+ii) Verification and Validation
+
+4. A) What are the requirement engineering tasks? Explain in brief. 10
+B) Draw Use Case Diagram for MPSTME Student Registration System. 10
+5. A) Drew Class Diagram for MPSTME Student Registration System by Specifying Attributes
+and Iptining Operations. 10
+B) What are the various design concepts in the Design Engineering? 10
+6. A) What are the Transform Mapping and Transaction Mapping? 10
+
+B) Draw Activity Diagram with swim-lanes for MPSTME Student Registration System. 10
+
+7. Write short notes on (Any Two) 20
+A) Software Project Planning and Management
+B) Component Level and Deployment Level Design Elements
+C) Class — Responsibility Collaborator (CRC) Modeling
+D) Architectural Styles and Patterns
+Vi
+|
+
+—————
 ````
 
 ## 2011-12 · Exam not stated · Trim 5 · paper e7a247d2cf9d
@@ -1260,68 +1541,52 @@ Q.7 Write short notes on: (Any 2) [20]
 (iii) System testing (iv) Prototyping Model
 ````
 
-## 2010-11 · Exam not stated · Trim 5 · paper af68450ccae3
+## 2010-11 · Exam not stated · Trim 3 · paper ea329d563bd7
 
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/STRUCTURED SYSTEM ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN BATCH 2010-2011.pdf`
-- Printed on paper: exam date: 07/02/2012
-- Text: ocr (1 page), mean OCR confidence 88.6
+- Departments: Computer Applications (MCA)
+- Programmes: MCA
+- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STRUCTURES SYSTEMS ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN.pdf`
+- Text: text (1 page)
 
 ````text
-SVKM’s NMIMS
-Mukesh Patel School Of Technology Management & Engineering
-
-Programme: MBA. Tech -IT Year: I Trimester: V
-Academic Year : 2011-2012
-
-envel SCHog)
-Subject: STRUCTURED SYSTEM ANALYSIS & Markg ey a. 100-~
-DESIGN Timg/ S   2<0Rya™ N QO Pm
-Duy > NMG opi bl
-Date: 07/02/2012 Ute Geumet Rworsity
-Final - Examination LIBRARY
-
-and on the Answer Book, which is provided for their use.
-
+SVKM's NMIMS
+Mukesh Patel School of Technolo Mana ement & E
+Programme: MCA   Year:   I   Trimester:
+Academic Year: 2010-2011
+Marks:
+Time:
+Duration:
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
 NB:
-1... Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any 4 questions.
-3. In all 5(five) questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-
-1. A) What are the phases of the Unified Process? Explain with Diagram. 10
-B) Compare major software process models. 10
-
-2. A) What are the golden rules of the User Interface? Explain in brief. 10
-B) Draw the User Interface for the major modules of the MPSTME Student Registration
-System. 10
-
-3. ) What are the various types of the Testing? Explain in brief. 10
-B) Compare 10
-
-i) Alpha and Beta Testing
-ii) Verification and Validation
-
-4. A) What are the requirement engineering tasks? Explain in brief. 10
-B) Draw Use Case Diagram for MPSTME Student Registration System. 10
-5. A) Drew Class Diagram for MPSTME Student Registration System by Specifying Attributes
-and Iptining Operations. 10
-B) What are the various design concepts in the Design Engineering? 10
-6. A) What are the Transform Mapping and Transaction Mapping? 10
-
-B) Draw Activity Diagram with swim-lanes for MPSTME Student Registration System. 10
-
-7. Write short notes on (Any Two) 20
-A) Software Project Planning and Management
-B) Component Level and Deployment Level Design Elements
-C) Class — Responsibility Collaborator (CRC) Modeling
-D) Architectural Styles and Patterns
-Vi
-|
-
-—————
+1.   Question No.1 is compulsory.
+2.   Out of remaining questions attempt any 4 questions.
+3.   In all 5 questions to be attempted.
+4.   All question carry equal marks.
+5.   Answer to each new question to be started on a fresh page.
+6.   Figure in brackets indicates full marks.
+Q.l   a.   Discuss the role of a good system analyst in SDLC.   [10]
+b.   What are formal method models? What are the advantages and
+disadvantages of formal methods over other models   [10]
+Q.2   a.   Discuss in detail Spiral model with its advantages and disadvantages   [10]
+over RAD (Rapid Application Development) model.
+b.   Design a DFD for library management system(O,1 and 2 level)   [10]
+Q.3   a.   What is Feasibility study in SSAD? Explain the technical feasibility.   [10]
+b.   List down the objectives of structure charts. Design the structure
+chart for payroll system   [10]
+QA   a.   What is Warnier Orr Diagrams? Explain the Wamier Orr Diagram
+with software structure design.   [10]
+b.   Explain in brief Quality assurance. List and explain factors for   [10]
+quality.
+Q.5   a.   Discuss the major phases in hardware/software selection   [10]
+b.   Which are the financial considerations in buying the computer   [10]
+equipments?
+Q6.   a.   Why system documentation is important. Which are the different   [10]
+forms of system documentation? Explain.
+b   Explain system security, disaster planning and management in brief.
+Q7.   I.HIPO Chart design   2.system Testing
+3. Use of CASE tools   4. Iterative Model   [20]
+I'y,
 ````
 
 ## 2009-10 · Exam not stated · Trim 3 · paper e7f3e222524c
@@ -1563,102 +1828,4 @@ Q. 5 Answer the following. (Any 2) [20]
 Good Luck.
 
 -l-
-````
-
-## Year not stated · Exam not stated · Trim 5 · paper df44124d19c6
-
-- Departments: Information Technology
-- Programmes: MBA TECH / I T
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/STRUCTURED SYSTEM ANALYSIS AND DESIGN/structured system analysis and design.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: text (2 pages)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School Of Technology Management 8s
-Programme: MBA (Tech) -IT   Year:   I1 Trimester:
-Academic Year : 2012-2013
-Subject:   STRUCTURED SYSTEM ANALYSIS   Marks:   100
-& DESIGN   Time:   2.00 p.m To 5.00 p.m
-ate:   11/02/2013   Duration:   3   hrs.
-Final - Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. In all 5 (five) questions to be attempted.
-4. All questions carry equal marks.
-5. Answer to each new question should be started on a fiesh page.
-1
-Q. 1.a.) Explain Alpha and Beta testing. Differentiate between Verification and Validation.   [ 1 OM]
-b.) Construct Use Case diagram for "Online Train Reservation System".   [ 1 OM]
-Q.2.a.) What are the golden rules of the user interface? Explain in brief.   [ 1 OM]
-b.) Draw the user interface for the major modules of the MPSTME Student Registration System. [lOM]
-Q.3.a.) Construct Activity Diagram with swim lanes for "Examination System"   [10Ml
-I
-b.) What are the requirement engineering tasks? Explain in brief   [10Ml
-Q.4.a.) What are the phases of the Unified Process? Explain with Diagram.   [ 1 OM]
-b.) Construct Class diagram for an "Examination System" by specifying Attributes and Defining
-Operations.   [ 1 OM1
-Q.5.a.) Describe the waterfall model in detail in software development.
---- page 2 ---
-,,.*   , A   - , .
-b:) What are ihe various design concepts in the Design Engineering?
-4.6. a.) What are the Transform Mapping and Transaction Mapping?
-b.) What is a Software Architecture? Why is it important? State its significance.
-4.7. Write short notes on (Any Two):
-a.) Software Project Planning and Management
-b.) Component Level and Deployment Level Design Elements
-c.) Class - Responsibility Collaborator (CRC) Modeling
-d.) Architectural Styles and Patterns
-- -. - - --
-````
-
-## Year not stated · Exam not stated · Trim 3 · paper ea329d563bd7
-
-- Departments: Computer Applications (MCA)
-- Programmes: MCA
-- Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STRUCTURES SYSTEMS ANALYSIS AND DESIGN/STRUCTURED SYSTEM ANALYSIS AND DESIGN.pdf`
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Patel School of Technolo Mana ement & E
-Programme: MCA   Year:   I   Trimester:
-Academic Year: 2010-2011
-Marks:
-Time:
-Duration:
-Instructions: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-NB:
-1.   Question No.1 is compulsory.
-2.   Out of remaining questions attempt any 4 questions.
-3.   In all 5 questions to be attempted.
-4.   All question carry equal marks.
-5.   Answer to each new question to be started on a fresh page.
-6.   Figure in brackets indicates full marks.
-Q.l   a.   Discuss the role of a good system analyst in SDLC.   [10]
-b.   What are formal method models? What are the advantages and
-disadvantages of formal methods over other models   [10]
-Q.2   a.   Discuss in detail Spiral model with its advantages and disadvantages   [10]
-over RAD (Rapid Application Development) model.
-b.   Design a DFD for library management system(O,1 and 2 level)   [10]
-Q.3   a.   What is Feasibility study in SSAD? Explain the technical feasibility.   [10]
-b.   List down the objectives of structure charts. Design the structure
-chart for payroll system   [10]
-QA   a.   What is Warnier Orr Diagrams? Explain the Wamier Orr Diagram
-with software structure design.   [10]
-b.   Explain in brief Quality assurance. List and explain factors for   [10]
-quality.
-Q.5   a.   Discuss the major phases in hardware/software selection   [10]
-b.   Which are the financial considerations in buying the computer   [10]
-equipments?
-Q6.   a.   Why system documentation is important. Which are the different   [10]
-forms of system documentation? Explain.
-b   Explain system security, disaster planning and management in brief.
-Q7.   I.HIPO Chart design   2.system Testing
-3. Use of CASE tools   4. Iterative Model   [20]
-I'y,
 ````

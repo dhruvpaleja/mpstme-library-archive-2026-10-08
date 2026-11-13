@@ -16,10 +16,10 @@ Also filed as: `service operation Management`, `SERVICE OPERATIONS MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Services Operations Management(703TO0E002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Services Operations Management(703TO0E002)_2025-2026.pdf |
-| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Services Operations Management(703TO0E002)_2024-2025.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Services Operations Management(703TO0E002)_2025-2026.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 9 | MBATech Computer 7047 | QP_Services Operations Management(703TO0E002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 9 | MBATech Computer 7047 | ANS_Services Operations Management(703TO0E002)_2024-2025.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 9 | MBA TECH | Services Operations management Final 18-19.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 9 | MBA TECH | Services Operations Management 2017-18 Final.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 9 | MBA TECH | Services Operations Management Batch 2016-17 Final.pdf |

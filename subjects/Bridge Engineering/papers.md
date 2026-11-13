@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Bridge Engineering/QP_Bridge Engineering(702CI0E004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (6 pages), mean OCR confidence 81.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -127,7 +128,6 @@ CLASS 70R (TRACK) - LONGITUDINAL POSITION
 TRINA
 
 oo 22 de 6O8 (G8 4 18 44 1848 o 20 go Bay 26 28 3.
-0.06 —asaetuuuituituubutuabuatialstwilvitialetiol wtb lsssatees alesse 1. :
 = Hut 9.06
 E 0053 —— 0.05
 x 3 a IN d
@@ -145,7 +145,6 @@ g i E
 S 0.01 Eo.01
 3 ies
 4 P| E
-8.00. Prreeree ere prereset rere gerepeepererereer eee reeerefereerefee ee eee mmm — 0.00
 
 0.0 0.2 04 06 08 1.0 1.2 1.4 1.6 18 2.0 22 24 26 28 3.0
 VALUES OF KOR +
@@ -176,7 +175,6 @@ S 751 ‘Y +—— rP—~ 4
 . Ss f _— +—_] t+] r—~}
 3 E — | a q
 oh ae 04 === 0.1
-0.0 5 5 7 r mF 0.0 0.0 frereeferermefren ena Teepe AMTAN TATA 0.0
 00 01 02 03 04 05 06 07 08 09 10 00 01 02 03 04 05 06 07 08 09 1.0
 VALUES oF # VALUES OF =
 
@@ -899,6 +897,7 @@ Moment coefficients m, and m, for K=0.6
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_07/BRIDGE ENGINEERING/Bridge Engineering, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 November 2022
 - Text: ocr (8 pages), mean OCR confidence 70.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 " SVKM’s NMIMS _ fi
@@ -1120,7 +1119,6 @@ Vaiues of “We : Values of “pg
 talCoefliceent m, © 100 {bbCeetficient my «x 100
 Moment coefficients #1; and mm, for K=0.6
 
-a 0-2 Og Ob ga +0 . G O-2 4 0.6 08
 Values ot Ys Values of Vp
 
 (al Cuetlicient -m, * 100 {bl Caefficrent ms, x 100
@@ -1181,7 +1179,6 @@ of . —
 0 DE 0-8 12 wv ORD
 
 |
-’. a n ya rl zi
 
 WVatues of K of My
 Motnent coefficients for slabs completely loaded with unifermly distributed

@@ -1,8 +1,205 @@
 # Cyber Security and Ethical Hacking: question papers in full
 
-6 unique papers · 2021-22 to 2022-23 · Computer Engineering
+6 unique papers · 2021-22 to 2023-24 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2023-24 · Exam not stated · Sem 8 · paper 0b13e4f26191
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 84.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG!
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: MBA Tech . Year: IV Semester: VIII
+Stream/s ;Computer Engineering
+
+Subject: Cyber Security and Ethical Hacking Time: 03 hrs @Oam to Lp _)
+Date:_2& /Aps/ 2024 No. of Pages:02
+
+Marks: 100
+
+Re-Examination ( 2021-22)
+
+insiruciions: Candidates should read carefaliy the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks. .
+
+5) Answer to cach new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: [20]
+€03;S0-1; | 3. : : : : [05]
+BL-02 Explain the different types of Intrusion Detection Systems (IDS).
+C02;804; |p, _. ; ; [05]
+BL-03 Distinguish between stream ciphers and block ciphers.
+CO-1;80-1; | . , 05
+BL-03 : Compare and contrast Passive Attacks and Active Attacks. [05]
+COASO4S | id ‘ . we . ’ 05
+BL-02 ‘ Describe any two tools used for Information Gathering in Ethical Hacking. [05]
+2 a. Explain how 64-bit plaintext is converted by Data Encryption Standard [10]
+CO-2; $O-4; (DES)
+BL-02
+CO-3;80-1; | b, Describe in detail the different types of firewalls used to strengthen [10]
+BLO network security.
+Q3 a. . . a , .
+Ga-nso4 Describe the design principles used in computer security. [10]
+BLO
+
+Page 1 of 2
+--- page 2 ---
+i
+
+co.2:s0-4, | b- Describe in detail challenge response mechanism with different types and
+
+[10]
+BE02 components.
+Q4 a Explain how RSA work, from generating public and private keys to
+CO-2; $O-4; converting plaintext to cipher text. Briefly explain what makes RSA [10]
+BL-03 difficult to break.
+ere b. Compare and Contrast attacker’s process and ethical hacker’s process. [10]
+G as Describe different types of viruses. Explain the attack mechanism of [10]
+CO-3; SO-1; Viruses.
+BL-02
+Co-4;$0-4; | b. Define foot printing. Describe the steps involved in foot printing and [10]
+BL-02 Scanning.
+Q6 a. oo :
+Explain with the help of diagram, Kerberos protocol. [10]
+CO-2; SO-4;
+BL-02
+a b. Distinguish between hacker and cracker. [05]
+Con SOs c. Illustrate the steps followed by an ethical hacker for system enumeration. [05]
+m7 = Compare and contrast Discretionary access control and Mandatory Access | [40]
+CO-2; SO-4; Control.
+BL-03
+rane b. Explain the different steps of hacking a web application. [10]
+
+Page 2 of 2
+````
+
+## 2022-23 · Exam not stated · Sem 8 · paper 5990de2b6069
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking_5990de2b60.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING _
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream ;Computer Engineering Year: [V Semester: VIII
+Subject: Cyber Security and Ethical Hacking Time: 3 hrs (40:00amto 4:00 pm)
+Date:_02/05/2028 . No. of Pages:02
+
+Marks: 100
+
+Re-Examination (Batch 2021-2022)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: [20]
+£85. a. Define attack and controls. Distinguish between passive attacks and active [5]
+1:BL-03 attacks.
+
+ea. b. Describe briefly the role of VPN in securing the network. [5]
+L:BL-02
+
+$5. Gs Explain briefly any five types of malicious code. [5]
+L:BL-02
+
+so. Show with a diagram how the round key is generated in DES. [5]
+2:BL-03
+
+Q2. (20]
+sea a. Distinguish between monoalphabetic cipher and polyalphabetic cipher with [10]
+2:BL-03 the help of examples.
+
+on b Explain in detail the different types of web server vulnerabilities. [10]
+L:BL-02
+
+Q3 [20]
+oo a. Identify the key properties of digital signatures. Illustrate the DSS method [10]
+2:BL-03 of creating digital signatures.
+
+Page 1 of 2
+--- page 2 ---
+80. b. Define finger printing. Describe in detail the objectives of finger printing. [10]
+4:BL-02
+
+O4 [20]
+on a. Explain with diagram how SSL protects web traffic. Describe the role of all [10]
+1:BL-02 sub-protocols of SSL.
+eo. b. Describe the three different types of access control models. Draw an access [10]
+2:BL-03 control matrix for a system with three users A, B and C. There are 3
+
+resources X, Y and Z. A has read, write access on X, and Z and no access
+
+on Y. B has read access on X, Y and Z. C has read, write, and execute access
+
+on X, read, write on Y and execute access on Z.
+Q5 [20]
+So a. Two users A and B decide to use RSA cryptosystem for their secure [19]
+2:BL-04 communication. Briefly describe how they can encrypt plain text to cipher
+
+text. Consider values p=13and q =11 for user A, Calculate the value of @(n).
+
+For public key value of e=7, calculate the private key of A. Calculate the
+
+cipher text if the user B has to send a message 11 confidentially to user A.
+
+Show the decryption.
+580. b. Describe the different types of viruses. What are the 4 ways on which we [10]
+L:BL-02 can classify viruses?
+Q6 [20]
+CO a. An organization hired a penetration tester to pen test their organization. [10]
+3;S0- : . : F
+L:BL-03 Illustrate in detail the phases in which the pen tester performs the steps.
+£05. b. Compare and Contrast Bell-La-Padula model and Biba model. [10]
+L:BL-03
+Q7 [20]
+$80. a. Describe in detail the methodology used by ethical hacker to secure an [10]
+L:BL-02 organization.
+Peo. b Explain password-based authentication technique. What are the attacks on [10]
+2:BL-02 password-based authentication? j
+
+Page 2 of 2
+````
 
 ## 2022-23 · Re-Exam · Sem 8 · paper 71d662539617
 
@@ -95,6 +292,95 @@ BL2
 on b. | Explain the working of Single-round DES algorithm with the help of neat rie
 
 BL2 diagram.
+````
+
+## 2022-23 · Re-Exam · Sem 8 · paper 15419afc73cd
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / COMPUTER
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking (Re-exam Batch 2021-22).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech Stream ;Computer Engineering Year: 1V Semester: VIII
+Subject: Cyber Security and Ethical Hacking Time: 3 hrs (40:00amto 1:00pm)
+Date:_03 /07 /2023 . No. of Pages:02
+
+Marks: 100
+
+Re-Examination (Batch 2021-2022)
+
+instructions»Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: [20]
+oo. | Describe briefly the types of social engineering attacks. [5]
+LBL-02
+ae b. Compare and contrast different types of Intrusion detection systems. [5]
+L:BL-03
+nn Explain challenge-response mechanism for authentication. [5]
+2;BL-02
+om d. Distinguish between stream cipher and block cipher. [5]
+2:BL-03
+Q2 30]
+
+L4¥]
+$8. a. Explain in detail the different types of scanning that can be undertaken on [10]
+4:BL-02 target systems. Briefly describe any two scanning tools.
+eo. | > Define vulnerability, threat, attack and control. Suggest any three controls [10]
+01:BL-01 to prevent passive attacks and active attacks.
+Q3 [20]
+son fa Explain Diffie-Hellman protocol for key exchange. Given g=7, p=23, x=3 [10]
+2:BL-04 and y=5, calculate the value of symmetric key generated using Diffie-
+
+Hellman.
+son, Describe non-malicious program errors. [10]
+L:BL-02
+Page 1 of 2
+--- page 2 ---
+Q aD! [20]
+
+585. a. Illustrate with the help of a diagram how Kerberos can be used for [10]
+2:BL-03 distributed authentication.
+a b. Explain in detail the steps of DES algorithm with the help of diagram. [10]
+2:BL-02
+Q5 (20]
+feo. a. Explain in detail the design principles used in designing secure systems. [10]
+1:BL-02
+500. b. Distinguish between Role based Access Control, Mandatory Access Control [10]
+2:BL-03_| » and Discretionary Access Control.
+Q6 [20]
+$05. a ABC is a grey hat hacker and decides to perform hacking on xyz.com [10]
+1:BL-03 organization. Detail the steps the hacker have to undertake to hack xyz.com.
+40. b Define foot printing. Describe any 3 ways of foot printing a target. [10]
+4;BL-02
+Q7 [20]
+seo. a. An organization decides to implement firewalls to prevent external attacks. [10]
+1;BL-03 What are the different types of firewalls that the organization can consider
+
+for preventing external attacks.
+ao b Explain in detail any three types of attacks on web server. [10]
+L:BL-02
+
+Page 2 of 2
 ````
 
 ## 2021-22 · Final-Exam · Sem 8 · paper 3287c317db8a
@@ -322,290 +608,4 @@ Pei S05 ii. If Ahas a public key = ‘9’, what is A’s private key? [10]
 iii. If B has a public key =’3’, what is B’s private key?
 
 iv. Calculate the shared secret key.
-````
-
-## 2021-22 · Re-Exam · Sem 8 · paper 15419afc73cd
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking (Re-exam Batch 2021-22).pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 87.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream ;Computer Engineering Year: 1V Semester: VIII
-Subject: Cyber Security and Ethical Hacking Time: 3 hrs (40:00amto 1:00pm)
-Date:_03 /07 /2023 . No. of Pages:02
-
-Marks: 100
-
-Re-Examination (Batch 2021-2022)
-
-instructions»Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer briefly: [20]
-oo. | Describe briefly the types of social engineering attacks. [5]
-LBL-02
-ae b. Compare and contrast different types of Intrusion detection systems. [5]
-L:BL-03
-nn Explain challenge-response mechanism for authentication. [5]
-2;BL-02
-om d. Distinguish between stream cipher and block cipher. [5]
-2:BL-03
-Q2 30]
-
-L4¥]
-$8. a. Explain in detail the different types of scanning that can be undertaken on [10]
-4:BL-02 target systems. Briefly describe any two scanning tools.
-eo. | > Define vulnerability, threat, attack and control. Suggest any three controls [10]
-01:BL-01 to prevent passive attacks and active attacks.
-Q3 [20]
-son fa Explain Diffie-Hellman protocol for key exchange. Given g=7, p=23, x=3 [10]
-2:BL-04 and y=5, calculate the value of symmetric key generated using Diffie-
-
-Hellman.
-son, Describe non-malicious program errors. [10]
-L:BL-02
-Page 1 of 2
---- page 2 ---
-Q aD! [20]
-
-585. a. Illustrate with the help of a diagram how Kerberos can be used for [10]
-2:BL-03 distributed authentication.
-a b. Explain in detail the steps of DES algorithm with the help of diagram. [10]
-2:BL-02
-Q5 (20]
-feo. a. Explain in detail the design principles used in designing secure systems. [10]
-1:BL-02
-500. b. Distinguish between Role based Access Control, Mandatory Access Control [10]
-2:BL-03_| » and Discretionary Access Control.
-Q6 [20]
-$05. a ABC is a grey hat hacker and decides to perform hacking on xyz.com [10]
-1:BL-03 organization. Detail the steps the hacker have to undertake to hack xyz.com.
-40. b Define foot printing. Describe any 3 ways of foot printing a target. [10]
-4;BL-02
-Q7 [20]
-seo. a. An organization decides to implement firewalls to prevent external attacks. [10]
-1;BL-03 What are the different types of firewalls that the organization can consider
-
-for preventing external attacks.
-ao b Explain in detail any three types of attacks on web server. [10]
-L:BL-02
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 0b13e4f26191
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 84.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG!
-SCHOOL OF TECHNOLOGY MANAGEMENT
-
-Academic Year: 2023-2024
-
-Program/s: MBA Tech . Year: IV Semester: VIII
-Stream/s ;Computer Engineering
-
-Subject: Cyber Security and Ethical Hacking Time: 03 hrs @Oam to Lp _)
-Date:_2& /Aps/ 2024 No. of Pages:02
-
-Marks: 100
-
-Re-Examination ( 2021-22)
-
-insiruciions: Candidates should read carefaliy the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks. .
-
-5) Answer to cach new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql
-
-Answer briefly: [20]
-€03;S0-1; | 3. : : : : [05]
-BL-02 Explain the different types of Intrusion Detection Systems (IDS).
-C02;804; |p, _. ; ; [05]
-BL-03 Distinguish between stream ciphers and block ciphers.
-CO-1;80-1; | . , 05
-BL-03 : Compare and contrast Passive Attacks and Active Attacks. [05]
-COASO4S | id ‘ . we . ’ 05
-BL-02 ‘ Describe any two tools used for Information Gathering in Ethical Hacking. [05]
-2 a. Explain how 64-bit plaintext is converted by Data Encryption Standard [10]
-CO-2; $O-4; (DES)
-BL-02
-CO-3;80-1; | b, Describe in detail the different types of firewalls used to strengthen [10]
-BLO network security.
-Q3 a. . . a , .
-Ga-nso4 Describe the design principles used in computer security. [10]
-BLO
-
-Page 1 of 2
---- page 2 ---
-i
-
-co.2:s0-4, | b- Describe in detail challenge response mechanism with different types and
-
-[10]
-BE02 components.
-Q4 a Explain how RSA work, from generating public and private keys to
-CO-2; $O-4; converting plaintext to cipher text. Briefly explain what makes RSA [10]
-BL-03 difficult to break.
-ere b. Compare and Contrast attacker’s process and ethical hacker’s process. [10]
-G as Describe different types of viruses. Explain the attack mechanism of [10]
-CO-3; SO-1; Viruses.
-BL-02
-Co-4;$0-4; | b. Define foot printing. Describe the steps involved in foot printing and [10]
-BL-02 Scanning.
-Q6 a. oo :
-Explain with the help of diagram, Kerberos protocol. [10]
-CO-2; SO-4;
-BL-02
-a b. Distinguish between hacker and cracker. [05]
-Con SOs c. Illustrate the steps followed by an ethical hacker for system enumeration. [05]
-m7 = Compare and contrast Discretionary access control and Mandatory Access | [40]
-CO-2; SO-4; Control.
-BL-03
-rane b. Explain the different steps of hacking a web application. [10]
-
-Page 2 of 2
-````
-
-## Year not stated · Exam not stated · Sem 8 · paper 5990de2b6069
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / COMPUTER
-- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMPUTER/VIII SEMESTER/CYBER SECURITY AND ETHICAL HACKING/Cyber Security and Ethical Hacking_5990de2b60.pdf`
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (2 pages), mean OCR confidence 89.4
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING _
-Academic Year: 2022-2023
-
-Program: MBA Tech Stream ;Computer Engineering Year: [V Semester: VIII
-Subject: Cyber Security and Ethical Hacking Time: 3 hrs (40:00amto 4:00 pm)
-Date:_02/05/2028 . No. of Pages:02
-
-Marks: 100
-
-Re-Examination (Batch 2021-2022)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer briefly: [20]
-£85. a. Define attack and controls. Distinguish between passive attacks and active [5]
-1:BL-03 attacks.
-
-ea. b. Describe briefly the role of VPN in securing the network. [5]
-L:BL-02
-
-$5. Gs Explain briefly any five types of malicious code. [5]
-L:BL-02
-
-so. Show with a diagram how the round key is generated in DES. [5]
-2:BL-03
-
-Q2. (20]
-sea a. Distinguish between monoalphabetic cipher and polyalphabetic cipher with [10]
-2:BL-03 the help of examples.
-
-on b Explain in detail the different types of web server vulnerabilities. [10]
-L:BL-02
-
-Q3 [20]
-oo a. Identify the key properties of digital signatures. Illustrate the DSS method [10]
-2:BL-03 of creating digital signatures.
-
-Page 1 of 2
---- page 2 ---
-80. b. Define finger printing. Describe in detail the objectives of finger printing. [10]
-4:BL-02
-
-O4 [20]
-on a. Explain with diagram how SSL protects web traffic. Describe the role of all [10]
-1:BL-02 sub-protocols of SSL.
-eo. b. Describe the three different types of access control models. Draw an access [10]
-2:BL-03 control matrix for a system with three users A, B and C. There are 3
-
-resources X, Y and Z. A has read, write access on X, and Z and no access
-
-on Y. B has read access on X, Y and Z. C has read, write, and execute access
-
-on X, read, write on Y and execute access on Z.
-Q5 [20]
-So a. Two users A and B decide to use RSA cryptosystem for their secure [19]
-2:BL-04 communication. Briefly describe how they can encrypt plain text to cipher
-
-text. Consider values p=13and q =11 for user A, Calculate the value of @(n).
-
-For public key value of e=7, calculate the private key of A. Calculate the
-
-cipher text if the user B has to send a message 11 confidentially to user A.
-
-Show the decryption.
-580. b. Describe the different types of viruses. What are the 4 ways on which we [10]
-L:BL-02 can classify viruses?
-Q6 [20]
-CO a. An organization hired a penetration tester to pen test their organization. [10]
-3;S0- : . : F
-L:BL-03 Illustrate in detail the phases in which the pen tester performs the steps.
-£05. b. Compare and Contrast Bell-La-Padula model and Biba model. [10]
-L:BL-03
-Q7 [20]
-$80. a. Describe in detail the methodology used by ethical hacker to secure an [10]
-L:BL-02 organization.
-Peo. b Explain password-based authentication technique. What are the attacks on [10]
-2:BL-02 password-based authentication? j
-
-Page 2 of 2
 ````

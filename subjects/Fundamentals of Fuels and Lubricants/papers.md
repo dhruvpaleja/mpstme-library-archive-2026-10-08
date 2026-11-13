@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Common For All Stream/SEM VI/Fundamentals of Fuels and Lubricants/Fundamentals of Fuels and Lubricants,Sem6,Final,2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 88.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 /
@@ -53,7 +54,6 @@ CO-1;SO0-1; | a) | Describe saponification value of an oil and its significance 
 BL-Low
 CO-2;S0-2; |b) | Discuss knocking in IC Engine. 4
 BL-Low
-CO-3;S0-6; |) | Showa lications of grease in industry. 4
 BL-Medium : PP a y
 d) Calculate the gross and Net calorific value of the coal contains, C= | 4
 CO-1;SO-1; 85%, H = 5%, O = 4%, S = 4%, N = 1.5% and remaining ash.

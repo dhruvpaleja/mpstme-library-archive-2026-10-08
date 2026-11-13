@@ -4,6 +4,97 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Final-Exam · Sem 5 · paper c369209273a6
+
+- Departments: Information Technology
+- Programmes: BTech IT 7001, Integrated IT 7037
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_IT_7001/Advanced Data Structures/QP_Advanced Data Structures(702IT0E009)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (IT)/B. Tech (IT)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Advanced Data Structures
+Date: 01 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Instruction....Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+BL1; CO3   a. Define splaying and state its need in a splay tree.   [5]
+BL2; CO1   b. Describe how a Huffman Tree helps in data compression.   [5]
+c. Describe how the greedy approach is applied in solving the Activity
+BL2; CO1   [5]
+Selection Problem.
+BL1; CO1   d. State the objective and constraint of the 0–1 Knapsack Problem.   [5]
+Q2   a Demonstrate quadratic probing to handle a collision in hashing with
+[10]
+BL3 ; CO2   appropriate example
+b For the graph shown below, use the shortest path algorithm and find the
+nodes reachable from “E” with shortest distance.
+BL4; CO1   [10]
+a   Create an AVL Tree by performing the following operations and indicate
+all the steps.
+Q3
+Insert: 30, 50, 40, 35, 45, 20
+BL4; CO3   [10]
+Delete: 35
+Insert: 48, 47
+Delete: 40
+b Apply Dynamic Programming to a problem and analyze how it reduces
+BL3; CO1   [10]
+redundant computations compared to Divide and Conquer.
+********** 1 **********
+--- page 2 ---
+a   In the string “PQRSTUVSTUQR”, search for the presence of the
+Q4
+substring “STUVST” and find its index using Boyer Moore Horspool   [10]
+BL3; CO4
+Algorithm.
+b Describe using an example why a self-balanced tree is more efficient
+BL2; CO3   [10]
+for search and insertion than a BST.
+Q5   a   Illustrate the working of the Brute Force Pattern Matching algorithm
+[10]
+BL3; CO4   with an example and discuss when it is efficient or inefficient.
+b What are some instances of graph data structures being used in
+BL1; CO3   [10]
+different industries?
+a Simulate topological sort technique on the following graph using BFS.
+P → Q & R (Indicating, Node P connected with node Q and R)
+Q6
+Q → S & T
+BL3; CO1   [10]
+R → S & T
+S → U
+T → U
+b A hash table of size 11 uses double hashing. The first hash function is
+h1(k)=k mod 11, and the second hash function is h2(k)=2+(k mod 7).
+BL4; CO2   [10]
+Insert the following keys into the hash table: 20, 50, 53, 75, 100. Show
+the hash table after all insertions.
+Short Notes on:
+Q7
+a. Minimum Spanning trees
+BL1; CO1,   [5*4
+b. Desirable properties of hash function
+CO2, CO4,   =20]
+c. Suffix Tries
+CO1
+d. Dictionary as a data structure
+********** 2 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · paper 4b0d513e5b1b
 
 - Departments: Information Technology
@@ -11,6 +102,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/ADVANCED DATA STRUCTURES/B Tech, Advanced Data Structures, Sem-V, Year 2025-26 Final Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: ocr (2 pages), mean OCR confidence 86.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Year: III / V/Semester [X/Semester V(Exam Year: 2025- a)
@@ -103,98 +195,6 @@ Col c. Suffix Tries
 
 d. Dictionary as a data structure
 
-FI IG 2 dk a kok kk
-````
-
-## 2024-25 · Final-Exam · Sem 5 · paper c369209273a6
-
-- Departments: Information Technology
-- Programmes: BTech IT 7001, Integrated IT 7037
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_IT_7001/Advanced Data Structures/QP_Advanced Data Structures(702IT0E009)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
-- Text: text (2 pages)
-
-````text
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech Intg. (IT)/B. Tech (IT)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Advanced Data Structures
-Date: 01 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Question No. 1 is compulsory.
-3. Instruction....Out of the remaining questions, attempt any 4 questions.
-4. In all 5 questions to be attempted.
-5. All questions carry equal marks.
-6. Answer to each new question to be started on a fresh page.
-7. Figures in brackets on the right hand side indicate full marks.
-8. Assume Suitable data if necessary.
-Q1   Answer briefly:
-BL1; CO3   a. Define splaying and state its need in a splay tree.   [5]
-BL2; CO1   b. Describe how a Huffman Tree helps in data compression.   [5]
-c. Describe how the greedy approach is applied in solving the Activity
-BL2; CO1   [5]
-Selection Problem.
-BL1; CO1   d. State the objective and constraint of the 0–1 Knapsack Problem.   [5]
-Q2   a Demonstrate quadratic probing to handle a collision in hashing with
-[10]
-BL3 ; CO2   appropriate example
-b For the graph shown below, use the shortest path algorithm and find the
-nodes reachable from “E” with shortest distance.
-BL4; CO1   [10]
-a   Create an AVL Tree by performing the following operations and indicate
-all the steps.
-Q3
-Insert: 30, 50, 40, 35, 45, 20
-BL4; CO3   [10]
-Delete: 35
-Insert: 48, 47
-Delete: 40
-b Apply Dynamic Programming to a problem and analyze how it reduces
-BL3; CO1   [10]
-redundant computations compared to Divide and Conquer.
-********** 1 **********
---- page 2 ---
-a   In the string “PQRSTUVSTUQR”, search for the presence of the
-Q4
-substring “STUVST” and find its index using Boyer Moore Horspool   [10]
-BL3; CO4
-Algorithm.
-b Describe using an example why a self-balanced tree is more efficient
-BL2; CO3   [10]
-for search and insertion than a BST.
-Q5   a   Illustrate the working of the Brute Force Pattern Matching algorithm
-[10]
-BL3; CO4   with an example and discuss when it is efficient or inefficient.
-b What are some instances of graph data structures being used in
-BL1; CO3   [10]
-different industries?
-a Simulate topological sort technique on the following graph using BFS.
-P → Q & R (Indicating, Node P connected with node Q and R)
-Q6
-Q → S & T
-BL3; CO1   [10]
-R → S & T
-S → U
-T → U
-b A hash table of size 11 uses double hashing. The first hash function is
-h1(k)=k mod 11, and the second hash function is h2(k)=2+(k mod 7).
-BL4; CO2   [10]
-Insert the following keys into the hash table: 20, 50, 53, 75, 100. Show
-the hash table after all insertions.
-Short Notes on:
-Q7
-a. Minimum Spanning trees
-BL1; CO1,   [5*4
-b. Desirable properties of hash function
-CO2, CO4,   =20]
-c. Suffix Tries
-CO1
-d. Dictionary as a data structure
-********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 5 · paper bc6ca38940dd

@@ -1,8 +1,84 @@
 # Digital Circuits and Systems: question papers in full
 
-7 unique papers · 2016-17 to 2017-18 · Electrical
+7 unique papers · 2016-17 to 2018-19 · Electrical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Re-Exam · Sem 4 · paper d08137b09c4a
+
+- Departments: Electrical
+- Programmes: B TECH / ELECTRICAL
+- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/DIGITAL CIRCUITS AND SYSTEMS/DIGITAL CIRCUITS AND SYSTEMS B TECH (ELECTRICAL), BATCH 2017-18_RE EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
+- Text: ocr (1 page), mean OCR confidence 88.6
+
+````text
+% SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech./B. Tech (ELECTRICAL) Year: II Semester: IV
+o we “
+
+Academic Year: 2018-2019
+
+Subject: Digital Circuits and Systems _
+“ Marks:70 -
+Date:16 April 2019 » Time: 2.00 pm to 5.00 pm -
+Durations: 3 (hrs) .
+
+No. of Pages : O|
+Re-examination (2017-18) ..
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1_"_ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Attempt the following questions:-
+
+a) Perform the conversion, (110110110101)2=(?)x. 4 [3]
+b) Perform 1s complement subtraction (15)10 - (09)10. [3]
+c) What is digital Encoder? Draw the internal logic diagram of 4:2 line encoder. [3]
+d) What is lockout condition? [3]
+e) Implement EX-OR operation using only NAND gates. [2]
+Q2 a) Solve using Quine McClusky method and implement using basic gates. [8]
+
+ftA,B,C.D) = 3m (0, 1, 6,7, 8, 9, 13, 14, 15)
+b) Minimize the following Boolean expression using K-map simplification technique to
+get minimal expression: F (W, X, Y, Z) = Ym (0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14).
+
+[6]
+
+Q3 a) Draw and explain logic diagram of BCD adder. [6]
+b) What is Full Adder? Implement the full adder using 3:8 line decoder [8]
+
+Q4 a) Design a MOD 5 synchronous counter using JK flip flop. [8]
+b) Explain race around condition in JK flipflop. How to eliminate it? [6]
+
+Q5 _a)_:s Design 1 bit magnitude comparator. [6]
+b) Design a 4-bit binary-to-gray code converter using truth table, K-map and logic circuit. [8]
+
+Q6 a) Perform the following flip flop conversions: [7]
+
+1) Dto JK
+
+b) Draw and explain 3-bit Twisted Ring counter using JK flip flop. [7]
+Q7 ~_sa):=«CWrite short notes on [14]
+1) VHDL’ :
+
+2) DRAM cell y
+````
 
 ## 2017-18 · Final-Exam · Sem 4 · paper bcd0382e4014
 
@@ -199,82 +275,6 @@ b) Explain Universal Shift Register.
 06
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper d08137b09c4a
-
-- Departments: Electrical
-- Programmes: B TECH / ELECTRICAL
-- Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/DIGITAL CIRCUITS AND SYSTEMS/DIGITAL CIRCUITS AND SYSTEMS B TECH (ELECTRICAL), BATCH 2017-18_RE EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 April 2019
-- Text: ocr (1 page), mean OCR confidence 88.6
-
-````text
-% SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech./B. Tech (ELECTRICAL) Year: II Semester: IV
-o we “
-
-Academic Year: 2018-2019
-
-Subject: Digital Circuits and Systems _
-“ Marks:70 -
-Date:16 April 2019 » Time: 2.00 pm to 5.00 pm -
-Durations: 3 (hrs) .
-
-No. of Pages : O|
-Re-examination (2017-18) ..
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1_"_ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Attempt the following questions:-
-
-a) Perform the conversion, (110110110101)2=(?)x. 4 [3]
-b) Perform 1s complement subtraction (15)10 - (09)10. [3]
-c) What is digital Encoder? Draw the internal logic diagram of 4:2 line encoder. [3]
-d) What is lockout condition? [3]
-e) Implement EX-OR operation using only NAND gates. [2]
-Q2 a) Solve using Quine McClusky method and implement using basic gates. [8]
-
-ftA,B,C.D) = 3m (0, 1, 6,7, 8, 9, 13, 14, 15)
-b) Minimize the following Boolean expression using K-map simplification technique to
-get minimal expression: F (W, X, Y, Z) = Ym (0, 1, 2, 4, 5, 6, 8, 9, 12, 13, 14).
-
-[6]
-
-Q3 a) Draw and explain logic diagram of BCD adder. [6]
-b) What is Full Adder? Implement the full adder using 3:8 line decoder [8]
-
-Q4 a) Design a MOD 5 synchronous counter using JK flip flop. [8]
-b) Explain race around condition in JK flipflop. How to eliminate it? [6]
-
-Q5 _a)_:s Design 1 bit magnitude comparator. [6]
-b) Design a 4-bit binary-to-gray code converter using truth table, K-map and logic circuit. [8]
-
-Q6 a) Perform the following flip flop conversions: [7]
-
-1) Dto JK
-
-b) Draw and explain 3-bit Twisted Ring counter using JK flip flop. [7]
-Q7 ~_sa):=«CWrite short notes on [14]
-1) VHDL’ :
-
-2) DRAM cell y
-````
-
 ## 2017-18 · Re-Exam · Sem 4 · paper 9d192f985957
 
 - Departments: Electrical
@@ -282,6 +282,7 @@ Q7 ~_sa):=«CWrite short notes on [14]
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ELECTRICAL/SEM IV/DIGITAL CIRCUITS AND SYSTEMS/DIGITAL_CIRCUITS_AND_SYSTEMS_BATCH_16-17_17-18_RE_EXAM_.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
 - Text: ocr (2 pages), mean OCR confidence 88.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -366,7 +367,6 @@ Design a counter that has the following repeated binary sequence : 0,1,2,3,4,5,6
 Design a synchronous mod 6 up counter using JK flip flop
 
 Minimize the following expressions using K-maps
-Fi (A, B, C, D) = TI M(1, 2,3,5,6,7,9,10,11,13,14,15)
 
 Write short note on
 i) Excess-3 code

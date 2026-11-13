@@ -724,6 +724,135 @@ CO-3; b. | Explain in detail the conceptualization required with various advanta
 Lea and applications if you are planning to construct a mezzanine flooring.
 ````
 
+## 2023-24 · Re-Exam · Sem 2 · paper 26e801bba888
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CONSTRUTION TECHNOLOGY/Construction Technology Batch 2021-22 Re Exam_26e801bba8.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 3 /07/2024
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2023-2024
+Program: B Tech / B Tech (Integrated) Year: I/1VfSemestét
+
+Stream : Civil 7
+
+Subject: Construction Technology Time: 3 hrs. (10:00am to 1:00pm)
+Date: 3 /07/2024 No. of Pages: 02
+Marks: 100
+
+‘Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1; | a. | Explain any five factors affecting excavation.
+
+SO-7;
+
+BL-2
+
+CO-1; | b. | Write a short note on cement plastering.
+
+SO-7;
+
+BL-1
+
+CO-2; | c. | State the significance of scaffolding in the construction work.
+
+SO-7;
+
+BL-1
+
+CO-3; | d. | Illustrate with a neat-labelled sketch various layers for a flooring used in a plinth fillings.
+
+SO-7;
+
+BL-3
+
+Q2 Answer the following questions: [20]
+CO-1; | a. | Illustrate with neat sketches any four types of ashlar stone masonry. [10]
+SO-7;
+
+BL-3
+
+CO-1; | b. | Explain four types of formwork in detail. [10]
+SO-7;
+
+BL-2
+
+Q3 Answer the following questions: [20]
+CO-2; Explain in detail the significance of various ingredients used to prepare concrete. State the
+
+ae various stages involved in manufacturing of concrete production and highlight any two
+
+stages in detail considering construction work is of a high-rise building.
+--- page 2 ---
+Q4 Answer the following questions: } [20]
+
+CO-1; | a. | Explain in detail important features of any five machinery tools used for soil exéavation. | [10]
+SO-7; .
+BL-2
+
+CO-1; | b. | State the significance of providing non-load bearing piles. Explain any two types of non- | [10]
+SO-7;
+BL-
+
+1,2
+
+load bearing piles in detail.
+
+Q5 Answer the following questions: [20]
+
+CO-1; | a. | Differentiate between shallow foundations and deep foundations (Any 5 points in detail). | [10]
+SO-7;
+BL-4
+
+CO-3; | b. | What is workability of concrete? State various factors affecting the workability of | [10]
+SO-7;
+
+BL-1 concrete.
+
+Q6 Answer the following questions: [20]
+CO-1; | a. | Illustrate in detail with a neat-labelled sketch several components used in scaffolding. [10]
+SO-7;
+
+BL-3 ;
+
+CO-3; | b. | Explain any two types of timber flooring with a neat-labelled sketch. [10]
+SO-7;
+
+BL-2
+
+Q7 Answer the following questions: [20]
+
+CO-1; | a. | What is pointing and why is it necessary? Explain step-by-step procedure to carry out | [10]
+
+S04) pointing work.
+
+1,2
+
+CO-3; | b. | Explain in detail the conceptualization required with various advantages, disadvantages | [10]
+oe and applications if you are planning to construct a false flooring for a control room.
+````
+
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper fa69a3fe46e8
 
 - Departments: Civil, Common (all branches)
@@ -1250,133 +1379,4 @@ CO-3;SO-7: | Q6B. | Illustrate the five points that you shall consider while sel
 BL - High material for a Ware house. Suggest which type of flooring would be most
 suitable and explain the same with respect to general description,
 advantages and disadvantages ;
-````
-
-## 2021-22 · Re-Exam · Sem 2 · paper 26e801bba888
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/CONSTRUTION TECHNOLOGY/Construction Technology Batch 2021-22 Re Exam_26e801bba8.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 3 /07/2024
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’S NMIMS
-
-Academic Year: 2023-2024
-Program: B Tech / B Tech (Integrated) Year: I/1VfSemestét
-
-Stream : Civil 7
-
-Subject: Construction Technology Time: 3 hrs. (10:00am to 1:00pm)
-Date: 3 /07/2024 No. of Pages: 02
-Marks: 100
-
-‘Re-Examination (2021-22)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-1) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql Answer briefly: [20]
-CO-1; | a. | Explain any five factors affecting excavation.
-
-SO-7;
-
-BL-2
-
-CO-1; | b. | Write a short note on cement plastering.
-
-SO-7;
-
-BL-1
-
-CO-2; | c. | State the significance of scaffolding in the construction work.
-
-SO-7;
-
-BL-1
-
-CO-3; | d. | Illustrate with a neat-labelled sketch various layers for a flooring used in a plinth fillings.
-
-SO-7;
-
-BL-3
-
-Q2 Answer the following questions: [20]
-CO-1; | a. | Illustrate with neat sketches any four types of ashlar stone masonry. [10]
-SO-7;
-
-BL-3
-
-CO-1; | b. | Explain four types of formwork in detail. [10]
-SO-7;
-
-BL-2
-
-Q3 Answer the following questions: [20]
-CO-2; Explain in detail the significance of various ingredients used to prepare concrete. State the
-
-ae various stages involved in manufacturing of concrete production and highlight any two
-
-stages in detail considering construction work is of a high-rise building.
---- page 2 ---
-Q4 Answer the following questions: } [20]
-
-CO-1; | a. | Explain in detail important features of any five machinery tools used for soil exéavation. | [10]
-SO-7; .
-BL-2
-
-CO-1; | b. | State the significance of providing non-load bearing piles. Explain any two types of non- | [10]
-SO-7;
-BL-
-
-1,2
-
-load bearing piles in detail.
-
-Q5 Answer the following questions: [20]
-
-CO-1; | a. | Differentiate between shallow foundations and deep foundations (Any 5 points in detail). | [10]
-SO-7;
-BL-4
-
-CO-3; | b. | What is workability of concrete? State various factors affecting the workability of | [10]
-SO-7;
-
-BL-1 concrete.
-
-Q6 Answer the following questions: [20]
-CO-1; | a. | Illustrate in detail with a neat-labelled sketch several components used in scaffolding. [10]
-SO-7;
-
-BL-3 ;
-
-CO-3; | b. | Explain any two types of timber flooring with a neat-labelled sketch. [10]
-SO-7;
-
-BL-2
-
-Q7 Answer the following questions: [20]
-
-CO-1; | a. | What is pointing and why is it necessary? Explain step-by-step procedure to carry out | [10]
-
-S04) pointing work.
-
-1,2
-
-CO-3; | b. | Explain in detail the conceptualization required with various advantages, disadvantages | [10]
-oe and applications if you are planning to construct a false flooring for a control room.
 ````

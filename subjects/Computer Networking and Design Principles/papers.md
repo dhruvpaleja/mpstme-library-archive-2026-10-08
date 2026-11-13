@@ -1,6 +1,6 @@
 # Computer Networking and Design Principles: question papers in full
 
-7 unique papers · 2013-14 to 2015-16 · Computer Engineering, Information Technology
+7 unique papers · 2011-12 to 2015-16 · Computer Engineering, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -450,7 +450,7 @@ x
 oi an
 ````
 
-## Year not stated · Exam not stated · Trim 1 · paper 0a5722c07ed2
+## 2012-13 · Exam not stated · Trim 1 · paper 0a5722c07ed2
 
 - Departments: Information Technology
 - Programmes: M TECH / I T
@@ -558,7 +558,7 @@ Q8.. Explain following term with reference of ATM.[14]
 (d) Integrated service.
 ````
 
-## Year not stated · Exam not stated · Trim 1 · ZIP of papers · paper d1fe36f24838 · COMPUTER NETWORKING DESIGN PRINCIPLES 2011-2012.pdf
+## 2011-12 · Exam not stated · Trim 1 · ZIP of papers · paper d1fe36f24838 · COMPUTER NETWORKING DESIGN PRINCIPLES 2011-2012.pdf
 
 - Departments: Information Technology
 - Programmes: M TECH / I T

@@ -17,9 +17,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final + Re-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE, MBA TECH / Data Science | Speech and Natural Language Processing, Sem-VII, Final Exam 2025-26 & Re Exam 2024-25.pdf |
 | 2025-26 | Final + Re-Exam | Question paper |  | MBA TECH / Data Science | Speech and Natural Language Processing , Final 2025-26,Re-exam 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE, MBA TECH / Data Science | Speech and Natural Language Processing, Sem-VII, Final Exam 2024-25.pdf |
-| 2024-25 | Final-Exam, Re-Exam | Answer key | Sem 7 | BTech DS 7009, MBATech DS 7052 | ANS_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE, MBA TECH / Data Science | Speech and Natural Language Processing, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2024-25 | Final-Exam, Re-Exam | Question paper | Sem 7 | BTech DS 7009, MBATech DS 7052 | QP_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf |
+| 2024-25 | Final-Exam, Re-Exam | Answer key | Sem 7 | BTech DS 7009, MBATech DS 7052 | ANS_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSE DATA SCIENCE (311), B TECH / DATA SCIENCE | Speech and Natural Language Processing, Sem-VII, Final Exam, A Y 2023-24.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

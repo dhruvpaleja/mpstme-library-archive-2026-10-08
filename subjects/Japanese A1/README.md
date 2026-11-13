@@ -14,19 +14,19 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
-| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated DS 7038 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated IT 7037 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
-| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated IT 7037 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper |  | B.TECH INTEGRATED | Japanese AI Batch 2025-26 Re Exam.pdf [1] |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated Computer 7032 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 10 | Integrated DS 7038 | QP_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated Computer 7032 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 10 | Integrated DS 7038 | ANS_Japanese A1(702BS0I025)_2025-2026.pdf |
 
 **Notes on papers placed here from a different folder**
 

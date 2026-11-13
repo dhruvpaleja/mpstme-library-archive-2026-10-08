@@ -110,6 +110,144 @@ example-
 2| 2.
 ````
 
+## 2018-19 · Re-Exam · Sem 4 · paper e1aca9ccedd0
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2017-18 Re Exam.pdf`
+- Printed on paper: exam date: 18 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+/
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program :B.Tech Integrated (COMPUTER)
+Academic Year: 2018-2019
+Subject: Computer Programming — III (Java) -
+Date: 18 June 2019
+
+Year: IT Semester: IV
+
+Re-examination(2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. a i
+7) Assume suitable data if necessary,
+
+Ql (a) Explain use of final keyword in java programming. (14]
+(b) What is the output of the following question?
+class Test {
+int a = 10;
+static int b = 20;
+public static void main(String[] args)
+{- x
+Test tl = new Test();
+tl.a = 100;
+tl.b = 200;
+Test t2 = new Test();
+System.out.println("tl.a ="_+ tl.a + " t1l.b =" +
+tl.b);
+System.out.println("t2.a ="+ t2.a 4+" t2.b =" +
+t2.b);
+}
+}
+(c) Explain the difference between equals() function and compareTo() function
+of String class.
+(d) Give syntax and example for how to read data using BufferedReader class.
+
+1[2-
+--- page 2 ---
+Q2
+
+(a) Explain different features of java. Write a program to find the largest of
+three integers accepted from command line.
+
+(b) What are constructors? Explain different types of constructors with
+example. .
+
+[7]
+7]
+
+Q3
+
+(a) What do you understand by inheritance in Java? How does a subclass
+constructor call a super class constructor?
+
+(b) Write a program to implement multilevel inheritance for “Employee”.
+Create a class “Employee” with Name, Id, and Department.
+Derive another class “Salary” from” Employee” and calculate salary with
+data members such as Gross salary and Payable salary. .
+
+Derive third class “Self-appraisal” from “Salary” with data members such as :
+
+appraisal and increments. Initialize all the data members with constructor
+of the “Self-appraisal” class. Write display function to display all the
+information of the employee.
+
+[7]
+17]
+
+Qa
+
+(a) Explain the concept of Dynamic Method Dispatch with example.
+(b) Write a program to count the number of objects made of a particular class
+using static variable and static method to display the same.
+
+7]
+7]
+
+Qs
+
+(a) Create an interface shape with 2 methods area () and perimeter (). Create a
+class Rectangle and square that uses shape interface. Write a “ShapeDemo”
+class to create the object of “Rectangle” and “Square”. Use reference
+variable of class shape and display perimeter and area for rectangle and, .
+Square.
+
+(b) What are packages in java? Discuss the various levels of access protection
+available for packages. ;
+
+17]
+
+17]
+
+Q6
+
+(c) Write a short note on String Buffer class. Write a java program to check if
+the string is palindrome or not using StringBuffer object.
+
+(d) What is an abstract class? Write an abstract class program to calculate area
+of circle, rectangle and triangle
+
+7]
+7]
+
+Q7
+
+Explain any two with examples :
+(a) Nested and Inner class
+(b) Java.util-Collection and Random class
+(c) Wrapper class
+
+14
+
+2)2-
+````
+
 ## 2018-19 · Re-Exam · Sem 4 · paper fa63e55fcafa
 
 - Departments: Computer Engineering
@@ -458,142 +596,109 @@ ee
 [14]
 ````
 
-## 2017-18 · Re-Exam · Sem 4 · paper e1aca9ccedd0
+## 2017-18 · Re-Exam · Sem 4 · paper 8be204c56187
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2017-18 Re Exam.pdf`
-- Printed on paper: exam date: 18 June 2019
-- Text: ocr (2 pages), mean OCR confidence 91.5
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2016-17 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 04 July 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
 
 ````text
-/
-
 SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-Program :B.Tech Integrated (COMPUTER)
-Academic Year: 2018-2019
-Subject: Computer Programming — III (Java) -
-Date: 18 June 2019
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
 
-Year: IT Semester: IV
+‘Program: B.Tech Integrated (Computer) Year: II Semester : TV
+AcademicYear: 2017-2018 Pa
+Subject: Computer Programming — III (Java LE
+ubjec mputer Prog (Java) | Mask&70
+Date : 04 July 2018 Time: 2.00 pm to 5.00 pm,
 
-Re-examination(2017-18)
+Durations: 3 (hrs)
+No: of Pages: Z
+Re-Examination (2016-17) : :
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
 
-1) Question No. | is compulsory.
+1) Question No. _1___ is compulsory.
 
-2) Out of remaining questions, attempt any FOUR questions.
+2) Out of remaining questions, attempt any __4 _ questions.
 
-3) In all FIVE questions to be attempted.
+3) Inall___5__ questions to be attempted.
 
 4) All questions carry equal marks.
 
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right hand side indicate full marks. a i
-7) Assume suitable data if necessary,
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
 
-Ql (a) Explain use of final keyword in java programming. (14]
-(b) What is the output of the following question?
-class Test {
-int a = 10;
-static int b = 20;
-public static void main(String[] args)
-{- x
-Test tl = new Test();
-tl.a = 100;
-tl.b = 200;
-Test t2 = new Test();
-System.out.println("tl.a ="_+ tl.a + " t1l.b =" +
-tl.b);
-System.out.println("t2.a ="+ t2.a 4+" t2.b =" +
-t2.b);
-}
-}
-(c) Explain the difference between equals() function and compareTo() function
-of String class.
-(d) Give syntax and example for how to read data using BufferedReader class.
+Q.1 (a) Explain the concept of command line argument in java with example. (06)
+Q.1(b) Define a class circle with data member as below: (06)
 
-1[2-
+Radius: double
+
+Pi = 3.14: static final double
+
+Define below methods within a class:
+
+Area() : to calculate the area of circle
+
+Display (): to display radius and area of the circle.
+
+Write a main method to create object of circle class and to display appropriate information.
+
+Q.2(a) Explain the concept of class, object and constructor with example. (06)
+Q.2(b) Differentiate below terms with example: (06)
+1. Abstract class and Interface .
+2. Method overriding and Method overloading ~
+
+Q.3(a) Write a Java program to create class Product with data members product_no , product name and (06)
+product price. The program must allow storing details of 10 products and count number of products
+having price greater than 100 and number of products having price less than 100.
+
+Q.3(b) Explain with example program which concept in Java is used to implement multiple inheritance? (06)
+
+Q.4(a) Explain different access modifiers in Java. (06)
+Q.4(b) Write a class faculty with faculty id and name as data members. Derive a class full time (06)
+teaching faculty from faculty class. Full time teaching faculty class will have qualification
+and no of research paper published as data members. Derive a class visiting faculty from
+
+01/2
 --- page 2 ---
-Q2
+faculty class with data members no of hours lecture conducted. The visiting faculty earns
+1000 rs for one hour. Write a method to calculate salary of visiting faculty. Write a main
+function to create objects and to display appropriate details of full time faculty and visiting
+faculty. Write appropriate constructors.
 
-(a) Explain different features of java. Write a program to find the largest of
-three integers accepted from command line.
+Q.5 (a) Explain concept of packages with example program. (06)
+Q.5(b) Write a package pack1 with class employee having data members employee id, name and (06)
+designation. Derive a class staff (in pack1) from employee with method display to display
+all the details of staff. Write a package pack 2 with class faculty derived from employee
+class of pack1. Faculty class will have no of students mentored as a data member. Write a
+main function to create objects and to display appropriate details of staff and full time
 
-(b) What are constructors? Explain different types of constructors with
-example. .
+faculty
+Packl Pack2
+Employee class : Faculty class — derived from employee
 
-[7]
-7]
+Staff class — derived from employee class class
 
-Q3
+Q.6(a) What is the importance of handling exceptions? Also explain with suitable example what (06)
+happens when we do not handle them.
 
-(a) What do you understand by inheritance in Java? How does a subclass
-constructor call a super class constructor?
+Q.6(b) Write a class to read 10 integer values from user and store it in an array. Write a method to (06)
+display all the elements of array and method to add all even numbers stored in an array and
+to display sum. The class must be able to handle exception if array index is found out of
+bound.
 
-(b) Write a program to implement multilevel inheritance for “Employee”.
-Create a class “Employee” with Name, Id, and Department.
-Derive another class “Salary” from” Employee” and calculate salary with
-data members such as Gross salary and Payable salary. .
+Q7 Write a short note on any two: : (12)
+a. Thread life cycle
+b. Three functions of StringBuffer class
+c. Abstract class with example program
 
-Derive third class “Self-appraisal” from “Salary” with data members such as :
-
-appraisal and increments. Initialize all the data members with constructor
-of the “Self-appraisal” class. Write display function to display all the
-information of the employee.
-
-[7]
-17]
-
-Qa
-
-(a) Explain the concept of Dynamic Method Dispatch with example.
-(b) Write a program to count the number of objects made of a particular class
-using static variable and static method to display the same.
-
-7]
-7]
-
-Qs
-
-(a) Create an interface shape with 2 methods area () and perimeter (). Create a
-class Rectangle and square that uses shape interface. Write a “ShapeDemo”
-class to create the object of “Rectangle” and “Square”. Use reference
-variable of class shape and display perimeter and area for rectangle and, .
-Square.
-
-(b) What are packages in java? Discuss the various levels of access protection
-available for packages. ;
-
-17]
-
-17]
-
-Q6
-
-(c) Write a short note on String Buffer class. Write a java program to check if
-the string is palindrome or not using StringBuffer object.
-
-(d) What is an abstract class? Write an abstract class program to calculate area
-of circle, rectangle and triangle
-
-7]
-7]
-
-Q7
-
-Explain any two with examples :
-(a) Nested and Inner class
-(b) Java.util-Collection and Random class
-(c) Wrapper class
-
-14
-
-2)2-
+02/2
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper c00007b6fd5b
@@ -774,6 +879,69 @@ Random class and Date class
 {14]
 ````
 
+## 2017-18 · Re-Exam · Sem 4 · paper 52276ca8ac81
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III Batch 2015-16 Re Exam_52276ca8ac.pdf`
+- Printed on paper: max marks: 60; exam date: 16 May 2018
+- Text: ocr (1 page), mean OCR confidence 91.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER) oc Year: II a Semester: IV ~
+
+Academic Year: 2017-2018
+
+Subject: Computer Programming - III (Java) “
+
+Marks: 60 ° f{“@@o-™
+Date: 16 May 2018.“ Time: 10.00 Ante 1.00 pm
+Durations: 3/ (hrs)
+
+No. of Pages: © |
+Re-examination (2015-16).
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+|) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1. a) Access Modifiers in Java. [3 Marks]
+b) Explain use of final keyword in Java. [3 Marks]
+c) Write a simple program to accept command Line argument. [6 Marks]
+Q.2. a) Explain various OOP functions supported by Java using example. [6 Marks]
+b) Design Java Class to add number of digit. (e.g. 123=1+2+3=6) [6 Marks]
+3. a) Difference between AWT and Java Swings. [6 Marks]
+b) Explain how to create own exceptions using java program. [6 Marks]
+Q.4. a) Explain about Creating Packages and Accessing a Package with examples. [6 Marks]
+b) Write a note on Layout manager and menus with example. [6 Marks]
+Q.5. a) Explain about Creating Interface and implementing with help of examples. {6 Marks]
+b) Explain delegation event model using examples. [6 Marks]
+Q.6. a) Write a simple Java Applet program to change font styles and size of text. [6 Marks]
+b) Explain any two basic swing componants with example. [6 Marks]
+
+Q.7. Write a Short Note on (Any two), {12 Marks]
+
+a) Java MVC using example
+b) Java Applet life cycle using example
+c) Nested Classes
+
+If)
+````
+
 ## 2016-17 · Final-Exam · Sem 4 · paper 1b492b19d7ac
 
 - Departments: Computer Engineering
@@ -880,109 +1048,62 @@ B. Write a JAVA program to perform operation on string [7M]
 af
 ````
 
-## 2016-17 · Re-Exam · Sem 4 · paper 8be204c56187
+## 2016-17 · Re-Exam · Sem 4 · paper f73b5c65eb45
 
 - Departments: Computer Engineering
 - Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2016-17 Re Exam.pdf`
-- Printed on paper: duration hours: 3; exam date: 04 July 2018
-- Text: ocr (2 pages), mean OCR confidence 92.3
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2015-16 Re Exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
+- Text: ocr (1 page), mean OCR confidence 88.6
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+“am
+SVKM’S NMIMS ”
 
-‘Program: B.Tech Integrated (Computer) Year: II Semester : TV
-AcademicYear: 2017-2018 Pa
-Subject: Computer Programming — III (Java LE
-ubjec mputer Prog (Java) | Mask&70
-Date : 04 July 2018 Time: 2.00 pm to 5.00 pm,
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINDERING pi
 
-Durations: 3 (hrs)
-No: of Pages: Z
-Re-Examination (2016-17) : :
+ae CaN
 
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any __4 _ questions.
-
-3) Inall___5__ questions to be attempted.
-
+Academic Year: 2016 - 2017 Pe are gt
+Program: B. Tech Integrated (COMPUTER) Year:II Semester: eS
+Batch: 2015-16 Marks: 60
+Subject: Computer Programming — III (Java) Time: (10.00 am to 1.00 pm)
+Date :16 May 2017 Duration:3 hrs
+No. of Pages: |
+RE - EXAMINS TION _.
+Note
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
 4) All questions carry equal marks.
-
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Assume Suitable data if necessary.
+Q.1. a) Write a short note on Java virtual machine. [6 Marks]
+b) Explain use of final, finally keyword in Java. (3 Marks]
+c) Write a simple program to accept command Line argument. [3 Marks]
+Q.2. a) Explain various Java features using example. * [6 Marks]
 
-Q.1 (a) Explain the concept of command line argument in java with example. (06)
-Q.1(b) Define a class circle with data member as below: (06)
+b) Write a program to create a BankAccount class with two variables accNo and accBal, and
+extend it to BankSavingAccount class with additional variable AnnualInterest, Define
 
-Radius: double
+method to display all data about any Bankaccount. [6 Marks]
+Q.3. a) Difference between application program and Java applets. [6 Marks]
+b) Explain how to create own exceptions using java program. [6 Marks]
+Q.4. a) Explain about Creating Packages and Accessing a Package with examples. [6 Marks]
+b) Write a note on thread life cycle with all methods used. {6 Marks]
+Q.5. a) Explain about Creating Interface and implementing with help of examples. [6 Marks]
+b) Write Java program to create array and compute average, sum and max number. [6 Marks]
+Q.6. a) Write a simple Java Applet program to change font styles and size of text. * [6 Marks]
+b) Explain various Access Modifiers in Javaand sample code. [6 Marks]
 
-Pi = 3.14: static final double
+Q.7. Write a’Short Note on (Any two), [12 Marks]
 
-Define below methods within a class:
+a) Java Multithreading using example
+b) Java Applet life cycle using example
+c) Java Wrapper classes using example
 
-Area() : to calculate the area of circle
-
-Display (): to display radius and area of the circle.
-
-Write a main method to create object of circle class and to display appropriate information.
-
-Q.2(a) Explain the concept of class, object and constructor with example. (06)
-Q.2(b) Differentiate below terms with example: (06)
-1. Abstract class and Interface .
-2. Method overriding and Method overloading ~
-
-Q.3(a) Write a Java program to create class Product with data members product_no , product name and (06)
-product price. The program must allow storing details of 10 products and count number of products
-having price greater than 100 and number of products having price less than 100.
-
-Q.3(b) Explain with example program which concept in Java is used to implement multiple inheritance? (06)
-
-Q.4(a) Explain different access modifiers in Java. (06)
-Q.4(b) Write a class faculty with faculty id and name as data members. Derive a class full time (06)
-teaching faculty from faculty class. Full time teaching faculty class will have qualification
-and no of research paper published as data members. Derive a class visiting faculty from
-
-01/2
---- page 2 ---
-faculty class with data members no of hours lecture conducted. The visiting faculty earns
-1000 rs for one hour. Write a method to calculate salary of visiting faculty. Write a main
-function to create objects and to display appropriate details of full time faculty and visiting
-faculty. Write appropriate constructors.
-
-Q.5 (a) Explain concept of packages with example program. (06)
-Q.5(b) Write a package pack1 with class employee having data members employee id, name and (06)
-designation. Derive a class staff (in pack1) from employee with method display to display
-all the details of staff. Write a package pack 2 with class faculty derived from employee
-class of pack1. Faculty class will have no of students mentored as a data member. Write a
-main function to create objects and to display appropriate details of staff and full time
-
-faculty
-Packl Pack2
-Employee class : Faculty class — derived from employee
-
-Staff class — derived from employee class class
-
-Q.6(a) What is the importance of handling exceptions? Also explain with suitable example what (06)
-happens when we do not handle them.
-
-Q.6(b) Write a class to read 10 integer values from user and store it in an array. Write a method to (06)
-display all the elements of array and method to add all even numbers stored in an array and
-to display sum. The class must be able to handle exception if array index is found out of
-bound.
-
-Q7 Write a short note on any two: : (12)
-a. Thread life cycle
-b. Three functions of StringBuffer class
-c. Abstract class with example program
-
-02/2
+/
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 6aecfd7bba84
@@ -1890,64 +2011,6 @@ oe
 2/2_
 ````
 
-## 2015-16 · Re-Exam · Sem 4 · paper f73b5c65eb45
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III (Java) Batch 2015-16 Re Exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 16 May 2017
-- Text: ocr (1 page), mean OCR confidence 88.6
-
-````text
-“am
-SVKM’S NMIMS ”
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINDERING pi
-
-ae CaN
-
-Academic Year: 2016 - 2017 Pe are gt
-Program: B. Tech Integrated (COMPUTER) Year:II Semester: eS
-Batch: 2015-16 Marks: 60
-Subject: Computer Programming — III (Java) Time: (10.00 am to 1.00 pm)
-Date :16 May 2017 Duration:3 hrs
-No. of Pages: |
-RE - EXAMINS TION _.
-Note
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Q.1. a) Write a short note on Java virtual machine. [6 Marks]
-b) Explain use of final, finally keyword in Java. (3 Marks]
-c) Write a simple program to accept command Line argument. [3 Marks]
-Q.2. a) Explain various Java features using example. * [6 Marks]
-
-b) Write a program to create a BankAccount class with two variables accNo and accBal, and
-extend it to BankSavingAccount class with additional variable AnnualInterest, Define
-
-method to display all data about any Bankaccount. [6 Marks]
-Q.3. a) Difference between application program and Java applets. [6 Marks]
-b) Explain how to create own exceptions using java program. [6 Marks]
-Q.4. a) Explain about Creating Packages and Accessing a Package with examples. [6 Marks]
-b) Write a note on thread life cycle with all methods used. {6 Marks]
-Q.5. a) Explain about Creating Interface and implementing with help of examples. [6 Marks]
-b) Write Java program to create array and compute average, sum and max number. [6 Marks]
-Q.6. a) Write a simple Java Applet program to change font styles and size of text. * [6 Marks]
-b) Explain various Access Modifiers in Javaand sample code. [6 Marks]
-
-Q.7. Write a’Short Note on (Any two), [12 Marks]
-
-a) Java Multithreading using example
-b) Java Applet life cycle using example
-c) Java Wrapper classes using example
-
-/
-````
-
 ## 2015-16 · Re-Exam · Sem 4 · paper 04597a3f2f06
 
 - Departments: Computer Engineering
@@ -2015,67 +2078,4 @@ c) Java nested classes using example.
 y—-—— r
 
 /
-````
-
-## 2015-16 · Re-Exam · Sem 4 · paper 52276ca8ac81
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/2nd YEAR/COMPUTER/Sem_04/COMPUTER PROGRAMMING III ( JAVA )/Computer Programming III Batch 2015-16 Re Exam_52276ca8ac.pdf`
-- Printed on paper: max marks: 60; exam date: 16 May 2018
-- Text: ocr (1 page), mean OCR confidence 91.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B.Tech Integrated (COMPUTER) oc Year: II a Semester: IV ~
-
-Academic Year: 2017-2018
-
-Subject: Computer Programming - III (Java) “
-
-Marks: 60 ° f{“@@o-™
-Date: 16 May 2018.“ Time: 10.00 Ante 1.00 pm
-Durations: 3/ (hrs)
-
-No. of Pages: © |
-Re-examination (2015-16).
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-|) Question No. | is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-3)Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1. a) Access Modifiers in Java. [3 Marks]
-b) Explain use of final keyword in Java. [3 Marks]
-c) Write a simple program to accept command Line argument. [6 Marks]
-Q.2. a) Explain various OOP functions supported by Java using example. [6 Marks]
-b) Design Java Class to add number of digit. (e.g. 123=1+2+3=6) [6 Marks]
-3. a) Difference between AWT and Java Swings. [6 Marks]
-b) Explain how to create own exceptions using java program. [6 Marks]
-Q.4. a) Explain about Creating Packages and Accessing a Package with examples. [6 Marks]
-b) Write a note on Layout manager and menus with example. [6 Marks]
-Q.5. a) Explain about Creating Interface and implementing with help of examples. {6 Marks]
-b) Explain delegation event model using examples. [6 Marks]
-Q.6. a) Write a simple Java Applet program to change font styles and size of text. [6 Marks]
-b) Explain any two basic swing componants with example. [6 Marks]
-
-Q.7. Write a Short Note on (Any two), {12 Marks]
-
-a) Java MVC using example
-b) Java Applet life cycle using example
-c) Nested Classes
-
-If)
 ````

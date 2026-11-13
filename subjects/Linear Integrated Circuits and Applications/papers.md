@@ -188,6 +188,338 @@ Q.7 Write Short Notes on (any three) of following:
 2]2
 ````
 
+## 2018-19 · Re-Exam · paper b2c0c11f6477
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS BATCH 17-18 RE EXAM.pdf`
+- Printed on paper: exam date: 12 January 2019
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’S NMIMS —
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+y
+
+| Program: B. Tech (Mechatronics) Year: Il Semester : V”
+, Academic Year: 2018-2019 <
+
+Subject: Linear Integrated Circuits and Applications “
+
+Date : 12 January 2019“
+
+é
+
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ,suitable data if necessary.
+
+Ql
+A. Draw & Explain Practical Voltage transfer characteristics of op-amp. [3M]
+B. Draw various differential amplifier configurations. [4M]
+C. Design Wien bridge oscillator using IC 741 for fo = 10Khz. [3M]
+D. Derive the equation for output Voltage Vo for Following circuit, [4M]
+J coo
+
+Page 1 of 2
+--- page 2 ---
+Q.2
+
+Q3
+
+Q4
+
+Q.5
+
+Q.6
+
+OF
+
+Draw & explain Instrumentation Amplifier using three op-amps.
+Design the equation for output Voltage Vo = - 3V1 - 4V2 + 2V3 - 6V4 + 7V5 - 8V6.
+
+Explain differentiator using op-amp with output waveforms. What is need of practical
+
+Differentiator?
+List out the applications of Phase locked loop & explain any one in detail.
+
+What is virtual ground concept? Explain voltage follower using op-amp.
+
+Explain the first order Butterworth low pass filter using op-amp & derive the expression
+for voltage gain Av. Design the same for cut-off frequency of 2KHz & gain of 2.
+
+Draw & Explain Astable Multivibrator using IC 555.
+
+Design regulator using IC723 to meet following specifications
+Vo =5V, Io = 100 mA
+
+Vin=15+20%
+
+Isc = 150 mA, Vsense = 0.7 V
+
+Draw & explain Amplified Version of Precision half wave rectifier using inverting
+
+Op-amp.
+Explain Schmitt trigger using op-amp with output waveforms.
+
+Write Short Notes: (Any Two)
+IC LM380
+
+Voltage to current convertor
+IC 566
+
+[7M]
+[7M]
+
+[7M]
+
+[7M]
+
+[6M]
+
+[8M]
+
+[7M]
+[7M]
+
+[7M]
+
+[7M]
+
+[7M]
+[7M]
+[7M]
+
+Page 2 of 2
+````
+
+## 2017-18 · Final-Exam · paper caaf0a3f0d72
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS (MECHATRONICS), FINAL EXAM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 24 November 2017
+- Text: ocr (2 pages), mean OCR confidence 85.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (MECHATRONICS) ¢ Year: I ~ Semester: V
+/ Academic Year: 2017-2018
+Subject: Linear Integrated Circuits and Applications vars ee :
+<a Marks: 70 ~ _.so80N ASM ay,
+Date: 24 November 2017 Time: 2.00 pm to'5.00 pm -~ We,
+
+Durations: 3 (hrs) ~PSYME Ya |
+No. of Pages: 2h LIBRABY s f;
+Final-Examination *
+
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. ;
+
+2) Out of remaining questions, attempt any 4(four) questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt the following:
+a) State parameters of Ideal Op-Amp and values for IC 741C. (4)
+b) Design RC phase shift oscillator for fp = 500 Hz. Draw circuit diagram. (4)
+c) Draw internal block diagram and explain working of voltage regulator IC 723. (3)
+d) Explain voltage to current converter with floating load using Op-Amp. (3)
+
+Q.2 a) With the help of neat circuit’diagram derive the output voltage equation for subtractor
+
+such that Vo = (Rr / Ri) (Vi — V2). Explain the same. (7)
+b) Draw and explain three Op-Amp Instrumentation amplifier. Derive expression for
+output voltage Vo. (7)
+
+Q.3 (i). a) Design a second order low pass active filter at a high cut-off frequency of 2 KHz.
+
+a b). Draw the ferquency response of the network. (7)
+(ii) Draw 2" order active high pass filter using op-amp. Derive the output equation and draw
+
+frequency response for the same. (7)
+--- page 2 ---
+Q.4 a) Calculate the output voltage amplitude and draw output wave forms for the given circuit .
+
+for (i) T= 0.1 msec. (ii) T = 10 msec. (7)
+. 1kQ
+aN .
+
+&
+
+(tT “v
+
+{
+T=Half cycle —_—_—_ ae
+period
+
+<a -Vv
+Q.4 b) Design Astable multivibrator using IC 555 to produce output frequency of 10 KHz. The
+duty cycle required is 75%. Draw the designed circuit. ; (7)
+
+Q.5 (a) Explain inverting and non-inverting Half wave precision rectifier. Draw input and out
+
+put waveforms. (7)
+Q.5 (b) Derive the expression for closed loop gains for inverting and non inverting amplifier
+using op-amps. (7)
+Q.6 (a) Explain Monolithic power amplifier IC LM 380 & list out its features. (7)
+Q.6 (b) Find Vo for the circuit shown. Show the necessary equation for getting output voltage.
+7)
++5. be a
+
+10KQ
++2 Vw -
+Vo
+<0)
+HY. 10K a
+
+10KQ L
+Q.7 Write notes on : following:
+(a) Schmmit trigeer. (5)
+(b) Log amplifier. : (5)
+(c) VCO IC 566. (4)
+````
+
+## 2017-18 · Re-Exam · paper 462fff7c4004
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS (MECHATRINICS), RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
+- Text: ocr (3 pages), mean OCR confidence 83.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+} _ Programme: B. Tech (MECHATRONICS) Year: III Semester: V
+
+d Batch: 2016-17
+Academic Year: 2017-2018
+
+Subject: Linear Integrated Circuits and Applications _ ded WP ae
+Marks: 60. *~ ~~
+Date: 24 November 2017 Time: 2.00 pm to 5,POnm a
+Durations; 3 (hrs)’ " y %
+No. of Pages: _ AR
+Re-Examination —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql. Attempt any four out of five questions. (12)
+A Define the following Op-Amp parameters and mention their typical values for IC 741. 3
+(i) Input voltage range
+(ii) CMRR
+
+(iii) Slew Rate
+(iv) Input offset voltage
+
+B_ Explain op-amp as an Integrator. * 3
+
+C Compute the ideal value of Ic2,[c¢3 and Ic, for the current mirror shown in figure. Assume Bi=B,2 3
+=100 and 8 ;=200 and 8 = 150.Igias =2 UA.
+--- page 2 ---
+fo
+2mA tea 1K tc| 1K tea 1K
+O) 0) ® ®
+Q Q> Q3 Qs
+B=100 B=100 B= 200 B= 150
+D Explain sample and hold circuit. . 3
+E Identify the 555 timer circuit and determine 3
+(i) High state time interval
+(ii) Low state time interval
+(iii) Period
+(iv) Frequency
+(v) Duty cycle
+mn +5 Vv \ A ae
+1kQ]S Ry
+8 4
+Zz
+3kQ] Ry 555 3 -— Output
+6
+2
+1 B)
+| 0.02 pFT=C
+T a 0.01 pF
+TT - *¥
+F Explain the effect of damping coefficient on filter frequency response. 3
+
+Q2 A Design a wide band pass filter to have a -40 dB/decade slope for higher cut off frequency of 8
+2 kHz and lower cut off frequency of 500 Hz, also sketch the Frequency fesponse for the filter.
+
+—— B_ Explain precision half wave rectifier using IC 741. 4
+
+ye; Q3. A Explain the working of monostable multivibrator using IC 555 timer. 6
+
+B_ Explain temperature compensated log amplifier. 6
+--- page 3 ---
+Q4. A Explain DC analysis of Differential Amplifier. What are the current and voltages in the 6
+single ended output circuit of fig 2.
++12V
+3kQ
+\
+|
+a =a
+¥ ¥
+SkQ
+-“2V
+B. Design voltage regulator to provide Adjustable output voltage between 7 to 5V and load 6
+current 1A using IC 7805.
+Q5. A Explain Wien bridge oscillator. Derive the expression for frequency of oscillations. In a 6
+
+Wien bride oscillator, if the value of R is 100 kQ and frequency of oscillation is 10 kHz,
+calculate the value of C.
+
+B_ Design an adder subtractor circuit to give the output 6
+Vo = 2V; —3V2 +4 V3-5V4
+
+Q6. A Explain voltage to current and current to voltage amplifier with grounded load. 6
+B_ Explain 3 —-stage instrumentation amplifier. 6
+Q7. Write Short Notes on any two 12
+A   LM380 as audio power amplifier 6
+ae | B_ PLL & its applications 6
+C_ Voltage controlled oscillator (IC 566) 6
+````
+
 ## 2017-18 · Re-Exam · paper 428ab6bb84bb
 
 - Departments: Mechatronics
@@ -384,126 +716,6 @@ Q.7 Write short Notes |
 
 | |
 | 7
-````
-
-## 2017-18 · Re-Exam · paper b2c0c11f6477
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS BATCH 17-18 RE EXAM.pdf`
-- Printed on paper: exam date: 12 January 2019
-- Text: ocr (2 pages), mean OCR confidence 90.7
-
-````text
-SVKM’S NMIMS —
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-y
-
-| Program: B. Tech (Mechatronics) Year: Il Semester : V”
-, Academic Year: 2018-2019 <
-
-Subject: Linear Integrated Circuits and Applications “
-
-Date : 12 January 2019“
-
-é
-
-Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume ,suitable data if necessary.
-
-Ql
-A. Draw & Explain Practical Voltage transfer characteristics of op-amp. [3M]
-B. Draw various differential amplifier configurations. [4M]
-C. Design Wien bridge oscillator using IC 741 for fo = 10Khz. [3M]
-D. Derive the equation for output Voltage Vo for Following circuit, [4M]
-J coo
-
-Page 1 of 2
---- page 2 ---
-Q.2
-
-Q3
-
-Q4
-
-Q.5
-
-Q.6
-
-OF
-
-Draw & explain Instrumentation Amplifier using three op-amps.
-Design the equation for output Voltage Vo = - 3V1 - 4V2 + 2V3 - 6V4 + 7V5 - 8V6.
-
-Explain differentiator using op-amp with output waveforms. What is need of practical
-
-Differentiator?
-List out the applications of Phase locked loop & explain any one in detail.
-
-What is virtual ground concept? Explain voltage follower using op-amp.
-
-Explain the first order Butterworth low pass filter using op-amp & derive the expression
-for voltage gain Av. Design the same for cut-off frequency of 2KHz & gain of 2.
-
-Draw & Explain Astable Multivibrator using IC 555.
-
-Design regulator using IC723 to meet following specifications
-Vo =5V, Io = 100 mA
-
-Vin=15+20%
-
-Isc = 150 mA, Vsense = 0.7 V
-
-Draw & explain Amplified Version of Precision half wave rectifier using inverting
-
-Op-amp.
-Explain Schmitt trigger using op-amp with output waveforms.
-
-Write Short Notes: (Any Two)
-IC LM380
-
-Voltage to current convertor
-IC 566
-
-[7M]
-[7M]
-
-[7M]
-
-[7M]
-
-[6M]
-
-[8M]
-
-[7M]
-[7M]
-
-[7M]
-
-[7M]
-
-[7M]
-[7M]
-[7M]
-
-Page 2 of 2
 ````
 
 ## 2016-17 · Final-Exam · paper 8f4527ba1759
@@ -760,216 +972,4 @@ d) Phase shift/Wien bridge oscillator
 12
 
 12
-````
-
-## Year not stated · Final-Exam · paper caaf0a3f0d72
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS (MECHATRONICS), FINAL EXAM.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 24 November 2017
-- Text: ocr (2 pages), mean OCR confidence 85.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (MECHATRONICS) ¢ Year: I ~ Semester: V
-/ Academic Year: 2017-2018
-Subject: Linear Integrated Circuits and Applications vars ee :
-<a Marks: 70 ~ _.so80N ASM ay,
-Date: 24 November 2017 Time: 2.00 pm to'5.00 pm -~ We,
-
-Durations: 3 (hrs) ~PSYME Ya |
-No. of Pages: 2h LIBRABY s f;
-Final-Examination *
-
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory. ;
-
-2) Out of remaining questions, attempt any 4(four) questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Q.1 Attempt the following:
-a) State parameters of Ideal Op-Amp and values for IC 741C. (4)
-b) Design RC phase shift oscillator for fp = 500 Hz. Draw circuit diagram. (4)
-c) Draw internal block diagram and explain working of voltage regulator IC 723. (3)
-d) Explain voltage to current converter with floating load using Op-Amp. (3)
-
-Q.2 a) With the help of neat circuit’diagram derive the output voltage equation for subtractor
-
-such that Vo = (Rr / Ri) (Vi — V2). Explain the same. (7)
-b) Draw and explain three Op-Amp Instrumentation amplifier. Derive expression for
-output voltage Vo. (7)
-
-Q.3 (i). a) Design a second order low pass active filter at a high cut-off frequency of 2 KHz.
-
-a b). Draw the ferquency response of the network. (7)
-(ii) Draw 2" order active high pass filter using op-amp. Derive the output equation and draw
-
-frequency response for the same. (7)
---- page 2 ---
-Q.4 a) Calculate the output voltage amplitude and draw output wave forms for the given circuit .
-
-for (i) T= 0.1 msec. (ii) T = 10 msec. (7)
-. 1kQ
-aN .
-
-&
-
-(tT “v
-ov a met oo fpertedt= NY A
-
-{
-T=Half cycle —_—_—_ ae
-period
-
-<a -Vv
-Q.4 b) Design Astable multivibrator using IC 555 to produce output frequency of 10 KHz. The
-duty cycle required is 75%. Draw the designed circuit. ; (7)
-
-Q.5 (a) Explain inverting and non-inverting Half wave precision rectifier. Draw input and out
-
-put waveforms. (7)
-Q.5 (b) Derive the expression for closed loop gains for inverting and non inverting amplifier
-using op-amps. (7)
-Q.6 (a) Explain Monolithic power amplifier IC LM 380 & list out its features. (7)
-Q.6 (b) Find Vo for the circuit shown. Show the necessary equation for getting output voltage.
-7)
-+5. be a
-
-10KQ
-+2 Vw -
-Vo
-<0)
-HY. 10K a
-
-10KQ L
-Q.7 Write notes on : following:
-(a) Schmmit trigeer. (5)
-(b) Log amplifier. : (5)
-(c) VCO IC 566. (4)
-````
-
-## Year not stated · Re-Exam · paper 462fff7c4004
-
-- Departments: Mechatronics
-- Programmes: B TECH / MECHATRONICS
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHATRONICS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS/LINEAR INTEGRATED CIRCUITS AND APPLICATIONS (MECHATRINICS), RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
-- Text: ocr (3 pages), mean OCR confidence 83.9
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-} _ Programme: B. Tech (MECHATRONICS) Year: III Semester: V
-
-d Batch: 2016-17
-Academic Year: 2017-2018
-
-Subject: Linear Integrated Circuits and Applications _ ded WP ae
-Marks: 60. *~ ~~
-Date: 24 November 2017 Time: 2.00 pm to 5,POnm a
-Durations; 3 (hrs)’ " y %
-No. of Pages: _ AR
-Re-Examination —
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
-Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql. Attempt any four out of five questions. (12)
-A Define the following Op-Amp parameters and mention their typical values for IC 741. 3
-(i) Input voltage range
-(ii) CMRR
-
-(iii) Slew Rate
-(iv) Input offset voltage
-
-B_ Explain op-amp as an Integrator. * 3
-
-C Compute the ideal value of Ic2,[c¢3 and Ic, for the current mirror shown in figure. Assume Bi=B,2 3
-=100 and 8 ;=200 and 8 = 150.Igias =2 UA.
---- page 2 ---
-fo
-2mA tea 1K tc| 1K tea 1K
-O) 0) ® ®
-Q Q> Q3 Qs
-B=100 B=100 B= 200 B= 150
-D Explain sample and hold circuit. . 3
-E Identify the 555 timer circuit and determine 3
-(i) High state time interval
-(ii) Low state time interval
-(iii) Period
-(iv) Frequency
-(v) Duty cycle
-mn +5 Vv \ A ae
-1kQ]S Ry
-8 4
-Zz
-3kQ] Ry 555 3 -— Output
-6
-2
-1 B)
-| 0.02 pFT=C
-T a 0.01 pF
-TT - *¥
-F Explain the effect of damping coefficient on filter frequency response. 3
-
-Q2 A Design a wide band pass filter to have a -40 dB/decade slope for higher cut off frequency of 8
-2 kHz and lower cut off frequency of 500 Hz, also sketch the Frequency fesponse for the filter.
-
-—— B_ Explain precision half wave rectifier using IC 741. 4
-
-ye; Q3. A Explain the working of monostable multivibrator using IC 555 timer. 6
-
-B_ Explain temperature compensated log amplifier. 6
---- page 3 ---
-Q4. A Explain DC analysis of Differential Amplifier. What are the current and voltages in the 6
-single ended output circuit of fig 2.
-+12V
-3kQ
-\
-|
-a =a
-¥ ¥
-SkQ
--“2V
-B. Design voltage regulator to provide Adjustable output voltage between 7 to 5V and load 6
-current 1A using IC 7805.
-Q5. A Explain Wien bridge oscillator. Derive the expression for frequency of oscillations. In a 6
-
-Wien bride oscillator, if the value of R is 100 kQ and frequency of oscillation is 10 kHz,
-calculate the value of C.
-
-B_ Design an adder subtractor circuit to give the output 6
-Vo = 2V; —3V2 +4 V3-5V4
-
-Q6. A Explain voltage to current and current to voltage amplifier with grounded load. 6
-B_ Explain 3 —-stage instrumentation amplifier. 6
-Q7. Write Short Notes on any two 12
-A   LM380 as audio power amplifier 6
-ae | B_ PLL & its applications 6
-C_ Voltage controlled oscillator (IC 566) 6
 ````

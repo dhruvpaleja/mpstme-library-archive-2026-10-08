@@ -269,7 +269,7 @@ PG
 Page 3 of 3
 ````
 
-## 2017 · Re-Exam · Sem 6 · paper e63d82f399c8
+## 2017-18 · Re-Exam · Sem 6 · paper e63d82f399c8
 
 - Departments: Chemical
 - Programmes: MBA TECH / CHEMICAL

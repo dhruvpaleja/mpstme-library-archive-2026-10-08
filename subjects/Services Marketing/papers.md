@@ -838,6 +838,122 @@ examples.
 Q6. Explain the environmental dimensions of the servicescape using suitable examples of your choice.
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper a23d3f9a2933
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/SERVICE MARKETING/scan0001(23).pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 94.1
+
+````text
+SVKM’s NMIMS *
+
+VKM'S
+P; Mukesh Patel School Of Technology Management & En ineering, Mis eit wad ‘s
+Togramme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV : EL oem ) fi
+Academic Year : 2012-2013 as
+Subject: SERVICES MARKETING Marks: 50 i
+bate: 08/01/2013 Time: 2.00 p.m To 4.00 p.m
+
+Duration: 2 hrs.
+Final - Examination
+
+SECTION A
+Study the case given below and answer the questions given at the end.
+Marketing of Health Services
+
+Pulin Kayastha was simply amazed. He had seen all forms of hostility and marketing
+warfare in the consumer goods industry, but to see similar warfare in the health industry
+fascinated him. Clearly, he told himself, doctors had found consumers in their patients.
+At least, that's what the concept note sent by Dr. Ajit Varman, country manager of
+Recovery Clinics & Hospitals, seemed to indicate. Varman and seven other senior
+doctors had left Karuna Nursing Home and Hospital to set up Recovery, which, as the
+note said. ".... would be entirely devoted and dedicated to customer responsiveness."
+
+Pulin was a management consultant and was recommended to Recovery by the
+marketing director of Regrow Pharma, a large pharmaceuticals company in Mumbai. In
+fact, the suggestion to set up Recovery came from a non-resident patient, Dinesh Shah,
+who was undergoing treatment at Karuna's large speciality hospital in Central India. It
+was in the course of his interaction with the doctors that Shah sensed their unhappiness
+
+} with the system. This prompted him to suggest the idea of Recovery. Varman had joined
+Karuna 10 years ago, assured of a challenging career in a hospital that was promising to
+be different. But over time, disillusionment set in as Karuna's image and response to the
+environment diluted its equity.
+
+"Now that we have decided to do this, we do not want to repeat old mistakes," Varman
+had told Pulin duing their first meeting. "Having worked at Karuna, we can see its
+weaknesses and why it's losing saliency. Ten years ago, when it was established, we
+believed it was going to add value to our careers, We became a part of it because we
+were told that we are specialists who would bring exclusivity to the hospital. But soon,
+the focus shifted to fetching business and revenues. The management started hiring
+
+4 } specialists and private practitioners, offering them cabins and consultancy arrangements
+at Karuna. The strategy was that these doctors would bring in their patients and use the
+infrastructure so that the hospital would start earning money."
+
+The Karuna management wanted to derive short-term benefits, than gradually build up
+clientele. But the strategy, it appeared, did not pay off. As Varman said: "Because there
+were many doctors and the business was not large enough in the first few months’
+Consequently, competition for business became cut-throat between doctors."
+
+Vp
+--- page 2 ---
+Despite modern amenities, state-of-art systems and numerous doctors, the image of the
+hospital was that of being too commercial - a fallout of the stigma of being a private
+hospital. It was common among doctors to slot every hospital under either category - a
+place where you get neglected to death or a place where you get researched to death.
+Karuna earned a new label - a place where you got cross-referred to death, for doctors
+at Karuna slowly took to enhancing each others' earnings as they sent patients back and
+forth to doctors and specialists. At the end of his diagnoses, the patient ended up paying
+a huge amount of money for this treatment.
+
+According to Varman, the high-cost, high-expectation syndrome hit the hospital. The
+initial promise of exclusivity and quality was lost. Karuna had the best doctors. but after-
+care was abysmal. With a view to keeping costs low, nurses, house-keeping staff and
+even tbe front: office staff were hired. cheap, training was virtually absent, and no
+attention was paid to end-user needs.
+
+Kayastha could see Recovery trying to be all that Karuna was not and desiring not to be
+all that Karuna was. If Kayastha thought Varman was hiring him for routine systems
+design and a patient management manual, he was mistaken. For Varman said : "We
+want to get Recovery's positioning platform right and work on a sound marketing plan.
+What we want you to do is to help us build this brand, help ordinary doctors like us
+understand what brand-building entails and how it is managed in a service industry."
+
+Questions : (5 marks each)
+(a) Suggest a positioning strategy for Recovery Clinics and Hospitals.
+
+(b) Explain why it would be necessary for doctors as well as nursing staff to be
+marketing oriented.
+
+SECTION B
+
+Note: Attempt any Four questions from Section B.
+Each Q in Section B carries 10 marks
+
+1. What are the various reasons for growth of the service economy? Explain the
+salient characteristics of the Services.
+
+2. Describe the various gaps that could exist in services quality. Give illustrations.
+What are your prescriptions for reducing such services quality gaps?
+
+3. What are the reasons for gap between demand and supply of services? What
+
+F] } should an organization do if supply of its services exceeds demand?
+
+4. What is the importance of human factor in service organizations? How can it
+help in achieving service leadership?
+
+5. (a) What do you mean by service recovery?
+
+(b) What are waiting line strategies?
+
+x
+2h
+````
+
 ## 2011-12 · Re-Exam · Trim 14 · paper 082ecee68c26
 
 - Departments: Common (all branches)
@@ -1395,120 +1511,4 @@ your answer.
 yy
 
 Page 5 of 5
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper a23d3f9a2933
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/SERVICE MARKETING/scan0001(23).pdf`
-- Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (2 pages), mean OCR confidence 94.1
-
-````text
-SVKM’s NMIMS *
-
-VKM'S
-P; Mukesh Patel School Of Technology Management & En ineering, Mis eit wad ‘s
-Togramme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV : EL oem ) fi
-Academic Year : 2012-2013 as
-Subject: SERVICES MARKETING Marks: 50 i
-bate: 08/01/2013 Time: 2.00 p.m To 4.00 p.m
-
-Duration: 2 hrs.
-Final - Examination
-
-SECTION A
-Study the case given below and answer the questions given at the end.
-Marketing of Health Services
-
-Pulin Kayastha was simply amazed. He had seen all forms of hostility and marketing
-warfare in the consumer goods industry, but to see similar warfare in the health industry
-fascinated him. Clearly, he told himself, doctors had found consumers in their patients.
-At least, that's what the concept note sent by Dr. Ajit Varman, country manager of
-Recovery Clinics & Hospitals, seemed to indicate. Varman and seven other senior
-doctors had left Karuna Nursing Home and Hospital to set up Recovery, which, as the
-note said. ".... would be entirely devoted and dedicated to customer responsiveness."
-
-Pulin was a management consultant and was recommended to Recovery by the
-marketing director of Regrow Pharma, a large pharmaceuticals company in Mumbai. In
-fact, the suggestion to set up Recovery came from a non-resident patient, Dinesh Shah,
-who was undergoing treatment at Karuna's large speciality hospital in Central India. It
-was in the course of his interaction with the doctors that Shah sensed their unhappiness
-
-} with the system. This prompted him to suggest the idea of Recovery. Varman had joined
-Karuna 10 years ago, assured of a challenging career in a hospital that was promising to
-be different. But over time, disillusionment set in as Karuna's image and response to the
-environment diluted its equity.
-
-"Now that we have decided to do this, we do not want to repeat old mistakes," Varman
-had told Pulin duing their first meeting. "Having worked at Karuna, we can see its
-weaknesses and why it's losing saliency. Ten years ago, when it was established, we
-believed it was going to add value to our careers, We became a part of it because we
-were told that we are specialists who would bring exclusivity to the hospital. But soon,
-the focus shifted to fetching business and revenues. The management started hiring
-
-4 } specialists and private practitioners, offering them cabins and consultancy arrangements
-at Karuna. The strategy was that these doctors would bring in their patients and use the
-infrastructure so that the hospital would start earning money."
-
-The Karuna management wanted to derive short-term benefits, than gradually build up
-clientele. But the strategy, it appeared, did not pay off. As Varman said: "Because there
-were many doctors and the business was not large enough in the first few months’
-Consequently, competition for business became cut-throat between doctors."
-
-Vp
---- page 2 ---
-Despite modern amenities, state-of-art systems and numerous doctors, the image of the
-hospital was that of being too commercial - a fallout of the stigma of being a private
-hospital. It was common among doctors to slot every hospital under either category - a
-place where you get neglected to death or a place where you get researched to death.
-Karuna earned a new label - a place where you got cross-referred to death, for doctors
-at Karuna slowly took to enhancing each others' earnings as they sent patients back and
-forth to doctors and specialists. At the end of his diagnoses, the patient ended up paying
-a huge amount of money for this treatment.
-
-According to Varman, the high-cost, high-expectation syndrome hit the hospital. The
-initial promise of exclusivity and quality was lost. Karuna had the best doctors. but after-
-care was abysmal. With a view to keeping costs low, nurses, house-keeping staff and
-even tbe front: office staff were hired. cheap, training was virtually absent, and no
-attention was paid to end-user needs.
-
-Kayastha could see Recovery trying to be all that Karuna was not and desiring not to be
-all that Karuna was. If Kayastha thought Varman was hiring him for routine systems
-design and a patient management manual, he was mistaken. For Varman said : "We
-want to get Recovery's positioning platform right and work on a sound marketing plan.
-What we want you to do is to help us build this brand, help ordinary doctors like us
-understand what brand-building entails and how it is managed in a service industry."
-
-Questions : (5 marks each)
-(a) Suggest a positioning strategy for Recovery Clinics and Hospitals.
-
-(b) Explain why it would be necessary for doctors as well as nursing staff to be
-marketing oriented.
-
-SECTION B
-
-Note: Attempt any Four questions from Section B.
-Each Q in Section B carries 10 marks
-
-1. What are the various reasons for growth of the service economy? Explain the
-salient characteristics of the Services.
-
-2. Describe the various gaps that could exist in services quality. Give illustrations.
-What are your prescriptions for reducing such services quality gaps?
-
-3. What are the reasons for gap between demand and supply of services? What
-
-F] } should an organization do if supply of its services exceeds demand?
-
-4. What is the importance of human factor in service organizations? How can it
-help in achieving service leadership?
-
-5. (a) What do you mean by service recovery?
-
-(b) What are waiting line strategies?
-
-x
-2h
 ````

@@ -237,6 +237,7 @@ Regulations, 2011 relating to escrow account. (08)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/MANAGEMENT OF MERGERS AND ACQUISITION/Management of Mergers and Acquistions Final 2018-19.pdf`
 - Printed on paper: max marks: 60; duration hours: 2; exam date: 12 December 2018
 - Text: ocr (3 pages), mean OCR confidence 93.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -321,7 +322,6 @@ X Ltd and Y Ltd were amalgamated on I* April 2018. A new company Z was formed to
 business of the existing companies. Here are the balance sheets of X Ltd and Y Ltd as on 31% March 2018:
 
 Liabilities X Ltd Y Ltd Assets X Ltd Y Ltd
-Rs in Rs in Rs in Rs in
 lakh lakh ‘ ; lakh lakh
 
 Equity Shares of Rs 100 each 4000 3200 | Fixed Assets 6800 4000
@@ -954,6 +954,75 @@ OH!
 Va
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 97a97c485bfe
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Mergers & acquisitions/scan0013(8).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 10/01/2013
+- Text: ocr (2 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS \
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALLSTREAMS Year: V Trimester: XIV SS ais
+
+Academic Year : 2012-2013 —_
+Subject: MANAGEMENT OF MERGERS Marks: 50
+AND ACQUISITION Time: 11.00 a.m To 1.00 p.m
+Date: 10/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+
+NB:
+1. Question No. 7 is compulsory.
+2. Out of remaining questions, attempt any three questions.
+3. In all four questions to be attempted.
+4. Question No. 1 to 6 carry equal marks.
+5. Answer to each new question to be started ona fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+Ql. (a) Define the concept of corporate restructuring. What does the process of
+
+corporate restructuring involve? (05)
+
+(b) What are the barriers to corporate restructuring? (05)
+
+} Q2. (a) What are the benefits and weaknesses of takeover? (05)
+(b) What do you mean by takeover defences’? Explain any seven takeover
+
+defences. (05)
+
+Q3. (a) What is due diligence? Who are the persons interested on due diligence?
+
+Why? (05)
+(b) What are the objectives and benefits of listing of securities? (05)
+Ot. (a) Why do companies value themselves? (05)
+‘ (b) Explain the factors that are considered for valuation of a company. (95)
+Q5. (a) What are cross border acquisitions? Explain its benefits. (05)
+
+(b) “Cross border acquisitions are better said than done?” Explain (05)
+Q6. (a) What are strategic alliances? Explain the reasons why companies enter into
+
+strategic alliance. (05)
+(b) Analyse the types of internal development. (05)
+
+yo
+--- page 2 ---
+Q7. Write notes on: (any 4)
+(a) Persons acting in Concert
+(b) BCG Matrix and mergers and acquisitions
+(c) Litigation Analysis
+(d) Need for IFRS
+(e) Divestitures as source of value
+(f) Types of acquisitions
+(g) LBO’s
+
+(4x5)
+````
+
 ## 2010-11 · Exam not stated · Trim 14 · paper 77fee4db6fa5
 
 - Departments: Common (all branches)
@@ -1475,6 +1544,7 @@ given impetus to M & A. Discuss. (10)
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Mergers & acquisitions/2008-2009(146).pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > SVK4A"S a
@@ -1488,7 +1558,6 @@ OO § HOB oe
 ‘amayemat of Mergerand Acquisitions
 Dole: OG-0 2-09, i2.09- 2-20 P™
 Max. Marks: 50 Time Allotted: 2 hours
-ENE EE Ee 2 2 OE SE EO OE OE a SE EE EO EE EE A EE EE ES a a EE EE OE OF OE EE EE EE OE EE EE EE EE OE a a EE EE EE a a
 NOTE:
 1. Question No.5 is compulsory and carries 14 marks.
 2. Attempt any three questions from the remaining, each carrying 12 marks.
@@ -1581,6 +1650,7 @@ investments at a re-valued figure of Rs.2,20,000 and all current assets at book 
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Mergers & acquisitions/2008-2009 re exam(73).pdf`
 - Printed on paper: max marks: 50; duration hours: 2
 - Text: ocr (2 pages), mean OCR confidence 86.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS UNIVERSITY (Deemed U Rfsityyie ria
@@ -1592,7 +1662,6 @@ cin — se
 Ool@ | 23-06-09 10-60-)2-CO non
 
 Max. Marks: 50 Time Allotted: 2 hours
-1 Re ee ee Oe ei Oe ee a Re ee Ee ee a ee Oe 2 ae 2 a ee he ie ee a ee a a ee ee ee a ie ee a Oe a a OEE EE OEE Oe EE Ee EE Ee EE EE
 NOTE:
 
 1. Question No.5 is compulsory and carries 14 marks.
@@ -1639,7 +1708,6 @@ What will be the new value of the company based on net assets basis?
 5. Floppy Disks India Limited (FDIL) has decided to merge with Pen Drive Makers India \
 (PDMIL) Limited. The following details are available from the records of both the companies: \
 
-Liabilities FDIL PDMIL Assets FDIL PDMIL
 Share Capital of 50,00,000 80,00,000 | Fixed Assets 85,00,000 | 1,60,00,000
 Rs.10 each
 Capital Reserves 10,00,000 --- | Current Assets 69,00,000 | 1,68,00,000
@@ -1666,73 +1734,4 @@ post merger. ee
 +#*4%% BEST OF LUCK ******
 
 Se yo
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 97a97c485bfe
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Management of Mergers & acquisitions/scan0013(8).pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 10/01/2013
-- Text: ocr (2 pages), mean OCR confidence 90.5
-
-````text
-SVKM’s NMIMS \
-Mukesh Patel School Of Technology Management & Engineering
-Programme: MBA (Tech) -ALLSTREAMS Year: V Trimester: XIV SS ais
-
-Academic Year : 2012-2013 —_
-Subject: MANAGEMENT OF MERGERS Marks: 50
-AND ACQUISITION Time: 11.00 a.m To 1.00 p.m
-Date: 10/01/2013 Duration: 2 hrs.
-
-Final - Examination
-
-RH HR EO a OE a a a a a a EE OO EO EO EE a EE EE EE EE EE
-
-NB:
-1. Question No. 7 is compulsory.
-2. Out of remaining questions, attempt any three questions.
-3. In all four questions to be attempted.
-4. Question No. 1 to 6 carry equal marks.
-5. Answer to each new question to be started ona fresh page.
-6. Figures in brackets on the right hand side indicate full marks.
-
-Ql. (a) Define the concept of corporate restructuring. What does the process of
-
-corporate restructuring involve? (05)
-
-(b) What are the barriers to corporate restructuring? (05)
-
-} Q2. (a) What are the benefits and weaknesses of takeover? (05)
-(b) What do you mean by takeover defences’? Explain any seven takeover
-
-defences. (05)
-
-Q3. (a) What is due diligence? Who are the persons interested on due diligence?
-
-Why? (05)
-(b) What are the objectives and benefits of listing of securities? (05)
-Ot. (a) Why do companies value themselves? (05)
-‘ (b) Explain the factors that are considered for valuation of a company. (95)
-Q5. (a) What are cross border acquisitions? Explain its benefits. (05)
-
-(b) “Cross border acquisitions are better said than done?” Explain (05)
-Q6. (a) What are strategic alliances? Explain the reasons why companies enter into
-
-strategic alliance. (05)
-(b) Analyse the types of internal development. (05)
-
-yo
---- page 2 ---
-Q7. Write notes on: (any 4)
-(a) Persons acting in Concert
-(b) BCG Matrix and mergers and acquisitions
-(c) Litigation Analysis
-(d) Need for IFRS
-(e) Divestitures as source of value
-(f) Types of acquisitions
-(g) LBO’s
-
-(4x5)
 ````

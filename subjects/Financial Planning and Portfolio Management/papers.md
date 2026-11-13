@@ -4,6 +4,215 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 10 · paper 0a8580a5a302
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Finacial Planning and portfolio Management, Sem-X, Batch, 2023-24, 2024-25 & 2025_d6f7cb5b.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 July 2026
+- Text: ocr (4 pages), mean OCR confidence 85.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEER
+Academic Year: 2025-26
+
+Program: MBA Tech (IT/COMP/AI/MECH/DS/EXTC)
+
+Year: V Semester : X .
+Subject: Financial Planning and Portfolio Management
+
+Time: 2.00 pm to 4.00 pm (2 hrs) ~~
+Date : 04 July 2026
+
+No. of Pages: O04
+Re-Exam (2023-24/2024-25/2025-26)
+
+Marks: 50
+
+Instructions:
+I. This question paper contains 4 pages.
+2. Question | is Compulsory.
+3. From remaining questions, attempt any four.
+4. In all five questions to be attempted.
+5. Figure in right hand side indicates full marks
+6. Answer to each new question to be started on a fresh page.
+7. All questions carry equal marks.
+8. Assume suitable data if necessary
+
+>— — — a a a : - _
+*) | QI | Answer briefly . Marks
+CO-1; SO- . sae . .
+BL a Explain the key differences between publicly traded and non-publicly traded [2.5]
+; BL- a jal instr . 4
+Understand financial instruments
+CO-1; SO- .
+; BL- b | Explain growth investing and value investing. [2.5]
+Understand
+_ _ The following information is available in the market:
+Risk-free rate = 4%
+Expected market return = 12%
+CO-4: SO- Three securities A, B, and C have the following characteristics:
+; BL- c Security Beta Expected Return | [2.5]
+Oy Apply A 0.8 9%
+B 1.2 13%
+- G 1.6 14%
+Determine the alpha (a) for each security and identify whether each security is
+po undervalued, overvalued, or fairly valued. —_
+* | Using the following information and the Sharpe’s Single Index Model,
+calculate the Z values (Zi) and the corresponding weights (Wi) for the
+CO-4; SO- securities included in the optimal portfolio. Also compute the expected return
+; BL- d_| of the portfolio. * [2.5]
+Apply
+a = _— :
+Expected 2
+Security Bi *ei
+f suey Return (%) pi ose |
+7 A 7 15 | 35 |
+--- page 2 ---
+ai
+
+1.3
+
+Td] Fo 15 3 20 ia
+
+Additional Information:
+
+Risk-free rate (Rf) = 6%
+Market variance (o?m) = 12
+Cut-off rate (C*) = 4.551
+
+Ms. Steffi, aged 40, is planning for retirement at the age of 60 years. She expects
+to live until 85.
+
+Her financial goals are as follows:
+
+She wants an annual post-retirement income of 212,00,000, growing at 5% per
+year (to adjust for inflation). She expects to earn 11% return during retirement.
+She wants to leave a bequest of 250,00,000 for her son when she dies.
+
+CO-1; SO-
+pan Currently, she h ings of 210,00,000, earning 9% ly and want t
+urren ‘ s saving! earning annually and want to
+Understand | Q2 rently, she has savings 0 00,000, earning 9% an y 110]
++BL- continue to do so.
+Apply She plans to invest a fixed amount every year until retirement at 9% return.
+Calculate the annual investment required to meet this goal.
+Explain the significance of the financial planning process, with particular
+emphasis on the role of retirement planning in ensuring long-term financial
+security for individuals.
+i; Assume that the single-factor Arbitrage Pricing Theory (APT) holds and the
+following two portfolios are in equilibrium:
+Portfolio | Expected Return (%) | Beta
+xX 14.0 1.20
+Y 8.0 0.50 |
+(a) Determine the APT equation governing the expected returns of the
+CO-2: SO- portfolios.
+> BL- Q3 ByS ; lio Z with [10]
+Byaluare (b) Suppose there exists another portfolio Z with:
+
+L_
+
+-e Beta = 1.40
+
+¢ Expected return = 18%
+“Using the APT equation obtained in part (a), determine whether portfolio Z is:
+
+¢ correctly priced
+
+* underpriced
+
+* overpriced
+(c) If an arbitrage opportunity exists, explain the arbitrage strategy an investor
+should adopt to earn a riskless profit and compute the profit
+
+FORK DOr
+--- page 3 ---
+of
+
+-
+
+—-
+Mr. Kapoor, a finance professional, wants to construct a portfolio using the
+Sharpe’s Single Index Model. He is evaluating five stocks and plans,to select
+best combination based on their risk-return characteristics. The fgllowing
+information is available: .
+| Security Gi (%) Bi Crei
+Alpha 5 1.2 10
+Beta 8 0.9 8
+Gamma _ | 2 LS 14
+Delta 10 0.7 6
+CO-4; SO- Epsilon | 4 1.1 9
+; BL- Q4 a [10]
+Apply The expected market return is 18% and market variance is 16. Using the Sharpe’s
+Single Index Model:
+Calculate the expected return and total risk (variance) of each security.
+Based on the return per unit of risk, rank the securities and select the best three
+stocks. ’
+Assuming that Mr. Kapoor invests equally in the selected three securities,
+calculate the expected return of portfolio, portfolio beta, and portfolio variance,
+and briefly comment on the impact of diversification on unsystematic risk.
+Q5 | Answer the following
+The returns of a security under different states of the economy are given below:
+State of Economy | Probability (Pi) | Sec A Sec B
+Ri (%) Ri (%)
+Boom 0.30 20 10
+Normal 0.50 14 15
+CO SO ome 0.20 8 9
+> BL- a ecesston : 05]
+Analyse .
+Required:
+(a) Calculate the expected return of the portfolio.
+(b) Calculate the standard deviation of the portfolio if equal amount is invested
+in each security, given that the standard deviation of the security A is 5% and
+security B is 3% and correlation coefficient is - 0.8
+-BL- b Define portfolio revision and explain its objective. How does portfolio revision 105]
+3 a Tac ; igk-return balance? 5
+Analyse help in achieving optimal risk inten balance?
+z Q6 Answer the following 7
+
+FORK QR RR KO
+--- page 4 ---
+of
+
+An investor is evaluating the performance of two portfolios, Portfolio X and
+Portfolio Y, in comparison to the market. Risk free rate is 6%. The @llowing
+
+data is available: -
+Particulars Portfolio X | Portfolio Y | Market
+CO-2; SO- Average Return (%) 17 21 14
+; Ble * a Standard Deviation (o) 16 32 18 [05]
+Evaluate Beta (8) 0.9 1.2 1
+Calculate the Treynor Ratio for both portfolios.
+Calculate Fama’s Net selectivity for both portfolios.
+Based on your results, briefly comment on which portfolio demonstrates better
+performance.
+CO-1; SO- Explain how futures and options can be incorporated into an investment
+; BL- b | portfolio. Discuss their purpose in portfolio management with respect to risk [05]
+Understand management, return enhancement, and overall portfolio efficiency.
+Q7 | Answer the following
+An investor is considering a portfolio consisting of two assets, X and Y having
+a correlation coefficient of 0.30
+Security | Expected Return: | Standard Deviation
+xX 12% 18%
+¥ : 9% 10%
+CO-4; SO- Plot the Risk—Return combinations for the two portfolios.
+« BL= a [5]
+Apply Portfolio Weight in X Weight in Y
+Pl 0.7 0.3
+| P2 0.3 - 0.7
+Based on your results, identify which portfolio is more efficient and justify
+your answer.
+CO-1; SO- a. oo. . at
+BL Discuss semi active strategies of bond portfolio management. How do they help [5]
+Understand in improving portfolio performance? 7
+.
+f
+
+ee ee ee .
+````
+
 ## 2025-26 · Final-Exam · Sem 9 · paper e59520c1c53b
 
 - Departments: Computer Engineering
@@ -1192,216 +1401,6 @@ Discuss semi active strategies of bond portfolio management. How do they help
 in improving portfolio performance?
 Understand
 ********** 4 **********
-````
-
-## 2024-25 · Exam not stated · Sem 10 · paper 0a8580a5a302
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Finacial Planning and portfolio Management, Sem-X, Batch, 2023-24, 2024-25 & 2025_d6f7cb5b.pdf`
-- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 July 2026
-- Text: ocr (4 pages), mean OCR confidence 85.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEER
-Academic Year: 2025-26
-
-Program: MBA Tech (IT/COMP/AI/MECH/DS/EXTC)
-
-Year: V Semester : X .
-Subject: Financial Planning and Portfolio Management
-
-Time: 2.00 pm to 4.00 pm (2 hrs) ~~
-Date : 04 July 2026
-
-No. of Pages: O04
-Re-Exam (2023-24/2024-25/2025-26)
-
-Marks: 50
-
-Instructions:
-I. This question paper contains 4 pages.
-2. Question | is Compulsory.
-3. From remaining questions, attempt any four.
-4. In all five questions to be attempted.
-5. Figure in right hand side indicates full marks
-6. Answer to each new question to be started on a fresh page.
-7. All questions carry equal marks.
-8. Assume suitable data if necessary
-
->— — — a a a : - _
-*) | QI | Answer briefly . Marks
-CO-1; SO- . sae . .
-BL a Explain the key differences between publicly traded and non-publicly traded [2.5]
-; BL- a jal instr . 4
-Understand financial instruments
-CO-1; SO- .
-; BL- b | Explain growth investing and value investing. [2.5]
-Understand
-_ _ The following information is available in the market:
-Risk-free rate = 4%
-Expected market return = 12%
-CO-4: SO- Three securities A, B, and C have the following characteristics:
-; BL- c Security Beta Expected Return | [2.5]
-Oy Apply A 0.8 9%
-B 1.2 13%
-- G 1.6 14%
-Determine the alpha (a) for each security and identify whether each security is
-po undervalued, overvalued, or fairly valued. —_
-* | Using the following information and the Sharpe’s Single Index Model,
-calculate the Z values (Zi) and the corresponding weights (Wi) for the
-CO-4; SO- securities included in the optimal portfolio. Also compute the expected return
-; BL- d_| of the portfolio. * [2.5]
-Apply
-a = _— :
-Expected 2
-Security Bi *ei
-f suey Return (%) pi ose |
-7 A 7 15 | 35 |
-ORK KOK KR ORK 1 OR ROR KOK KO *
---- page 2 ---
-ai
-
-1.3
-
-Td] Fo 15 3 20 ia
-
-Additional Information:
-
-Risk-free rate (Rf) = 6%
-Market variance (o?m) = 12
-Cut-off rate (C*) = 4.551
-
-Ms. Steffi, aged 40, is planning for retirement at the age of 60 years. She expects
-to live until 85.
-
-Her financial goals are as follows:
-
-She wants an annual post-retirement income of 212,00,000, growing at 5% per
-year (to adjust for inflation). She expects to earn 11% return during retirement.
-She wants to leave a bequest of 250,00,000 for her son when she dies.
-
-CO-1; SO-
-pan Currently, she h ings of 210,00,000, earning 9% ly and want t
-urren ‘ s saving! earning annually and want to
-Understand | Q2 rently, she has savings 0 00,000, earning 9% an y 110]
-+BL- continue to do so.
-Apply She plans to invest a fixed amount every year until retirement at 9% return.
-Calculate the annual investment required to meet this goal.
-Explain the significance of the financial planning process, with particular
-emphasis on the role of retirement planning in ensuring long-term financial
-security for individuals.
-i; Assume that the single-factor Arbitrage Pricing Theory (APT) holds and the
-following two portfolios are in equilibrium:
-Portfolio | Expected Return (%) | Beta
-xX 14.0 1.20
-Y 8.0 0.50 |
-(a) Determine the APT equation governing the expected returns of the
-CO-2: SO- portfolios.
-> BL- Q3 ByS ; lio Z with [10]
-Byaluare (b) Suppose there exists another portfolio Z with:
-
-L_
-
--e Beta = 1.40
-
-¢ Expected return = 18%
-“Using the APT equation obtained in part (a), determine whether portfolio Z is:
-
-¢ correctly priced
-
-* underpriced
-
-* overpriced
-(c) If an arbitrage opportunity exists, explain the arbitrage strategy an investor
-should adopt to earn a riskless profit and compute the profit
-
-FORK DOr
---- page 3 ---
-of
-
--
-
-—-
-Mr. Kapoor, a finance professional, wants to construct a portfolio using the
-Sharpe’s Single Index Model. He is evaluating five stocks and plans,to select
-best combination based on their risk-return characteristics. The fgllowing
-information is available: .
-| Security Gi (%) Bi Crei
-Alpha 5 1.2 10
-Beta 8 0.9 8
-Gamma _ | 2 LS 14
-Delta 10 0.7 6
-CO-4; SO- Epsilon | 4 1.1 9
-; BL- Q4 a [10]
-Apply The expected market return is 18% and market variance is 16. Using the Sharpe’s
-Single Index Model:
-Calculate the expected return and total risk (variance) of each security.
-Based on the return per unit of risk, rank the securities and select the best three
-stocks. ’
-Assuming that Mr. Kapoor invests equally in the selected three securities,
-calculate the expected return of portfolio, portfolio beta, and portfolio variance,
-and briefly comment on the impact of diversification on unsystematic risk.
-Q5 | Answer the following
-The returns of a security under different states of the economy are given below:
-State of Economy | Probability (Pi) | Sec A Sec B
-Ri (%) Ri (%)
-Boom 0.30 20 10
-Normal 0.50 14 15
-CO SO ome 0.20 8 9
-> BL- a ecesston : 05]
-Analyse .
-Required:
-(a) Calculate the expected return of the portfolio.
-(b) Calculate the standard deviation of the portfolio if equal amount is invested
-in each security, given that the standard deviation of the security A is 5% and
-security B is 3% and correlation coefficient is - 0.8
-CO-3; SO- . oe . a Lo. ; a.
--BL- b Define portfolio revision and explain its objective. How does portfolio revision 105]
-3 a Tac ; igk-return balance? 5
-Analyse help in achieving optimal risk inten balance?
-z Q6 Answer the following 7
-
-FORK QR RR KO
---- page 4 ---
-of
-
-An investor is evaluating the performance of two portfolios, Portfolio X and
-Portfolio Y, in comparison to the market. Risk free rate is 6%. The @llowing
-
-data is available: -
-Particulars Portfolio X | Portfolio Y | Market
-CO-2; SO- Average Return (%) 17 21 14
-; Ble * a Standard Deviation (o) 16 32 18 [05]
-Evaluate Beta (8) 0.9 1.2 1
-Calculate the Treynor Ratio for both portfolios.
-Calculate Fama’s Net selectivity for both portfolios.
-Based on your results, briefly comment on which portfolio demonstrates better
-performance.
-CO-1; SO- Explain how futures and options can be incorporated into an investment
-; BL- b | portfolio. Discuss their purpose in portfolio management with respect to risk [05]
-Understand management, return enhancement, and overall portfolio efficiency.
-Q7 | Answer the following
-An investor is considering a portfolio consisting of two assets, X and Y having
-a correlation coefficient of 0.30
-Security | Expected Return: | Standard Deviation
-xX 12% 18%
-¥ : 9% 10%
-CO-4; SO- Plot the Risk—Return combinations for the two portfolios.
-« BL= a [5]
-Apply Portfolio Weight in X Weight in Y
-Pl 0.7 0.3
-| P2 0.3 - 0.7
-Based on your results, identify which portfolio is more efficient and justify
-your answer.
-CO-1; SO- a. oo. . at
-BL Discuss semi active strategies of bond portfolio management. How do they help [5]
-Understand in improving portfolio performance? 7
-.
-f
-
-ee ee ee .
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · paper 79b0b170705e
@@ -2853,6 +2852,154 @@ Understand
 ********** 3 **********
 ````
 
+## 2023-24 · Exam not stated · Sem 10 · paper e4d226d9cede
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management.pdf`
+- Printed on paper: max marks: 50; exam date: 24/4 /24
+- Text: ocr (3 pages), mean OCR confidence 89.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program: MBA Tech; Stream; All Streams Year: V Semester: X
+Subject: Financial Planning and Portfolio Management Time: __2__hrs(2<0opmto 430 0pm)
+
+Date: 24/4 /24 . No. of Pages: 3 pages
+
+Marks: 50
+
+Final Examination/Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _i___ is compulsory.
+= 2) Out of remaining questions, attempt any __4__ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: {10]
+An investor is considering investing in two securities with the following data:
+. Expected Returns Standard Deviation
+Security * a
+. (%) (%)
+CO- 3; SO- ;
+BL-Appl A 12.5 15 [03]
+7 B 21 18 .
+Create a portfolio with minimum risk possible and indicate the expected return
+and standard deviation of this portfolio if correlation coefficient between A and
+a Bis-1?
+Bn SO-; b What does the term "Iaddering" refer to in the context of managing a bond [03]
+* | portfolio?
+Understand
+
+Explain the importance of “Markowitz Portfolio theory” while constructing
+CO- 1; SO- ; ea , ia . :
+efficient portfolios that maximize expected return for a given level of risk, or [04]
+
+BL- eS ‘
+Understand © | minimize risk for a given level of expected return
+
+L —
+
+Page 1 of 3
+--- page 2 ---
+A Portfolio consisting of three securities have the following data:
+
+Security P Q R Market | Risk free asset
+Expected Return (%) 23.8 | 21 19.6 14.5 8.5
+Standard Deviation (%) | 32.5 | 25.5 | 25.3 22,
+Weights 0:40 | 0.25 | 0.35
+2. CO-3;
+alae | Correlation P Q R M [10]
+Analyse Pp 1 | -0.4 | 0.7 0.9
+Q -0.4 1 0.6 -0.7
+R a7 | 0.6 1 0.45 >
+M 0.9 | -0.7 | 0.45 1
+a. Estimate the expected return and standard deviation of the portfolio
+b. Determine the sensitivity of each security to the market.
+c. Using CAPM, determine the expected returns of each security
+Consider the following data regarding three risk factors and three securities A,
+B, and C: ,
+Security | Factor | | Factor2 | Current Price | Future Price
+Q3. CO-2; A 0.7 1.5 75 | ° 90
+SO-: BL- B 1.8 0.8 22 30 [10]
+Evaluate Cc 2.3 1.2 291 325
+Risk premium associated with the risk factors - 10= 4%, L1= 3%, 22 = 5%
+a. Assess the expected return of three securities
+b. Explain the arbitrage trading strategy to be used in case of any mispricing
+of the securities and calculate the arbitrage profit.
+Following information is available to a stock market investor who is prepared
+to make an investment in following stocks:
+Security | Expected Return Bi ei?
+A 17 1.5 35
+Q4. CO-4; B 13 ws 32
+SO-; BL- Cc 9 1.2 25 [10]
+Apply D 10 l 12
+E 8 1.5 15
+F 15 13 20
+
+Market index variance is 12, and the risk-free rate of return is 6%. What should
+be the optimum portfolio assuming no short sales? Use Sharpe index model for
+constructing optimal portfolio.
+
+Page 2 of 3
+--- page 3 ---
+a
+
+-~
+
+;
+
+Mr. Santa is 45 years of age today and wants to accumulate Rs. 80,00,000 at
+
+the time of retirement (60 years of age) to fulfill his post retirement needs.
+
+¢ How much money should he save each
+
+year for the next 15 years to be able
+Q5. CO-1; to meet his post retirement requirement if he already has Rs. 8,00,000
+SO-; BL- which will earn 10% return? [10]
+Understand
+¢ Inthe realm of financial planning, with a particular emphasis on retirement,
+could you elaborate on the significance of robust retirement planning
+strategies and recommend suitable investment vehicles to ensure long-term
+financial security .
+Q6. Answer the following _ [10]
+A portfolio manager is considering using either the constant rupee value plan
+CO-3; SO-; and the constant ratio plan as a portfolio revision strategy in an equally 04
+BL-Analyse a weighted debt and equity portfolio. Analyze and elaborate on advantages and [04]
+disadvantages of these Strategies so that the manager can take a decision.
+A fund manager is evaluating the performances of three portfolio managers.
+The following data available:
+Portfolio Annual return(%) | Standard Deviation Beta
+A 19 20 2
+CO-2; SO-; 10 Ll
+BL-Evaluate 8 08 [06]
+Market 18 1 |
+Using portfolio evaluation parameters such as Sharpe Ratio, Treynor’s Ratio,
+Jensen’s Alpha - assist the manager in ranking of the portfolios if the risk free
+rate is 8%
+Q7 Answer the following [10]
+CO-1; SO-; Write a brief note on using market timing for actively managing equity
+BL- a i [05]
+portfolio.
+Understand | |
+CO-1; SO-;
+BL- b | What are the factors affecting the option price? [05]
+Understand
+
+Page 3 of 3
+````
+
 ## 2023-24 · Re-Exam · Sem 10 · paper c3bec46e890a
 
 - Departments: Common (all branches)
@@ -3004,6 +3151,519 @@ BL- b | their investment portfolios. [05]
 | Understand
 
 Page 3 of 3
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 20b24d977b3b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management_20b24d977b.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (4 pages), mean OCR confidence 91.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: MBA Tech; Stream; All Streams Year: V Semester: X
+Subject: Financial Planning and Portfolio Management Time: 2 __hrs( Qseopwto 42 e0prr)
+Date:_26/06/ 2023 No. of Pages: 4 pages
+Marks: 50
+_‘Re+Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+the cover of the Answer Book, which is provided for their use.
+
+>
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any __4 questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql
+a Answer briefly: [14]
+a. | The following data relates to Dew and Raindrop corporations.
+Stocks ERi) Standard Deviation
+CO- 2; SO- ; Dew 25% 20% 3]
+BL- Analyse Raindrop 35% 30%
+Calculate the portfolio return for the minimum risk portfolio comprising of
+these two stocks.
+CO-1;80-: “Options contribute significantly to portfolio management due to their
+unique characteristics of limited loss and limited profit”. Illustrate the | [3]
+BL- Apply
+
+statement with example.
+
+Page 1 of 4
+--- page 2 ---
+c. | Mr. Harry’s present salary is Rs.10,00,000 p.a which is likely to grow at'8%
+‘| p.a. Mr. Harry is 50 years of age today and wants to save for his post
+
+CO- 4; SO- ; retirement needs. He wants to have 30% of his last drawn salary as an annual (4)
+BL- Apply income post retirement for 20 years which he expects to live after his
+retirement at 60 years of age. How much money he should have at the time
+
+of retirement to meet post retirement needs if discount rate is 12% p.a.
+
+= Answer the following questions: [10]
+A-/A portfolio manager has just initiated the coverage of a-stock Indiana Ltd
+which is listed company and he is working on the expected return from the
+CO-2; SO stock. The returns of Indiana Ltd have a covariance with market of 0.0635
+BL- Analyse and the market returns have a standard deviation of 0.208. What is the [05]
+
+required rate of return of Indiana Ltd. The market risk premium is 9.4%
+
+and the risk-free rate is 4.9%.
+
+B | Red Box Ltd has a standard deviation of 15% and an estimated beta of 1.2.
+
+— The expected return of the market index is 15% and standard deviation is [05]
+; ; 10%. Prepare a regression equation using Sharpe’s single index model and
+
+BL- Analyse
+estimate the firm specific risk of the stock.
+Consider the following data regarding three risk factors and three
+securities A, B, and C:
+~ Current Future
+Security | Factor1 | Factor2 Price Price
+Q3 A 0.5 1,2. 200 220
+B 1.5 1 50 65
+CO-2; SO-; C 2.5 0.6 100 125 [10]
+BL-Evaluate Risk premium associated with the risk factors
+
+N= 5%, A1= 4%, 12 = 6%
+a. Compute Expected return of three securities
+b. Explain the arbitrage trading strategy to be used in case of any
+
+mispricing of the securities and calculate the arbitrage profit.
+
+Page 2 of 4
+--- page 3 ---
+Mr. Frodo is planning to construct an optimal portfolio and following
+securities are under consideration. Find out Cut off point using Sharpe’s
+Optimal portfolio if Risk-free return is 6% and market variance is 12
+
+Security Ri Bi oei2
+Q4 A 17 1 50
+CO-2; SO-; B 19 1.5 40 [10]
+BL- Appl ;
+_— sll C 9 0.6 30
+™ D 23 Le? 30
+E 11 1.1 20
+F 10 0.7 20
+G 12 1.3 10
+Q5
+Answer the following question: [10]
+“A buy and hold policy for a mutual fund manager would be hardly useful
+in the current global macroeconomic environment”.
+CO-1; SO-; Critically evaluate this statement from a portfolio revision point of view in 15]
+BL- Analyze the backdrop of the news of banking crisis in US and Europe and Silicon
+Valley Bank collapsed in the US while European Bank Credit Suisse was
+( bailed out by the Swiss National Bank.
+A mutual fund analyst has collected the following past performance report
+of 3 mutual funds and the NIFTY Index. Rank these funds based on
+Sharpe Ratio, Treynor’s ratio and Jensen’s Measure. Assume risk-free rate
+CO-3; SO-; of 7% and explain the behavior of these rankings. Select the best mutual
+BL- fund from an investment point of view of the three funds. [5]
+Evaluate Portfolio Return (%) Std. Deviation Beta
+SBI Fund 16 30 1.6
+HDFC Fund 10 15 1.5
+ICICI Fund 23 16 0.8
+
+Page 3 of 4
+--- page 4 ---
+NIFTY > 10 15 1.0,
+
+Q6 “Investment planning needs to be aligned with Financial goals” Explain f10]
+Understand the statement with appropriate example.
+Q7
+
+Answer in brief: [10]
+
+CO-4; SO-; A
+
+a. Distinguish between value investing and growth investing for an equity [5]
+portfolio manager :
+
+Understand
+
+CO-4; SO-; B
+BL- Describe Indexing as a passive strategy for bond portfolio management [5]
+Understand
+
+Page 40f4
+````
+
+## 2022-23 · Exam not stated · Sem 10 · paper 5d9130f16930
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management_5d9130f169.pdf`
+- Printed on paper: max marks: 50; exam date: 29/04/2023
+- Text: ocr (4 pages), mean OCR confidence 92.9
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023
+
+Program: MBA Tech; Stream; All Streams Year: V Semester: X
+
+Subject: Financial Planning and Portfolio Management
+Date: 29/04/2023
+Marks: 50
+
+Time: _Z __hrs(2:oopmto 4!0 Opm)
+
+No. of Pages: 4 pages
+
+Final Examination/ Re Exqntimaltor
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql .
+i Answer briefly: [14]
+a. The following parameters apply to Stock A and B.\
+Particulars Stock A Stock B
+CO- 2; SO-
+Expected Return 20% 30%
+BL Expected Variance 16 25 [3]
+Covariance between A and B 20
+Analyse :
+Is there any advantage of holding combination of Stock A and B together in
+the portfolio? Demonstrate.
+CO- 1; SO- | b. “Index futures facilitate implementation of portfolio management strategies”
+
+[3]
+; Illustrate the statement with example.
+
+Page lof4
+--- page 2 ---
+BL- Apply
+
+Mr. James wants to take a world tour which costs Rs. 10,00,000. The cost is
+
+CO- 4; SO- :
+expected to remain unchanged in nominal terms. He is willing to save
+, annually Rs. 80,000 to fulfill his wish. How long he has to wait if his savings
+BL- Apply
+earn 14% return per annum?
+Q2
+Answer the following questions: [10]
+Axis Bank stock has a Beta of 1.45 and expected return of 17% while PNB
+CO-2; SO-; stock has a beta of 0.85 and expected return of 12%. If the risk-free rate is
+BL- 6% and expected return from market is 13.5%, find if the stocks are [05]
+Analyse undervalued or overvalued based on the CAPM model. Justify your answer
+by plotting stock returns on the SML line.
+HDFC Mutual Only Equity scheme has the following features:
+Security Beta Random Error (cei) Weightage
+LOT 1.60 7 0.25
+MANGO 1.15 11 0.30
+CO-3; SO-;
+ar, NOBLE 1.40 3 0.25 [05]
+KITE 1.0 9 0.20
+Analyse
+Find the out the overall risk of the portfolio if the market has a standard
+deviation of 18%. Use the Sharpe Single index model to perform your
+calculations.
+APT model holds for the below mentioned data:
+Assume a risk free rate of 5% and the risk premium for factor 1 and factor 2
+is 8% and 6% respectively. Three portfolios with following characteristics
+3
+. are in equilibrium with respect to the two macroeconomic variables:
+CO-2; SO-; -
+“ Portfolio Beta 1 Beta 2 [10]
+: A 0.90 0.80
+Evaluate
+B 1.5 0.50
+Cc 1.30 1.10
+
+Page 2 of 4
+
+i)
+--- page 3 ---
+a. Evaluate the expected returns of the three portfolios A, B and C.
+
+b. Ifthere exists a portfolio D with Beta | of 1.22 and Beta 2 of 0.74
+and expected return of 23%, what strategy you will adopt to make
+profit.
+
+c. What profit can you generate?
+
+Mr. Theodore is planning to construct an optimal portfolio and following
+securities are under consideration. If investor wants to include all the
+securities in his portfolio and short selling is allowed, then what will be the
+
+return of his portfolio if risk-free return is 7%.
+
+Q4 Sec Ri Bi oei? Ci ;
+CO-2; SO-; P 20 1 50 2.17 [10]
+BL- Apply Q 24 1.5 40 5.09
+
+S 26 1.7 30 7.24
+
+R 12 0.6 30 7.29
+
+T 14 1.1 20 713
+
+Vv 15 1.3 10 6.81
+
+U 10 0.7 20 6.69
+Q5
+
+Answer the following question: [10]
+
+A In a rising interest rate scenario, what would be challenges faced by a
+
+CO-1; SO-; mutual fund manager who is using a “Constant Rupee Portfolio
+BL- Rebalancing strategy”. Assume that fund manager in managing a portfolio | [5]
+Analyze having equal weightage of debt and equity. Explain the constant mix
+
+portfolio revision strategy and then discuss any two challenges.
+
+B Given below is information on three Indian mutual funds. Rank the given
+
+mutual funds based on Sharpe ratio, Treynor’s ratio and Jenson’s Alpha.
+
+CO-3; SO-; .
+Assume risk-free rate is 7%.
+BL- [5]
+Mutual Fund Return (%) Std. Deviation Beta
+Evaluate
+A 16 30 1.6
+B 10 15 1.5
+
+Page 3 of 4
+--- page 4 ---
+Cc 23 16 0.8
+
+Sensex 10 15 1
+
+Consider two situations: Mr. Tango is a young man in his early 20s and Mr.
+
+Charlie is another middle aged man in his late 40s and earn same amount of
+
+Q6
+
+money. Charlie has a family, a house, a car and all other responsibilities of | [10]
+Understand
+
+married life. Both of them like to invest in stock market. What would be
+
+their financial goals and constraints in achieving these goals.
+Q7
+
+Answer in brief: [10]
+CO-4; SO-; | A
+BL- Explain Sector rotation in active equity portfolio management [5]
+Understand
+CO-4; SO-; | B
+=. Explain Immunization as a hybrid strategy for bond portfolio management [5]
+Understand
+
+Page 40f4
+
+a
+````
+
+## 2021-22 · Exam not stated · Sem 10 · paper b6ab32650ec3
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Financial Planning and Portfolio Management/Financial Planning and Portfolio Management , Sem X.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 28 April 2022
+- Text: ocr (4 pages), mean OCR confidence 89.3
+
+````text
+S! MPSTME#
+
+SVKM’s NMIMS t 7 1E j
+‘ENGINEERING / ’)
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN'’
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
+
+Academic Year: 2021-22
+
+Programme: MBA Tech (All Stream) Year: V Semester: X
+Subject: Financial Planning and Portfolio Management
+. Marks: 70
+Date: 28 April 2022 Time: 10.30 am to 12.30 pm
+
+Durations: 2 (Hrs)
+
+No. of Pages: _©4¢
+
+Final Examination
+
+Instructions: Candidates should read carefuliy the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi .
+| Answer briefly: [14]
+a. A portfolio consists of three securities P, Q and R with the following
+parameters.
+Expected Standard .
+Security Correlation Coefficient
+Return Deviation
+CO- 2; SO- ;
+P 25 30 Between PQ = -0.50 [05]
+BL- Apply
+Q 22 26 Between QR = +0.40
+R 20 24 Between PR = +0.60
+If the securities are equally weighted, how much is the risk and return of
+the portfolio of these securities?
+b. Compute the amount to be invested today to ensure an annual income of
+CO- 1; SO- ; Rs 70000 beginning from 5" year (first payment at the end of 5 years from [05]
+BL- Apply now) and continuing for 10 years thereafter? Interest rate is 16%.
+
+Page 1 of 4
+--- page 2 ---
+“Tn portfolio management, using derivative security is attractive than the
+
+CO- 4; SO- ; we :
+St security itself’; describe the sentence in light of different factors Bt
+determining option price. (041
+
+Understand
+Q2 *
+Answer the following questions [14]
+A__ | The estimated rates of return, beta coefficients and standard deviations
+of some securities are as given below:
+Security | Roum | Beta Deviation (%)
+A 26 1.6 50
+B 21 1.4 40
+CO-2; SO-; € 13 1.1 30
+BL- Analyse D 14 09 25 ea
+E ll 0.75 20
+F 9 0.6 18
+G 15 0.85 33
+The risk-free rate of return is 7%. The expected return from market is
+15%. Classify which of the above securities are overpriced and which
+are underpriced?
+CO-3;SO-; |B Explain using one example each how taxes and time value of money
+BL- affect your personal finance decision. [07]
+Understand
+Consider the following data regarding two risk factors, Current Market
+Prices and the Expected future prices of the three securities X, Y and Z.
+Q3 ;
+CO-2; SO-; Security Fl F2 Current | Future [14]
+BL-Evaluate Price Price
+x 0.90 1.20 168 185
+
+Page 2 of 4
+--- page 3 ---
+¥ 0.50 1.35 168 195
+
+Z 0.42 1.15 168 190
+
+Risk premium associated with the risk factors are 7%, & 3.8%
+respectively.
+
+Evaluate:
+
+a] The expected price of three securities assuming risk free return of
+4.5%
+
+b] Whether securities are correctly priced.
+
+c] Explain Arbitrage trading strategy
+
+d] Calculate the arbitrage profit
+
+Construct optimum portfolio from the following securities assuming risk
+free return of 5% and variance of the market index (om?) = 12% if no
+
+short selling is allowed?
+
+Stock Ri B ei
+A 16 0.89 35)
+Q4 B 14 1.5 30
+CO-2; SO-; Cc 8 1.3 25 [14]
+BL- Apply D 12 1 30
+E 10 0.8 20
+F 6 1.2 10
+G 13 1.4 25
+H 11 2 30
+= Answer the following questions [14]
+
+Page 3 of 4
+--- page 4 ---
+CO-1;SO-; | A
+
+BL- What are formula plans? Explain any one formula plan in details with -
+Understand example. [07]
+B Thé risk-free rate is 8%. Estimate Sharpe and Treynor ratio and rank the
+funds.
+Fund | Average Annual | Std Deviation /|Correlation
+return (%) " (%) with
+
+Qs Market
+
+CO-3; SO-; P 22 15 0.75 07
+BL- Q 15 10 0.5 [07]
+Evaluate R 19 22 0.35
+
+S 12 7 0.9
+Market 12 10 -
+Portfolio
+Q6
+Answer briefly: [14]
+
+CO-4;SO-; | A
+
+BL- Describe active equity portfolio Management strategies [05]
+Remember
+CO-4;SO-; |B
+
+BL- Describe Semi Active Strategies of Bond Management. [05]
+Remember
+
+Cc Assume that you and a business associate develop an efficient frontier
+CO-2; SO-; . . . [04}
+for a set of investments. Why two of you might select different
+BL-Apply
+
+portfolios, Explain.
+
+Page 4 of 4
 ````
 
 ## 2021-22 · Re-Exam · Sem 10 · paper 5cd82cda5b93
@@ -3883,665 +4543,4 @@ Security Expected Return Beta Unsystematic Risk
 6 9 0.5 50
 
 7 14 1.5 30
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper e4d226d9cede
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management.pdf`
-- Printed on paper: max marks: 50; exam date: 24/4 /24
-- Text: ocr (3 pages), mean OCR confidence 89.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2023-2024
-
-Program: MBA Tech; Stream; All Streams Year: V Semester: X
-Subject: Financial Planning and Portfolio Management Time: __2__hrs(2<0opmto 430 0pm)
-
-Date: 24/4 /24 . No. of Pages: 3 pages
-
-Marks: 50
-
-Final Examination/Re-Examination (2022-23)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _i___ is compulsory.
-= 2) Out of remaining questions, attempt any __4__ questions.
-3) In all___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Ql. Answer briefly: {10]
-An investor is considering investing in two securities with the following data:
-. Expected Returns Standard Deviation
-Security * a
-. (%) (%)
-CO- 3; SO- ;
-BL-Appl A 12.5 15 [03]
-7 B 21 18 .
-Create a portfolio with minimum risk possible and indicate the expected return
-and standard deviation of this portfolio if correlation coefficient between A and
-a Bis-1?
-Bn SO-; b What does the term "Iaddering" refer to in the context of managing a bond [03]
-* | portfolio?
-Understand
-
-Explain the importance of “Markowitz Portfolio theory” while constructing
-CO- 1; SO- ; ea , ia . :
-efficient portfolios that maximize expected return for a given level of risk, or [04]
-
-BL- eS ‘
-Understand © | minimize risk for a given level of expected return
-
-L —
-
-Page 1 of 3
---- page 2 ---
-A Portfolio consisting of three securities have the following data:
-
-Security P Q R Market | Risk free asset
-Expected Return (%) 23.8 | 21 19.6 14.5 8.5
-Standard Deviation (%) | 32.5 | 25.5 | 25.3 22,
-Weights 0:40 | 0.25 | 0.35
-2. CO-3;
-alae | Correlation P Q R M [10]
-Analyse Pp 1 | -0.4 | 0.7 0.9
-Q -0.4 1 0.6 -0.7
-R a7 | 0.6 1 0.45 >
-M 0.9 | -0.7 | 0.45 1
-a. Estimate the expected return and standard deviation of the portfolio
-b. Determine the sensitivity of each security to the market.
-c. Using CAPM, determine the expected returns of each security
-Consider the following data regarding three risk factors and three securities A,
-B, and C: ,
-Security | Factor | | Factor2 | Current Price | Future Price
-Q3. CO-2; A 0.7 1.5 75 | ° 90
-SO-: BL- B 1.8 0.8 22 30 [10]
-Evaluate Cc 2.3 1.2 291 325
-Risk premium associated with the risk factors - 10= 4%, L1= 3%, 22 = 5%
-a. Assess the expected return of three securities
-b. Explain the arbitrage trading strategy to be used in case of any mispricing
-of the securities and calculate the arbitrage profit.
-Following information is available to a stock market investor who is prepared
-to make an investment in following stocks:
-Security | Expected Return Bi ei?
-A 17 1.5 35
-Q4. CO-4; B 13 ws 32
-SO-; BL- Cc 9 1.2 25 [10]
-Apply D 10 l 12
-E 8 1.5 15
-F 15 13 20
-
-Market index variance is 12, and the risk-free rate of return is 6%. What should
-be the optimum portfolio assuming no short sales? Use Sharpe index model for
-constructing optimal portfolio.
-
-Page 2 of 3
---- page 3 ---
-a
-
--~
-
-;
-
-Mr. Santa is 45 years of age today and wants to accumulate Rs. 80,00,000 at
-
-the time of retirement (60 years of age) to fulfill his post retirement needs.
-
-¢ How much money should he save each
-
-year for the next 15 years to be able
-Q5. CO-1; to meet his post retirement requirement if he already has Rs. 8,00,000
-SO-; BL- which will earn 10% return? [10]
-Understand
-¢ Inthe realm of financial planning, with a particular emphasis on retirement,
-could you elaborate on the significance of robust retirement planning
-strategies and recommend suitable investment vehicles to ensure long-term
-financial security .
-Q6. Answer the following _ [10]
-A portfolio manager is considering using either the constant rupee value plan
-CO-3; SO-; and the constant ratio plan as a portfolio revision strategy in an equally 04
-BL-Analyse a weighted debt and equity portfolio. Analyze and elaborate on advantages and [04]
-disadvantages of these Strategies so that the manager can take a decision.
-A fund manager is evaluating the performances of three portfolio managers.
-The following data available:
-Portfolio Annual return(%) | Standard Deviation Beta
-A 19 20 2
-CO-2; SO-; 10 Ll
-BL-Evaluate 8 08 [06]
-Market 18 1 |
-Using portfolio evaluation parameters such as Sharpe Ratio, Treynor’s Ratio,
-Jensen’s Alpha - assist the manager in ranking of the portfolios if the risk free
-rate is 8%
-Q7 Answer the following [10]
-CO-1; SO-; Write a brief note on using market timing for actively managing equity
-BL- a i [05]
-portfolio.
-Understand | |
-CO-1; SO-;
-BL- b | What are the factors affecting the option price? [05]
-Understand
-
-Page 3 of 3
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 20b24d977b3b
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management_20b24d977b.pdf`
-- Printed on paper: max marks: 50
-- Text: ocr (4 pages), mean OCR confidence 91.9
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2022-2023
-
-Program: MBA Tech; Stream; All Streams Year: V Semester: X
-Subject: Financial Planning and Portfolio Management Time: 2 __hrs( Qseopwto 42 e0prr)
-Date:_26/06/ 2023 No. of Pages: 4 pages
-Marks: 50
-_‘Re+Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-
-the cover of the Answer Book, which is provided for their use.
-
->
-1) Question No._1___ is compulsory.
-2) Out of remaining questions, attempt any __4 questions.
-3)Inall___5_ questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-Ql
-a Answer briefly: [14]
-a. | The following data relates to Dew and Raindrop corporations.
-Stocks ERi) Standard Deviation
-CO- 2; SO- ; Dew 25% 20% 3]
-BL- Analyse Raindrop 35% 30%
-Calculate the portfolio return for the minimum risk portfolio comprising of
-these two stocks.
-CO-1;80-: “Options contribute significantly to portfolio management due to their
-unique characteristics of limited loss and limited profit”. Illustrate the | [3]
-BL- Apply
-
-statement with example.
-
-Page 1 of 4
---- page 2 ---
-c. | Mr. Harry’s present salary is Rs.10,00,000 p.a which is likely to grow at'8%
-‘| p.a. Mr. Harry is 50 years of age today and wants to save for his post
-
-CO- 4; SO- ; retirement needs. He wants to have 30% of his last drawn salary as an annual (4)
-BL- Apply income post retirement for 20 years which he expects to live after his
-retirement at 60 years of age. How much money he should have at the time
-
-of retirement to meet post retirement needs if discount rate is 12% p.a.
-
-= Answer the following questions: [10]
-A-/A portfolio manager has just initiated the coverage of a-stock Indiana Ltd
-which is listed company and he is working on the expected return from the
-CO-2; SO stock. The returns of Indiana Ltd have a covariance with market of 0.0635
-BL- Analyse and the market returns have a standard deviation of 0.208. What is the [05]
-
-required rate of return of Indiana Ltd. The market risk premium is 9.4%
-
-and the risk-free rate is 4.9%.
-
-B | Red Box Ltd has a standard deviation of 15% and an estimated beta of 1.2.
-
-— The expected return of the market index is 15% and standard deviation is [05]
-; ; 10%. Prepare a regression equation using Sharpe’s single index model and
-
-BL- Analyse
-estimate the firm specific risk of the stock.
-Consider the following data regarding three risk factors and three
-securities A, B, and C:
-~ Current Future
-Security | Factor1 | Factor2 Price Price
-Q3 A 0.5 1,2. 200 220
-B 1.5 1 50 65
-CO-2; SO-; C 2.5 0.6 100 125 [10]
-BL-Evaluate Risk premium associated with the risk factors
-
-N= 5%, A1= 4%, 12 = 6%
-a. Compute Expected return of three securities
-b. Explain the arbitrage trading strategy to be used in case of any
-
-mispricing of the securities and calculate the arbitrage profit.
-
-Page 2 of 4
---- page 3 ---
-Mr. Frodo is planning to construct an optimal portfolio and following
-securities are under consideration. Find out Cut off point using Sharpe’s
-Optimal portfolio if Risk-free return is 6% and market variance is 12
-
-Security Ri Bi oei2
-Q4 A 17 1 50
-CO-2; SO-; B 19 1.5 40 [10]
-BL- Appl ;
-_— sll C 9 0.6 30
-™ D 23 Le? 30
-E 11 1.1 20
-F 10 0.7 20
-G 12 1.3 10
-Q5
-Answer the following question: [10]
-“A buy and hold policy for a mutual fund manager would be hardly useful
-in the current global macroeconomic environment”.
-CO-1; SO-; Critically evaluate this statement from a portfolio revision point of view in 15]
-BL- Analyze the backdrop of the news of banking crisis in US and Europe and Silicon
-Valley Bank collapsed in the US while European Bank Credit Suisse was
-( bailed out by the Swiss National Bank.
-A mutual fund analyst has collected the following past performance report
-of 3 mutual funds and the NIFTY Index. Rank these funds based on
-Sharpe Ratio, Treynor’s ratio and Jensen’s Measure. Assume risk-free rate
-CO-3; SO-; of 7% and explain the behavior of these rankings. Select the best mutual
-BL- fund from an investment point of view of the three funds. [5]
-Evaluate Portfolio Return (%) Std. Deviation Beta
-SBI Fund 16 30 1.6
-HDFC Fund 10 15 1.5
-ICICI Fund 23 16 0.8
-
-Page 3 of 4
---- page 4 ---
-NIFTY > 10 15 1.0,
-
-Q6 “Investment planning needs to be aligned with Financial goals” Explain f10]
-Understand the statement with appropriate example.
-Q7
-
-Answer in brief: [10]
-
-CO-4; SO-; A
-
-a. Distinguish between value investing and growth investing for an equity [5]
-portfolio manager :
-
-Understand
-
-CO-4; SO-; B
-BL- Describe Indexing as a passive strategy for bond portfolio management [5]
-Understand
-
-Page 40f4
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper 5d9130f16930
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/FINANCIAL PLANNING AND PORT FOLIO MANAGEMENT/Financial Planning and Portfolio Management_5d9130f169.pdf`
-- Printed on paper: max marks: 50; exam date: 29/04/2023
-- Text: ocr (4 pages), mean OCR confidence 92.9
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-
-Academic Year: 2022-2023
-
-Program: MBA Tech; Stream; All Streams Year: V Semester: X
-
-Subject: Financial Planning and Portfolio Management
-Date: 29/04/2023
-Marks: 50
-
-Time: _Z __hrs(2:oopmto 4!0 Opm)
-
-No. of Pages: 4 pages
-
-Final Examination/ Re Exqntimaltor
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on
-
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Ql .
-i Answer briefly: [14]
-a. The following parameters apply to Stock A and B.\
-Particulars Stock A Stock B
-CO- 2; SO-
-Expected Return 20% 30%
-BL Expected Variance 16 25 [3]
-Covariance between A and B 20
-Analyse :
-Is there any advantage of holding combination of Stock A and B together in
-the portfolio? Demonstrate.
-CO- 1; SO- | b. “Index futures facilitate implementation of portfolio management strategies”
-
-[3]
-; Illustrate the statement with example.
-
-Page lof4
---- page 2 ---
-BL- Apply
-
-Mr. James wants to take a world tour which costs Rs. 10,00,000. The cost is
-
-CO- 4; SO- :
-expected to remain unchanged in nominal terms. He is willing to save
-, annually Rs. 80,000 to fulfill his wish. How long he has to wait if his savings
-BL- Apply
-earn 14% return per annum?
-Q2
-Answer the following questions: [10]
-Axis Bank stock has a Beta of 1.45 and expected return of 17% while PNB
-CO-2; SO-; stock has a beta of 0.85 and expected return of 12%. If the risk-free rate is
-BL- 6% and expected return from market is 13.5%, find if the stocks are [05]
-Analyse undervalued or overvalued based on the CAPM model. Justify your answer
-by plotting stock returns on the SML line.
-HDFC Mutual Only Equity scheme has the following features:
-Security Beta Random Error (cei) Weightage
-LOT 1.60 7 0.25
-MANGO 1.15 11 0.30
-CO-3; SO-;
-ar, NOBLE 1.40 3 0.25 [05]
-KITE 1.0 9 0.20
-Analyse
-Find the out the overall risk of the portfolio if the market has a standard
-deviation of 18%. Use the Sharpe Single index model to perform your
-calculations.
-APT model holds for the below mentioned data:
-Assume a risk free rate of 5% and the risk premium for factor 1 and factor 2
-is 8% and 6% respectively. Three portfolios with following characteristics
-3
-. are in equilibrium with respect to the two macroeconomic variables:
-CO-2; SO-; -
-“ Portfolio Beta 1 Beta 2 [10]
-: A 0.90 0.80
-Evaluate
-B 1.5 0.50
-Cc 1.30 1.10
-
-Page 2 of 4
-
-i)
---- page 3 ---
-a. Evaluate the expected returns of the three portfolios A, B and C.
-
-b. Ifthere exists a portfolio D with Beta | of 1.22 and Beta 2 of 0.74
-and expected return of 23%, what strategy you will adopt to make
-profit.
-
-c. What profit can you generate?
-
-Mr. Theodore is planning to construct an optimal portfolio and following
-securities are under consideration. If investor wants to include all the
-securities in his portfolio and short selling is allowed, then what will be the
-
-return of his portfolio if risk-free return is 7%.
-
-Q4 Sec Ri Bi oei? Ci ;
-CO-2; SO-; P 20 1 50 2.17 [10]
-BL- Apply Q 24 1.5 40 5.09
-
-S 26 1.7 30 7.24
-
-R 12 0.6 30 7.29
-
-T 14 1.1 20 713
-
-Vv 15 1.3 10 6.81
-
-U 10 0.7 20 6.69
-Q5
-
-Answer the following question: [10]
-
-A In a rising interest rate scenario, what would be challenges faced by a
-
-CO-1; SO-; mutual fund manager who is using a “Constant Rupee Portfolio
-BL- Rebalancing strategy”. Assume that fund manager in managing a portfolio | [5]
-Analyze having equal weightage of debt and equity. Explain the constant mix
-
-portfolio revision strategy and then discuss any two challenges.
-
-B Given below is information on three Indian mutual funds. Rank the given
-
-mutual funds based on Sharpe ratio, Treynor’s ratio and Jenson’s Alpha.
-
-CO-3; SO-; .
-Assume risk-free rate is 7%.
-BL- [5]
-Mutual Fund Return (%) Std. Deviation Beta
-Evaluate
-A 16 30 1.6
-B 10 15 1.5
-
-Page 3 of 4
---- page 4 ---
-Cc 23 16 0.8
-
-Sensex 10 15 1
-
-Consider two situations: Mr. Tango is a young man in his early 20s and Mr.
-
-Charlie is another middle aged man in his late 40s and earn same amount of
-
-Q6
-
-money. Charlie has a family, a house, a car and all other responsibilities of | [10]
-Understand
-
-married life. Both of them like to invest in stock market. What would be
-
-their financial goals and constraints in achieving these goals.
-Q7
-
-Answer in brief: [10]
-CO-4; SO-; | A
-BL- Explain Sector rotation in active equity portfolio management [5]
-Understand
-CO-4; SO-; | B
-=. Explain Immunization as a hybrid strategy for bond portfolio management [5]
-Understand
-
-Page 40f4
-
-a
-````
-
-## Year not stated · Exam not stated · Sem 10 · paper b6ab32650ec3
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/Financial Planning and Portfolio Management/Financial Planning and Portfolio Management , Sem X.pdf`
-- Printed on paper: max marks: 70; duration hours: 2; exam date: 28 April 2022
-- Text: ocr (4 pages), mean OCR confidence 89.3
-
-````text
-S! MPSTME#
-
-SVKM’s NMIMS t 7 1E j
-‘ENGINEERING / ’)
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN'’
-SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
-
-Academic Year: 2021-22
-
-Programme: MBA Tech (All Stream) Year: V Semester: X
-Subject: Financial Planning and Portfolio Management
-. Marks: 70
-Date: 28 April 2022 Time: 10.30 am to 12.30 pm
-
-Durations: 2 (Hrs)
-
-No. of Pages: _©4¢
-
-Final Examination
-
-Instructions: Candidates should read carefuliy the instructions printed on the question paper and on
-the cover of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-3)Inall__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Qi .
-| Answer briefly: [14]
-a. A portfolio consists of three securities P, Q and R with the following
-parameters.
-Expected Standard .
-Security Correlation Coefficient
-Return Deviation
-CO- 2; SO- ;
-P 25 30 Between PQ = -0.50 [05]
-BL- Apply
-Q 22 26 Between QR = +0.40
-R 20 24 Between PR = +0.60
-If the securities are equally weighted, how much is the risk and return of
-the portfolio of these securities?
-b. Compute the amount to be invested today to ensure an annual income of
-CO- 1; SO- ; Rs 70000 beginning from 5" year (first payment at the end of 5 years from [05]
-BL- Apply now) and continuing for 10 years thereafter? Interest rate is 16%.
-
-Page 1 of 4
---- page 2 ---
-“Tn portfolio management, using derivative security is attractive than the
-
-CO- 4; SO- ; we :
-St security itself’; describe the sentence in light of different factors Bt
-determining option price. (041
-
-Understand
-Q2 *
-Answer the following questions [14]
-A__ | The estimated rates of return, beta coefficients and standard deviations
-of some securities are as given below:
-Security | Roum | Beta Deviation (%)
-A 26 1.6 50
-B 21 1.4 40
-CO-2; SO-; € 13 1.1 30
-BL- Analyse D 14 09 25 ea
-E ll 0.75 20
-F 9 0.6 18
-G 15 0.85 33
-The risk-free rate of return is 7%. The expected return from market is
-15%. Classify which of the above securities are overpriced and which
-are underpriced?
-CO-3;SO-; |B Explain using one example each how taxes and time value of money
-BL- affect your personal finance decision. [07]
-Understand
-Consider the following data regarding two risk factors, Current Market
-Prices and the Expected future prices of the three securities X, Y and Z.
-Q3 ;
-CO-2; SO-; Security Fl F2 Current | Future [14]
-BL-Evaluate Price Price
-x 0.90 1.20 168 185
-
-Page 2 of 4
---- page 3 ---
-¥ 0.50 1.35 168 195
-
-Z 0.42 1.15 168 190
-
-Risk premium associated with the risk factors are 7%, & 3.8%
-respectively.
-
-Evaluate:
-
-a] The expected price of three securities assuming risk free return of
-4.5%
-
-b] Whether securities are correctly priced.
-
-c] Explain Arbitrage trading strategy
-
-d] Calculate the arbitrage profit
-
-Construct optimum portfolio from the following securities assuming risk
-free return of 5% and variance of the market index (om?) = 12% if no
-
-short selling is allowed?
-
-Stock Ri B ei
-A 16 0.89 35)
-Q4 B 14 1.5 30
-CO-2; SO-; Cc 8 1.3 25 [14]
-BL- Apply D 12 1 30
-E 10 0.8 20
-F 6 1.2 10
-G 13 1.4 25
-H 11 2 30
-= Answer the following questions [14]
-
-Page 3 of 4
---- page 4 ---
-CO-1;SO-; | A
-
-BL- What are formula plans? Explain any one formula plan in details with -
-Understand example. [07]
-B Thé risk-free rate is 8%. Estimate Sharpe and Treynor ratio and rank the
-funds.
-Fund | Average Annual | Std Deviation /|Correlation
-return (%) " (%) with
-
-Qs Market
-
-CO-3; SO-; P 22 15 0.75 07
-BL- Q 15 10 0.5 [07]
-Evaluate R 19 22 0.35
-
-S 12 7 0.9
-Market 12 10 -
-Portfolio
-Q6
-Answer briefly: [14]
-
-CO-4;SO-; | A
-
-BL- Describe active equity portfolio Management strategies [05]
-Remember
-CO-4;SO-; |B
-
-BL- Describe Semi Active Strategies of Bond Management. [05]
-Remember
-
-Cc Assume that you and a business associate develop an efficient frontier
-CO-2; SO-; . . . [04}
-for a set of investments. Why two of you might select different
-BL-Apply
-
-portfolios, Explain.
-
-Page 4 of 4
 ````

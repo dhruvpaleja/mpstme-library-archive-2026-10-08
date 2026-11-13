@@ -2,6 +2,87 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper ce294ecb128c
+
+- Departments: Computer Engineering, Data Science
+- Programmes: BTech Computer 7002, BTech CSE DS 7057, MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/MBATech_Computer_7047/Introduction to Virtual Reality and Aug_6840e7e0/ANS_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2024-2025.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (2 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE -
+CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg.
+(DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/MBA Tech
+(AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Introduction to Virtual Reality and Augmented Reality
+Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Solve any 4 from Section 2.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1 – Short Answer Questions (4 × 5 = 20 Marks)
+Conceptual understanding with relevant examples
+Sub-Q   Answer Components Mark Split   Total
+(a) Define AR, VR and one engineering application each   AR definition (1), AR example (1.5), VR definition
+(1), VR example (1.5)   1 + 1.5 + 1 + 1.5   5
+(b) Gesture tracking function and MediaPipe role   Gesture tracking concept (2), Tracking pipeline
+basics (1), MediaPipe landmarks and processing (2)   2 + 1 + 2   5
+(c) Strong AR vs Weak AR with examples   Strong AR definition (1.5) + example (1), Weak
+AR definition (1.5) + example (1)   1.5 + 1 + 1.5 + 1   5
+(d) Real-time VR challenges (any four)   Latency, Frame rate, Tracking accuracy,
+Rendering load, Responsiveness (1 mark each)   1 × 5 5
+Q2 – VR Laboratory Simulator using Unity and Meta XR SDK (20 Marks)
+Process-oriented development evaluation
+Component   Marks
+Environment setup (project creation, XR plugin installation, scene development)   5
+User movement logic (teleport/continuous motion)   5
+Input mapping (controller actions and interactions)   5
+Frame rate optimization techniques for Meta Quest   5
+Total   20
+Q3 – Gesture Tracking and Visual Realism (20 Marks)
+Sub-Q   Content Focus Mark Distribution   Total
+********** 1 **********
+--- page 2 ---
+(a) MediaPipe hand tracking for Unity VR control   Camera input (2), Landmark extraction (3),
+Gesture classification (3), Object response mapping (2)   2 + 3 + 3 + 2 10
+(b) Contribution of lighting, shaders, materials   Lighting techniques (4), Shader/Material roles
+(3), Performance trade-offs (3)   4 + 3 + 3   10
+Q4 – AR/VR/MR Comparison and Menu Design (20 Marks)
+Sub-Q   Mark Split   Total
+(a) AR, VR, MR comparison based on immersion, interaction model, tracking needs 3 + 3 + 4   10
+(b) Gesture-based menu inside VR: Concept blocks and data flow   Concept blocks (5), Data flow (5)   10
+Q5 – AR Vehicle Maintenance Assistant (20 Marks)
+Component   Marks
+Scene setup with physical alignment and tracking   6
+Overlay logic: Object recognition and instructions   8
+Controls and deployment strategy   6
+Total   20
+Q6 – Gesture-Controlled VR Obstacle Avoidance Game (20 Marks)
+Component   Marks
+Gesture mapping to movement   8
+Environment interaction with obstacles   7
+Scoring logic and user feedback   5
+Total   20
+Q7 – VR Deployment to Meta Quest (20 Marks)
+Component   Marks
+Build target configuration and Android export   6
+Profiling and performance testing   6
+User comfort and safety guidelines   8
+Total   20
+********** 2 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 8aa2085f8a0e
 
 - Departments: Computer Applications (MCA)
@@ -3941,86 +4022,5 @@ Package compatibility and platform setup   6
 Build targets and optimization for device   6
 Device testing, performance checks, user comfort evaluation 8
 Total 20
-********** 2 **********
-````
-
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper ce294ecb128c
-
-- Departments: Computer Engineering, Data Science
-- Programmes: BTech Computer 7002, BTech CSE DS 7057, MBATech Computer 7047
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/MBATech_Computer_7047/Introduction to Virtual Reality and Aug_6840e7e0/ANS_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2024-2025.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
-- Text: text (2 pages)
-
-````text
-SYNOPTICS
-SVKMs NMIMS
-MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
-Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech (CS)/B. Tech (CSE -
-CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg.
-(DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/MBA Tech
-(AI)/MBA Tech (Comp)/MBA Tech (IT)
-Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
-Subject: Introduction to Virtual Reality and Augmented Reality
-Date: 10 Dec 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
-Max. Marks: 100
-FINAL EXAMINATION (Acad. Year:2025-2026)
-Instructions:
-1. This question paper contains 2 pages.
-2. Answer to each new question to be started on a fresh page.
-3. Figure in right hand side indicates full marks
-4. Question No. 1 is compulsory.
-5. Solve any 4 from Section 2.
-6. In all 5 questions to be attempted.
-7. Assume Suitable data if necessary.
-Q1 – Short Answer Questions (4 × 5 = 20 Marks)
-Conceptual understanding with relevant examples
-Sub-Q   Answer Components Mark Split   Total
-(a) Define AR, VR and one engineering application each   AR definition (1), AR example (1.5), VR definition
-(1), VR example (1.5)   1 + 1.5 + 1 + 1.5   5
-(b) Gesture tracking function and MediaPipe role   Gesture tracking concept (2), Tracking pipeline
-basics (1), MediaPipe landmarks and processing (2)   2 + 1 + 2   5
-(c) Strong AR vs Weak AR with examples   Strong AR definition (1.5) + example (1), Weak
-AR definition (1.5) + example (1)   1.5 + 1 + 1.5 + 1   5
-(d) Real-time VR challenges (any four)   Latency, Frame rate, Tracking accuracy,
-Rendering load, Responsiveness (1 mark each)   1 × 5 5
-Q2 – VR Laboratory Simulator using Unity and Meta XR SDK (20 Marks)
-Process-oriented development evaluation
-Component   Marks
-Environment setup (project creation, XR plugin installation, scene development)   5
-User movement logic (teleport/continuous motion)   5
-Input mapping (controller actions and interactions)   5
-Frame rate optimization techniques for Meta Quest   5
-Total   20
-Q3 – Gesture Tracking and Visual Realism (20 Marks)
-Sub-Q   Content Focus Mark Distribution   Total
-********** 1 **********
---- page 2 ---
-(a) MediaPipe hand tracking for Unity VR control   Camera input (2), Landmark extraction (3),
-Gesture classification (3), Object response mapping (2)   2 + 3 + 3 + 2 10
-(b) Contribution of lighting, shaders, materials   Lighting techniques (4), Shader/Material roles
-(3), Performance trade-offs (3)   4 + 3 + 3   10
-Q4 – AR/VR/MR Comparison and Menu Design (20 Marks)
-Sub-Q   Mark Split   Total
-(a) AR, VR, MR comparison based on immersion, interaction model, tracking needs 3 + 3 + 4   10
-(b) Gesture-based menu inside VR: Concept blocks and data flow   Concept blocks (5), Data flow (5)   10
-Q5 – AR Vehicle Maintenance Assistant (20 Marks)
-Component   Marks
-Scene setup with physical alignment and tracking   6
-Overlay logic: Object recognition and instructions   8
-Controls and deployment strategy   6
-Total   20
-Q6 – Gesture-Controlled VR Obstacle Avoidance Game (20 Marks)
-Component   Marks
-Gesture mapping to movement   8
-Environment interaction with obstacles   7
-Scoring logic and user feedback   5
-Total   20
-Q7 – VR Deployment to Meta Quest (20 Marks)
-Component   Marks
-Build target configuration and Android export   6
-Profiling and performance testing   6
-User comfort and safety guidelines   8
-Total   20
 ********** 2 **********
 ````

@@ -1,8 +1,58 @@
 # Microcontroller and Embedded Programming: question papers in full
 
-3 unique papers · 2011-12 to 2011-12 · Electronics and Telecommunication
+3 unique papers · 2010-11 to 2012-13 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Final-Exam · Trim 6 · paper 232f62d72f95
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/MICROCONTROLLER AND EMBEDDED PROGRAMMING/Microcontroller & Embedded Programming Final 15.pdf`
+- Printed on paper: exam date: 8/5/2013
+- Text: text (1 page)
+
+````text
+SVKM's NMIMS
+Mukesh Pate1 School of Technolom Management & Engineering
+Programme: MBA (TECH)-EXTC   Year:   I1   Trimester: VI
+1   Academic Year : 2012-2013
+Subject:   Microcontroller & Embedded
+Programming
+Date:   8/5/2013
+Final - Examination
+Instructions: Candidates should read carefully the
+paper and on the cover of the Answer Book, which is provided for their use.
+NB.
+1. Question no 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Ar,sv;er to e ~ c h   questio:~ tc be starred cn a fresh page.
+6. Figure on right indicate full marks.
+Q. 1 Design an 805 1 microcontroller based system to meet the following specification.   (20)
+a) CPU working at 14 MHz
+b) 32KB ROM using 16 KB chip.   .
+c) 16KB RAM using 8KB chip.
+d) One input devices & one output device.
+Q.2 a) Define addressing modes? Explain addressing odes of 805 1   (10)
+b) What is SFR'S? Explain all SFR'S related with timerlcounter of 805 1   (1 0)
+) 4.3 a) Give structural detail of the PWM present in 80196 and explain it   (10)
+b) Draw architecture of 801 96 & hence explain core CPU model of 801 96.   (10)
+Q.4 a) Write an assembly program to transmit message 'INDIA' serially at 4800 baud rate. (1 0)
+b) What are Semaphore & Semaphore bugs? Explain its types.   (10)
+Q.5a) Draw a neat interfacing diagram of 805 1 with DAC and write a program to generate
+Triangular wave signal.   (10)
+b) Discuss inter task zommunicatiorl irl RTOS with !kt. help of' message queue, mailbox,
+pipes   ilo)
+Q.% a) State different types of embedded system architectures? Explain any two.   (10)
+b) Write an assembly program to display 'INDIA' on LCD in second line using 805 1 (1 0)
+Q.7   Write a short note (Any Three)
+a) Internal RAM structure of 805 1.
+b) Characteristics of Embedded Software.
+c) Interrupts of 805 1
+d) Task. states of task and task-switching concept.
+````
 
 ## 2011-12 · Exam not stated · Trim 6 · paper 4cb37b3f49e0
 
@@ -87,7 +137,7 @@ b) Write a program to transfer string “MBATECH” to PC serially at baud rate 
 (10)
 ````
 
-## Year not stated · Exam not stated · Trim 6 · paper 4854a17798bb
+## 2010-11 · Exam not stated · Trim 6 · paper 4854a17798bb
 
 - Departments: Electronics and Telecommunication
 - Programmes: MBA TECH / TELECOM EXTC
@@ -178,54 +228,4 @@ B) Power down and idle modes in microcontroller.
 C) Shared data problem and its remedy.
 
 Ty
-````
-
-## Year not stated · Final-Exam · Trim 6 · paper 232f62d72f95
-
-- Departments: Electronics and Telecommunication
-- Programmes: MBA TECH / TELECOM EXTC
-- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/MICROCONTROLLER AND EMBEDDED PROGRAMMING/Microcontroller & Embedded Programming Final 15.pdf`
-- Printed on paper: exam date: 8/5/2013
-- Text: text (1 page)
-
-````text
-SVKM's NMIMS
-Mukesh Pate1 School of Technolom Management & Engineering
-Programme: MBA (TECH)-EXTC   Year:   I1   Trimester: VI
-1   Academic Year : 2012-2013
-Subject:   Microcontroller & Embedded
-Programming
-Date:   8/5/2013
-Final - Examination
-Instructions: Candidates should read carefully the
-paper and on the cover of the Answer Book, which is provided for their use.
-NB.
-1. Question no 1 is compulsory.
-2. Out of remaining questions, attempt any FOUR questions.
-3. In all FIVE questions to be attempted.
-4. All questions carry equal marks.
-5. Ar,sv;er to e ~ c h   questio:~ tc be starred cn a fresh page.
-6. Figure on right indicate full marks.
-Q. 1 Design an 805 1 microcontroller based system to meet the following specification.   (20)
-a) CPU working at 14 MHz
-b) 32KB ROM using 16 KB chip.   .
-c) 16KB RAM using 8KB chip.
-d) One input devices & one output device.
-Q.2 a) Define addressing modes? Explain addressing odes of 805 1   (10)
-b) What is SFR'S? Explain all SFR'S related with timerlcounter of 805 1   (1 0)
-) 4.3 a) Give structural detail of the PWM present in 80196 and explain it   (10)
-b) Draw architecture of 801 96 & hence explain core CPU model of 801 96.   (10)
-Q.4 a) Write an assembly program to transmit message 'INDIA' serially at 4800 baud rate. (1 0)
-b) What are Semaphore & Semaphore bugs? Explain its types.   (10)
-Q.5a) Draw a neat interfacing diagram of 805 1 with DAC and write a program to generate
-Triangular wave signal.   (10)
-b) Discuss inter task zommunicatiorl irl RTOS with !kt. help of' message queue, mailbox,
-pipes   ilo)
-Q.% a) State different types of embedded system architectures? Explain any two.   (10)
-b) Write an assembly program to display 'INDIA' on LCD in second line using 805 1 (1 0)
-Q.7   Write a short note (Any Three)
-a) Internal RAM structure of 805 1.
-b) Characteristics of Embedded Software.
-c) Interrupts of 805 1
-d) Task. states of task and task-switching concept.
 ````

@@ -4,6 +4,138 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
+## 2025-26 · Exam not stated · Sem 5 · paper c2adf28ac9a2
+
+- Departments: Computer Engineering, Electronics and Telecommunication
+- Programmes: B TECH / COMPUTER, B TECH / EXTC, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/B Tech, (COMP EXTC), Image and Video Processing, Semester-V, Batch 2023-24 & 2024_89f51633.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+
+Program/s: BTECH INTG /B TECH /MBATECH Year: mpg Semester: V/re.
+Stream/s: COMP/EXTC
+
+Subject: Image and Video Processing Time: 3 __ hrs (2:00 pnto 5:00 pm
+Date:_0 8 /Deg/ 2025 No. of Pages: 3
+
+Marks: 100
+
+Re-Examination (2023-2024, 2024-2025)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+Col; What is the difference between 4- and 8-connectivity in a digital image?
+SO-1; a list two discrepancies. 5M
+BL-l ;
+C02 ;
+SO-1; b. | Explain Walsh Transform with equation. 5M
+BL-2
+Co3 Compare the results of boundary extraction and edge detection — how do
+SO-1: c. | they differ in output and purpose? 5M
+BL-2
+CO4 Describe region-based segmentation techniques. What criteria are used to ri
+an d, | determine pixel inclusion?
+Q2
+COl: Apply histogram equalization on the given 8x8 image. The gray level
+Sol; distribution is given below:
+BL3
+
+1|Page
+--- page 2 ---
+[10]
+
+Gray level |0 j 1 2 13 4 5 6 7
+
+No. of
+
+pixéls 18 {10 |}3 |2 2 |3 14 12
+
+Draw the original histogram and the equalized histogram.
+
+Determine Discrete Cosine Transform of the following Image matrix:
+
+Q2 b 52 55 61 66
+Sox. 78 61 64 73 [10]
+’
+BLS; 63 65 66 68
+58 62 6@ 59
+Q3
+Col; a | Explain Bit plane slicing and contrast stretching with neat sketch. [12]
+Sol;
+BL2;
+Q3
+Sox: b | State the properties of Hadamard and Walsh Transform. [08]
+BL2;
+Q4 Discuss thinning and thickening operations in morphological image
+“an a | processing. How are they implemented, and in what scenarios are they [10]
+BLE: useful?
+Apply region growing on the following image.
+b Row\Col 1 2 3 4 #5
+1 16 18 12 56 52
+Q4 2 10 12 13 51 358
+C04, 3 1212 14 «49 «48 [10]
+SO}; 4 ao 78 79 49 47
+BL3;
+5 82 81 88 46 45
+
+Consider initial point at (3, 3), threshold value 2- and 4-point connectivity.
+
+2}|Page
+--- page 3 ---
+Q5 4 | Discuss neighborhood processing techniques in image enhancement. How
+
+_ do smoothing spatial filters differ from sharpening filters, and what are [12]
+BLS: their respective roles in noise reduction and edge enhancement?
+Q5 b
+COl: Compare the energy compaction of DCT and Hadamard transform. Which
+; . . . [08]
+SOl; transform retains more energy in fewer coefficients?
+BL4
+a_ | Given a 4x4 image
+10 42 14 46}
+11 13 15 47
+AA 50 52 54 56
+i Si 53 55 57
+SOl; [10]
+BL4; . . . : . ae
+Starting with 2x2 regions from the image above, merge adjacent regions if
+the difference in mean intensity is less than 5. Show the final merged
+regions.
+Q6 b__| Perform iterative thresholding starting with T = 100 for: Group A: [40, 50,
+Son 60, 70} Group B: [130, 140, 150, 160] Compute the new threshold and [10]
+BL3 repeat until convergence.
+Q7 4 | Describe the classification of video frames in compressed video streams.
+Sor: What are I-frames, P-frames, and B-frames, and how do they contribute to | [10]
+BL2 efficient video encoding and decoding?
+Q7 b- | Discuss the block matching approach to motion estimation. How does it
+con work, and what are the key parameters involved in evaluating motion [10]
+BL6 vectors?
+
+3|Page
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · paper 79e565eaa0b6
 
 - Departments: Computer Engineering, Computer Science
@@ -1288,6 +1420,7 @@ BL-3
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE Data Science (311)/SEM-VI/IMAGE & VIDEO PROCESSING/B Tech, Image and Video Processing, Sem-VI, Batch 2025-26, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Jul 2026
 - Text: ocr (2 pages), mean OCR confidence 86.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1377,7 +1510,6 @@ Q7: Answer following questions .
 A [CO3] [BL-4] Discuss the following: a. Thinning b. Skeletonization.
 B [CO3] [BL-4] Discuss step by step working of Hit or Miss Transformation.
 
-FGI GIG Rc a a kk a ak a ka a a a
 
 RAR 2 RRR
 
@@ -1878,6 +2010,213 @@ BL3 estimation.
 rey
 ````
 
+## 2024-25 · Re-Exam · Sem 5 · paper 6700ac255f37
+
+- Departments: Computer Engineering
+- Programmes: B TECH / COMPUTER, MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/Image and Video Processing, Sem-V, Batch 2023-24, Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 84.9
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B.Tech/MBA.Tech Stream : Computer Engg /CS/EXTC Year: III/Semester: V/1X
+. ® Tek Tot puter Engg /c¢/ ; ie
+Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
+Date:_07/12/2024 No. of Pages: 05
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. i
+
+1) Question No. _1___ is compulsory. + poy
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt all questions 20
+CO-1, SO- a | Calculate the Euclidean distance, city block distance and chessboard distance 04
+1, BL-3 between two pixels located at (0, 4) and (6, 1).
+CO-2, SO- | b | State the equations to compute Hadamard transform and inverse Hadamard 04
+1, BL-3 transform. Compute the Hadamard transform of the following image:
+o
+
+2 3
+
+1 2
+CO-3, SO- | c | Explain erosion on binary images in brief. 04
+1, BL-2
+CO-4,SO- | d | Discuss the method of segmentation using thresholding. 04
+1, BL-2
+CO-5,SO- | e | Explain chroma subsampling of video in brief. List subsampling formats used 04
+1, BL-2 for various applications.
+Q.2
+CO-1,SO- | a | Describe spatial resolution and gray level resolution, Discuss the effects of 10
+1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
+
+Deliberate on the disadvantage of having increased resolution.
+
+Page 1 of 5
+--- page 2 ---
+CO-2, SO-
+
+Calculate the DCT of the given image, and the percentage of the fotal energy
+
+10
+1, BL-3 contained in the DC coefficient.
+2 1 1 2
+20 2 1 1
+1 1 2 2
+2 1 2 1
+Q.3
+CO-1, SO- Perform histogram equalization on the given 8x8 image. The gray level 10
+1, BL-3 pe 2 oe! oe
+distribution is given below:
+Gray level | 0 1 2 3 4 5 6 7
+No. of
+. 18 | 10 | 43 2 2 3 14 12
+pixels ;
+Draw the original histogram and the equalized histogram.
+CO-2, SO- Compute the forward and inverse Walsh transform of the given image. 10
+1, BL-3
+2 1 2 1
+1 2 3 4 2
+2 3 - 3
+: 1 2 3 2
+Q.4
+CO-3, SO- State mathematical expression of morphological opening operation. Perform 10
+1, BL-3
+
+opening operation on the given image (A). Use structuring element SE1 for
+erosion and SE2 for dilation. (Assume shaded regions have intensity 1 and
+
+unshaded regions have intensity 0). State applications of opening operation.
+
+Page 2 of 5
+--- page 3 ---
+SEY SE2
+
+oad
+
+CO-1,SO- | b | Draw low pass and high pass filter masks. Justify why the sum of the 10
+1, Bet coefficients of a high pass filter should be zero. On the given image, apply 3x3
+low pass and high pass filters to produce 3x3 output images.
+50 | 50 | 50 | 50 | 50
+200 | 200 | 200 | 200 | 200
+200 | 200 | 200 | 200 | 200
+200 | 200 | 200 | 200 | 200 :
+: 50 | 50 | 50 | 50 | 50 |
+Q.5
+a al a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
+» BL-
+
+given images (generate 4x4 output images). Compare the outputs and comment
+on the performance of both operators.
+
+Image |:
+
+50 | 50 | 50 | 50 | 50 | 50
+50 | 50 | 50 | 50 | 50 | 50
+200 | 200 | 200 | 200 | 200 | 200
+200 | 200 | 200 | 200 | 200 | 200
+200 | 200 | 200 | 200 | 200 | 200
+200 | 200 | 200 | 200 | 200 | 200
+
+Page 3 of 5
+--- page 4 ---
+Image 2:
+
+50 | 50 | SO | 200 | 200 | 200
+50 | 50 | 50 | 200 | 200 | 200
+50 | 50 | 50 | 200 | 200 | 200
+50 | 50 | 50 | 200 | 200 | 200
+50 | 50 | 50 | 200 | 200 | 200
+50 | 50 | SO | 200 | 200 | 200
+
+CO-5,SO- | b | Illustrate the 2D log search motion estimation algorithm and explain its 10
+1, BL-3 .
+
+working. we
+Q.6 on
+CO-4, SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
+1, BL-3
+
+pixels are underlined). Use 4-neighbourhood for growing regions. The
+
+predicate is |f(seed)—f(pixel)| <3
+
+8/7]/9]9]8])9]9 77 7157 15°
+8 |7)9|]91819 191151141 14
+8|/7]/9 | 918 ] 9 | 14] 145 [213 | 13
+8 | 7/9 | 9 | 8 113 | 13 | 13 [14 7 14
+8 | 7/9 | 9 | 14] 15 | 13 | 14] 15 | 13
+8|/7]9]/9]15];15;o0]2]1 1) 0
+
+8 1 O | 12} 12} 12] 0 | 2 1 0
+1 O | 12}; 12) 12] 12] 2 1 0] 0
+Image (A)
+
+Page 40f5
+--- page 5 ---
+On the given image (B), perform region split and merge. Minimum ane
+size during splitting is 1x1. The predicate is |f(seed)—f(pixel)| <3
+
+8} 7}9}9 |} 9] 7 | 15 } 15
+
+8) 7 | 9] 9 | 9 | 15 | 14 | 14
+
+8 | 7 9 | 9 | 14] 15 | 13 | 13
+
+8 | 7 | 9 | 9 | 13} 13 |} 14 | 14
+
+8 | 7 | 9 1 1 2 1 0
+
+8 | 7 1 0 1 2 1 0
+
+8 1 0 12] 0 2 1 0
+
+1 0 | 12) 12] 2 1 0 | 0
+
+. Image (B)
+CO-3, SO- | b | Describe boundary extraction in detail with an example. 10
+1, BL-2
+Q.7
+CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
+1, BL-4
+
+arranged in a Group of Pictures.
+
+CO-1,SO- | b | On the given image, perform contrast stretching using two location points (5,2) 10
+1, BL-3
+and (10, 13)
+
+173])5]7)]9 10) 13) 15
+1/3 )51719 111131 15
+1/3 }s5{]7)911) 13] 15
+7/3 }s51]71)9 10113115
+
+Page 5 of 5
+````
+
 ## 2024-25 · Re-Exam · Sem 5 · paper 45c95f1f3aae
 
 - Departments: Computer Engineering, Electronics and Telecommunication
@@ -2079,36 +2418,264 @@ BL-3 1 4 4 4 4 4
 5) 1 i 1 1 1
 ````
 
-## 2023-24 · Exam not stated · Sem 5 · paper c2adf28ac9a2
+## 2024-25 · Re-Exam · Sem 9 · paper 6d36fce86da9
 
-- Departments: Computer Engineering, Electronics and Telecommunication
-- Programmes: B TECH / COMPUTER, B TECH / EXTC, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/B Tech, (COMP EXTC), Image and Video Processing, Semester-V, Batch 2023-24 & 2024_89f51633.pdf` (+2 identical copies)
-- Printed on paper: max marks: 100
-- Text: ocr (3 pages), mean OCR confidence 86.7
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image and Video Processing/Image and Video Processing Batch 2023-24 Re Exam0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/02/2025
+- Text: ocr (5 pages), mean OCR confidence 88.4
 
 ````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
-SCHOOL OF TECHNOLOGY MANAGEMENT
-Academic Year: 2025-2026
+SVKM’S NMIMS on
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
 
-Program/s: BTECH INTG /B TECH /MBATECH Year: mpg Semester: V/re.
-Stream/s: COMP/EXTC
+Program: B.Tech/MBA.Tech Stream : Computer Engg Year: uy Semester: VIX
+; err ; cs /EXTC .
 
-Subject: Image and Video Processing Time: 3 __ hrs (2:00 pnto 5:00 pm
-Date:_0 8 /Deg/ 2025 No. of Pages: 3
+Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
+
+Date: 15/02/2025 No. of Pages: 05
 
 Marks: 100
 
-Re-Examination (2023-2024, 2024-2025)
+Re-Examination (Batch 2023-24)
+
+‘> Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory. _
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt all questions * 20
+CO-1,SO- | a | Discuss adjacencies (connectivities) between pixels in an image with an 04
+1, BL-3 example.
+CO-2, SO- | b | State the equations to compute Walsh transform and inverse Walsh transform. 04
+1, BL-3 Compute the Walsh transform of the following image:
+
+4 4
+
+1 1
+CO-3, SO- | ¢ | Explain dilation on binary images in brief. 04
+1, BL-2
+CO-4,SO- | d | Discuss the method of segmentation using thresholding. 04
+1, BL-2
+CO-5,SO- | e | Define Sum of Absolute Differences (SAD). Discuss its importance in motion 04
+1, BL-2 estimation.
+Q.2
+CO-1,SO- | a | Describe spatial resolution and gray level resolution. Discuss the effects of 10
+1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
+
+Deliberate on the disadvantage of having increased resolution.
+
+Page 1 of 5
+--- page 2 ---
+CO-2, SO- | b | Calculate the DCT of the given image, and the percentage of the total acre 10
+1, BL-3 contained in the DC coefficient.
+
+1 2 1 2
+
+1 2 1 2
+
+1 2 1 2
+
+1 2 1 2
+Q3
+CO-1,SO- | a | Perform histogram equalization on the given image. The gray level 10
+1, BL-3 Pe Se ts
+
+distribution is given below:
+Gray level | 0 1 2 3 4 5 6 7
+No. of ;
+: 0 | 0 | O | 200 | 200 | 300} 300 0
+pixels .
+Draw the original histogram and the equalized histogram.
+
+CO-2,SO- | b | Compute the forward and inverse Hadamard transform of the given image. 10
+1, BL-3
+
+3 4 1 2
+
+3 4 1 2
+
+1 2 3 4
+
+1 2 3 4
+Q4
+CO-3,SO- | a | State mathematical expression of morphological closing operation. Perform 10
+1, BL-3
+
+closing operation on the given image (A) using structuring element SE1.
+(Assume shaded regions have intensity 1 and unshaded regions have intensity
+
+0). Conclude as to what effect closing operation had on the image.
+
+Page 2 of 5
+
+aN
+--- page 3 ---
+Image (A)
+
+oy
+
+SE1
+
+CO-1, SO- | b | On the given image, apply 3x3 low pass and median filters to produce 3x5 10
+bal’ output images. Compare the outputs and conclude as to which filter was better
+at removing the noise. Justify your answer.
+
+100 | 100 | 100 | 100 | 100) 100 | 100
+
+100 | 100 | 250} 100 | 10 | 100 | 100
+
+100 | 100 | 100 | 250 | 100 | 100 | 100
+
+100 | 10 | 100} 100 | 100} 10 | 100
+
+100 | 100 | 100 | 100 | 100 | 100 | 100
+
+Q.5
+
+CO-4, SO- | a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
+1, BL-3 :. § .
+
+given images (generate 4x4 output images). Compare the outputs and comment
+on the performance of both operators.
+
+Image 1:
+
+Page 3 of 5
+--- page 4 ---
+10] 10] 10] 10 | 10] 10 ve
+10 | 10 | 10 | 10 | 10 | 10
+10 | 10 | 10 | 10 | 10 | 10
+250 | 250 | 250 | 250 | 250 | 250
+250 | 250 | 250 | 250 | 250 | 250
+250 | 250 | 250 | 250 | 250 | 250
+
+Image 2:
+
+10 | 10 | 10 | 250 | 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+10 | 10 | 10: | 250 | 250 | 250
+10 | 10 | 40 | 250 | 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+
+CO-5, SO-
+
+b | Illustrate the 3-step search motion estimation algorithm and explain its 10
+1, BL-3 .
+working.
+Q.6
+CO-4, SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
+1, BL-3
+
+pixels are underlined). Use 4-neighbourhood for growing regions. The
+
+predicate is |f(seed)—f(pixel)| <3
+
+1 2 1 2 3 1 2 3 1 2
+
+1 2 1. 2 3 1 2 ) 1 2
+
+1 2 as 2 3 7 8 8 8 7
+
+iL, 14 14 14 3 1 7 9 7 2
+1 | 13 | 13 | 13 | 3 1 2/7 1 2
+1 | 15} 15/15 | 3 1 7 9 7 | 2
+1 | 14] 14] 14} 3 7 8 8 8 7
+1 2 | 13 | 2 | 3 1 2 | 3 1 2
+1 2 1 2 | 3 1 2 | 3 1 2
+1 2 1 2 | 3 1 2 | 3 1 2
+Image (A)
+
+Page 4 of 5
+--- page 5 ---
+On the given image (B), perform region split and merge. Minimum sub-image
+
+size during splitting is 1x1. The predicate is |f(seed)—f(pixel)| <3
+
+2 1 2 3 ul 2 3 1
+
+a 15 | 2. 3 7 8 8 8
+
+14 | 14] 14 3 1 7 9 7
+
+13] 13/13 | 3 | 1] 24)7 4 1
+15 | 15,45 | 3 1 7 9 7
+14 | 14} 14 |] 3 7 8 8 8
+2 13 | 2 3 1 2 3 1
+2 1 2 3 1 2 3 1
+
+Image (B)
+CO-3, SO- | b | Describe thinning operation in detail with an example. 10
+1, BL-2
+Q.7
+CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
+LBL arranged in a Group of Pictures.
+CO-1,SO- | b | Write the mathematical equations and draw graphs 6f grey level slicing with 10
+1, BL-3
+
+and without background.
+Compute the image pixel values after applying grey level slicing with
+background and without background on pixels having intensity between 5 and
+
+10 (both inclusive).
+
+5 4 3 2 1
+0 1 2 3 4
+15 14 13 12 11
+6 7 8 9 10
+4 3 a 1 0
+
+Compute the digital negative of the given image.
+
+Page 5 of 5
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 67a4d903cb9b
+
+- Departments: Computer Engineering
+- Programmes: MBA TECH / Computer
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Image and Video Processing/Image and Video Processing , Re-exam 2023-24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/02/2025
+- Text: ocr (6 pages), mean OCR confidence 86.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN EERING
+Academic Year: 2024-2025
+
+Program: B.Tech/MBA.Tech Stream : Computer Engg Year: uy Semester: VWAIK
+: err : cs /ExTe
+
+Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
+
+Date: 15/02/2025 No. of Pages: 05
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
 
 Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
 of the Answer Book, which is provided for their use.
 
 1) Question No._1___ is compulsory.
 
-2) Out of remaining questions, attempt any 4 __ questions.
+2) Out of remaining questions, attempt any__4 _ questions.
 
 3) In all__5_ questions to be attempted.
 
@@ -2116,99 +2683,176 @@ of the Answer Book, which is provided for their use.
 
 5) Answer to each new question to be started on a fresh page.
 
-6) Figures in brackets on the right-hand side indicate full marks.
+6) Figures in brackets on the right hand side indicate full marks.
 7) Assume Suitable data if necessary.
 
-Ql
-Answer briefly: [20]
-Col; What is the difference between 4- and 8-connectivity in a digital image?
-SO-1; a list two discrepancies. 5M
-BL-l ;
-C02 ;
-SO-1; b. | Explain Walsh Transform with equation. 5M
-BL-2
-Co3 Compare the results of boundary extraction and edge detection — how do
-SO-1: c. | they differ in output and purpose? 5M
-BL-2
-CO4 Describe region-based segmentation techniques. What criteria are used to ri
-an d, | determine pixel inclusion?
-Q2
-COl: Apply histogram equalization on the given 8x8 image. The gray level
-Sol; distribution is given below:
-BL3
+Q.1 Attempt all questions 20
+CO-1, SO- | a | Discuss adjacencies (connectivities) between pixels in an image with an 04
+1, BL-3 example.
+CO-2, SO- b | State the equations to compute Walsh transform and inverse Walsh transform. 04
+1, BL-3 Compute the Walsh transform of the following image:
 
-1|Page
+474
+
+1 1
+CO-3, SO- | ¢ | Explain dilation on binary images in brief. 04
+1, BL-2
+CO-4, SO- | d | Discuss the method of segmentation using thresholding. 04
+1, BL-2
+CO-5,SO- | e | Define Sum of Absolute Differences (SAD). Discuss its importance in motion 04
+1, BL-2 estimation.
+Q.2
+CO-1,SO- | a | Describe spatial resolution and gray level resolution. Discuss the effects of 10
+1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
+
+Deliberate on the disadvantage of having increased resolution.
+
+Page lof5
 --- page 2 ---
-[10]
+10
 
-Gray level |0 j 1 2 13 4 5 6 7
-
+CO-2, SO- | b | Calculate the DCT of the given image, and the percentage of the total energy
+1, BL-3 contained in the DC coefficient.
+1 D 1 2
+1 2 1 2:
+1 2 1 2)
+1 2 1 2,
+Q3
+CO-1, SO- | a | Perform histogram equalization on the given image. The gray level 10
+ay distribution is given below:
+Gray level | 0 2 3 4 § 6 7
 No. of
-
-pixéls 18 {10 |}3 |2 2 |3 14 12
-
+ae 0 | 0.} 0 | 200 | 200 | 300 | 300 0
+pixels
 Draw the original histogram and the equalized histogram.
+CO-2,S0- | b | Compute the forward and inverse Hadamard transform of the given image. 10
+1, BL-3
+3 4 1 2
+3 4 1 2
+1 2 3 4
+1 2 3 4
+Q4
+CO-3, SO- | a | State mathematical expression of morphological closing operation. Perform 10
+1, BL-3
 
-Determine Discrete Cosine Transform of the following Image matrix:
+closing operation on the given image (A) using structuring element SE1.
+(Assume shaded regions have intensity 1 and unshaded regions have intensity
 
-Q2 b 52 55 61 66
-Sox. 78 61 64 73 [10]
-’
-BLS; 63 65 66 68
-58 62 6@ 59
-Q3
-Col; a | Explain Bit plane slicing and contrast stretching with neat sketch. [12]
-Sol;
-BL2;
-Q3
-Sox: b | State the properties of Hadamard and Walsh Transform. [08]
-BL2;
-Q4 Discuss thinning and thickening operations in morphological image
-“an a | processing. How are they implemented, and in what scenarios are they [10]
-BLE: useful?
-Apply region growing on the following image.
-b Row\Col 1 2 3 4 #5
-1 16 18 12 56 52
-Q4 2 10 12 13 51 358
-C04, 3 1212 14 «49 «48 [10]
-SO}; 4 ao 78 79 49 47
-BL3;
-5 82 81 88 46 45
+0). Conclude as to what effect closing operation had on the image.
 
-Consider initial point at (3, 3), threshold value 2- and 4-point connectivity.
-
-2}|Page
+Page 2 of 5
 --- page 3 ---
-Q5 4 | Discuss neighborhood processing techniques in image enhancement. How
+Image (A)
 
-_ do smoothing spatial filters differ from sharpening filters, and what are [12]
-BLS: their respective roles in noise reduction and edge enhancement?
-Q5 b
-COl: Compare the energy compaction of DCT and Hadamard transform. Which
-; . . . [08]
-SOl; transform retains more energy in fewer coefficients?
-BL4
-a_ | Given a 4x4 image
-10 42 14 46}
-11 13 15 47
-AA 50 52 54 56
-i Si 53 55 57
-SOl; [10]
-BL4; . . . : . ae
-Starting with 2x2 regions from the image above, merge adjacent regions if
-the difference in mean intensity is less than 5. Show the final merged
-regions.
-Q6 b__| Perform iterative thresholding starting with T = 100 for: Group A: [40, 50,
-Son 60, 70} Group B: [130, 140, 150, 160] Compute the new threshold and [10]
-BL3 repeat until convergence.
-Q7 4 | Describe the classification of video frames in compressed video streams.
-Sor: What are I-frames, P-frames, and B-frames, and how do they contribute to | [10]
-BL2 efficient video encoding and decoding?
-Q7 b- | Discuss the block matching approach to motion estimation. How does it
-con work, and what are the key parameters involved in evaluating motion [10]
-BL6 vectors?
+bed
+SEl
+CO-1,SO- | b | On the given image, apply 3x3 low pass and median filters to produce 3x5 10
+nlitet output images. Compare the outputs and conclude as to which filter was better
+at removing the noise. Justify your answer.
 
-3|Page
+100 | 100 | 100 | 100 | 100 | 100 | 100
+
+100 | 100 | 250 | 100] 10 | 100 | 100
+
+100 | 100 | 100 | 250 | 100 | 100 | 100
+
+100 | 10 | 100} 100} 100} 10 | 100
+
+100 | 100 | 100 | 100 | 100 | 100 | 100
+Q.5
+CO-4, SO- | a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
+1, BL-3
+
+given images (generate 4x4 output images). Compare the outputs and comment
+on the performance of both operators.
+
+Image 1:
+
+Page 3 of 5
+--- page 4 ---
+LOS PLOF S10" | 10F 1.075) 10
+10 | 10 | 10 | 10 |] 10 | 10
+10 | 10 | 10 | 10) 10 | 10
+250 | 250 | 250 | 250 | 250 | 250
+250 | 250 | 250 | 250 | 250 | 250
+250 | 250 | 250 | 250 | 250 | 250
+
+Image 2:
+10 | 10 | 10 | 250 | 250 | 250
+LOM) 10) FLO) 25031250!) 250
+10 | 10 | 10 | 250} 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+10 | 10 | 10 | 250 | 250 | 250
+CO-5,SO- | b | Illustrate the 3-step search motion estimation algorithm and explain its 10
+ee working.
+Q6
+
+CO-4,SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
+tere pixels are underlined). Use 4-neighbourhood for growing regions. The
+predicate is |f(seed)—f(pixel)| <3
+
+1 2 1 2 3) 1 2 3 1 2
+
+il 2 1 2 3 a 2 3 1 2
+oT 2 a5 Z 3) 7 8 8 8 i
+
+1 | TA TAe | aa se 7 Oe 7 | 22
+
+ease SSG Se al ee pe tele
+
+
+
+1 2 || ats} fez. 3 1 2 3 1 2
+
+mS She sae | Sehr ke
+
+1 2 1 2 e) 1 2. 3 1 2
+Image (A)
+
+Page 40f5
+--- page 5 ---
+On the given image (B), perform region split and merge. Minimum sub-image
+size during splitting is 1x1. The predicate is \f(seed)—-f(pixel)| <3
+2 1 Z 3 1 2 3 1
+
+2p ss aay aes
+
+14 | 14] 14] 3 1 7 ) 7
+
+yp ces] a) | SS Sih 4G Sea
+15S 15e |e 1S 3 1 7 9 7
+144) 14/ 14/3/71 8 8 8
+2 ee ae 3 1 2} B 1
+y 1 2 3 1 2 3 1
+
+Image (B)
+CO-3, SO- | b | Describe thinning operation in detail with an example. 10
+1, BL-2
+Q7
+CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
+Sas arranged in a Group of Pictures.
+CO-1,SO- | b | Write the mathematical equations and draw graphs of grey level slicing with 10
+1, BL-3
+
+and without background.
+
+Compute the image pixel values after applying grey level slicing with
+
+background and without background on pixels having intensity between 5 and
+10 (both inclusive).
+
+5 4 3 2 1
+0 1 2 3 4
+15 14 13 12 11
+6 7 8 9 10
+4 3 2 1 0
+
+Compute the digital negative of the given image.
+
+Page 5 of 5
+--- page 6 ---
+
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 5 · paper 181c75eef8a3
@@ -2995,6 +3639,7 @@ diagrams.
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/Image & Video Processing , Re-exam 2023-24,2022-23.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (6 pages), mean OCR confidence 79.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3142,7 +3787,6 @@ ake given structuring elements. Size of image A is 7 x 7.
 0/0 ;0 /0 |0.;0 }0
 Ol) y1 1 yr tt fo
 O};1 }1 ]1 yi 41 40
-O};1l yi Ji yl fl jo
 O};1 fl {1 fi ]1 40 [08]
 O};LiL }i yi fl jo
 0/0 }0 |0 {0 |0 |0
@@ -3155,7 +3799,6 @@ Q5 a. For a video signal, consider the sequence of frames for the following
 CO-4; display order. Choose sequence of first four frames to show bit stream
 il order to achieve compression
 BL-6 _ P j [04]
-| B B P B B P B B P B BOI
 | 2 3 4 5 6 7 8 9 10 HN 12 3
 CO-4; | b. , :
 SO-1, 6; Explain 2D log search algorithm of motion estimation in detail. [08]
@@ -3239,213 +3882,6 @@ OL 1,0
 B
 
 Page 6 of 6
-````
-
-## 2023-24 · Re-Exam · Sem 5 · paper 6700ac255f37
-
-- Departments: Computer Engineering
-- Programmes: B TECH / COMPUTER, MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/Image and Video Processing, Sem-V, Batch 2023-24, Re Exam.pdf` (+1 identical copies)
-- Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 84.9
-
-````text
-MPSTME
-
-LIBRARY
-
-SVKM’S NMIMS ;
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B.Tech/MBA.Tech Stream : Computer Engg /CS/EXTC Year: III/Semester: V/1X
-. ® Tek Tot puter Engg /c¢/ ; ie
-Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
-Date:_07/12/2024 No. of Pages: 05
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use. i
-
-1) Question No. _1___ is compulsory. + poy
-
-2) Out of remaining questions, attempt any _4 _ questions.
-
-3) In all___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt all questions 20
-CO-1, SO- a | Calculate the Euclidean distance, city block distance and chessboard distance 04
-1, BL-3 between two pixels located at (0, 4) and (6, 1).
-CO-2, SO- | b | State the equations to compute Hadamard transform and inverse Hadamard 04
-1, BL-3 transform. Compute the Hadamard transform of the following image:
-o
-
-2 3
-
-1 2
-CO-3, SO- | c | Explain erosion on binary images in brief. 04
-1, BL-2
-CO-4,SO- | d | Discuss the method of segmentation using thresholding. 04
-1, BL-2
-CO-5,SO- | e | Explain chroma subsampling of video in brief. List subsampling formats used 04
-1, BL-2 for various applications.
-Q.2
-CO-1,SO- | a | Describe spatial resolution and gray level resolution, Discuss the effects of 10
-1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
-
-Deliberate on the disadvantage of having increased resolution.
-
-Page 1 of 5
---- page 2 ---
-CO-2, SO-
-
-Calculate the DCT of the given image, and the percentage of the fotal energy
-
-10
-1, BL-3 contained in the DC coefficient.
-2 1 1 2
-20 2 1 1
-1 1 2 2
-2 1 2 1
-Q.3
-CO-1, SO- Perform histogram equalization on the given 8x8 image. The gray level 10
-1, BL-3 pe 2 oe! oe
-distribution is given below:
-Gray level | 0 1 2 3 4 5 6 7
-No. of
-. 18 | 10 | 43 2 2 3 14 12
-pixels ;
-Draw the original histogram and the equalized histogram.
-CO-2, SO- Compute the forward and inverse Walsh transform of the given image. 10
-1, BL-3
-2 1 2 1
-1 2 3 4 2
-2 3 - 3
-: 1 2 3 2
-Q.4
-CO-3, SO- State mathematical expression of morphological opening operation. Perform 10
-1, BL-3
-
-opening operation on the given image (A). Use structuring element SE1 for
-erosion and SE2 for dilation. (Assume shaded regions have intensity 1 and
-
-unshaded regions have intensity 0). State applications of opening operation.
-
-Page 2 of 5
---- page 3 ---
-SEY SE2
-
-oad
-
-CO-1,SO- | b | Draw low pass and high pass filter masks. Justify why the sum of the 10
-1, Bet coefficients of a high pass filter should be zero. On the given image, apply 3x3
-low pass and high pass filters to produce 3x3 output images.
-50 | 50 | 50 | 50 | 50
-200 | 200 | 200 | 200 | 200
-200 | 200 | 200 | 200 | 200
-200 | 200 | 200 | 200 | 200 :
-: 50 | 50 | 50 | 50 | 50 |
-Q.5
-a al a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
-» BL-
-
-given images (generate 4x4 output images). Compare the outputs and comment
-on the performance of both operators.
-
-Image |:
-
-50 | 50 | 50 | 50 | 50 | 50
-50 | 50 | 50 | 50 | 50 | 50
-200 | 200 | 200 | 200 | 200 | 200
-200 | 200 | 200 | 200 | 200 | 200
-200 | 200 | 200 | 200 | 200 | 200
-200 | 200 | 200 | 200 | 200 | 200
-
-Page 3 of 5
---- page 4 ---
-Image 2:
-
-50 | 50 | SO | 200 | 200 | 200
-50 | 50 | 50 | 200 | 200 | 200
-50 | 50 | 50 | 200 | 200 | 200
-50 | 50 | 50 | 200 | 200 | 200
-50 | 50 | 50 | 200 | 200 | 200
-50 | 50 | SO | 200 | 200 | 200
-
-CO-5,SO- | b | Illustrate the 2D log search motion estimation algorithm and explain its 10
-1, BL-3 .
-
-working. we
-Q.6 on
-CO-4, SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
-1, BL-3
-
-pixels are underlined). Use 4-neighbourhood for growing regions. The
-
-predicate is |f(seed)—f(pixel)| <3
-
-8/7]/9]9]8])9]9 77 7157 15°
-8 |7)9|]91819 191151141 14
-8|/7]/9 | 918 ] 9 | 14] 145 [213 | 13
-8 | 7/9 | 9 | 8 113 | 13 | 13 [14 7 14
-8 | 7/9 | 9 | 14] 15 | 13 | 14] 15 | 13
-8|/7]9]/9]15];15;o0]2]1 1) 0
-
-8 1 O | 12} 12} 12] 0 | 2 1 0
-1 O | 12}; 12) 12] 12] 2 1 0] 0
-Image (A)
-
-Page 40f5
---- page 5 ---
-On the given image (B), perform region split and merge. Minimum ane
-size during splitting is 1x1. The predicate is |f(seed)—f(pixel)| <3
-
-8} 7}9}9 |} 9] 7 | 15 } 15
-
-8) 7 | 9] 9 | 9 | 15 | 14 | 14
-
-8 | 7 9 | 9 | 14] 15 | 13 | 13
-
-8 | 7 | 9 | 9 | 13} 13 |} 14 | 14
-
-8 | 7 | 9 1 1 2 1 0
-
-8 | 7 1 0 1 2 1 0
-
-8 1 0 12] 0 2 1 0
-
-1 0 | 12) 12] 2 1 0 | 0
-
-. Image (B)
-CO-3, SO- | b | Describe boundary extraction in detail with an example. 10
-1, BL-2
-Q.7
-CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
-1, BL-4
-
-arranged in a Group of Pictures.
-
-CO-1,SO- | b | On the given image, perform contrast stretching using two location points (5,2) 10
-1, BL-3
-and (10, 13)
-
-173])5]7)]9 10) 13) 15
-1/3 )51719 111131 15
-1/3 }s5{]7)911) 13] 15
-7/3 }s51]71)9 10113115
-
-Page 5 of 5
 ````
 
 ## 2023-24 · Re-Exam · Sem 8 · paper c2583990ddea
@@ -3660,444 +4096,6 @@ SO-1,6 diagram.
 BL-2
 
 5|Page
-````
-
-## 2023-24 · Re-Exam · Sem 9 · paper 6d36fce86da9
-
-- Departments: Computer Engineering
-- Programmes: B.TECH INTEGRATED / COMPUTER
-- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/COMPUTER/SEM IX/Image and Video Processing/Image and Video Processing Batch 2023-24 Re Exam0001.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/02/2025
-- Text: ocr (5 pages), mean OCR confidence 88.4
-
-````text
-SVKM’S NMIMS on
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
-Academic Year: 2024-2025
-
-Program: B.Tech/MBA.Tech Stream : Computer Engg Year: uy Semester: VIX
-; err ; cs /EXTC .
-
-Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
-
-Date: 15/02/2025 No. of Pages: 05
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-‘> Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. _1___ is compulsory. _
-
-2) Out of remaining questions, attempt any 4 _ questions.
-
-3) Inall___5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt all questions * 20
-CO-1,SO- | a | Discuss adjacencies (connectivities) between pixels in an image with an 04
-1, BL-3 example.
-CO-2, SO- | b | State the equations to compute Walsh transform and inverse Walsh transform. 04
-1, BL-3 Compute the Walsh transform of the following image:
-
-4 4
-
-1 1
-CO-3, SO- | ¢ | Explain dilation on binary images in brief. 04
-1, BL-2
-CO-4,SO- | d | Discuss the method of segmentation using thresholding. 04
-1, BL-2
-CO-5,SO- | e | Define Sum of Absolute Differences (SAD). Discuss its importance in motion 04
-1, BL-2 estimation.
-Q.2
-CO-1,SO- | a | Describe spatial resolution and gray level resolution. Discuss the effects of 10
-1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
-
-Deliberate on the disadvantage of having increased resolution.
-
-Page 1 of 5
---- page 2 ---
-CO-2, SO- | b | Calculate the DCT of the given image, and the percentage of the total acre 10
-1, BL-3 contained in the DC coefficient.
-
-1 2 1 2
-
-1 2 1 2
-
-1 2 1 2
-
-1 2 1 2
-Q3
-CO-1,SO- | a | Perform histogram equalization on the given image. The gray level 10
-1, BL-3 Pe Se ts
-
-distribution is given below:
-Gray level | 0 1 2 3 4 5 6 7
-No. of ;
-: 0 | 0 | O | 200 | 200 | 300} 300 0
-pixels .
-Draw the original histogram and the equalized histogram.
-
-CO-2,SO- | b | Compute the forward and inverse Hadamard transform of the given image. 10
-1, BL-3
-
-3 4 1 2
-
-3 4 1 2
-
-1 2 3 4
-
-1 2 3 4
-Q4
-CO-3,SO- | a | State mathematical expression of morphological closing operation. Perform 10
-1, BL-3
-
-closing operation on the given image (A) using structuring element SE1.
-(Assume shaded regions have intensity 1 and unshaded regions have intensity
-
-0). Conclude as to what effect closing operation had on the image.
-
-Page 2 of 5
-
-aN
---- page 3 ---
-Image (A)
-
-oy
-
-SE1
-
-CO-1, SO- | b | On the given image, apply 3x3 low pass and median filters to produce 3x5 10
-bal’ output images. Compare the outputs and conclude as to which filter was better
-at removing the noise. Justify your answer.
-
-100 | 100 | 100 | 100 | 100) 100 | 100
-
-100 | 100 | 250} 100 | 10 | 100 | 100
-
-100 | 100 | 100 | 250 | 100 | 100 | 100
-
-100 | 10 | 100} 100 | 100} 10 | 100
-
-100 | 100 | 100 | 100 | 100 | 100 | 100
-
-Q.5
-
-CO-4, SO- | a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
-1, BL-3 :. § .
-
-given images (generate 4x4 output images). Compare the outputs and comment
-on the performance of both operators.
-
-Image 1:
-
-Page 3 of 5
---- page 4 ---
-10] 10] 10] 10 | 10] 10 ve
-10 | 10 | 10 | 10 | 10 | 10
-10 | 10 | 10 | 10 | 10 | 10
-250 | 250 | 250 | 250 | 250 | 250
-250 | 250 | 250 | 250 | 250 | 250
-250 | 250 | 250 | 250 | 250 | 250
-
-Image 2:
-
-10 | 10 | 10 | 250 | 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-10 | 10 | 10: | 250 | 250 | 250
-10 | 10 | 40 | 250 | 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-
-CO-5, SO-
-
-b | Illustrate the 3-step search motion estimation algorithm and explain its 10
-1, BL-3 .
-working.
-Q.6
-CO-4, SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
-1, BL-3
-
-pixels are underlined). Use 4-neighbourhood for growing regions. The
-
-predicate is |f(seed)—f(pixel)| <3
-
-1 2 1 2 3 1 2 3 1 2
-
-1 2 1. 2 3 1 2 ) 1 2
-
-1 2 as 2 3 7 8 8 8 7
-
-iL, 14 14 14 3 1 7 9 7 2
-1 | 13 | 13 | 13 | 3 1 2/7 1 2
-1 | 15} 15/15 | 3 1 7 9 7 | 2
-1 | 14] 14] 14} 3 7 8 8 8 7
-1 2 | 13 | 2 | 3 1 2 | 3 1 2
-1 2 1 2 | 3 1 2 | 3 1 2
-1 2 1 2 | 3 1 2 | 3 1 2
-Image (A)
-
-Page 4 of 5
---- page 5 ---
-On the given image (B), perform region split and merge. Minimum sub-image
-
-size during splitting is 1x1. The predicate is |f(seed)—f(pixel)| <3
-
-2 1 2 3 ul 2 3 1
-
-a 15 | 2. 3 7 8 8 8
-
-14 | 14] 14 3 1 7 9 7
-
-13] 13/13 | 3 | 1] 24)7 4 1
-15 | 15,45 | 3 1 7 9 7
-14 | 14} 14 |] 3 7 8 8 8
-2 13 | 2 3 1 2 3 1
-2 1 2 3 1 2 3 1
-
-Image (B)
-CO-3, SO- | b | Describe thinning operation in detail with an example. 10
-1, BL-2
-Q.7
-CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
-LBL arranged in a Group of Pictures.
-CO-1,SO- | b | Write the mathematical equations and draw graphs 6f grey level slicing with 10
-1, BL-3
-
-and without background.
-Compute the image pixel values after applying grey level slicing with
-background and without background on pixels having intensity between 5 and
-
-10 (both inclusive).
-
-5 4 3 2 1
-0 1 2 3 4
-15 14 13 12 11
-6 7 8 9 10
-4 3 a 1 0
-
-Compute the digital negative of the given image.
-
-Page 5 of 5
-````
-
-## 2023-24 · Re-Exam · Sem 5 · paper 67a4d903cb9b
-
-- Departments: Computer Engineering
-- Programmes: MBA TECH / Computer
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/Computer/SEM V/Image and Video Processing/Image and Video Processing , Re-exam 2023-24.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 15/02/2025
-- Text: ocr (6 pages), mean OCR confidence 86.0
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGIN EERING
-Academic Year: 2024-2025
-
-Program: B.Tech/MBA.Tech Stream : Computer Engg Year: uy Semester: VWAIK
-: err : cs /ExTe
-
-Subject: Image and Video Processing Time: 03 hrs (2 to 5 pm)
-
-Date: 15/02/2025 No. of Pages: 05
-
-Marks: 100
-
-Re-Examination (Batch 2023-24)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No._1___ is compulsory.
-
-2) Out of remaining questions, attempt any__4 _ questions.
-
-3) In all__5_ questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q.1 Attempt all questions 20
-CO-1, SO- | a | Discuss adjacencies (connectivities) between pixels in an image with an 04
-1, BL-3 example.
-CO-2, SO- b | State the equations to compute Walsh transform and inverse Walsh transform. 04
-1, BL-3 Compute the Walsh transform of the following image:
-
-474
-
-1 1
-CO-3, SO- | ¢ | Explain dilation on binary images in brief. 04
-1, BL-2
-CO-4, SO- | d | Discuss the method of segmentation using thresholding. 04
-1, BL-2
-CO-5,SO- | e | Define Sum of Absolute Differences (SAD). Discuss its importance in motion 04
-1, BL-2 estimation.
-Q.2
-CO-1,SO- | a | Describe spatial resolution and gray level resolution. Discuss the effects of 10
-1, BL-2 decreased spatial and gray level resolution on the appearance of the image.
-
-Deliberate on the disadvantage of having increased resolution.
-
-Page lof5
---- page 2 ---
-10
-
-CO-2, SO- | b | Calculate the DCT of the given image, and the percentage of the total energy
-1, BL-3 contained in the DC coefficient.
-1 D 1 2
-1 2 1 2:
-1 2 1 2)
-1 2 1 2,
-Q3
-CO-1, SO- | a | Perform histogram equalization on the given image. The gray level 10
-ay distribution is given below:
-Gray level | 0 2 3 4 § 6 7
-No. of
-ae 0 | 0.} 0 | 200 | 200 | 300 | 300 0
-pixels
-Draw the original histogram and the equalized histogram.
-CO-2,S0- | b | Compute the forward and inverse Hadamard transform of the given image. 10
-1, BL-3
-3 4 1 2
-3 4 1 2
-1 2 3 4
-1 2 3 4
-Q4
-CO-3, SO- | a | State mathematical expression of morphological closing operation. Perform 10
-1, BL-3
-
-closing operation on the given image (A) using structuring element SE1.
-(Assume shaded regions have intensity 1 and unshaded regions have intensity
-
-0). Conclude as to what effect closing operation had on the image.
-
-Page 2 of 5
---- page 3 ---
-Image (A)
-
-bed
-SEl
-CO-1,SO- | b | On the given image, apply 3x3 low pass and median filters to produce 3x5 10
-nlitet output images. Compare the outputs and conclude as to which filter was better
-at removing the noise. Justify your answer.
-
-100 | 100 | 100 | 100 | 100 | 100 | 100
-
-100 | 100 | 250 | 100] 10 | 100 | 100
-
-100 | 100 | 100 | 250 | 100 | 100 | 100
-
-100 | 10 | 100} 100} 100} 10 | 100
-
-100 | 100 | 100 | 100 | 100 | 100 | 100
-Q.5
-CO-4, SO- | a | Apply appropriate masks of Sobel and Prewitt operators to detect edges in the 10
-1, BL-3
-
-given images (generate 4x4 output images). Compare the outputs and comment
-on the performance of both operators.
-
-Image 1:
-
-Page 3 of 5
---- page 4 ---
-LOS PLOF S10" | 10F 1.075) 10
-10 | 10 | 10 | 10 |] 10 | 10
-10 | 10 | 10 | 10) 10 | 10
-250 | 250 | 250 | 250 | 250 | 250
-250 | 250 | 250 | 250 | 250 | 250
-250 | 250 | 250 | 250 | 250 | 250
-
-Image 2:
-10 | 10 | 10 | 250 | 250 | 250
-LOM) 10) FLO) 25031250!) 250
-10 | 10 | 10 | 250} 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-10 | 10 | 10 | 250 | 250 | 250
-CO-5,SO- | b | Illustrate the 3-step search motion estimation algorithm and explain its 10
-ee working.
-Q6
-
-CO-4,SO- | a | On the given image (A), perform region growing using given seed pixels (seed 10
-tere pixels are underlined). Use 4-neighbourhood for growing regions. The
-predicate is |f(seed)—f(pixel)| <3
-
-1 2 1 2 3) 1 2 3 1 2
-
-il 2 1 2 3 a 2 3 1 2
-oT 2 a5 Z 3) 7 8 8 8 i
-
-1 | TA TAe | aa se 7 Oe 7 | 22
-
-ease SSG Se al ee pe tele
-
-ee |e et5e |S sl oS, 1 TEMES) 7 2,
-
-epee] esa | |RSS ED 7 8 aR Srey 87
-
-1 2 || ats} fez. 3 1 2 3 1 2
-
-mS She sae | Sehr ke
-
-1 2 1 2 e) 1 2. 3 1 2
-Image (A)
-
-Page 40f5
---- page 5 ---
-On the given image (B), perform region split and merge. Minimum sub-image
-size during splitting is 1x1. The predicate is \f(seed)—-f(pixel)| <3
-2 1 Z 3 1 2 3 1
-
-2p ss aay aes
-
-14 | 14] 14] 3 1 7 ) 7
-
-yp ces] a) | SS Sih 4G Sea
-15S 15e |e 1S 3 1 7 9 7
-144) 14/ 14/3/71 8 8 8
-2 ee ae 3 1 2} B 1
-y 1 2 3 1 2 3 1
-
-Image (B)
-CO-3, SO- | b | Describe thinning operation in detail with an example. 10
-1, BL-2
-Q7
-CO-5, SO- a | Describe in detail I, P and B frames in a video. Illustrate how they can be 10
-Sas arranged in a Group of Pictures.
-CO-1,SO- | b | Write the mathematical equations and draw graphs of grey level slicing with 10
-1, BL-3
-
-and without background.
-
-Compute the image pixel values after applying grey level slicing with
-
-background and without background on pixels having intensity between 5 and
-10 (both inclusive).
-
-5 4 3 2 1
-0 1 2 3 4
-15 14 13 12 11
-6 7 8 9 10
-4 3 2 1 0
-
-Compute the digital negative of the given image.
-
-Page 5 of 5
---- page 6 ---
-
 ````
 
 ## 2022-23 · Final-Exam · Sem 5 · paper c336bad522f6
@@ -4721,6 +4719,7 @@ BL-5 12 | 12 15 11 60 70 50 20
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/COMPUTER/V SEMESTER/IMAGE & VIDEO PROCESSING/Image and Video Processing, Sem-V, Year 2022-23, Special Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (4 pages), mean OCR confidence 88.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -4765,7 +4764,6 @@ BL-06
 3 8 6 2
 case; || © Explai ith ample bound tracti sing morphological
 xplain with an example boundary extraction usin
-50-01; p p y g p 8 [05]
 operations.
 BL-02
 CcO-04; d. ;

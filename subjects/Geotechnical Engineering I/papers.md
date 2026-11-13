@@ -426,6 +426,7 @@ Page 2 of 2
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING BATCH 2017-18 18-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
 - Text: ocr (3 pages), mean OCR confidence 90.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’?S NMIMS
@@ -511,7 +512,6 @@ Clay layers: w =38% , Cc =0.26 , G=2.72
 
 \20 's) m>-
 
-Y 4 vt Y yu y yb
 . Sane hm
 
 Tey
@@ -555,6 +555,139 @@ i. Depth of exploration
 ii. | Standard penetration test
 
 b Define : Area ratio, Inside clearance 02
+
+Page 3 of 3
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper b800994173e1
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (3 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) <« Year: III " Semester: V,
+Academic Year: 2018-2019
+
+Subject: Geotechnical Engineering-I «
+
+Marks: 60
+Date: 20 November 2018 « Time: 10.00 a On
+SS
+Durations: 3 (hr
+No. of Pages:
+
+Re-examination (2014-15/ 2015-16/ 2016-17)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book,.which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate fall marks.
+7) Assume _suitable data if necessary.
+
+Ql a Attempt any four: 12
+1. Explain Formation of soil in detailed
+
+ii. Explain Textural classification of soil
+iii. Determine average permeability for layered soil for flow vertical and parallel to layer
+iv. Differentiate between compaction and consolidation
+
+Vv. Explain sand bath method
+
+Q2 a. Earth is required to be excavated from borrow pits for building an embankment. The wet 06
+unit weight of undisturbed soil is 1 8 KN/m? and its water content is 8%. In order to build a
+4 m high embankment with top width 2 m and side slopes 1:1, estimate the quantity of earth
+ed required to be excavated per meter length of embankment. The dry unit weight required in
+the embankment is 15 kN/m? with a moisture content of 10%. Assume the specific gravity
+nee of solids as 2.67, also determine the void ratios and the degree of saturation of the soil in
+both the undisturbed and remolded states.
+
+Page 1 of 3
+--- page 2 ---
+b. Explain atterbergs limit in detail 06
+
+Q3 a A sieve analysis of a given sample of sand was carried out by making use of US standard 06
+sieves. The total weight of sand used for the analysis was 522 g. The following data were
+obtained.
+
+Sieve 4.75 2 1 5 0.355 0.180 0.125 0.075
+size in
+mm
+
+Weight | 25.75 61.75 67.00 126.00 | 57.75 78.75 36.75 36.75
+retained
+
+in g
+
+Plot the grain size distribution curve on semi-log paper and compute the following:
+(i) Percent gravel
+
+(ii) Percent of coarse, medium and fine sand .
+
+(iti) Percent of silt and clay
+
+(iv) Uniformity coefficient
+
+(v) Coefficient of curvature
+
+b The water table is located at a depth of 3.0 m below the ground surface in a deposit of sand 06
+11.0 m thick. The sand is saturated above the water table. The total unit weight of the sand
+is 20 kN/m?. Calculate the (a) the total pressure, (b) the pore water pressure and (c) the
+effective pressure at depths 0, 3.0, 7.0, and 11.0 m from the ground surface, and draw the
+pressure distribution diagram.
+
+Q4 a Asand sample of 35 cm’ cross sectional area and 20 cm long was tested ina constant head 06
+permeameter. Under a head of 60 cm, the discharge was 120 ml in 6 min. The dry weight of
+sand used for the test was 1 120 g, and Gs = 2.68. Determine (a) the hydraulic conductivity
+in cm/sec, (b) the discharge velocity, and (c) the seepage velocity.
+
+Explain effect of compaction o soil properties. 06
+
+Q5 a. Astratum of normally consolidated clay 7 m thick is located at a depth 12m below ground 06
+level. The natural moisture content of the clay is 40.5 per cent and its liquid limit is 48 per
+
+Page 2 of 3
+--- page 3 ---
+cent. The specific gravity of the solid particles is 2.76. The water table is located at a depth
+5 m below ground surface. The soil is sand above the clay stratum. The submerged unit
+weight of the sand is 1 1 kKN/m? and the same weighs 18 KN/m? above the water table. The
+average increase in pressure at the center of the clay stratum is 120 kN/m? due to the weight
+of a building that will be constructed on the sand above the clay stratum. Estimate the
+expected settlement of the structure.
+
+‘b The following are the results of a compaction test 06
+
+Mass of wet soil (g) | 1739 | 1919 | 2081 | 2033 | 1886 | 1948
+Water content (%) | 7.7 | 11.5 | 14.6 | 17.5 | 19.7 | 21.2
+
+Volume of mould =950 ml, mass of mould = 1000 g, Specific gravity of solid= 2.65
+i) Draw the compaction curve showing the optimum moisture content and maximum dry
+density.
+ii) Draw 80% saturation line.
+Q6. a   Accylindrical sample of soil having a cohesion of 80 kN/m? and an angle of internal friction 06
+of 20° is subjected to a cell pressure of 100 kN/m?.
+Determine: (i) the maximum deviator stress at which the sample will fail, and (ii) the angle
+
+made by the failure plane with the axis of the sample.
+
+b Explain Direct shear test. 06
+Qi a Explain necessity of soil exploration 06
+b Explain properties of flow net 06
 
 Page 3 of 3
 ````
@@ -880,6 +1013,268 @@ pressure of 150 kKN/m? ?
 5]
 ````
 
+## 2018-19 · Re-Exam · Sem 5 · paper ec95f87f0c05
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical engineering -I Re-exam 17-18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
+- Text: ocr (3 pages), mean OCR confidence 91.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+-. Program: B.Tech/ MBA Tech (Civil) _ Year: TI Semester : V
+Academic Year: 2018-19
+
+Subject: Geotechnical Engineering-I Marks: 70
+
+Time: 2.00 pm to 5.00 pm
+
+Date: 17 January 2019
+Date : 17 January Durations:3 (hrs)
+
+No. of Pages:__ OD
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question'No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a Attempt any three- ; 12
+i, Explain soil as a three phase system
+ii. Explain Constant head permeability test
+iii. Write properties of flow net
+iv. Differentiate between compaction and consolidation
+b Explain sand bath method 02
+
+Q2 a. A core cutter 12.6 cm in height and 10.2 cm in diameter weighs 1071 gm when empty. It is 07
+used to determine the in-situ unit weight of an embankment. The weight of the cutter full of
+soil is 2970 gm. If the water content is 6%. What are the dry density and porosity? if the
+embankment gets fully saturated due to heavy rains what will be the increase in water
+content and bulk unit weight, if no volume change occurs? The specific gravity of soil
+solids is 2.69
+
+b. Explain sand replacement method in detail. 07
+
+Page 1 of 3
+--- page 2 ---
+Q3
+
+Q4
+
+Q5
+
+Explain Unified soil classification system in detail
+
+Compute the total, effective and pore pressure at a depth of 20 m below the bottom of lake
+6 m deep. The bottom of lake consist of soft clay with a thickness of more than 20 m. the
+average water content of clay is 35% and the specific gravity of the soil may be assumed to
+be 2.65
+
+A soil sample of height 6 cm and area of cross section of 100 cm’ was subjected to falling
+
+‘head permeability test. In time interval of 5 minutes, the head dropped from 60 cm to 20
+
+cm. if the cross sectional area of the stand pipe is 2 cm’ compute the coefficient of
+permeability of the soil sample. If the same sample is subjected to a constant head of 18 cm,
+
+calculate the total quantity of water that will be collected after flowing through a sample.
+Explain factors affecting compaction in detail
+
+Fig. shows a soil profile consisting of two layers of clay, two layers of sand, all of which
+are completely submerged. Compute the total settlement under a uniform load of
+
+120kN/m’, well distributed over a large area. Given the following properties:
+Sand layers : saturated density= 20.86 kN/m?
+Clay layers: w =38% , Cc =0.26 , G=2.72
+
+\20 ex) m>-
+
+Seunel hm
+
+Chey ti
+
+Sand | oO”
+
+via)
+
+06
+08
+
+07
+
+07
+
+08
+
+x /\ /K* 7x 7~ Page 2 of 3
+--- page 3 ---
+b The following are the results of a compaction test 06
+Mass of mould + wet soil (g) | 3025 | 3195 | 3250 | 3225 | 3170
+Water content (%) 11 13 15.3 | 17.1 | 19.2
+
+Volume of mould =1100 ml, mass of mould = 1000 g, Specific gravity of solid= 2.70
+i) Draw the compaction curve showing the optimum moisture content and maximum dry
+density,
+
+ii) Determine the degree of saturation at the maximum dry density.
+
+Q6. a Following are the results of undrained triaxial compression test on two identical soil 08
+
+specimens at failure:
+
+Lateral pressure (kN/m’) 100 | 150 | 200
+
+Total stress at failure (KN/m2) | 540 | 680 | 810
+
+Pore water pressure(kN/m’) |10 | 12 | 18
+
+Determine the value of the effective angle of shearing resistance and the cohesion intercept
+
+by plotting (a). conventional failure envelope from Mohr’s circle (b) modified failure
+
+envelope
+b Explain unconfined compression test 06
+Qi a Explain . 12
+i. Depth of exploration
+ii. Standard penetration test
+b Define : Area ratio, Inside clearance 02
+
+Page 3 of 3
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 645cd45d3c39
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical engineering-I Re-exam 2015-16.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+SVKM’s NMIMS
+
+Programme: MBA Tech (Civil) Year: III Semester: V
+Academic Year: 2018-2019
+
+Subject: Geotechnical Engineering-I
+
+Marks: 60 ~
+Date: 20 November 2018 Time: 10.00 am to 1.00 pm
+/ Durations: 3 (hrs) ,~
+No. of Pages: ym
+
+Re Exam (2015-16)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+Ql Solve any four- ; 12
+i. Explain core cutter method.
+ii. Explain Textural classification.
+ili. Define —i. Darcy’s law, ii. Discharge velocity, iii. Seepage velocity.
+iv. Explain modified proctor test.
+Vv. Explain disadvantages of direct shear test.
+
+Q2 a. A natural soil sample has a bulk density of 2g/cc with 6% of water content. Calculate the 6
+amount of water required to be added to one cubic meter of soil to raise the water content
+
+15% while the voids ratio remains constant. What is then the degree of saturation? G=2.67
+
+b. Define water content. Explain pycnometer method to determine water content. 06
+Q3 a Explain Indian soil classification system in detailed. 04
+b
+
+A granular soil deposit is 7 m deep over an impermeable layer. The ground water table is 08
+
+Page lof 2
+--- page 2 ---
+Q4
+
+Q5
+
+Q6.
+
+Q7
+
+a
+
+4.m below the ground surface. The deposit has a zone of capillary rise of 1.2 m with a
+saturation of 50%. Plot the variation of total stress, pore pressure and effective stress with
+the depth of deposit, e= 0.6 and Gs= 2.65.
+
+A constant head permeability test was run on a sand sample 16 cm in length and 60cm? in
+cross sectional area. Porosity was nl= 40%, Under a constant head of 30 cm, the discharge
+was found to be 45 cc in 18 seconds. Calculate the coefficient of permeability, also,
+determine the discharge velocity and seepage velocity during the test. Estimate the
+permeability of the sand for a porosity of n2= 35%.
+
+Derive laplace equation with assumptions for two dimensional flow.
+
+A clay layer whose total settlement under a given loading is expected to be 12 cm settles 3
+em at the end of the 1 month after the application of load increment. How many months
+will be required to reach a settlement of 6 cm? how much settlement will occur in 10
+months? Assume the layer to have double drainage.
+
+Explain in detailed effect of compaction on soil properties.
+
+Following are the results of undrained triaxial compression test on two identical soil
+
+specimens at failure:
+
+Lateral pressure (kN/m7) 100 | 300
+
+Total vertical pressure (KN/m?) | 440 | 760
+
+Pore water pressure(kN/m’) -20 | 60
+
+Determine the cohesion and angle of shearing resistance graphically i. referred to total
+
+stress and ii. Referred to effective stress.
+Explain square root of time fitting method for coefficient of consolidation.
+Enlist method of site expioration. Expiain borings in detailed
+
+Define : Soil samples, Area ratio, Inside clearance, Outside clearance
+
+Page 2 of 2
+
+06
+
+06
+06
+
+06
+08
+
+04
+
+08
+
+04
+````
+
 ## 2017-18 · Exam not stated · Sem 5 · paper 471ef2d7b519
 
 - Departments: Civil
@@ -1091,6 +1486,7 @@ hy,
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I (CIVIL), FINAL EXAM 2017-18.pdf`
 - Printed on paper: max marks: 70; exam date: 04 December 2017
 - Text: ocr (3 pages), mean OCR confidence 74.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 S
@@ -1199,7 +1595,6 @@ Page 2 of 3
 --- page 3 ---
 Figure 1/Q. No.: 1
 
-| eee An wre OT 8 i nea eecannptng = S.
 ; Site :- Proposed Housing Comptes BIE Nos-18
 _ Bhandup (West) , Mumbai. ; Se
 Drilling Contractor =. NR a cn ene Depth of Horehates-10,60 tt.
@@ -1226,6 +1621,7 @@ Page 3 of 3
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_06/GEOTECHNICAL ENGINEEING I/Geotechnical Engineering I 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; exam date: 05 May 2018
 - Text: ocr (2 pages), mean OCR confidence 89.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -1303,7 +1699,6 @@ _ c) A results of a sieve analysis of a soil are given below:
 Total mass = 1000g
 
 IS sieve 20 |. 10 | 4.75} 2 1 | 600 | 425 | 300] 212| 150] 75 | Pan
-mm|{mm]|mmi/mmi|{mm] ep u Ht uu iu Lu
 
 Mass of soil | 33 | 49 | 85 | 140 | 160| 142 | 118 | 82 | 56 | 35 | 23 | 77
 retained | g | g | gs | | g<}| g|eseisgitsltsgitsi gs
@@ -1459,6 +1854,91 @@ Q.7) a) Describe the procedure of Direct Shear Test with a ne,at sketch, a.lso s
 (08)
 b) Explain the' Wash Boring Method of Soil Exploration' with a neat sketch naming all the components.
 (06)
+Page 2 of 2
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 5edf46eae6f5
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I (CIVIL), BATCH 15-16, 16-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; exam date: 04 December 2017
+- Text: ocr (2 pages), mean OCR confidence 93.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+
+Batch: 2015-16/ 2016-17
+. Academic Year: 2017-2018
+
+Subject: Geotechnical Engineering-I ; or
+: Marks: 60 _ ,wasl¥TEdt oN
+Date: 04 December 2017 Time: 2.00 pmto 5.00 pm We
+d Durations: 3 (brs) © 3T BAS Vat
+
+No. of Pages; , u228 4!
+Re-Examination 4
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any Four questions.
+
+3) In all Five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q. 1) Answer ANY THREE of the following: (12)
+a) Describe ‘Transported Soil’ with examples of each type of it.
+b) Explain the method of ‘IS Classification of soils’.
+c) Explain Darcy’s Law-along with the derivation for coefficient of permeability.
+d) Explain ‘Field Control of Compaction’.
+e) Explain ‘Vane Shear Test’ with a neat sketch.
+
+Q. 2) a) Describe the procedure of ‘Plastic Limit Test’, also explain the terms Consistency Index and
+Liquidity Index. (06)
+
+b) A sample of wet silty clay soil has a mass of 126 kg. The following data were obtained from
+laboratory tests on the sample: Wet density, p, = 2.1 g/cm*, G = 2.7, water content, w = 15%.
+Determine (i) dry density, (ii) porosity, (iii) void ratio, and (iv) degree of saturation. (06)
+
+Q. 3) a) Derive the expressions for coefficient of permeability when the flow of water is parallel and
+perpendicular to the bedding pleas of soil deposits. (06)
+b) A sand sample of 35 cm? cross sectional area and 20 cm long was tested in a constant head
+permeameter. Under a head of 60 cm, the discharge was 120 ml in 6 min. The dry weight of sand
+used for the test was 1120 g, and Gs = 2.68. Determine (a) the hydraulic conductivity in cm/sec, (b)
+the discharge velocity, and (c) the seepage velocity. (06)
+
+Page 1 of 2
+--- page 2 ---
+Q.4) a) Explain the procedure of Sieve Analysis with a neat sketch of mechanical sieve shaker. (06)
+b) Explain ‘Particle Size Distribution’ and the interpretation of graphs indicating the type of soils. (06)
+
+Q. 5) a) Describe in detail the ‘Factors Affecting Compaction’ with different graphical relationships. (06)
+b) A small cylinder having volume of 600 cm? is pressed into a recently compacted fill embankment
+filling the cylinder. The mass of the soil in the cylinder is 1100 g. The dry mass of the soil is 910 g.
+Determine the void ratio and the saturation of the soil. Take the specific gravity of the soil grains as
+
+2.7. (06)
+
+Q. 6) a) Describe the graphical method of drawing ‘Flow Net’. with a neat sketch. (06)
+b) Explain the concepts of ‘Effective and Neutral Stresses’ with neat sketches. (06)
+
+Q. 7) a) Explain the ‘Direct Shear Test’ in detail with a neat sketch of test set up naming all the components.
+(06)
+
+b) Explain ‘Rotary Drilling Method’ with neat a neat sketch showing all the components. (06)
+
 Page 2 of 2
 ````
 
@@ -1958,6 +2438,441 @@ for a 6m thick clay layer under single
 Page 3 of 3
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper 1897bd043429
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2015-16 RE EXAM_1897bd0434.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
+- Text: text (2 pages)
+
+````text
+•
+-•...."
+"-"':'of,
+,   '.""\:~'n   ...•
+SVKM's NMIMS   . .   . .,"'"
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &. ENGINEElU ~
+.   '.   .>.-:   Y\   l":.
+Programme: MBATech (Civil)   Year: III   se~~:,~(tr: ~ "
+Batch: 2015-16   , "11: ..
+Academic Year: 2017-2018   .~~.:....~.,
+Subject: Geotechnical Engineering -I
+Marks: 60
+Date: 24 November 2017   Time: 10.00 am - 1.00 pm
+Durations: 3 Hrs
+No. ofPages:~2~   _
+Re-Examination
+Instructions:   Candidates   should read carefully   the instructions   printed on the question   paper
+and on the cover of the Answer Book, which   is provided   for their use.
+1) Question No. 1is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions   to be attempted.
+4) All questions carry equal marks.
+5) Answer   to each new question   to be started on a fresh page.
+6) Figures   in brackets on the right hand side indicate   full marks.
+7) Assume   suitable   data   if necessary.
+Q.l   Attempt   any four questions   Marks
+a,   Explain necessity of soil exploration.   3
+b,   Derive relation between void ratio, degree of saturation,   water content and specific
+gravity.
+c.   Explain textural   classification.   3
+d.   Explain normal consolidated   and over consolidated   soil.
+e.   Explain darcys   law.   3
+Q.2   a.   Earth is required to be excavated from borrow pits for building an embankment.   The   06
+wet unit weight of undisturbed   soil is 20 kl-I/m? and its water content   is 8.5%. In order
+to build a 4 m high embankment   with top width 2 m and side slopes 1: 1, estimate the
+quantity of earth required to be excavated   per meter length of embankment.   The dry
+unit weight required in the embankment   is 16 kN/m3 with a moisture content of 11%.
+Assume the specific gravity of solids as 2.67) aJso determine the void ratios and the
+degree of saturation of the soil in both the undisturbed and remoulded   states,
+b.   i) Explain three phase system in detailed.   03
+ii) Explain sand replacement   method.   03
+Q.3   a.   During sedimentation   test for grain size analysis, the corrected hydrometer   reading in   06
+a 1000 ml uniform   soil suspension   at the instant of commencement   of sedimentation
+is 1.030. After 30 minutes the corrected hydrometer   reading   is observed as 1.015 and
+the corresponding   effective depth is 10 cm. if G= 2.68 and viscosity of water is 0.01
+poise. Find 1) the total mass of soil solid placed in the 1000 ml suspension,   2) the
+effective diameter corresponding   to the 30 minutes reading, and 3 ) percentage   finer
+than the diameter.
+b.   500 g of dry soil was used for a sieve analysis. The masses of soil retained on each   06
+sieve are given below:
+Sieve Size mm   4.75
+Mass retained gm   14   20   60   142   145   56
+Plot a grain size distribution   curve and compute the following:
+(a) Percentages   of gravel, coarse sand, medium   sand, fine sand and silt, as per the
+Indian Soil Classification   System, comment on the type of soil.
+--- page 2 ---
+Q.4   a.   Permeability   tests were performed on a soil sample, under different void ratio and   06
+different temperatures   and the following   results were obtained
+Test no.   Void ratio   Temperature   °c K (cm/s)
+1   0.65   25   OAx 10-4
+2   1.02   40   1.9 x 10-4
+-   ..
+Estimate a coefficient   of permeability   at a temperature   of 20° C for void ratio of 0.90
+Given the following Physical properties of water:
+At 200C,y]=10.09 x 10-4 and pw=0.998 g/crrr'
+At 250C,y]=8.95 x 10-4 and pw=0.997 g/cm?
+At 200C,y]=6.54 x 10-4 and pw=0.992 g/cm?
+b.   Explain Flow net in detail along with properties of flow net   06
+Q.5   a.   i)Explain   Critical hydraulic gradient and quick sand condition.   03
+ii)Compare compaction and consolidation.   03
+b.   The following   are the results ofa com action test   06
+Mass of mould + wet soil (g)   2925   3095
+Water content (%)   11   12.5   15.2
+Volume of mould =950 ml; mass of mould = 1000 g
+Speci tic gravity of solid= 2.72
+i)Find the compaction   curve showing the optimum   moisture content and maximum
+dry density ii)Plot the zero air void line iii) determine   the degree of saturation   at the
+maximum dry density.   .
+Q.6   a. A homogeneous   clay layer 12 m thick is expected   to have an ultimate settlement   of   06
+335 mm. After a time span of 3 years the average   settlement was measured   to be
+150mm. how much longer will it take for the average settlement   to attain 237 mm?
+b.   Explain   tri axial test in detailed.   06
+Q.7   a.   i)Explain unconfined compression   test   03
+ii)Explain Necessity   of soil exploration   03
+b.   Explain
+i) Wash boring   03
+ii) Core drilling   03
+-
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 1081b73bfc20
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2016-17 RE EXAM.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
+- Text: text (3 pages)
+
+````text
+S,\lKM's NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY: . MANAGEMENT & ENGINEERING --   ~
+Programme: MBATech (Civil)   Year: III
+Batch: 2016-17
+Academic Year: 2017-2018
+Subject: Geotechnical Engineering-1
+Marks: 60
+Date: 24 November 2017   Time: lO.OO am - 1.00 pm
+Durations: 3 Hrs
+No. ofPages:~.i0~ ..~~=-_
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and. on
+the cover of the Answer Book, which is provided for their use.
+1) Question No.l is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+S) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7') Assume suitable data if necessary.
+Q.l) Attempt Any Four questions.   (12)
+(a)   Explain weathering of soil and enlist the various agencies involved.   (03)
+(b)   Explain the concepts of discharge and seepage velocity and derive the relationship   (03)
+between them.   /
+(c)   Explain textural classification.   (03)
+(d)   Explain normal consolidated and over consolidated soil.   (03)
+(e)   Discuss merits and demerits of direct shear test.   (03)
+Q.2) Attempt following   (12)
+-bm) l-
+.l....I~l:-'!alll C.....,...•....1 •...: ......•. · l';C':,...~A 11'-1;...:..1.\"..1. +o.c-+ Lv");"   ..•-e•.·:tl-. vvu u +t...~helo 1l.!.\,..I1~ l.p   v·,L·.L1 of flo. VV · \,..IUl.V ';"....-~::;). 1..:1a1.1.U -:--,..3 ,:..isins; u   tilt> Casacrande's a ug   ..•.u ..&....&.   c;   ., a.}J}i ·-'..ea i cu.u tus ·YV.lLl y~+1-1   (06)
+.   ~   ,
+. neat sketches.   .   .
+(b)   An embankment having volume 2200 rrr' is to be constructed using soil having a bulk   (06)
+density of 1.98 glcc and placement water content of 18 %. The soil is to be obtained
+-
+water contents 16 % and 12 % respectively. If the specific gravity is 2.67 for both soils.
+Determine the soil to be excavated from each area. If excavation cost in each area is Rs
+351m3 and transportation cost for area A and area Bare Rs 321m3 and Rs 361m3. Find the
+most economical burrow area.
+--- page 2 ---
+Q.3) Attempt following   (12)
+(a)   Derive Laplace equation for construction   of flow nets and state the assumptions   (06)
+involved.
+(b)   In a deposit of fine sand the water table is 4m below the ground surface but the sand   (06)
+upto a height of 1.5 m above the water table is saturated by capillary water. The sand
+above this height maybe considered dry. The total height of layer is 8 m. For the sand,
+the specific gravity is 2.78 and porosity is 35 %. Draw the effective stress, pore water
+pressure and total stress diagrams and find the values at depth Om, 2.5m, 4m, and 8m.
+Q.4) Attempt following   (12)
+(a)   Explain the factors affecting permeability.   (06)
+(b)   The following data refers to compaction test as per Indian Standard (Light Compaction   (06)
+Test). The weight of mould may be taken as 1000g.   ..
+Water ,   II.-VJ. Content .a. .•.•••••.•   .1... (<x-) ..:   i 85   12.2   13.75   1 .L I ..,.1._, ••••.••••. ~ ~   1&.2 20.2
+Weight of soil sample   2.8   2.94   3.0   3.05   3.03   2.98
++ mould (kg)
+If the specific gravity of the soil grains is 2.7 (i) Plot the compaction curve and obtain
+.the maximum dry weight and optimum moisture content (ii) Plot the zero air void line.
+. Q.S) Attempt following   (12)
+(a)   What is Mohr-Coulomb   strength envelope? State the complete procedure to find the (G6)
+shear strength parameters by using 'Direct Shear Test'. Explain the setup with neat
+sketches.
+(b)   During consolidation   test, a sample of fully saturated clay 3cm thick is consolidated   (06)
+under pressure and the sample thickness   is reduced to 2.6 cm. The pressure is then
+removed and soil is allowed to expand and take water content. The final thickness is
+observed as 2.8 cm and the final moisture content is determined as 24 %. If the specific
+gravity of the soil solids is 2.70 find
+(a) The void ratio after expansion   (final condition).   (b) The void ratio after
+consolidation.(c) The void ratio. before consolidation.
+Q.6) Attempt following   (12)
+(a)   Two clay specimens A and B, undergoing double drainage have thickness 2 cm and 3   (06)
+cm have equilibrium void ratios of 0.68 and 0.72 respectively under a pressure of 200
+kPa. If the equilibrium void ratios of the two soils are reduced to 0.50 and 0.62
+respectively, when the pressure was increased to 400 kPa, find the ratio of coefficient of
+permeability of the 2 specimens. The time required by the specimen A to reach 40% of
+consolidation   is 1/4th of that required by specimen B for reaching 40 % degree of
+consolidation.
+--- page 3 ---
+~'--   .~   •..
+(b)   1. A direct shear test carried out on sandy clay gave the following   results.   (03)
+Determine the shear strength parameters by plotting a graph. Assume standard
+dimensio ns cf- G C-m)'. GC ..•.. ') x .'3. S- c""   -h6c-;0-   et:' ~   Sl'i'   .
+SrNo   Vertical Load (N)   Shear Force (N)
+1   360   340
+2   720   520
+3   1080   700
+4   1440   880
+2. When an unconfined compression test is performed on cylmder and fails under a (03)
+stress of lZkg/crrr'. The failure plane makes an angle of 50· with horizontal.
+Determine the cohesion and angle of friction.
+Q.7) Attempt Any Four questions.   (12)
+(a)   Explain square   root of time   fitting method   for determination   of coefficient   of   (03)
+consolidation.
+(b)   Explain wash boring in detail.   (03)
+(c )   Explain pipette method of sedimentation analysis.   (03)
+(d)   Write a note of depth and spacing of boreholes with suitable sketches.   (03)
+(e)   Explain Atterberg's consistency limits.   (03)
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper f95489dfa56c
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering-I 2015-16 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) Year: III Semester: V
+
+Batch: 2015-16
+Academic Year: 2017-2018
+
+Subject: Geotechnical Engineering - I -
+7 Marks: 60
+Date: 30 May 2018 Time: 2.00 pm to 5.00 pm
+7 Durations: 3 (Hrs)
+No. of Pages: © 2—
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume suitable data if necessary.
+
+Q.1 Attempt any three questions Marks
+a. Define: i) porosity ii)degree of saturation iii)density index iv) specific gravity 4
+b. Explain USCS classification 4
+c. Compare between Standard proctor test and modified proctor test 4
+d. Discuss Unconfined compression test 4
+Q.2 a. i) A fully saturated soil sample has a water content of 40 %, Adopting G = 2.72. 4
+
+Calculate submerged and dry density.
+
+b. An oven dry sample of volume 220 cm} has a mass of 400 g. determine its void ratio 8
+and shrinkage limit, if the specific gravity of soil particles is assumed as 2.76. if the
+sample is allowed to swell and get fully saturated on contact with water, what will be
+the water content which will fully saturate the sample and also cause an increase in
+volume equal to 10 %of the original dry volume.
+
+Q3 a. Define Liquid limit, liquidity index and consistency index. Tests on a given sample of 6
+clay were carried out. The data obtained are as given below.
+
+Test No 1 {2 13 14
+Water Content % | 18 | 20 | 22 | 24
+Number of Blow | 36 | 30 | 24 | 16
+
+Draw the flow curve on semi-log paper and determine the liquid limit and flow index
+of the soil.
+
+b. A900 g dry soil was used for a sieve analysis. The masses of soil retained on each 06
+
+sieve are given below:
+
+Sieve Size mm 4.75 | 2.36 | 1.00 | 0.600 | 0.300 | 0.150 | 0.075
+
+Mass retained gm | 35 25 126 | 248 | 253 112 | 90
+Plot a grain size distribution curve and compute the following:
+
+(a) Percentages of gravel, coarse sand, medium sand, fine sand and silt, as per the
+Indian Soil Classification System, (b) uniformity coefficient (c) coefficient of
+curvature.
+
+Q4 a. Ina permeability test was conducted on sandy soil, the initial head is 40 cm. the head 06
+drops by 5 cm in 10 minutes. Calculate the time required to run the test for the final
+
+Yo
+--- page 2 ---
+Q5
+
+Q.6
+
+Q7
+
+head to be at 10 cm. if the sample is 6 cm in height and 50cm? in cross sectional area,
+calculate the coefficient of permeability, taking area of stand pipe = 0.5cm?
+
+Explain permeability of stratified soil.
+i) Explain in detailed quick sand condition and equation for critical hydraulic gradient.
+
+The following are the results of a compaction test
+
+Weight g 1770 | 1980 | 2100 | 2180 | 2160
+
+Water content (%) | 6 11 15 21 26
+Take Specific gravity of solid= 2.70, volume of proctor mould = 1000 cc
+i)find the compaction curve showing the optimum moisture content and maximum
+dry density ii) Calculate the water content necessary to completely saturate the sample
+at its maximum dry density assuming no change in the volume.
+
+A layer of clay 2 m thick is subjected to a loading of 0.5 kg/cm?. One year after
+loading, the average consolidation is 50%. The layer has double drainage, i)what is
+the coefficient of consolidation ii) if the coefficient of permeability is 4 mm/ year,
+
+what is the settlement after one years and how much time will the layer take to reach
+90% consolidation?
+
+Following are the results of undrained triaxial compression test on four identical soil
+specimens of silty clay , at failure:
+
+Cell Pressure(kN/m?) 60 | 120 | 180
+Deviator stress at failure (kN/m?) | 360 | 450 | 540
+Pore pressure (kKN/m?) 8 14 (| 21
+
+Determine the value of the effective angles of shearing resistance and the cohesion
+intercepts by plotting conventional failure envelop from Mohr circle.
+
+i) Explain drainage condition ( UU, CU and CD )
+ii) Area ratio, inside clearance , outside clearance
+
+06
+04
+
+08
+
+06
+
+06
+
+06
+06
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 65055a769c2e
+
+- Departments: Civil
+- Programmes: MBA TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering-I 2016-17 Re-exam.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
+- Text: ocr (2 pages), mean OCR confidence 94.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (Civil) Year: Ill Semester: V
+
+Batch: 2016-17
+. Academic Year: 2017-2018
+
+Subject: Geotechnical Engineering - Iv
+Marks: 60 ~
+
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: _O2~—
+
+Date: 30 May 2018 *
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1) Answer ANY THREE of the following: (12)
+a) Describe ‘Residual Soils’ with its different zones and their applications.
+b) Explain the ‘A’-line chart and its use.
+c) State Darcy’s Law and explain ‘Hydraulic Gradient’ with a neat sketch.
+d) Differentiate between ‘Compaction and Consolidation?
+e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters by drawing a
+typical graph indicating the relationship between these parameters.
+
+Q.2) a) A soil sample has a porosity of 40 per cent. The specific gravity of solids is 2.70. Calculate voids
+ratio, dry density and unit weight if,
+(i) the soil is 50% saturated and (ii) if the soil is completely saturated. (06)
+b) Explain the procedure of Plastic Limit test in detail, @lso state the practical use of Plastic Limit. (06)
+
+Q.3) a) Calculate coefficient of permeability of a soil sample, 6 cm in height and 50 cm? in cross-sectional
+area, if a quantity of water equal to 430 ml is passed down in 10 minutes, under an effective constant
+head of 40 cm. On oven drying, the test specimen has mass of 498 g. Calculate the seepage velocity
+of water during the test. Take Gs= 2.65. (06)
+
+b) Explain the factors affecting permeability. (06)
+
+Page 1 of 2
+--- page 2 ---
+Q.4) a) Explain Textural Soil Classification in detail with an example by drawing a chart. (06)
+b) Describe different ‘Field Identification Tests’. (06)
+
+Q.5) a) Two clay specimens ‘A’ and ‘B’, of thickness 2 cm and 3 cm, have equilibrium void ratios of 0.68
+and 0.72 respectively, under a pressure of 200 KN/m?. [f the equilibrium void ratios of the two soils
+get reduced to 0.50 and 0.62 respectively, when the pressure was increased to 400 KN/m’, find the
+ratio of the coefficients of permeability of the two specimens. The time required by the specimen ‘A’
+
+to reach 40 percent degree of consolidation is Y, of that, required by specimen ‘B’ for reaching 40%
+
+degree of consolidation. (06)
+
+b) Describe the ‘Factors Affecting Compaction’ with different graphical relationships. (06)
+Q.6) a) Describe the merits and demerits of “Direct Shear Test’. (06)
+b) Explain the Wash Boring Method in detail with a neat sketch of test set up naming all the components.
+
+- (06)
+
+Q.7) a) Explain 'Effective and Neutral Stress' with neat sketches, also explain ‘Critical Hydraulic Gradient!
+with neat sketches. (06)
+
+b) Explain the procedure of graphical method of drawing flow net with a neat sketch. (06)
+
+Page 2 of 2
+````
+
 ## 2016-17 · Final-Exam · Sem 5 · paper 62f62925e510
 
 - Departments: Civil
@@ -2288,6 +3203,7 @@ REE
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_06/GEOTECHNICAL ENGINEEING I/Geotechnical Engineering I 2016-17 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 20
 - Text: ocr (2 pages), mean OCR confidence 87.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 ater
@@ -2383,7 +3299,6 @@ The results of a sieve analysis of a soil are given below, Total mass of sample 
 the particle size distribution curve and hence determine the uniformity coefficient and the
 coefficient of curvature.
 IS Sieve 20 10 4.75 |2 1 0.6 | 4.25 |212 | 150] 75 | Pan
-mm }|mm |mm |mm |mm]mm |p vy wu m
 
 Mass of soil | 35 40 80 150 | 150} 140 | 115 |55 | 35 |25 | 75
 retained
@@ -2685,224 +3600,6 @@ foundation design can be carried out? Detail exploration plan with specific test
 reasoning is expected. (12)
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 5edf46eae6f5
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I (CIVIL), BATCH 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; exam date: 04 December 2017
-- Text: ocr (2 pages), mean OCR confidence 93.5
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-
-Batch: 2015-16/ 2016-17
-. Academic Year: 2017-2018
-
-Subject: Geotechnical Engineering-I ; or
-: Marks: 60 _ ,wasl¥TEdt oN
-Date: 04 December 2017 Time: 2.00 pmto 5.00 pm We
-d Durations: 3 (brs) © 3T BAS Vat
-
-No. of Pages; , u228 4!
-Re-Examination 4
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any Four questions.
-
-3) In all Five questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume Suitable data if necessary.
-
-Q. 1) Answer ANY THREE of the following: (12)
-a) Describe ‘Transported Soil’ with examples of each type of it.
-b) Explain the method of ‘IS Classification of soils’.
-c) Explain Darcy’s Law-along with the derivation for coefficient of permeability.
-d) Explain ‘Field Control of Compaction’.
-e) Explain ‘Vane Shear Test’ with a neat sketch.
-
-Q. 2) a) Describe the procedure of ‘Plastic Limit Test’, also explain the terms Consistency Index and
-Liquidity Index. (06)
-
-b) A sample of wet silty clay soil has a mass of 126 kg. The following data were obtained from
-laboratory tests on the sample: Wet density, p, = 2.1 g/cm*, G = 2.7, water content, w = 15%.
-Determine (i) dry density, (ii) porosity, (iii) void ratio, and (iv) degree of saturation. (06)
-
-Q. 3) a) Derive the expressions for coefficient of permeability when the flow of water is parallel and
-perpendicular to the bedding pleas of soil deposits. (06)
-b) A sand sample of 35 cm? cross sectional area and 20 cm long was tested in a constant head
-permeameter. Under a head of 60 cm, the discharge was 120 ml in 6 min. The dry weight of sand
-used for the test was 1120 g, and Gs = 2.68. Determine (a) the hydraulic conductivity in cm/sec, (b)
-the discharge velocity, and (c) the seepage velocity. (06)
-
-Page 1 of 2
---- page 2 ---
-Q.4) a) Explain the procedure of Sieve Analysis with a neat sketch of mechanical sieve shaker. (06)
-b) Explain ‘Particle Size Distribution’ and the interpretation of graphs indicating the type of soils. (06)
-
-Q. 5) a) Describe in detail the ‘Factors Affecting Compaction’ with different graphical relationships. (06)
-b) A small cylinder having volume of 600 cm? is pressed into a recently compacted fill embankment
-filling the cylinder. The mass of the soil in the cylinder is 1100 g. The dry mass of the soil is 910 g.
-Determine the void ratio and the saturation of the soil. Take the specific gravity of the soil grains as
-
-2.7. (06)
-
-Q. 6) a) Describe the graphical method of drawing ‘Flow Net’. with a neat sketch. (06)
-b) Explain the concepts of ‘Effective and Neutral Stresses’ with neat sketches. (06)
-
-Q. 7) a) Explain the ‘Direct Shear Test’ in detail with a neat sketch of test set up naming all the components.
-(06)
-
-b) Explain ‘Rotary Drilling Method’ with neat a neat sketch showing all the components. (06)
-
-Page 2 of 2
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper b800994173e1
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 14-15, 15-16, 16-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
-- Text: ocr (3 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) <« Year: III " Semester: V,
-Academic Year: 2018-2019
-
-Subject: Geotechnical Engineering-I «
-
-Marks: 60
-Date: 20 November 2018 « Time: 10.00 a On
-SS
-Durations: 3 (hr
-No. of Pages:
-
-Re-examination (2014-15/ 2015-16/ 2016-17)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book,.which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate fall marks.
-7) Assume _suitable data if necessary.
-
-Ql a Attempt any four: 12
-1. Explain Formation of soil in detailed
-
-ii. Explain Textural classification of soil
-iii. Determine average permeability for layered soil for flow vertical and parallel to layer
-iv. Differentiate between compaction and consolidation
-
-Vv. Explain sand bath method
-
-Q2 a. Earth is required to be excavated from borrow pits for building an embankment. The wet 06
-unit weight of undisturbed soil is 1 8 KN/m? and its water content is 8%. In order to build a
-4 m high embankment with top width 2 m and side slopes 1:1, estimate the quantity of earth
-ed required to be excavated per meter length of embankment. The dry unit weight required in
-the embankment is 15 kN/m? with a moisture content of 10%. Assume the specific gravity
-nee of solids as 2.67, also determine the void ratios and the degree of saturation of the soil in
-both the undisturbed and remolded states.
-
-Page 1 of 3
---- page 2 ---
-b. Explain atterbergs limit in detail 06
-
-Q3 a A sieve analysis of a given sample of sand was carried out by making use of US standard 06
-sieves. The total weight of sand used for the analysis was 522 g. The following data were
-obtained.
-
-Sieve 4.75 2 1 5 0.355 0.180 0.125 0.075
-size in
-mm
-
-Weight | 25.75 61.75 67.00 126.00 | 57.75 78.75 36.75 36.75
-retained
-
-in g
-
-Plot the grain size distribution curve on semi-log paper and compute the following:
-(i) Percent gravel
-
-(ii) Percent of coarse, medium and fine sand .
-
-(iti) Percent of silt and clay
-
-(iv) Uniformity coefficient
-
-(v) Coefficient of curvature
-
-b The water table is located at a depth of 3.0 m below the ground surface in a deposit of sand 06
-11.0 m thick. The sand is saturated above the water table. The total unit weight of the sand
-is 20 kN/m?. Calculate the (a) the total pressure, (b) the pore water pressure and (c) the
-effective pressure at depths 0, 3.0, 7.0, and 11.0 m from the ground surface, and draw the
-pressure distribution diagram.
-
-Q4 a Asand sample of 35 cm’ cross sectional area and 20 cm long was tested ina constant head 06
-permeameter. Under a head of 60 cm, the discharge was 120 ml in 6 min. The dry weight of
-sand used for the test was 1 120 g, and Gs = 2.68. Determine (a) the hydraulic conductivity
-in cm/sec, (b) the discharge velocity, and (c) the seepage velocity.
-
-Explain effect of compaction o soil properties. 06
-
-Q5 a. Astratum of normally consolidated clay 7 m thick is located at a depth 12m below ground 06
-level. The natural moisture content of the clay is 40.5 per cent and its liquid limit is 48 per
-
-Page 2 of 3
---- page 3 ---
-cent. The specific gravity of the solid particles is 2.76. The water table is located at a depth
-5 m below ground surface. The soil is sand above the clay stratum. The submerged unit
-weight of the sand is 1 1 kKN/m? and the same weighs 18 KN/m? above the water table. The
-average increase in pressure at the center of the clay stratum is 120 kN/m? due to the weight
-of a building that will be constructed on the sand above the clay stratum. Estimate the
-expected settlement of the structure.
-
-‘b The following are the results of a compaction test 06
-
-Mass of wet soil (g) | 1739 | 1919 | 2081 | 2033 | 1886 | 1948
-Water content (%) | 7.7 | 11.5 | 14.6 | 17.5 | 19.7 | 21.2
-
-Volume of mould =950 ml, mass of mould = 1000 g, Specific gravity of solid= 2.65
-i) Draw the compaction curve showing the optimum moisture content and maximum dry
-density.
-ii) Draw 80% saturation line.
-Q6. a   Accylindrical sample of soil having a cohesion of 80 kN/m? and an angle of internal friction 06
-of 20° is subjected to a cell pressure of 100 kN/m?.
-Determine: (i) the maximum deviator stress at which the sample will fail, and (ii) the angle
-
-made by the failure plane with the axis of the sample.
-
-b Explain Direct shear test. 06
-Qi a Explain necessity of soil exploration 06
-b Explain properties of flow net 06
-
-Page 3 of 3
-````
-
 ## 2016-17 · Re-Exam · Sem 6 · paper e984b86a670b
 
 - Departments: Civil
@@ -3078,202 +3775,147 @@ BI
 [5]
 ````
 
-## 2016-17 · Re-Exam · Sem 5 · paper 1081b73bfc20
+## 2016-17 · Re-Exam · Sem 5 · paper d5625d03f64d
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2016-17 RE EXAM.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
-- Text: text (3 pages)
-
-````text
-S,\lKM's NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY: . MANAGEMENT & ENGINEERING --   ~
-Programme: MBATech (Civil)   Year: III
-Batch: 2016-17
-Academic Year: 2017-2018
-Subject: Geotechnical Engineering-1
-Marks: 60
-Date: 24 November 2017   Time: lO.OO am - 1.00 pm
-Durations: 3 Hrs
-No. ofPages:~.i0~ ..~~=-_
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and. on
-the cover of the Answer Book, which is provided for their use.
-1) Question No.l is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-S) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7') Assume suitable data if necessary.
-Q.l) Attempt Any Four questions.   (12)
-(a)   Explain weathering of soil and enlist the various agencies involved.   (03)
-(b)   Explain the concepts of discharge and seepage velocity and derive the relationship   (03)
-between them.   /
-(c)   Explain textural classification.   (03)
-(d)   Explain normal consolidated and over consolidated soil.   (03)
-(e)   Discuss merits and demerits of direct shear test.   (03)
-Q.2) Attempt following   (12)
--bm) l-
-.l....I~l:-'!alll C.....,...•....1 •...: ......•. · l';C':,...~A 11'-1;...:..1.\"..1. +o.c-+ Lv");"   ..•-e•.·:tl-. vvu u +t...~helo 1l.!.\,..I1~ l.p   v·,L·.L1 of flo. VV · \,..IUl.V ';"....-~::;). 1..:1a1.1.U -:--,..3 ,:..isins; u   tilt> Casacrande's a ug   ..•.u ..&....&.   c;   ., a.}J}i ·-'..ea i cu.u tus ·YV.lLl y~+1-1   (06)
-.   ~   ,
-. neat sketches.   .   .
-(b)   An embankment having volume 2200 rrr' is to be constructed using soil having a bulk   (06)
-density of 1.98 glcc and placement water content of 18 %. The soil is to be obtained
--
-water contents 16 % and 12 % respectively. If the specific gravity is 2.67 for both soils.
-Determine the soil to be excavated from each area. If excavation cost in each area is Rs
-351m3 and transportation cost for area A and area Bare Rs 321m3 and Rs 361m3. Find the
-most economical burrow area.
---- page 2 ---
-Q.3) Attempt following   (12)
-(a)   Derive Laplace equation for construction   of flow nets and state the assumptions   (06)
-involved.
-(b)   In a deposit of fine sand the water table is 4m below the ground surface but the sand   (06)
-upto a height of 1.5 m above the water table is saturated by capillary water. The sand
-above this height maybe considered dry. The total height of layer is 8 m. For the sand,
-the specific gravity is 2.78 and porosity is 35 %. Draw the effective stress, pore water
-pressure and total stress diagrams and find the values at depth Om, 2.5m, 4m, and 8m.
-Q.4) Attempt following   (12)
-(a)   Explain the factors affecting permeability.   (06)
-(b)   The following data refers to compaction test as per Indian Standard (Light Compaction   (06)
-Test). The weight of mould may be taken as 1000g.   ..
-Water ,   II.-VJ. Content .a. .•.•••••.•   .1... (<x-) ..:   i 85   12.2   13.75   1 .L I ..,.1._, ••••.••••. ~ ~   1&.2 20.2
-Weight of soil sample   2.8   2.94   3.0   3.05   3.03   2.98
-+ mould (kg)
-If the specific gravity of the soil grains is 2.7 (i) Plot the compaction curve and obtain
-.the maximum dry weight and optimum moisture content (ii) Plot the zero air void line.
-. Q.S) Attempt following   (12)
-(a)   What is Mohr-Coulomb   strength envelope? State the complete procedure to find the (G6)
-shear strength parameters by using 'Direct Shear Test'. Explain the setup with neat
-sketches.
-(b)   During consolidation   test, a sample of fully saturated clay 3cm thick is consolidated   (06)
-under pressure and the sample thickness   is reduced to 2.6 cm. The pressure is then
-removed and soil is allowed to expand and take water content. The final thickness is
-observed as 2.8 cm and the final moisture content is determined as 24 %. If the specific
-gravity of the soil solids is 2.70 find
-(a) The void ratio after expansion   (final condition).   (b) The void ratio after
-consolidation.(c) The void ratio. before consolidation.
-Q.6) Attempt following   (12)
-(a)   Two clay specimens A and B, undergoing double drainage have thickness 2 cm and 3   (06)
-cm have equilibrium void ratios of 0.68 and 0.72 respectively under a pressure of 200
-kPa. If the equilibrium void ratios of the two soils are reduced to 0.50 and 0.62
-respectively, when the pressure was increased to 400 kPa, find the ratio of coefficient of
-permeability of the 2 specimens. The time required by the specimen A to reach 40% of
-consolidation   is 1/4th of that required by specimen B for reaching 40 % degree of
-consolidation.
---- page 3 ---
-~'--   .~   •..
-(b)   1. A direct shear test carried out on sandy clay gave the following   results.   (03)
-Determine the shear strength parameters by plotting a graph. Assume standard
-dimensio ns cf- G C-m)'. GC ..•.. ') x .'3. S- c""   -h6c-;0-   et:' ~   Sl'i'   .
-SrNo   Vertical Load (N)   Shear Force (N)
-1   360   340
-2   720   520
-3   1080   700
-4   1440   880
-2. When an unconfined compression test is performed on cylmder and fails under a (03)
-stress of lZkg/crrr'. The failure plane makes an angle of 50· with horizontal.
-Determine the cohesion and angle of friction.
-Q.7) Attempt Any Four questions.   (12)
-(a)   Explain square   root of time   fitting method   for determination   of coefficient   of   (03)
-consolidation.
-(b)   Explain wash boring in detail.   (03)
-(c )   Explain pipette method of sedimentation analysis.   (03)
-(d)   Write a note of depth and spacing of boreholes with suitable sketches.   (03)
-(e)   Explain Atterberg's consistency limits.   (03)
-````
-
-## 2016-17 · Re-Exam · Sem 5 · paper 65055a769c2e
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering-I 2016-17 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (2 pages), mean OCR confidence 94.8
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering I Batch 2015-16 Re Exam_d5625d03f6.pdf`
+- Printed on paper: exam date: 25 November 2016
+- Text: ocr (2 pages), mean OCR confidence 90.8
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (Civil) Year: Ill Semester: V
+Programme: MBA Tech (Civil) Year: III Seiilester Vics,
+eu 2
+. Academic Year: 2016-17 Fe ie = aS -
+Subject: Geotechnical Engineering -I Li da ¥
+Marks: cha ae KA :
+Date: 25 November 2016 Time: 2.00 pitig
 
-Batch: 2016-17
-. Academic Year: 2017-2018
+Durations: 03
 
-Subject: Geotechnical Engineering - Iv
-Marks: 60 ~
+Final Examination (Batch 2016-17)
+Re-Examination (Batch 2015-16)
 
-Time: 2.00 pm to 5.00 pm
-Durations: 3 (Hrs)
-No. of Pages: _O2~—
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
 
-Date: 30 May 2018 *
-
-Re-Examination
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
+N.B. 1) Question No. 1 is compulsory.
+2) Attempt any four main questions out of remaining six questions.
+3) In all Five main questions to be attempted.
+4) Assume suitable data wherever required and state the same clearly.
 5) Answer to each new question to be started on a fresh page.
-
 6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
+7) Illustrate answers with neat sketches wherever required.
 
-Q.1) Answer ANY THREE of the following: (12)
-a) Describe ‘Residual Soils’ with its different zones and their applications.
-b) Explain the ‘A’-line chart and its use.
-c) State Darcy’s Law and explain ‘Hydraulic Gradient’ with a neat sketch.
-d) Differentiate between ‘Compaction and Consolidation?
-e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters by drawing a
-typical graph indicating the relationship between these parameters.
+QL. Answer any Three
+a Write a detailed note depth and number of bore holes for civil engineering projects. (04)
+b Distinguish between compaction and consolidation. Calculate the compaction energy (04)
+in case of IS light weight compaction test.
+‘¢ Explain —capillarity and sand boiling. (04)
+d_ Explain the tests performed in the field to identify the soil as silt or clay, (04)
 
-Q.2) a) A soil sample has a porosity of 40 per cent. The specific gravity of solids is 2.70. Calculate voids
-ratio, dry density and unit weight if,
-(i) the soil is 50% saturated and (ii) if the soil is completely saturated. (06)
-b) Explain the procedure of Plastic Limit test in detail, @lso state the practical use of Plastic Limit. (06)
+Q2. a Whatis relative density? How are the soils classified according to relative density? (03)
+b From the first principles, prove that—_ e.S, = @.G, with usual notations. (03)
+¢ A soil in a natural state has a void ratio of 0.66 and water content of 20%. The specific (06).
+~ ‘gravity of solids is 2.68. How many litres of water per cubic meters of soil needed to
+make it saturated soil, with no change in void ratio?
+Also, calculate the saturated density of the soil.
 
-Q.3) a) Calculate coefficient of permeability of a soil sample, 6 cm in height and 50 cm? in cross-sectional
-area, if a quantity of water equal to 430 ml is passed down in 10 minutes, under an effective constant
-head of 40 cm. On oven drying, the test specimen has mass of 498 g. Calculate the seepage velocity
-of water during the test. Take Gs= 2.65. (06)
+Q3. a Define sensitivity and activity of clays, How are the clays classified according to (03)
 
-b) Explain the factors affecting permeability. (06)
+sensitivity values?
+b Explain core cutter method of determining in-situ density of soils. (03)
+| ¢ Followings observations are recorded to determine the value of liquid limit (06)
+Determination no. 1 2 3 4
+ak Weight of water (gm) 3.95 | 7.04 | 11.34] 621
+Weight of dry soil (gm) 8.83 | 14.29 | 22.07 | 11.16
+Number of blows 33 a vi ll
 
-Page 1 of 2
+Determine the liquid limit of the sample tested.
+If plastic limit of the soil is found to be 26 %, calculate plasticity index.
+
+sf
 --- page 2 ---
-Q.4) a) Explain Textural Soil Classification in detail with an example by drawing a chart. (06)
-b) Describe different ‘Field Identification Tests’. (06)
+Q4.
 
-Q.5) a) Two clay specimens ‘A’ and ‘B’, of thickness 2 cm and 3 cm, have equilibrium void ratios of 0.68
-and 0.72 respectively, under a pressure of 200 KN/m?. [f the equilibrium void ratios of the two soils
-get reduced to 0.50 and 0.62 respectively, when the pressure was increased to 400 KN/m’, find the
-ratio of the coefficients of permeability of the two specimens. The time required by the specimen ‘A’
+Q5.
 
-to reach 40 percent degree of consolidation is Y, of that, required by specimen ‘B’ for reaching 40%
+Q6
 
-degree of consolidation. (06)
+Q7.
 
-b) Describe the ‘Factors Affecting Compaction’ with different graphical relationships. (06)
-Q.6) a) Describe the merits and demerits of “Direct Shear Test’. (06)
-b) Explain the Wash Boring Method in detail with a neat sketch of test set up naming all the components.
+Explain the factors affecting compaction.
 
-- (06)
+Derive an expression for average coefficient of permeability when flow takes place
+parallel to stratifications. Consider three layered system with thickness as hy, ha and h3
+and ky, ko and k; as their respective permeability.
 
-Q.7) a) Explain 'Effective and Neutral Stress' with neat sketches, also explain ‘Critical Hydraulic Gradient!
-with neat sketches. (06)
+Calculate the coefficient of permeability of a soil sample 6 cm in height and 50 cm? in
+cross-sectional area, if a quantity of water equal to 450 ml passed down in 20 minutes
+under an effective head of 40 cm.
 
-b) Explain the procedure of graphical method of drawing flow net with a neat sketch. (06)
+On oven drying, the test specimen weighs 495 gms. Taking specific gravity of solids as
+2.65, calculate the seepage velocity of water during the test.
 
-Page 2 of 2
+Explain the square-root time fitting method of calculating coefficient of consolidation
+
+in the laboratory.
+
+State the assumptions made in Terzaghi’s one-dimensional consolidation
+
+A clay soil, tested in consolidometer, showed a decrease in void ratio from 1.20 to 1.10
+when pressure was increased from 25 kN/m? (0.25 kg/cm’) to 50 kN/m? (0.50 kg/cm?).
+Calculate the coefficient of compressibility and volume compressibility. If the
+coefficient of consolidation for the given stress increment is 10 m?/year, calculate the
+coefficient of permeability of the soil.
+
+Draw a typical flow net for a symmetrical sheet pile wall retaining 6 m height of water
+on upstream and 0.50 m height of water on downstream side. Write the necessary
+
+boundary conditions.
+State the advantages and disadvantages of direct shear test, to determine shear
+
+paramneters.
+Explain the vane shear test to determine the shear strength of cohesive soils, with the
+
+help of a neat sketch.
+Derive the total shear strength developed = T = d? te FF + <|
+
+where Ts = unit shear strength of soil, H = height of the vane and
+d = dia of the vane
+
+Explain standard penetration test conducted in the field. What are the corrections
+applied to field N values?
+
+Explain the factors that affect permeability of soil.
+
+With. the help of a neat sketch show and explain — initial, primary and secondary
+
+consolidation. .
+
+(03)
+(03)
+
+(06)
+
+(03)
+
+(03)
+(06)
+
+(03)
+
+(03)
+
+(06)
+
+(04)
+
+(04)
+(04)
 ````
 
 ## 2015-16 · Final-Exam · Sem 5 · paper 0bae33a341ef
@@ -3578,6 +4220,377 @@ respectively. Distance between the boreholes may be assumed as 10.00 m.
 3/3
 ````
 
+## 2015-16 · Re-Exam · Sem 5 · paper 30f8833c5e8a
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (2 pages), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: II Semester: V
+Batch: 2013-2014
+
+Academic Year: 2015-2016 pe
+
+Subject: Geotechnical Engineering-I
+
+Date: 05/12/2015 Time
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Take yw = 9.81 KN/m} if not specified.
+
+8) Assume suitable data and mention it clearly, if not given.
+
+Q. 1) Answer ANY FOUR of the following: (20)
+a) Describe ‘Transported Soils’ with its different types.
+b) Explain the ‘A’-line chart and its use.
+c) Explain Darcy's Law and state the uses of permeability in civil engineering.
+d) Explain the difference between Standard and Modified Proctor Test.
+e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters
+by drawing a typical graph indicating the relationship between these parameters.
+
+Q. 2) a) Describe in detail the procedure of ‘Plastic Limit Test’. (10)
+b) An undisturbed soil sample has mass of 1835 g and volume of 1000c.c. After drying in an
+oven its mass is 1632 g. Find its bulk density, dry density, water content, void ratio,
+
+porosity and degree of saturation. Take G.= 2.68 (10)
+Q. 3) a) Explain 'Effective and Neutral Stress! with neat sketches. Also explain 'Critical Hydraulic
+Gradient’ with neat sketches. (10)
+
+b) Ina falling head permeameter test the initial head (t=0 minutes) is 40 cm. The head drops
+by 5 cm in 10 minutes. Calculate the time required to run the test for the final head to be
+at 20 cm. If the sample is 6 cm in height and 50 cm? in cross-sectional area, calculate the
+
+coefficient of permeability, taking area of stand pipe = 0.5 cm?. (10)
+Q. 4) a) Explain hydrometer analysis with neat sketches. (10)
+b) Derive the Laplace's Equation for Seepage Flow through Homogeneous Soils. (10)
+
+Page 1 of 2
+--- page 2 ---
+Q. 5) a) Explain in detail the procedure of ‘Standard Proctor Test’. (10)
+b) Two clay specimens ‘A’ and ‘B’, of thickness 2 cm and 3 cm, have equilibrium void
+ratios 0.68 and 0.72 respectively under a pressure of 200 kN/ m’. If the equilibrium void
+
+ratios of the two soils reduced to 0.50 and 0.62 respectively, when the pressure was
+increased to 400 kN/ m’, find the ratio of the coefficient of permeability of the two
+specimens. The time required by specimen ‘A’ to reach 40 percent degree of
+consolidation is % of that required by specimen ‘B’ for reaching 40 percent degree of
+
+consolidation. (10)
+
+Q. 6) a) State the complete procedure to find out the shear strength parameters by ‘Tri-axial Shear
+Test’ Also draw the sketch of test set up and name all the components. (10)
+
+b) Explain the Wash Boring Method in detail with a neat sketch of test set up naming all the
+components. (10)
+
+Q. 7) Explain ANY FOUR of the following:- (20)
+
+a) Sand Replacement method for finding field density of soil
+b) Relation between Seepage and Discharge velocity
+
+c) Use of Grain size Distribution Curve
+
+d) Log of Time Fitting Method for determination of Cy.
+
+e) Objectives of Geotechnical Investigations
+
+28 2K ok ok ok
+
+Page 2 of 2
+
+aa
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper ca4c76d81350
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
+- Printed on paper: exam date: 05/12/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+7 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (Civil) Year: II Semester:
+Batch: 2014-2015 =e
+Academic Year: 2015-2016
+
+f Subject: Geotechnical Engineering-I
+Marks:
+Time:
+Duration:
+Re-Examination
+
+Date: 05/12/2015
+
+Note- ge
+1. O11 is compulsory
+2. Out of remaining six questions, attempt any four question
+3. All question carry equal marks
+4. Figure in the brackets on the right hand indicate full marks
+Q.1 Attempt any four questions Marks
+a. Explain formation of soil (3)
+b. Derive relation between e, w, s and G (A)
+c. Explain plasticity chart (ISCS) (3)
+“a d. Explain normal consolidated and over consolidated soil (3)
+e. Discuss merits and demerits of direct shear test (3)
+Q.2 a. Earth is required to be excavated from borrow pits for building an embankment. The (6)
+wet unit weight of undisturbed soil is 1 8 kN/m3 and its water content is 8%. In order to
+build a 4 m high embankment with top width 2 m and side slopes 1:1, estimate the
+quantity of earth required to be excavated per meter length of embankment. The dry
+unit weight required in the embankment is 15 KN/m’ with a moisture content of 10%.
+Assume the specific gravity of solids as 2.67. Also determine the void ratios and the
+degree of saturation of the soil in both the undisturbed and remoulded states.
+
+b. i)Explain three phase system in detailed (6)
+
+ii)explain sand replacement method
+
+Q.3 a. During sedimentation test for grain size analysis, the corrected hydrometer reading ina (6)
+1000 ml uniform soil suspension at the instant of commencement of sedimentation is
+1.030. After 30 minutes the corrected hydrometer reading is observed as 1.015 and the
+corresponding effective depth is 10 cm. if G= 2.68 and viscosity of water is 0.01 poise.
+Find 1) the total mass of soil solid placed in the 1000 ml suspension, 2) the effective
+diameter corresponding to the 30 minutes reading, and 3 ) percentage finer than the
+diameter.
+
+b. 500 g of dry soil was used for a sieve analysis. The masses of soil retained on each (6)
+
+a sieve are given below:
+
+Sieve Size mm 4.75 | 2.36 | 1.00 | 0.600 | 0.300 | 0.150 | 0.075
+
+Mass retained gm | 10 18 60 135 145 56 45
+
+Plot a grain size distribution curve and compute the following:
+
+(a) Percentages of gravel, coarse sand, medium sand, fine sand and silt, as per the
+
+Indian Soil Classification System, (b) uniformity coefficient (c) coefficient of
+
+curvature.
+
+Comment on the type of soil.
+
+Q.4 a. Permeability tests were performed on a soil sample, under different void ratio and (6)
+different temperatures and the following results were obtained
+Test no. | Void ratio | Temperature °C | K (cm/s)
+1 0.65 25 0.4x 107
+2 1.02 40 1.9 x 10%
+ate Estimate a coefficient of permeability at a temperature of 20° C for void ratio of 0.80
+Given the following Physical properties of water:
+At 20°C,n=10.09 x 10% and p,=0.998 g/om?
+At 25°C.n=8.95 x 10% and p4=0.997 g/cm?
+At 20°C,n=6.54 x 10% and p,,=0.992 g/cm?
+
+aj
+--- page 2 ---
+Q.s
+
+Q.6
+
+Q7
+
+a.
+
+An earth dam is built on an impervious foundation with a horizontal filter under the D/S
+slope. The horizontal and vertical permeability’s of the soil material in the dam are
+respectively 4 x 10° and 1 x 10° cm/sec. the full reservoir level is 15 m above the d/s
+filter. A flow net constructed for the transformed section of the dam, consist of 4 flow
+channel and 15 equipotential drops. Estimate the seepage loss per meter length of the
+dam
+
+i)Explain Critical hydraulic gradient and quick sand condition
+ii)Compare compaction and consolidation
+The following are the results of a compaction test
+Mass of mould + wet soil (g) | 2925 | 3095 | 3150 | 3125 | 3070
+Water content (%) 10 12 14.3 | 16.1 | 18.2
+Volume of mould =1000 ml; mass of mould = 1000 g
+Specific gravity of solid= 2.70
+i)Find the compaction curve showing the optimum moisture content and maximum dry
+density ii)Plot the zero air void line iii) determine the degree of saturation at the
+maximum dry density.
+
+A layer of clay 2 m thick is subjected to a loading of 0.5 kg/cm. One year after
+loading, the average consolidation is 50%. The layer has double drainage, i)what is the
+coefficient of consolidation ii) if the coefficient of permeability is 3 mm/ year, what is
+the settlement after one years and how much time will the layer take to reach 90%
+consolidation?
+
+Following are the results of undrained triaxial compression test on two identical soil
+specimens, at failure:
+
+| Lateral Pressure(kN/m7) 100 | 300
+: Total vertical pressure (KN/m?) | 440 [760
+| Pore pressure (kN/m”) -20 | 60
+
+Determine the cohesion and angle of shearing resistance a) referred to total stress b)
+referred to effective stress
+
+'i)Explain unconfined compression test
+
+ii)Explain Necessity of soil exploration
+
+Explain
+
+i) wash boring
+
+ii) area ratio, inside clearance , outside clearance
+
+j
+5 /
+ASZ
+
+(6)
+
+(3)
+(C2)
+(6)
+
+(6)
+
+(6)
+
+(3)
+(3)
+
+(33)
+(3)
+````
+
+## 2015-16 · Re-Exam · Sem 5 · paper 02b1524bc579
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 June 2016
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS hs Cs
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & anf y,
+; ( MPSTME -
+
+Programme: B.Tech (Civil) Year: III Semester: V A IBRARY A
+.
+I Jea*
+Academic Year: 2015-16 ‘ Sar OA
+Batch: 2013-14 Marks: 100
+Subject: Geotechnical Engineering-I Time: 2.00 pm - 5.00 pm
+Date: 14 June 2016 Durations: 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB: =
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any FOUR questions.
+
+3) In all FIVE questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Take Yw = 9.81 KN/m? if not specified.
+
+8) Assume suitable data and mention it clearly , if not given.
+
+Q. 1) Answer ANY FOUR of the following: (20)
+
+a) Describe ‘Residual Soils’ with its different zones and their applications.
+
+b) Explain procedure of ‘Sieve Analysis’.
+
+c) Explain the Concepts of Discharge and Seepage Velocity and derive the relationship
+between them.
+
+d) Explain use of ‘Proctor Needle’ with a proper sketch.
+
+e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters
+by drawing a typical graph indicating the relationship between these parameters.
+
+Q. 2) a) Describe the procedure of ‘Plastic Limit Test’ with a neat sketch. (10)
+b) A soil sample had a mass of 190 g and a volume of 100 c.c. in its natural condition.
+| After drying the mass of soil was 160g. Determine the moisture content, void ratio, dry
+density, saturated density, and degree of saturation. Take G=2.68. (10)
+penn Q. 3) a) Explain ‘Effective and Neutral Stress' with neat sketches. Also explain ‘Critical
+
+Hydraulic Gradient! with neat sketches. (10)
+
+Page 1 of 2
+--- page 2 ---
+b) Calculate coefficient of permeability of a soil sample, 6cm in height and 50cm’ in cross-
+sectional area, if a quantity of water equal to 430ml is passed down in 10minutes, under
+an effective constant head of 40cm.
+
+On oven drying, the test specimen has mass of 498g. Calculate the seepage velocity of
+water during the test. Take G,= 2.65 (10)
+
+Q. 4) a) Explain IS Soil Classification in detail for coarse and fine soils. Also explain the 'A'-line
+
+Chart. (10)
+b) State the applications of Flow Net and describe state the step by step procedure of
+drawing a Flow Net by graphical method. (10)
+
+Q. 5) a) Explain the laboratory consolidation test procedure with a neat sketch of test set up
+naming the components. (10)
+b) A laboratory compaction test on soil having specific gravity equal to 2.68 gave a
+maximum dry density of 1.82 g/cm? and a water content of 17 per cent. Determine the
+degree of saturation, air content and percentage air voids at the maximum dry density.
+What would be theoretical maximum dry density corresponding to zero air voids at the
+
+optimum water content? (10)
+Q. 6) a) State the complete procedure to find out the shear strength parameters by ‘Tri-axial
+Shear Test’. Also draw the sketch of test set up and name all the components. (10)
+b) Explain the Rotary Drilling Method used for geotechnical investigations in detail with a
+neat sketch of test set up naming all the components. | (i0)
+Q. 7) Explain ANY FOUR of the following:- (20)
+
+a) True and Apparent Specific Gravity
+
+b) Factors affecting permeability
+
+c) Corrections in Hydrometer Method of Sedimentation Analysis
+d) Logarithm of Time Fitting Method for determination of Cy.
+
+e) Objectives of Geotechnical Investigations
+
+ae 2 2k 2 ok
+
+Page 2 of 2
+````
+
 ## 2015-16 · Re-Exam · Sem 5 · paper 2d5e66000064
 
 - Departments: Civil
@@ -3736,103 +4749,157 @@ B] Explain bore hole logging with typical bore hole format. (04)
 C] Explain vane shear test. (04)
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper 1897bd043429
+## 2015-16 · Re-Exam · Sem 5 · paper 2acc6ca13240
 
 - Departments: Civil
 - Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2015-16 RE EXAM_1897bd0434.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 24 November 2017
-- Text: text (2 pages)
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geitechnical Engineering I Batch 2014-15 Re Exam.pdf`
+- Printed on paper: max marks: 60; exam date: 28/11/2015
+- Text: ocr (3 pages), mean OCR confidence 89.1
 
 ````text
-•
--•...."
-"-"':'of,
-,   '.""\:~'n   ...•
-SVKM's NMIMS   . .   . .,"'"
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &. ENGINEElU ~
-.   '.   .>.-:   Y\   l":.
-Programme: MBATech (Civil)   Year: III   se~~:,~(tr: ~ "
-Batch: 2015-16   , "11: ..
-Academic Year: 2017-2018   .~~.:....~.,
-Subject: Geotechnical Engineering -I
-Marks: 60
-Date: 24 November 2017   Time: 10.00 am - 1.00 pm
-Durations: 3 Hrs
-No. ofPages:~2~   _
-Re-Examination
-Instructions:   Candidates   should read carefully   the instructions   printed on the question   paper
-and on the cover of the Answer Book, which   is provided   for their use.
-1) Question No. 1is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions   to be attempted.
-4) All questions carry equal marks.
-5) Answer   to each new question   to be started on a fresh page.
-6) Figures   in brackets on the right hand side indicate   full marks.
-7) Assume   suitable   data   if necessary.
-Q.l   Attempt   any four questions   Marks
-a,   Explain necessity of soil exploration.   3
-b,   Derive relation between void ratio, degree of saturation,   water content and specific
-gravity.
-c.   Explain textural   classification.   3
-d.   Explain normal consolidated   and over consolidated   soil.
-e.   Explain darcys   law.   3
-Q.2   a.   Earth is required to be excavated from borrow pits for building an embankment.   The   06
-wet unit weight of undisturbed   soil is 20 kl-I/m? and its water content   is 8.5%. In order
-to build a 4 m high embankment   with top width 2 m and side slopes 1: 1, estimate the
-quantity of earth required to be excavated   per meter length of embankment.   The dry
-unit weight required in the embankment   is 16 kN/m3 with a moisture content of 11%.
-Assume the specific gravity of solids as 2.67) aJso determine the void ratios and the
-degree of saturation of the soil in both the undisturbed and remoulded   states,
-b.   i) Explain three phase system in detailed.   03
-ii) Explain sand replacement   method.   03
-Q.3   a.   During sedimentation   test for grain size analysis, the corrected hydrometer   reading in   06
-a 1000 ml uniform   soil suspension   at the instant of commencement   of sedimentation
-is 1.030. After 30 minutes the corrected hydrometer   reading   is observed as 1.015 and
-the corresponding   effective depth is 10 cm. if G= 2.68 and viscosity of water is 0.01
-poise. Find 1) the total mass of soil solid placed in the 1000 ml suspension,   2) the
-effective diameter corresponding   to the 30 minutes reading, and 3 ) percentage   finer
-than the diameter.
-b.   500 g of dry soil was used for a sieve analysis. The masses of soil retained on each   06
-sieve are given below:
-Sieve Size mm   4.75
-Mass retained gm   14   20   60   142   145   56
-Plot a grain size distribution   curve and compute the following:
-(a) Percentages   of gravel, coarse sand, medium   sand, fine sand and silt, as per the
-Indian Soil Classification   System, comment on the type of soil.
+NN
+~ SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (CIVIL) Year: Ill Semester: V
+
+Academic Year: 2015 - 16
+
+: =
+: : x
+Subject: Geotechnical Engineering - I Marks: 60 f MPSTME 9%
+Time: 10.00 a {.20:mm ARY f
+Date: 28/11/2015 Durations: 3 ( we 1¢); i
+- oe,
+NN Mange La
+Final Examination (Batch 2015-16) sl al a
+
+Re - Examination (Batch 2014-15)
+
+Open Book Examination
+
+tuclents may to use one text book and one set of notes
+Electronic devices except scientific calculators are not permitted. Programmable calculators are not
+permitted.
+Note:- 1. Answer any 5 questions
+2. Answers will be assessed for the steps.
+
+pl
+Que.1 a. Classify the following soils using the (5 classification system and indicate the potential of using
+the soil in a flexible pavement section in the remarks column. Also indicate the percentage of Gravel,
+percentage of Sand, and percentage of Silt and Clay combined.
+Sr. % passing 4.75 | % passing sieve | Cy ion LL PL Remarks
+no. mm. sieve no. 200 % %
+1 80 10 4.5 0.50 | Non-plastic
+2 40 4 3.5 1.5 -_ _
+3 22 1 23 = —— 55 22
+4 5 70 ——   — |75 25
+5 10 65 —_— oo 60 35
+: (8 marks)
+Que. ib. For a given sand, the maximum and minimum void ratios are 0.78 and 0.43. Assuming that the
+. G=2.68, determine the dry density of the soil when the relative density of the soil is 65 %. Is the
+™ compaction adequate? If not, what needs to be done to ensure that the compaction is acceptable?
+(4 marks)
+Que.2. a. The soil profile ata site is given below. Draw the total pressure, neutral and effective pressure
+diagrams.
+Dry sand, Bulk density = 15.5 kN/m?, 3.0 m. thick
+GWL
+—— Saturated Sand, 4.0 m. thick, density = 18.7 kN/m?
+pes Clay , 2.0 m. thick, density = 17.5 kN./m?
+
+Rock
+(8 marks)
+Que. 2b. Assume appropriate values of permeability for sand and clay and find out the equivalent
+permeability when the flow is parallel to the bedding planes and perpendicular to the bedding planes.
+(4 marks)
+
+4/. 3
 --- page 2 ---
-Q.4   a.   Permeability   tests were performed on a soil sample, under different void ratio and   06
-different temperatures   and the following   results were obtained
-Test no.   Void ratio   Temperature   °c K (cm/s)
-1   0.65   25   OAx 10-4
-2   1.02   40   1.9 x 10-4
--   ..
-Estimate a coefficient   of permeability   at a temperature   of 20° C for void ratio of 0.90
-Given the following Physical properties of water:
-At 200C,y]=10.09 x 10-4 and pw=0.998 g/crrr'
-At 250C,y]=8.95 x 10-4 and pw=0.997 g/cm?
-At 200C,y]=6.54 x 10-4 and pw=0.992 g/cm?
-b.   Explain Flow net in detail along with properties of flow net   06
-Q.5   a.   i)Explain   Critical hydraulic gradient and quick sand condition.   03
-ii)Compare compaction and consolidation.   03
-b.   The following   are the results ofa com action test   06
-Mass of mould + wet soil (g)   2925   3095
-Water content (%)   11   12.5   15.2
-Volume of mould =950 ml; mass of mould = 1000 g
-Speci tic gravity of solid= 2.72
-i)Find the compaction   curve showing the optimum   moisture content and maximum
-dry density ii)Plot the zero air void line iii) determine   the degree of saturation   at the
-maximum dry density.   .
-Q.6   a. A homogeneous   clay layer 12 m thick is expected   to have an ultimate settlement   of   06
-335 mm. After a time span of 3 years the average   settlement was measured   to be
-150mm. how much longer will it take for the average settlement   to attain 237 mm?
-b.   Explain   tri axial test in detailed.   06
-Q.7   a.   i)Explain unconfined compression   test   03
-ii)Explain Necessity   of soil exploration   03
-b.   Explain
-i) Wash boring   03
-ii) Core drilling   03
--
+Que.3. A series of Unconsolidated Undrained Triaxial Tests are conducted on identical samples of a
+
+saturated soil. Following results are obtained:-
+
+63 kKN/m.? 100 200 300
+u, KN/m.? 20 70 136
+01-03; kN/m.? 290 400 534
+
+Find the values of cand © in undrained and drained conditions. What is the need for estimation of these
+
+shear strength parameters? Cite one example where these values may be used.
+(12 marks)
+
+Que.4. Complete the following table and find out the equilibrium void ratio for each applied pressure.
+Draw the e v/s log p graph. Determine the values of C. and pc. Wt. of soil solids is 86 gm., Diameter of
+sample 6.00 cm., G=2.68 , Ht. of sample =2.00 cm.
+
+Applied Final Dial Change in Thickness of | Void ratio, e
+Pressure reading, mm. | thickness, mm,AH_ | the sample,
+Kg./em2 mm., H
+0.0 700 20.00
+0.2 557 (700-557)x 10 ™"-
+= 1.43 mm.
+0.50 435.4
+1.0 319.2
+2.0 197.6
+4.0 62.6
+2.0 71.6
+1.0 95.4
+0.50 128.2
+0.20 146.0
+0.00 182.0
+
+(12 marks)
+
+Que.5 Results of an Unconfined compression test in a soft clay are given below. Draw the stress strain
+graph, and obtain the initial tangent modulus. What is the unconfined compressive strength of the soil?
+What is the cohesion exhibited by the soil?
+
+Sr. no. 1 2 3 4 5 6 7 8 9
+Strain dial
+Reading, divn. 0 15 30 45 60 75 90 105 = =120
+
+Proving ring reading 0.0 2.8 4.8 7.2 9.6 12.2 118 11.6 10.2
+Divisions
+
+Sample diameter 38 mm, Length of sample =76 mm. Strain dial reading 1 divn. = 0.254 mm.
+
+Proving Ring constant 1 divn = 0.4425 kef.
+(12 marks)
+
+2/3
+--- page 3 ---
+Que 6 Summary of the strata as seen from four boreholes drilled at a site is shown below. Draw a soil
+profile along an alignment including BH-1, 2 and 3. Assess a design profile for foundation design.
+
+(12 marks)
+BH-1 BH-2 BH-3 BH-4
+RL101 Depth, m. RL 99.00 RL 102.00 RL 100.00
+ie)
+Backfill Backfill Backfill
+Backfill
+3.00 m. 3.00 m. 3.50 m. 4.00 m.
+Sand Sand Sand Sand
+i.
+9.50 m. 11.50 m. 8.00 m. 9.50 m.
+Clay Clay Clay Clay
+13.00 m.
+14.50 16.00 ,m.
+Rock Rock Rock
+17.00 m. 18.00 m. 17.00 m. 16.50 m.
+SPT values as seen in boreholes are summarized below
+Depth, m. 2.50 6.00 9.00 12.00 15.00
+SPT values
+a BH1 25 45 45 25 ---
+BH2 20 40 38 15 25
+BH3 23 38 20 25 15
+BH4 20 37 38 25) ---
+
+Ground water level was observed at depths of 4.00 m., 4.50 m., 6.00 m. and 5.50 m. in BH-1,2,3, and 4
+respectively. Distance between the boreholes may be assumed as 10.00 m.
+
+es «fs
 ````
 
 ## 2015-16 · Re-Exam · Sem 5 · paper 009f3b91af20
@@ -3984,402 +5051,181 @@ p
 3]3
 ````
 
-## 2015-16 · Re-Exam · Sem 5 · paper d5625d03f64d
+## 2014-15 · Final-Exam · Sem 5 · paper 790de59df44f
 
 - Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering I Batch 2015-16 Re Exam_d5625d03f6.pdf`
-- Printed on paper: exam date: 25 November 2016
-- Text: ocr (2 pages), mean OCR confidence 90.8
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING-I B TECH (CIVIL) SEM V FINAL EXAM.pdf`
+- Printed on paper: max marks: 100; exam date: 06/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.4
 
 ````text
 SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: MBA Tech (Civil) Year: III Seiilester Vics,
-eu 2
-. Academic Year: 2016-17 Fe ie = aS -
-Subject: Geotechnical Engineering -I Li da ¥
-Marks: cha ae KA :
-Date: 25 November 2016 Time: 2.00 pitig
+Programme:B. Tech (CIVIL) Year: III Semester: V
 
-Durations: 03
+Academic Year: 2014-2015
 
-Final Examination (Batch 2016-17)
-Re-Examination (Batch 2015-16)
+ogame oF py,
+Subject : Geotechnical Engineering - I or nN Ata
+Marks: 100 2
 
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
+Date : 06/12/2014 Time : 2.00 ‘Ce
 
-N.B. 1) Question No. 1 is compulsory.
-2) Attempt any four main questions out of remaining six questions.
-3) In all Five main questions to be attempted.
-4) Assume suitable data wherever required and state the same clearly.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Illustrate answers with neat sketches wherever required.
+Durations: 8 ey
 
-QL. Answer any Three
-a Write a detailed note depth and number of bore holes for civil engineering projects. (04)
-b Distinguish between compaction and consolidation. Calculate the compaction energy (04)
-in case of IS light weight compaction test.
-‘¢ Explain —capillarity and sand boiling. (04)
-d_ Explain the tests performed in the field to identify the soil as silt or clay, (04)
+Final-Examination ‘et
 
-Q2. a Whatis relative density? How are the soils classified according to relative density? (03)
-b From the first principles, prove that—_ e.S, = @.G, with usual notations. (03)
-¢ A soil in a natural state has a void ratio of 0.66 and water content of 20%. The specific (06).
-~ ‘gravity of solids is 2.68. How many litres of water per cubic meters of soil needed to
-make it saturated soil, with no change in void ratio?
-Also, calculate the saturated density of the soil.
+ar “ae
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
 
-Q3. a Define sensitivity and activity of clays, How are the clays classified according to (03)
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks.
+6. Assume suitable additional data, if necessary and mention it clearly.
 
-sensitivity values?
-b Explain core cutter method of determining in-situ density of soils. (03)
-| ¢ Followings observations are recorded to determine the value of liquid limit (06)
-Determination no. 1 2 3 4
-ak Weight of water (gm) 3.95 | 7.04 | 11.34] 621
-Weight of dry soil (gm) 8.83 | 14.29 | 22.07 | 11.16
-Number of blows 33 a vi ll
+Ql. Attempt any four of the following:
+a) Derive the equation for constant head permeability test. Also draw a neat sketch. (05)
+b) Explain the log of time fitting method to determine the coefficient of consolidation (05)
+by drawing a typical graph.
+c) Represent a partially saturated soil mass as a three phase system. Define void (05)
+ratio, porosity, water content and degree of saturation.
 
-Determine the liquid limit of the sample tested.
-If plastic limit of the soil is found to be 26 %, calculate plasticity index.
+d) What is a flow net? Explain its characteristics with a neat sketch (05)
+e) Describe the vane shear test in detail. (05)
+Q2. a) Classify the following soils as per IS 1498-1970 and state their symbol (05)
+Soil | LL (%) PL (%) % passing 75
+A 80 20 100
+B 42 31 60
 
-sf
+b) An oven dry sample of volume 220 cc weighs 380 grams. If the specific gravity of (05)
+the grains is 2.7, determine void ratio, shrinkage limit and bulk density at shrinkage
+limit.
+
+c) Explain in detail the core cutter method of determining the density of in-situ soil (10)
+
+Q3. a) The water table in a 9 m thick silty sand deposit lies at a depth of 3.5 m below ground (10)
+surface. The entire soil above the water table is saturated by capillary water and has a
+saturated unit weight of 18.5 kN/m’. Plot the variation of total, effective and neutral
+stresses with depth.
+
+b) Describe the Standard Penetration test in detail. State its uses. What are the (10)
+corrections applied to the N-value as per IS 2131?
+
+Page 1 of 2
+
+13
 --- page 2 ---
 Q4.
-
-Q5.
-
-Q6
-
-Q7.
-
-Explain the factors affecting compaction.
-
-Derive an expression for average coefficient of permeability when flow takes place
-parallel to stratifications. Consider three layered system with thickness as hy, ha and h3
-and ky, ko and k; as their respective permeability.
-
-Calculate the coefficient of permeability of a soil sample 6 cm in height and 50 cm? in
-cross-sectional area, if a quantity of water equal to 450 ml passed down in 20 minutes
-under an effective head of 40 cm.
-
-On oven drying, the test specimen weighs 495 gms. Taking specific gravity of solids as
-2.65, calculate the seepage velocity of water during the test.
-
-Explain the square-root time fitting method of calculating coefficient of consolidation
-
-in the laboratory.
-
-State the assumptions made in Terzaghi’s one-dimensional consolidation
-
-A clay soil, tested in consolidometer, showed a decrease in void ratio from 1.20 to 1.10
-when pressure was increased from 25 kN/m? (0.25 kg/cm’) to 50 kN/m? (0.50 kg/cm?).
-Calculate the coefficient of compressibility and volume compressibility. If the
-coefficient of consolidation for the given stress increment is 10 m?/year, calculate the
-coefficient of permeability of the soil.
-
-Draw a typical flow net for a symmetrical sheet pile wall retaining 6 m height of water
-on upstream and 0.50 m height of water on downstream side. Write the necessary
-
-boundary conditions.
-State the advantages and disadvantages of direct shear test, to determine shear
-
-paramneters.
-Explain the vane shear test to determine the shear strength of cohesive soils, with the
-
-help of a neat sketch.
-Derive the total shear strength developed = T = d? te FF + <|
-
-where Ts = unit shear strength of soil, H = height of the vane and
-d = dia of the vane
-
-Explain standard penetration test conducted in the field. What are the corrections
-applied to field N values?
-
-Explain the factors that affect permeability of soil.
-
-With. the help of a neat sketch show and explain — initial, primary and secondary
-
-consolidation. .
-
-(03)
-(03)
-
-(06)
-
-(03)
-
-(03)
-(06)
-
-(03)
-
-(03)
-
-(06)
-
-(04)
-
-(04)
-(04)
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper f95489dfa56c
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering-I 2015-16 Re-exam.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (2 pages), mean OCR confidence 93.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (Civil) Year: III Semester: V
-
-Batch: 2015-16
-Academic Year: 2017-2018
-
-Subject: Geotechnical Engineering - I -
-7 Marks: 60
-Date: 30 May 2018 Time: 2.00 pm to 5.00 pm
-7 Durations: 3 (Hrs)
-No. of Pages: © 2—
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-1) Question No. lis compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Figures in brackets on the right hand side indicate full marks.
-
-6) Assume suitable data if necessary.
-
-Q.1 Attempt any three questions Marks
-a. Define: i) porosity ii)degree of saturation iii)density index iv) specific gravity 4
-b. Explain USCS classification 4
-c. Compare between Standard proctor test and modified proctor test 4
-d. Discuss Unconfined compression test 4
-Q.2 a. i) A fully saturated soil sample has a water content of 40 %, Adopting G = 2.72. 4
-
-Calculate submerged and dry density.
-
-b. An oven dry sample of volume 220 cm} has a mass of 400 g. determine its void ratio 8
-and shrinkage limit, if the specific gravity of soil particles is assumed as 2.76. if the
-sample is allowed to swell and get fully saturated on contact with water, what will be
-the water content which will fully saturate the sample and also cause an increase in
-volume equal to 10 %of the original dry volume.
-
-Q3 a. Define Liquid limit, liquidity index and consistency index. Tests on a given sample of 6
-clay were carried out. The data obtained are as given below.
-
-Test No 1 {2 13 14
-Water Content % | 18 | 20 | 22 | 24
-Number of Blow | 36 | 30 | 24 | 16
-
-Draw the flow curve on semi-log paper and determine the liquid limit and flow index
-of the soil.
-
-b. A900 g dry soil was used for a sieve analysis. The masses of soil retained on each 06
-
-sieve are given below:
-
-Sieve Size mm 4.75 | 2.36 | 1.00 | 0.600 | 0.300 | 0.150 | 0.075
-
-Mass retained gm | 35 25 126 | 248 | 253 112 | 90
-Plot a grain size distribution curve and compute the following:
-
-(a) Percentages of gravel, coarse sand, medium sand, fine sand and silt, as per the
-Indian Soil Classification System, (b) uniformity coefficient (c) coefficient of
-curvature.
-
-Q4 a. Ina permeability test was conducted on sandy soil, the initial head is 40 cm. the head 06
-drops by 5 cm in 10 minutes. Calculate the time required to run the test for the final
-
-Yo
---- page 2 ---
-Q5
-
-Q.6
-
-Q7
-
-head to be at 10 cm. if the sample is 6 cm in height and 50cm? in cross sectional area,
-calculate the coefficient of permeability, taking area of stand pipe = 0.5cm?
-
-Explain permeability of stratified soil.
-i) Explain in detailed quick sand condition and equation for critical hydraulic gradient.
-
-The following are the results of a compaction test
-
-Weight g 1770 | 1980 | 2100 | 2180 | 2160
-
-Water content (%) | 6 11 15 21 26
-Take Specific gravity of solid= 2.70, volume of proctor mould = 1000 cc
-i)find the compaction curve showing the optimum moisture content and maximum
-dry density ii) Calculate the water content necessary to completely saturate the sample
-at its maximum dry density assuming no change in the volume.
-
-A layer of clay 2 m thick is subjected to a loading of 0.5 kg/cm?. One year after
-loading, the average consolidation is 50%. The layer has double drainage, i)what is
-the coefficient of consolidation ii) if the coefficient of permeability is 4 mm/ year,
-
-what is the settlement after one years and how much time will the layer take to reach
-90% consolidation?
-
-Following are the results of undrained triaxial compression test on four identical soil
-specimens of silty clay , at failure:
-
-Cell Pressure(kN/m?) 60 | 120 | 180
-Deviator stress at failure (kN/m?) | 360 | 450 | 540
-Pore pressure (kKN/m?) 8 14 (| 21
-
-Determine the value of the effective angles of shearing resistance and the cohesion
-intercepts by plotting conventional failure envelop from Mohr circle.
-
-i) Explain drainage condition ( UU, CU and CD )
-ii) Area ratio, inside clearance , outside clearance
-
-06
-04
-
-08
-
-06
-
-06
-
-06
-06
-````
-
-## 2015-16 · Re-Exam · Sem 5 · paper 645cd45d3c39
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical engineering-I Re-exam 2015-16.pdf`
-- Printed on paper: max marks: 60; duration hours: 3; exam date: 20 November 2018
-- Text: ocr (2 pages), mean OCR confidence 93.8
-
-````text
-SVKM’s NMIMS
-
-Programme: MBA Tech (Civil) Year: III Semester: V
-Academic Year: 2018-2019
-
-Subject: Geotechnical Engineering-I
-
-Marks: 60 ~
-Date: 20 November 2018 Time: 10.00 am to 1.00 pm
-/ Durations: 3 (hrs) ,~
-No. of Pages: ym
-
-Re Exam (2015-16)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question No. 1 is compulsory.
-2) Out of remaining questions, attempt any 4 questions.
-3) In all 5 questions to be attempted.
-4) All questions carry equal marks.
-5) Answer to each new question to be started on a fresh page.
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-Ql Solve any four- ; 12
-i. Explain core cutter method.
-ii. Explain Textural classification.
-ili. Define —i. Darcy’s law, ii. Discharge velocity, iii. Seepage velocity.
-iv. Explain modified proctor test.
-Vv. Explain disadvantages of direct shear test.
-
-Q2 a. A natural soil sample has a bulk density of 2g/cc with 6% of water content. Calculate the 6
-amount of water required to be added to one cubic meter of soil to raise the water content
-
-15% while the voids ratio remains constant. What is then the degree of saturation? G=2.67
-
-b. Define water content. Explain pycnometer method to determine water content. 06
-Q3 a Explain Indian soil classification system in detailed. 04
-b
-
-A granular soil deposit is 7 m deep over an impermeable layer. The ground water table is 08
-
-Page lof 2
---- page 2 ---
-Q4
 
 Q5
 
 Q6.
 
-Q7
+Q7.
 
-a
+a)
 
-4.m below the ground surface. The deposit has a zone of capillary rise of 1.2 m with a
-saturation of 50%. Plot the variation of total stress, pore pressure and effective stress with
-the depth of deposit, e= 0.6 and Gs= 2.65.
+b)
 
-A constant head permeability test was run on a sand sample 16 cm in length and 60cm? in
-cross sectional area. Porosity was nl= 40%, Under a constant head of 30 cm, the discharge
-was found to be 45 cc in 18 seconds. Calculate the coefficient of permeability, also,
-determine the discharge velocity and seepage velocity during the test. Estimate the
-permeability of the sand for a porosity of n2= 35%.
+c)
 
-Derive laplace equation with assumptions for two dimensional flow.
+a)
 
-A clay layer whose total settlement under a given loading is expected to be 12 cm settles 3
-em at the end of the 1 month after the application of load increment. How many months
-will be required to reach a settlement of 6 cm? how much settlement will occur in 10
-months? Assume the layer to have double drainage.
+b)
 
-Explain in detailed effect of compaction on soil properties.
+a)
+b)
 
-Following are the results of undrained triaxial compression test on two identical soil
+c)
 
-specimens at failure:
+a)
+b)
+c)
 
-Lateral pressure (kN/m7) 100 | 300
+d)
 
-Total vertical pressure (KN/m?) | 440 | 760
+500 cc of discharge was collected in 15 min during a constant head permeability test
+in the lab. If the head causing flow is 40 cm, sample diameter is 5 cm and length is 15
+cm, calculate the coefficient of permeability. Also calculate the seepage velocity if
+dry weight of the sample was 480 grams and specific gravity of the soil particles was
+2.65.
+A falling head permeability test was conducted on a soil sample. Head causing flow
+was initially 60cm and it dropped to 30cm in 69sec. What time will be required for
+the head to drop to 3cm?
+Explain how the following factors affect the permeability of soil
 
-Pore water pressure(kN/m’) -20 | 60
+e Void ratio
 
-Determine the cohesion and angle of shearing resistance graphically i. referred to total
+e Degree of saturation
 
-stress and ii. Referred to effective stress.
-Explain square root of time fitting method for coefficient of consolidation.
-Enlist method of site expioration. Expiain borings in detailed
+e Grain size
 
-Define : Soil samples, Area ratio, Inside clearance, Outside clearance
+e Permeant fluid
+
+e Presence of foreign matter
+
+A soil sample failed under a major principal stress of 300 kN/m? with a
+corresponding minor principal stress of 100 kN/m?. A second test on the same soil
+was conducted at a minor principal stress of 200 kN/m’. Determine the major
+principal stress for the following cases and draw the Mohr’s circle:
+
+e@ $=28°,c=0
+
+© b=0°
+In an unconfined compression test, a sample having a diameter of 38 mm and length
+of 76 mm failed under a load of 1.23 KN at 10% axial strain. Determine the shearing
+resistance taking into consideration the change in cross section of the sample and
+draw Mohr’s circle.
+
+State the assumptions in Terzaghi’s one dimensional theory of consolidation.
+
+Explain with neat sketches the spring analogy for Terzaghi’s one dimensional theory
+of consolidation
+
+An undisturbed sample was taken from a 10 m thick layer of clay at a site. The
+sample was 2 cm thick and was tested in the lab with double drainage conditions. It
+was found that 50% consolidation was complete in 25 mins. Find the time required
+for the clay at the site to reach 50% and 90% consolidation if it has sand layers above
+and below it.
+
+Differentiate between Standard Proctor Test and Modified Proctor test
+Differentiate between compaction and consolidation
+Why is it necessary to perform soil exploration at a proposed construction site?
+Explain.
+Explain the following terms briefly:
+(i) Flow index (ii) Degree of saturation (iii) Capillarity in soils
+(iv) pore water pressure (v) coefficient of consolidation.
+
+RK
 
 Page 2 of 2
 
-06
+(05)
 
-06
-06
+(05)
 
-06
-08
+(10)
 
-04
+(10)
 
-08
+(10)
 
-04
+(05)
+(05)
+
+(10)
+
+(05)
+(05)
+(05)
+
+(05)
 ````
 
 ## 2014-15 · Final-Exam · Sem 5 · paper 8563099cedf4
@@ -4772,6 +5618,104 @@ Fig. 5.4
 xX
 ````
 
+## 2014-15 · Re-Exam · Sem 5 · paper 981fc5c80eee
+
+- Departments: Civil
+- Programmes: B TECH / CIVIL
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (CIVIL) Year: III Semester: V
+Batch: 2013-14
+Academic Year: 2014-2015 fg yer or Rey, LN
+Subject: Geotechnical Engineering-I iy s o/ “a “e, %,
+Marks: 100 ja’ “PSTME ‘
+Date: 10/06/2015 Time: a 00 axiito 1.00 prt * “1s
+Durations: 3 (hrs) ‘ NN aan 4
+set *
+
+Minis ul
+Re-Examination ne _
+
+Note -
+1. Question No.:1 is compulsory.
+2. Answer any four out of remaining six main questions.
+3. Assumptions made should be clearly stated.
+4. Answers to all sub questions should be grouped together.
+5. Answer to each new question to be started on a fresh page.
+6. Figure in the brackets on the right hand indicate full marks.
+7. Illustrate answers with neat sketches wherever required.
+
+Q.1 a) What are the objectives of subsurface investigations? Explain how results are
+
+presented? (05)
+b) How do you identify the soil as silt or clay in the field? Explain four simple tests. (05)
+c) What is flow net? What are the characteristics of flow net? (05)
+d) Describe ‘Field vane shear test’ to determine shear parameters of clay. (05)
+Q.2 a) From the first principle prove that: (10)
+i) e=w-G for completely saturated soil.
+33 +éS, 7 %
+ii) y, = (Gres )ty ©.) , with usual notations.
+
+I+e
+
+b) A sample of clay taken from natural stratum was tested in the laboratory and the
+following results were obtained. Compute dry and bulk unit weights and degree of
+
+saturation.
+Specific gravity of soil particles = 2.65. Wet weight of sample =2000 gm,
+Dry unit weight of sample =1830 g. Volume of sample = 1000.cm?. (10)
+Q.3 a) Why are soil classification systems required? What are the basic requirements of
+soil classification systems ? (05)
+b) Explain IS classification system of fine-grained soils. : (05)
+c) Explain the procedure to determine specific gravity of soil grains in the laboratory.
+Write the necessary equation with meaning of the terms involved. (05)
+d) Explain the ‘sand replacement method’ to determine the in-situ density of soils. (05)
+Q.4 a) What is Darcy’s law of permeability ? Describe ‘quick sand” phenomenon. (05)
+b) Explain the factors that affect permeability. (05)
+
+c) Draw the total, effective and neutral pressure diagrams for a soil layer 10 m thick
+underlain by firm layer. The water table is at a depth of 4 m from the surface. The
+water content of soil is 40 % at saturation and specific gravity may be taken as 2.65
+Assume the soil to dry above the WT. (10)
+
+\/2-
+--- page 2 ---
+Q.5 a) What are the assumptions in Terzaghi’s one dimensional consolidation theory ?
+Explain the spring analogy of consolidation, with the help of neat sketches. (10)
+b) The following data refers to a compaction test as per IS light weight compaction test.
+(Volume of mould = 1000 cc)
+
+Observation no. 1 2 3 4 5 6
+‘Water content (%) 8.7 12.4 13.8 15.6 18.4 20.2
+Weight of wet soil (gms) | 1805 1950 | 2012 | 2064 | 2034 , 1992
+Plot compaction curve. Obtain MDD and OMC for the given soil sample. (10)
+Q.6 a) Derive relation for Mohr — Coulomb failure criterion, 61=03Ny + 2c JN, (05)
+b) Explain the procedure to find shear strength parameters of sandy soil using direct shear
+test. Draw typical graph. (05)
+c) Following results are the results of shear box test on a soil. Determine the shear strength
+parameters by plotting a graph. (10)
+Normal stress (kN/m?2) 25 75 150 250
+Shear stress (kN/m?) 60 80 105 140
+
+Would failure occur on a plane of this soil at a point where shear stress is
+120 kN/m? and effective normal stress is 220 kN/m??
+
+Q.7 a) Write detailed note on depth and spacing of bore holes. (05)
+b) What is pre-consolidated clay? How do you estimate pre-consolidation pressure in the
+laboratory? (05)
+
+c) In a consolidation test, the void ratio of clay sample decreases from 1.20 to 1.06 when
+pressure is increased from 1.0 kg/cm? to 2.0 kg/cm?. Calculate the coefficient of
+consolidation in m?/year, given coefficient of permeability of soil during pressure
+increment is 9.6 x 10° cm/sec. (10)
+````
+
 ## 2014-15 · Re-Exam · Sem 5 · paper a4e0d819f83f
 
 - Departments: Civil
@@ -4885,316 +5829,111 @@ e) Objectives of Geotechnical Investigations
 Page 2 of 2
 ````
 
-## 2014-15 · Re-Exam · Sem 5 · paper ca4c76d81350
+## 2014-15 · Re-Exam · Sem 5 · paper 7781f1f70e37
 
 - Departments: Civil
 - Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 2014-15 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
+- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING-I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
+- Printed on paper: exam date: 06/12/2014
+- Text: ocr (2 pages), mean OCR confidence 92.0
 
 ````text
-7 SVKM’s NMIMS
+SVKM’s NMIMS
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
 
-Programme: B. Tech (Civil) Year: II Semester:
-Batch: 2014-2015 =e
-Academic Year: 2015-2016
-
-f Subject: Geotechnical Engineering-I
+Programme: B. Tech (CIVIL) Year: Ill Semester: V
+Batch: 2013-2014
+Academic Year: 2014-2015
+Subject: Geotechnical Engineering-I
 Marks:
-Time:
-Duration:
+Date: 06/12/2014 Time:
+Durations:
+
 Re-Examination
 
-Date: 05/12/2015
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
 
-Note- ge
-1. O11 is compulsory
-2. Out of remaining six questions, attempt any four question
-3. All question carry equal marks
-4. Figure in the brackets on the right hand indicate full marks
-Q.1 Attempt any four questions Marks
-a. Explain formation of soil (3)
-b. Derive relation between e, w, s and G (A)
-c. Explain plasticity chart (ISCS) (3)
-“a d. Explain normal consolidated and over consolidated soil (3)
-e. Discuss merits and demerits of direct shear test (3)
-Q.2 a. Earth is required to be excavated from borrow pits for building an embankment. The (6)
-wet unit weight of undisturbed soil is 1 8 kN/m3 and its water content is 8%. In order to
-build a 4 m high embankment with top width 2 m and side slopes 1:1, estimate the
-quantity of earth required to be excavated per meter length of embankment. The dry
-unit weight required in the embankment is 15 KN/m’ with a moisture content of 10%.
-Assume the specific gravity of solids as 2.67. Also determine the void ratios and the
-degree of saturation of the soil in both the undisturbed and remoulded states.
+NB:
+1. Question No. | is compulsory.
+2. Out of remaining question, attempt any 4 questions.
+3. Inall 5 questions to attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
 
-b. i)Explain three phase system in detailed (6)
+Q.1) | Solve Any Four; ; 20
 
-ii)explain sand replacement method
+a) What is meant by weathering? Describe its agents, process and effects on the 05
+rocks. .
 
-Q.3 a. During sedimentation test for grain size analysis, the corrected hydrometer reading ina (6)
-1000 ml uniform soil suspension at the instant of commencement of sedimentation is
-1.030. After 30 minutes the corrected hydrometer reading is observed as 1.015 and the
-corresponding effective depth is 10 cm. if G= 2.68 and viscosity of water is 0.01 poise.
-Find 1) the total mass of soil solid placed in the 1000 ml suspension, 2) the effective
-diameter corresponding to the 30 minutes reading, and 3 ) percentage finer than the
-diameter.
+b) What is soil-phase diagram? Explain its use, 05
 
-b. 500 g of dry soil was used for a sieve analysis. The masses of soil retained on each (6)
+c) Explain the spring analogy for mechanism of consolidation of soil? Also define 05
+the under consolidated soil and over consolidated soil. .
 
-a sieve are given below:
+d) What do you understand by the consistency limits? What are the uses of 05
+consistency limits? ;
 
-Sieve Size mm 4.75 | 2.36 | 1.00 | 0.600 | 0.300 | 0.150 | 0.075
+e) State and prove Darcy’s law?Discuss the assumptions and limitations. 05"
 
-Mass retained gm | 10 18 60 135 145 56 45
+Q.2) | Solve . 20
 
-Plot a grain size distribution curve and compute the following:
+a) A fully saturated soil sample has a water content of w= 25%and unit weight y=20 | 10
+kKN/m’. Calculate the following:
+a. Dry unit weightya
+b. Specific gravity G
+c. Void ratio e
 
-(a) Percentages of gravel, coarse sand, medium sand, fine sand and silt, as per the
+d. Porosityy
+e. Unit weight when S=50% _useyy=10kN/m*
+b) What are the various types of soil classification system? Describe any one in 10
+detail.
+Q.3) | Solve 20
+a) Demonstrate the quick sand condition with a neat sketch and derive the 10
+expression for critical hydraulic gradient. '
+b) Derive the Laplace equation for the construction of flow net. : 10
 
-Indian Soil Classification System, (b) uniformity coefficient (c) coefficient of
-
-curvature.
-
-Comment on the type of soil.
-
-Q.4 a. Permeability tests were performed on a soil sample, under different void ratio and (6)
-different temperatures and the following results were obtained
-Test no. | Void ratio | Temperature °C | K (cm/s)
-1 0.65 25 0.4x 107
-2 1.02 40 1.9 x 10%
-ate Estimate a coefficient of permeability at a temperature of 20° C for void ratio of 0.80
-Given the following Physical properties of water:
-At 20°C,n=10.09 x 10% and p,=0.998 g/om?
-At 25°C.n=8.95 x 10% and p4=0.997 g/cm?
-At 20°C,n=6.54 x 10% and p,,=0.992 g/cm?
-
-aj
+foe
 --- page 2 ---
-Q.s
+Q.4) | Solve 20
 
-Q.6
+a) Discuss various factors affecting the compaction of soil. What is compaction] 10
+curve?
 
-Q7
+b) Derive an expression for determining permeability of soil by falling head 10
+permeameter.
 
-a.
+Q.5) | Solve 20
+a) The following results were obtained at failure in series of triaxial compression 10
+tests, on specimens of clay. Determine the values of shear strength parameters c
 
-An earth dam is built on an impervious foundation with a horizontal filter under the D/S
-slope. The horizontal and vertical permeability’s of the soil material in the dam are
-respectively 4 x 10° and 1 x 10° cm/sec. the full reservoir level is 15 m above the d/s
-filter. A flow net constructed for the transformed section of the dam, consist of 4 flow
-channel and 15 equipotential drops. Estimate the seepage loss per meter length of the
-dam
+and @ either by drawing the Mohr circles or analytically.
+Confining Pressure (63), kPa | 150 | 300 | 450
+Deviator Stress (cd) ,.kPa 192 | 341 | 504
+b) Explain the Mohr-Coulomb strength envelope. Sketch the stress-strain 10
+relationshipfor dense and loose sand.
+Q.6) | Solve 20
+a) What is the effect of surcharge and the capillary action on the effective stress? 10
+b) Determine the total and effective stresses at the bottom of each layer if the water | 10
+tabie is present at the depth of 3 m from tie ground surface. Soil properties are
+given as follows: (use 1 g/cc = 10 kKN/m
+Depth below ground surface | Density(g/cc)
+0-3 m 1.6
+3-6 m 1.9
+6-8.5m 1.70
+8.5-9.5m 1.80
+9.5-11.5m 1.85
+Q.7) | Solve any Four 20
+a) What are the advantages and disadvantages of triaxial compression test over 05
+direct shear test? Explain. :
+b) Write a note on (i) zero air void line (ii) degree of compaction (iii) OMC and 05
+MDD and (iv) uses of compaction of soil.
+c) '_|.What are the various methods of boring in soil exploration? 05
+d) Explain the determination of coefficient of consolidation (C,) by Square root of 05
+timefitting method?
+e) Explain the sand replacement method of determining the unit weight of soil. 05
 
-i)Explain Critical hydraulic gradient and quick sand condition
-ii)Compare compaction and consolidation
-The following are the results of a compaction test
-Mass of mould + wet soil (g) | 2925 | 3095 | 3150 | 3125 | 3070
-Water content (%) 10 12 14.3 | 16.1 | 18.2
-Volume of mould =1000 ml; mass of mould = 1000 g
-Specific gravity of solid= 2.70
-i)Find the compaction curve showing the optimum moisture content and maximum dry
-density ii)Plot the zero air void line iii) determine the degree of saturation at the
-maximum dry density.
-
-A layer of clay 2 m thick is subjected to a loading of 0.5 kg/cm. One year after
-loading, the average consolidation is 50%. The layer has double drainage, i)what is the
-coefficient of consolidation ii) if the coefficient of permeability is 3 mm/ year, what is
-the settlement after one years and how much time will the layer take to reach 90%
-consolidation?
-
-Following are the results of undrained triaxial compression test on two identical soil
-specimens, at failure:
-
-| Lateral Pressure(kN/m7) 100 | 300
-: Total vertical pressure (KN/m?) | 440 [760
-| Pore pressure (kN/m”) -20 | 60
-
-Determine the cohesion and angle of shearing resistance a) referred to total stress b)
-referred to effective stress
-
-'i)Explain unconfined compression test
-
-ii)Explain Necessity of soil exploration
-
-Explain
-
-i) wash boring
-
-ii) area ratio, inside clearance , outside clearance
-
-j
-5 /
-ASZ
-
-(6)
-
-(3)
-(C2)
-(6)
-
-(6)
-
-(6)
-
-(3)
-(3)
-
-(33)
-(3)
-````
-
-## 2014-15 · Re-Exam · Sem 5 · paper 2acc6ca13240
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geitechnical Engineering I Batch 2014-15 Re Exam.pdf`
-- Printed on paper: max marks: 60; exam date: 28/11/2015
-- Text: ocr (3 pages), mean OCR confidence 89.1
-
-````text
-NN
-~ SVKM’s NMIMS
-
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: MBA Tech (CIVIL) Year: Ill Semester: V
-
-Academic Year: 2015 - 16
-
-: =
-: : x
-Subject: Geotechnical Engineering - I Marks: 60 f MPSTME 9%
-Time: 10.00 a {.20:mm ARY f
-Date: 28/11/2015 Durations: 3 ( we 1¢); i
-- oe,
-NN Mange La
-Final Examination (Batch 2015-16) sl al a
-
-Re - Examination (Batch 2014-15)
-
-Open Book Examination
-
-tuclents may to use one text book and one set of notes
-Electronic devices except scientific calculators are not permitted. Programmable calculators are not
-permitted.
-Note:- 1. Answer any 5 questions
-2. Answers will be assessed for the steps.
-
-pl
-Que.1 a. Classify the following soils using the (5 classification system and indicate the potential of using
-the soil in a flexible pavement section in the remarks column. Also indicate the percentage of Gravel,
-percentage of Sand, and percentage of Silt and Clay combined.
-Sr. % passing 4.75 | % passing sieve | Cy ion LL PL Remarks
-no. mm. sieve no. 200 % %
-1 80 10 4.5 0.50 | Non-plastic
-2 40 4 3.5 1.5 -_ _
-3 22 1 23 = —— 55 22
-4 5 70 ——   — |75 25
-5 10 65 —_— oo 60 35
-: (8 marks)
-Que. ib. For a given sand, the maximum and minimum void ratios are 0.78 and 0.43. Assuming that the
-. G=2.68, determine the dry density of the soil when the relative density of the soil is 65 %. Is the
-™ compaction adequate? If not, what needs to be done to ensure that the compaction is acceptable?
-(4 marks)
-Que.2. a. The soil profile ata site is given below. Draw the total pressure, neutral and effective pressure
-diagrams.
-Dry sand, Bulk density = 15.5 kN/m?, 3.0 m. thick
-GWL
-—— Saturated Sand, 4.0 m. thick, density = 18.7 kN/m?
-pes Clay , 2.0 m. thick, density = 17.5 kN./m?
-
-Rock
-(8 marks)
-Que. 2b. Assume appropriate values of permeability for sand and clay and find out the equivalent
-permeability when the flow is parallel to the bedding planes and perpendicular to the bedding planes.
-(4 marks)
-
-4/. 3
---- page 2 ---
-Que.3. A series of Unconsolidated Undrained Triaxial Tests are conducted on identical samples of a
-
-saturated soil. Following results are obtained:-
-
-63 kKN/m.? 100 200 300
-u, KN/m.? 20 70 136
-01-03; kN/m.? 290 400 534
-
-Find the values of cand © in undrained and drained conditions. What is the need for estimation of these
-
-shear strength parameters? Cite one example where these values may be used.
-(12 marks)
-
-Que.4. Complete the following table and find out the equilibrium void ratio for each applied pressure.
-Draw the e v/s log p graph. Determine the values of C. and pc. Wt. of soil solids is 86 gm., Diameter of
-sample 6.00 cm., G=2.68 , Ht. of sample =2.00 cm.
-
-Applied Final Dial Change in Thickness of | Void ratio, e
-Pressure reading, mm. | thickness, mm,AH_ | the sample,
-Kg./em2 mm., H
-0.0 700 20.00
-0.2 557 (700-557)x 10 ™"-
-= 1.43 mm.
-0.50 435.4
-1.0 319.2
-2.0 197.6
-4.0 62.6
-2.0 71.6
-1.0 95.4
-0.50 128.2
-0.20 146.0
-0.00 182.0
-
-(12 marks)
-
-Que.5 Results of an Unconfined compression test in a soft clay are given below. Draw the stress strain
-graph, and obtain the initial tangent modulus. What is the unconfined compressive strength of the soil?
-What is the cohesion exhibited by the soil?
-
-Sr. no. 1 2 3 4 5 6 7 8 9
-Strain dial
-Reading, divn. 0 15 30 45 60 75 90 105 = =120
-
-Proving ring reading 0.0 2.8 4.8 7.2 9.6 12.2 118 11.6 10.2
-Divisions
-
-Sample diameter 38 mm, Length of sample =76 mm. Strain dial reading 1 divn. = 0.254 mm.
-
-Proving Ring constant 1 divn = 0.4425 kef.
-(12 marks)
-
-2/3
---- page 3 ---
-Que 6 Summary of the strata as seen from four boreholes drilled at a site is shown below. Draw a soil
-profile along an alignment including BH-1, 2 and 3. Assess a design profile for foundation design.
-
-(12 marks)
-BH-1 BH-2 BH-3 BH-4
-RL101 Depth, m. RL 99.00 RL 102.00 RL 100.00
-ie)
-Backfill Backfill Backfill
-Backfill
-3.00 m. 3.00 m. 3.50 m. 4.00 m.
-Sand Sand Sand Sand
-i.
-9.50 m. 11.50 m. 8.00 m. 9.50 m.
-Clay Clay Clay Clay
-13.00 m.
-14.50 16.00 ,m.
-Rock Rock Rock
-17.00 m. 18.00 m. 17.00 m. 16.50 m.
-SPT values as seen in boreholes are summarized below
-Depth, m. 2.50 6.00 9.00 12.00 15.00
-SPT values
-a BH1 25 45 45 25 ---
-BH2 20 40 38 15 25
-BH3 23 38 20 25 15
-BH4 20 37 38 25) ---
-
-Ground water level was observed at depths of 4.00 m., 4.50 m., 6.00 m. and 5.50 m. in BH-1,2,3, and 4
-respectively. Distance between the boreholes may be assumed as 10.00 m.
-
-es «fs
+—— —X
 ````
 
 ## 2014-15 · Re-Exam · Sem 5 · paper a10f6686e278
@@ -5204,6 +5943,7 @@ es «fs
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering I Batch 2014-15 Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 09/06/2015
 - Text: ocr (9 pages), mean OCR confidence 63.4
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNOLUGY MAN AUraMcan t Uo suawuasnaeaserece
@@ -5218,7 +5958,6 @@ Time : 10.00 am
 Date : 09/06/2015 Durations:3
 \ Re-Examination
 
-wpe 2s nena inane nnn a a
 
 ‘Open Book Examination
 Notes:-
@@ -5355,18 +6094,15 @@ rent Normal Loads
 
 : oe oe —
 
-(ib setae _ at vo i ee A. i —L. aeasiieepesngends
 Data indicated above gives Proving ring readings for three different normal loads for shear
 i | i L
 
 deformations mentioned in column 1. | i | i
 --- page 6 ---
 Frg st”
-Proj ect Gree Structare Dubabvn ta, BH No- Y.
 
 cos ad notes (4H y yay, 10) R bt 1902°-5—
 consultants + et {x AY SOS Dale tr a-wy
-i_wesh ‘. of Dei lig: Rote 4 Biwi Lt 10+
 ‘Ts; ea” ~ f
 Depth 8x, NES w Sox | ty be
 ro Byouww , ——____ ,s v| ty Saud 5
@@ -5376,10 +6112,8 @@ ro Byouww , ——____ ,s v| ty Saud 5
 ¥-00 SPT 8, 22,20 _ Dirt o
 10°00 opts Ly, 26, 29° —Ditoe pel __
 119+ gO
-Jovi) Rrvown, € wigh weafiever .
 re geal Stone > :
 eo ~- Pow oom PPvects Joy |
-ple ganes (ide to Loom - |
 l VERO Y qetel| os |
 oo
 | 6° , _— drtto—
@@ -5395,14 +6129,11 @@ rg st
 
 je
 
-Proj ect Gt lée Strectave Da boyd ouctua’ BH Wo. 2
 Cp ordinates (a, (65 ‘ge ) R-L = 104-00
 i Consultants + “A {s Parsons Dates — 4ouly
 of Paileg- Rotaryy Gear Bw
 opin [Test | value | ° er
 Deplh Soi wy be
-L RBvown medium, frre Sf ane
-Z- od spt | G, 19,10 Cs P)
 
 te ob ESpTe |B I%s/Ie se. Pudte
 
@@ -5410,10 +6141,8 @@ te ob ESpTe |B I%s/Ie se. Pudte
 RO
 { ; «2
 
-$00 ~s PTY 8; RSI. Bown, 3 BS Aref
 
 wool | |
-Recre : Rvown, Fd Tey ta hy westroved Sandstone
 “Cpe » Resovery Poo lo-w -l2-47o — 1205™.
 ; i Pieces wove tran tocm: Jo te] Veg
 
@@ -5433,9 +6162,7 @@ Project G+ise Structure Blab din boa.’
 
 BH Mo: 3B
 
-Cooyds werbes 6 ORB (430, 90) ag L- G¢-cCo
 Consultants Par song Der f@ . 19-21
-pie. of yt Ug: - Rotn« wa Gert. loos
 De pth Test | Value } Soi) Ay pe
 
 tr i | Bvowwy r Loose, silty Sof
@@ -5611,423 +6338,6 @@ with time if double drainage conditions prevail? When is the process of consolid
 212
 ````
 
-## 2013-14 · Re-Exam · Sem 5 · paper 981fc5c80eee
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 13-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 10/06/2015
-- Text: ocr (2 pages), mean OCR confidence 91.3
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: III Semester: V
-Batch: 2013-14
-Academic Year: 2014-2015 fg yer or Rey, LN
-Subject: Geotechnical Engineering-I iy s o/ “a “e, %,
-Marks: 100 ja’ “PSTME ‘
-Date: 10/06/2015 Time: a 00 axiito 1.00 prt * “1s
-Durations: 3 (hrs) ‘ NN aan 4
-set *
-
-Minis ul
-Re-Examination ne _
-
-Note -
-1. Question No.:1 is compulsory.
-2. Answer any four out of remaining six main questions.
-3. Assumptions made should be clearly stated.
-4. Answers to all sub questions should be grouped together.
-5. Answer to each new question to be started on a fresh page.
-6. Figure in the brackets on the right hand indicate full marks.
-7. Illustrate answers with neat sketches wherever required.
-
-Q.1 a) What are the objectives of subsurface investigations? Explain how results are
-
-presented? (05)
-b) How do you identify the soil as silt or clay in the field? Explain four simple tests. (05)
-c) What is flow net? What are the characteristics of flow net? (05)
-d) Describe ‘Field vane shear test’ to determine shear parameters of clay. (05)
-Q.2 a) From the first principle prove that: (10)
-i) e=w-G for completely saturated soil.
-33 +éS, 7 %
-ii) y, = (Gres )ty ©.) , with usual notations.
-
-I+e
-
-b) A sample of clay taken from natural stratum was tested in the laboratory and the
-following results were obtained. Compute dry and bulk unit weights and degree of
-
-saturation.
-Specific gravity of soil particles = 2.65. Wet weight of sample =2000 gm,
-Dry unit weight of sample =1830 g. Volume of sample = 1000.cm?. (10)
-Q.3 a) Why are soil classification systems required? What are the basic requirements of
-soil classification systems ? (05)
-b) Explain IS classification system of fine-grained soils. : (05)
-c) Explain the procedure to determine specific gravity of soil grains in the laboratory.
-Write the necessary equation with meaning of the terms involved. (05)
-d) Explain the ‘sand replacement method’ to determine the in-situ density of soils. (05)
-Q.4 a) What is Darcy’s law of permeability ? Describe ‘quick sand” phenomenon. (05)
-b) Explain the factors that affect permeability. (05)
-
-c) Draw the total, effective and neutral pressure diagrams for a soil layer 10 m thick
-underlain by firm layer. The water table is at a depth of 4 m from the surface. The
-water content of soil is 40 % at saturation and specific gravity may be taken as 2.65
-Assume the soil to dry above the WT. (10)
-
-\/2-
---- page 2 ---
-Q.5 a) What are the assumptions in Terzaghi’s one dimensional consolidation theory ?
-Explain the spring analogy of consolidation, with the help of neat sketches. (10)
-b) The following data refers to a compaction test as per IS light weight compaction test.
-(Volume of mould = 1000 cc)
-
-Observation no. 1 2 3 4 5 6
-‘Water content (%) 8.7 12.4 13.8 15.6 18.4 20.2
-Weight of wet soil (gms) | 1805 1950 | 2012 | 2064 | 2034 , 1992
-Plot compaction curve. Obtain MDD and OMC for the given soil sample. (10)
-Q.6 a) Derive relation for Mohr — Coulomb failure criterion, 61=03Ny + 2c JN, (05)
-b) Explain the procedure to find shear strength parameters of sandy soil using direct shear
-test. Draw typical graph. (05)
-c) Following results are the results of shear box test on a soil. Determine the shear strength
-parameters by plotting a graph. (10)
-Normal stress (kN/m?2) 25 75 150 250
-Shear stress (kN/m?) 60 80 105 140
-
-Would failure occur on a plane of this soil at a point where shear stress is
-120 kN/m? and effective normal stress is 220 kN/m??
-
-Q.7 a) Write detailed note on depth and spacing of bore holes. (05)
-b) What is pre-consolidated clay? How do you estimate pre-consolidation pressure in the
-laboratory? (05)
-
-c) In a consolidation test, the void ratio of clay sample decreases from 1.20 to 1.06 when
-pressure is increased from 1.0 kg/cm? to 2.0 kg/cm?. Calculate the coefficient of
-consolidation in m?/year, given coefficient of permeability of soil during pressure
-increment is 9.6 x 10° cm/sec. (10)
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 30f8833c5e8a
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 05/12/2015
-- Text: ocr (2 pages), mean OCR confidence 94.2
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (Civil) Year: II Semester: V
-Batch: 2013-2014
-
-Academic Year: 2015-2016 pe
-
-Subject: Geotechnical Engineering-I
-
-Date: 05/12/2015 Time
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question paper
-and on the cover of the Answer Book, which is provided for their use.
-
-NB:
-
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Take yw = 9.81 KN/m} if not specified.
-
-8) Assume suitable data and mention it clearly, if not given.
-
-Q. 1) Answer ANY FOUR of the following: (20)
-a) Describe ‘Transported Soils’ with its different types.
-b) Explain the ‘A’-line chart and its use.
-c) Explain Darcy's Law and state the uses of permeability in civil engineering.
-d) Explain the difference between Standard and Modified Proctor Test.
-e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters
-by drawing a typical graph indicating the relationship between these parameters.
-
-Q. 2) a) Describe in detail the procedure of ‘Plastic Limit Test’. (10)
-b) An undisturbed soil sample has mass of 1835 g and volume of 1000c.c. After drying in an
-oven its mass is 1632 g. Find its bulk density, dry density, water content, void ratio,
-
-porosity and degree of saturation. Take G.= 2.68 (10)
-Q. 3) a) Explain 'Effective and Neutral Stress! with neat sketches. Also explain 'Critical Hydraulic
-Gradient’ with neat sketches. (10)
-
-b) Ina falling head permeameter test the initial head (t=0 minutes) is 40 cm. The head drops
-by 5 cm in 10 minutes. Calculate the time required to run the test for the final head to be
-at 20 cm. If the sample is 6 cm in height and 50 cm? in cross-sectional area, calculate the
-
-coefficient of permeability, taking area of stand pipe = 0.5 cm?. (10)
-Q. 4) a) Explain hydrometer analysis with neat sketches. (10)
-b) Derive the Laplace's Equation for Seepage Flow through Homogeneous Soils. (10)
-
-Page 1 of 2
---- page 2 ---
-Q. 5) a) Explain in detail the procedure of ‘Standard Proctor Test’. (10)
-b) Two clay specimens ‘A’ and ‘B’, of thickness 2 cm and 3 cm, have equilibrium void
-ratios 0.68 and 0.72 respectively under a pressure of 200 kN/ m’. If the equilibrium void
-
-ratios of the two soils reduced to 0.50 and 0.62 respectively, when the pressure was
-increased to 400 kN/ m’, find the ratio of the coefficient of permeability of the two
-specimens. The time required by specimen ‘A’ to reach 40 percent degree of
-consolidation is % of that required by specimen ‘B’ for reaching 40 percent degree of
-
-consolidation. (10)
-
-Q. 6) a) State the complete procedure to find out the shear strength parameters by ‘Tri-axial Shear
-Test’ Also draw the sketch of test set up and name all the components. (10)
-
-b) Explain the Wash Boring Method in detail with a neat sketch of test set up naming all the
-components. (10)
-
-Q. 7) Explain ANY FOUR of the following:- (20)
-
-a) Sand Replacement method for finding field density of soil
-b) Relation between Seepage and Discharge velocity
-
-c) Use of Grain size Distribution Curve
-
-d) Log of Time Fitting Method for determination of Cy.
-
-e) Objectives of Geotechnical Investigations
-
-28 2K ok ok ok
-
-Page 2 of 2
-
-aa
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 02b1524bc579
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING I BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 June 2016
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS hs Cs
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & anf y,
-; ( MPSTME -
-
-Programme: B.Tech (Civil) Year: III Semester: V A IBRARY A
-.
-I Jea*
-Academic Year: 2015-16 ‘ Sar OA
-Batch: 2013-14 Marks: 100
-Subject: Geotechnical Engineering-I Time: 2.00 pm - 5.00 pm
-Date: 14 June 2016 Durations: 3 (hrs)
-
-Re-Examination
-
-Instruction: Candidates should read carefully the instructions printed on the question
-paper and on the cover of the Answer Book, which is provided for their use.
-
-NB: =
-1) Question No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any FOUR questions.
-
-3) In all FIVE questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-
-7) Take Yw = 9.81 KN/m? if not specified.
-
-8) Assume suitable data and mention it clearly , if not given.
-
-Q. 1) Answer ANY FOUR of the following: (20)
-
-a) Describe ‘Residual Soils’ with its different zones and their applications.
-
-b) Explain procedure of ‘Sieve Analysis’.
-
-c) Explain the Concepts of Discharge and Seepage Velocity and derive the relationship
-between them.
-
-d) Explain use of ‘Proctor Needle’ with a proper sketch.
-
-e) Explain ‘Coulomb’s Equation for Shear Strength’ along with shear strength parameters
-by drawing a typical graph indicating the relationship between these parameters.
-
-Q. 2) a) Describe the procedure of ‘Plastic Limit Test’ with a neat sketch. (10)
-b) A soil sample had a mass of 190 g and a volume of 100 c.c. in its natural condition.
-| After drying the mass of soil was 160g. Determine the moisture content, void ratio, dry
-density, saturated density, and degree of saturation. Take G=2.68. (10)
-penn Q. 3) a) Explain ‘Effective and Neutral Stress' with neat sketches. Also explain ‘Critical
-
-Hydraulic Gradient! with neat sketches. (10)
-
-Page 1 of 2
---- page 2 ---
-b) Calculate coefficient of permeability of a soil sample, 6cm in height and 50cm’ in cross-
-sectional area, if a quantity of water equal to 430ml is passed down in 10minutes, under
-an effective constant head of 40cm.
-
-On oven drying, the test specimen has mass of 498g. Calculate the seepage velocity of
-water during the test. Take G,= 2.65 (10)
-
-Q. 4) a) Explain IS Soil Classification in detail for coarse and fine soils. Also explain the 'A'-line
-
-Chart. (10)
-b) State the applications of Flow Net and describe state the step by step procedure of
-drawing a Flow Net by graphical method. (10)
-
-Q. 5) a) Explain the laboratory consolidation test procedure with a neat sketch of test set up
-naming the components. (10)
-b) A laboratory compaction test on soil having specific gravity equal to 2.68 gave a
-maximum dry density of 1.82 g/cm? and a water content of 17 per cent. Determine the
-degree of saturation, air content and percentage air voids at the maximum dry density.
-What would be theoretical maximum dry density corresponding to zero air voids at the
-
-optimum water content? (10)
-Q. 6) a) State the complete procedure to find out the shear strength parameters by ‘Tri-axial
-Shear Test’. Also draw the sketch of test set up and name all the components. (10)
-b) Explain the Rotary Drilling Method used for geotechnical investigations in detail with a
-neat sketch of test set up naming all the components. | (i0)
-Q. 7) Explain ANY FOUR of the following:- (20)
-
-a) True and Apparent Specific Gravity
-
-b) Factors affecting permeability
-
-c) Corrections in Hydrometer Method of Sedimentation Analysis
-d) Logarithm of Time Fitting Method for determination of Cy.
-
-e) Objectives of Geotechnical Investigations
-
-ae 2 2k 2 ok
-
-Page 2 of 2
-````
-
-## 2013-14 · Re-Exam · Sem 5 · paper 7781f1f70e37
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING-I B TECH (CIVIL), BATCH 2013-14 RE EXAM.pdf`
-- Printed on paper: exam date: 06/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.0
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme: B. Tech (CIVIL) Year: Ill Semester: V
-Batch: 2013-2014
-Academic Year: 2014-2015
-Subject: Geotechnical Engineering-I
-Marks:
-Date: 06/12/2014 Time:
-Durations:
-
-Re-Examination
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and
-on the cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. | is compulsory.
-2. Out of remaining question, attempt any 4 questions.
-3. Inall 5 questions to attempted.
-4. All questions carry equal marks.
-5. Answer to each new question to be started on a fresh page.
-
-Q.1) | Solve Any Four; ; 20
-
-a) What is meant by weathering? Describe its agents, process and effects on the 05
-rocks. .
-
-b) What is soil-phase diagram? Explain its use, 05
-
-c) Explain the spring analogy for mechanism of consolidation of soil? Also define 05
-the under consolidated soil and over consolidated soil. .
-
-d) What do you understand by the consistency limits? What are the uses of 05
-consistency limits? ;
-
-e) State and prove Darcy’s law?Discuss the assumptions and limitations. 05"
-
-Q.2) | Solve . 20
-
-a) A fully saturated soil sample has a water content of w= 25%and unit weight y=20 | 10
-kKN/m’. Calculate the following:
-a. Dry unit weightya
-b. Specific gravity G
-c. Void ratio e
-
-d. Porosityy
-e. Unit weight when S=50% _useyy=10kN/m*
-b) What are the various types of soil classification system? Describe any one in 10
-detail.
-Q.3) | Solve 20
-a) Demonstrate the quick sand condition with a neat sketch and derive the 10
-expression for critical hydraulic gradient. '
-b) Derive the Laplace equation for the construction of flow net. : 10
-
-foe
---- page 2 ---
-Q.4) | Solve 20
-
-a) Discuss various factors affecting the compaction of soil. What is compaction] 10
-curve?
-
-b) Derive an expression for determining permeability of soil by falling head 10
-permeameter.
-
-Q.5) | Solve 20
-a) The following results were obtained at failure in series of triaxial compression 10
-tests, on specimens of clay. Determine the values of shear strength parameters c
-
-and @ either by drawing the Mohr circles or analytically.
-Confining Pressure (63), kPa | 150 | 300 | 450
-Deviator Stress (cd) ,.kPa 192 | 341 | 504
-b) Explain the Mohr-Coulomb strength envelope. Sketch the stress-strain 10
-relationshipfor dense and loose sand.
-Q.6) | Solve 20
-a) What is the effect of surcharge and the capillary action on the effective stress? 10
-b) Determine the total and effective stresses at the bottom of each layer if the water | 10
-tabie is present at the depth of 3 m from tie ground surface. Soil properties are
-given as follows: (use 1 g/cc = 10 kKN/m
-Depth below ground surface | Density(g/cc)
-0-3 m 1.6
-3-6 m 1.9
-6-8.5m 1.70
-8.5-9.5m 1.80
-9.5-11.5m 1.85
-Q.7) | Solve any Four 20
-a) What are the advantages and disadvantages of triaxial compression test over 05
-direct shear test? Explain. :
-b) Write a note on (i) zero air void line (ii) degree of compaction (iii) OMC and 05
-MDD and (iv) uses of compaction of soil.
-c) '_|.What are the various methods of boring in soil exploration? 05
-d) Explain the determination of coefficient of consolidation (C,) by Square root of 05
-timefitting method?
-e) Explain the sand replacement method of determining the unit weight of soil. 05
-
-—— —X
-````
-
 ## 2013-14 · Re-Exam · Sem 5 · paper b5d34054e912
 
 - Departments: Civil
@@ -6175,326 +6485,4 @@ Write a short note on hydrometer analysis of soil.
 (05)
 
 (05)
-````
-
-## Year not stated · Final-Exam · Sem 5 · paper 790de59df44f
-
-- Departments: Civil
-- Programmes: B TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/GEOTECHNICAL ENGINEERING-I B TECH (CIVIL) SEM V FINAL EXAM.pdf`
-- Printed on paper: max marks: 100; exam date: 06/12/2014
-- Text: ocr (2 pages), mean OCR confidence 92.4
-
-````text
-SVKM’s NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
-Programme:B. Tech (CIVIL) Year: III Semester: V
-
-Academic Year: 2014-2015
-
-ogame oF py,
-Subject : Geotechnical Engineering - I or nN Ata
-Marks: 100 2
-
-Date : 06/12/2014 Time : 2.00 ‘Ce
-
-Durations: 8 ey
-
-Final-Examination ‘et
-
-ar “ae
-Instruction: Candidates should read carefully the instructions printed on the question paper and on the
-cover of the Answer Book, which is provided for their use.
-
-NB:
-1. Question No. 1 is compulsory.
-2. Out of remaining questions, attempt any four questions.
-3. All questions carry equal marks.
-4. Answer to each new question to be started on a fresh page.
-5. Figures in brackets on the right hand side indicate full marks.
-6. Assume suitable additional data, if necessary and mention it clearly.
-
-Ql. Attempt any four of the following:
-a) Derive the equation for constant head permeability test. Also draw a neat sketch. (05)
-b) Explain the log of time fitting method to determine the coefficient of consolidation (05)
-by drawing a typical graph.
-c) Represent a partially saturated soil mass as a three phase system. Define void (05)
-ratio, porosity, water content and degree of saturation.
-
-d) What is a flow net? Explain its characteristics with a neat sketch (05)
-e) Describe the vane shear test in detail. (05)
-Q2. a) Classify the following soils as per IS 1498-1970 and state their symbol (05)
-Soil | LL (%) PL (%) % passing 75
-A 80 20 100
-B 42 31 60
-
-b) An oven dry sample of volume 220 cc weighs 380 grams. If the specific gravity of (05)
-the grains is 2.7, determine void ratio, shrinkage limit and bulk density at shrinkage
-limit.
-
-c) Explain in detail the core cutter method of determining the density of in-situ soil (10)
-
-Q3. a) The water table in a 9 m thick silty sand deposit lies at a depth of 3.5 m below ground (10)
-surface. The entire soil above the water table is saturated by capillary water and has a
-saturated unit weight of 18.5 kN/m’. Plot the variation of total, effective and neutral
-stresses with depth.
-
-b) Describe the Standard Penetration test in detail. State its uses. What are the (10)
-corrections applied to the N-value as per IS 2131?
-
-Page 1 of 2
-
-13
---- page 2 ---
-Q4.
-
-Q5
-
-Q6.
-
-Q7.
-
-a)
-
-b)
-
-c)
-
-a)
-
-b)
-
-a)
-b)
-
-c)
-
-a)
-b)
-c)
-
-d)
-
-500 cc of discharge was collected in 15 min during a constant head permeability test
-in the lab. If the head causing flow is 40 cm, sample diameter is 5 cm and length is 15
-cm, calculate the coefficient of permeability. Also calculate the seepage velocity if
-dry weight of the sample was 480 grams and specific gravity of the soil particles was
-2.65.
-A falling head permeability test was conducted on a soil sample. Head causing flow
-was initially 60cm and it dropped to 30cm in 69sec. What time will be required for
-the head to drop to 3cm?
-Explain how the following factors affect the permeability of soil
-
-e Void ratio
-
-e Degree of saturation
-
-e Grain size
-
-e Permeant fluid
-
-e Presence of foreign matter
-
-A soil sample failed under a major principal stress of 300 kN/m? with a
-corresponding minor principal stress of 100 kN/m?. A second test on the same soil
-was conducted at a minor principal stress of 200 kN/m’. Determine the major
-principal stress for the following cases and draw the Mohr’s circle:
-
-e@ $=28°,c=0
-
-© b=0°
-In an unconfined compression test, a sample having a diameter of 38 mm and length
-of 76 mm failed under a load of 1.23 KN at 10% axial strain. Determine the shearing
-resistance taking into consideration the change in cross section of the sample and
-draw Mohr’s circle.
-
-State the assumptions in Terzaghi’s one dimensional theory of consolidation.
-
-Explain with neat sketches the spring analogy for Terzaghi’s one dimensional theory
-of consolidation
-
-An undisturbed sample was taken from a 10 m thick layer of clay at a site. The
-sample was 2 cm thick and was tested in the lab with double drainage conditions. It
-was found that 50% consolidation was complete in 25 mins. Find the time required
-for the clay at the site to reach 50% and 90% consolidation if it has sand layers above
-and below it.
-
-Differentiate between Standard Proctor Test and Modified Proctor test
-Differentiate between compaction and consolidation
-Why is it necessary to perform soil exploration at a proposed construction site?
-Explain.
-Explain the following terms briefly:
-(i) Flow index (ii) Degree of saturation (iii) Capillarity in soils
-(iv) pore water pressure (v) coefficient of consolidation.
-
-RK
-
-Page 2 of 2
-
-(05)
-
-(05)
-
-(10)
-
-(10)
-
-(10)
-
-(05)
-(05)
-
-(10)
-
-(05)
-(05)
-(05)
-
-(05)
-````
-
-## Year not stated · Re-Exam · Sem 5 · paper ec95f87f0c05
-
-- Departments: Civil
-- Programmes: MBA TECH / CIVIL
-- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical engineering -I Re-exam 17-18-19.pdf`
-- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 January 2019
-- Text: ocr (3 pages), mean OCR confidence 91.5
-
-````text
-SVKM’S NMIMS
-MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
-
--. Program: B.Tech/ MBA Tech (Civil) _ Year: TI Semester : V
-Academic Year: 2018-19
-
-Subject: Geotechnical Engineering-I Marks: 70
-
-Time: 2.00 pm to 5.00 pm
-
-Date: 17 January 2019
-Date : 17 January Durations:3 (hrs)
-
-No. of Pages:__ OD
-Re-examination (2017-18/ 2018-19)
-
-Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
-of the Answer Book, which is provided for their use.
-
-1) Question'No. 1 is compulsory.
-
-2) Out of remaining questions, attempt any 4 questions.
-
-3) In all 5 questions to be attempted.
-
-4) All questions carry equal marks.
-
-5) Answer to each new question to be started on a fresh page.
-
-6) Figures in brackets on the right hand side indicate full marks.
-7) Assume suitable data if necessary.
-
-Ql a Attempt any three- ; 12
-i, Explain soil as a three phase system
-ii. Explain Constant head permeability test
-iii. Write properties of flow net
-iv. Differentiate between compaction and consolidation
-b Explain sand bath method 02
-
-Q2 a. A core cutter 12.6 cm in height and 10.2 cm in diameter weighs 1071 gm when empty. It is 07
-used to determine the in-situ unit weight of an embankment. The weight of the cutter full of
-soil is 2970 gm. If the water content is 6%. What are the dry density and porosity? if the
-embankment gets fully saturated due to heavy rains what will be the increase in water
-content and bulk unit weight, if no volume change occurs? The specific gravity of soil
-solids is 2.69
-
-b. Explain sand replacement method in detail. 07
-
-Page 1 of 3
---- page 2 ---
-Q3
-
-Q4
-
-Q5
-
-Explain Unified soil classification system in detail
-
-Compute the total, effective and pore pressure at a depth of 20 m below the bottom of lake
-6 m deep. The bottom of lake consist of soft clay with a thickness of more than 20 m. the
-average water content of clay is 35% and the specific gravity of the soil may be assumed to
-be 2.65
-
-A soil sample of height 6 cm and area of cross section of 100 cm’ was subjected to falling
-
-‘head permeability test. In time interval of 5 minutes, the head dropped from 60 cm to 20
-
-cm. if the cross sectional area of the stand pipe is 2 cm’ compute the coefficient of
-permeability of the soil sample. If the same sample is subjected to a constant head of 18 cm,
-
-calculate the total quantity of water that will be collected after flowing through a sample.
-Explain factors affecting compaction in detail
-
-Fig. shows a soil profile consisting of two layers of clay, two layers of sand, all of which
-are completely submerged. Compute the total settlement under a uniform load of
-
-120kN/m’, well distributed over a large area. Given the following properties:
-Sand layers : saturated density= 20.86 kN/m?
-Clay layers: w =38% , Cc =0.26 , G=2.72
-
-\20 ex) m>-
-
-vob ob J $v J yb
-Seunel hm
-
-Chey ti
-
-Sand | oO”
-
-via)
-
-06
-08
-
-07
-
-07
-
-08
-
-x /\ /K* 7x 7~ Page 2 of 3
---- page 3 ---
-b The following are the results of a compaction test 06
-Mass of mould + wet soil (g) | 3025 | 3195 | 3250 | 3225 | 3170
-Water content (%) 11 13 15.3 | 17.1 | 19.2
-
-Volume of mould =1100 ml, mass of mould = 1000 g, Specific gravity of solid= 2.70
-i) Draw the compaction curve showing the optimum moisture content and maximum dry
-density,
-
-ii) Determine the degree of saturation at the maximum dry density.
-
-Q6. a Following are the results of undrained triaxial compression test on two identical soil 08
-
-specimens at failure:
-
-Lateral pressure (kN/m’) 100 | 150 | 200
-
-Total stress at failure (KN/m2) | 540 | 680 | 810
-
-Pore water pressure(kN/m’) |10 | 12 | 18
-
-Determine the value of the effective angle of shearing resistance and the cohesion intercept
-
-by plotting (a). conventional failure envelope from Mohr’s circle (b) modified failure
-
-envelope
-b Explain unconfined compression test 06
-Qi a Explain . 12
-i. Depth of exploration
-ii. Standard penetration test
-b Define : Area ratio, Inside clearance 02
-
-Page 3 of 3
 ````

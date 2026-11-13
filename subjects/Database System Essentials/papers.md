@@ -188,6 +188,7 @@ order of salary.
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/IT/Database System Essentials/Database System Essentials Batch 2024-25,2025-26 Re Exam.pdf`
 - Printed on paper: max marks: 100; exam date: 06 July 2026
 - Text: ocr (5 pages), mean OCR confidence 85.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 "Date : 06 July 2026
@@ -356,7 +357,6 @@ member idjfirst_namelast_name| |author_idjauthor name
 - — =e 2 J.K. Rowling
 3 Riva Mehta ™ =
 4 Karan Singh 3 Dan Brown
-5 Priva Tait 4 Paulo Coelho
 Q7
 CO-3; SO-2; book borrow [10]
 BL-3 book id title category |author id| |member_id|book_idjissue_date

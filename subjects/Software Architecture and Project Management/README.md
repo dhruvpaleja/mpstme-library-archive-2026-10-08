@@ -1,6 +1,6 @@
 # Software Architecture and Project Management
 
-**3** unique papers (4 copies across programmes) · 2006-07 to 2009-10 · 1 programme · Trim 3
+**2** unique papers (3 copies across programmes) · 2006-07 to 2008-09 · 1 programme · Trim 3
 
 Download only this subject, sorted by academic year:
 
@@ -14,7 +14,6 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| 2009-10 | Re-Exam | Question paper | Trim 3 | M TECH / COMPUTER | Software Architecture & Project Management Batch 2009-2010 Re Exam.pdf |
 | 2008-09 | Final-Exam | Question paper | Trim 3 | M TECH / COMPUTER | Software Architecture & Project Management 2008-2009 Final.pdf |
 | 2006-07 | Final-Exam | Question paper | Trim 3 | M TECH / COMPUTER | Software Architecture & Project Management 2006-2007 Final.pdf |
 
